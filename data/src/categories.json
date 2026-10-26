@@ -1,0 +1,12 @@
+[
+  { "id": "auto",      "name": "汽车",       "en": "Automobile",         "icon": "car",      "h": 10,  "s": 45, "desc": "从超跑到国民车,读懂路上每一个车标" },
+  { "id": "fashion",   "name": "时装皮具",   "en": "Fashion & Leather",  "icon": "dress",    "h": 42,  "s": 35, "desc": "高级时装屋与皮具世家,奢侈的第一张面孔" },
+  { "id": "watchjewel","name": "腕表珠宝",   "en": "Watches & Jewelry",  "icon": "watch",    "h": 168, "s": 32, "desc": "机芯、钻石与时间本身,瑞士与全世界的珍宝" },
+  { "id": "beauty",    "name": "美妆香氛",   "en": "Beauty & Fragrance", "icon": "flame",    "h": 344, "s": 45, "desc": "护肤、彩妆与香水,闻得到的精致" },
+  { "id": "sports",    "name": "运动户外",   "en": "Sports & Outdoor",   "icon": "run",      "h": 212, "s": 45, "desc": "跑鞋、冲锋衣与球场,肌肉和山野都知道" },
+  { "id": "apparel",   "name": "潮流服饰",   "en": "Street & Apparel",   "icon": "dress",    "h": 278, "s": 26, "desc": "快时尚、潮牌与日常穿着,衣柜里的主力军" },
+  { "id": "food",      "name": "食品零食",   "en": "Food & Snacks",      "icon": "store",    "h": 30,  "s": 55, "desc": "超市货架上的世界地图" },
+  { "id": "drinks",    "name": "酒饮咖啡",   "en": "Drinks & Coffee",    "icon": "store",    "h": 202, "s": 30, "desc": "咖啡、茶与酒,液体里的讲究" },
+  { "id": "tech",      "name": "消费电子",   "en": "Consumer Tech",      "icon": "building", "h": 226, "s": 40, "desc": "手机、相机与极客装备,数码时代的基础设施" },
+  { "id": "home",      "name": "家居家电",   "en": "Home & Appliance",   "icon": "gem",      "h": 122, "s": 26, "desc": "把日子过好的每一件家电与家具" }
+]

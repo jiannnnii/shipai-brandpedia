@@ -1,0 +1,20 @@
+{
+  "name": "shipai-brandpedia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "识牌 · 只属于一个人的品牌百科",
+  "type": "module",
+  "scripts": {
+    "serve": "node tools/serve.mjs",
+    "data": "node tools/build-data.mjs",
+    "www": "node tools/copy-web.mjs",
+    "sync": "npm run www && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.4"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/cli": "^7.4.4"
+  }
+}
