@@ -1,0 +1,331 @@
+{
+  "brands": [
+    {
+      "id": "tiffany", "name": "蒂芙尼", "nameEn": "Tiffany & Co.", "domain": "tiffany.com",
+      "categoryId": "watchjewel", "country": "美国", "founded": 1837, "hq": "纽约",
+      "tier": "顶奢", "tags": ["蒂芙尼蓝", "订婚戒", "纽约"], "slogan": "Return to Tiffany",
+      "desc": "美国珠宝之王,蒂芙尼蓝礼盒是全球最有辨识度的颜色资产,六爪镶嵌订婚戒的发明者。",
+      "story": "1837年查尔斯·路易斯·蒂芙尼在纽约百老汇开出文具杂货铺,后来成为\"钻石之王\":1878年买下世界最大黄钻之一蒂芙尼黄钻,1886年发明六爪镶嵌 setting,让钻戒从此有了标准答案。\n如今隶属LVMH,第五大道旗舰店《蒂芙尼的早餐》取景地。经典T系列、钥匙系列与微笑系列是当代销量担当。",
+      "products": [
+        { "id": "tiffany-setting", "name": "六爪订婚钻戒", "nameEn": "The Tiffany Setting", "type": "订婚戒指", "price": { "min": 60000, "max": 2000000, "label": "官网参考价" }, "desc": "1886年发明,六爪把钻石高高托起,是世界最著名的求婚戒指形制。", "highlights": ["六爪镶嵌", "1886原创"], "tags": ["婚嫁"] },
+        { "id": "tiffany-tseries", "name": "T 系列", "nameEn": "Tiffany T", "type": "首饰", "price": { "min": 12000, "max": 150000, "label": "官网参考价" }, "desc": "极简字母T手镯与戒指,纽约摩登气质,当代入门首选。", "highlights": ["极简T字", "叠戴利器"], "tags": ["日常"] },
+        { "id": "tiffany-keys", "name": "钥匙系列", "nameEn": "Tiffany Keys", "type": "项链", "price": { "min": 15000, "max": 200000, "label": "官网参考价" }, "desc": "把钥匙做成吊坠,开启人生新篇章的隐喻,曾经的销量神话。", "highlights": ["钥匙吊坠", "寓意出彩"], "tags": ["项链"] },
+        { "id": "tiffany-smile", "name": "微笑项链", "nameEn": "T Smile", "type": "项链", "price": { "min": 12000, "max": 80000, "label": "官网参考价" }, "desc": "一条微笑弧线的锁骨链,最畅销的蒂芙尼入门单品。", "highlights": ["微笑弧线", "锁骨链"], "tags": ["项链"] },
+        { "id": "tiffany-return", "name": "Return to Tiffany", "nameEn": "Return to Tiffany", "type": "首饰", "price": { "min": 4000, "max": 80000, "label": "官网参考价" }, "desc": "刻着\"请归还蒂芙尼\"的铭牌系列,源自丢失吊牌的故事,年轻线经典。", "highlights": ["铭牌设计", "故事动人"], "tags": ["入门"] }
+      ]
+    },
+    {
+      "id": "bvlgari", "name": "宝格丽", "nameEn": "BVLGARI", "domain": "bvlgari.com",
+      "categoryId": "watchjewel", "country": "意大利", "founded": 1884, "hq": "罗马",
+      "tier": "顶奢", "tags": ["彩色宝石", "罗马", "蛇形"], "slogan": "Live the Roman Wonder",
+      "desc": "罗马出身的希腊裔珠宝世家,彩色宝石组合大胆浓烈,Serpenti 蛇形是品牌灵魂图腾。",
+      "story": "1884年希腊银匠索蒂里奥·宝格丽在罗马开店,打破法式珠宝的柔美传统,用大颗彩色宝石与对称几何开创\"意式浓烈\"。二十世纪中叶成为巨星名流罗马假日里的标配。\nSerpenti 蛇形手镯表从1940年代延续至今,B.zero1 弹簧戒则是当代婚嫁新宠;腕表业务以 Octo Finissimo 超薄屡破纪录。",
+      "products": [
+        { "id": "bvlgari-serpenti", "name": "Serpenti 蛇形", "nameEn": "Serpenti", "type": "珠宝腕表", "price": { "min": 150000, "max": 3000000, "label": "官网参考价" }, "desc": "缠绕手腕的灵蛇珐琅鳞片,珠宝与腕表的合体,红毯上最摄人的存在。", "highlights": ["蛇形缠绕", "珐琅鳞片"], "tags": ["珠宝"] },
+        { "id": "bvlgari-bzero1", "name": "B.zero1 戒指", "nameEn": "B.zero1", "type": "戒指", "price": { "min": 15000, "max": 100000, "label": "官网参考价" }, "desc": "1999年问世的弹簧螺旋戒指,婚嫁与情侣对戒的当代热门。", "highlights": ["螺旋造型", "对戒热门"], "tags": ["婚嫁"] },
+        { "id": "bvlgari-diva", "name": "Diva's Dream", "nameEn": "Diva's Dream", "type": "首饰", "price": { "min": 20000, "max": 200000, "label": "官网参考价" }, "desc": "扇形马赛克图案源自卡拉卡拉浴场,罗马美学的女性化表达。", "highlights": ["扇形图案", "罗马灵感"], "tags": ["项链"] },
+        { "id": "bvlgari-octo", "name": "Octo Finissimo", "nameEn": "Octo Finissimo", "type": "超薄腕表", "price": { "min": 100000, "max": 500000, "label": "公价" }, "desc": "110面切面表壳+屡破世界超薄纪录,男表里的工程艺术品。", "highlights": ["超薄纪录", "110切面"], "tags": ["男表"] },
+        { "id": "bvlgari-bvlgari", "name": "Bvlgari Bvlgari", "nameEn": "Bvlgari Bvlgari", "type": "首饰", "price": { "min": 15000, "max": 120000, "label": "官网参考价" }, "desc": "双环 logo 刻字圈,1970年代罗马店面招牌的衍生经典。", "highlights": ["双环logo", "1970经典"], "tags": ["日常"] }
+      ]
+    },
+    {
+      "id": "vca", "name": "梵克雅宝", "nameEn": "Van Cleef & Arpels", "domain": "vancleefarpels.com",
+      "categoryId": "watchjewel", "country": "法国", "founded": 1896, "hq": "巴黎",
+      "tier": "顶奢", "tags": ["四叶草", "隐密镶嵌", "诗意"], "slogan": "The Poetry of Time",
+      "desc": "阿尔弗莱德·梵克与艾斯特尔·雅宝因爱联姻诞生的珠宝行,四叶草 Alhambra 是全球最想被送的首饰。",
+      "story": "1896年,珠宝商之子与宝石商之女在巴黎成婚,两家姓氏合成 Van Cleef & Arpels。1933年发明的隐密式镶嵌让宝石不见金属底座,成为独门绝技。1968年推出的 Alhambra 四叶草,如今是幸运的通用符号。\n品牌以诗意为主题:芭蕾舞者、仙子、花园与星空,高级珠宝系列年年限量,故事感拉满。",
+      "products": [
+        { "id": "vca-alhambra", "name": "Alhambra 四叶草", "nameEn": "Alhambra", "type": "项链", "price": { "min": 22000, "max": 300000, "label": "官网参考价" }, "desc": "1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。", "highlights": ["幸运符号", "金珠边工艺"], "tags": ["经典"] },
+        { "id": "vca-frivole", "name": "Frivole", "nameEn": "Frivole", "type": "首饰", "price": { "min": 30000, "max": 300000, "label": "官网参考价" }, "desc": "八瓣花瓣镶钻如晨露绽放,近年最热的新系列。", "highlights": ["花瓣镶钻", "轻盈立体"], "tags": ["项链"] },
+        { "id": "vca-perlee", "name": "Perlé金珠", "nameEn": "Perpée", "type": "首饰", "price": { "min": 18000, "max": 150000, "label": "官网参考价" }, "desc": "一颗颗金珠串起的低调系列,叠戴入门的优雅答案。", "highlights": ["金珠工艺", "叠戴"], "tags": ["日常"] },
+        { "id": "vca-ballerina", "name": "芭蕾舞者", "nameEn": "Ballerina", "type": "胸针", "price": { "min": 100000, "max": 5000000, "label": "官网参考价" }, "desc": "1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。", "highlights": ["舞者造型", "收藏级"], "tags": ["高级珠宝"] }
+      ]
+    },
+    {
+      "id": "harrywinston", "name": "海瑞·温斯顿", "nameEn": "Harry Winston", "domain": "harrywinston.com",
+      "categoryId": "watchjewel", "country": "美国", "founded": 1932, "hq": "纽约",
+      "tier": "顶奢", "tags": ["钻石之王", "簇镶", "红毯之王"], "slogan": "Kings of Diamonds",
+      "desc": "\"钻石之王\":不做设计做克拉,簇镶工艺让钻石看起来像悬浮在皮肤上。",
+      "story": "1932年海瑞·温斯顿在纽约创立品牌,他一生经手过希望之钻、琼格尔之钻等传奇大钻,把宝石本身而非金属框当作主角。发明的簇镶(Halo Cluster)以极少的金属托住满钻,火彩像从皮肤里长出来。\n品牌长期霸榜红毯钻饰曝光,如今隶属Swatch集团,高级珠宝与 Hope 钻同台陈列于第五大道。",
+      "products": [
+        { "id": "harrywinston-cluster", "name": "Winston Cluster", "nameEn": "Winston Cluster", "type": "首饰", "price": { "min": 100000, "max": 5000000, "label": "官网参考价" }, "desc": "品牌招牌簇镶:大小钻石错落成花,金属几乎隐形。", "highlights": ["簇镶工艺", "钻石之王"], "tags": ["高级珠宝"] },
+        { "id": "harrywinston-hope", "name": "Hope 钻石复刻", "nameEn": "Hope Diamond", "type": "高级珠宝", "price": { "min": 1000000, "max": 10000000, "label": "官网参考价" }, "desc": "45.52克拉传奇蓝钻的拥有者,品牌历史上最著名的一笔收藏。", "highlights": ["传奇蓝钻", "博物馆级"], "tags": ["传奇"] },
+        { "id": "harrywinston-opus", "name": "Opus 系列", "nameEn": "Opus", "type": "复杂功能表", "price": { "min": 3000000, "max": 20000000, "label": "公价" }, "desc": "每年与一位独立制表天才合作的实验性腕表,表圈最狂想的系列之一。", "highlights": ["天才合作", "限量孤品"], "tags": ["腕表"] },
+        { "id": "harrywinston-premier", "name": "Premier 女表", "nameEn": "Premier", "type": "女表", "price": { "min": 150000, "max": 1000000, "label": "公价" }, "desc": "好莱坞黄金时代的复古表壳,表侧镶钻是标配。", "highlights": ["复古表壳", "表侧镶钻"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "graff", "name": "格拉夫", "nameEn": "GRAFF", "domain": "graff.com",
+      "categoryId": "watchjewel", "country": "英国", "founded": 1960, "hq": "伦敦",
+      "tier": "顶奢", "tags": ["大克拉", "伦敦", "黄钻之王"], "slogan": "The most fabulous jewels in the world",
+      "desc": "伦敦起家的钻石狂人品牌,经手全球近三成已知大克拉名钻,黄钻尤其称王。",
+      "story": "1960年劳伦斯·格拉夫在伦敦创业,以买下传奇大钻闻名:Lesedi La Rona(1109克拉)、维特尔斯巴赫·格拉夫蓝钻……许多世界纪录成交都出自其手。品牌口号即野心:\"世界上最惊艳的珠宝\"。\n GRAFF 不追潮流,只做极致大石与 flawless 切工,门店开在全世界最贵的街区。",
+      "products": [
+        { "id": "graff-lesedi", "name": "Lesedi La Rona", "nameEn": "Lesedi La Rona", "type": "高级珠宝", "price": { "min": 50000000, "max": 80000000, "label": "成交价参考" }, "desc": "1109克拉史上第二大宝石级钻石,格拉夫买下后切割出的传世之作。", "highlights": ["1109克拉", "世界纪录"], "tags": ["传奇"] },
+        { "id": "graff-yellow", "name": "黄钻系列", "nameEn": "Yellow Diamond", "type": "高级珠宝", "price": { "min": 500000, "max": 20000000, "label": "官网参考价" }, "desc": "全球过半著名黄钻经手格拉夫,阳光般浓彩的顶级供应商。", "highlights": ["黄钻之王", "浓彩"], "tags": ["高级珠宝"] },
+        { "id": "graff-flames", "name": "Flames 系列", "nameEn": "Flames", "type": "首饰", "price": { "min": 100000, "max": 3000000, "label": "官网参考价" }, "desc": "渐变钻石如火焰升腾,以切工营造流动感的当代主打。", "highlights": ["渐变钻石", "流动感"], "tags": ["高级珠宝"] },
+        { "id": "graff-temptation", "name": "Twin_row 戒指", "nameEn": "Twin Row", "type": "戒指", "price": { "min": 100000, "max": 2000000, "label": "官网参考价" }, "desc": "双排密镶钻石戒指,婚嫁市场里的终极梦想款。", "highlights": ["双排密镶", "梦想婚戒"], "tags": ["婚嫁"] }
+      ]
+    },
+    {
+      "id": "chaumet", "name": "尚美巴黎", "nameEn": "CHAUMET", "domain": "chaumet.com",
+      "categoryId": "watchjewel", "country": "法国", "founded": 1780, "hq": "巴黎",
+      "tier": "顶奢", "tags": ["冠冕大师", "拿破仑御用", "约瑟芬"], "slogan": "The jeweller of feelings since 1780",
+      "desc": "拿破仑官方珠宝商,243年的\"冠冕大师\",约瑟芬皇后系列把帝国爱情写进钻石。",
+      "story": "1780年玛利-艾天·尼铎在巴黎做珠宝,1802年成为拿破仑官方珠宝匠,为约瑟芬皇后打造的冠冕与宝剑至今在卢浮宫可寻。品牌为欧洲十几个王室做过冠冕,\"A crown is the emblem of Chaumet\"。\n如今隶属LVMH, Joséphine 约瑟芬系列的冠冕形戒指是当代求婚的浪漫答案。",
+      "products": [
+        { "id": "chaumet-josephine", "name": "约瑟芬系列", "nameEn": "Joséphine", "type": "戒指", "price": { "min": 40000, "max": 2000000, "label": "官网参考价" }, "desc": "以皇后命名的冠冕形钻戒,\"把皇冠戴在手上\"的求婚名场面制造机。", "highlights": ["冠冕造型", "皇后命名"], "tags": ["婚嫁"] },
+        { "id": "chaumet-liens", "name": "Liens 缘系一生", "nameEn": "Liens", "type": "首饰", "price": { "min": 20000, "max": 200000, "label": "官网参考价" }, "desc": "一条金线穿过圆环,象征命运相连,对戒与手镯常年畅销。", "highlights": ["连结寓意", "对戒热门"], "tags": ["婚嫁"] },
+        { "id": "chaumet-beemylove", "name": "Bee My Love", "nameEn": "Bee My Love", "type": "首饰", "price": { "min": 15000, "max": 150000, "label": "官网参考价" }, "desc": "六边形蜂巢戒指可自由拼合,拿破仑蜜蜂纹章的年轻化演绎。", "highlights": ["蜂巢六边", "可叠拼"], "tags": ["日常"] },
+        { "id": "chaumet-classone", "name": "Class One", "nameEn": "Class One", "type": "腕表", "price": { "min": 50000, "max": 300000, "label": "公价" }, "desc": "1995年问世的钢带圆表,休闲珠宝表的早期代表。", "highlights": ["钢带圆表", "休闲珠宝"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "boucheron", "name": "宝诗龙", "nameEn": "Boucheron", "domain": "boucheron.com",
+      "categoryId": "watchjewel", "country": "法国", "founded": 1858, "hq": "巴黎",
+      "tier": "高奢", "tags": ["旺多姆广场", "问号项链", "自然主义"], "slogan": "Libre. Audacieuse. Créatrice.",
+      "desc": "首家入驻巴黎旺多姆广场的珠宝商,以自由精神著称,问号项链(Torse)解放了女性的锁骨。",
+      "story": "1858年菲德烈克·宝诗龙在皇家宫殿画廊开店,1889年他是第一位把电灯引进店铺的珠宝商。1893年入驻旺多姆广场26号,俯瞰广场的橱窗至今未换位置。问号项链无背链设计、纽约天然珍珠项链等都是珠宝史名场面。\n如今隶属开云集团,Quatre 四环与 animals 动物系列是当代icon,主张珠宝应自由不羁。",
+      "products": [
+        { "id": "boucheron-quatre", "name": "Quatre 四环", "nameEn": "Quatre", "type": "戒指", "price": { "min": 20000, "max": 200000, "label": "官网参考价" }, "desc": "四种金质纹路叠成四环,Clou de Paris 巴黎钉纹辨识度极高。", "highlights": ["四环叠纹", "巴黎钉纹"], "tags": ["日常"] },
+        { "id": "boucheron-torse", "name": "问号项链", "nameEn": "Torse", "type": "项链", "price": { "min": 200000, "max": 5000000, "label": "官网参考价" }, "desc": "1879年的革命设计:无背链贴颈而戴,晚装时代的自由宣言。", "highlights": ["问号造型", "无背链"], "tags": ["高级珠宝"] },
+        { "id": "boucheron-animals", "name": "动物系列", "nameEn": "Animaux", "type": "高级珠宝", "price": { "min": 100000, "max": 8000000, "label": "官网参考价" }, "desc": "猎豹、蜂鸟、大象……宝石拼出动物园,旺多姆最俏皮的名物。", "highlights": ["动物造型", "宝石拼嵌"], "tags": ["高级珠宝"] },
+        { "id": "boucheron-serpentboheme", "name": "Serpent Bohème", "nameEn": "Serpent Bohème", "type": "首饰", "price": { "min": 25000, "max": 300000, "label": "官网参考价" }, "desc": "1968年的水滴蛇头系列,低调复古,近年翻红的中生代经典。", "highlights": ["水滴蛇头", "1968经典"], "tags": ["日常"] }
+      ]
+    },
+    {
+      "id": "qeelin", "name": "麒麟珠宝", "nameEn": "Qeelin", "domain": "qeelin.com",
+      "categoryId": "watchjewel", "country": "中国香港", "founded": 2004, "hq": "香港",
+      "tier": "高奢", "tags": ["国风", "葫芦", "熊猫"], "slogan": "Luxury with a Chinese twist",
+      "desc": "2004年创立于香港的当代东方珠宝,葫芦、熊猫、如意把中国符号做成世界语言。",
+      "story": "设计师陈瑞麟在欧洲珠宝行业多年后回到香港,创立 Qeelin(谐音\"麒麟\"),把中华图腾做进高级珠宝:Wulu 葫芦系列一鸣惊人,成为国际明星红毯常客。2004年杨紫琼佩戴 Wulu 出席奥斯卡让品牌一夜成名。\n如今隶属开云集团,巴黎、纽约、上海门店齐开,\"最会讲中国故事的奢侈珠宝\"。",
+      "products": [
+        { "id": "qeelin-wulu", "name": "Wulu 葫芦", "nameEn": "Wulu", "type": "项链", "price": { "min": 20000, "max": 200000, "label": "官网参考价" }, "desc": "圆润葫芦镶钻,福禄双全的东方寓意,红毯出镜率最高的国风珠宝。", "highlights": ["葫芦造型", "福禄寓意"], "tags": ["国风"] },
+        { "id": "qeelin-bobo", "name": "Bo Bo 熊猫", "nameEn": "Bo Bo", "type": "首饰", "price": { "min": 25000, "max": 250000, "label": "官网参考价" }, "desc": "黑白钻石拼出熊猫,憨态可掬又有高级感,儿童节礼物天花板。", "highlights": ["熊猫造型", "黑白钻石"], "tags": ["国风"] },
+        { "id": "qeelin-ruyi", "name": "如意系列", "nameEn": "Ruyi", "type": "首饰", "price": { "min": 18000, "max": 180000, "label": "官网参考价" }, "desc": "如意云头曲线化作锁骨链与手镯,古典吉祥的现代化身。", "highlights": ["如意云头", "吉祥寓意"], "tags": ["国风"] },
+        { "id": "qeelin-linglong", "name": "Ling Long 玲珑", "nameEn": "Ling Long", "type": "首饰", "price": { "min": 15000, "max": 150000, "label": "官网参考价" }, "desc": "圆形窗棂镶钻,如月光洞窗,安静的东方浪漫。", "highlights": ["窗棂圆环", "月光意象"], "tags": ["日常"] }
+      ]
+    },
+    {
+      "id": "mikimoto", "name": "御木本", "nameEn": "MIKIMOTO", "domain": "mikimoto.com",
+      "categoryId": "watchjewel", "country": "日本", "founded": 1893, "hq": "东京",
+      "tier": "顶奢", "tags": ["珍珠之王", "养殖鼻祖", "日本"], "slogan": "The originator of cultured pearls",
+      "desc": "世界养殖珍珠之父御木本幸吉创立,一条项链要筛选上万颗珠,\"珍珠之王\"名副其实。",
+      "story": "1893年御木本幸吉在志摩半岛成功培育出世界第一批半球养殖珍珠,1905年实现球形珍珠量产,改写了整个珍珠行业。品牌标准严苛:每串项链用珠需从上万颗中选出,只有不足5%能成为 MIKIMOTO 珍珠。\n珍珠项链与\"第一颗珍珠\"胸针是传奇单品,日本皇室的御用珠宝,巴黎门店被称作\"珍珠宫\"。",
+      "products": [
+        { "id": "mikimoto-necklace", "name": "经典珍珠项链", "nameEn": "Classic Pearl Necklace", "type": "项链", "price": { "min": 30000, "max": 500000, "label": "官网参考价" }, "desc": "万中选五的 akoya 珍珠串链,珍珠审美的终极标准答案。", "highlights": ["万中选五", "akoya珠"], "tags": ["经典"] },
+        { "id": "mikimoto-firstpearl", "name": "第一颗珍珠", "nameEn": "First Pearl", "type": "项链", "price": { "min": 15000, "max": 80000, "label": "官网参考价" }, "desc": "单颗珍珠吊坠,入门御木本的仪式感之选。", "highlights": ["单珠吊坠", "入门经典"], "tags": ["日常"] },
+        { "id": "mikimoto-pearlinmotion", "name": "Pearl in Motion", "nameEn": "Pearl in Motion", "type": "首饰", "price": { "min": 30000, "max": 300000, "label": "官网参考价" }, "desc": "珍珠与钻石共舞的当代系列,年轻化不老气。", "highlights": ["珠钻共舞", "年轻化"], "tags": ["日常"] },
+        { "id": "mikimoto-jewelrywatch", "name": "珍珠珠宝表", "nameEn": "Jewelry Watch", "type": "女表", "price": { "min": 80000, "max": 800000, "label": "公价" }, "desc": "珍珠母贝表盘+钻石刻度,把海洋的光戴在手腕上。", "highlights": ["贝母表盘", "钻石刻度"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "tasaki", "name": "塔思琦", "nameEn": "TASAKI", "domain": "tasaki.com",
+      "categoryId": "watchjewel", "country": "日本", "founded": 1954, "hq": "神户",
+      "tier": "高奢", "tags": ["balance", "珍珠", "当代设计"], "slogan": "Jewelry from Japan",
+      "desc": "神户出身的珍珠世家,用建筑感线条打破珍珠的古典印象,balance 系列是珍珠界的当代艺术。",
+      "story": "1954年田崎龙吉在神户创立,从珍珠养殖到零售全链经营。2000年代起启用年轻设计师,以 balance 系列(珍珠与黄金的几何对话)惊艳世界,成为珍珠品类里最\"不奶奶\"的品牌。\n还手握日本唯一 royale 珍珠与海水无核 keshi,是懂行玩家的高级选项。",
+      "products": [
+        { "id": "tasaki-balance", "name": "balance 系列", "nameEn": "balance", "type": "首饰", "price": { "min": 15000, "max": 150000, "label": "官网参考价" }, "desc": "一根弧形金条与珍珠玩平衡,珍珠首饰里最像雕塑的存在。", "highlights": ["几何平衡", "当代设计"], "tags": ["当代"] },
+        { "id": "tasaki-reflection", "name": "reflection", "nameEn": "reflection", "type": "首饰", "price": { "min": 20000, "max": 200000, "label": "官网参考价" }, "desc": "镜面金属与珍珠互映,水面波光的意象抽象化。", "highlights": ["镜面抛光", "光影游戏"], "tags": ["当代"] },
+        { "id": "tasaki-signature", "name": "signature 项链", "nameEn": "signature", "type": "项链", "price": { "min": 25000, "max": 250000, "label": "官网参考价" }, "desc": "渐变尺寸珍珠串链,日常穿的\"大女主\"气场款。", "highlights": ["渐变串珠", "气场款"], "tags": ["经典"] },
+        { "id": "tasaki-atelier", "name": "Atelier 高定", "nameEn": "Atelier", "type": "高级珠宝", "price": { "min": 300000, "max": 5000000, "label": "官网参考价" }, "desc": "神户工坊的孤品高级珠宝,南洋珠与彩色宝石的大胆实验场。", "highlights": ["孤品", "南洋珠"], "tags": ["高级珠宝"] }
+      ]
+    },
+    {
+      "id": "pandora", "name": "潘多拉", "nameEn": "Pandora", "domain": "pandora.net",
+      "categoryId": "watchjewel", "country": "丹麦", "founded": 1982, "hq": "哥本哈根",
+      "tier": "轻奢", "tags": ["串珠", "DIY", "平价珠宝"], "slogan": "Unforgettable Moments",
+      "desc": "全球销量最大的珠宝品牌之一,把\"自己设计手链\"的串珠玩法做成世界生意。",
+      "story": "1982年丹麦夫妻店起家,2000年发明可自由搭配的手链串珠系统,女人为自己收藏每一个纪念时刻,199元到几千元的价格带让它成为\"人生第一件轻珠宝\"。全世界每年卖出上亿件首饰。\n如今全面转型实验室培育钻石与回收银,\"人人戴得起的高级感\"是其商业护城河。",
+      "products": [
+        { "id": "pandora-charms", "name": "Charm 串珠", "nameEn": "Moments Charms", "type": "串珠", "price": { "min": 200, "max": 3000, "label": "官网参考价" }, "desc": "生日、旅行、宠物……每个纪念刻成一颗珠,手链就是人生相册。", "highlights": ["自由搭配", "纪念玩法"], "tags": ["串珠"] },
+        { "id": "pandora-bracelet", "name": "蛇骨链", "nameEn": "Snake Chain Bracelet", "type": "手链", "price": { "min": 500, "max": 1500, "label": "官网参考价" }, "desc": "串珠系统的载体,银质蛇骨链是入门第一件。", "highlights": ["银质", "串珠载体"], "tags": ["手链"] },
+        { "id": "pandora-hearts", "name": "心形系列", "nameEn": "Hearts of Pandora", "type": "首饰", "price": { "min": 300, "max": 3000, "label": "官网参考价" }, "desc": "渐变珐琅爱心,送人不出错的经典符号。", "highlights": ["爱心符号", "送礼稳妥"], "tags": ["送礼"] },
+        { "id": "pandora-labgrown", "name": "培育钻系列", "nameEn": "Lab-Grown Diamond", "type": "戒指", "price": { "min": 2000, "max": 20000, "label": "官网参考价" }, "desc": "实验室培育钻石的平价化,让克拉自由提前到来。", "highlights": ["培育钻石", "克拉自由"], "tags": ["钻戒"] }
+      ]
+    },
+    {
+      "id": "swarovski", "name": "施华洛世奇", "nameEn": "SWAROVSKI", "domain": "swarovski.com",
+      "categoryId": "watchjewel", "country": "奥地利", "founded": 1895, "hq": "瓦滕斯",
+      "tier": "轻奢", "tags": ["水晶", "切割工艺", "天鹅"], "slogan": "You are the sparkle you seek",
+      "desc": "人造水晶切割之王,天鹅logo与\"跳动的心\"是最出圈的平价浪漫,159年切割工艺封神。",
+      "story": "1895年丹尼尔·施华洛世奇发明电动水晶切割机,在奥地利瓦滕斯建厂,把人造水晶做出钻石般的火彩。小天鹅 logo 自1988年沿用,跳动的心(水晶随心跳频率闪动)是现象级爆款。\n除了首饰,施华洛世奇还为高级定制、灯具、电影工业供应水晶,米兰大教堂的水晶吊灯也有它的份。",
+      "products": [
+        { "id": "swarovski-swan", "name": "天鹅系列", "nameEn": "Iconic Swan", "type": "项链", "price": { "min": 600, "max": 3000, "label": "官网参考价" }, "desc": "品牌图腾天鹅镶满水晶,黑白双色天鹅是无数人的第一条\"轻珠宝\"。", "highlights": ["天鹅图腾", "满钻天鹅"], "tags": ["经典"] },
+        { "id": "swarovski-heartbeat", "name": "跳动的心", "nameEn": "Sparkling Dance", "type": "项链", "price": { "min": 700, "max": 2500, "label": "官网参考价" }, "desc": "水晶在密镶弧内随动作滑动,像一颗会呼吸的心脏。", "highlights": ["滑动水晶", "心动感"], "tags": ["爆款"] },
+        { "id": "swarovski-millenia", "name": "Millenia", "nameEn": "Millenia", "type": "首饰", "price": { "min": 800, "max": 5000, "label": "官网参考价" }, "desc": "大颗彩宝切割水晶的时尚线,一克拉 visual 不输真钻的气场。", "highlights": ["大克拉感", "时尚线"], "tags": ["时尚"] },
+        { "id": "swarovski-duo", "name": "Duo 系列", "nameEn": "Duo", "type": "首饰", "price": { "min": 600, "max": 3000, "label": "官网参考价" }, "desc": "金属与水晶双元素交叠,极简通勤的低调光泽。", "highlights": ["双元素", "通勤极简"], "tags": ["日常"] }
+      ]
+    },
+    {
+      "id": "chowtaifook", "name": "周大福", "nameEn": "Chow Tai Fook", "domain": "chowtaifook.com",
+      "categoryId": "watchjewel", "country": "中国香港", "founded": 1929, "hq": "香港",
+      "tier": "中档", "tags": ["黄金", "国潮", "传承系列"], "slogan": "挚爱无界",
+      "desc": "华人世界最大的珠宝集团,95年历史,把古法黄金做成年轻人的\"人生第一克金\"。",
+      "story": "1929年周至元在广州创办周大福金行,郑裕彤家族接手后发明\"四条九\"足金标准,信誉立牌。如今门店过万家,传承系列古法金手镯让年轻一代排队抢金。\n从婚嫁三金到国潮转运珠,周大福几乎定义了华人的黄金消费仪式。",
+      "products": [
+        { "id": "chowtaifook-inheritance", "name": "传承系列", "nameEn": "Inheritance", "type": "黄金手镯", "price": { "min": 15000, "max": 80000, "label": "门店参考价" }, "desc": "古法哑光金+錾刻纹样,素圈手镯成年轻人攒金的终点站。", "highlights": ["古法金", "錾刻工艺"], "tags": ["黄金"] },
+        { "id": "chowtaifook-marriage", "name": "婚嫁三金", "nameEn": "Wedding Collection", "type": "婚嫁金饰", "price": { "min": 30000, "max": 200000, "label": "门店参考价" }, "desc": "龙凤镯、项链、戒指一套齐,华人婚礼的硬核仪式感。", "highlights": ["龙凤镯", "三金套装"], "tags": ["婚嫁"] },
+        { "id": "chowtaifook-transferbead", "name": "转运珠", "nameEn": "Lucky Bead", "type": "转运珠", "price": { "min": 300, "max": 3000, "label": "门店参考价" }, "desc": "红绳一颗金珠,百元级的\"人生第一克金\"。", "highlights": ["红绳金珠", "入门"], "tags": ["入门"] },
+        { "id": "chowtaifook-diamond", "name": "钻石系列", "nameEn": "Diamond Collection", "type": "钻饰", "price": { "min": 5000, "max": 200000, "label": "门店参考价" }, "desc": "自营钻石镶嵌线,日常钻戒与项链的稳妥选择。", "highlights": ["自营钻石", "稳妥"], "tags": ["钻石"] }
+      ]
+    },
+    {
+      "id": "chowsangsang", "name": "周生生", "nameEn": "Chow Sang Sang", "domain": "chowsangsang.com",
+      "categoryId": "watchjewel", "country": "中国香港", "founded": 1934, "hq": "香港",
+      "tier": "中档", "tags": ["黄金", "设计感", "g系列"], "slogan": "周而复始,生生不息",
+      "desc": "1934年创自广州的港资珠宝行,比同行更早做年轻设计,金饰里的\"设计派\"。",
+      "story": "1934年创于广州西关,1948年迁港。名字取\"周而复始,生生不息\",是港澳最早上市的珠宝行之一。周生生较早摆脱金铺思维,推出 g* 系列等年轻线,把金饰做成了时尚品。\n如今在内地上百家门店,Promise 系列、国潮联名款都主打轻龄客群。",
+      "products": [
+        { "id": "chowsangsang-g", "name": "g* 系列", "nameEn": "g* Collection", "type": "黄金首饰", "price": { "min": 2000, "max": 30000, "label": "门店参考价" }, "desc": "几何切割的硬金设计线,把足金做出了先锋感。", "highlights": ["硬金工艺", "几何设计"], "tags": ["黄金"] },
+        { "id": "chowsangsang-charme", "name": "Charme 串珠", "nameEn": "Charme", "type": "串珠", "price": { "min": 800, "max": 8000, "label": "门店参考价" }, "desc": "金珠+宝石自由搭配,周生生版的纪念收藏玩法。", "highlights": ["自由搭配", "纪念串珠"], "tags": ["串珠"] },
+        { "id": "chowsangsang-promessa", "name": "Promessa 钻戒", "nameEn": "Promessa", "type": "钻戒", "price": { "min": 8000, "max": 200000, "label": "门店参考价" }, "desc": "品牌婚嫁钻戒主力,经典四爪与扭臂款常年热卖。", "highlights": ["婚嫁主力", "经典四爪"], "tags": ["婚嫁"] },
+        { "id": "chowsangsang-goldbean", "name": "金豆豆", "nameEn": "Gold Bean", "type": "黄金投资", "price": { "min": 500, "max": 5000, "label": "门店参考价" }, "desc": "一颗颗攒的小金豆,年轻人的\"储蓄式快乐\"。", "highlights": ["攒金玩法", "入门"], "tags": ["入门"] }
+      ]
+    },
+    {
+      "id": "laofengxiang", "name": "老凤祥", "nameEn": "Lao Feng Xiang", "domain": "laofengxiang.com",
+      "categoryId": "watchjewel", "country": "中国", "founded": 1848, "hq": "上海",
+      "tier": "中档", "tags": ["百年金号", "海派", "银楼"], "slogan": "百年老凤祥,经典新时尚",
+      "desc": "1848年创自上海的老银楼,中华第一金号,凤钗与婚嫁金饰的活字号。",
+      "story": "1848年\"凤祥裕记银楼\"在上海开业,历经清末、民国至今,是中国现存最久的珠宝老字号之一。海派金工细腻,凤冠、龙凤镯是沪上婚嫁的老讲究。\n如今为国企上市公司,门店遍布全国,古法金与非遗银器工艺是两张王牌。",
+      "products": [
+        { "id": "laofengxiang-birdbracelet", "name": "龙凤镯", "nameEn": "Dragon & Phoenix Bangle", "type": "黄金手镯", "price": { "min": 20000, "max": 100000, "label": "门店参考价" }, "desc": "婚嫁硬通货,浮雕龙凤的实心足金手镯,长辈最认的牌子之一。", "highlights": ["龙凤浮雕", "婚嫁硬通货"], "tags": ["婚嫁"] },
+        { "id": "laofengxiang-heritagegold", "name": "古法金系列", "nameEn": "Heritage Gold", "type": "黄金首饰", "price": { "min": 8000, "max": 60000, "label": "门店参考价" }, "desc": "哑光古法工艺,纹样取自传统吉祥图,沉稳耐看。", "highlights": ["古法工艺", "吉祥纹样"], "tags": ["黄金"] },
+        { "id": "laofengxiang-silver", "name": "银器系列", "nameEn": "Silver Craft", "type": "银饰", "price": { "min": 500, "max": 10000, "label": "门店参考价" }, "desc": "非遗银器细工,从长命锁到茶器,老字号的手艺底蕴。", "highlights": ["非遗工艺", "长命锁"], "tags": ["银饰"] },
+        { "id": "laofengxiang-pearl", "name": "珍珠系列", "nameEn": "Pearl Collection", "type": "珍珠首饰", "price": { "min": 1000, "max": 30000, "label": "门店参考价" }, "desc": "淡水珍珠为主,妈妈辈最喜欢的温润气质线。", "highlights": ["淡水珍珠", "温润气质"], "tags": ["珍珠"] }
+      ]
+    },
+    {
+      "id": "laomiaogold", "name": "老庙黄金", "nameEn": "Laomiao Gold", "domain": "laomiaogold.com",
+      "categoryId": "watchjewel", "country": "中国", "founded": 1906, "hq": "上海",
+      "tier": "中档", "tags": ["城隍庙", "好运文化", "古法金"], "slogan": "老庙给您带来好运气",
+      "desc": "发源于上海城隍庙的百年金号,一句\"老庙给您带来好运气\"传遍华东,好运文化玩到极致。",
+      "story": "1906年起家于上海城隍庙商圈,靠着庙会的香客生意做大,广告语\"老庙给您带来好运气\"家喻户晓。主打好运主题:转运珠、福字金、生肖系列年年翻新。\n古法金工艺与国潮联名让老庙在年轻客群里翻红,\"好运经济\"的代表玩家。",
+      "products": [
+        { "id": "laomiao-lucky", "name": "好运系列", "nameEn": "Lucky Collection", "type": "黄金首饰", "price": { "min": 1000, "max": 30000, "label": "门店参考价" }, "desc": "福字、锦鲤、葫芦全好运符号,送礼自留都图个吉利。", "highlights": ["好运符号", "送礼"], "tags": ["黄金"] },
+        { "id": "laomiao-zodiac", "name": "生肖系列", "nameEn": "Zodiac", "type": "黄金首饰", "price": { "min": 600, "max": 20000, "label": "门店参考价" }, "desc": "年年更新的生肖金,本命年的仪式感标配。", "highlights": ["生肖", "本命年"], "tags": ["黄金"] },
+        { "id": "laomiao-ancient", "name": "古法金系列", "nameEn": "Ancient Craft", "type": "黄金手镯", "price": { "min": 10000, "max": 60000, "label": "门店参考价" }, "desc": "哑光古法手镯,佛系厚重的手感,长辈缘极好。", "highlights": ["古法哑光", "厚重手感"], "tags": ["黄金"] },
+        { "id": "laomiao-guochao", "name": "国潮联名", "nameEn": "China-chic", "type": "黄金首饰", "price": { "min": 1500, "max": 20000, "label": "门店参考价" }, "desc": "与博物馆、动漫的联名金饰,老字号的新流量。", "highlights": ["博物馆联名", "年轻化"], "tags": ["国潮"] }
+      ]
+    },
+    {
+      "id": "darryring", "name": "DR", "nameEn": "DR (Darry Ring)", "domain": "darryring.com",
+      "categoryId": "watchjewel", "country": "中国", "founded": 2010, "hq": "深圳",
+      "tier": "轻奢", "tags": ["真爱协议", "一生一枚", "求婚"], "slogan": "用一生爱一人",
+      "desc": "靠\"男士一生仅能定制一枚\"规则走红的婚戒品牌,把排他性做成了商业神话。",
+      "story": "2010年创立于深圳,规则简单粗暴:凭身份证购买,一生只能为一人定制真爱戒指,还要签真爱协议。争议不断,但年轻人买账——\"DR=requesting 你是我的唯一\"成为社交货币。\n如今门店过百家,求婚场景的市占率惊人,是营销驱动型珠宝品牌的教科书。",
+      "products": [
+        { "id": "darryring-believe", "name": "BELIEVE 系列", "nameEn": "BELIEVE", "type": "求婚钻戒", "price": { "min": 10000, "max": 150000, "label": "官网参考价" }, "desc": "经典六爪+心形镶口,DR 门店销量最高的求婚款。", "highlights": ["六爪经典", "真爱协议"], "tags": ["求婚"] },
+        { "id": "darryring-loveletter", "name": "LOVE LINE 系列", "nameEn": "LOVE LINE", "type": "求婚钻戒", "price": { "min": 12000, "max": 200000, "label": "官网参考价" }, "desc": "戒臂如情书线条环绕,细节里藏着\"只此一枚\"的仪式感。", "highlights": ["线条戒臂", "仪式感"], "tags": ["求婚"] },
+        { "id": "darryring-couple", "name": "真爱对戒", "nameEn": "Couple Rings", "type": "对戒", "price": { "min": 6000, "max": 60000, "label": "官网参考价" }, "desc": "与求婚戒配套的对戒,内壁可刻两人的时间坐标。", "highlights": ["配套对戒", "内壁刻字"], "tags": ["婚嫁"] },
+        { "id": "darryring-validate", "name": "真爱验证服务", "nameEn": "True Love Query", "type": "品牌服务", "price": { "min": 0, "max": 0, "label": "免费服务" }, "desc": "官方可查\"购买记录\"的服务,既是浪漫也是话题制造机。", "highlights": ["购买可查", "排他规则"], "tags": ["服务"] }
+      ]
+    },
+    {
+      "id": "oris", "name": "豪利时", "nameEn": "ORIS", "domain": "oris.ch",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1904, "hq": "霍尔斯坦",
+      "tier": "中档", "tags": ["独立纯机械", "潜水表", "环保"], "slogan": "Go your own way",
+      "desc": "只做机械表的独立老厂,1904年至今不做人造材料,潜水表与环保公益是两张名片。",
+      "story": "1904年成立于霍尔斯坦小镇,百年来坚持只造机械表——石英风暴时全厂坚持不转产,活成了行业倔脾气。豪利时没有电子表历史,也没有大集团背景,反而保留了老派制表的自由身。\n大表冠潜水表(Aquis)与复古赛车(Holstein)系列是主力,与海洋保护组织合作的\"变蓝\"限量款年年上新。",
+      "products": [
+        { "id": "oris-aquis", "name": "Aquis 日历", "nameEn": "Aquis Date", "type": "潜水表", "price": { "min": 12000, "max": 35000, "label": "公价" }, "desc": "300米潜水的独立厂扛把子,陶瓷圈+快调表链,工薪玩家的梦中情表。", "highlights": ["300米防水", "快调链"], "tags": ["潜水"] },
+        { "id": "oris-bigcrown", "name": "大表冠", "nameEn": "Big Crown ProPilot", "type": "飞行员表", "price": { "min": 10000, "max": 30000, "label": "公价" }, "desc": "1938年飞行员血统,大表冠戴手套也能调,复古军表气质。", "highlights": ["大表冠", "飞行员血统"], "tags": ["飞行"] },
+        { "id": "oris-divers65", "name": "Divers Sixty-Five", "nameEn": "Divers Sixty-Five", "type": "潜水表", "price": { "min": 13000, "max": 30000, "label": "公价" }, "desc": "复刻1965年古董潜水表,40mm复古尺寸+青铜做旧款,颜值能打。", "highlights": ["1965复刻", "青铜款"], "tags": ["复古"] },
+        { "id": "oris-culture", "name": "Artelier", "nameEn": "Artelier", "type": "正装表", "price": { "min": 10000, "max": 25000, "label": "公价" }, "desc": "自产110系列机芯的正装线,小秒盘古典味十足。", "highlights": ["自产机芯", "小秒盘"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "raymondweil", "name": "蕾蒙威", "nameEn": "RAYMOND WEIL", "domain": "raymond-weil.ch",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1976, "hq": "日内瓦",
+      "tier": "中档", "tags": ["音乐世家", "自由职业者", "独立家族"], "slogan": "Independence is a state of mind",
+      "desc": "1976年石英风暴中逆势创家的日内瓦品牌,把音乐写进每个系列名字。",
+      "story": "1976年,石英危机最惨烈的时候,蕾蒙·威尔在日内瓦创业,坚信机械表会活下来。品牌各系列都以音乐命名:Freelancer(自由职业者)、Tango、Maestro(大师)、Nabucco(歌剧)。\n家族三代经营至今,是日内瓦最后的独立家族制表企业之一,定价亲民、做工扎实。",
+      "products": [
+        { "id": "raymondweil-freelancer", "name": "Freelancer", "nameEn": "Freelancer", "type": "运动豪华表", "price": { "min": 10000, "max": 30000, "label": "公价" }, "desc": "镂空计时的主力系列,一体链+透底,万元级硬货。", "highlights": ["镂空机芯", "一体链"], "tags": ["运动"] },
+        { "id": "raymondweil-maestro", "name": "Maestro", "nameEn": "Maestro", "type": "正装表", "price": { "min": 8000, "max": 25000, "label": "公价" }, "desc": "正装三针与月相,日内瓦血统的优雅日常。", "highlights": ["月相", "正装"], "tags": ["正装"] },
+        { "id": "raymondweil-tango", "name": "Tango", "nameEn": "Tango", "type": "运动表", "price": { "min": 6000, "max": 15000, "label": "公价" }, "desc": "300米潜水的入门线,表圈刻度利落,年轻人第一块瑞士表候选。", "highlights": ["300米防水", "入门"], "tags": ["潜水"] },
+        { "id": "raymondweil-nabucco", "name": "Nabucco", "nameEn": "Nabucco", "type": "计时码表", "price": { "min": 12000, "max": 35000, "label": "公价" }, "desc": "以歌剧《纳布科》命名,碳纤维与玫瑰金的阳刚计时。", "highlights": ["歌剧命名", "碳纤维"], "tags": ["计时"] }
+      ]
+    },
+    {
+      "id": "citizen", "name": "西铁城", "nameEn": "Citizen", "domain": "citizenwatch.com",
+      "categoryId": "watchjewel", "country": "日本", "founded": 1930, "hq": "东京",
+      "tier": "入门", "tags": ["光动能", "精准", "环保"], "slogan": "Better Starts Now",
+      "desc": "光动能技术的代名词:任何光源充电,一表用十年,全球民用表的技术流。",
+      "story": "1930年以\"市民表\"之名创立于东京,1976年发明光动能(Eco-Drive)——太阳能充电石英机芯,彻底解决换电池烦恼,累计减少数亿颗废电池。旗下还有机械机芯名厂Miyota与瑞士品牌宝路华、Frederique Constant。\n卫星对时、超级钛™材质是其技术招牌,机械线也有「 Miyota 9039」等扎实机芯。",
+      "products": [
+        { "id": "citizen-ecodrive", "name": "光动能系列", "nameEn": "Eco-Drive", "type": "光动能表", "price": { "min": 1500, "max": 8000, "label": "公价" }, "desc": "光充电十年不换电池,通勤表的终极省心答案。", "highlights": ["光动能", "免换电池"], "tags": ["科技"] },
+        { "id": "citizen-promaster", "name": "Promaster", "nameEn": "Promaster", "type": "潜水表", "price": { "min": 2500, "max": 12000, "label": "公价" }, "desc": "200米光动能潜水\"富士山\"盘,专业工具表的日系代表。", "highlights": ["200米防水", "超级钛"], "tags": ["潜水"] },
+        { "id": "citizen-thefirst", "name": "The Citizen", "nameEn": "The Citizen", "type": "正装表", "price": { "min": 8000, "max": 30000, "label": "公价" }, "desc": "年差±5秒的高精度石英旗舰,日本表\"内卷之王\"。", "highlights": ["年差5秒", "旗舰精度"], "tags": ["正装"] },
+        { "id": "citizen-mechanical", "name": "机械系列", "nameEn": "Mechanical", "type": "机械表", "price": { "min": 3000, "max": 15000, "label": "公价" }, "desc": "Miyota 自产机芯的机械线,复古盘面+透底,性价比扎实。", "highlights": ["Miyota机芯", "透底"], "tags": ["机械"] }
+      ]
+    },
+    {
+      "id": "casio", "name": "卡西欧", "nameEn": "CASIO", "domain": "casio.com",
+      "categoryId": "watchjewel", "country": "日本", "founded": 1946, "hq": "东京",
+      "tier": "入门", "tags": ["G-SHOCK", "防摔", "功能狂魔"], "slogan": "Creativity and Contribution",
+      "desc": "一块摔不坏的 G-SHOCK 定义了电子表的强悍,计算器、电子琴与腕表共同构成卡西欧宇宙。",
+      "story": "1946年樫尾四兄弟在东京创业,从计算器起家。1983年工程师伊部菊雄因父亲摔坏的手表立志造\"十年不坏的手表\",G-SHOCK 诞生,初代被扔出大楼测试的场景成为广告经典。\n如今 G-SHOCK、BABY-G、EDIFICE、OCEANUS 多线并行,防震防水太阳能电波六大电波全配,是功能主义腕表的尽头。",
+      "products": [
+        { "id": "casio-gshock", "name": "G-SHOCK", "nameEn": "G-SHOCK", "type": "运动电子表", "price": { "min": 500, "max": 10000, "label": "公价" }, "desc": "1983年至今的防摔神话,潮流联名从 streetwear 到奢侈品全覆盖。", "highlights": ["防摔神话", "联名之王"], "tags": ["运动"] },
+        { "id": "casio-babyg", "name": "BABY-G", "nameEn": "BABY-G", "type": "运动电子表", "price": { "min": 500, "max": 3000, "label": "公价" }, "desc": "G-SHOCK 的女性线,小表径+糖果配色,活泼抗造。", "highlights": ["女性线", "糖果色"], "tags": ["运动"] },
+        { "id": "casio-edifice", "name": "EDIFICE", "nameEn": "EDIFICE", "type": "计时电子表", "price": { "min": 800, "max": 5000, "label": "公价" }, "desc": "金属质感+赛车联名(红牛F1),商务运动的日系解法。", "highlights": ["金属表壳", "F1联名"], "tags": ["运动"] },
+        { "id": "casio-oceanus", "name": "OCEANUS", "nameEn": "OCEANUS", "type": "光动能电波表", "price": { "min": 3000, "max": 30000, "label": "公价" }, "desc": "卡西欧的高端线:日本制蓝宝石+电波光动能,\"电子表里的贵公子\"。", "highlights": ["蓝宝石", "电波光动能"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "seiko", "name": "精工", "nameEn": "SEIKO", "domain": "seikowatches.com",
+      "categoryId": "watchjewel", "country": "日本", "founded": 1881, "hq": "东京",
+      "tier": "中档", "tags": ["石英革命", "Spring Drive", "潜水表"], "slogan": "Elegance in Technology",
+      "desc": "1881年创立的日本表坛祖师,1969年推出世界首款石英腕表改写历史,潜水表与Grand Seiko双线封神。",
+      "story": "1881年服部金太郎创办精工舍,1969年Astron石英表终结了瑞士机械表的垄断时代(史称\"石英革命\")。品牌手握 Spring Drive(弹簧驱动)与 High Beat 等独门技术。\nSEIKO 主线走亲民路线:Seiko 5 自动、Prospex 潜水罐头,而 Grand Seiko(冠蓝狮)已独立成顶级品牌,与瑞士高端正面对决。",
+      "products": [
+        { "id": "seiko5", "name": "Seiko 5", "nameEn": "Seiko 5 Sports", "type": "机械表", "price": { "min": 800, "max": 3000, "label": "公价" }, "desc": "千元级自动机械的性价比天花板,改装圈最爱的\"小白\"。", "highlights": ["千元机械", "改装热门"], "tags": ["入门"] },
+        { "id": "seiko-prospex", "name": "Prospex 罐头", "nameEn": "Prospex Turtle", "type": "潜水表", "price": { "min": 3000, "max": 30000, "label": "公价" }, "desc": "1976年\"罐头\"潜水血统,200-1000米专业潜水,玩水人的信仰。", "highlights": ["罐头造型", "专业潜水"], "tags": ["潜水"] },
+        { "id": "seiko-presage", "name": "Presage", "nameEn": "Presage", "type": "正装表", "price": { "min": 2000, "max": 15000, "label": "公价" }, "desc": "珐琅与和风纹样表盘,\"鸡尾酒时间\"盘面是万元内的美学高峰。", "highlights": ["珐琅盘", "鸡尾酒盘"], "tags": ["正装"] },
+        { "id": "seiko-astron", "name": "Astron GPS", "nameEn": "Astron GPS Solar", "type": "卫星对时表", "price": { "min": 8000, "max": 60000, "label": "公价" }, "desc": "致敬1969年石英鼻祖的GPS卫星对时太阳能表,走时与原子钟同步。", "highlights": ["GPS对时", "太阳能"], "tags": ["科技"] }
+      ]
+    },
+    {
+      "id": "rossini", "name": "罗西尼", "nameEn": "Rossini", "domain": "rossini.com.cn",
+      "categoryId": "watchjewel", "country": "中国", "founded": 1984, "hq": "珠海",
+      "tier": "入门", "tags": ["国产老牌", "合资起点", "礼品牌"], "slogan": "时间因为祝福而存在",
+      "desc": "1984年珠海创办的中外合资表厂鼻祖,国产表\"四大金刚\"之一,节日礼表常青树。",
+      "story": "1984年中国钟表业首批合资项目落户珠海,罗西尼凭一支\"雅尊商务\"系列打开了国人对手表的品牌认知。九十年代到零几年,罗西尼几乎是\"单位奖品表\"的代名词。\n如今隶属冠城钟表珠宝集团,门店网络遍布全国,青花、生肖等文化款持续更新。",
+      "products": [
+        { "id": "rossini-yazun", "name": "雅尊商务", "nameEn": "Elite Business", "type": "正装表", "price": { "min": 800, "max": 5000, "label": "公价" }, "desc": "品牌招牌钢带石英/机械线,父亲节礼物的常年答案。", "highlights": ["钢带商务", "礼物常青"], "tags": ["正装"] },
+        { "id": "rossini-ceramic", "name": "陶瓷系列", "nameEn": "Ceramic", "type": "陶瓷表", "price": { "min": 1000, "max": 6000, "label": "公价" }, "desc": "白陶瓷女表起家的经典线,温润光泽不输大牌。", "highlights": ["白陶瓷", "女表强项"], "tags": ["女表"] },
+        { "id": "rossini-culture", "name": "文化系列", "nameEn": "Culture", "type": "国风表", "price": { "min": 1000, "max": 8000, "label": "公价" }, "desc": "青花瓷盘、十二生肖等文化元素,国产表的文化叙事。", "highlights": ["青花瓷盘", "文化叙事"], "tags": ["国风"] },
+        { "id": "rossini-sport", "name": "运动系列", "nameEn": "Sport", "type": "运动表", "price": { "min": 800, "max": 4000, "label": "公价" }, "desc": "200米潜水风格的日常运动线,皮实耐用。", "highlights": ["200米防水", "皮实"], "tags": ["运动"] }
+      ]
+    },
+    {
+      "id": "fiyta", "name": "飞亚达", "nameEn": "Fiyta", "domain": "fiyta.com",
+      "categoryId": "watchjewel", "country": "中国", "founded": 1987, "hq": "深圳",
+      "tier": "入门", "tags": ["航天表", "国产", "神舟"], "slogan": "Once for all",
+      "desc": "中国航天表指定供应商,神舟航天员都戴着它出舱,国产表的技术流代表。",
+      "story": "1987年成立于深圳,2003年起成为神舟系列航天表的官方供应商,航天员出舱行走佩戴的正是飞亚达航天表——这是继瑞美苏之后第三个掌握航天表技术的国家品牌。\n设计上与故宫等文化IP联名, regularly 出圈;价段千元为主,技术背书硬。",
+      "products": [
+        { "id": "fiyta-spacemaster", "name": "航天系列", "nameEn": "Space Series", "type": "航天表", "price": { "min": 2000, "max": 20000, "label": "公价" }, "desc": "神舟同款技术下放,防磁抗震+大表冠,国产表的硬核浪漫。", "highlights": ["神舟同源", "防磁抗震"], "tags": ["航天"] },
+        { "id": "fiyta-culture", "name": "大师文化系列", "nameEn": "Culture Master", "type": "国风表", "price": { "min": 1500, "max": 15000, "label": "公价" }, "desc": "敦煌、故宫联名,掐丝珐琅盘面的东方美学。", "highlights": ["敦煌联名", "珐琅盘"], "tags": ["国风"] },
+        { "id": "fiyta-laurel", "name": "经典系列", "nameEn": "Classic", "type": "正装表", "price": { "min": 800, "max": 6000, "label": "公价" }, "desc": "商务正装的稳妥之选,透底机械与石英齐备。", "highlights": ["商务正装", "透底"], "tags": ["正装"] },
+        { "id": "fiyta-sport", "name": "极限系列", "nameEn": "Extreme", "type": "运动表", "price": { "min": 1500, "max": 8000, "label": "公价" }, "desc": "登山、潜水向的专业线,登顶珠峰的实测背书。", "highlights": ["登峰实测", "专业工具"], "tags": ["运动"] }
+      ]
+    },
+    {
+      "id": "seagull", "name": "海鸥", "nameEn": "Sea-Gull", "domain": "seagullwatch.com",
+      "categoryId": "watchjewel", "country": "中国", "founded": 1955, "hq": "天津",
+      "tier": "入门", "tags": ["国产机芯之王", "陀飞轮", "军表"], "slogan": "中国表,海鸥芯",
+      "desc": "1955年新中国第一只国产手表的诞生地,全球最大机械机芯厂之一,千元陀飞轮无人能敌。",
+      "story": "1955年天津手表厂造出\"五星\"牌国产第一表,海鸥由此起家。如今年产机芯数千万枚,全球许多品牌的\"基础机械芯\"都来自海鸥ST系列。\n从ST16到ST25系列,再到万元内的陀飞轮、三问、万年历,海鸥把\"复杂功能平价化\"玩成了独门生意,玩表人的国产情怀第一名。",
+      "products": [
+        { "id": "seagull-st19", "name": "ST19 复刻1963", "nameEn": "1963 Reissue", "type": "手动机械表", "price": { "min": 1000, "max": 3000, "label": "公价" }, "desc": "复刻中国第一只航空计时码表,机芯美学与历史的双重情怀。", "highlights": ["航空血统", "手动机械"], "tags": ["复刻"] },
+        { "id": "seagull-tourbillon", "name": "陀飞轮系列", "nameEn": "Tourbillon", "type": "复杂功能表", "price": { "min": 8000, "max": 50000, "label": "公价" }, "desc": "万元级陀飞轮的全球独一份,复杂功能平价化的招牌。", "highlights": ["万元陀飞轮", "独门性价比"], "tags": ["复杂"] },
+        { "id": "seagull-d304", "name": "海洋系列", "nameEn": "Ocean Star", "type": "潜水表", "price": { "min": 1000, "max": 4000, "label": "公价" }, "desc": "200米潜水+自产机芯,国产潜水表的第一课。", "highlights": ["200米防水", "自产机芯"], "tags": ["潜水"] },
+        { "id": "seagull-moonphase", "name": "月相系列", "nameEn": "Moon Phase", "type": "正装表", "price": { "min": 1500, "max": 6000, "label": "公价" }, "desc": "月相+日历的正装款,中式纹样盘面的诗意。", "highlights": ["月相", "中式纹样"], "tags": ["正装"] }
+      ]
+    }
+  ]
+}

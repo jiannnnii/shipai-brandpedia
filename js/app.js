@@ -430,6 +430,24 @@ function viewProduct(id) {
       <div class="vb-res" id="verifyRes" style="display:none"></div>
     </div>
 
+    ${(() => {
+      const siblings = (b.products || []).filter(x => x.id !== p.id).slice(0, 10);
+      if (!siblings.length) return '';
+      return `
+      <div class="sect-label"><span class="zh">该品牌还有</span><span class="en">More</span><span class="rule"></span>
+        <a href="#/brand/${esc(b.id)}" style="font-size:11px;color:var(--muted)">进店</a></div>
+      <div class="rail">
+        ${siblings.map(x => `
+          <a class="rail-item" style="width:120px" href="#/product/${esc(x.id)}">
+            <span class="rail-logo" style="width:100%;height:86px;border-radius:14px;background:linear-gradient(135deg, color-mix(in srgb, ${color} 26%, var(--surface)), var(--surface2))">
+              <span style="width:30px;height:30px;color:${color};opacity:.85">${icons[iconForType(x.type, b.categoryId)]}</span>
+            </span>
+            <span class="ri-name">${esc(x.name)}</span>
+            <span style="font-size:10.5px;color:var(--muted)">${fmtPrice(x.price)}</span>
+          </a>`).join('')}
+      </div>`;
+    })()}
+
     <div style="height:30px"></div>
   `, true);
 
