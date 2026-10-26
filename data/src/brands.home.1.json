@@ -1,0 +1,326 @@
+{
+  "brands": [
+    {
+      "id": "haier", "name": "海尔", "nameEn": "Haier", "domain": "haier.com",
+      "categoryId": "home", "country": "中国", "founded": 1984, "hq": "青岛",
+      "tier": "大众", "tags": ["白电之王", "全球化", "物联网"], "slogan": "智慧家庭,定制美好生活",
+      "desc": "从青岛电冰箱总厂到全球白电第一品牌,砸冰箱砸出的质量神话,卡萨帝是其高端答案。",
+      "story": "1984年张瑞敏接手亏损小厂,抡起大锤砸掉76台问题冰箱,把「质量」砸成了企业文化。此后海外建厂、收购斐雪派克与GE家电,成为全球大家电份额第一。\n如今海尔智家旗下有海尔、卡萨帝、Leader,向物联网智慧家庭转型。",
+      "products": [
+        { "id": "haier-fridge", "name": "海尔冰箱", "nameEn": "Refrigerators", "type": "冰箱", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "全空间保鲜技术,从两门到对开门的全矩阵霸主。", "highlights": ["全空间保鲜", "份额第一"], "tags": ["冰箱"] },
+        { "id": "haier-washer", "name": "海尔洗衣机", "nameEn": "Washing Machines", "type": "洗衣机", "price": { "min": 1500, "max": 15000, "label": "零售参考价" }, "desc": "直驱变频+除菌洗,滚筒与波轮双线通吃。", "highlights": ["直驱变频", "除菌洗"], "tags": ["洗衣机"] },
+        { "id": "haier-ac", "name": "海尔空调", "nameEn": "Air Conditioners", "type": "空调", "price": { "min": 2000, "max": 15000, "label": "零售参考价" }, "desc": "可变分流技术新空调,健康送风是卖点。", "highlights": ["可变分流", "健康风"], "tags": ["空调"] },
+        { "id": "haier-casarte", "name": "卡萨帝", "nameEn": "Casarte", "type": "高端套系", "price": { "min": 5000, "max": 100000, "label": "零售参考价" }, "desc": "海尔的高端艺术家电线,百万套系家电的选择。", "highlights": ["高端线", "艺术家电"], "tags": ["高端"] },
+        { "id": "haier-waterheater", "name": "热水器", "nameEn": "Water Heaters", "type": "热水器", "price": { "min": 1000, "max": 8000, "label": "零售参考价" }, "desc": "安全防电墙技术发明者,电热燃气双线常青。", "highlights": ["防电墙", "安全标准"], "tags": ["热水器"] }
+      ]
+    },
+    {
+      "id": "midea", "name": "美的", "nameEn": "Midea", "domain": "midea.com",
+      "categoryId": "home", "country": "中国", "founded": 1968, "hq": "佛山",
+      "tier": "大众", "tags": ["全品类", "机器人", "科技集团"], "slogan": "科技尽善,生活尽美",
+      "desc": "何享健的佛山家电帝国,全品类通吃+收购库卡机器人,中国家电营收之王。",
+      "story": "1968年何享健带23人做塑料瓶盖起家,1980年转做电风扇,此后空调、小家电全面开花。2016年收购德国库卡机器人,转型科技集团。\n旗下小天鹅、华凌、COLMO多品牌矩阵,多元化程度中国第一。",
+      "products": [
+        { "id": "midea-ac", "name": "美的空调", "nameEn": "Air Conditioners", "type": "空调", "price": { "min": 1500, "max": 20000, "label": "零售参考价" }, "desc": "与格力缠斗多年的空调二哥,酷省电系列主打节能。", "highlights": ["酷省电", "全品类"], "tags": ["空调"] },
+        { "id": "midea-ricecooker", "name": "美的电饭煲", "nameEn": "Rice Cookers", "type": "电饭煲", "price": { "min": 150, "max": 2000, "label": "零售参考价" }, "desc": "IH电磁加热球釜,国民饭煲的常青款。", "highlights": ["IH加热", "球釜内胆"], "tags": ["厨电"] },
+        { "id": "midea-washer", "name": "小天鹅洗衣机", "nameEn": "Little Swan", "type": "洗衣机", "price": { "min": 1000, "max": 10000, "label": "零售参考价" }, "desc": "1958年的国民洗衣品牌,水魔方护色洗是招牌。", "highlights": ["水魔方", "国民品牌"], "tags": ["洗衣机"] },
+        { "id": "midea-fan", "name": "美的风扇/空气循环扇", "nameEn": "Fans", "type": "风扇", "price": { "min": 100, "max": 1500, "label": "零售参考价" }, "desc": "从风扇起家的老本行,空气循环扇近年翻红。", "highlights": ["老本行", "循环扇"], "tags": ["风扇"] },
+        { "id": "midea-kuka", "name": "库卡机器人", "nameEn": "KUKA Robotics", "type": "工业机器人", "price": { "min": 100000, "max": 2000000, "label": "采购参考价" }, "desc": "四大工业机器人集团之一,美的科技化的船票。", "highlights": ["四大机器人", "德国精工"], "tags": ["机器人"] }
+      ]
+    },
+    {
+      "id": "gree", "name": "格力", "nameEn": "GREE", "domain": "gree.com",
+      "categoryId": "home", "country": "中国", "founded": 1991, "hq": "珠海",
+      "tier": "大众", "tags": ["空调霸主", "掌握核心科技", "董明珠"], "slogan": "让世界爱上中国造",
+      "desc": "「好空调,格力造」的空调一姐,董明珠的个人IP与铁腕质量文化同样出名。",
+      "story": "1991年朱江洪奠基,董明珠从业务员一路做到董事长,「格力掌握核心科技」的广告语撑起空调霸主地位二十余年。家用空调市占率长期第一。\n近年多元化(手机、芯片、新能源)争议不断,但空调基本盘依然坚硬。",
+      "products": [
+        { "id": "gree-ac", "name": "格力空调", "nameEn": "Air Conditioners", "type": "空调", "price": { "min": 2500, "max": 30000, "label": "零售参考价" }, "desc": "自研压缩机+十年包修,家用空调的品质符号。", "highlights": ["十年包修", "自研压缩机"], "tags": ["空调"] },
+        { "id": "gree-freshtec", "name": "新风空调", "nameEn": "Fresh Air AC", "type": "空调", "price": { "min": 5000, "max": 20000, "label": "零售参考价" }, "desc": "双全新风系统,关着窗也能换气的健康款。", "highlights": ["新风系统", "健康化"], "tags": ["空调"] },
+        { "id": "gree-fan", "name": "塔扇/循环扇", "nameEn": "Fans", "type": "风扇", "price": { "min": 200, "max": 1500, "label": "零售参考价" }, "desc": "静音塔扇是夏季辅热辅冷的搭配神器。", "highlights": ["静音", "塔扇"], "tags": ["风扇"] },
+        { "id": "gree-waterheater", "name": "热水器", "nameEn": "Water Heaters", "type": "热水器", "price": { "min": 1500, "max": 10000, "label": "零售参考价" }, "desc": "瞬时加热技术,洗澡不用等。", "highlights": ["瞬热", "恒温"], "tags": ["热水器"] },
+        { "id": "gree-lunos", "name": "格力钛/装备", "nameEn": "Gree Titanium", "type": "新能源装备", "price": { "min": 100000, "max": 1000000, "label": "采购参考价" }, "desc": "钛酸锂电池与工业装备的多元化布局。", "highlights": ["钛酸锂", "新能源"], "tags": ["新能源"] }
+      ]
+    },
+    {
+      "id": "hisense", "name": "海信", "nameEn": "Hisense", "domain": "hisense.com",
+      "categoryId": "home", "country": "中国", "founded": 1969, "hq": "青岛",
+      "tier": "大众", "tags": ["电视", "ULED", "体育营销"], "slogan": "海信,科技范",
+      "desc": "从青岛无线电二厂到全球电视出货量第二,ULED与激光电视是两张技术名片。",
+      "story": "1969年起步于收音机,此后电视成为主业,收购东芝映像、夏普北美电视业务后全球份额升至前列。世界杯、欧洲杯的中国广告位被它承包多年。\n旗下还有容声冰箱、科龙空调与海信日立中央空调。",
+      "products": [
+        { "id": "hisense-tv", "name": "ULED 电视", "nameEn": "ULED TV", "type": "电视", "price": { "min": 2000, "max": 50000, "label": "零售参考价" }, "desc": "自研画质芯片+ULED X,世界杯同款大屏。", "highlights": ["画质芯片", "大屏旗舰"], "tags": ["电视"] },
+        { "id": "hisense-laser", "name": "激光电视", "nameEn": "Laser TV", "type": "激光电视", "price": { "min": 8000, "max": 80000, "label": "零售参考价" }, "desc": "百吋巨幕的激光电视品类开创者。", "highlights": ["百吋巨幕", "品类开创"], "tags": ["电视"] },
+        { "id": "hisense-rongsheng", "name": "容声冰箱", "nameEn": "Ronshen", "type": "冰箱", "price": { "min": 1500, "max": 15000, "label": "零售参考价" }, "desc": "养鲜技术派,1983年的老牌冰箱。", "highlights": ["养鲜", "老牌"], "tags": ["冰箱"] },
+        { "id": "hisense-centralac", "name": "海信日立中央空调", "nameEn": "Hisense Hitachi", "type": "中央空调", "price": { "min": 15000, "max": 100000, "label": "零售参考价" }, "desc": "家装中央空调的主流选择之一。", "highlights": ["中央空调", "家装主流"], "tags": ["中央空调"] },
+        { "id": "hisense-washer", "name": "海信洗衣机", "nameEn": "Washing Machines", "type": "洗衣机", "price": { "min": 1000, "max": 8000, "label": "零售参考价" }, "desc": "蒸烫除菌洗,高性价比之选。", "highlights": ["蒸烫洗", "性价比"], "tags": ["洗衣机"] }
+      ]
+    },
+    {
+      "id": "robam", "name": "老板电器", "nameEn": "ROBAM", "domain": "robam.com",
+      "categoryId": "home", "country": "中国", "founded": 1979, "hq": "杭州",
+      "tier": "中档", "tags": ["油烟机", "厨电", "中式烹饪"], "slogan": "只做好厨房这一件事",
+      "desc": "45年只做厨房电器的中式厨电之王,大吸力油烟机是国民厨房的标配记忆。",
+      "story": "1979年任建华在杭州余杭做剪刀起家,1988年转型油烟机,「大吸力」三个字钉进了品牌基因。中国每卖出三台油烟机就有一台是老板。\n近年布局洗碗机、蒸烤一体机,向中式烹饪全场景走。",
+      "products": [
+        { "id": "robam-hood", "name": "大吸力油烟机", "nameEn": "Range Hoods", "type": "油烟机", "price": { "min": 2000, "max": 10000, "label": "零售参考价" }, "desc": "27m³级大风量的中式爆炒救星。", "highlights": ["大吸力", "中式爆炒"], "tags": ["油烟机"] },
+        { "id": "robam-stove", "name": "燃气灶", "nameEn": "Gas Hobs", "type": "燃气灶", "price": { "min": 1500, "max": 8000, "label": "零售参考价" }, "desc": "3D猛火系列,大火力慢炖两相宜。", "highlights": ["3D猛火", "点火快"], "tags": ["灶具"] },
+        { "id": "robam-steambake", "name": "蒸烤一体机", "nameEn": "Steam & Bake", "type": "蒸烤箱", "price": { "min": 3000, "max": 15000, "label": "零售参考价" }, "desc": "一机两用省空间,中式菜本的智能菜谱。", "highlights": ["蒸烤一体", "智能菜谱"], "tags": ["蒸烤"] },
+        { "id": "robam-dishwasher", "name": "洗碗机", "nameEn": "Dishwashers", "type": "洗碗机", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "专治中式重油污的洗消烘存一体机。", "highlights": ["重油污", "洗消烘存"], "tags": ["洗碗机"] },
+        { "id": "robam-integrated", "name": "集成灶/集成烹饪中心", "nameEn": "Integrated Cooking Center", "type": "集成厨电", "price": { "min": 8000, "max": 40000, "label": "零售参考价" }, "desc": "烟灶蒸烤连动的集成烹饪中心,厨房动线一体化。", "highlights": ["集成联动", "动线优化"], "tags": ["集成"] }
+      ]
+    },
+    {
+      "id": "fotile", "name": "方太", "nameEn": "Fotile", "domain": "fotile.com",
+      "categoryId": "home", "country": "中国", "founded": 1996, "hq": "宁波",
+      "tier": "中档", "tags": ["厨电", "儒道经营", "水槽洗碗机"], "slogan": "因爱伟大",
+      "desc": "茅氏父子的高端厨电品牌,以儒家文化治企,水槽洗碗机是它发明的品类。",
+      "story": "1996年茅理翔、茅忠群父子在宁波创业,坚持不打价格战、不上市,把「仁义礼智信」写进公司制度。云魔方油烟机与水槽洗碗机都是品类创新代表。\n高端厨电市场与老板电器双雄并立,客单价常年更高。",
+      "products": [
+        { "id": "fotile-hood", "name": "云魔方油烟机", "nameEn": "Range Hoods", "type": "油烟机", "price": { "min": 3000, "max": 12000, "label": "零售参考价" }, "desc": "蝶翼环吸技术,不跑烟的高端首选。", "highlights": ["蝶翼环吸", "高端"], "tags": ["油烟机"] },
+        { "id": "fotile-sinkwasher", "name": "水槽洗碗机", "nameEn": "Sink Dishwasher", "type": "洗碗机", "price": { "min": 5000, "max": 20000, "label": "零售参考价" }, "desc": "方太发明的品类:水槽+洗碗机+果蔬净化三合一。", "highlights": ["品类发明", "果蔬净化"], "tags": ["洗碗机"] },
+        { "id": "fotile-stove", "name": "燃气灶", "nameEn": "Gas Hobs", "type": "燃气灶", "price": { "min": 2000, "max": 9000, "label": "零售参考价" }, "desc": "多段火力精控,炖炒皆有章法。", "highlights": ["多段火力", "精控"], "tags": ["灶具"] },
+        { "id": "fotile-purifier", "name": "净水机", "nameEn": "Water Purifiers", "type": "净水器", "price": { "min": 2000, "max": 12000, "label": "零售参考价" }, "desc": "NSP选择性过滤,保留矿物质的健康水。", "highlights": ["选择性过滤", "矿物质保留"], "tags": ["净水"] },
+        { "id": "fotile-steamer", "name": "蒸箱", "nameEn": "Steam Ovens", "type": "蒸烤箱", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "双蒸箱结构,中式蒸菜的专用兵器。", "highlights": ["双蒸箱", "中式蒸菜"], "tags": ["蒸烤"] }
+      ]
+    },
+    {
+      "id": "vatti", "name": "华帝", "nameEn": "VATTI", "domain": "vatti.com.cn",
+      "categoryId": "home", "country": "中国", "founded": 1992, "hq": "中山",
+      "tier": "大众", "tags": ["厨电", "火炬", "运动营销"], "slogan": "智慧+,更好家",
+      "desc": "广东中山厨电三巨头之一,曾为奥运会制造火炬,「退全款」世界杯营销一战成名。",
+      "story": "1992年七位创始人创业于中山,以燃气灶起家。2008年北京奥运火炬「祥云」出自华帝之手。2018年世界杯「法国队夺冠退全款」成为营销史名场面。\n烟灶热水器全品类,主打年轻化与智能化。",
+      "products": [
+        { "id": "vatti-hood", "name": "油烟机", "nameEn": "Range Hoods", "type": "油烟机", "price": { "min": 1500, "max": 8000, "label": "零售参考价" }, "desc": "高频自动洗技术,免拆洗的懒人福音。", "highlights": ["自动洗", "大吸力"], "tags": ["油烟机"] },
+        { "id": "vatti-stove", "name": "聚能燃气灶", "nameEn": "Gas Hobs", "type": "燃气灶", "price": { "min": 1000, "max": 6000, "label": "零售参考价" }, "desc": "聚能燃烧技术,热效率行业领先。", "highlights": ["聚能燃烧", "热效率"], "tags": ["灶具"] },
+        { "id": "vatti-waterheater", "name": "热水器", "nameEn": "Water Heaters", "type": "热水器", "price": { "min": 1000, "max": 8000, "label": "零售参考价" }, "desc": "零冷水技术,即开即热的沐浴体验。", "highlights": ["零冷水", "即开即热"], "tags": ["热水器"] },
+        { "id": "vatti-integrated", "name": "集成灶", "nameEn": "Integrated Stove", "type": "集成厨电", "price": { "min": 6000, "max": 25000, "label": "零售参考价" }, "desc": "下排式集成灶,小厨房的空间方案。", "highlights": ["下排式", "省空间"], "tags": ["集成"] },
+        { "id": "vatti-dishwasher", "name": "洗碗机", "nameEn": "Dishwashers", "type": "洗碗机", "price": { "min": 3000, "max": 15000, "label": "零售参考价" }, "desc": "干态存储技术,洗完即存不返潮。", "highlights": ["干态存储", "除菌"], "tags": ["洗碗机"] }
+      ]
+    },
+    {
+      "id": "supor", "name": "苏泊尔", "nameEn": "SUPOR", "domain": "supor.com",
+      "categoryId": "home", "country": "中国", "founded": 1994, "hq": "杭州",
+      "tier": "大众", "tags": ["炊具之王", "压力锅", "SEB系"], "slogan": "Cook on the bright side",
+      "desc": "中国炊具行业第一家上市公司,一口安全压力锅起家,如今从锅铲到电饭煲全线通吃。",
+      "story": "1994年苏增福在玉环做压力锅,把「安全」做成代名词。2007年法国SEB集团控股,借其技术与渠道走向全球。电饭煲、炒锅、空气炸锅市占率长期领先。\n「什么都做,什么都能打」的国民厨具品牌。",
+      "products": [
+        { "id": "supor-pressure", "name": "压力锅", "nameEn": "Pressure Cookers", "type": "压力锅", "price": { "min": 100, "max": 800, "label": "零售参考价" }, "desc": "安全压力锅的开山立代之作,一锅传三代。", "highlights": ["安全阀", "传家锅"], "tags": ["炊具"] },
+        { "id": "supor-ricecooker", "name": "电饭煲", "nameEn": "Rice Cookers", "type": "电饭煲", "price": { "min": 150, "max": 1500, "label": "零售参考价" }, "desc": "本釜内胆远红外加热,柴火饭的口感复刻。", "highlights": ["本釜内胆", "远红外"], "tags": ["厨电"] },
+        { "id": "supor-frypan", "name": "炒锅系列", "nameEn": "Woks", "type": "炒锅", "price": { "min": 100, "max": 800, "label": "零售参考价" }, "desc": "无涂层铁锅与麦饭石不粘锅双线,国民炒菜锅。", "highlights": ["无涂层", "麦饭石"], "tags": ["炊具"] },
+        { "id": "supor-airfryer", "name": "空气炸锅", "nameEn": "Air Fryers", "type": "空气炸锅", "price": { "min": 200, "max": 1200, "label": "零售参考价" }, "desc": "可视窗大容量款,炸锅潮流的跟进王者。", "highlights": ["可视窗", "大容量"], "tags": ["厨电"] },
+        { "id": "supor-blender", "name": "破壁机", "nameEn": "High-Speed Blenders", "type": "破壁机", "price": { "min": 300, "max": 2000, "label": "零售参考价" }, "desc": "低音降噪的静音破壁,早餐豆浆五分钟。", "highlights": ["低音降噪", "早餐"], "tags": ["厨电"] }
+      ]
+    },
+    {
+      "id": "joyoung", "name": "九阳", "nameEn": "Joyoung", "domain": "joyoung.com",
+      "categoryId": "home", "country": "中国", "founded": 1994, "hq": "济南",
+      "tier": "大众", "tags": ["豆浆机鼻祖", "免洗", "太空科技"], "slogan": "健康,不止一面",
+      "desc": "王旭宁发明的豆浆机开创了一个行业,如今以「太空科技」与免洗技术继续领跑小家电。",
+      "story": "1994年山东工大的年轻教师王旭宁发明全自动豆浆机,九阳从此成为豆浆的代名词。后布局破壁机、蒸烤与洗碗机,还与中国航天联名开发太空厨房技术。\n「不用手洗破壁机」是近年最大爆款,直击清洗痛点。",
+      "products": [
+        { "id": "joyoung-soymilk", "name": "豆浆机", "nameEn": "Soymilk Makers", "type": "豆浆机", "price": { "min": 200, "max": 2000, "label": "零售参考价" }, "desc": "行业发明者的看家本领,干豆直打全自动。", "highlights": ["品类发明者", "全自动"], "tags": ["厨房小电"] },
+        { "id": "joyoung-nowash", "name": "免洗破壁机", "nameEn": "No-Wash Blender", "type": "破壁机", "price": { "min": 800, "max": 4000, "label": "零售参考价" }, "desc": "自动清洗+热烘除菌,打完豆浆自己洗澡。", "highlights": ["自动清洗", "热烘除菌"], "tags": ["厨房小电"] },
+        { "id": "joyoung-ricecooker", "name": "蒸汽电饭煲", "nameEn": "Steam Rice Cooker", "type": "电饭煲", "price": { "min": 500, "max": 3000, "label": "零售参考价" }, "desc": "太空舱设计,蒸汽加热还原古法柴火饭。", "highlights": ["蒸汽加热", "太空联名"], "tags": ["厨房小电"] },
+        { "id": "joyoung-airfryer", "name": "空气炸锅", "nameEn": "Air Fryers", "type": "空气炸锅", "price": { "min": 200, "max": 1200, "label": "零售参考价" }, "desc": "匀烤热风循环,少油也酥脆。", "highlights": ["热风循环", "少油"], "tags": ["厨房小电"] },
+        { "id": "joyoung-blender", "name": "榨汁机/原汁机", "nameEn": "Juicers", "type": "榨汁机", "price": { "min": 200, "max": 1500, "label": "零售参考价" }, "desc": "慢磨原汁技术,渣汁分离不氧化。", "highlights": ["慢磨原汁", "渣汁分离"], "tags": ["厨房小电"] }
+      ]
+    },
+    {
+      "id": "bear", "name": "小熊电器", "nameEn": "Bear Electric", "domain": "bearappliance.com",
+      "categoryId": "home", "country": "中国", "founded": 2006, "hq": "佛山",
+      "tier": "大众", "tags": ["创意小家电", "萌系", "年轻人"], "slogan": "妙想生活",
+      "desc": "专攻年轻人的萌系小家电:酸奶机、煮蛋器、养生壶,把一人食场景做到极致。",
+      "story": "2006年李一峰在佛山创立,避开大家电红海,专做「小而美」的长尾小家电。电商起家,颜值+场景细分是打法:一人食电饭煲、办公室养生壶、宿舍煮蛋器。\n2020年上市,是「宅经济」与颜值经济的代表玩家。",
+      "products": [
+        { "id": "bear-yogurt", "name": "酸奶机", "nameEn": "Yogurt Makers", "type": "酸奶机", "price": { "min": 60, "max": 300, "label": "零售参考价" }, "desc": "发家品类,一按到位的自制酸奶。", "highlights": ["发家品类", "傻瓜操作"], "tags": ["小家电"] },
+        { "id": "bear-teapot", "name": "养生壶", "nameEn": "Health Kettles", "type": "养生壶", "price": { "min": 80, "max": 400, "label": "零售参考价" }, "desc": "办公室煮花茶枸杞的标配,多段温控。", "highlights": ["多段温控", "办公室必备"], "tags": ["小家电"] },
+        { "id": "bear-eggs", "name": "煮蛋器", "nameEn": "Egg Cookers", "type": "煮蛋器", "price": { "min": 40, "max": 200, "label": "零售参考价" }, "desc": "早餐蛋自由,蒸蛋溏心蛋一键搞定。", "highlights": ["一键", "早餐"], "tags": ["小家电"] },
+        { "id": "bear-minirice", "name": "一人食电饭煲", "nameEn": "Mini Rice Cooker", "type": "电饭煲", "price": { "min": 100, "max": 400, "label": "零售参考价" }, "desc": "1.2L迷你容量,独居青年的米饭救星。", "highlights": ["一人食", "迷你"], "tags": ["小家电"] },
+        { "id": "bear-oven", "name": "迷你烤箱", "nameEn": "Mini Ovens", "type": "烤箱", "price": { "min": 100, "max": 600, "label": "零售参考价" }, "desc": "12L小烤箱,租房烘焙入门首选。", "highlights": ["迷你", "租房友好"], "tags": ["小家电"] }
+      ]
+    },
+    {
+      "id": "buydeem", "name": "北鼎", "nameEn": "Buydeem", "domain": "buydeem.com",
+      "categoryId": "home", "country": "中国", "founded": 2003, "hq": "深圳",
+      "tier": "中档", "tags": ["高端养生壶", "颜值", "慢下来"], "slogan": "让时间有味",
+      "desc": "小家电里的「爱马仕」:一只上千元的养生壶,把喝水煮茶做成了精致生活方式。",
+      "story": "2003年起家于代工,2012年推自有品牌,以莫兰迪色系与玻璃质感杀出重围。K系列养生壶成为办公室中产的社交货币,「北鼎绿」自带品牌识别度。\n上市后扩展蒸炖锅、饮水机,坚持不打折的价控策略。",
+      "products": [
+        { "id": "buydeem-k", "name": "K系列养生壶", "nameEn": "K Health Kettle", "type": "养生壶", "price": { "min": 500, "max": 1500, "label": "零售参考价" }, "desc": "玻璃壶身+精准温控,煮茶炖汤的颜值之王。", "highlights": ["玻璃质感", "精准温控"], "tags": ["养生"] },
+        { "id": "buydeem-steamer", "name": "蒸炖锅", "nameEn": "Steamer Pot", "type": "蒸炖锅", "price": { "min": 800, "max": 2500, "label": "零售参考价" }, "desc": "双层蒸炖,轻食党的一锅端解决方案。", "highlights": ["双层蒸炖", "轻食"], "tags": ["厨房"] },
+        { "id": "buydeem-drinker", "name": "即热饮水机", "nameEn": "Instant Hot Water", "type": "饮水机", "price": { "min": 800, "max": 2500, "label": "零售参考价" }, "desc": "3秒即热多段水温,泡奶泡茶各就各位。", "highlights": ["3秒即热", "多段水温"], "tags": ["饮水"] },
+        { "id": "buydeem-teacup", "name": "焖泡杯", "nameEn": "Tea Maker Cup", "type": "茶杯", "price": { "min": 100, "max": 400, "label": "零售参考价" }, "desc": "滤网与杯一体的焖泡神器,茶渣不进口。", "highlights": ["焖泡", "滤网一体"], "tags": ["茶具"] },
+        { "id": "buydeem-oven", "name": "小烤箱", "nameEn": "Toaster Oven", "type": "烤箱", "price": { "min": 500, "max": 1500, "label": "零售参考价" }, "desc": "复古色系小烤箱,烤吐司的精致 mornings。", "highlights": ["复古色", "早餐"], "tags": ["烘焙"] }
+      ]
+    },
+    {
+      "id": "panasonic", "name": "松下", "nameEn": "Panasonic", "domain": "panasonic.com",
+      "categoryId": "home", "country": "日本", "founded": 1918, "hq": "大阪",
+      "tier": "中档", "tags": ["百年松下", "经营之神", "全品类"], "slogan": "A Better Life, A Better World",
+      "desc": "松下幸之助创立的百年巨头,从灯泡到洗衣机、马桶盖、电池,「经营的之神」遗产遍布生活。",
+      "story": "1918年松下幸之助在大阪做插头起家,以「自来水哲学」与终身雇佣文化影响整个日本商界。中国家庭的松下洗衣机、马桶盖、nanoe美容仪都曾是品质符号。\n如今能源(特斯拉电池伙伴)与家电双轮驱动。",
+      "products": [
+        { "id": "panasonic-washer", "name": "阿尔法洗衣机", "nameEn": "Alpha Washer", "type": "洗衣机", "price": { "min": 4000, "max": 30000, "label": "零售参考价" }, "desc": "斜滚筒+nanoe除菌,护衣黑科技的代名词。", "highlights": ["斜滚筒", "nanoe除菌"], "tags": ["洗护"] },
+        { "id": "panasonic-washlet", "name": "智能马桶盖", "nameEn": "Washlet", "type": "智能马桶", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "让中国游客去日本背回来的现象级单品。", "highlights": ["即热冲洗", "赴日抢购史"], "tags": ["卫浴"] },
+        { "id": "panasonic-bath", "name": "浴霸", "nameEn": "Bathroom Heaters", "type": "浴霸", "price": { "min": 800, "max": 6000, "label": "零售参考价" }, "desc": "风暖浴霸的日系标杆,冬天浴室的救星。", "highlights": ["风暖", "静音"], "tags": ["卫浴"] },
+        { "id": "panasonic-beauty", "name": "nanoe 美容仪/吹风机", "nameEn": "Beauty Appliances", "type": "个护", "price": { "min": 300, "max": 3000, "label": "零售参考价" }, "desc": "纳米水离子护发护肤,人鱼姬吹风机是网红款。", "highlights": ["纳米水离子", "人鱼姬"], "tags": ["个护"] },
+        { "id": "panasonic-battery", "name": "Eneloop 爱乐普电池", "nameEn": "Eneloop", "type": "充电电池", "price": { "min": 50, "max": 400, "label": "零售参考价" }, "desc": "2100次循环的低自放电镍氢电池,玩具遥控器救星。", "highlights": ["2100次循环", "低自放电"], "tags": ["电池"] }
+      ]
+    },
+    {
+      "id": "sharp", "name": "夏普", "nameEn": "SHARP", "domain": "sharp-global.com",
+      "categoryId": "home", "country": "日本", "founded": 1912, "hq": "堺市",
+      "tier": "中档", "tags": ["液晶之父", "净离子群", "早川"], "slogan": "Be Original",
+      "desc": "早川德次的百年企业:从 Ever-Sharp 铅笔到液晶屏之父,净离子群净化技术是健康家电王牌。",
+      "story": "1912年早川德次发明自动铅笔(Ever-Sharp Sharp 铅笔即品牌由来),此后做出日本第一台电视与计算器,液晶技术领跑全球半个世纪。\n2016年被富士康收购后主打大屏电视与健康家电, Plasmacluster 净离子群技术仍是健康家电的王牌。",
+      "products": [
+        { "id": "sharp-tv", "name": "AQUOS 电视", "nameEn": "AQUOS TV", "type": "电视", "price": { "min": 2500, "max": 50000, "label": "零售参考价" }, "desc": "液晶之父的大屏日本原装面板,画质党老牌之选。", "highlights": ["液晶鼻祖", "日本面板"], "tags": ["电视"] },
+        { "id": "sharp-purifier", "name": "净离子群空气净化器", "nameEn": "Plasmacluster", "type": "空气净化器", "price": { "min": 1500, "max": 10000, "label": "零售参考价" }, "desc": "Plasmacluster 净离子群杀菌除味,除螨除浮尘。", "highlights": ["净离子群", "杀菌"], "tags": ["净化"] },
+        { "id": "sharp-fridge", "name": "冰箱", "nameEn": "Refrigerators", "type": "冰箱", "price": { "min": 3000, "max": 25000, "label": "零售参考价" }, "desc": "超薄箱体+自动制冰,日系小空间的精致方案。", "highlights": ["超薄", "自动制冰"], "tags": ["冰箱"] },
+        { "id": "sharp-humidifier", "name": "加湿器", "nameEn": "Humidifiers", "type": "加湿器", "price": { "min": 800, "max": 6000, "label": "零售参考价" }, "desc": "净离子+加湿二合一,冬季干燥救星。", "highlights": ["加湿净化", "静音"], "tags": ["净化"] },
+        { "id": "sharp-pen", "name": "自动铅笔(历史产品)", "nameEn": "Ever-Sharp Pencil", "type": "文具", "price": { "min": 50, "max": 500, "label": "收藏参考价" }, "desc": "1915年的发明,品牌名字的由来。", "highlights": ["1915发明", "品牌起源"], "tags": ["历史"] }
+      ]
+    },
+    {
+      "id": "bosch", "name": "博世", "nameEn": "Bosch", "domain": "bosch-home.cn",
+      "categoryId": "home", "country": "德国", "founded": 1886, "hq": "斯图加特",
+      "tier": "中档", "tags": ["德国精工", "全品类", "汽车技术"], "slogan": "Invented for life",
+      "desc": "罗伯特·博世的百年工业巨头,家电业务与西门子同属博西集团,德系品质的通用符号。",
+      "story": "1886年罗伯特·博世在斯图加特开精密机械车间,后来成为汽车零部件霸主与电动工具巨头。博西家电由博世与西门子合资演变而来,冰箱洗衣机洗洗碗机全线德标。\n8系洗碗机与活氧除菌是其家电明星技术。",
+      "products": [
+        { "id": "bosch-dishwasher", "name": "8系洗碗机", "nameEn": "Series 8 Dishwasher", "type": "洗碗机", "price": { "min": 6000, "max": 30000, "label": "零售参考价" }, "desc": "晶蕾烘干技术,德系洗碗机的天花板之一。", "highlights": ["晶蕾烘干", "德标"], "tags": ["洗碗机"] },
+        { "id": "bosch-fridge", "name": "冰箱", "nameEn": "Refrigerators", "type": "冰箱", "price": { "min": 4000, "max": 30000, "label": "零售参考价" }, "desc": "零度维他保鲜室,蔬果一周水灵。", "highlights": ["零度保鲜", "混冷"], "tags": ["冰箱"] },
+        { "id": "bosch-washer", "name": "洗衣机", "nameEn": "Washing Machines", "type": "洗衣机", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "i-DOS 自动投放,洗衣液都帮你算好。", "highlights": ["i-DOS", "静音"], "tags": ["洗护"] },
+        { "id": "bosch-tool", "name": "电动工具", "nameEn": "Power Tools", "type": "电动工具", "price": { "min": 200, "max": 10000, "label": "零售参考价" }, "desc": "DIY 与装修党的蓝绿双色信仰。", "highlights": ["DIY神器", "耐用"], "tags": ["工具"] },
+        { "id": "bosch-auto", "name": "汽车技术", "nameEn": "Automotive Tech", "type": "汽车部件", "price": { "min": 200, "max": 50000, "label": "配件参考价" }, "desc": "ESP、喷油嘴、雨刮……世界每辆车里都有博世。", "highlights": ["ESP发明", "全球配套"], "tags": ["汽车"] }
+      ]
+    },
+    {
+      "id": "siemens", "name": "西门子", "nameEn": "SIEMENS", "domain": "siemens-home.cn",
+      "categoryId": "home", "country": "德国", "founded": 1847, "hq": "慕尼黑",
+      "tier": "中档", "tags": ["百年电气", "德系", "博西系"], "slogan": "Ingenuity for life",
+      "desc": "1847年维尔纳·冯·西门子创立的电气巨人,家电业务与博世同门,「德国 quality」的代名词。",
+      "story": "西门子从电报机起家,电气化铁路、医疗设备(MR)无所不包。家电部分并入博西家电后,在中国以冰箱洗衣机为主打,「零度生物保鲜」曾是高端冰箱的代名词。\niQ300/iQ500 系列是 apartments 与新家的常见选择。",
+      "products": [
+        { "id": "siemens-fridge", "name": "零度保鲜冰箱", "nameEn": "FreshSense Fridge", "type": "冰箱", "price": { "min": 4000, "max": 35000, "label": "零售参考价" }, "desc": "零度生物保鲜室的开创者,德系冰箱标杆。", "highlights": ["零度保鲜", "德系"], "tags": ["冰箱"] },
+        { "id": "siemens-washer", "name": "洗衣机", "nameEn": "Washing Machines", "type": "洗衣机", "price": { "min": 3500, "max": 20000, "label": "零售参考价" }, "desc": "iqDrive 变频+防过敏程序,静音耐用。", "highlights": ["iqDrive", "防过敏"], "tags": ["洗护"] },
+        { "id": "siemens-dishwasher", "name": "洗碗机", "nameEn": "Dishwashers", "type": "洗碗机", "price": { "min": 5000, "max": 25000, "label": "零售参考价" }, "desc": "余热烘干+德标洗净率,十三套大容量。", "highlights": ["十三套", "余热烘干"], "tags": ["洗碗机"] },
+        { "id": "siemens-oven", "name": "蒸烤一体机", "nameEn": "Ovens", "type": "蒸烤箱", "price": { "min": 5000, "max": 30000, "label": "零售参考价" }, "desc": "cookControl 智能菜谱,德式烘焙的严谨。", "highlights": ["智能菜谱", "德式烘焙"], "tags": ["蒸烤"] },
+        { "id": "siemens-industry", "name": "工业自动化", "nameEn": "Industrial Automation", "type": "工业系统", "price": { "min": 1000, "max": 1000000, "label": "采购参考价" }, "desc": "PLC 之王的另一面:世界工厂的大脑。", "highlights": ["PLC之王", "工业4.0"], "tags": ["工业"] }
+      ]
+    },
+    {
+      "id": "miele", "name": "美诺", "nameEn": "MIELE", "domain": "miele.com",
+      "categoryId": "home", "country": "德国", "founded": 1899, "hq": "居特斯洛",
+      "tier": "顶奢", "tags": ["家电爱马仕", "20年寿命", "家族企业"], "slogan": "Immer Besser(永远更好)",
+      "desc": "德国百年家族企业,家电界的爱马仕:一台洗衣机设计寿命20年,价格也令人肃然起敬。",
+      "story": "1899年 Carl Miele 与合伙人创办,家族四代经营,坚持德国自产与极端耐用测试。「Immer Besser」(永远更好)是1899年至今的slogan。\nW1 洗衣机、G7000 洗碗机与咖啡机是中产厨房的终极向往,泰国王室的御用家电。",
+      "products": [
+        { "id": "miele-washer", "name": "W1 洗衣机", "nameEn": "W1 Washing Machine", "type": "洗衣机", "price": { "min": 10000, "max": 40000, "label": "零售参考价" }, "desc": "20年设计寿命+蜂窝滚筒,洗护界的机械表。", "highlights": ["20年寿命", "蜂窝滚筒"], "tags": ["洗护"] },
+        { "id": "miele-dishwasher", "name": "G系列洗碗机", "nameEn": "G Series Dishwasher", "type": "洗碗机", "price": { "min": 12000, "max": 50000, "label": "零售参考价" }, "desc": "AutoDos 自动投放洗碗剂,极静音运行。", "highlights": ["AutoDos", "极静音"], "tags": ["洗碗机"] },
+        { "id": "miele-coffee", "name": "全自动咖啡机", "nameEn": "Coffee Machines", "type": "咖啡机", "price": { "min": 8000, "max": 50000, "label": "零售参考价" }, "desc": "嵌入式咖啡机之王,豆到杯的德式仪式。", "highlights": ["嵌入式", "豆到杯"], "tags": ["咖啡"] },
+        { "id": "miele-vacuum", "name": "吸尘器", "nameEn": "Vacuum Cleaners", "type": "吸尘器", "price": { "min": 3000, "max": 12000, "label": "零售参考价" }, "desc": "C3 立式吸尘器的深层过滤技术,过敏体质的福音。", "highlights": ["深过滤", "耐用"], "tags": ["清洁"] },
+        { "id": "miele-oven", "name": "嵌入式烤箱", "nameEn": "Ovens", "type": "烤箱", "price": { "min": 15000, "max": 80000, "label": "零售参考价" }, "desc": "湿度辅助烘烤,德式烘焙的精准。", "highlights": ["湿度控制", "嵌入式"], "tags": ["烘焙"] }
+      ]
+    },
+    {
+      "id": "lg", "name": "LG", "nameEn": "LG Electronics", "domain": "lg.com",
+      "categoryId": "home", "country": "韩国", "founded": 1958, "hq": "首尔",
+      "tier": "中档", "tags": ["OLED之王", "美学家电", " Lifestyle"], "slogan": "Life's Good",
+      "desc": "韩国第二大财团 LG 旗下的电子巨头,OLED 电视之王,LG 的生活家电以「美学+黑科技」著称。",
+      "story": "1958年金星社(GoldStar)创立,与 LG 化学同根。电视 OLED 面板技术全球第一梯队,洗衣机蒸汽除菌、 styler 蒸汽衣物护理机、InstaView 敲两下就亮的冰箱都是名场面。\n近年 Object Collection 艺术家电把家电做成了家具。",
+      "products": [
+        { "id": "lg-oled", "name": "OLED evo 电视", "nameEn": "OLED evo TV", "type": "电视", "price": { "min": 6000, "max": 100000, "label": "零售参考价" }, "desc": "自产 OLED 面板的画质天花板之一,观影游戏双修。", "highlights": ["自产OLED", "画质天花板"], "tags": ["电视"] },
+        { "id": "lg-styler", "name": "Styler 衣物护理机", "nameEn": "Styler", "type": "衣物护理", "price": { "min": 8000, "max": 40000, "label": "零售参考价" }, "desc": "蒸汽除皱除味,西装大衣的挂烫黑科技。", "highlights": ["蒸汽护理", "除皱除味"], "tags": ["洗护"] },
+        { "id": "lg-instaview", "name": "InstaView 冰箱", "nameEn": "InstaView Fridge", "type": "冰箱", "price": { "min": 8000, "max": 50000, "label": "零售参考价" }, "desc": "敲两下玻璃门变透明,不开门看存货。", "highlights": ["敲击透视", "制冰机"], "tags": ["冰箱"] },
+        { "id": "lg-washer", "name": "AI 直驱洗衣机", "nameEn": "AI DD Washer", "type": "洗衣机", "price": { "min": 4000, "max": 30000, "label": "零售参考价" }, "desc": "DD直驱电机+AI洗护,轻柔与洁净兼得。", "highlights": ["DD直驱", "AI洗护"], "tags": ["洗护"] },
+        { "id": "lg-puricare", "name": "PuriCare 空气净化器", "nameEn": "PuriCare", "type": "空气净化器", "price": { "min": 2000, "max": 15000, "label": "零售参考价" }, "desc": "变频净化+坐垫式设计,低噪静音。", "highlights": ["变频净化", "低噪"], "tags": ["净化"] }
+      ]
+    },
+    {
+      "id": "electrolux", "name": "伊莱克斯", "nameEn": "Electrolux", "domain": "electrolux.com",
+      "categoryId": "home", "country": "瑞典", "founded": 1919, "hq": "斯德哥尔摩",
+      "tier": "中档", "tags": ["北欧", "全球第二", "专业厨房"], "slogan": "Shape living for the better",
+      "desc": "瑞典百年家电集团,全球销售额第二,旗下还有 AEG、Frigidaire,专业厨房里的北欧身影。",
+      "story": "1919年 Lux 与 Elektromekanisk 合并而成,吸尘器与冰箱起家。全球餐饮界知名度极高——专业厨房与「世界厨师大赛」的赞助常客。\n设计感与北欧极简审美是它的差异化标签。",
+      "products": [
+        { "id": "electrolux-fridge", "name": "对开门冰箱", "nameEn": "Side-by-Side Fridge", "type": "冰箱", "price": { "min": 4000, "max": 25000, "label": "零售参考价" }, "desc": "风冷无霜+变温区,北欧极简的白色大件。", "highlights": ["风冷无霜", "变温区"], "tags": ["冰箱"] },
+        { "id": "electrolux-washer", "name": "洗干一体机", "nameEn": "Washer Dryers", "type": "洗衣机", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "热泵烘干护衣,北欧湿冷天气的答案。", "highlights": ["热泵烘干", "护衣"], "tags": ["洗护"] },
+        { "id": "electrolux-dishwasher", "name": "洗碗机", "nameEn": "Dishwashers", "type": "洗碗机", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "卫星喷淋臂,角落也能洗净。", "highlights": ["卫星喷淋", "静音"], "tags": ["洗碗机"] },
+        { "id": "electrolux-vacuum", "name": "吸尘器", "nameEn": "Vacuum Cleaners", "type": "吸尘器", "price": { "min": 1000, "max": 8000, "label": "零售参考价" }, "desc": "百年吸尘器血统,大吸力立式与卧式俱全。", "highlights": ["百年血统", "大吸力"], "tags": ["清洁"] },
+        { "id": "electrolux-pro", "name": "专业厨房设备", "nameEn": "Professional Kitchens", "type": "商用设备", "price": { "min": 10000, "max": 500000, "label": "采购参考价" }, "desc": "米其林后厨与酒店的专业线,主厨们的信任票。", "highlights": ["米其林同款", "专业线"], "tags": ["商用"] }
+      ]
+    },
+    {
+      "id": "whirlpool", "name": "惠而浦", "nameEn": "Whirlpool", "domain": "whirlpool.com",
+      "categoryId": "home", "country": "美国", "founded": 1911, "hq": "密歇根州本顿港",
+      "tier": "中档", "tags": ["美式大家电", "百年", "全球制造"], "slogan": "Every day, care",
+      "desc": "1911年创立的美式大家电巨头,全球最大家电制造商之一,Maytag、KitchenAid 都在旗下。",
+      "story": "1911年 Upton 机器公司做出电动绞衣式洗衣机,此后百年靠并购成为白色家电巨无霸。KitchenAid 厨师机是烘焙圈的信仰单品。\n在中国与苏宁合作后份额有限,但美式大容量洗衣机仍是特色。",
+      "products": [
+        { "id": "whirlpool-washer", "name": "美式大容量洗衣机", "nameEn": "Large Capacity Washer", "type": "洗衣机", "price": { "min": 4000, "max": 25000, "label": "零售参考价" }, "desc": "顶开式+超大容量,美国 house 的标配画风。", "highlights": ["顶开式", "超大容量"], "tags": ["洗护"] },
+        { "id": "whirlpool-fridge", "name": "对开门冰箱", "nameEn": "Refrigerators", "type": "冰箱", "price": { "min": 4000, "max": 30000, "label": "零售参考价" }, "desc": "6th Sense 智能温控,大容积囤货派之选。", "highlights": ["6th Sense", "大容积"], "tags": ["冰箱"] },
+        { "id": "whirlpool-kitchenaid", "name": "KitchenAid 厨师机", "nameEn": "KitchenAid Stand Mixer", "type": "厨师机", "price": { "min": 3000, "max": 15000, "label": "零售参考价" }, "desc": "烘焙圈的信仰图腾,百年复古造型与百种配件。", "highlights": ["烘焙信仰", "复古造型"], "tags": ["厨电"] },
+        { "id": "whirlpool-dishwasher", "name": "洗碗机", "nameEn": "Dishwashers", "type": "洗碗机", "price": { "min": 3500, "max": 18000, "label": "零售参考价" }, "desc": "美式强力洗,重油污一次搞定。", "highlights": ["强力洗", "大容量"], "tags": ["洗碗机"] },
+        { "id": "whirlpool-ac", "name": "空调", "nameEn": "Air Conditioners", "type": "空调", "price": { "min": 2000, "max": 15000, "label": "零售参考价" }, "desc": "在华主打高性价比挂机,苏宁渠道常见。", "highlights": ["性价比", "挂机"], "tags": ["空调"] }
+      ]
+    },
+    {
+      "id": "ariston", "name": "阿里斯顿", "nameEn": "Ariston Thermo", "domain": "ariston.com",
+      "categoryId": "home", "country": "意大利", "founded": 1930, "hq": "法布里亚诺",
+      "tier": "中档", "tags": ["热水器", "意大利", "供暖"], "slogan": "Expert comfort",
+      "desc": "意大利热舒适专家:从热水器到壁挂炉,欧洲家庭的暖气与热水背后常是阿里斯顿。",
+      "story": "1930年 Aristide Merloni 在意大利中部做秤起家,后转型热水器,1960年「阿里斯顿,一个温暖的名字」进入中国成为一代人的广告记忆。\n如今专注于热水与供暖系统,壁挂炉技术全球领先。",
+      "products": [
+        { "id": "ariston-heater", "name": "电热水器", "nameEn": "Electric Water Heaters", "type": "热水器", "price": { "min": 1500, "max": 10000, "label": "零售参考价" }, "desc": "钛金内胆+持久保温,意大利的老牌工艺。", "highlights": ["钛金内胆", "保温"], "tags": ["热水"] },
+        { "id": "ariston-boiler", "name": "燃气壁挂炉", "nameEn": "Gas Boilers", "type": "壁挂炉", "price": { "min": 8000, "max": 40000, "label": "零售参考价" }, "desc": "冷凝锅炉供暖热水两用,地暖系统的心脏。", "highlights": ["冷凝技术", "地暖心脏"], "tags": ["供暖"] },
+        { "id": "ariston-heatpump", "name": "空气能热泵", "nameEn": "Heat Pump Water Heater", "type": "热泵", "price": { "min": 8000, "max": 40000, "label": "零售参考价" }, "desc": "从空气里取热,节能的欧洲主流方案。", "highlights": ["节能", "欧洲主流"], "tags": ["热泵"] },
+        { "id": "ariston-thermostat", "name": "智能温控器", "nameEn": "Smart Thermostats", "type": "温控器", "price": { "min": 500, "max": 5000, "label": "零售参考价" }, "desc": "App 远程控温,回家前先暖房。", "highlights": ["远程控制", "智能"], "tags": ["智控"] },
+        { "id": "ariston-solar", "name": "太阳能热水系统", "nameEn": "Solar Water Heaters", "type": "太阳能", "price": { "min": 5000, "max": 30000, "label": "零售参考价" }, "desc": "平板集热器,阳光充足的别墅方案。", "highlights": ["平板集热", "别墅"], "tags": ["太阳能"] }
+      ]
+    },
+    {
+      "id": "daewoo", "name": "大宇", "nameEn": "DAEWOO", "domain": "daewoobr.com",
+      "categoryId": "home", "country": "韩国", "founded": 1967, "hq": "首尔",
+      "tier": "大众", "tags": ["韩系", "挂烫机", "复古设计"], "slogan": "Built for a better life",
+      "desc": "韩国大宇集团的家电品牌,如今以复古造型的挂烫机、电风扇与 portable 洗衣机在年轻市场翻红。",
+      "story": "1967年金宇中创立大宇集团,曾是韩国第二大财阀,2000年代解体后家电业务几经流转。近年靠复古韩系设计与网红单品(挂烫机、循环扇、迷你洗衣机)在电商翻红。\n奶油色系+圆润线条,是「韩式 ins 风」家电的代表。",
+      "products": [
+        { "id": "daewoo-steamer", "name": "挂烫机", "nameEn": "Garment Steamer", "type": "挂烫机", "price": { "min": 200, "max": 1200, "label": "零售参考价" }, "desc": "翻红代表作,奶油色+蒸汽熨烫的出片神器。", "highlights": ["奶油色", "出片"], "tags": ["衣物护理"] },
+        { "id": "daewoo-fan", "name": "循环扇", "nameEn": "Air Circulator", "type": "风扇", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "复古造型+涡轮送风,夏天桌面的颜值担当。", "highlights": ["复古造型", "涡轮送风"], "tags": ["风扇"] },
+        { "id": "daewoo-miniwasher", "name": "迷你洗衣机", "nameEn": "Mini Washer", "type": "洗衣机", "price": { "min": 600, "max": 2500, "label": "零售参考价" }, "desc": "内衣裤专用的 portable 小洗衣机,租房党救星。", "highlights": ["portable", "内衣专用"], "tags": ["洗护"] },
+        { "id": "daewoo-heater", "name": "取暖器", "nameEn": "Room Heaters", "type": "取暖器", "price": { "min": 300, "max": 1500, "label": "零售参考价" }, "desc": "石墨烯速热,冬天桌边的隐形暖炉。", "highlights": ["石墨烯", "速热"], "tags": ["取暖"] },
+        { "id": "daewoo-humidifier", "name": "加湿器", "nameEn": "Humidifiers", "type": "加湿器", "price": { "min": 200, "max": 1000, "label": "零售参考价" }, "desc": "大雾量+静音,韩系简约的白雾美学。", "highlights": ["大雾量", "静音"], "tags": ["净化"] }
+      ]
+    },
+    {
+      "id": "toshiba", "name": "东芝", "nameEn": "TOSHIBA", "domain": "toshiba.com",
+      "categoryId": "home", "country": "日本", "founded": 1875, "hq": "东京",
+      "tier": "中档", "tags": ["日本第一家", "芝浦", "百年制造"], "slogan": "Touched by Toshiba",
+      "desc": "1875年田久重吉创办的日本第一家工业企业(芝浦制造所),家电与半导体都曾是世界级玩家。",
+      "story": "东芝由田中久重的「田中制造所」与芝浦制造所合并而来,日本第一台电风扇、洗衣机、冰箱都出自它手。半导体闪存技术曾全球领先,2017年后业务重组。\n家电业务归于美的系,在日本本土仍保有忠诚用户。",
+      "products": [
+        { "id": "toshiba-fridge", "name": "冰箱", "nameEn": "Refrigerators", "type": "冰箱", "price": { "min": 3000, "max": 30000, "label": "零售参考价" }, "desc": "雾化保鲜+超薄箱体,日系冰箱的细腻代表。", "highlights": ["雾化保鲜", "超薄"], "tags": ["冰箱"] },
+        { "id": "toshiba-ricecooker", "name": "电饭煲", "nameEn": "Rice Cookers", "type": "电饭煲", "price": { "min": 800, "max": 8000, "label": "零售参考价" }, "desc": "本羽釜内胆,日本米其林主厨也在用的饭煲。", "highlights": ["本羽釜", "IH加热"], "tags": ["厨电"] },
+        { "id": "toshiba-washer", "name": "洗衣机", "nameEn": "Washing Machines", "type": "洗衣机", "price": { "min": 3000, "max": 25000, "label": "零售参考价" }, "desc": "ZABOON 斜滚筒,烫平衣物的日语系温柔。", "highlights": ["斜滚筒", "静音"], "tags": ["洗护"] },
+        { "id": "toshiba-tv", "name": "REGZA 电视", "nameEn": "REGZA TV", "type": "电视", "price": { "min": 2000, "max": 30000, "label": "零售参考价" }, "desc": "REGZA画质芯片,如今与海信联手的中高端线。", "highlights": ["REGZA引擎", "中高端"], "tags": ["电视"] },
+        { "id": "toshiba-laptop", "name": "dynabook 笔记本", "nameEn": "dynabook", "type": "笔记本电脑", "price": { "min": 4000, "max": 20000, "label": "零售参考价" }, "desc": "世界最早的量产笔记本之一,商务老炮的记忆。", "highlights": ["最早笔记本", "商务本"], "tags": ["电脑"] }
+      ]
+    },
+    {
+      "id": "tcl", "name": "TCL", "nameEn": "TCL", "domain": "tcl.com",
+      "categoryId": "home", "country": "中国", "founded": 1981, "hq": "惠州",
+      "tier": "大众", "tags": ["电视面板", "全球化", "Mini LED"], "slogan": "The Creative Life",
+      "desc": "李东生的惠州电子厂,如今是全球第二大电视品牌与最大面板厂之一,Mini LED 的中国旗手。",
+      "story": "1981年做磁带起家(TCL=Today China Lion 的民间解读),1990年代电话机畅销全国,此后电视全球化。收购汤姆逊电视、华星光电自建面板厂,一路做到产业链上下游通吃。\nMini LED 电视与98吋巨幕以性价比横扫全球市场。",
+      "products": [
+        { "id": "tcl-miniled", "name": "Mini LED 电视", "nameEn": "Mini LED TV", "type": "电视", "price": { "min": 3000, "max": 50000, "label": "零售参考价" }, "desc": "万级分区背光,用一半价格买旗舰画质。", "highlights": ["万级分区", "性价比旗舰"], "tags": ["电视"] },
+        { "id": "tcl-bigscreen", "name": "98吋巨幕电视", "nameEn": "98-inch TV", "type": "电视", "price": { "min": 8000, "max": 30000, "label": "零售参考价" }, "desc": "把百吋巨幕打到万元内的价格屠夫。", "highlights": ["98吋", "价格屠夫"], "tags": ["电视"] },
+        { "id": "tcl-huaxing", "name": "华星光电面板", "nameEn": "CSOT Panels", "type": "显示面板", "price": { "min": 100, "max": 100000, "label": "B2B参考价" }, "desc": "全球半导体显示头部厂商,你家的屏幕可能都来自它。", "highlights": ["面板龙头", "产业链"], "tags": ["面板"] },
+        { "id": "tcl-ac", "name": "TCL 空调", "nameEn": "Air Conditioners", "type": "空调", "price": { "min": 1500, "max": 15000, "label": "零售参考价" }, "desc": "新风空调小蓝翼,系列化突围。", "highlights": ["新风小蓝翼", "性价比"], "tags": ["空调"] },
+        { "id": "tcl-fridge", "name": "冰箱洗衣机", "nameEn": "Fridge & Washers", "type": "白电", "price": { "min": 1200, "max": 12000, "label": "零售参考价" }, "desc": "薄嵌冰箱与超级筒洗衣机的新晋爆款线。", "highlights": ["薄嵌", "超级筒"], "tags": ["白电"] }
+      ]
+    }
+  ]
+}

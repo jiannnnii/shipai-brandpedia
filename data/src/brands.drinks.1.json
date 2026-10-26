@@ -1,0 +1,252 @@
+{
+  "brands": [
+    {
+      "id": "starbucks", "name": "星巴克", "nameEn": "Starbucks", "domain": "starbucks.com",
+      "categoryId": "drinks", "country": "美国", "founded": 1971, "hq": "西雅图",
+      "tier": "中档", "tags": ["咖啡", "第三空间", "美人鱼"], "slogan": "每个瞬间,都值得等待",
+      "desc": "全球最大咖啡连锁,把意式浓缩与「第三空间」生活方式卖到全世界,绿围裙是都市白领的接头暗号。",
+      "story": "1971年西雅图派克市场卖出第一磅咖啡豆,1987年霍华德·舒尔茨把它从卖豆子改造成卖体验——拿铁+沙发+背景乐的「第三空间」。1999年进入中国,如今中国已是其最大海外市场。\n圣诞红杯、季节限定(桂花、太妃榛果)与星享卡体系,把喝咖啡做成了仪式。",
+      "products": [
+        { "id": "starbucks-latte", "name": "拿铁", "nameEn": "Caffè Latte", "type": "咖啡", "price": { "min": 27, "max": 36, "label": "门店参考价" }, "desc": "espresso+蒸奶的经典款,中杯大杯超大杯的起点。", "highlights": ["经典款", "奶咖入门"], "tags": ["咖啡"] },
+        { "id": "starbucks-frappuccino", "name": "星冰乐", "nameEn": "Frappuccino", "type": "冰饮", "price": { "min": 32, "max": 42, "label": "门店参考价" }, "desc": "1995年问世的招牌冰饮,抹茶/焦糖/摩卡四季常青。", "highlights": ["招牌冰饮", "季节限定多"], "tags": ["冰饮"] },
+        { "id": "starbucks-coldbrew", "name": "冷萃咖啡", "nameEn": "Cold Brew", "type": "咖啡", "price": { "min": 33, "max": 42, "label": "门店参考价" }, "desc": "低温慢萃20小时,顺滑低酸,夏日销冠。", "highlights": ["慢萃20小时", "顺滑低酸"], "tags": ["咖啡"] },
+        { "id": "starbucks-redcup", "name": "圣诞红杯", "nameEn": "Holiday Red Cup", "type": "限定饮品", "price": { "min": 35, "max": 45, "label": "门店参考价" }, "desc": "每年11月准时上新太妃榛果拿铁+红色纸杯,仪式感营销鼻祖。", "highlights": ["圣诞限定", "收藏价值"], "tags": ["限定"] },
+        { "id": "starbucks-reserve", "name": "臻选系列", "nameEn": "Reserve", "type": "精品咖啡", "price": { "min": 40, "max": 80, "label": "门店参考价" }, "desc": "稀有豆+黑围裙咖啡师,上海臻选烘焙工坊是全球旗舰店。", "highlights": ["稀有豆", "工坊体验"], "tags": ["精品"] }
+      ]
+    },
+    {
+      "id": "luckin", "name": "瑞幸咖啡", "nameEn": "Luckin Coffee", "domain": "luckincoffee.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "厦门",
+      "tier": "大众", "tags": ["咖啡", "9.9元", "生椰拿铁"], "slogan": "这一杯,瑞幸起始",
+      "desc": "用互联网打法重塑中国咖啡:快速开店+补贴大战+爆品公式,生椰拿铁单品卖出几亿杯。",
+      "story": "2017年神州系团队创立,18个月上市创纪录,2020年财务造假退市却奇迹翻红。新团队靠「9.9元周购」与生椰拿铁(2021)彻底翻身,2023年门店破万反超星巴克中国。\n爆品方法论(椰云拿铁、酱香拿铁联名茅台)让它成为中国咖啡的现象级玩家。",
+      "products": [
+        { "id": "luckin-coconut", "name": "生椰拿铁", "nameEn": "Coconut Latte", "type": "咖啡", "price": { "min": 10, "max": 20, "label": "门店参考价" }, "desc": "厚椰乳+浓缩的现象级单品,无数人的咖啡入门第一杯。", "highlights": ["现象级单品", "厚椰乳"], "tags": ["咖啡"] },
+        { "id": "luckin-maochang", "name": "酱香拿铁", "nameEn": "Moutai Latte", "type": "咖啡", "price": { "min": 19, "max": 38, "label": "门店参考价" }, "desc": "2023年与茅台联名,单日销量542万杯,刷新饮品联名纪录。", "highlights": ["茅台联名", "单日542万杯"], "tags": ["咖啡"] },
+        { "id": "luckin-soe", "name": "小黑杯 SOE", "nameEn": "SOE Little Black Cup", "type": "咖啡", "price": { "min": 20, "max": 30, "label": "门店参考价" }, "desc": "单一产区精品线,9.9之外的「正经好咖啡」。", "highlights": ["单一产区", "精品线"], "tags": ["咖啡"] },
+        { "id": "luckin-tea", "name": "轻轻茉莉轻乳茶", "nameEn": "Light Jasmine Milk Tea", "type": "茶饮", "price": { "min": 10, "max": 20, "label": "门店参考价" }, "desc": "进攻奶茶赛道的轻乳茶,茶拿铁的平价姐妹。", "highlights": ["轻乳茶", "0植脂末"], "tags": ["茶饮"] }
+      ]
+    },
+    {
+      "id": "nayuki", "name": "奈雪的茶", "nameEn": "Nayuki", "domain": "nayuki.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "深圳",
+      "tier": "中档", "tags": ["新式茶饮", "软欧包", "茶饮第一股"], "slogan": "一杯好茶,一口软欧包",
+      "desc": "新式茶饮第一股,首创「茶饮+软欧包」双品类模式,霸气鲜果茶是招牌。",
+      "story": "2015年彭心、赵林夫妇在深圳创立,把茶饮店开成大店+社交空间,软欧包配茶的组合被全行业模仿。2021年港股上市成为新式茶饮第一股。\n后转小店模型降价求生,霸气玉油柑、鸭屎香宝藏茶都是出圈单品。",
+      "products": [
+        { "id": "nayuki-baxiyugan", "name": "霸气玉油柑", "nameEn": "Mixed Citrus", "type": "果茶", "price": { "min": 15, "max": 25, "label": "门店参考价" }, "desc": "油柑+茉莉初雪的回甘组合,2021年最出圈的猎奇果茶。", "highlights": ["油柑回甘", "猎奇出圈"], "tags": ["果茶"] },
+        { "id": "nayuki-yashixiang", "name": "鸭屎香宝藏茶", "nameEn": "Duck Aroma Tea", "type": "茶饮", "price": { "min": 15, "max": 25, "label": "门店参考价" }, "desc": "潮州单丛入奶茶,花香高扬,名字自带传播力。", "highlights": ["单丛入茶", "花香"], "tags": ["茶饮"] },
+        { "id": "nayuki-baowen", "name": "霸气鲜果茶系列", "nameEn": "Fresh Fruit Tea", "type": "果茶", "price": { "min": 15, "max": 30, "label": "门店参考价" }, "desc": "整颗草莓/车厘子入杯,「霸气」二字起名的鼻祖。", "highlights": ["整颗水果", "霸气命名"], "tags": ["果茶"] },
+        { "id": "nayuki-softbread", "name": "软欧包", "nameEn": "Soft European Bread", "type": "烘焙", "price": { "min": 8, "max": 25, "label": "门店参考价" }, "desc": "低油低糖的大块软欧,茶+包的黄金搭档。", "highlights": ["低油低糖", "茶包搭档"], "tags": ["烘焙"] }
+      ]
+    },
+    {
+      "id": "heytea", "name": "喜茶", "nameEn": "HEYTEA", "domain": "heytea.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2012, "hq": "深圳",
+      "tier": "中档", "tags": ["芝士茶", "灵感之茶", "联名狂魔"], "slogan": "灵感之茶",
+      "desc": "新茶饮开创者:芝士现泡茶定义了整个品类,FENDI 联名让「人生第一杯FENDI」刷屏全网。",
+      "story": "2012年聂云宸在江门开出第一家皇茶,首创芝士现泡茶,排队三小时是2017年北上广的盛况。品牌一路高端,又主动降价打开大众市场。\n多肉葡萄、烤黑糖波波与一年几十场的联名(原神、FENDI、周大福)让它成为社交货币制造机。",
+      "products": [
+        { "id": "heytea-meatgrape", "name": "多肉葡萄", "nameEn": "Very Grape Cheese Foam", "type": "果茶", "price": { "min": 15, "max": 30, "label": "门店参考价" }, "desc": "整颗去皮葡萄+芝士奶盖,喜茶的镇店之宝。", "highlights": ["镇店单品", "手剥葡萄"], "tags": ["果茶"] },
+        { "id": "heytea-cheese", "name": "芝芝莓莓", "nameEn": "Cheezo Strawberry", "type": "果茶", "price": { "min": 15, "max": 30, "label": "门店参考价" }, "desc": "咸芝士+鲜草莓的创新搭配,芝士茶鼻祖的看家本领。", "highlights": ["咸芝士", "首创品类"], "tags": ["果茶"] },
+        { "id": "heytea-boba", "name": "烤黑糖波波牛乳", "nameEn": "Brown Sugar Boba", "type": "奶茶", "price": { "min": 15, "max": 25, "label": "门店参考价" }, "desc": "黑糖挂壁+手作波波,黑糖风的顶配版本。", "highlights": ["黑糖挂壁", "手作波波"], "tags": ["奶茶"] },
+        { "id": "heytea-fendi", "name": "FENDI 喜悦黄", "nameEn": "FENDI Colab", "type": "联名饮品", "price": { "min": 19, "max": 29, "label": "门店参考价" }, "desc": "2023年与FENDI联名,19元拿下「人生第一件FENDI」。", "highlights": ["奢侈联名", "全网刷屏"], "tags": ["联名"] }
+      ]
+    },
+    {
+      "id": "mixue", "name": "蜜雪冰城", "nameEn": "MIXUE", "domain": "mixue.com",
+      "categoryId": "drinks", "country": "中国", "founded": 1997, "hq": "郑州",
+      "tier": "平价", "tags": ["柠檬水", "性价比之王", "雪王"], "slogan": "你爱我,我爱你,蜜雪冰城甜蜜蜜",
+      "desc": "全球门店数第一的现制饮品品牌,4元柠檬水+雪王神曲,下沉市场的甜蜜帝国。",
+      "story": "1997年张红超在郑州刨冰摊起家,靠自建供应链把柠檬水做到4块钱还有利润,门店两万多家。2021年「雪王神曲」鬼畜MV全网刷屏,雪王成为国民IP。\n供应链(大咖国际)才是真护城河——它挣的是原料钱。",
+      "products": [
+        { "id": "mixue-lemon", "name": "冰鲜柠檬水", "nameEn": "Fresh Lemonade", "type": "柠檬水", "price": { "min": 4, "max": 7, "label": "门店参考价" }, "desc": "4元一桶的现场捶打柠檬水,国民度无可撼动。", "highlights": ["4元定价", "现场捶打"], "tags": ["柠檬水"] },
+        { "id": "mixue-icecream", "name": "摩天脆脆冰淇淋", "nameEn": "Ice Cream Cone", "type": "冰淇淋", "price": { "min": 3, "max": 6, "label": "门店参考价" }, "desc": "2元甜筒带巧克力脆皮,雪王招牌的性价比神话。", "highlights": ["2元甜筒", "脆皮"], "tags": ["冰淇淋"] },
+        { "id": "mixue-milktea", "name": "珍珠奶茶", "nameEn": "Bubble Tea", "type": "奶茶", "price": { "min": 6, "max": 10, "label": "门店参考价" }, "desc": "大杯珍珠奶茶不到十块,学生党的奶茶自由。", "highlights": ["大杯", "学生党"], "tags": ["奶茶"] },
+        { "id": "mixue-fruittea", "name": "满杯百香果", "nameEn": "Passion Fruit Tea", "type": "果茶", "price": { "min": 6, "max": 10, "label": "门店参考价" }, "desc": "果肉+果冻+茶的组合,酸酸甜甜的夏天味道。", "highlights": ["果肉果冻", "酸甜"], "tags": ["果茶"] }
+      ]
+    },
+    {
+      "id": "chapanda", "name": "茶百道", "nameEn": "ChaPanda", "domain": "chapanda.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 2008, "hq": "成都",
+      "tier": "大众", "tags": ["熊猫", "鲜果茶", "中端"], "slogan": "鲜果茶,选茶百道",
+      "desc": "成都出身的国民茶饮,熊猫形象+杨枝甘露是招牌,2024年港股上市的第二梯队头名。",
+      "story": "2008年王霄锟在成都温江开店,借大熊猫形象直白好记,靠加盟模式快速铺满全国。杨枝甘露一年卖出上亿杯,是它真正的现金牛。\n「熊猫+中端价+稳定出品」的基本盘扎实,全国门店数千家。",
+      "products": [
+        { "id": "chapanda-mango", "name": "杨枝甘露", "nameEn": "Mango Pomelo Sago", "type": "果茶", "price": { "min": 12, "max": 20, "label": "门店参考价" }, "desc": "芒果+西柚+西米的经典配方,一年上亿杯的现金牛。", "highlights": ["经典配方", "年销过亿杯"], "tags": ["果茶"] },
+        { "id": "chapanda-douhua", "name": "豆乳玉麒麟", "nameEn": "Soy Milk Tea", "type": "奶茶", "price": { "min": 10, "max": 18, "label": "门店参考价" }, "desc": "豆乳+奶茶的绵密组合,网红时代的常青款。", "highlights": ["豆乳", "绵密"], "tags": ["奶茶"] },
+        { "id": "chapanda-grape", "name": "手剥巨峰葡萄", "nameEn": "Kyoho Grape", "type": "果茶", "price": { "min": 12, "max": 22, "label": "门店参考价" }, "desc": "手剥葡萄果肉满杯,季节限定的抢手货。", "highlights": ["手剥果肉", "季节限定"], "tags": ["果茶"] },
+        { "id": "chapanda-lemon", "name": "冻干柠檬茶", "nameEn": "Lemon Tea", "type": "柠檬茶", "price": { "min": 8, "max": 15, "label": "门店参考价" }, "desc": "香水柠檬暴打,茶底清爽解腻。", "highlights": ["香水柠檬", "解腻"], "tags": ["柠檬茶"] }
+      ]
+    },
+    {
+      "id": "chagee", "name": "霸王茶姬", "nameEn": "CHAGEE", "domain": "chagee.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "云南昆明",
+      "tier": "中档", "tags": ["国风", "原叶鲜奶茶", "伯牙绝弦"], "slogan": "以东方茶,会世界友",
+      "desc": "国风茶饮顶流:戏曲脸谱+茶马古道叙事,靠原叶鲜奶茶和伯牙绝弦横扫全国并出海东南亚。",
+      "story": "2017年张俊杰在昆明创立,定位新中式国风茶饮,logo 是京剧花旦侧脸。伯牙绝弦一年卖出一亿多杯,门店爆发至数千家,新加坡马来西亚遍地开花。\n卡在蜜雪与喜茶之间的价位带,配上健康化(低卡标签、热量计算器)策略,是过去两年最猛的黑马。",
+      "products": [
+        { "id": "chagee-boya", "name": "伯牙绝弦", "nameEn": "Boya Juexian", "type": "奶茶", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "茉莉雪芽+鲜奶的原叶鲜奶茶,一年卖出一亿杯的图腾。", "highlights": ["原叶鲜奶", "年销过亿杯"], "tags": ["奶茶"] },
+        { "id": "chagee-chunnian", "name": "春日桃桃", "nameEn": "Spring Peach", "type": "果茶", "price": { "min": 15, "max": 22, "label": "门店参考价" }, "desc": "季节鲜果系列,桃花季限定的少女心。", "highlights": ["季节限定", "颜值担当"], "tags": ["果茶"] },
+        { "id": "chagee-wanwu", "name": "万里木兰", "nameEn": "Wanli Mulan", "type": "奶茶", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "木兰主题的浓郁红茶鲜奶,茶感更强的进阶款。", "highlights": ["浓郁茶感", "国风叙事"], "tags": ["奶茶"] },
+        { "id": "chagee-guochao", "name": "国风纸袋周边", "nameEn": "Cultural Merch", "type": "周边", "price": { "min": 10, "max": 100, "label": "门店参考价" }, "desc": "戏腔CD、徽章、纸袋,买茶送审美。", "highlights": ["国风设计", "周边文化"], "tags": ["周边"] }
+      ]
+    },
+    {
+      "id": "goodme", "name": "古茗", "nameEn": "GOODME", "domain": "goodme.com.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 2010, "hq": "浙江台州",
+      "tier": "大众", "tags": ["鲜果茶", "加盟之王", "冷链"], "slogan": "每天一杯喝不腻",
+      "desc": "浙江出身的下沉市场王者,以自建冷链让乡镇门店也卖上鲜果茶,2025年港股上市。",
+      "story": "2010年王云安在台州大溪镇开出第一家店,打法朴素:用料不惜本。自建仓储冷链把鲜果送到县城,加盟商回本周期短,业内口碑极好。\n轻乳茶+水果茶双线,门店数近万家,与蜜雪、茶百道三分下沉天下。",
+      "products": [
+        { "id": "goodme-milktea", "name": "轻乳茶系列", "nameEn": "Light Milk Tea", "type": "奶茶", "price": { "min": 10, "max": 18, "label": "门店参考价" }, "desc": "茉莉奶绿等轻乳茶,大厂品质乡镇价格。", "highlights": ["轻乳茶", "乡镇价格"], "tags": ["奶茶"] },
+        { "id": "goodme-grapefruit", "name": "满杯红柚", "nameEn": "Red Pomelo", "type": "果茶", "price": { "min": 10, "max": 20, "label": "门店参考价" }, "desc": "西柚果粒满杯,酸甜比常年稳定。", "highlights": ["果粒满杯", "稳定出品"], "tags": ["果茶"] },
+        { "id": "goodme-boba", "name": "布蕾小啵啵", "nameEn": "Brulee Boba", "type": "奶茶", "price": { "min": 10, "max": 18, "label": "门店参考价" }, "desc": "焦糖布蕾风味+波波,甜品感拉满。", "highlights": ["焦糖布蕾", "甜品感"], "tags": ["奶茶"] },
+        { "id": "goodme-lemon", "name": "鸭屎香柠檬茶", "nameEn": "Duck Aroma Lemon Tea", "type": "柠檬茶", "price": { "min": 8, "max": 16, "label": "门店参考价" }, "desc": "单丛茶底+暴打柠檬,均价个位数的清爽。", "highlights": ["单丛茶底", "个位数价"], "tags": ["柠檬茶"] }
+      ]
+    },
+    {
+      "id": "coco", "name": "CoCo都可", "nameEn": "CoCo Fresh Tea", "domain": "coco-tea.com",
+      "categoryId": "drinks", "country": "中国台湾", "founded": 1997, "hq": "台北",
+      "tier": "大众", "tags": ["老牌奶茶", "三兄弟", "全球连锁"], "slogan": "CoCo都可,都可茶饮",
+      "desc": "1997年创立的老牌台式奶茶,珍珠奶茶三兄弟的启蒙者,全球连锁的台式奶茶名片。",
+      "story": "1997年洪肇水家族在台北创立,是最早把连锁奶茶模式带入大陆的品牌之一。三兄弟(珍珠+仙草+布丁)与鲜芋青稞牛奶常年霸榜。\n海外布局早,纽约、伦敦、悉尼都有它的红色招牌。",
+      "products": [
+        { "id": "coco-three", "name": "珍珠奶茶三兄弟", "nameEn": "3 Buddies Milk Tea", "type": "奶茶", "price": { "min": 12, "max": 20, "label": "门店参考价" }, "desc": "珍珠+仙草+布丁三料齐发,一杯喝出三种口感。", "highlights": ["三料合一", "启蒙款"], "tags": ["奶茶"] },
+        { "id": "coco-taro", "name": "鲜芋青稞牛奶", "nameEn": "Taro Milk", "type": "奶茶", "price": { "min": 12, "max": 20, "label": "门店参考价" }, "desc": "现蒸芋泥+青稞的饱腹感,冬季暖心榜第一。", "highlights": ["现蒸芋泥", "饱腹"], "tags": ["奶茶"] },
+        { "id": "coco-lemon", "name": "鲜榨柠檬汁", "nameEn": "Fresh Lemonade", "type": "柠檬水", "price": { "min": 8, "max": 15, "label": "门店参考价" }, "desc": "整颗柠檬现打,清爽的解腻标准答案。", "highlights": ["现打", "解腻"], "tags": ["柠檬水"] },
+        { "id": "coco-freshtea", "name": "鲜百香双响炮", "nameEn": "Passion Double", "type": "果茶", "price": { "min": 12, "max": 20, "label": "门店参考价" }, "desc": "百香果+寒天晶球双弹口感,果茶的早期网红。", "highlights": ["寒天晶球", "早期网红"], "tags": ["果茶"] }
+      ]
+    },
+    {
+      "id": "alittle", "name": "一点点", "nameEn": "A Little Tea", "domain": "alittle-tea.com",
+      "categoryId": "drinks", "country": "中国台湾", "founded": 1994, "hq": "台北",
+      "tier": "大众", "tags": ["波霸奶茶", "老牌", "隐藏菜单"], "slogan": "来一点点,好喝一点点",
+      "desc": "兰芳园系老牌奶茶,波霸鲜奶茶与「隐藏菜单」攻略曾是大学生社交货币。",
+      "story": "1994年创于台北,2010年代进入大陆后凭波霸奶茶+四季奶青+三分糖的隐藏点单攻略风靡校园。红底白字的招牌是几届毕业生的青春记忆。\n近年门店收缩但基本盘仍在,经典配方的稳定性是招牌。",
+      "products": [
+        { "id": "alittle-boba", "name": "波霸鲜奶茶", "nameEn": "Boba Milk Tea", "type": "奶茶", "price": { "min": 10, "max": 18, "label": "门店参考价" }, "desc": "大颗波霸+鲜奶茶底,隐藏菜单攻略的主角。", "highlights": ["波霸", "隐藏菜单"], "tags": ["奶茶"] },
+        { "id": "alittle-siji", "name": "四季奶青", "nameEn": "Four Seasons Tea", "type": "奶茶", "price": { "min": 8, "max": 15, "label": "门店参考价" }, "desc": "四季春茶底的清甜奶茶,三分糖是标配点法。", "highlights": ["四季春底", "三分糖"], "tags": ["奶茶"] },
+        { "id": "alittle-aojiao", "name": "嫣紫糯步", "nameEn": "Purple Rice", "type": "奶茶", "price": { "min": 12, "max": 20, "label": "门店参考价" }, "desc": "紫米+鲜奶的养生系,饱腹感强。", "highlights": ["紫米", "养生系"], "tags": ["奶茶"] },
+        { "id": "alittle-lemongreen", "name": "柠檬养乐多", "nameEn": "Lemon Yakult", "type": "柠檬水", "price": { "min": 12, "max": 18, "label": "门店参考价" }, "desc": "养乐多+柠檬的组合,酸甜微气泡感。", "highlights": ["养乐多", "酸甜"], "tags": ["柠檬水"] }
+      ]
+    },
+    {
+      "id": "nespresso", "name": "浓遇咖啡", "nameEn": "Nespresso", "domain": "nespresso.com",
+      "categoryId": "drinks", "country": "瑞士", "founded": 1986, "hq": "洛桑",
+      "tier": "中档", "tags": ["胶囊咖啡", "乔治克鲁尼", "家用精品"], "slogan": "What else?",
+      "desc": "雀巢旗下胶囊咖啡系统鼻祖,乔治·克鲁尼代言的家用咖啡精品化标志。",
+      "story": "1986年雀巢把意式浓缩压缩进铝制胶囊,用专利胶囊+会员制订阅的商业模式,把咖啡机变成了「剃须刀+刀片」的生意。克鲁尼的 What else? 广告语成为奢华休闲的符号。\nVertuo 线+精品店+回收体系,胶囊年销百亿颗。",
+      "products": [
+        { "id": "nespresso-original", "name": "Original 胶囊系列", "nameEn": "Original Capsules", "type": "胶囊咖啡", "price": { "min": 4, "max": 8, "label": "单颗参考价" }, "desc": "从浓郁到芳香数十种口味,家用浓缩的起点。", "highlights": ["数十口味", "铝胶囊保鲜"], "tags": ["胶囊"] },
+        { "id": "nespresso-vertuo", "name": "Vertuo 醒悟系列", "nameEn": "Vertuo", "type": "胶囊咖啡", "price": { "min": 5, "max": 10, "label": "单颗参考价" }, "desc": "大杯美式与拿铁用的胶囊新系统,条形码智能识别萃取参数。", "highlights": ["智能识别", "大杯线"], "tags": ["胶囊"] },
+        { "id": "nespresso-machine", "name": "胶囊咖啡机", "nameEn": "Coffee Machines", "type": "咖啡机", "price": { "min": 600, "max": 5000, "label": "零售参考价" }, "desc": "与德龙等联名的机型矩阵,厨房台面上的奢侈品。", "highlights": ["德龙联名", "设计感"], "tags": ["设备"] },
+        { "id": "nespresso-barista", "name": "限定风味系列", "nameEn": "Limited Editions", "type": "胶囊咖啡", "price": { "min": 6, "max": 12, "label": "单颗参考价" }, "desc": "季节限定风味+联名礼盒,送咖啡爱好者不出错。", "highlights": ["季节限定", "礼盒"], "tags": ["限定"] }
+      ]
+    },
+    {
+      "id": "saturnbird", "name": "三顿半", "nameEn": "Saturnbird", "domain": "saturnbird.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "长沙",
+      "tier": "中档", "tags": ["冻干咖啡", "小罐子", "返航计划"], "slogan": "超即溶,随时随地好咖啡",
+      "desc": "把精品咖啡装进小罐子的国货之光:3秒冷水可溶,数字编号+返航计划收空罐是品牌信仰。",
+      "story": "2015年吴骏在长沙创立,2018年超即溶品类爆发,小罐冻干把精品咖啡价格打到5-8元一颗。空罐返航(回收换周边)把环保做成了社群仪式。\n连续多年天猫咖啡类目第一,是新消费最扎实的长红案例。",
+      "products": [
+        { "id": "saturnbird-number", "name": "数字系列", "nameEn": "Number Series", "type": "冻干咖啡", "price": { "min": 5, "max": 9, "label": "单颗参考价" }, "desc": "1-6号由浅到深,从果酸到醇厚,人人能懂的选豆说明书。", "highlights": ["数字编号", "3秒速溶"], "tags": ["冻干"] },
+        { "id": "saturnbird-fast", "name": "超即溶美式", "nameEn": "Instant Americano", "type": "冻干咖啡", "price": { "min": 4, "max": 8, "label": "单颗参考价" }, "desc": "办公室白水一冲即黑咖,差旅神器。", "highlights": ["冷水可溶", "差旅神器"], "tags": ["冻干"] },
+        { "id": "saturnbird-solstice", "name": "风味特调系列", "nameEn": "Flavor Series", "type": "风味咖啡", "price": { "min": 8, "max": 15, "label": "单颗参考价" }, "desc": "生椰、桂花等风味特调冻干,咖啡新手的甜口入门。", "highlights": ["风味特调", "新手友好"], "tags": ["风味"] },
+        { "id": "saturnbird-return", "name": "返航计划", "nameEn": "Return Program", "type": "品牌活动", "price": { "min": 0, "max": 100, "label": "以物换物" }, "desc": "空罐回收换限定周边,把环保做成社群节日。", "highlights": ["空罐回收", "社群仪式"], "tags": ["环保"] }
+      ]
+    },
+    {
+      "id": "yongpu", "name": "永璞", "nameEn": "YONGPU", "domain": "yongpu.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2014, "hq": "上海",
+      "tier": "大众", "tags": ["石端正", "冻干", "文创咖啡"], "slogan": "精品咖啡生活方式品牌",
+      "desc": "从淘宝店起家的上海咖啡品牌,飞碟冻干+IP形象「石端正」把咖啡做成了文创。",
+      "story": "2014年候永璞(铁皮叔叔)从手冲豆起家,2020年推出飞碟冻干咖啡,与500多个品牌联名(三丽鸥、英雄牌钢笔)让石端正狮子IP深入人心。\n咖啡+生活方式路线:杂志、香薰、文具齐上,小而美长红。",
+      "products": [
+        { "id": "yongpu-flyingdisk", "name": "飞碟冻干咖啡", "nameEn": "Flying Disk", "type": "冻干咖啡", "price": { "min": 3, "max": 8, "label": "单颗参考价" }, "desc": "UFO造型冻干,冷热水奶皆可溶,颜值党首选。", "highlights": ["飞碟造型", "颜值党"], "tags": ["冻干"] },
+        { "id": "yongpu-bean", "name": "庄园精品豆", "nameEn": "Estate Beans", "type": "咖啡豆", "price": { "min": 40, "max": 120, "label": "零售参考价" }, "desc": "云南与海外庄园直采,手冲党的口粮豆。", "highlights": ["云南庄园", "手冲口粮"], "tags": ["咖啡豆"] },
+        { "id": "yongpu-ip", "name": "石端正周边", "nameEn": "Shi Duanzheng Merch", "type": "周边", "price": { "min": 10, "max": 200, "label": "零售参考价" }, "desc": "狮子IP的杯子、挂件、贴纸,买咖啡送可爱。", "highlights": ["狮子IP", "联名500多"], "tags": ["周边"] },
+        { "id": "yongpu-liquid", "name": "咖啡液", "nameEn": "Coffee Liquid", "type": "浓缩液", "price": { "min": 4, "max": 10, "label": "单份参考价" }, "desc": "浓缩咖啡液兑奶即成拿铁,懒人浓度可调。", "highlights": ["浓缩液", "懒人友好"], "tags": ["浓缩液"] }
+      ]
+    },
+    {
+      "id": "tasogare", "name": "隅田川", "nameEn": "TASOGARE", "domain": "tasogare.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "杭州",
+      "tier": "大众", "tags": ["口粮咖啡", "锁鲜", "挂耳"], "slogan": "做老百姓喝得起的口粮咖啡",
+      "desc": "杭州出身的口粮咖啡品牌,锁鲜咖啡液与挂耳把精品咖啡价格打到两三块一杯。",
+      "story": "2015年林浩创立,名字取自日语「黄昏」(隅田川桥下约会)。主打鲜萃咖啡液胶囊与挂耳包,电商挂耳类目常年第一,让每天两三块的咖啡自由成为可能。\n周杰伦代言后破圈,自建产能后成本进一步下探。",
+      "products": [
+        { "id": "tasogare-hangear", "name": "挂耳咖啡", "nameEn": "Drip Bag", "type": "挂耳咖啡", "price": { "min": 2, "max": 5, "label": "单包参考价" }, "desc": "两三块一包的日常口粮,从意式香浓到单品果酸都有。", "highlights": ["口粮价", "类目第一"], "tags": ["挂耳"] },
+        { "id": "tasogare-liquid", "name": "鲜萃咖啡液", "nameEn": "Fresh Liquid", "type": "浓缩液", "price": { "min": 3, "max": 7, "label": "单颗参考价" }, "desc": "锁鲜小胶囊,一秒一杯美式/拿铁。", "highlights": ["锁鲜技术", "一秒萃取"], "tags": ["浓缩液"] },
+        { "id": "tasogare-instant", "name": "冻干粉", "nameEn": "Freeze-dried", "type": "冻干咖啡", "price": { "min": 3, "max": 6, "label": "单颗参考价" }, "desc": "平价冻干替代进口,冰美式玩家的囤货。", "highlights": ["平价冻干", "囤货装"], "tags": ["冻干"] },
+        { "id": "tasogare-gift", "name": "礼盒系列", "nameEn": "Gift Box", "type": "咖啡礼盒", "price": { "min": 50, "max": 200, "label": "零售参考价" }, "desc": "周杰伦同款礼盒,节庆送咖啡党体面不贵。", "highlights": ["杰伦同款", "体面平价"], "tags": ["礼盒"] }
+      ]
+    },
+    {
+      "id": "sexytea", "name": "茶颜悦色", "nameEn": "Sexy Tea", "domain": "chayanyuese.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2013, "hq": "长沙",
+      "tier": "大众", "tags": ["长沙", "中式奶茶", "幽兰拿铁"], "slogan": "中茶西做",
+      "desc": "长沙城市名片:中国风插画+密度惊人的门店,一杯幽兰拿铁让人为奶茶专程坐高铁。",
+      "story": "2013年吕良在长沙司门口开出第一家店,把宋词、仕女图、湖南话写满包装,中式奶茶从此有了模版。十年深耕长沙不外扩,反而养出全国性的「来长沙必喝」心智。\n近年入驻武汉、南京并做城市快闪,排队的热情依旧凶猛。",
+      "products": [
+        { "id": "sexytea-youlan", "name": "幽兰拿铁", "nameEn": "Youlan Latte", "type": "奶茶", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "红茶+鲜奶+碎坚果奶油顶,茶颜的灵魂与初恋。", "highlights": ["灵魂单品", "坚果碎顶"], "tags": ["奶茶"] },
+        { "id": "sexytea-shengsheng", "name": "声声乌龙", "nameEn": "Shengsheng Oolong", "type": "奶茶", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "高山乌龙与鲜奶,茶感更足的清爽路线。", "highlights": ["高山乌龙", "清爽"], "tags": ["奶茶"] },
+        { "id": "sexytea-miaoxiang", "name": "蔓越阑珊", "nameEn": "Cranberry Latte", "type": "奶茶", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "蔓越莓酸+奶油甜的组合,果味奶茶担当。", "highlights": ["蔓越莓", "酸甜"], "tags": ["奶茶"] },
+        { "id": "sexytea-guochao", "name": "国风周边", "nameEn": "Cultural Merch", "type": "周边", "price": { "min": 10, "max": 150, "label": "门店参考价" }, "desc": "茶杯、伞、贴纸,插画美学延伸出的收藏癖好。", "highlights": ["插画美学", "收藏向"], "tags": ["周边"] }
+      ]
+    },
+    {
+      "id": "manner", "name": "Manner Coffee", "nameEn": "Manner Coffee", "domain": "mannercoffee.com.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "上海",
+      "tier": "大众", "tags": ["15元精品", "自带杯减5元", "白领"], "slogan": "Make coffee part of your life",
+      "desc": "上海街角起家的平价精品咖啡,15元的出品力压贵价连锁,自带杯减5元是环保界最实在的让利。",
+      "story": "2015年韩玉龙夫妇在南阳路开出2平米小窗口,只做意式与手冲,把精品咖啡从百元拉到15元档。自带杯减5元的政策让环保变成真金白银。\n如今门店过千,估值百亿,是小咖啡馆打败大公司叙事的现实版本。",
+      "products": [
+        { "id": "manner-latte", "name": "拿铁", "nameEn": "Latte", "type": "咖啡", "price": { "min": 15, "max": 20, "label": "门店参考价" }, "desc": "15元档的浓郁奶咖,白领早八的能量起点。", "highlights": ["15元档", "浓郁"], "tags": ["咖啡"] },
+        { "id": "manner-americano", "name": "美式", "nameEn": "Americano", "type": "咖啡", "price": { "min": 10, "max": 15, "label": "门店参考价" }, "desc": "10元双份浓缩的诚意美式,性价比之王。", "highlights": ["双份浓缩", "性价比"], "tags": ["咖啡"] },
+        { "id": "manner-pourover", "name": "手冲单品", "nameEn": "Pour Over", "type": "手冲咖啡", "price": { "min": 25, "max": 45, "label": "门店参考价" }, "desc": "季节轮换单品豆,小窗口里的精品坚持。", "highlights": ["单品豆", "轮换"], "tags": ["手冲"] },
+        { "id": "manner-bycup", "name": "自带杯减5元", "nameEn": "Bring Your Own Cup", "type": "品牌活动", "price": { "min": 0, "max": 0, "label": "长期立减5元" }, "desc": "长期主义的环保让利,顺手把用户变成自来水。", "highlights": ["立减5元", "环保"], "tags": ["环保"] }
+      ]
+    },
+    {
+      "id": "mstand", "name": "M Stand", "nameEn": "M Stand", "domain": "mstand.com",
+      "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "上海",
+      "tier": "中档", "tags": ["一店一设计", "鲜椰冰咖", "工业风"], "slogan": "Coffee, Odd & Good",
+      "desc": "上海工业风咖啡空间代表,一店一设计把咖啡馆做成打卡地标,鲜椰冰咖一杯出圈。",
+      "story": "2017年葛冬在上海创立,门店走水泥灰工业空间路线,每家店都是一个美术馆级的打卡点。2021年「椰不来」整颗鲜椰装咖啡引爆社交媒体。\n定位30元档的美学咖啡,把空间价值折进一杯拿铁里。",
+      "products": [
+        { "id": "mstand-coconut", "name": "椰不来·鲜椰冰咖", "nameEn": "Fresh Coconut Coffee", "type": "咖啡", "price": { "min": 30, "max": 40, "label": "门店参考价" }, "desc": "整颗椰子+浓缩咖啡的社交网络爆款,喝完椰肉还能吃。", "highlights": ["整颗鲜椰", "打卡爆款"], "tags": ["咖啡"] },
+        { "id": "mstand-oat", "name": "燕麦拿铁", "nameEn": "Oat Latte", "type": "咖啡", "price": { "min": 28, "max": 38, "label": "门店参考价" }, "desc": "植物基奶咖的扎实版本,顺滑不寡淡。", "highlights": ["植物基", "顺滑"], "tags": ["咖啡"] },
+        { "id": "mstand-creative", "name": "限定创意特调", "nameEn": "Creative Drinks", "type": "特调咖啡", "price": { "min": 32, "max": 45, "label": "门店参考价" }, "desc": "季节轮换的创意线,每季一个出片款。", "highlights": ["季节限定", "出片"], "tags": ["特调"] },
+        { "id": "mstand-space", "name": "工业风空间", "nameEn": "Design Store", "type": "空间体验", "price": { "min": 0, "max": 0, "label": "免费体验" }, "desc": "每家店一个设计主题,咖啡馆也是美术馆。", "highlights": ["一店一设计", "打卡点"], "tags": ["空间"] }
+      ]
+    },
+    {
+      "id": "timhortons", "name": "蒂姆·霍顿斯", "nameEn": "Tim Hortons", "domain": "timhortons.com",
+      "categoryId": "drinks", "country": "加拿大", "founded": 1964, "hq": "多伦多",
+      "tier": "大众", "tags": ["加拿大国民", "Double-Double", "咖啡贝果"], "slogan": "Always Fresh",
+      "desc": "加拿大国民咖啡,以冰球传奇球员命名,Double-Double(双奶双糖)是枫叶国的通用语言。",
+      "story": "1964年冰球运动员 Tim Horton 开店,靠现磨咖啡+甜甜圈+贝果成为加拿大人清晨的第一站,全国每八杯咖啡就有一杯 Timmies。\n2019年以 Tims 天好咖啡进入中国,咖啡+贝果+暖食的组合主打第三空间。",
+      "products": [
+        { "id": "timhortons-original", "name": "经典咖啡", "nameEn": "Original Blend", "type": "咖啡", "price": { "min": 15, "max": 25, "label": "门店参考价" }, "desc": "中度烘焙的顺滑口粮,加拿大人的血液里一半是这个。", "highlights": ["国民咖啡", "顺滑"], "tags": ["咖啡"] },
+        { "id": "timhortons-doubledouble", "name": "Double-Double", "nameEn": "Double-Double", "type": "咖啡", "price": { "min": 15, "max": 25, "label": "门店参考价" }, "desc": "双奶双糖的国民点单暗号,甜奶咖的信仰。", "highlights": ["双奶双糖", "国民暗号"], "tags": ["咖啡"] },
+        { "id": "timhortons-bagel", "name": "贝果三明治", "nameEn": "Bagel Sandwich", "type": "贝果", "price": { "min": 20, "max": 35, "label": "门店参考价" }, "desc": "现烤贝果+蛋与芝士,咖啡+早餐的效率组合。", "highlights": ["现烤贝果", "早餐组合"], "tags": ["早餐"] },
+        { "id": "timhortons-donut", "name": "Timbits 甜甜圈球", "nameEn": "Timbits", "type": "甜甜圈", "price": { "min": 10, "max": 25, "label": "门店参考价" }, "desc": "迷你甜甜圈球一口一个,分享装的快乐。", "highlights": ["迷你球", "分享装"], "tags": ["甜品"] }
+      ]
+    },
+    {
+      "id": "peets", "name": "皮爷咖啡", "nameEn": "Peet's Coffee", "domain": "peets.com",
+      "categoryId": "drinks", "country": "美国", "founded": 1966, "hq": "伯克利",
+      "tier": "中档", "tags": ["深烘鼻祖", "星巴克师父", "伯克利"], "slogan": "The Original Craft Coffee",
+      "desc": "1966年荷兰裔 Alfred Peet 在伯克利开的深烘咖啡店,星巴克三位创始人的师父,现磨精品咖啡的源头。",
+      "story": "1966年 Peet 把欧洲重烘焙带进美国,星巴克三位创始人都在他店里学徒取经,第一年星巴克的豆子就是 Peet 供应的。深烘浓郁至今是它的签名。\n2017年进入中国走慢工出细活路线,上海首店排队盛况重现。",
+      "products": [
+        { "id": "peets-major", "name": "Major Dickason's 深烘", "nameEn": "Major Dickason's Blend", "type": "咖啡豆", "price": { "min": 80, "max": 200, "label": "零售参考价" }, "desc": "品牌传奇混合豆,深而不苦,美国主妇的压箱底。", "highlights": ["传奇配方", "深而不苦"], "tags": ["咖啡豆"] },
+        { "id": "peets-latte", "name": "拿铁", "nameEn": "Caffè Latte", "type": "咖啡", "price": { "min": 28, "max": 38, "label": "门店参考价" }, "desc": "浓郁豆+绵密奶泡,美式老派的扎实感。", "highlights": ["浓郁豆", "扎实"], "tags": ["咖啡"] },
+        { "id": "peets-coldbrew", "name": "冷萃", "nameEn": "Cold Brew", "type": "咖啡", "price": { "min": 30, "max": 40, "label": "门店参考价" }, "desc": "深烘冷萃自带巧克力尾韵,夏日经典。", "highlights": ["巧克力尾韵", "夏日"], "tags": ["咖啡"] },
+        { "id": "peets-seasonal", "name": "季节限定豆", "nameEn": "Seasonal Roast", "type": "咖啡豆", "price": { "min": 100, "max": 250, "label": "零售参考价" }, "desc": "假日烘焙等限定,豆仓党的期待感。", "highlights": ["假日限定", "收藏向"], "tags": ["限定"] }
+      ]
+    }
+  ]
+}
