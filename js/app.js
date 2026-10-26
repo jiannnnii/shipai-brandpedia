@@ -112,9 +112,8 @@ function prodCard(p, masonry = false) {
   <a class="prod-card" href="#/product/${esc(p.id)}">
     <button class="card-fav ${isFav('p:' + p.id) ? 'fav-on' : ''}" data-act="fav" data-ref="p:${esc(p.id)}" aria-label="收藏">${icons[isFav('p:' + p.id) ? 'starFill' : 'star']}</button>
     <div class="prod-media" style="--c:${color}">
-      ${store.prefs.onlineImg && p.image
-        ? `<img src="${esc(p.image)}" loading="lazy" alt="${esc(p.name)}" onerror="this.remove()">`
-        : `<span class="pm-icon">${icons[iconForType(p.type, b.categoryId)]}</span>`}
+      <span class="pm-icon">${icons[iconForType(p.type, b.categoryId)]}</span>
+      ${b.domain ? `<img class="pm-logo" src="data/logos/${esc(b.id)}.png" loading="lazy" alt="" onerror="this.remove()">` : ''}
     </div>
     <div class="prod-body">
       <div class="prod-brand">${esc(b.name || '')}</div>
@@ -371,6 +370,7 @@ function viewProduct(id) {
       ${store.prefs.onlineImg && p.image
         ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" onerror="this.remove()">` : ''}
       ${(!store.prefs.onlineImg || !p.image) ? `<span class="pm-big">${icons[iconForType(p.type, b.categoryId)]}</span>` : ''}
+      ${b.domain ? `<img class="pm-logo" src="data/logos/${esc(b.id)}.png" alt="" onerror="this.remove()">` : ''}
       ${p.type ? `<span class="pm-type">${esc(p.type)}</span>` : ''}
     </div>
 
