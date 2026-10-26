@@ -1,0 +1,344 @@
+{
+  "brands": [
+    {
+      "id": "ikea", "name": "宜家", "nameEn": "IKEA", "domain": "ikea.com.cn",
+      "categoryId": "home", "country": "瑞典", "founded": 1943, "hq": "荷兰(宜家集团)",
+      "tier": "大众", "tags": ["平板包装", "瑞典肉丸", "自助家具"], "slogan": "为大众创造更美好的日常生活",
+      "desc": "Ingvar Kamprad 17岁创办的家居帝国:平板包装+自助组装+迷宫动线,全球最成功的家居零售品牌。",
+      "story": "1943年 Kamprad 在瑞典小镇邮购铅笔起家,1956年发明平板包装。蓝黄大盒子+肉丸餐厅+样板间动线,让逛宜家成了生活方式。BILLY 书架平均每5秒卖出一个。\nKamprad 的节俭传说(开20年旧车)与民主设计理念同样出名。",
+      "products": [
+        { "id": "ikea-billy", "name": "BILLY 书架", "nameEn": "BILLY Bookcase", "type": "书架", "price": { "min": 199, "max": 800, "label": "零售参考价" }, "desc": "1979年问世的全球最畅销书架。", "highlights": ["全球最畅销", "1979年"], "tags": ["家具"] },
+        { "id": "ikea-pax", "name": "PAX 衣柜", "nameEn": "PAX Wardrobe", "type": "衣柜", "price": { "min": 1000, "max": 15000, "label": "零售参考价" }, "desc": "自由组合的定制感衣柜系统。", "highlights": ["自由组合", "定制感"], "tags": ["家具"] },
+        { "id": "ikea-pojang", "name": "POÄNG 波昂扶手椅", "nameEn": "POÄNG", "type": "沙发椅", "price": { "min": 299, "max": 800, "label": "零售参考价" }, "desc": "1976年的弯木扶手椅,学生宿舍之王。", "highlights": ["弯木", "学生之王"], "tags": ["家具"] },
+        { "id": "ikea-kallax", "name": "KALLAX 方格架", "nameEn": "KALLAX", "type": "收纳架", "price": { "min": 299, "max": 1500, "label": "零售参考价" }, "desc": "方格收纳,潮玩与黑胶的好搭档。", "highlights": ["方格收纳", "潮玩搭档"], "tags": ["收纳"] },
+        { "id": "ikea-meatball", "name": "瑞典肉丸", "nameEn": "Meatballs", "type": "食品", "price": { "min": 10, "max": 30, "label": "零售参考价" }, "desc": "1元冰淇淋+肉丸餐,逛宜家的隐藏主线。", "highlights": ["1元冰淇淋", "隐藏主线"], "tags": ["餐厅"] }
+      ]
+    },
+    {
+      "id": "muji", "name": "无印良品", "nameEn": "MUJI", "domain": "muji.com.cn",
+      "categoryId": "home", "country": "日本", "founded": 1980, "hq": "东京",
+      "tier": "中档", "tags": ["无品牌", "性冷淡", "良品计划"], "slogan": "This is what we aim to be",
+      "desc": "「无品牌」的品牌:1980年西武百货的自有品牌,极简美学+生活哲学,MUJI 已成为生活方式的代名词。",
+      "story": "1980年堤清二与田中一光创立,「无印」即无牌子。设计大师原研哉与深泽直人加持,把「就这样就好」的哲学卖向全球。文具、收纳、服装、食品、酒店与民宿全产业布局。\n淘宝时代的「无印良品平替」是对其审美的最高致敬。",
+      "products": [
+        { "id": "muji-storage", "name": "PP 收纳盒", "nameEn": "PP Storage", "type": "收纳", "price": { "min": 20, "max": 300, "label": "零售参考价" }, "desc": "抽屉分格收纳,家里整齐的第一步。", "highlights": ["分格收纳", "整齐第一步"], "tags": ["收纳"] },
+        { "id": "muji-stationery", "name": "文具系列", "nameEn": "Stationery", "type": "文具", "price": { "min": 5, "max": 100, "label": "零售参考价" }, "desc": "笔记本与笔,极简文具的殿堂。", "highlights": ["极简文具", "殿堂"], "tags": ["文具"] },
+        { "id": "muji-aroma", "name": "香薰机", "nameEn": "Aroma Diffuser", "type": "香薰机", "price": { "min": 300, "max": 600, "label": "零售参考价" }, "desc": "恋爱体质的香薰灯,网红爆款。", "highlights": ["恋爱体质", "网红爆款"], "tags": ["香薰"] },
+        { "id": "muji-sofa", "name": "沙发/懒人椅", "nameEn": "Sofa", "type": "家具", "price": { "min": 1000, "max": 8000, "label": "零售参考价" }, "desc": "高回弹懒人沙发,小户型福音。", "highlights": ["懒人沙发", "小户型"], "tags": ["家具"] },
+        { "id": "muji-snick", "name": "零食/糖果", "nameEn": "Snacks", "type": "零食", "price": { "min": 10, "max": 80, "label": "零售参考价" }, "desc": "棉花糖与糖果,收银台边的陷阱。", "highlights": ["棉花糖", "收银台陷阱"], "tags": ["零食"] }
+      ]
+    },
+    {
+      "id": "kohler", "name": "科勒", "nameEn": "KOHLER", "domain": "kohler.com.cn",
+      "categoryId": "home", "country": "美国", "founded": 1873, "hq": "威斯康星州科勒镇",
+      "tier": "中档", "tags": ["卫浴", "一体铸模", "科勒镇"], "slogan": "The Bold Look of Kohler",
+      "desc": "150年历史的美国卫浴巨头:一体铸模浴缸起家,连公司所在的小镇都以它命名。",
+      "story": "1873年 John Michael Kohler 以3000美元收购铸铁厂,1883年给铸铁浴缸镀上珐琅——世界上第一只珐琅浴缸诞生。如今科勒是美国家族企业的常青树。\n五星级酒店的卫浴常客,Artifacts 复古系列是设计师最爱。",
+      "products": [
+        { "id": "kohler-toilet", "name": "智能马桶", "nameEn": "Smart Toilet", "type": "马桶", "price": { "min": 3000, "max": 30000, "label": "零售参考价" }, "desc": "纽密2.0智能马桶,自动开盖加热水洗。", "highlights": ["自动开盖", "水洗"], "tags": ["卫浴"] },
+        { "id": "kohler-faucet", "name": "龙头", "nameEn": "Faucets", "type": "龙头", "price": { "min": 500, "max": 8000, "label": "零售参考价" }, "desc": "五级抛光电镀,拉丝与金色任选。", "highlights": ["五级抛光", "多色系"], "tags": ["卫浴"] },
+        { "id": "kohler-tub", "name": "浴缸", "nameEn": "Bathtubs", "type": "浴缸", "price": { "min": 2000, "max": 30000, "label": "零售参考价" }, "desc": "一体铸模的看家本领。", "highlights": ["一体铸模", "看家"], "tags": ["卫浴"] },
+        { "id": "kohler-shower", "name": "淋浴花洒", "nameEn": "Showers", "type": "花洒", "price": { "min": 500, "max": 10000, "label": "零售参考价" }, "desc": "大顶喷+三出水,酒店同款体验。", "highlights": ["大顶喷", "酒店同款"], "tags": ["卫浴"] },
+        { "id": "kohler-cabinet", "name": "浴室柜", "nameEn": "Vanity", "type": "浴室柜", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "防潮板材+定制台面。", "highlights": ["防潮", "定制台面"], "tags": ["卫浴"] }
+      ]
+    },
+    {
+      "id": "toto", "name": "TOTO", "nameEn": "TOTO", "domain": "toto.com.cn",
+      "categoryId": "home", "country": "日本", "founded": 1917, "hq": "北九州",
+      "tier": "中档", "tags": ["卫洗丽", "智能马桶鼻祖", "日本卫浴"], "slogan": "People-First Innovation",
+      "desc": "1917年大仓和亲创立的日本卫浴之王:卫洗丽(智能马桶盖)的发明者,「洗净科技」的代名词。",
+      "story": "1917年东洋陶器创立,1980年推出世界第一款智能马桶盖「卫洗丽」,全球销量过亿。去日本旅游背马桶盖的浪潮,TOTO 是原点。\n漩涡式冲水与纳米釉面是其硬科技。",
+      "products": [
+        { "id": "toto-washlet", "name": "卫洗丽智能马桶盖", "nameEn": "Washlet", "type": "智能马桶盖", "price": { "min": 1500, "max": 8000, "label": "零售参考价" }, "desc": "1980年发明,去日本的游客人手一只。", "highlights": ["1980发明", "人手一只"], "tags": ["卫浴"] },
+        { "id": "toto-toilet", "name": "一体智能马桶", "nameEn": "Integrated Toilet", "type": "马桶", "price": { "min": 4000, "max": 40000, "label": "零售参考价" }, "desc": "CES 获奖的 G 系列全自动马桶。", "highlights": ["CES获奖", "全自动"], "tags": ["卫浴"] },
+        { "id": "toto-faucet", "name": "龙头花洒", "nameEn": "Faucets", "type": "龙头", "price": { "min": 600, "max": 10000, "label": "零售参考价" }, "desc": "激落洗净技术,水垢不留。", "highlights": ["激落洗净", "不留水垢"], "tags": ["卫浴"] },
+        { "id": "toto-bathtub", "name": "浴缸", "nameEn": "Bathtubs", "type": "浴缸", "price": { "min": 3000, "max": 40000, "label": "零售参考价" }, "desc": "SAS 人造大理石保温浴缸。", "highlights": ["人造大理石", "保温"], "tags": ["卫浴"] },
+        { "id": "toto-tile", "name": "瓷砖", "nameEn": "Tiles", "type": "瓷砖", "price": { "min": 50, "max": 800, "label": "单块参考价" }, "desc": "日本工程瓷砖的隐形冠军业务。", "highlights": ["工程瓷砖", "隐形冠军"], "tags": ["建材"] }
+      ]
+    },
+    {
+      "id": "jomoo", "name": "九牧", "nameEn": "JOMOO", "domain": "jomoo.cn",
+      "categoryId": "home", "country": "中国", "founded": 1990, "hq": "泉州南安",
+      "tier": "大众", "tags": ["国产卫浴一哥", "五星酒店", "智能马桶"], "slogan": "科技让卫浴更懂生活",
+      "desc": "中国卫浴市占率第一:林氏父子的泉州卫浴帝国,智能马桶盖的国产平替先锋。",
+      "story": "1990年林孝发兄弟从花洒起家,如今九牧是国产卫浴的绝对一哥,i80 智能马桶对标国际大牌半价。北京大兴机场、鸟巢都用它的产品。\n「小牧优家」副线打年轻市场。",
+      "products": [
+        { "id": "jomoo-smarttoilet", "name": "i80 智能马桶", "nameEn": "i80 Smart Toilet", "type": "智能马桶", "price": { "min": 2000, "max": 10000, "label": "零售参考价" }, "desc": "抗菌釉面+泡沫盾,国产智能马桶旗舰。", "highlights": ["抗菌釉面", "国产旗舰"], "tags": ["卫浴"] },
+        { "id": "jomoo-faucet", "name": "龙头系列", "nameEn": "Faucets", "type": "龙头", "price": { "min": 100, "max": 3000, "label": "零售参考价" }, "desc": "精铜龙头,厨卫全覆盖。", "highlights": ["精铜", "全覆盖"], "tags": ["卫浴"] },
+        { "id": "jomoo-shower", "name": "花洒", "nameEn": "Showers", "type": "花洒", "price": { "min": 200, "max": 4000, "label": "零售参考价" }, "desc": "恒温花洒,水压不稳也不怕。", "highlights": ["恒温", "不怕水压"], "tags": ["卫浴"] },
+        { "id": "jomoo-bathroom", "name": "浴室柜", "nameEn": "Bathroom Cabinet", "type": "浴室柜", "price": { "min": 1000, "max": 12000, "label": "零售参考价" }, "desc": "岩板一体盆的潮流款。", "highlights": ["岩板一体盆", "潮流"], "tags": ["卫浴"] },
+        { "id": "jomoo-hardware", "name": "五金挂件", "nameEn": "Hardware", "type": "五金", "price": { "min": 30, "max": 500, "label": "零售参考价" }, "desc": "毛巾杆置物架,性价比全家桶。", "highlights": ["性价比", "全家桶"], "tags": ["五金"] }
+      ]
+    },
+    {
+      "id": "arrow", "name": "箭牌", "nameEn": "ARROW", "domain": "arrow.com.cn",
+      "categoryId": "home", "country": "中国", "founded": 1994, "hq": "佛山",
+      "tier": "大众", "tags": ["箭牌家居", "乐华系", "瓷砖卫浴"], "slogan": "箭牌家居,让家更懂你",
+      "desc": "乐华集团旗下国产卫浴大牌:箭牌卫浴、安华、法恩莎三驾马车,瓷砖卫浴全品类。",
+      "story": "1994年谢岳荣在佛山创立,从马桶起家到全品类家居集团(箭牌家居上市)。与九牧的双雄之争贯穿国产卫浴十年。",
+      "products": [
+        { "id": "arrow-toilet", "name": "连体马桶", "nameEn": "One-piece Toilet", "type": "马桶", "price": { "min": 800, "max": 6000, "label": "零售参考价" }, "desc": "喷射虹吸式,静音节水。", "highlights": ["喷射虹吸", "静音节水"], "tags": ["卫浴"] },
+        { "id": "arrow-smart", "name": "智能马桶盖", "nameEn": "Smart Lid", "type": "智能马桶盖", "price": { "min": 800, "max": 5000, "label": "零售参考价" }, "desc": "即热式冲洗,千元级入门。", "highlights": ["即热式", "千元入门"], "tags": ["卫浴"] },
+        { "id": "arrow-faucet", "name": "龙头花洒", "nameEn": "Faucets", "type": "龙头", "price": { "min": 100, "max": 2500, "label": "零售参考价" }, "desc": "全铜主体,恒温系列。", "highlights": ["全铜主体", "恒温"], "tags": ["卫浴"] },
+        { "id": "arrow-tile", "name": "瓷砖", "nameEn": "Tiles", "type": "瓷砖", "price": { "min": 30, "max": 500, "label": "单块参考价" }, "desc": "箭牌瓷砖业务,通体大理石。", "highlights": ["通体大理石", "瓷砖"], "tags": ["建材"] },
+        { "id": "arrow-bath", "name": "浴室柜", "nameEn": "Vanity", "type": "浴室柜", "price": { "min": 800, "max": 10000, "label": "零售参考价" }, "desc": "实木与岩板双线。", "highlights": ["实木岩板", "双线"], "tags": ["卫浴"] }
+      ]
+    },
+    {
+      "id": "zwilling", "name": "双立人", "nameEn": "ZWILLING", "domain": "zwilling.com.cn",
+      "categoryId": "home", "country": "德国", "founded": 1731, "hq": "索林根",
+      "tier": "中档", "tags": ["刀剪之王", "冰锻", "索林根"], "slogan": "ZWILLING – the art of cooking",
+      "desc": "1731年索林根的双子星刀标:德国刀剪之王,「冰锻工艺」与 Twin 系列让切菜变成享受。",
+      "story": "1731年 Peter Henckels 注册双子商标,近三百年刀匠传承。冰锻工艺(-70°C 淬火)让刀刃持久锋利。2015年旗下还收购了法国 STAUB 铸铁锅与丹麦 Scanpan。\n婚礼嫁妆级别的厨具品牌。",
+      "products": [
+        { "id": "zwilling-knife", "name": "Pro 系列厨刀", "nameEn": "Pro Knife", "type": "厨刀", "price": { "min": 400, "max": 3000, "label": "零售参考价" }, "desc": "冰锻钢芯+全龙骨手柄,主厨刀之选。", "highlights": ["冰锻钢芯", "主厨刀"], "tags": ["刀具"] },
+        { "id": "zwilling-scissors", "name": "多功能剪刀", "nameEn": "Shears", "type": "剪刀", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "可拆洗的厨房剪,百年剪刀工艺。", "highlights": ["可拆洗", "百年工艺"], "tags": ["刀具"] },
+        { "id": "zwilling-staub", "name": "STAUB 铸铁锅", "nameEn": "STAUB Cocotte", "type": "铸铁锅", "price": { "min": 1000, "max": 6000, "label": "零售参考价" }, "desc": "法国黑珐琅铸铁锅,炖肉神器。", "highlights": ["黑珐琅", "炖肉神器"], "tags": ["锅具"] },
+        { "id": "zwilling-pan", "name": "不粘锅", "nameEn": "Frying Pans", "type": "不粘锅", "price": { "min": 400, "max": 3000, "label": "零售参考价" }, "desc": "Madura Plus 不粘系列,煎蛋不粘。", "highlights": ["Madura", "不粘"], "tags": ["锅具"] },
+        { "id": "zwilling-nail", "name": "指甲刀/护理", "nameEn": "Beauty Care", "type": "护理工具", "price": { "min": 100, "max": 1000, "label": "零售参考价" }, "desc": "同源刀工的指甲护理系列。", "highlights": ["同源刀工", "指甲护理"], "tags": ["护理"] }
+      ]
+    },
+    {
+      "id": "fissler", "name": "菲仕乐", "nameEn": "FISSLER", "domain": "fissler.com",
+      "categoryId": "home", "country": "德国", "founded": 1845, "hq": "伊达尔-奥伯施泰因",
+      "tier": "中档", "tags": ["压力锅", "sunsteam", "德国锅具"], "slogan": "FISSLER – made in Germany",
+      "desc": "1845年的德国锅具世家:太阳花锅底的最早发明者,压力锅与蜂窝晶盾不粘锅是招牌。",
+      "story": "1845年 Carl Philipp Fissler 创立,1908年推出世界第一只民用压力锅。Solar 锅底的蜂窝结构让导热均匀,「一口锅用三代」的口碑。",
+      "products": [
+        { "id": "fissler-pressure", "name": "Solar 压力锅", "nameEn": "Solar Pressure Cooker", "type": "压力锅", "price": { "min": 1000, "max": 5000, "label": "零售参考价" }, "desc": "双子星阀安全压力锅。", "highlights": ["双子星阀", "安全"], "tags": ["锅具"] },
+        { "id": "fissler-honeycomb", "name": "蜂窝晶盾炒锅", "nameEn": "Honeycomb Wok", "type": "炒锅", "price": { "min": 1000, "max": 5000, "label": "零售参考价" }, "desc": "蜂窝不粘纹理,少油煎炒。", "highlights": ["蜂窝纹理", "少油"], "tags": ["锅具"] },
+        { "id": "fissler-pan", "name": "牛排平底锅", "nameEn": "Steak Pan", "type": "平底锅", "price": { "min": 800, "max": 3000, "label": "零售参考价" }, "desc": "铸铝+不粘,煎牛排的网格纹。", "highlights": ["牛排纹", "铸铝"], "tags": ["锅具"] },
+        { "id": "fissler-knife", "name": "刀具", "nameEn": "Knives", "type": "厨刀", "price": { "min": 300, "max": 2000, "label": "零售参考价" }, "desc": "德系刀具的性价比之选。", "highlights": ["德系", "性价比"], "tags": ["刀具"] },
+        { "id": "fissler-pot", "name": "汤锅奶锅", "nameEn": "Pots", "type": "汤锅", "price": { "min": 500, "max": 4000, "label": "零售参考价" }, "desc": "组合锅具套装,婚宴常客。", "highlights": ["套装", "婚宴"], "tags": ["锅具"] }
+      ]
+    },
+    {
+      "id": "corning", "name": "康宁", "nameEn": "Corning", "domain": "corning.com",
+      "categoryId": "home", "country": "美国", "founded": 1851, "hq": "纽约州康宁镇",
+      "tier": "中档", "tags": ["玻璃科技", "Pyrex", " Gorilla Glass"], "slogan": "Corning – glass innovator",
+      "desc": "1851年的玻璃科技巨头:爱迪生灯泡的玻璃壳、Pyrex 耐热玻璃、手机上的 Gorilla 大猩猩玻璃都出自它手。",
+      "story": "1851年 Amory Houghton 创立,爱迪生灯泡玻璃壳是第一桶金。Pyrex 耐热玻璃(1915)改变了厨房,大猩猩玻璃(2007)几乎覆盖所有智能手机。\n光纤业务是全球互联网的血管。",
+      "products": [
+        { "id": "corning-vision", "name": "VISIONS 晶彩透明锅", "nameEn": "VISIONS", "type": "透明锅", "price": { "min": 500, "max": 3000, "label": "零售参考价" }, "desc": "微晶玻璃透明锅,直火烧不裂。", "highlights": ["微晶玻璃", "直烧不裂"], "tags": ["锅具"] },
+        { "id": "corning-pyrex", "name": "Pyrex 烤盘", "nameEn": "Pyrex", "type": "烤盘", "price": { "min": 100, "max": 500, "label": "零售参考价" }, "desc": "1915年的耐热玻璃烤盘始祖。", "highlights": ["1915始祖", "耐热"], "tags": ["烘焙"] },
+        { "id": "corning-storage", "name": "保鲜盒", "nameEn": "Storage Set", "type": "保鲜盒", "price": { "min": 100, "max": 600, "label": "零售参考价" }, "desc": "玻璃保鲜盒,进微波炉不慌。", "highlights": ["玻璃", "微波炉"], "tags": ["收纳"] },
+        { "id": "corning-gorilla", "name": "大猩猩玻璃", "nameEn": "Gorilla Glass", "type": "屏幕玻璃", "price": { "min": 0, "max": 0, "label": "手机标配" }, "desc": "你手机屏幕的保护神。", "highlights": ["手机屏幕", "保护神"], "tags": ["科技"] },
+        { "id": "corning-fiber", "name": "光纤", "nameEn": "Optical Fiber", "type": "光纤", "price": { "min": 0, "max": 0, "label": "基建" }, "desc": "全球互联网的玻璃血管。", "highlights": ["互联网血管", "光纤"], "tags": ["科技"] }
+      ]
+    },
+    {
+      "id": "tupperware", "name": "特百惠", "nameEn": "Tupperware", "domain": "tupperware.com.cn",
+      "categoryId": "home", "country": "美国", "founded": 1946, "hq": "奥兰多",
+      "tier": "中档", "tags": ["塑料保鲜", "家庭聚会", "直销鼻祖"], "slogan": "Tupperware – a lifetime of quality",
+      "desc": "1946年 Earl Tupper 发明塑料保鲜盒,「Tupperware Party」家庭聚会直销模式成为营销史经典。",
+      "story": "1946年发明,1950年代 Brownie Wise 的家庭聚会模式让它病毒式传播。冰箱收纳与「用一辈子不变形」的品质口号深入人心。\n2023年申请破产保护后品牌重组,情怀仍在。",
+      "products": [
+        { "id": "tupperware-fridge", "name": "冰箱收纳盒", "nameEn": "Fridge Smart", "type": "保鲜盒", "price": { "min": 50, "max": 400, "label": "零售参考价" }, "desc": "带气阀的果蔬保鲜盒。", "highlights": ["气阀", "果蔬保鲜"], "tags": ["收纳"] },
+        { "id": "tupperware-water", "name": "水壶", "nameEn": "Water Bottle", "type": "水壶", "price": { "min": 50, "max": 300, "label": "零售参考价" }, "desc": "儿童水杯与运动水壶。", "highlights": ["儿童水杯", "运动"], "tags": ["水具"] },
+        { "id": "tupperware-freeze", "name": "冷冻盒", "nameEn": "Freezer Mate", "type": "冷冻盒", "price": { "min": 30, "max": 200, "label": "零售参考价" }, "desc": "冷冻保存,不冻裂。", "highlights": ["冷冻", "不冻裂"], "tags": ["收纳"] },
+        { "id": "tupperware-lunch", "name": "便携餐盒", "nameEn": "Lunch Box", "type": "餐盒", "price": { "min": 50, "max": 300, "label": "零售参考价" }, "desc": "分层便当盒,通勤带饭。", "highlights": ["分层", "带饭"], "tags": ["餐盒"] },
+        { "id": "tupperware-party", "name": "家庭体验会", "nameEn": "Home Party", "type": "营销模式", "price": { "min": 0, "max": 0, "label": "体验" }, "desc": "直销聚会模式的开山鼻祖。", "highlights": ["直销聚会", "开山鼻祖"], "tags": ["文化"] }
+      ]
+    },
+    {
+      "id": "locknlock", "name": "乐扣乐扣", "nameEn": "LOCK&LOCK", "domain": "locknlock.com",
+      "categoryId": "home", "country": "韩国", "founded": 1985, "hq": "首尔",
+      "tier": "大众", "tags": ["四边锁", "保鲜盒", "韩流"], "slogan": "LOCK&LOCK,Lock the freshness",
+      "desc": "1985年金俊石的韩国保鲜盒品牌:四边锁扣+硅胶密封圈,「滴不漏」是它最响的招牌。",
+      "story": "1985年创立,1997年四边锁保鲜盒专利让它一飞冲天,《大长今》时代随韩流进入中国。玻璃保鲜盒与水杯是王牌。",
+      "products": [
+        { "id": "locknlock-classic", "name": "四边锁保鲜盒", "nameEn": "Classic Container", "type": "保鲜盒", "price": { "min": 20, "max": 200, "label": "零售参考价" }, "desc": "滴不漏的招牌保鲜盒。", "highlights": ["四边锁", "滴不漏"], "tags": ["收纳"] },
+        { "id": "locknlock-glass", "name": "玻璃保鲜盒", "nameEn": "Glass Container", "type": "玻璃保鲜盒", "price": { "min": 30, "max": 200, "label": "零售参考价" }, "desc": "耐热玻璃,进烤箱也行。", "highlights": ["耐热玻璃", "进烤箱"], "tags": ["收纳"] },
+        { "id": "locknlock-bottle", "name": "水杯", "nameEn": "Water Bottle", "type": "水杯", "price": { "min": 30, "max": 200, "label": "零售参考价" }, "desc": "一键开盖的运动水杯。", "highlights": ["一键开盖", "运动"], "tags": ["水具"] },
+        { "id": "locknlock-cook", "name": "不粘锅", "nameEn": "Cookware", "type": "锅具", "price": { "min": 100, "max": 600, "label": "零售参考价" }, "desc": "韩式不粘锅与麦饭石。", "highlights": ["韩式", "麦饭石"], "tags": ["锅具"] },
+        { "id": "locknlock-vacuum", "name": "真空收纳", "nameEn": "Vacuum Pack", "type": "真空收纳", "price": { "min": 50, "max": 400, "label": "零售参考价" }, "desc": "压缩袋与真空米桶。", "highlights": ["压缩袋", "真空米桶"], "tags": ["收纳"] }
+      ]
+    },
+    {
+      "id": "thermos", "name": "膳魔师", "nameEn": "THERMOS", "domain": "thermos.com.cn",
+      "categoryId": "home", "tags": ["保温杯", "1904", "真空断热"], "slogan": "THERMOS – keeps hot things hot",
+      "desc": "1904年德国人 Reinhold Burger 把真空断热技术商品化:膳魔师保温杯是「从奶茶店到珠峰大本营」的百年经典。",
+      "story": "1904年 Burger 注册 THERMOS(希腊语「热」),真空保温原理沿用至今。日本膳魔师(属日资)在中国运营,保温杯被中国家长视为「开学三件套」之一。",
+      "products": [
+        { "id": "thermos-vacuum", "name": "真空保温杯", "nameEn": "Vacuum Bottle", "type": "保温杯", "price": { "min": 150, "max": 600, "label": "零售参考价" }, "desc": "6小时保温的开学三件套。", "highlights": ["6小时保温", "开学三件套"], "tags": ["保温"] },
+        { "id": "thermos-food", "name": "焖烧罐", "nameEn": "Food Jar", "type": "焖烧罐", "price": { "min": 150, "max": 500, "label": "零售参考价" }, "desc": "生米进去熟粥出来。", "highlights": ["焖烧", "生米熟粥"], "tags": ["保温"] },
+        { "id": "thermos-kids", "name": "儿童吸管杯", "nameEn": "Kids Bottle", "type": "儿童水杯", "price": { "min": 150, "max": 400, "label": "零售参考价" }, "desc": "保温+吸管+背带,幼儿园标配。", "highlights": ["保温吸管", "幼儿园"], "tags": ["保温"] },
+        { "id": "thermos-flask", "name": "保温壶", "nameEn": "Flask", "type": "保温壶", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "家用大容量保温壶。", "highlights": ["家用", "大容量"], "tags": ["保温"] },
+        { "id": "thermos-coffee", "name": "咖啡法压壶", "nameEn": "Coffee Flask", "type": "咖啡壶", "price": { "min": 200, "max": 700, "label": "零售参考价" }, "desc": "随行咖啡杯与法压壶。", "highlights": ["随行", "法压"], "tags": ["咖啡"] }
+      ]
+    },
+    {
+      "id": "zojirushi", "name": "象印", "nameEn": "ZOJIRUSHI", "domain": "zojirushi.com",
+      "categoryId": "home", "tags": ["象鼻子", "保温杯", "电饭煲"], "slogan": "Inspired by your lifestyle",
+      "desc": "1918年大阪的象鼻子保温瓶:日本保温杯与电饭煲的顶级代表,「Made in Japan」的品质符号。",
+      "story": "1918年市川兄弟创立,大象标志源于初代产品名。电饭煲(南部铁器内胆)与保温杯在中国高端市场地位崇高。",
+      "products": [
+        { "id": "zojirushi-bottle", "name": "不锈钢保温杯", "nameEn": "Stainless Mug", "type": "保温杯", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "轻量化+超保温,日本带回的经典。", "highlights": ["轻量化", "超保温"], "tags": ["保温"] },
+        { "id": "zojirushi-rice", "name": "IH 电饭煲", "nameEn": "IH Rice Cooker", "type": "电饭煲", "price": { "min": 2000, "max": 15000, "label": "零售参考价" }, "desc": "南部铁器内胆的煮饭神器。", "highlights": ["南部铁器", "煮饭神器"], "tags": ["厨电"] },
+        { "id": "zojirushi-bread", "name": "面包机", "nameEn": "Bread Maker", "type": "面包机", "price": { "min": 1500, "max": 5000, "label": "零售参考价" }, "desc": "世界上第一台家用全自动面包机(1987)。", "highlights": ["世界第一", "1987"], "tags": ["厨电"] },
+        { "id": "zojirushi-foodjar", "name": "焖烧杯", "nameEn": "Food Jar", "type": "焖烧杯", "price": { "min": 200, "max": 600, "label": "零售参考价" }, "desc": "与膳魔师齐名的焖烧神器。", "highlights": ["焖烧", "齐名"], "tags": ["保温"] },
+        { "id": "zojirushi-ricecake", "name": "年糕机", "nameEn": "Mochi Maker", "type": "厨房电器", "price": { "min": 1000, "max": 5000, "label": "零售参考价" }, "desc": "日式打糕神器,过年硬货。", "highlights": ["打糕", "过年"], "tags": ["厨电"] }
+      ]
+    },
+    {
+      "id": "tiger", "name": "虎牌", "nameEn": "TIGER", "domain": "tiger-corporation.com",
+      "categoryId": "home", "tags": ["虎印", "保温杯", "电饭煲"], "slogan": "TIGER – wonderful in every sense",
+      "desc": "1923年日本的虎印保温瓶:与象印、膳魔师并称保温杯三巨头,土锅电饭煲是特色。",
+      "story": "1923年近藤忠太郎在 Osaka 创立(虎印真空瓶),土锅压力 IH 电饭煲与保温杯是两大招牌。",
+      "products": [
+        { "id": "tiger-mug", "name": "保温杯", "nameEn": "Vacuum Mug", "type": "保温杯", "price": { "min": 150, "max": 600, "label": "零售参考价" }, "desc": "轻便弹盖杯,学生党高端选择。", "highlights": ["弹盖", "高端学生"], "tags": ["保温"] },
+        { "id": "tiger-rice", "name": "土锅电饭煲", "nameEn": "Claypot Rice Cooker", "type": "电饭煲", "price": { "min": 2000, "max": 10000, "label": "零售参考价" }, "desc": "土锅内胆的柴火饭。", "highlights": ["土锅", "柴火饭"], "tags": ["厨电"] },
+        { "id": "tiger-food", "name": "保温饭盒", "nameEn": "Lunch Jar", "type": "保温饭盒", "price": { "min": 200, "max": 600, "label": "零售参考价" }, "desc": "三层分隔保温便当。", "highlights": ["三层", "便当"], "tags": ["保温"] },
+        { "id": "tiger-flask", "name": "保温壶", "nameEn": "Thermal Flask", "type": "保温壶", "price": { "min": 200, "max": 700, "label": "零售参考价" }, "desc": "家用气压式保温壶。", "highlights": ["气压式", "家用"], "tags": ["保温"] },
+        { "id": "tiger-electric", "name": "电热水瓶", "nameEn": "Electric Kettle", "type": "电热水瓶", "price": { "min": 800, "max": 3000, "label": "零售参考价" }, "desc": "VE 真空断热电热水瓶,省电。", "highlights": ["VE真空", "省电"], "tags": ["厨电"] }
+      ]
+    },
+    {
+      "id": "kingkoil", "name": "金可儿", "nameEn": "King Koil", "domain": "kingkoil.com.cn",
+      "categoryId": "home", "tags": ["床垫", "脊椎保护", "ICA认证"], "slogan": "Comfort Solutions",
+      "desc": "1898年美国的脊椎保护床垫专家:国际脊椎研究学会唯一认证的床垫品牌。",
+      "story": "1898年 Samuel Bronstion 创立,与脊椎医学界合作研发,ICA 认证是其护脊招牌。五星级酒店(万豪、香格里拉)的合作常客。",
+      "products": [
+        { "id": "kingkoil-mattress", "name": "护脊床垫", "nameEn": "Spine Care Mattress", "type": "床垫", "price": { "min": 3000, "max": 30000, "label": "零售参考价" }, "desc": "ICA认证的脊椎保护床垫。", "highlights": ["ICA认证", "护脊"], "tags": ["床垫"] },
+        { "id": "kingkoil-hotel", "name": "五星级酒店同款", "nameEn": "Hotel Series", "type": "床垫", "price": { "min": 5000, "max": 40000, "label": "零售参考价" }, "desc": "万豪/香格里拉同源款。", "highlights": ["万豪同款", "香格里拉"], "tags": ["床垫"] },
+        { "id": "kingkoil-pillow", "name": "枕头", "nameEn": "Pillows", "type": "枕头", "price": { "min": 200, "max": 1500, "label": "零售参考价" }, "desc": "乳胶与记忆棉枕。", "highlights": ["乳胶", "记忆棉"], "tags": ["床品"] },
+        { "id": "kingkoil-kids", "name": "儿童床垫", "nameEn": "Kids Mattress", "type": "儿童床垫", "price": { "min": 2000, "max": 10000, "label": "零售参考价" }, "desc": "成长期脊椎支撑。", "highlights": ["成长期", "脊椎支撑"], "tags": ["床垫"] },
+        { "id": "kingkoil-frame", "name": "床架", "nameEn": "Bed Frames", "type": "床架", "price": { "min": 3000, "max": 30000, "label": "零售参考价" }, "desc": "软包床架与排骨架。", "highlights": ["软包", "排骨架"], "tags": ["家具"] }
+      ]
+    },
+    {
+      "id": "sealy", "name": "丝涟", "nameEn": "Sealy", "domain": "sealy.com.cn",
+      "categoryId": "home", "tags": ["美姿感应", "床垫之王", "全球第一"], "slogan": "Sealy – the world's best selling mattress",
+      "desc": "1881年德克萨斯的床垫之王:美姿感应弹簧技术,全球销量第一的床垫品牌。",
+      "story": "1881年 Daniel Haynes 在德州小镇为邻居做棉被床垫,美姿(Posturepedic)弹簧技术1950年代问世后一骑绝尘。\n2013年与 Tempur 合并为 Tempur Sealy 集团。",
+      "products": [
+        { "id": "sealy-posturepedic", "name": "美姿床垫", "nameEn": "Posturepedic", "type": "床垫", "price": { "min": 5000, "max": 50000, "label": "零售参考价" }, "desc": "美姿感应弹簧,分区承托。", "highlights": ["美姿弹簧", "分区承托"], "tags": ["床垫"] },
+        { "id": "sealy-crown", "name": "皇冠系列", "nameEn": "Crown Jewel", "type": "床垫", "price": { "min": 10000, "max": 100000, "label": "零售参考价" }, "desc": "奢华系列的顶配。", "highlights": ["奢华", "顶配"], "tags": ["床垫"] },
+        { "id": "sealy-tempur", "name": "Tempur 记忆棉", "nameEn": "Tempur", "type": "记忆棉", "price": { "min": 8000, "max": 80000, "label": "零售参考价" }, "desc": "NASA 记忆棉材质的 sister 品牌。", "highlights": ["NASA记忆棉", "sister"], "tags": ["床垫"] },
+        { "id": "sealy-pillow", "name": "枕头", "nameEn": "Pillows", "type": "枕头", "price": { "min": 300, "max": 2000, "label": "零售参考价" }, "desc": "美姿枕系列。", "highlights": ["美姿枕", "系列"], "tags": ["床品"] },
+        { "id": "sealy-kids", "name": "青少年床垫", "nameEn": "Kids Mattress", "type": "儿童床垫", "price": { "min": 3000, "max": 15000, "label": "零售参考价" }, "desc": "成长支撑线。", "highlights": ["成长支撑", "青少年"], "tags": ["床垫"] }
+      ]
+    },
+    {
+      "id": "serta", "name": "舒达", "nameEn": "Serta", "domain": "serta.com",
+      "categoryId": "home", "tags": ["妙而扣", "羊驼", "北美三巨头"], "slogan": "We make the world's best mattress",
+      "desc": "1931年芝加哥的北美床垫三巨头之一:妙而扣连续弹簧系统与「羊驼」IP 出圈。",
+      "story": "1931年13家独立床垫商联合创立 Serta,Serta Perfect Sleeper 是销量传奇。 Sheep(数羊的羊驼)广告深入人心。\n与丝涟、席梦思同属(各自主打)北美格局。",
+      "products": [
+        { "id": "serta-perfect", "name": "完美睡眠系列", "nameEn": "Perfect Sleeper", "type": "床垫", "price": { "min": 4000, "max": 30000, "label": "零售参考价" }, "desc": "妙而扣弹簧,抗干扰。", "highlights": ["妙而扣", "抗干扰"], "tags": ["床垫"] },
+        { "id": "serta-hotel", "name": "酒店系列", "nameEn": "Hotel Collection", "type": "床垫", "price": { "min": 6000, "max": 50000, "label": "零售参考价" }, "desc": "希尔顿等酒店合作款。", "highlights": ["希尔顿", "合作款"], "tags": ["床垫"] },
+        { "id": "serta-pillow", "name": "羊驼枕", "nameEn": "Sheep Pillow", "type": "枕头", "price": { "min": 300, "max": 1500, "label": "零售参考价" }, "desc": "IP 联名枕,数羊助眠。", "highlights": ["羊驼IP", "数羊助眠"], "tags": ["床品"] },
+        { "id": "serta-kids", "name": "儿童床垫", "nameEn": "Kids Mattress", "type": "儿童床垫", "price": { "min": 2000, "max": 10000, "label": "零售参考价" }, "desc": "成长系列。", "highlights": ["成长", "系列"], "tags": ["床垫"] },
+        { "id": "serta-frame", "name": "电动床架", "nameEn": "Adjustable Base", "type": "床架", "price": { "min": 5000, "max": 40000, "label": "零售参考价" }, "desc": "可升降的电动床架。", "highlights": ["可升降", "电动"], "tags": ["家具"] }
+      ]
+    },
+    {
+      "id": "simmons", "name": "席梦思", "nameEn": "Simmons", "domain": "simmons.com",
+      "categoryId": "home", "tags": ["弹簧床垫鼻祖", "Beautyrest", "一个名字一个品类"], "slogan": "Simmons – better sleep",
+      "desc": "1870年 Zalmon Simmons 的威州公司:1925年发明独立袋装弹簧(Beautyrest),让「席梦思」成为床垫的中文代名词。",
+      "story": "1870年创立,1876年开始做床垫,1925年 John 的独立袋装弹簧专利改变行业。几经破产重组,品牌价值依然坚挺。\n在中国,「席梦思」三个字=床垫。",
+      "products": [
+        { "id": "simmons-beautyrest", "name": "Beautyrest 床垫", "nameEn": "Beautyrest", "type": "床垫", "price": { "min": 8000, "max": 80000, "label": "零售参考价" }, "desc": "独立袋装弹簧的鼻祖系列。", "highlights": ["独立袋装", "鼻祖"], "tags": ["床垫"] },
+        { "id": "simmons-black", "name": "Black 黑标", "nameEn": "Beautyrest Black", "type": "床垫", "price": { "min": 20000, "max": 100000, "label": "零售参考价" }, "desc": "超高端黑标线。", "highlights": ["黑标", "超高端"], "tags": ["床垫"] },
+        { "id": "simmons-pillow", "name": "枕头", "nameEn": "Pillows", "type": "枕头", "price": { "min": 400, "max": 2000, "label": "零售参考价" }, "desc": "同源弹簧枕。", "highlights": ["同源", "弹簧枕"], "tags": ["床品"] },
+        { "id": "simmons-hotel", "name": "酒店合作款", "nameEn": "Hotel Line", "type": "床垫", "price": { "min": 10000, "max": 60000, "label": "零售参考价" }, "desc": "全球五星级酒店的合作。", "highlights": ["五星酒店", "合作"], "tags": ["床垫"] },
+        { "id": "simmons-history", "name": "百年历史", "nameEn": "Since 1870", "type": "品牌历史", "price": { "min": 0, "max": 0, "label": "传奇" }, "desc": "一个名字成为一个品类。", "highlights": ["名字即品类", "传奇"], "tags": ["文化"] }
+      ]
+    },
+    {
+      "id": "derucci", "name": "慕思", "nameEn": "DeRUCCI", "domain": "derucci.com",
+      "categoryId": "home", "tags": ["健康睡眠", "国产高端", "IPO"], "slogan": "让人们睡得更好",
+      "desc": "2004年东莞的健康睡眠系统品牌:把「床垫+床架+枕头」打包成睡眠解决方案的国产高端。",
+      "story": "2004年王炳坤兄弟创立,以「健康睡眠专家」定位+明星代言迅速登顶国产高端。2022年深交所上市。\n凯奇 老爷子的广告形象深入人心。",
+      "products": [
+        { "id": "derucci-mattress", "name": "M 床垫系列", "nameEn": "Mattress Series", "type": "床垫", "price": { "min": 5000, "max": 50000, "label": "零售参考价" }, "desc": "分区的护脊床垫。", "highlights": ["分区", "护脊"], "tags": ["床垫"] },
+        { "id": "derucci-v6", "name": "V6 系列", "nameEn": "V6", "type": "床垫", "price": { "min": 10000, "max": 60000, "label": "零售参考价" }, "desc": "高端线的独立袋装弹簧。", "highlights": ["高端", "独立袋装"], "tags": ["床垫"] },
+        { "id": "derucci-kids", "name": "慕思儿童", "nameEn": "Kids", "type": "儿童床垫", "price": { "min": 3000, "max": 20000, "label": "零售参考价" }, "desc": "青少年成长系列。", "highlights": ["青少年", "成长"], "tags": ["床垫"] },
+        { "id": "derucci-frame", "name": "智能床架", "nameEn": "Smart Base", "type": "床架", "price": { "min": 5000, "max": 50000, "label": "零售参考价" }, "desc": "可调节的电动床架。", "highlights": ["可调节", "电动"], "tags": ["家具"] },
+        { "id": "derucci-sleep", "name": "睡眠监测", "nameEn": "Sleep Monitor", "type": "智能睡眠", "price": { "min": 1000, "max": 10000, "label": "零售参考价" }, "desc": "T11 AI 智能床垫。", "highlights": ["AI床垫", "监测"], "tags": ["智能"] }
+      ]
+    },
+    {
+      "id": "kuka", "name": "顾家家居", "nameEn": "KUKA HOME", "domain": "kuka.com",
+      "categoryId": "home", "country": "中国", "founded": 1982, "hq": "杭州",
+      "tier": "中档", "tags": ["沙发之王", "软体家具", "顾江生"], "slogan": "因为顾家,所以爱家",
+      "desc": "从杭州沙发作坊到软体家具之王:顾家家居的沙发、床垫与全屋定制全面开花。",
+      "story": "1982年顾氏家族在南通(后迁杭州)做沙发,顾江生带领上市并连续收购( Natuzzi 中国、Rolf Benz 等)成为软体之王。\n「顾家」二字与品牌名成了国民梗。",
+      "products": [
+        { "id": "kuka-sofa", "name": "布艺/真皮沙发", "nameEn": "Sofas", "type": "沙发", "price": { "min": 3000, "max": 50000, "label": "零售参考价" }, "desc": "招牌品类,客厅之王。", "highlights": ["招牌", "客厅之王"], "tags": ["沙发"] },
+        { "id": "kuka-mattress", "name": "顾家床垫", "nameEn": "Mattress", "type": "床垫", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "深睡系列。", "highlights": ["深睡", "系列"], "tags": ["床垫"] },
+        { "id": "kuka-dining", "name": "餐桌椅", "nameEn": "Dining Sets", "type": "餐桌", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "岩板餐桌的热销款。", "highlights": ["岩板", "热销"], "tags": ["家具"] },
+        { "id": "kuka-custom", "name": "全屋定制", "nameEn": "Custom Home", "type": "定制柜", "price": { "min": 10000, "max": 100000, "label": "零售参考价" }, "desc": "衣柜橱柜的定制业务。", "highlights": ["衣柜橱柜", "定制"], "tags": ["定制"] },
+        { "id": "kuka-international", "name": "国际品牌矩阵", "nameEn": "International Brands", "type": "国际线", "price": { "min": 5000, "max": 100000, "label": "零售参考价" }, "desc": "Natuzzi Editions、Rolf Benz 等收购品牌。", "highlights": ["Natuzzi", "RolfBenz"], "tags": ["国际"] }
+      ]
+    },
+    {
+      "id": "ecovacs", "name": "科沃斯", "nameEn": "ECOVACS", "domain": "ecovacs.com",
+      "categoryId": "home", "country": "中国", "founded": 1998, "hq": "苏州",
+      "tier": "大众", "tags": ["扫地机器人", "地宝", "钱东奇"], "slogan": "让机器人服务全人类",
+      "desc": "1998年钱东奇创立的「地宝」:全球扫地机器人的开创者之一,从代工吸尘器到服务机器人第一股。",
+      "story": "1998年做吸尘器代工,2006年推出「地宝」扫地机器人,2018年上市。X 系列自清洁基站把「扫拖一体」做到极致。\n添可(Tineco)洗地机是其第二曲线。",
+      "products": [
+        { "id": "ecovacs-x", "name": "地宝 X 系列", "nameEn": "DEEBOT X", "type": "扫地机器人", "price": { "min": 3000, "max": 8000, "label": "零售参考价" }, "desc": "自清洁基站+机械臂的顶配。", "highlights": ["自清洁基站", "机械臂"], "tags": ["扫地机"] },
+        { "id": "ecovacs-t", "name": "地宝 T 系列", "nameEn": "DEEBOT T", "type": "扫地机器人", "price": { "min": 2000, "max": 5000, "label": "零售参考价" }, "desc": "爆款走量系列。", "highlights": ["爆款", "走量"], "tags": ["扫地机"] },
+        { "id": "ecovacs-winbot", "name": "窗宝擦窗机器人", "nameEn": "WINBOT", "type": "擦窗机器人", "price": { "min": 1500, "max": 5000, "label": "零售参考价" }, "desc": "高层擦窗的救星。", "highlights": ["高层擦窗", "救星"], "tags": ["机器人"] },
+        { "id": "ecovacs-tineco", "name": "添可洗地机", "nameEn": "Tineco Floor One", "type": "洗地机", "price": { "min": 2000, "max": 6000, "label": "零售参考价" }, "desc": "洗地机品类的定义者。", "highlights": ["品类定义", "洗地"], "tags": ["清洁"] },
+        { "id": "ecovacs-yeedi", "name": "yeedi 一点", "nameEn": "yeedi", "type": "扫地机器人", "price": { "min": 1000, "max": 3000, "label": "零售参考价" }, "desc": "年轻化子品牌。", "highlights": ["年轻化", "子品牌"], "tags": ["扫地机"] }
+      ]
+    },
+    {
+      "id": "roborock", "name": "石头科技", "nameEn": "Roborock", "domain": "roborock.com",
+      "categoryId": "home", "country": "中国", "founded": 2014, "hq": "北京",
+      "tier": "中档", "tags": ["小米系", "LDS激光", "科创上市"], "slogan": "Roborock – clean smarter",
+      "desc": "2014年昌敬创立的小米生态链出身:以 LDS 激光导航崛起,如今全球扫地机的高端旗手。",
+      "story": "2014年创立,早期为小米米家扫地机代工,2017年推自有品牌。LDS 导航、声波震动拖地与 G10S/G20 系列技术领先。\n2020年科创板上市,海外收入过半。",
+      "products": [
+        { "id": "roborock-g20", "name": "G20S Pro", "nameEn": "G20S Pro", "type": "扫地机器人", "price": { "min": 4000, "max": 7000, "label": "零售参考价" }, "desc": "双胶刷+声波震动拖地的旗舰。", "highlights": ["双胶刷", "声波震动"], "tags": ["扫地机"] },
+        { "id": "roborock-p", "name": "P 系列性价比", "nameEn": "P Series", "type": "扫地机器人", "price": { "min": 2000, "max": 4000, "label": "零售参考价" }, "desc": "性价比走量款。", "highlights": ["性价比", "走量"], "tags": ["扫地机"] },
+        { "id": "roborock-wash", "name": "自清洁基站", "nameEn": "Auto-empty Dock", "type": "基站", "price": { "min": 1000, "max": 3000, "label": "配件参考价" }, "desc": "自动集尘洗拖布。", "highlights": ["自动集尘", "洗拖布"], "tags": ["扫地机"] },
+        { "id": "roborock-washer", "name": "洗地机 A 系列", "nameEn": "A Series", "type": "洗地机", "price": { "min": 2000, "max": 5000, "label": "零售参考价" }, "desc": "进入洗地机赛道的新线。", "highlights": ["新赛道", "洗地"], "tags": ["清洁"] },
+        { "id": "roborock-mi", "name": "米家合作", "nameEn": "Mi Home", "type": "生态合作", "price": { "min": 1000, "max": 3000, "label": "零售参考价" }, "desc": "米家扫地机的代工渊源。", "highlights": ["米家", "代工渊源"], "tags": ["生态"] }
+      ]
+    },
+    {
+      "id": "dreame", "name": "追觅", "nameEn": "Dreame", "domain": "dreame.com",
+      "categoryId": "home", "country": "中国", "founded": 2017, "hq": "北京",
+      "tier": "大众", "tags": ["小米系", "高速马达", "全球化"], "slogan": "Dreame – Dream big",
+      "desc": "2017年俞浩(清华天工社)创立的小米系黑马:以15万转高速马达为核心,扫地机与洗地机全线爆发。",
+      "story": "2017年创立于小米生态链,高速数字马达是技术底座。X 系列扫地机、H 系列洗地机与吹风机全线出海,欧洲市场增长凶猛。",
+      "products": [
+        { "id": "dreame-x", "name": "X40 扫地机器人", "nameEn": "X40", "type": "扫地机器人", "price": { "min": 4000, "max": 8000, "label": "零售参考价" }, "desc": "仿生机械臂+上下水的顶配。", "highlights": ["仿生机械臂", "上下水"], "tags": ["扫地机"] },
+        { "id": "dreame-h", "name": "H12 洗地机", "nameEn": "H12", "type": "洗地机", "price": { "min": 1500, "max": 4000, "label": "零售参考价" }, "desc": "洗地机的性价比爆款。", "highlights": ["性价比", "洗地"], "tags": ["清洁"] },
+        { "id": "dreame-v", "name": "V16 吸尘器", "nameEn": "V16", "type": "吸尘器", "price": { "min": 1500, "max": 4000, "label": "零售参考价" }, "desc": "15万转马达的无绳吸尘。", "highlights": ["15万转", "无绳"], "tags": ["清洁"] },
+        { "id": "dreame-hair", "name": "高速吹风机", "nameEn": "Hair Dryer", "type": "吹风机", "price": { "min": 300, "max": 1500, "label": "零售参考价" }, "desc": "戴森平替的高转速吹风。", "highlights": ["戴森平替", "高转速"], "tags": ["个护"] },
+        { "id": "dreame-pool", "name": "泳池机器人", "nameEn": "Pool Robot", "type": "泳池机器人", "price": { "min": 3000, "max": 10000, "label": "零售参考价" }, "desc": "出海的新品类。", "highlights": ["泳池", "新品类"], "tags": ["机器人"] }
+      ]
+    },
+    {
+      "id": "hansgrohe", "name": "汉斯格雅", "nameEn": "hansgrohe", "domain": "hansgrohe.cn",
+      "categoryId": "home", "tags": ["德国花洒", "飞雨", "120年"], "slogan": "Meet the future of water",
+      "desc": "1901年 Hans Grohe 在黑森林创立的卫浴顶奢:飞雨(RainAir)花洒把淋浴做成雨林体验。",
+      "story": "1901年创立,父亲是.mixer 龙头工艺先驱。飞雨系列让花洒出水「像雨」;AXOR 顶级线是设计师卫浴的王者。\n汉斯格雅=酒店总统套房的花洒。",
+      "products": [
+        { "id": "hansgrohe-rainfly", "name": "飞雨花洒", "nameEn": "Raindance", "type": "花洒", "price": { "min": 1000, "max": 15000, "label": "零售参考价" }, "desc": "RainAir 空气注入,雨感淋浴。", "highlights": ["RainAir", "雨感"], "tags": ["卫浴"] },
+        { "id": "hansgrohe-axor", "name": "AXOR 设计师线", "nameEn": "AXOR", "type": "龙头", "price": { "min": 3000, "max": 50000, "label": "零售参考价" }, "desc": "与 Philippe Starck 等大师合作的顶级线。", "highlights": ["Starck", "大师合作"], "tags": ["卫浴"] },
+        { "id": "hansgrohe-talis", "name": "Talis 系列", "nameEn": "Talis", "type": "龙头", "price": { "min": 800, "max": 8000, "label": "零售参考价" }, "desc": "经典龙头系列。", "highlights": ["经典", "龙头"], "tags": ["卫浴"] },
+        { "id": "hansgrohe-showerpipe", "name": "淋浴管", "nameEn": "Showerpipe", "type": "淋浴系统", "price": { "min": 2000, "max": 20000, "label": "零售参考价" }, "desc": "顶喷+手持一体的淋浴柱。", "highlights": ["顶喷手持", "淋浴柱"], "tags": ["卫浴"] },
+        { "id": "hansgrohe-select", "name": "Select 按键技术", "nameEn": "Select", "type": "技术", "price": { "min": 1000, "max": 10000, "label": "零售参考价" }, "desc": "一键切换水流的黑科技。", "highlights": ["一键切换", "黑科技"], "tags": ["卫浴"] }
+      ]
+    },
+    {
+      "id": "moen", "name": "摩恩", "nameEn": "MOEN", "domain": "moen.com.cn",
+      "categoryId": "home", "tags": ["美国龙头", "单柄水龙头", "富俊集团"], "slogan": "Buy it for looks, buy it for life",
+      "desc": "1937年 Al Moen 发明单柄冷热水龙头:摩恩由此成为美式卫浴龙头的代名词。",
+      "story": "1937年 Al Moen 被水龙头烫伤后发明单柄混合龙头,1939年上市。如今属 Fortune Brands,北美市占率第一。\nMotionSense 感应龙头是科技线。",
+      "products": [
+        { "id": "moen-faucet", "name": "厨房龙头", "nameEn": "Kitchen Faucets", "type": "龙头", "price": { "min": 500, "max": 8000, "label": "零售参考价" }, "desc": "抽拉式厨房龙头的经典。", "highlights": ["抽拉式", "经典"], "tags": ["卫浴"] },
+        { "id": "moen-sensor", "name": "MotionSense 感应龙头", "nameEn": "MotionSense", "type": "感应龙头", "price": { "min": 2000, "max": 12000, "label": "零售参考价" }, "desc": "挥手即出的黑科技。", "highlights": ["挥手", "黑科技"], "tags": ["卫浴"] },
+        { "id": "moen-shower", "name": "淋浴系统", "nameEn": "Shower Systems", "type": "花洒", "price": { "min": 800, "max": 15000, "label": "零售参考价" }, "desc": "恒温阀+多出水。", "highlights": ["恒温阀", "多出水"], "tags": ["卫浴"] },
+        { "id": "moen-garbage", "name": "垃圾处理器", "nameEn": "Garbage Disposal", "type": "垃圾处理器", "price": { "min": 1500, "max": 8000, "label": "零售参考价" }, "desc": "美式厨房的标配。", "highlights": ["美式厨房", "标配"], "tags": ["厨电"] },
+        { "id": "moen-water", "name": "净水系统", "nameEn": "Water Treatment", "type": "净水器", "price": { "min": 1000, "max": 10000, "label": "零售参考价" }, "desc": "全屋净水方案。", "highlights": ["全屋", "净水"], "tags": ["净水"] }
+      ]
+    }
+  ]
+}
