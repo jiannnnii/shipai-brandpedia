@@ -60,6 +60,13 @@ function setView(html, sub) {
   window.scrollTo(0, 0);
 }
 
+function stagger(sel, step = 30, cap = 420) {
+  qsa(sel).forEach((el, i) => {
+    el.classList.add('stagger');
+    el.style.animationDelay = Math.min(i * step, cap) + 'ms';
+  });
+}
+
 let toastTimer;
 export function toast(msg) {
   const t = qs('#toast');
@@ -224,6 +231,8 @@ function viewHome() {
 
     ${rails}
   `, false);
+  stagger('.cat-grid > *');
+  stagger('.rail > *', 22, 300);
 }
 
 /* ================= 品类页 ================= */
@@ -252,6 +261,7 @@ function viewCategory(catId) {
     g.innerHTML = l.length
       ? `<div class="brand-grid">${l.map(brandTile).join('')}</div>`
       : '<p class="empty-tip">没有符合筛选的品牌</p>';
+    stagger('.brand-grid > *', 26, 400);
   };
 
   setView(`
@@ -326,6 +336,7 @@ function viewBrand(id) {
     const g = qs('#brandProds'); if (!g) return;
     const l = f === '全部' ? prods : prods.filter(p => p.type === f);
     g.innerHTML = l.length ? l.map(p => prodCard(p)).join('') : '<p class="empty-tip">该类型暂无产品</p>';
+    stagger('.prod-list > *', 30, 360);
   };
   renderProds();
   pushHistory('b:' + b.id);
@@ -471,6 +482,7 @@ function viewExplore() {
     <div class="chipbar" style="position:static;background:none;backdrop-filter:none;padding-top:4px">
       <button class="chip ${ui.exploreCat === 'all' ? 'on' : ''}" data-act="ex-cat" data-val="all">全部</button>
       ${cats.map(c => `<button class="chip ${ui.exploreCat === c.id ? 'on' : ''}" data-act="ex-cat" data-val="${esc(c.id)}">${esc(c.name)}</button>`).join('')}
+      <button class="chip" style="margin-left:auto;background:var(--ink);color:var(--bg);border-color:var(--ink)" data-act="random">🎲 随便逛逛</button>
     </div>
     <div class="masonry" id="masonry"></div>
     <div id="sentinel"></div>
@@ -503,6 +515,11 @@ function renderMore() {
   if (!pool.length) qs('#exEmpty').style.display = 'block';
   if (!chunk.length) return;
   m.insertAdjacentHTML('beforeend', chunk.map(p => prodCard(p, true)).join(''));
+  const cards = qsa('#masonry > .prod-card');
+  cards.slice(-chunk.length).forEach((el, i) => {
+    el.classList.add('stagger');
+    el.style.animationDelay = Math.min(i * 26, 320) + 'ms';
+  });
   exploreShown += chunk.length;
 }
 
@@ -790,6 +807,14 @@ document.addEventListener('click', e => {
     case 'ex-cat': {
       ui.exploreCat = el.dataset.val;
       viewExplore();
+      break;
+    }
+    case 'random': {
+      const all = [...prodById.values()];
+      if (!all.length) break;
+      const p = all[Math.floor(Math.random() * all.length)];
+      toast('命运带你去看:' + p.name);
+      location.hash = '#/product/' + p.id;
       break;
     }
     case 'hot': {

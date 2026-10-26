@@ -20,31 +20,37 @@ for (const f of readdirSync(SRC).sort()) {
 }
 
 const seen = new Set();
+const uniq = [];
+let dupCount = 0;
 for (const b of brands) {
   const tag = `[${b.__src}] ${b.id || b.name || '?'}`;
-  if (!b.id) errors.push(`${tag}: 缺 id`);
-  else if (seen.has(b.id)) errors.push(`${tag}: 品牌 id 重复`);
+  if (!b.id) { errors.push(`${tag}: 缺 id`); continue; }
+  if (seen.has(b.id)) { dupCount++; continue; }   // 先到先得,种子数据会被品类数据覆盖
   seen.add(b.id);
   if (!b.name) errors.push(`${tag}: 缺 name`);
   if (!catIds.has(b.categoryId)) errors.push(`${tag}: categoryId 无效(${b.categoryId})`);
   b.products = b.products || [];
   const pids = new Set();
+  const pu = [];
   for (const p of b.products) {
     const pt = `${tag} / ${p.id || p.name || '?'}`;
-    if (!p.id) errors.push(`${pt}: 产品缺 id`);
-    else if (pids.has(p.id)) errors.push(`${pt}: 产品 id 重复`);
+    if (!p.id || pids.has(p.id)) { errors.push(`${pt}: 产品 id 缺失或重复`); continue; }
     pids.add(p.id);
     if (!p.name) errors.push(`${pt}: 产品缺 name`);
     if (p.price && typeof p.price.min !== 'number' && !p.price.label) errors.push(`${pt}: price 异常`);
+    pu.push(p);
   }
+  b.products = pu;
   delete b.__src;
+  uniq.push(b);
 }
-
-brands.sort((a, b) => (a.categoryId === b.categoryId ? a.id.localeCompare(b.id) : a.categoryId.localeCompare(b.categoryId)));
+if (dupCount) console.log(`⚠ 跳过重复品牌 ${dupCount} 个(先到先得)`);
+uniq.sort((a, b) => (a.categoryId === b.categoryId ? a.id.localeCompare(b.id) : a.categoryId.localeCompare(b.categoryId)));
+const finalBrands = uniq;
 
 const counts = {
-  brands: brands.length,
-  products: brands.reduce((s, b) => s + b.products.length, 0),
+  brands: finalBrands.length,
+  products: finalBrands.reduce((s, b) => s + b.products.length, 0),
 };
 const out = {
   version: '数据版本 ' + new Date().toLocaleString('sv-SE').replace('T', ' '),
@@ -58,7 +64,7 @@ writeFileSync(join('data', 'index.json'), JSON.stringify(out));
 
 console.log(`✔ 合并完成:${counts.brands} 个品牌 / ${counts.products} 个产品 → data/index.json`);
 const byCat = {};
-for (const b of brands) byCat[b.categoryId] = (byCat[b.categoryId] || 0) + 1;
+for (const b of finalBrands) byCat[b.categoryId] = (byCat[b.categoryId] || 0) + 1;
 console.log(Object.entries(byCat).map(([k, v]) => `${k}:${v}`).join('  '));
 if (errors.length) {
   console.log(`\n✘ ${errors.length} 个问题:`);

@@ -1,0 +1,304 @@
+{
+  "brands": [
+    {
+      "id": "patek", "name": "百达翡丽", "nameEn": "Patek Philippe", "domain": "patek.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1839, "hq": "日内瓦",
+      "tier": "顶奢", "tags": ["日内瓦", "家族制表", "传世"], "slogan": "没人能真正拥有百达翡丽,只不过为下一代保管而已",
+      "desc": "瑞士现存唯一全程家族独立经营的制表商,被视为腕表世界的巅峰, complicated 功能与传世价值并重。",
+      "story": "1839年创立于日内瓦,1851年得名 Patek Philippe,始终由斯特恩家族经营。历史上的客户包括维多利亚女王、爱因斯坦,是世界上第一块腕表的制造者。\n品牌坚持全自产机芯与日内瓦印记,鹦鹉螺、手雷等运动表款在二级市场长期溢价。拍卖会上百达翡丽反复刷新腕表成交纪录,是公认的\"表王\"。",
+      "products": [
+        { "id": "patek-nautilus", "name": "鹦鹉螺", "nameEn": "Nautilus", "type": "运动豪华表", "price": { "min": 270000, "max": 800000, "label": "公价" }, "desc": "1976年杰罗·尊达设计的钢王之王,舷窗表壳一体链带,超公价神话的主角。", "highlights": ["尊达设计", "一体链带"], "tags": ["运动"] },
+        { "id": "patek-aquanaut", "name": "手雷", "nameEn": "Aquanaut", "type": "运动豪华表", "price": { "min": 200000, "max": 400000, "label": "公价" }, "desc": "俗称\"手雷\",橡胶表带的年轻化运动款,鹦鹉螺之后的又一爆款。", "highlights": ["橡胶表带", "年轻运动"], "tags": ["运动"] },
+        { "id": "patek-calatrava", "name": "卡拉卓华", "nameEn": "Calatrava", "type": "正装表", "price": { "min": 150000, "max": 300000, "label": "公价" }, "desc": "1932年问世的圆形正装表鼻祖,百达翡丽设计美学的原点。", "highlights": ["包豪斯美学", "正装典范"], "tags": ["正装"] },
+        { "id": "patek-grand-complications", "name": "超级复杂功能时计", "nameEn": "Grand Complications", "type": "复杂功能表", "price": { "min": 800000, "max": 30000000, "label": "公价" }, "desc": "三问、万年历、陀飞轮的集大成系列,百达翡丽制表技艺的封顶之作。", "highlights": ["三问报时", "万年历"], "tags": ["复杂"] },
+        { "id": "patek-twenty4", "name": "Twenty~4", "nameEn": "Twenty~4", "type": "女表", "price": { "min": 150000, "max": 400000, "label": "公价" }, "desc": "1999年为现代女性推出的系列,方形表壳优雅利落。", "highlights": ["现代女性", "方形表壳"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "ap", "name": "爱彼", "nameEn": "Audemars Piguet", "domain": "audemarspiguet.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1875, "hq": "布拉苏丝",
+      "tier": "顶奢", "tags": ["皇家橡树", "独立家族", "运动豪华"], "slogan": "驾驭常规,铸就创新",
+      "desc": "瑞士最古老的制表世家之一,皇家橡树开创了 luxury sport 豪华运动表品类。",
+      "story": "1875年,两位不到25岁的制表师 Jules Audemars 与 Edward Piguet 在汝山谷创立爱彼,至今仍由创始家族掌舵。1892年推出史上首枚三问腕表机芯。\n1972年,杰罗·尊达以战舰舷窗为灵感的皇家橡树横空出世,精钢表售价超过黄金表,彻底改写了高级制表规则,八角形表圈成为一代符号。",
+      "products": [
+        { "id": "ap-royaloak", "name": "皇家橡树", "nameEn": "Royal Oak", "type": "运动豪华表", "price": { "min": 220000, "max": 900000, "label": "公价" }, "desc": "1972年尊达神作,八角表圈+八颗螺钉+格栅盘面,精钢表定价超金表的革命者。", "highlights": ["尊达设计", "Tapisserie格纹"], "tags": ["运动"] },
+        { "id": "ap-offshore", "name": "皇家橡树离岸型", "nameEn": "Royal Oak Offshore", "type": "运动豪华表", "price": { "min": 250000, "max": 600000, "label": "公价" }, "desc": "1993年推出的放大加强版皇家橡树,更粗犷更运动,人称\"橡树王\"。", "highlights": ["42mm大表径", "计时码表"], "tags": ["运动"] },
+        { "id": "ap-code1159", "name": "CODE 11.59", "nameEn": "CODE 11.59", "type": "正装表", "price": { "min": 180000, "max": 500000, "label": "公价" }, "desc": "2019年全新圆形正装系列,八边形中圈藏在圆形表壳内,工艺极繁。", "highlights": ["全新系列", "超薄机芯"], "tags": ["正装"] },
+        { "id": "ap-millenary", "name": "千禧系列", "nameEn": "Millenary", "type": "女表", "price": { "min": 150000, "max": 400000, "label": "公价" }, "desc": "椭圆形表壳搭配偏心盘面,机芯结构一览无余的个性女表。", "highlights": ["椭圆表壳", "偏心盘"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "vc", "name": "江诗丹顿", "nameEn": "Vacheron Constantin", "domain": "vacheron-constantin.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1755, "hq": "日内瓦",
+      "tier": "顶奢", "tags": ["最古老", "日内瓦印记", "艺术"], "slogan": "力行不辍,臻于至善",
+      "desc": "世界最古老的持续运营制表厂,历史比瑞士联邦还长,艺术表盘造诣深不可测。",
+      "story": "1755年,24岁的让-马克·瓦什隆在日内瓦签下第一份学徒合同,江诗丹顿由此诞生,连续运营超过270年。十九世纪起为各国王室供货,中国故宫亦有藏品。\n品牌以\"日内瓦印记\"和艺术工艺(珐琅、雕刻、镂空)著称,Overseas纵横四海与Patrimony传承分别是运动与正装的当代答案。",
+      "products": [
+        { "id": "vc-overseas", "name": "纵横四海", "nameEn": "Overseas", "type": "运动豪华表", "price": { "min": 200000, "max": 500000, "label": "公价" }, "desc": "江诗丹顿的豪华运动答案,马耳他十字暗纹表圈,快拆表带三合一。", "highlights": ["快拆表带", "马耳他十字"], "tags": ["运动"] },
+        { "id": "vc-patrimony", "name": "传承系列", "nameEn": "Patrimony", "type": "正装表", "price": { "min": 130000, "max": 400000, "label": "公价" }, "desc": "极简美学的极致,超薄圆形表壳里藏着日内瓦制表的从容。", "highlights": ["超薄", "极简"], "tags": ["正装"] },
+        { "id": "vc-traditionnelle", "name": "传袭系列", "nameEn": "Traditionnelle", "type": "复杂功能表", "price": { "min": 300000, "max": 3000000, "label": "公价" }, "desc": "向日内瓦高级制表传统致敬,万年历、三问、陀飞轮应有尽有。", "highlights": ["传统复杂", "日内瓦印记"], "tags": ["复杂"] },
+        { "id": "vc-metiers", "name": "艺术大师系列", "nameEn": "Métiers d'Art", "type": "艺术表", "price": { "min": 500000, "max": 5000000, "label": "公价" }, "desc": "珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。", "highlights": ["珐琅彩绘", "限量发行"], "tags": ["艺术"] }
+      ]
+    },
+    {
+      "id": "breguet", "name": "宝玑", "nameEn": "Breguet", "domain": "breguet.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1775, "hq": "拉布拉耶",
+      "tier": "顶奢", "tags": ["发明之王", "陀飞轮鼻祖", "王室御用"], "slogan": "制表师中的制表师",
+      "desc": "现代制表几乎所有重要发明的源头:陀飞轮、宝玑摆轮、问表打簧都出自阿伯拉罕-路易·宝玑之手。",
+      "story": "1775年宝玑大师在巴黎创业,先后为王后玛丽·安托瓦内特、拿破仑、丘吉尔造表。他发明的陀飞轮(1801年专利)至今仍是机械表最高技艺的象征,宝玑指针与宝玑数字沿用至今。\n如今宝玑隶属斯沃琪集团,经典系列的钱币纹表圈和镂空车轮指针一眼可辨,是\"血统\"二字最硬的注脚。",
+      "products": [
+        { "id": "breguet-classique", "name": "经典系列", "nameEn": "Classique", "type": "正装表", "price": { "min": 150000, "max": 1000000, "label": "公价" }, "desc": "钱币纹表圈+宝玑针的正装正统,薄如蝉翼的超薄款是绅士暗号。", "highlights": ["钱币纹表圈", "宝玑指针"], "tags": ["正装"] },
+        { "id": "breguet-tourbillon", "name": "陀飞轮系列", "nameEn": "Tourbillon", "type": "复杂功能表", "price": { "min": 800000, "max": 5000000, "label": "公价" }, "desc": "祖师爷的看家本领,每枚陀飞轮框架由一位匠人独立打磨装配。", "highlights": ["陀飞轮鼻祖", "手艺封顶"], "tags": ["复杂"] },
+        { "id": "breguet-marine", "name": "航海系列", "nameEn": "Marine", "type": "运动豪华表", "price": { "min": 150000, "max": 400000, "label": "公价" }, "desc": "源自法国海军天文台计时传统,运动外壳里装着古典灵魂。", "highlights": ["海军血统", "运动正装两相宜"], "tags": ["运动"] },
+        { "id": "breguet-reinedenaples", "name": "那不勒斯王后", "nameEn": "Reine de Naples", "type": "女表", "price": { "min": 150000, "max": 1000000, "label": "公价" }, "desc": "为那不勒斯王后打造的蛋形腕表,被公认是世界第一块腕表的后裔。", "highlights": ["蛋形表壳", "史上首表血统"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "blancpain", "name": "宝珀", "nameEn": "Blancpain", "domain": "blancpain.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1735, "hq": "锡耶雷",
+      "tier": "顶奢", "tags": ["最古老制表牌", "五十噚", "全自产"], "slogan": "经典时计的领导者",
+      "desc": "1735年诞生、世界上最古老的腕表品牌,现代潜水表鼻祖五十噚的缔造者。",
+      "story": " Jehan-Jacques Blancpain 1735年在维莱雷田庄注册制表工坊,宝珀从此从未间断生产。品牌坚持\"不做石英表\"的原则,全部采用机械机芯。\n1953年问世的五十噚定义了现代潜水表的一切标准(旋转表圈、夜光、防水),比水鬼还早。今天宝珀隶属斯沃琪集团,是集团塔尖上的制表担当。",
+      "products": [
+        { "id": "blancpain-fiftyfathoms", "name": "五十噚", "nameEn": "Fifty Fathoms", "type": "潜水表", "price": { "min": 120000, "max": 500000, "label": "公价" }, "desc": "1953年诞生的现代潜水表鼻祖,军用血统+蓝宝石圈,潜水表的原教旨。", "highlights": ["潜水表鼻祖", "军用血统"], "tags": ["潜水"] },
+        { "id": "blancpain-villeret", "name": "维勒雷", "nameEn": "Villeret", "type": "正装表", "price": { "min": 100000, "max": 600000, "label": "公价" }, "desc": "双表圈 overlay 罗马刻度的古典正装,宝珀美学的基本盘。", "highlights": ["双表圈", "古典美学"], "tags": ["正装"] },
+        { "id": "blancpain-leman", "name": "雷蒙湖", "nameEn": "Léman", "type": "复杂功能表", "price": { "min": 150000, "max": 800000, "label": "公价" }, "desc": "运动感与复杂功能并重,月相、陀飞轮、飞返计时皆有呈现。", "highlights": ["飞返计时", "月相"], "tags": ["复杂"] },
+        { "id": "blancpain-carrousel", "name": "卡罗素", "nameEn": "Carrousel", "type": "复杂功能表", "price": { "min": 600000, "max": 2000000, "label": "公价" }, "desc": "复活了失传百年的卡罗素机构,与陀飞轮分庭抗礼的独门绝技。", "highlights": ["独门机构", "复活技艺"], "tags": ["复杂"] }
+      ]
+    },
+    {
+      "id": "jlc", "name": "积家", "nameEn": "Jaeger-LeCoultre", "domain": "jaeger-lecoultre.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1833, "hq": "勒桑捷",
+      "tier": "顶奢", "tags": ["大工坊", "超薄", "翻转表"], "slogan": "制表大工坊",
+      "desc": "号称\"制表师中的制表师\",发明过1246种机芯,超薄与翻转表是两大名片。",
+      "story": "1833年安东尼·勒考特在勒桑捷创办工坊,经过百年发展成为\"大工坊\"(Manufacture):从齿轮到表壳全部自产,并向百达翡丽、爱彼等供应过机芯。\n1931年为英国马球军官设计的Reverso翻转表,表壳一翻护住镜面,背面还可刻字,成为装饰艺术时代的活化石。",
+      "products": [
+        { "id": "jlc-reverso", "name": "翻转系列", "nameEn": "Reverso", "type": "正装表", "price": { "min": 60000, "max": 400000, "label": "公价" }, "desc": "1931年马球场诞生的装饰艺术经典,表盘可翻面,一表两戴。", "highlights": ["翻转表壳", "装饰艺术"], "tags": ["正装"] },
+        { "id": "jlc-mastercontrol", "name": "大师系列", "nameEn": "Master Control", "type": "正装表", "price": { "min": 80000, "max": 500000, "label": "公价" }, "desc": "每枚机芯需通过\"1000小时测试\"方可出厂,可靠与优雅兼得。", "highlights": ["1000小时测试", "圆桌美学"], "tags": ["正装"] },
+        { "id": "jlc-duometre", "name": "双翼系列", "nameEn": "Duomètre", "type": "复杂功能表", "price": { "min": 300000, "max": 1000000, "label": "公价" }, "desc": "双发条盒双走时轮的\"双翼\"机构,走时精度与复杂功能互不干扰。", "highlights": ["双翼机构", "高精度"], "tags": ["复杂"] },
+        { "id": "jlc-atmos", "name": "空气钟", "nameEn": "Atmos", "type": "座钟", "price": { "min": 40000, "max": 300000, "label": "公价" }, "desc": "靠气温变化驱动的永动座钟,不用电池不上弦,房间里的一件传家宝。", "highlights": ["空气驱动", "传家宝"], "tags": ["座钟"] }
+      ]
+    },
+    {
+      "id": "iwc", "name": "万国", "nameEn": "IWC Schaffhausen", "domain": "iwc.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1868, "hq": "沙夫豪森",
+      "tier": "高奢", "tags": ["飞行员表", "大飞", "工程师"], "slogan": "卓越的工程艺术",
+      "desc": "美国工程师 Florentine Jones 创立于莱茵河畔,以大表径飞行员表和工程师文化著称。",
+      "story": "1868年,美国工程师琼斯跑到瑞士,把美国化的工程思维带进制表业,创立万国。二十世纪为军方造飞行员表、为工程师造防磁表,大表径、强机芯的形象深入人心。\n万国隶属历峰集团,葡计、大飞、马克系列是最著名的组合,男性气质拉满,\"男人味的表\"民间票选常年第一。",
+      "products": [
+        { "id": "iwc-bigpilot", "name": "大飞行员", "nameEn": "Big Pilot", "type": "飞行员表", "price": { "min": 100000, "max": 300000, "label": "公价" }, "desc": "46mm大表径+锥形表冠+扇形动力显示,腕表界的\"猛男\"代表作。", "highlights": ["46mm大飞", "7天动力"], "tags": ["飞行"] },
+        { "id": "iwc-portugieser", "name": "葡萄牙系列", "nameEn": "Portugieser", "type": "计时码表", "price": { "min": 60000, "max": 300000, "label": "公价" }, "desc": "1930年代为葡萄牙商人定制的精确航海表,葡计是最经典的入门豪华计时。", "highlights": ["经典计时", "细 bezel"], "tags": ["计时"] },
+        { "id": "iwc-mark", "name": "马克系列", "nameEn": "Mark", "type": "飞行员表", "price": { "min": 40000, "max": 70000, "label": "公价" }, "desc": "从1948年马克11延续至今的军表谱系,极简三针+软铁防磁。", "highlights": ["军表血统", "软铁防磁"], "tags": ["飞行"] },
+        { "id": "iwc-ingenieur", "name": "工程师系列", "nameEn": "Ingenieur", "type": "运动豪华表", "price": { "min": 50000, "max": 200000, "label": "公价" }, "desc": "为科研人员设计的防磁表,尊达改款的一体式Genta美学低调硬核。", "highlights": ["防磁", "尊达设计"], "tags": ["运动"] }
+      ]
+    },
+    {
+      "id": "piaget", "name": "伯爵", "nameEn": "PIAGET", "domain": "piaget.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1874, "hq": "仙子坡",
+      "tier": "顶奢", "tags": ["超薄之王", "珠宝表", "金匠"], "slogan": "永远做得比要求的更好",
+      "desc": "从汝山谷农庄走出的制表珠宝双修世家,超薄机芯纪录保持者,\"钱不是问题\"的奢华美学。",
+      "story": "1874年乔治·爱德华·伯爵在仙子坡农舍里为顶级品牌装配精密机芯,二战后自创品牌,1960年代以超薄机芯和大胆的宝石表盘震动业界,\"金比钢多\"的用料哲学自成一派。\n如今伯爵隶属历峰集团,Altiplano超薄与Polo系列双线并行,珠宝工坊仍在为高级定制续写华彩。",
+      "products": [
+        { "id": "piaget-altiplano", "name": "Altiplano", "nameEn": "Altiplano", "type": "超薄正装表", "price": { "min": 120000, "max": 1000000, "label": "公价" }, "desc": "超薄纪录收割机,2mm级机芯把\"薄\"做成了品牌哲学。", "highlights": ["超薄纪录", "纯色美学"], "tags": ["超薄"] },
+        { "id": "piaget-polo", "name": "Polo 系列", "nameEn": "Polo", "type": "运动豪华表", "price": { "min": 100000, "max": 400000, "label": "公价" }, "desc": "1979年的枕形圆圈美学,一体式表链的沙滩贵族。", "highlights": ["枕形圆圈", "一体链"], "tags": ["运动"] },
+        { "id": "piaget-possession", "name": "Possession", "nameEn": "Possession", "type": "珠宝表", "price": { "min": 80000, "max": 500000, "label": "公价" }, "desc": "可旋转钻石圈的互动珠宝表,\"转一转\"成为把玩的仪式感。", "highlights": ["旋转钻圈", "互动设计"], "tags": ["珠宝"] },
+        { "id": "piaget-limelight", "name": "Limelight", "nameEn": "Limelight Gala", "type": "女表", "price": { "min": 100000, "max": 600000, "label": "公价" }, "desc": "不对称镶钻的 Gala 腰线,1970年代的派对精神复刻。", "highlights": ["不对称镶钻", "复古曲线"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "chopard", "name": "萧邦", "nameEn": "Chopard", "domain": "chopard.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1860, "hq": "日内瓦",
+      "tier": "高奢", "tags": ["珠宝表", "快乐钻石", "赛车计时"], "slogan": "载誉而行",
+      "desc": "珠宝与制表双栖的家族企业,快乐钻石灵动全球,Mille Miglia 赛车表年年迭代。",
+      "story": "1860年路易·尤利西斯·萧邦在汝拉小镇创建精密机芯工坊,1963年并入舍费尔家族后珠宝基因全面觉醒。1976年\"快乐钻石\"让钻石在表盘里自由滑动,成为品牌最浪漫的签名。\n萧邦还是戛纳电影节官方合作伙伴与Mille Miglia复古赛车赛计时,家族至今独立经营,是奢侈行业里少见的\"小而美\"。",
+      "products": [
+        { "id": "chopard-happydiamonds", "name": "快乐钻石", "nameEn": "Happy Diamonds", "type": "珠宝表", "price": { "min": 50000, "max": 600000, "label": "公价" }, "desc": "1976年问世,滑动钻石在两层蓝宝石间自由流动,表界最浪漫的发明之一。", "highlights": ["滑动钻石", "1976经典"], "tags": ["珠宝"] },
+        { "id": "chopard-millemiglia", "name": "Mille Miglia", "nameEn": "Mille Miglia", "type": "计时码表", "price": { "min": 50000, "max": 200000, "label": "公价" }, "desc": "意大利千英里复古赛官方计时,赛车美学+计时硬功的年货级系列。", "highlights": ["赛车计时", "复古美学"], "tags": ["计时"] },
+        { "id": "chopard-luc", "name": "L.U.C", "nameEn": "L.U.C", "type": "正装表", "price": { "min": 80000, "max": 800000, "label": "公价" }, "desc": "以创始人命名的自产机芯正装线,打磨获日内瓦印记认证。", "highlights": ["自产机芯", "日内瓦印记"], "tags": ["正装"] },
+        { "id": "chopard-imperial", "name": "Imperiale", "nameEn": "Imperiale", "type": "女表", "price": { "min": 60000, "max": 300000, "label": "公价" }, "desc": "罗马帝国美学的女式珠宝表,表冠如权杖,气派十足。", "highlights": ["罗马美学", "女式正装"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "gp", "name": "芝柏", "nameEn": "Girard-Perregaux", "domain": "girard-perregaux.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1791, "hq": "拉绍德封",
+      "tier": "高奢", "tags": ["金桥", "老牌大厂", "三金桥"], "slogan": "未竟之志,持续向前",
+      "desc": "1791年创立的老牌大厂,三金桥陀飞轮是制表史上被拍照最多的机芯结构之一。",
+      "story": "让-弗朗索瓦·博特1791年在日内瓦开办表厂,后与吉拉尔家族合并成为芝柏。1860年代康斯坦特·吉拉尔把三枚金桥排成等边三角形,三金桥陀飞轮在1900年巴黎世博会拿金奖。\n芝柏隶属索风集团(LVMH背后家族的分支),Laureato 桂冠系列是1970年代一体式运动豪华的代表之一。",
+      "products": [
+        { "id": "gp-laureato", "name": "桂冠系列", "nameEn": "Laureato", "type": "运动豪华表", "price": { "min": 80000, "max": 300000, "label": "公价" }, "desc": "1975年诞生的八角圈一体链,比皇家橡树低调,被藏家称作\"宝藏钢表\"。", "highlights": ["八角圈", "一体链"], "tags": ["运动"] },
+        { "id": "gp-bridges", "name": "金桥系列", "nameEn": "Bridges", "type": "复杂功能表", "price": { "min": 600000, "max": 5000000, "label": "公价" }, "desc": "三枚金桥托起机芯的视觉奇观,机械美学天花板级的存在。", "highlights": ["三金桥", "透明表盘"], "tags": ["复杂"] },
+        { "id": "gp-1966", "name": "1966系列", "nameEn": "1966", "type": "正装表", "price": { "min": 80000, "max": 250000, "label": "公价" }, "desc": "以品牌拿下日内瓦表展大奖的年份命名,薄而雅的正装。", "highlights": ["超薄正装", "细纹盘"], "tags": ["正装"] },
+        { "id": "gp-cats-eye", "name": "猫眼系列", "nameEn": "Cat's Eye", "type": "女表", "price": { "min": 80000, "max": 400000, "label": "公价" }, "desc": "椭圆猫眼造型专为女性设计,镶钻款在珠宝表里辨识度极高。", "highlights": ["椭圆造型", "珠宝镶钻"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "ulysse", "name": "雅典表", "nameEn": "Ulysse Nardin", "domain": "ulysse-nardin.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1846, "hq": "勒洛克",
+      "tier": "高奢", "tags": ["航海天文台", "珐琅", "奇想"], "slogan": "无畏前行",
+      "desc": "以航海天文台钟起家,复辟珐琅微绘与奇想创意,是浪琴之前海洋计时真正的王者。",
+      "story": "1846年,23岁的尤利西斯·纳德在勒洛克创办工坊,凭航海天文台钟服务全球海军,拿过18项国际大奖。1980年代新东家入主后,以三问、万年历与\"天文三部曲\"震惊业界,还复活了濒危的日内瓦珐琅微绘工艺。\n如今雅典隶属索风集团,Freak 奇想系列无指针无表冠的卡罗素结构,是当代最前卫的机械表达。",
+      "products": [
+        { "id": "ulysse-freak", "name": "奇想系列", "nameEn": "FREAK", "type": "复杂功能表", "price": { "min": 500000, "max": 5000000, "label": "公价" }, "desc": "2001年问世的无指针卡罗素腕表,机芯本身就是指针,像戴了一台外星机器。", "highlights": ["无指针设计", "硅质机芯"], "tags": ["前卫"] },
+        { "id": "ulysse-marine", "name": "航海系列", "nameEn": "Marine", "type": "运动豪华表", "price": { "min": 80000, "max": 300000, "label": "公价" }, "desc": "航海天文台血统的现代演绎,六边形表圈标志一眼认出。", "highlights": ["航海血统", "六边表圈"], "tags": ["运动"] },
+        { "id": "ulysse-sonata", "name": "西敏寺钟声问表", "nameEn": "Sonata", "type": "复杂功能表", "price": { "min": 800000, "max": 3000000, "label": "公价" }, "desc": "可自选报时旋律的问表,把教堂钟声装进腕间。", "highlights": ["自选旋律", "西敏寺钟声"], "tags": ["复杂"] },
+        { "id": "ulysse-cloisonne", "name": "珐琅微绘", "nameEn": "Cloisonné Enamel", "type": "艺术表", "price": { "min": 300000, "max": 2000000, "label": "公价" }, "desc": "掐丝珐琅表盘每枚需数百小时,世界地图、龙舟等题材件件孤品。", "highlights": ["掐丝珐琅", "孤品级"], "tags": ["艺术"] }
+      ]
+    },
+    {
+      "id": "glashuette", "name": "格拉苏蒂原创", "nameEn": "Glashütte Original", "domain": "glashuette-original.com",
+      "categoryId": "watchjewel", "country": "德国", "founded": 1845, "hq": "格拉苏蒂",
+      "tier": "高奢", "tags": ["德系", "东德遗产", "鹅颈微调"], "slogan": "德国制表艺术的传承者",
+      "desc": "德东格拉苏蒂小镇制表正统,四分之三夹板与鹅颈微调,德系高级制表双雄之一。",
+      "story": "1845年费尔迪南多·阿道夫·朗格在萨克森创办制表业,格拉苏蒂小镇就此兴起。东德时代国营合并为GUB,两德统一后改制为格拉苏蒂原创,德系打磨传统完整保留。\n如今隶属斯沃琪集团,以Pano偏心与Senator议员两大系列立足,机芯美学与朗格各擅胜场,价格却是德系高定的甜点位。",
+      "products": [
+        { "id": "glashuette-pano", "name": "Pano 偏心系列", "nameEn": "Pano", "type": "正装表", "price": { "min": 60000, "max": 400000, "label": "公价" }, "desc": "非对称偏心盘面+大日历+动力储备,德系美学的现代名片。", "highlights": ["偏心盘面", "大日历"], "tags": ["正装"] },
+        { "id": "glashuette-senator", "name": "议员系列", "nameEn": "Senator", "type": "正装表", "price": { "min": 50000, "max": 300000, "label": "公价" }, "desc": "圆形正装的德式严谨,三针大日历是入门德系高定的经典选择。", "highlights": ["德式严谨", "正装三针"], "tags": ["正装"] },
+        { "id": "glashuette-seventies", "name": "七十年代", "nameEn": "Seventies", "type": "计时码表", "price": { "min": 70000, "max": 200000, "label": "公价" }, "desc": "电视形表壳+彩色渐变盘,把1970年代的复古风情戴回手腕。", "highlights": ["电视形表壳", "渐变盘"], "tags": ["复古"] },
+        { "id": "glashuette-spezialist", "name": "Spezialist", "nameEn": "Spezialist", "type": "潜水表", "price": { "min": 40000, "max": 150000, "label": "公价" }, "desc": "SeaQ 潜水表通过德标 DIN 8306,德系工装风的硬核新线。", "highlights": ["德标潜水", "工装美学"], "tags": ["潜水"] }
+      ]
+    },
+    {
+      "id": "lange", "name": "朗格", "nameEn": "A. Lange & Söhne", "domain": "langepart.com",
+      "categoryId": "watchjewel", "country": "德国", "founded": 1845, "hq": "格拉苏蒂",
+      "tier": "顶奢", "tags": ["德系表王", "四分之三夹板", "东德重生"], "slogan": "追求完美者,永不自满",
+      "desc": "德系制表的巅峰,1994年凭Lange 1王者归来,机芯打磨被公认为世界顶级。",
+      "story": "1845年费尔迪南多·阿道夫·朗格在格拉苏蒂奠基德国精密制表,四分之三夹板、鹅颈微调自此成为德系标签。东德时代品牌被国有化,1990年瓦尔特·朗格重返故土,1994年发布四款全新腕表,Lange 1 的偏心非对称布局一夜封神。\n如今朗格隶属历峰集团,年产仅数千枚,猫头鹰Zeitwerk跳字、Datograph计时都是一代神作,二级市场一表难求。",
+      "products": [
+        { "id": "lange-lange1", "name": "Lange 1", "nameEn": "Lange 1", "type": "正装表", "price": { "min": 250000, "max": 600000, "label": "公价" }, "desc": "1994年王者归之作,偏心时盘+大日历+动力显示的非对称美学。", "highlights": ["非对称设计", "大日历"], "tags": ["正装"] },
+        { "id": "lange-datograph", "name": "Datograph", "nameEn": "Datograph", "type": "计时码表", "price": { "min": 600000, "max": 1200000, "label": "公价" }, "desc": "被钟表界尊为\"最美德式计时\",飞返计时+大日历+动力显示三合一。", "highlights": ["飞返计时", "神作地位"], "tags": ["计时"] },
+        { "id": "lange-zeitwerk", "name": "猫头鹰", "nameEn": "Zeitwerk", "type": "跳字表", "price": { "min": 500000, "max": 1500000, "label": "公价" }, "desc": "机械跳字数字显示,四窗大数字一眼读时,德系工程的浪漫狂想。", "highlights": ["机械跳字", "时间桥"], "tags": ["复杂"] },
+        { "id": "lange-1815", "name": "1815系列", "nameEn": "1815", "type": "正装表", "price": { "min": 180000, "max": 500000, "label": "公价" }, "desc": "以创始人出生年份命名,古典小三针是入手机芯美学的通行证。", "highlights": ["古典三针", "鹅颈微调"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "franckmuller", "name": "法穆兰", "nameEn": "Franck Muller", "domain": "franckmuller.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1991, "hq": "日内瓦",
+      "tier": "高奢", "tags": ["酒桶形", "疯狂时间", "数字狂想"], "slogan": "制表艺术的极限挑战",
+      "desc": "1991年创立的年轻大牌,酒桶形表壳与跳跃数字盘面自成一派,江湖人称\"疯狂时间\"。",
+      "story": "制表天才法穆兰与合作伙伴1991年自立门户,以修复古董复杂表起家,很快以一年一枚\"世界首创\"复杂表立威。酒桶形Cintrée Curvex表壳把运动与正装揉成一体。\nVanguard与Crazy Hours(数字乱序跳动)是两大招牌,中东与亚洲市场尤其买账,年轻顶奢的代表。",
+      "products": [
+        { "id": "franckmuller-cintree", "name": "Cintrée Curvex", "nameEn": "Cintrée Curvex", "type": "正装表", "price": { "min": 80000, "max": 400000, "label": "公价" }, "desc": "品牌图腾级酒桶形表壳,弧面贴合手腕,阿拉伯数字刻度优雅复古。", "highlights": ["酒桶形", "数字刻度"], "tags": ["正装"] },
+        { "id": "franckmuller-vanguard", "name": "Vanguard", "nameEn": "Vanguard", "type": "运动豪华表", "price": { "min": 80000, "max": 300000, "label": "公价" }, "desc": "更年轻更运动的现代酒桶,大表径+大胆配色,潮人浓度高。", "highlights": ["现代酒桶", "大胆配色"], "tags": ["运动"] },
+        { "id": "franckmuller-crazyhours", "name": "Crazy Hours", "nameEn": "Crazy Hours", "type": "复杂功能表", "price": { "min": 150000, "max": 400000, "label": "公价" }, "desc": "表盘数字乱序排列,时针却精准跳跃到正确位置,机械界的幽默感。", "highlights": ["乱序数字", "跳时机构"], "tags": ["复杂"] },
+        { "id": "franckmuller-colorskeletion", "name": "彩色梦", "nameEn": "Color Dreams", "type": "正装表", "price": { "min": 80000, "max": 250000, "label": "公价" }, "desc": "渐变彩盘+酒桶壳,法穆兰把配色玩成了 signature。", "highlights": ["渐变彩盘", "辨识度高"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "richardmille", "name": "里查德米尔", "nameEn": "Richard Mille", "domain": "richardmille.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 2001, "hq": "弗莱耶尔",
+      "tier": "顶奢", "tags": ["赛车科技", "百万起步", "新贵之王"], "slogan": " racing machine on the wrist(腕上的赛车机器)",
+      "desc": "2001年创立即封神的超新贵,建筑学表壳+赛车级材质,公价百万起步,新钱圈层硬通货。",
+      "story": "里查德·米尔与爱彼前高管2001年创立品牌,把F1悬挂、航空钛材、纳米碳管直接搬进腕表,RM 001一亮相定价即百万级。赞助纳达尔、勒克莱尔等顶级运动员,手表戴着打大满贯都摔不坏。\n它的商业模式反传统:年产量数千枚、全球配额稀缺,二级市场常年翻倍,成为过去二十年最成功的奢侈品牌创业案例。",
+      "products": [
+        { "id": "richardmille-rm011", "name": "RM 011", "nameEn": "RM 011", "type": "计时码表", "price": { "min": 1500000, "max": 4000000, "label": "公价" }, "desc": "Felipe Massa 传奇酒桶计时,碳纤维表壳+飞返计时,品牌破圈之作。", "highlights": ["F1联名", "飞返计时"], "tags": ["计时"] },
+        { "id": "richardmille-rm27", "name": "RM 27-04", "nameEn": "RM 27-04", "type": "复杂功能表", "price": { "min": 8000000, "max": 12000000, "label": "公价" }, "desc": "为纳达尔打造,机芯像悬挂在网球拍弦上,抗压抗造到离谱。", "highlights": ["纳达尔同款", "拍弦机芯"], "tags": ["运动"] },
+        { "id": "richardmille-rm07", "name": "RM 07", "nameEn": "RM 07", "type": "女表", "price": { "min": 1000000, "max": 3000000, "label": "公价" }, "desc": "女式酒桶,彩色宝石与镂空机芯并存的轻量奢华。", "highlights": ["女式酒桶", "宝石镶嵌"], "tags": ["女表"] },
+        { "id": "richardmille-rm67", "name": "RM 67-02", "nameEn": "RM 67-02", "type": "运动豪华表", "price": { "min": 3000000, "max": 6000000, "label": "公价" }, "desc": "超薄运动款,仅重32克,田径运动员同款彩色涂装。", "highlights": ["32克超轻", "田径联名"], "tags": ["运动"] }
+      ]
+    },
+    {
+      "id": "hublot", "name": "宇舶", "nameEn": "HUBLOT", "domain": "hublot.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1980, "hq": "尼永",
+      "tier": "高奢", "tags": ["融合艺术", "大爆炸", "橡胶金"], "slogan": "融合的艺术",
+      "desc": "1980年以\"天然橡胶+黄金\"的混搭横空出世,大爆炸系列是21世纪最成功的运动表之一。",
+      "story": "意大利人卡罗·克罗科1980年创立宇舶,首创贵金属表壳配天然橡胶表带,当年被视为离经叛道,如今成为行业标配。2005年Big Bang大爆炸问世,拿下多项年度大奖。\nLVMH收购后,前CEO比弗把\"融合的艺术\"推向极致:与足球世界杯、艺术家、超跑全面联名,陶瓷、蓝宝石、碳纤维换着花样玩。",
+      "products": [
+        { "id": "hublot-bigbang", "name": "Big Bang", "nameEn": "Big Bang", "type": "运动豪华表", "price": { "min": 100000, "max": 500000, "label": "公价" }, "desc": "2005年问世的当家系列,枕形表壳+六颗H型钛螺钉,运动豪华新范式。", "highlights": ["枕形表壳", "H型螺钉"], "tags": ["运动"] },
+        { "id": "hublot-classicfusion", "name": "经典融合", "nameEn": "Classic Fusion", "type": "正装表", "price": { "min": 60000, "max": 300000, "label": "公价" }, "desc": "更纤薄更日常的入门线,金+橡胶的品牌哲学浓缩于此。", "highlights": ["纤薄", "入门首选"], "tags": ["正装"] },
+        { "id": "hublot-spirit", "name": "Spirit of Big Bang", "nameEn": "Spirit of Big Bang", "type": "计时码表", "price": { "min": 150000, "max": 600000, "label": "公价" }, "desc": "大爆炸的酒桶形变体,镂空机芯配陶瓷圈,年轻贵气。", "highlights": ["酒桶形", "镂空机芯"], "tags": ["计时"] },
+        { "id": "hublot-mp", "name": "MP 系列", "nameEn": "MP", "type": "复杂功能表", "price": { "min": 1000000, "max": 8000000, "label": "公价" }, "desc": "实验室级复杂机构:多轴陀飞轮、11天动力,机械狂想曲。", "highlights": ["多轴陀飞轮", "超长动力"], "tags": ["复杂"] }
+      ]
+    },
+    {
+      "id": "tagheuer", "name": "泰格豪雅", "nameEn": "TAG Heuer", "domain": "tagheuer.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1860, "hq": "拉绍德封",
+      "tier": "轻奢", "tags": ["赛车计时", "卡莱拉", "性价比"], "slogan": "勇于挑战,成就自我(Don't Crack Under Pressure)",
+      "desc": "赛车计时之王,卡莱拉与摩纳哥系列是汽车文化浓到化不开的计时码表。",
+      "story": "1860年爱德华·豪雅在自家农场创办工坊,1887年发明摆动齿轮计时机构沿用百年。二十世纪绑定赛车运动,摩纳哥系列因史蒂夫·麦昆电影《Le Mans》封神。\n如今隶属LVMH,卡莱拉、摩纳哥、F1构成金字塔,400077级到十万的豪华计时跨度,是\"第一块豪华表\"的热门答案。",
+      "products": [
+        { "id": "tagheuer-carrera", "name": "卡莱拉", "nameEn": "Carrera", "type": "计时码表", "price": { "min": 40000, "max": 200000, "label": "公价" }, "desc": "1963年为泛美公路赛设计,计时界的常青树,熊猫盘风靡至今。", "highlights": ["赛道血统", "熊猫盘"], "tags": ["计时"] },
+        { "id": "tagheuer-monaco", "name": "摩纳哥", "nameEn": "Monaco", "type": "计时码表", "price": { "min": 50000, "max": 200000, "label": "公价" }, "desc": "1969年首款方形防水自动计时,麦昆同款,复古赛车的白月光。", "highlights": ["方形表壳", "麦昆同款"], "tags": ["计时"] },
+        { "id": "tagheuer-aquaracer", "name": "竞潜", "nameEn": "Aquaracer", "type": "潜水表", "price": { "min": 25000, "max": 80000, "label": "公价" }, "desc": "300米潜水的日常运动线,300米防水+夜光,实用派首选。", "highlights": ["300米防水", "实用运动"], "tags": ["潜水"] },
+        { "id": "tagheuer-formula1", "name": "F1 系列", "nameEn": "Formula 1", "type": "运动表", "price": { "min": 12000, "max": 40000, "label": "公价" }, "desc": "入门石英与机械并行,赛道涂装活泼,年轻人的第一块豪车表。", "highlights": ["入门友好", "赛道涂装"], "tags": ["入门"] }
+      ]
+    },
+    {
+      "id": "tudor", "name": "帝舵", "nameEn": "TUDOR", "domain": "tudorwatch.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1926, "hq": "日内瓦",
+      "tier": "轻奢", "tags": ["劳力士小弟", "碧湾", "性价比之王"], "slogan": "生而为敢(Born To Dare)",
+      "desc": "劳力士创始人之子创立的同门品牌,用亲民价格提供劳系品质,碧湾系列是最强入门豪华潜水表。",
+      "story": "1926年劳力士创始人汉斯·威尔斯多夫注册帝舵商标,1936年交由儿子掌管,理念很简单:让更多人以可承受的价格买到劳力士级别的可靠。历史上帝舵用劳力士表壳与表冠,机芯外购。\n2012年Heritage Black Bay(碧湾)复活古董水鬼美学,一炮而红;如今自产机芯全面铺开,专业潜水、计时、正装全线开花,是被藏书家反复点名的\"性价比天花板\"。",
+      "products": [
+        { "id": "tudor-blackbay", "name": "碧湾", "nameEn": "Black Bay", "type": "潜水表", "price": { "min": 25000, "max": 60000, "label": "公价" }, "desc": "复活1958年古董水鬼血统,雪花针+大表冠,潜水复古的国民爆款。", "highlights": ["雪花针", "复古美学"], "tags": ["潜水"] },
+        { "id": "tudor-blackbaychrono", "name": "碧湾计时", "nameEn": "Black Bay Chrono", "type": "计时码表", "price": { "min": 40000, "max": 60000, "label": "公价" }, "desc": "熊猫盘+赛车条纹,批发价享受\"小迪通拿\"的既视感。", "highlights": ["熊猫盘", "赛车条纹"], "tags": ["计时"] },
+        { "id": "tudor-royal", "name": "皇家系列", "nameEn": "Royal", "type": "正装表", "price": { "min": 18000, "max": 40000, "label": "公价" }, "desc": "一体化表链的正装运动两相宜,典雅日常款。", "highlights": ["一体链", "日常优雅"], "tags": ["正装"] },
+        { "id": "tudor-pelagos", "name": "领潜型", "nameEn": "Pelagos", "type": "潜水表", "price": { "min": 30000, "max": 50000, "label": "公价" }, "desc": "钛壳500米专业潜水,排氦阀+陶瓷圈,专业玩家心里的真神。", "highlights": ["钛壳", "500米防水"], "tags": ["潜水"] }
+      ]
+    },
+    {
+      "id": "longines", "name": "浪琴", "nameEn": "Longines", "domain": "longines.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1832, "hq": "圣伊米尔",
+      "tier": "中档", "tags": ["优雅", "飞行表鼻祖", "马术"], "slogan": "优雅态度,真我个性",
+      "desc": "1832年老牌,飞行计时先驱,如今是\"一万到两万块买什么表\"的标准答案。",
+      "story": "1832年奥古斯特·阿加西在圣伊米尔建工坊,浪琴曾在二十世纪初包揽无数航空纪录——林德伯格跨大西洋后专门为浪琴设计了林白表。\n如今隶属斯沃琪集团,定位优雅中档:名匠、康卡斯、先行者三大系列撑起门面,马术计时与体操赛事赞助延续品牌气质。",
+      "products": [
+        { "id": "longines-master", "name": "名匠系列", "nameEn": "Master Collection", "type": "正装表", "price": { "min": 12000, "max": 40000, "label": "公价" }, "desc": "大日历+月相的古典正装,万元级正装表的绕不开选项。", "highlights": ["大日历", "月相"], "tags": ["正装"] },
+        { "id": "longines-hydroconquest", "name": "康卡斯", "nameEn": "HydroConquest", "type": "潜水表", "price": { "min": 9000, "max": 25000, "label": "公价" }, "desc": "300米潜水+陶瓷圈,\"穷人版水鬼\"的美誉来自实打实的品质。", "highlights": ["300米防水", "陶瓷圈"], "tags": ["潜水"] },
+        { "id": "longines-spirit", "name": "先行者", "nameEn": "Spirit", "type": "飞行员表", "price": { "min": 15000, "max": 40000, "label": "公价" }, "desc": "致敬航空年代的飞行员计时,五点位置双表冠,硬朗有故事。", "highlights": ["飞行血统", "双表冠"], "tags": ["飞行"] },
+        { "id": "longines-equestrian", "name": "骑仕系列", "nameEn": "Equestrian", "type": "女表", "price": { "min": 8000, "max": 30000, "label": "公价" }, "desc": "马扣形表耳+马鞍纹表带,马术气质的女式优雅。", "highlights": ["马术元素", "女式优雅"], "tags": ["女表"] }
+      ]
+    },
+    {
+      "id": "tissot", "name": "天梭", "nameEn": "TISSOT", "domain": "tissotwatches.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1853, "hq": "勒洛克",
+      "tier": "入门", "tags": ["瑞士入门", "性价比", "NBA"], "slogan": "非凡创新,源于传统",
+      "desc": "\"入门瑞士表\"的同义词,1853年创立,把机械表价格打到了三四千块。",
+      "story": "1853年夏尔-埃米尔·泰梭在勒洛克创业,从美国淘金热一路卖到沙俄宫廷。1983年并入斯沃琪集团后成为瑞士表入门担当,力洛克系列的机刻盘面三四千块就能拿下瑞士自动表。\n天梭还是NBA官方计时与世界自行车锦标赛计时,1853 logo 上的\"+\"号寓意\"瑞士制造+创新\"。",
+      "products": [
+        { "id": "tissot-locator", "name": "力洛克", "nameEn": "Le Locle", "type": "正装表", "price": { "min": 3000, "max": 7000, "label": "公价" }, "desc": "以品牌故乡命名,机刻纹盘面+罗马刻度,瑞士机械表第一课。", "highlights": ["机刻盘面", "入门经典"], "tags": ["正装"] },
+        { "id": "tissot-prx", "name": "PRX", "nameEn": "PRX", "type": "运动豪华表", "price": { "min": 4000, "max": 9000, "label": "公价" }, "desc": "1978年复古一体链设计复活,超薄Powermatic机芯,网红爆款。", "highlights": ["一体链", "复古爆款"], "tags": ["运动"] },
+        { "id": "tissot-seastar", "name": "海星", "nameEn": "Seastar", "type": "潜水表", "price": { "min": 4000, "max": 8000, "label": "公价" }, "desc": "300米潜水的瑞士认证入门,3000块买大厂潜水表的天花板。", "highlights": ["300米防水", "瑞士认证"], "tags": ["潜水"] },
+        { "id": "tissot-chemindesindices", "name": "卡森", "nameEn": "Carson", "type": "正装表", "price": { "min": 3000, "max": 6000, "label": "公价" }, "desc": "极简小三针,通勤正装不出错的稳妥之选。", "highlights": ["极简三针", "通勤稳妥"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "mido", "name": "美度", "nameEn": "MIDO", "domain": "mido.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1918, "hq": "索罗图恩",
+      "tier": "入门", "tags": ["建筑灵感", "天文台认证", "长动力"], "slogan": "灵感印证永恒",
+      "desc": "1918年创立,以经典建筑为设计灵感,天文台认证+长动力是硬指标。",
+      "story": "1918年乔治·斯卡隆在瑞士创立美度,设计师出身让他把建筑美学写进表壳:贝伦赛丽致敬巴黎歌剧院,指挥官致敬帝国大厦。品牌还酷爱天文台认证与超长动力,测过认证的机芯成堆。\n如今隶属斯沃琪集团,主打6000-15000价位段,是注重内在质量的理性派之选。",
+      "products": [
+        { "id": "mido-barcellini", "name": "贝伦赛丽", "nameEn": "Baroncelli", "type": "正装表", "price": { "min": 6000, "max": 15000, "label": "公价" }, "desc": "酒桶形表壳致敬雷恩歌剧院,线条优雅,女款尤其动人。", "highlights": ["建筑灵感", "酒桶形"], "tags": ["正装"] },
+        { "id": "mido-oceanstar", "name": "领航者", "nameEn": "Ocean Star", "type": "潜水表", "price": { "min": 6000, "max": 15000, "label": "公价" }, "desc": "200米潜水+快调表链,价格厚道的日常潜水线。", "highlights": ["200米防水", "快调链"], "tags": ["潜水"] },
+        { "id": "mido-multifort", "name": "舵手系列", "nameEn": "Multifort", "type": "运动表", "price": { "min": 5000, "max": 15000, "label": "公价" }, "desc": "品牌最老资格系列,大表径+天文台机芯,工装气质。", "highlights": ["老牌系列", "天文台机芯"], "tags": ["运动"] },
+        { "id": "mido-commander", "name": "指挥官", "nameEn": "Commander", "type": "正装表", "price": { "min": 6000, "max": 16000, "label": "公价" }, "desc": "1959年诞生的经典,大日历+渐变盘,银屏时代绅士同款。", "highlights": ["1959经典", "大日历"], "tags": ["正装"] }
+      ]
+    },
+    {
+      "id": "hamilton", "name": "汉米尔顿", "nameEn": "Hamilton", "domain": "hamiltonwatch.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1892, "hq": "比恩",
+      "tier": "入门", "tags": ["美国血统", "军表", "好莱坞"], "slogan": "Every story starts with a Hamilton",
+      "desc": "生于美国宾州的铁路军表品牌,如今瑞士制造,好莱坞电影里出镜率最高的手表。",
+      "story": "1892年创立于宾夕法尼亚,以铁路精密计时起家,两次世界大战为美军供应军表,卡其野战与MWC飞行员表都是经典。1969年迁往瑞士,美国灵魂+瑞士工艺的混血身份延续至今。\n《星际穿越》《生死时速》《黑客帝国》……汉米尔顿的电影棚常年有专属角色位,\"电影表\"人设无可撼动。",
+      "products": [
+        { "id": "hamilton-ventura", "name": "探险", "nameEn": "Ventura", "type": "异形表", "price": { "min": 5000, "max": 15000, "label": "公价" }, "desc": "1957年世界首款电表,三角盾形壳,猫王同款,科幻感拉满。", "highlights": ["猫王同款", "三角表壳"], "tags": ["复古"] },
+        { "id": "hamilton-khaki", "name": "卡其野战", "nameEn": "Khaki Field", "type": "军表", "price": { "min": 4000, "max": 12000, "label": "公价" }, "desc": "纯正军表血统,小三针+夜光,工装复古的入门神表。", "highlights": ["军表血统", "工装复古"], "tags": ["军表"] },
+        { "id": "hamilton-jazzmaster", "name": "爵士大师", "nameEn": "Jazzmaster", "type": "正装表", "price": { "min": 4000, "max": 12000, "label": "公价" }, "desc": "品牌正装门面,大表径+透底,商务场合稳如老狗。", "highlights": ["透底机芯", "商务正装"], "tags": ["正装"] },
+        { "id": "hamilton-intra-matic", "name": "美国经典", "nameEn": "Intra-Matic", "type": "计时码表", "price": { "min": 5000, "max": 15000, "label": "公价" }, "desc": "复刻1968年熊猫计时,复古尺寸38mm,玩表老炮的心头好。", "highlights": ["熊猫盘", "复古尺寸"], "tags": ["计时"] }
+      ]
+    },
+    {
+      "id": "rado", "name": "雷达", "nameEn": "RADO", "domain": "rado.com",
+      "categoryId": "watchjewel", "country": "瑞士", "founded": 1917, "hq": "伦格瑙",
+      "tier": "入门", "tags": ["高科技陶瓷", "不易磨损", "设计感"], "slogan": "If we can imagine it, we can make it",
+      "desc": "材质先锋:1986年就做出全陶瓷表壳,\"不易磨损\"的代言人,设计大胆的瑞士品牌。",
+      "story": "1917年以表厂起家,1962年推出全球首枚不易磨损的硬金属表DiaStar钻星,1986年做出全陶瓷表。雷达把高科技陶瓷、等离子、碳纤维玩了个遍,表面处理工艺在业内首屈一指。\n库克船长复古潜水与True Thinline真薄系列是当下主力,斯沃琪集团旗下定位设计的个性之选。",
+      "products": [
+        { "id": "rado-captaincook", "name": "库克船长", "nameEn": "Captain Cook", "type": "潜水表", "price": { "min": 15000, "max": 40000, "label": "公价" }, "desc": "复刻1962年潜水鼻祖,拱形玻璃+锚形秒针,复古潜水的颜值巅峰之一。", "highlights": ["1962复刻", "拱形玻璃"], "tags": ["潜水"] },
+        { "id": "rado-truethinline", "name": "真薄系列", "nameEn": "True Thinline", "type": "正装表", "price": { "min": 12000, "max": 30000, "label": "公价" }, "desc": "全陶瓷超薄,轻盈亲肤,极简主义者的通勤答案。", "highlights": ["全陶瓷", "超轻"], "tags": ["正装"] },
+        { "id": "rado-centrix", "name": "晶萃系列", "nameEn": "Centrix", "type": "正装表", "price": { "min": 8000, "max": 25000, "label": "公价" }, "desc": "一体陶瓷链+贝壳形表壳,男女通吃的优雅日常款。", "highlights": ["陶瓷链", "贝壳形壳"], "tags": ["正装"] },
+        { "id": "rado-diastar", "name": "钻星系列", "nameEn": "DiaStar Original", "type": "复古表", "price": { "min": 12000, "max": 30000, "label": "公价" }, "desc": "1962年传奇再版,六边形钨钛合金壳,永不磨损宣言的活化石。", "highlights": ["1962复刻", "硬金属壳"], "tags": ["复古"] }
+      ]
+    }
+  ]
+}
