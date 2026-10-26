@@ -1073,6 +1073,17 @@
           "image": null
         },
         {
+          "id": "leica-m6",
+          "name": "M6 复刻胶片机",
+          "nameEn": "Leica M6 (2022)",
+          "type": "胶片旁轴相机",
+          "price": { "min": 40999, "max": 46999, "currency": "CNY", "label": "官网参考价" },
+          "desc": "2022 年复刻回归的经典胶片旁轴,黄斑对焦与机械快门的原味操控,卡口兼容历代 M 镜头,是胶片复兴浪潮中的收藏级单品。",
+          "highlights": ["胶片旁轴", "黄斑对焦", "复刻经典"],
+          "tags": ["相机", "胶片"],
+          "image": null
+        },
+        {
           "id": "leica-binocular",
           "name": "双筒望远镜",
           "nameEn": "Leica Binoculars",
@@ -1123,14 +1134,25 @@
           "image": null
         },
         {
-          "id": "hasselblad-907x",
-          "name": "907X & CFV 系列",
-          "nameEn": "Hasselblad 907X & CFV",
+          "id": "hasselblad-907x-50c",
+          "name": "907X & CFV II 50C",
+          "nameEn": "Hasselblad 907X & CFV II 50C",
           "type": "中画幅相机",
-          "price": { "min": 25999, "max": 59999, "currency": "CNY", "label": "官网参考价" },
-          "desc": "复刻经典 500C 造型的模块化中画幅,可转接哈苏历代 V 系胶片镜头,是对胶片时代的致敬,情怀与画质兼得。",
-          "highlights": ["复古模块化", "V镜头转接", "中画幅数码背"],
+          "price": { "min": 25999, "max": 39999, "currency": "CNY", "label": "官网参考价" },
+          "desc": "复刻经典 500C 造型的模块化中画幅,5000 万像素 CFV II 数码背可上机拍摄,也能转接哈苏历代 V 系胶片镜头,情怀与画质兼得。",
+          "highlights": ["复古模块化", "V镜头转接", "5000万像素"],
           "tags": ["相机", "复古"],
+          "image": null
+        },
+        {
+          "id": "hasselblad-907x-100c",
+          "name": "907X & CFV 100C",
+          "nameEn": "Hasselblad 907X & CFV 100C",
+          "type": "中画幅相机",
+          "price": { "min": 39999, "max": 59999, "currency": "CNY", "label": "官网参考价" },
+          "desc": "致敬 1957 年 SWC 的一亿像素中画幅组合,超紧凑机身可随身携带,让胶片时代的哈苏镜头焕发数码新生。",
+          "highlights": ["1亿像素", "超紧凑", "胶片镜头数码化"],
+          "tags": ["相机", "中画幅"],
           "image": null
         },
         {
@@ -1369,6 +1391,532 @@
           "desc": "GoPro 全景相机,360 度画面拍后重构图,Max HyperSmooth 出片稳定,一机两用可当单镜头运动相机。",
           "highlights": ["360全景", "拍后重构图", "隐形自拍杆"],
           "tags": ["全景", "运动"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "nintendo",
+      "name": "任天堂",
+      "nameEn": "Nintendo",
+      "domain": "nintendo.com",
+      "categoryId": "tech",
+      "country": "日本",
+      "founded": 1889,
+      "hq": "京都",
+      "tier": "大众",
+      "tags": ["游戏主机", "第一方IP", "创意玩法"],
+      "slogan": "",
+      "desc": "全球游戏行业百年巨头,马力欧、塞尔达、宝可梦的缔造者,以独创玩法与第一方游戏著称,Switch 融合主机与掌机大获成功,是无数玩家的童年回忆。",
+      "story": "任天堂 1889 年以花札纸牌起家,山内溥执掌后转向电子游戏,1983 年 FC 红白机拯救北美游戏市场,马力欧与塞尔达传说相继诞生,GB、NDS、Wii 一次次定义游戏形态。\n2017 年 Switch 以主机掌机二合一席卷全球,销量突破一亿五千万台;2025 年 Switch 2 接棒发售再创纪录,任天堂坚持软硬件一体的独特路线,旗下 IP 更延伸出游改电影与超级任天堂世界主题乐园。",
+      "products": [
+        {
+          "id": "nintendo-switch",
+          "name": "Nintendo Switch",
+          "nameEn": "Nintendo Switch",
+          "type": "家用游戏主机",
+          "price": { "min": 1999, "max": 2699, "currency": "CNY", "label": "零售参考价" },
+          "desc": "主机掌机二合一的现象级游戏机,拆卸 Joy-Con 随时随地开玩,塞尔达与马力欧第一方大作阵容强大,全球销量超 1.5 亿台。",
+          "highlights": ["主机掌机合一", "Joy-Con", "第一方大作"],
+          "tags": ["游戏机", "主机"],
+          "image": null
+        },
+        {
+          "id": "nintendo-switch-2",
+          "name": "Nintendo Switch 2",
+          "nameEn": "Nintendo Switch 2",
+          "type": "家用游戏主机",
+          "price": { "min": 2899, "max": 3999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "2025 年发售的新一代主机,更大的 1080P 屏幕支持 4K 电视输出与 120Hz,全新 Joy-Con 支持鼠标模式,首发即全球热销缺货。",
+          "highlights": ["4K输出", "120Hz", "Joy-Con鼠标模式"],
+          "tags": ["游戏机", "次世代"],
+          "image": null
+        },
+        {
+          "id": "nintendo-switch-oled",
+          "name": "Switch OLED 版",
+          "nameEn": "Nintendo Switch OLED Model",
+          "type": "家用游戏主机",
+          "price": { "min": 2399, "max": 2799, "currency": "CNY", "label": "零售参考价" },
+          "desc": "Switch 家族屏幕升级款,7 英寸 OLED 屏对比度大幅提升,支架与存储同步改进,是历代 Switch 中口碑最均衡的版本。",
+          "highlights": ["OLED屏", "64GB存储", "可调支架"],
+          "tags": ["游戏机", "升级款"],
+          "image": null
+        },
+        {
+          "id": "nintendo-switch-lite",
+          "name": "Switch Lite",
+          "nameEn": "Nintendo Switch Lite",
+          "type": "掌上游戏机",
+          "price": { "min": 1499, "max": 1699, "currency": "CNY", "label": "零售参考价" },
+          "desc": "纯掌机形态的 Switch,不可连接电视,一体化轻巧设计,适合个人随身游玩,多款配色深受学生党喜爱。",
+          "highlights": ["纯掌机", "一体化设计", "多配色"],
+          "tags": ["掌机", "便携"],
+          "image": null
+        },
+        {
+          "id": "nintendo-zelda",
+          "name": "塞尔达传说系列",
+          "nameEn": "The Legend of Zelda",
+          "type": "动作冒险游戏",
+          "price": { "min": 299, "max": 429, "currency": "CNY", "label": "零售参考价" },
+          "desc": "任天堂旗舰级动作冒险 IP,旷野之息与王国之泪重新定义开放世界玩法,是评分最高的游戏系列之一,也是无数人购买主机的理由。",
+          "highlights": ["开放世界", "物理引擎", "高分神作"],
+          "tags": ["游戏", "开放世界"],
+          "image": null
+        },
+        {
+          "id": "nintendo-mario",
+          "name": "超级马力欧系列",
+          "nameEn": "Super Mario",
+          "type": "平台跳跃游戏",
+          "price": { "min": 299, "max": 399, "currency": "CNY", "label": "零售参考价" },
+          "desc": "游戏史上最著名的 IP,马力欧系列全球累计销量数亿份,奥德赛与惊奇持续创新,大电影与主题乐园让 IP 影响力破圈。",
+          "highlights": ["国民IP", "平台跳跃", "全年龄"],
+          "tags": ["游戏", "IP"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "microsoft",
+      "name": "微软",
+      "nameEn": "Microsoft",
+      "domain": "microsoft.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1975,
+      "hq": "雷德蒙德",
+      "tier": "大众",
+      "tags": ["Windows", "云计算", "AI"],
+      "slogan": "予力全球每一人、每一组织,成就不凡",
+      "desc": "全球最大软件公司之一,Windows 与 Office 定义个人电脑时代,如今 Azure 云计算与 AI 全面领先,Xbox 是其游戏娱乐支柱,Surface 代表微软的硬件设计美学。",
+      "story": "1975 年比尔·盖茨与保罗·艾伦创立微软,凭借 MS-DOS 与 Windows 成为 PC 时代的操作系统霸主,Office 办公套件至今仍是全球生产力标准。\n萨提亚·纳德拉 2014 年执掌后押注云计算与开放生态,Azure 跃居全球第二,收购动视暴雪补强游戏版图,并与 OpenAI 深度合作引领生成式 AI 浪潮,市值跻身全球前三,完成从软件巨头到 AI 时代引领者的转身。",
+      "products": [
+        {
+          "id": "microsoft-surface",
+          "name": "Surface 系列",
+          "nameEn": "Microsoft Surface",
+          "type": "笔记本电脑",
+          "price": { "min": 2988, "max": 19888, "currency": "CNY", "label": "零售参考价" },
+          "desc": "微软自研硬件标杆,Surface Pro 二合一平板笔记本的可拆卸键盘设计独树一帜,Laptop 系列轻薄商务,是 Windows 阵营的设计天花板。",
+          "highlights": ["二合一形态", "触控屏", "轻薄商务"],
+          "tags": ["笔记本", "设计"],
+          "image": null
+        },
+        {
+          "id": "microsoft-xbox-series",
+          "name": "Xbox Series X|S",
+          "nameEn": "Xbox Series X|S",
+          "type": "家用游戏主机",
+          "price": { "min": 1899, "max": 3899, "currency": "CNY", "label": "零售参考价" },
+          "desc": "微软次世代主机,Series X 以 12 TFLOPS 算力输出 4K 画面,S 系列小巧高性价比,Game Pass 订阅库被誉为主机界的 Netflix。",
+          "highlights": ["12 TFLOPS", "快速架构", "Game Pass"],
+          "tags": ["游戏机", "主机"],
+          "image": null
+        },
+        {
+          "id": "microsoft-xbox-controller",
+          "name": "Xbox 手柄",
+          "nameEn": "Xbox Wireless Controller",
+          "type": "游戏手柄",
+          "price": { "min": 299, "max": 1599, "currency": "CNY", "label": "零售参考价" },
+          "desc": "最通用的 PC 游戏手柄,Xbox 无线手柄人体工学出色,几乎成为 PC 手柄的默认标准,Elite 精英系列可自定义按键与背键。",
+          "highlights": ["人体工学", "PC通用", "精英版可自定义"],
+          "tags": ["手柄", "游戏"],
+          "image": null
+        },
+        {
+          "id": "microsoft-game-pass",
+          "name": "Xbox Game Pass",
+          "nameEn": "Xbox Game Pass",
+          "type": "游戏订阅服务",
+          "price": { "min": 49, "max": 119, "currency": "CNY", "label": "零售参考价" },
+          "desc": "微软游戏订阅服务,数百款主机与 PC 游戏随玩随下,第一方大作首发即入库,Ultimate 档含云游戏与 EA Play,被誉为游戏界的 Netflix。",
+          "highlights": ["数百款游戏库", "首发入库", "云游戏"],
+          "tags": ["订阅", "游戏"],
+          "image": null
+        },
+        {
+          "id": "microsoft-surface-keyboard",
+          "name": "Surface 键鼠外设",
+          "nameEn": "Microsoft Surface Accessories",
+          "type": "键鼠外设",
+          "price": { "min": 99, "max": 799, "currency": "CNY", "label": "零售参考价" },
+          "desc": "微软键鼠外设系列,Surface 键盘以阿尔坎塔拉面料与简约设计著称,人体工学键鼠适合长时间办公。",
+          "highlights": ["简约设计", "人体工学", "长续航"],
+          "tags": ["外设", "办公"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "google",
+      "name": "谷歌",
+      "nameEn": "Google",
+      "domain": "google.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1998,
+      "hq": "山景城",
+      "tier": "大众",
+      "tags": ["搜索引擎", "安卓", "AI"],
+      "slogan": "整合全球信息,使人人皆可访问并从中受益",
+      "desc": "全球搜索引擎与安卓系统缔造者,旗下 YouTube、Gmail、地图服务覆盖数十亿用户,Pixel 硬件展示 AI 实力,DeepMind 引领人工智能前沿,是全球最具影响力的科技公司之一。",
+      "story": "1998 年拉里·佩奇与谢尔盖·布林在斯坦福创立谷歌,以 PageRank 算法颠覆搜索;2005 年收购安卓并开源,如今占据全球智能手机七成以上份额,YouTube 成为全球最大视频平台。\n2015 年谷歌重组为 Alphabet 旗下子公司,2016 年 AlphaGo 战胜李世石震惊世界;近年 Gemini 大模型与 Pixel 手机深度融合 AI,自研 TPU 芯片支撑全球最大规模 AI 基础设施,谷歌仍是全球信息入口与 AI 浪潮的核心。",
+      "products": [
+        {
+          "id": "google-pixel",
+          "name": "Pixel 系列",
+          "nameEn": "Google Pixel",
+          "type": "旗舰智能手机",
+          "price": { "min": 3499, "max": 8999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌亲儿子手机,以纯净安卓与七年系统更新著称,计算摄影与 AI 功能全球领先,Pixel 9 系列深度整合 Gemini,是安卓体验的风向标。",
+          "highlights": ["原生安卓", "计算摄影", "Gemini AI"],
+          "tags": ["手机", "AI"],
+          "image": null
+        },
+        {
+          "id": "google-pixel-watch",
+          "name": "Pixel Watch",
+          "nameEn": "Google Pixel Watch",
+          "type": "智能手表",
+          "price": { "min": 1599, "max": 2999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌 Wear OS 亲儿子手表,Fitbit 健康体系加持,圆表盘设计精致,与 Pixel 手机联动体验最佳。",
+          "highlights": ["Wear OS", "Fitbit健康", "圆表盘"],
+          "tags": ["手表", "健康"],
+          "image": null
+        },
+        {
+          "id": "google-pixel-buds",
+          "name": "Pixel Buds",
+          "nameEn": "Google Pixel Buds",
+          "type": "真无线耳机",
+          "price": { "min": 799, "max": 1699, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌真无线耳机,Pixel Buds Pro 2 搭载 Tensor A1 芯片,主动降噪与实时翻译体验出色,是安卓用户的好搭档。",
+          "highlights": ["Tensor A1", "主动降噪", "实时翻译"],
+          "tags": ["耳机", "降噪"],
+          "image": null
+        },
+        {
+          "id": "google-pixel-tablet",
+          "name": "Pixel Tablet",
+          "nameEn": "Google Pixel Tablet",
+          "type": "平板电脑",
+          "price": { "min": 2999, "max": 3999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌平板电脑,搭配充电音箱底座秒变智能家居中控,强调家庭场景与多设备协同。",
+          "highlights": ["充电底座", "家居中控", "Cast投屏"],
+          "tags": ["平板", "家居"],
+          "image": null
+        },
+        {
+          "id": "google-chromecast",
+          "name": "Chromecast",
+          "nameEn": "Google Chromecast",
+          "type": "电视投屏设备",
+          "price": { "min": 199, "max": 699, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌电视投屏设备,Cast 协议成为行业事实标准,Google TV 系统聚合流媒体,是客厅大屏娱乐的入口。",
+          "highlights": ["Cast投屏", "Google TV", "4K HDR"],
+          "tags": ["投屏", "客厅"],
+          "image": null
+        },
+        {
+          "id": "google-nest",
+          "name": "Nest 智能家居",
+          "nameEn": "Google Nest",
+          "type": "智能家居",
+          "price": { "min": 499, "max": 2499, "currency": "CNY", "label": "零售参考价" },
+          "desc": "谷歌智能家居品牌,涵盖智能音箱、中控屏与摄像头,Google Assistant 语音助手加持,是欧美智能家居生态的代表。",
+          "highlights": ["智能音箱", "中控屏", "语音助手"],
+          "tags": ["智能家居", "音箱"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "nvidia",
+      "name": "英伟达",
+      "nameEn": "NVIDIA",
+      "domain": "nvidia.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1993,
+      "hq": "圣克拉拉",
+      "tier": "高端",
+      "tags": ["GPU", "AI计算", "光追"],
+      "slogan": "",
+      "desc": "全球 AI 计算与图形芯片霸主,GPU 市占率遥遥领先,GeForce 游戏卡与 RTX 技术引领光追时代,CUDA 生态构筑 AI 护城河,是全球市值最高的公司之一。",
+      "story": "1993 年黄仁勋与两位伙伴创立英伟达,1999 年发布全球首款 GPU GeForce 256,奠定图形加速霸业;2006 年推出 CUDA 平台,为十几年后的 AI 爆发埋下伏笔。\nChatGPT 席卷全球后,英伟达 A100 与 H100 芯片成为 AI 军备竞赛的硬通货,营收与市值暴涨并一度成为全球市值第一;Blackwell 架构接棒迭代,英伟达已成为人工智能时代的发动机。",
+      "products": [
+        {
+          "id": "nvidia-rtx-5090",
+          "name": "GeForce RTX 5090",
+          "nameEn": "NVIDIA RTX 5090",
+          "type": "消费级显卡",
+          "price": { "min": 16499, "max": 24999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "旗舰游戏显卡,Blackwell 架构与 DLSS 4 多帧生成,32GB GDDR7 显存,4K 光追性能无出其右,是发烧友的终极信仰。",
+          "highlights": ["Blackwell架构", "DLSS 4", "32GB GDDR7"],
+          "tags": ["显卡", "旗舰"],
+          "image": null
+        },
+        {
+          "id": "nvidia-rtx-5080",
+          "name": "GeForce RTX 5080",
+          "nameEn": "NVIDIA RTX 5080",
+          "type": "消费级显卡",
+          "price": { "min": 8299, "max": 10999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "次旗舰显卡,16GB GDDR7 定位 4K 高刷游戏,DLSS 4 加持下能效比出色,是高端装机的热门之选。",
+          "highlights": ["16GB GDDR7", "4K高刷", "DLSS 4"],
+          "tags": ["显卡", "高端"],
+          "image": null
+        },
+        {
+          "id": "nvidia-rtx-5070",
+          "name": "GeForce RTX 5070 系列",
+          "nameEn": "NVIDIA RTX 5070 / Ti",
+          "type": "消费级显卡",
+          "price": { "min": 4299, "max": 6999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "主流高端显卡,5070 Ti 以 16GB 显存成为 2K 高刷甜点卡,DLSS 4 帧生成让中高端卡也能畅玩光追大作。",
+          "highlights": ["2K甜点", "16GB显存", "DLSS 4"],
+          "tags": ["显卡", "主流"],
+          "image": null
+        },
+        {
+          "id": "nvidia-rtx-5060",
+          "name": "GeForce RTX 5060 系列",
+          "nameEn": "NVIDIA RTX 5060 / Ti",
+          "type": "消费级显卡",
+          "price": { "min": 2299, "max": 4299, "currency": "CNY", "label": "零售参考价" },
+          "desc": "主流装机爆款,覆盖 1080P 与 2K 主力需求,大显存版本兼顾 AI 出图,是游戏与轻创作人群的销量冠军。",
+          "highlights": ["1080P主力", "大显存可选", "主流装机"],
+          "tags": ["显卡", "性价比"],
+          "image": null
+        },
+        {
+          "id": "nvidia-h100",
+          "name": "H100 / H200",
+          "nameEn": "NVIDIA H100 / H200",
+          "type": "AI数据中心GPU",
+          "price": { "min": 220000, "max": 350000, "currency": "CNY", "label": "零售参考价" },
+          "desc": "AI 训练与推理的黄金标准,Hopper 架构与 Transformer 引擎让大模型训练效率倍增,是全球科技巨头排队抢购的算力硬通货。",
+          "highlights": ["Hopper架构", "Transformer引擎", "NVLink"],
+          "tags": ["AI", "数据中心"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "intel",
+      "name": "英特尔",
+      "nameEn": "Intel",
+      "domain": "intel.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1968,
+      "hq": "圣克拉拉",
+      "tier": "大众",
+      "tags": ["CPU", "x86", "半导体"],
+      "slogan": "",
+      "desc": "全球半导体巨头与 x86 架构缔造者,酷睿处理器数十年来驱动全球 PC,摩尔定律的提出者与践行者,正转型晶圆代工与 AI PC,是最负盛名的蓝色巨人。",
+      "story": "1968 年罗伯特·诺伊斯与戈登·摩尔创立英特尔,1971 年推出全球首款微处理器 4004,开启微电子时代;摩尔定律由其联合创始人提出,指引行业半个多世纪。\n凭借 x86 架构与工艺领先,英特尔长期统治 PC 与服务器芯片市场,近年面临 AMD 与 ARM 阵营挑战,转型晶圆代工并推进 AI 芯片,酷睿 Ultra 内置 NPU 迈入 AI PC 时代,蓝色巨人仍在寻找下一个计算浪潮的船票。",
+      "products": [
+        {
+          "id": "intel-core-ultra",
+          "name": "酷睿 Ultra",
+          "nameEn": "Intel Core Ultra",
+          "type": "CPU处理器",
+          "price": { "min": 999, "max": 4999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "英特尔 AI PC 时代主力,台式与笔记本系列首次内置 NPU,能效与 AI 算力大幅提升,是新一代轻薄本的核心引擎。",
+          "highlights": ["内置NPU", "AI PC", "先进制程"],
+          "tags": ["CPU", "AI"],
+          "image": null
+        },
+        {
+          "id": "intel-core-i",
+          "name": "酷睿 i 系列",
+          "nameEn": "Intel Core i Series",
+          "type": "CPU处理器",
+          "price": { "min": 499, "max": 4899, "currency": "CNY", "label": "零售参考价" },
+          "desc": "统治 PC 十余年的经典处理器序列,i5 是主流装机首选,i9 面向发烧玩家,游戏帧率与软件兼容性口碑深厚。",
+          "highlights": ["i5主流", "i9旗舰", "游戏兼容"],
+          "tags": ["CPU", "装机"],
+          "image": null
+        },
+        {
+          "id": "intel-xeon",
+          "name": "至强 Xeon",
+          "nameEn": "Intel Xeon",
+          "type": "服务器CPU",
+          "price": { "min": 4999, "max": 99999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "数据中心与工作站的中流砥柱,广泛驱动云计算与企业级服务器,以稳定可靠与多核性能著称。",
+          "highlights": ["数据中心", "企业级", "多核稳定"],
+          "tags": ["服务器", "企业"],
+          "image": null
+        },
+        {
+          "id": "intel-arc",
+          "name": "Arc 显卡",
+          "nameEn": "Intel Arc",
+          "type": "消费级显卡",
+          "price": { "min": 1499, "max": 2499, "currency": "CNY", "label": "零售参考价" },
+          "desc": "英特尔独立显卡新势力,Arc B580 以 12GB 大显存与高性价比搅局独显市场,驱动仍在持续优化中。",
+          "highlights": ["12GB显存", "高性价比", "年轻架构"],
+          "tags": ["显卡", "新势力"],
+          "image": null
+        },
+        {
+          "id": "intel-n-series",
+          "name": "N 系列入门处理器",
+          "nameEn": "Intel N Series",
+          "type": "入门处理器",
+          "price": { "min": 199, "max": 599, "currency": "CNY", "label": "零售参考价" },
+          "desc": "入门计算市场常青树,N100 等小核处理器广泛用于迷你主机与轻办公设备,以低功耗低价覆盖海量基础场景。",
+          "highlights": ["低功耗", "迷你主机", "入门价格"],
+          "tags": ["入门", "低功耗"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "nameEn": "AMD",
+      "domain": "amd.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1969,
+      "hq": "圣克拉拉",
+      "tier": "大众",
+      "tags": ["锐龙", "CPU", "GPU"],
+      "slogan": "",
+      "desc": "全球唯一同时提供高性能 CPU 与 GPU 的半导体设计公司,锐龙处理器逆袭英特尔,EPYC 攻占数据中心,收购 ATI 后游戏显卡与 AI 加速卡全面开花。",
+      "story": "1969 年杰里·桑德斯创立 AMD,作为英特尔之外唯一的 x86 挑战者历经数十年沉浮;2017 年 Zen 架构锐龙横空出世,以多核与性价比逆转战局,宣告 AMD Yes 时代来临。\n此后 AMD 收购赛灵思补强 FPGA,EPYC 服务器芯片攻入数据中心,Instinct 系列 AI 加速卡获微软、Meta 等巨头采用,游戏主机 SoC 长期服务 PS5 与 Xbox;在苏姿丰带领下,AMD 已成为全球市值前列的芯片设计巨头。",
+      "products": [
+        {
+          "id": "amd-ryzen-9000",
+          "name": "锐龙 9000 系列",
+          "nameEn": "AMD Ryzen 9000 Series",
+          "type": "CPU处理器",
+          "price": { "min": 1099, "max": 4899, "currency": "CNY", "label": "零售参考价" },
+          "desc": "Zen5 架构桌面处理器,能效与单核性能全面进步,9800X3D 凭 3D 缓存成为游戏 CPU 的绝对王者,装机口碑封神。",
+          "highlights": ["Zen5架构", "3D V-Cache", "游戏王者"],
+          "tags": ["CPU", "游戏"],
+          "image": null
+        },
+        {
+          "id": "amd-threadripper",
+          "name": "线程撕裂者",
+          "nameEn": "AMD Ryzen Threadripper",
+          "type": "HEDT处理器",
+          "price": { "min": 11999, "max": 99999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "工作站级 HEDT 旗舰,最高 96 核 192 线程,面向渲染、仿真与 AI 工作站,是桌面平台的性能天花板。",
+          "highlights": ["96核心", "工作站", "性能天花板"],
+          "tags": ["CPU", "工作站"],
+          "image": null
+        },
+        {
+          "id": "amd-epyc",
+          "name": "EPYC 霄龙",
+          "nameEn": "AMD EPYC",
+          "type": "服务器CPU",
+          "price": { "min": 4999, "max": 99999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "数据中心服务器芯片,单颗最高 192 核,以核心数与内存通道数著称,广泛部署于云计算与超算,是至强的最强对手。",
+          "highlights": ["192核心", "云服务器", "高密度"],
+          "tags": ["服务器", "数据中心"],
+          "image": null
+        },
+        {
+          "id": "amd-radeon",
+          "name": "Radeon 显卡",
+          "nameEn": "AMD Radeon RX",
+          "type": "消费级显卡",
+          "price": { "min": 1999, "max": 7999, "currency": "CNY", "label": "零售参考价" },
+          "desc": "AMD 游戏显卡,RX 9070 XT 以 RDNA4 架构对标同级英伟达,大显存与性价比是传统优势,FidelityFX 技术生态成熟。",
+          "highlights": ["RDNA4", "大显存", "高性价比"],
+          "tags": ["显卡", "游戏"],
+          "image": null
+        },
+        {
+          "id": "amd-instinct",
+          "name": "Instinct MI 系列",
+          "nameEn": "AMD Instinct",
+          "type": "AI加速卡",
+          "price": { "min": 150000, "max": 300000, "currency": "CNY", "label": "零售参考价" },
+          "desc": "AMD AI 加速旗舰,MI300X 以 192GB 超大显存服务大模型推理,获微软 Meta 等云巨头采购,是英伟达在 AI 算力市场的主要挑战者。",
+          "highlights": ["192GB显存", "大模型推理", "CDNA架构"],
+          "tags": ["AI", "数据中心"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "qualcomm",
+      "name": "高通",
+      "nameEn": "Qualcomm",
+      "domain": "qualcomm.com",
+      "categoryId": "tech",
+      "country": "美国",
+      "founded": 1985,
+      "hq": "圣迭戈",
+      "tier": "大众",
+      "tags": ["骁龙", "基带", "移动芯片"],
+      "slogan": "",
+      "desc": "全球无线通信与移动芯片领导者,骁龙平台驱动安卓旗舰阵营,基带与射频技术业内领先,正从手机芯片向汽车、IoT 与 PC 全智能边缘计算平台扩张。",
+      "story": "1985 年艾文·雅各布斯等六人在圣地亚哥创立高通,凭 CDMA 技术成为 3G/4G 时代通信专利霸主,几乎每一部手机都绕不开其专利墙。\n骁龙 8 系列长期定义安卓旗舰性能天花板,骁龙 X Elite 让 Windows on ARM 复兴,汽车座舱芯片份额领先;生成式 AI 时代高通继续深耕端侧智能,是全球无线通信产业的规则制定者。",
+      "products": [
+        {
+          "id": "qualcomm-snapdragon-8-elite",
+          "name": "骁龙8 至尊版",
+          "nameEn": "Snapdragon 8 Elite",
+          "type": "移动旗舰SoC",
+          "price": { "min": 1299, "max": 1899, "currency": "CNY", "label": "零售参考价" },
+          "desc": "新一代安卓旗舰 SoC,自研 Oryon CPU 主频高达 4.32GHz,AI 算力大幅跃升,驱动小米 15、一加 13 等一众安卓旗舰。",
+          "highlights": ["自研Oryon", "4.32GHz", "端侧AI"],
+          "tags": ["SoC", "旗舰"],
+          "image": null
+        },
+        {
+          "id": "qualcomm-snapdragon-8s",
+          "name": "骁龙 8s 系列",
+          "nameEn": "Snapdragon 8s Series",
+          "type": "次旗舰SoC",
+          "price": { "min": 699, "max": 1199, "currency": "CNY", "label": "零售参考价" },
+          "desc": "旗舰架构下放的次旗舰平台,兼顾性能与成本,广泛搭载于 2000-3000 元档性能机型,游戏体验越级。",
+          "highlights": ["旗舰同源", "次旗舰", "高性价比"],
+          "tags": ["SoC", "次旗舰"],
+          "image": null
+        },
+        {
+          "id": "qualcomm-snapdragon-7",
+          "name": "骁龙 7 系列",
+          "nameEn": "Snapdragon 7 Series",
+          "type": "中端移动SoC",
+          "price": { "min": 399, "max": 899, "currency": "CNY", "label": "零售参考价" },
+          "desc": "中高端手机主力平台,以均衡能效与游戏稳帧著称,广泛搭载于两千元档热门机型,是中端市场的销量担当。",
+          "highlights": ["均衡能效", "中端主力", "AI增强"],
+          "tags": ["SoC", "中端"],
+          "image": null
+        },
+        {
+          "id": "qualcomm-snapdragon-x-elite",
+          "name": "骁龙 X Elite",
+          "nameEn": "Snapdragon X Elite",
+          "type": "PC处理器",
+          "price": { "min": 2500, "max": 4500, "currency": "CNY", "label": "零售参考价" },
+          "desc": "高通进军 PC 的 ARM 旗舰,12 核 Oryon CPU 与强大 NPU 驱动 Copilot+ PC,能效领先同级 x86,让笔记本续航突破 20 小时。",
+          "highlights": ["Oryon CPU", "Copilot+ PC", "长续航"],
+          "tags": ["PC", "ARM"],
+          "image": null
+        },
+        {
+          "id": "qualcomm-snapdragon-entry",
+          "name": "骁龙 6/4 入门系列",
+          "nameEn": "Snapdragon 6 / 4 Series",
+          "type": "入门移动SoC",
+          "price": { "min": 199, "max": 499, "currency": "CNY", "label": "零售参考价" },
+          "desc": "入门智能手机平台,以高集成度与低功耗服务百元机与千元机市场,覆盖新兴市场海量用户。",
+          "highlights": ["低功耗", "高集成", "入门市场"],
+          "tags": ["SoC", "入门"],
           "image": null
         }
       ]
