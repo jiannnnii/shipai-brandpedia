@@ -1,0 +1,312 @@
+{
+  "brands": [
+    {
+      "id": "moutai", "name": "贵州茅台", "nameEn": "MOUTAI", "domain": "moutaichina.com",
+      "categoryId": "drinks", "country": "中国", "founded": 1951, "hq": "贵州仁怀茅台镇",
+      "tier": "顶奢", "tags": ["酱香", "国酒", "硬通货"], "slogan": "酿造美好生活",
+      "desc": "A股股王的酱香白酒,赤水河畔的12987工艺,一瓶难求的液体黄金。",
+      "story": "1951年由成义、荣和、恒兴三家烧坊合并而成,酱香工艺「12987」(一年周期、两次投料、九次蒸煮、八次发酵、七次取酒)代代相传。巴拿马万国博览会「一摔成名」的故事妇孺皆知。\n茅台早已超出饮品范畴:宴请、收藏、投资,54度飞天是社交场上的通用语言。",
+      "products": [
+        { "id": "moutai-feitian", "name": "飞天茅台 53度", "nameEn": "Feitian 53%", "type": "酱香白酒", "price": { "min": 1499, "max": 3000, "label": "官方指导价/市场价" }, "desc": "500ml装经典飞天,官方价1499但常年一瓶难求。", "highlights": ["官方指导价", "一瓶难求"], "tags": ["白酒"] },
+        { "id": "moutai-wuxing", "name": "五星茅台", "nameEn": "Five-Star Moutai", "type": "酱香白酒", "price": { "min": 1499, "max": 3000, "label": "市场参考价" }, "desc": "与飞天同质不同标,内销经典的五星标。", "highlights": ["内销经典", "同质异标"], "tags": ["白酒"] },
+        { "id": "moutai-shengshi", "name": "生肖茅台", "nameEn": "Zodiac Moutai", "type": "收藏白酒", "price": { "min": 2500, "max": 30000, "label": "市场参考价" }, "desc": "每年一款生肖纪念酒,马年、羊年已成收藏神话。", "highlights": ["生肖收藏", "限量"], "tags": ["收藏"] },
+        { "id": "moutai-1935", "name": "茅台1935", "nameEn": "Moutai 1935", "type": "酱香白酒", "price": { "min": 1000, "max": 1400, "label": "零售参考价" }, "desc": "次高端大单品,宴请场合的「小飞天」。", "highlights": ["次高端", "宴请"], "tags": ["白酒"] },
+        { "id": "moutai-xijiu", "name": "茅台王子酒", "nameEn": "Prince Moutai", "type": "酱香白酒", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "茅台嫡系口粮线,酱香入门的稳妥选择。", "highlights": ["嫡系", "口粮"], "tags": ["白酒"] }
+      ]
+    },
+    {
+      "id": "wuliangye", "name": "五粮液", "nameEn": "WULIANGYE", "domain": "wuliangye.com.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 1909, "hq": "四川宜宾",
+      "tier": "顶奢", "tags": ["浓香", "五种粮食", "长江首城"], "slogan": "中国的五粮液,世界的五粮液",
+      "desc": "浓香型白酒的老大:高粱、大米、糯米、小麦、玉米五种粮食酿造,明代古窖池至今在用。",
+      "story": "1909年晚清举人杨惠泉取名「五粮液」,此前的明代陈氏秘方在宜宾延续六百年。十里酒城与501年不间断发酵的古窖池群,是浓香工艺的活化石。\n普五(第八代)是商务宴请的硬通货,与茅台的「茅五之争」是中国白酒的双雄戏。",
+      "products": [
+        { "id": "wuliangye-puwu", "name": "第八代五粮液(普五)", "nameEn": "The 8th Generation", "type": "浓香白酒", "price": { "min": 1000, "max": 1300, "label": "零售参考价" }, "desc": "52度500ml经典水晶瓶,商务宴请的浓香天花板。", "highlights": ["经典水晶瓶", "浓香天花板"], "tags": ["白酒"] },
+        { "id": "wuliangye-1618", "name": "五粮液1618", "nameEn": "1618", "type": "浓香白酒", "price": { "min": 1100, "max": 1500, "label": "零售参考价" }, "desc": "以明代古窖池年份命名,瓷瓶装的高端线。", "highlights": ["古窖命名", "瓷瓶"], "tags": ["白酒"] },
+        { "id": "wuliangye-jiaobei", "name": "五粮春/五粮醇", "nameEn": "Wuliangchun", "type": "浓香白酒", "price": { "min": 100, "max": 500, "label": "零售参考价" }, "desc": "嫡系中端矩阵,自饮口粮的稳妥选择。", "highlights": ["嫡系", "口粮"], "tags": ["白酒"] },
+        { "id": "wuliangye-guojiu", "name": "经典五粮液", "nameEn": "Classic Wuliangye", "type": "浓香白酒", "price": { "min": 2000, "max": 3000, "label": "零售参考价" }, "desc": "对标超高端的「梅花瓶」,老酒风味更浓郁。", "highlights": ["超高端", "梅花瓶"], "tags": ["白酒"] },
+        { "id": "wuliangye-501", "name": "501五粮液", "nameEn": "501", "type": "浓香白酒", "price": { "min": 8000, "max": 20000, "label": "零售参考价" }, "desc": "明代古窖池专属酿造,限量超高端。", "highlights": ["明代古窖", "限量"], "tags": ["收藏"] }
+      ]
+    },
+    {
+      "id": "luzhoulaojiao", "name": "泸州老窖", "nameEn": "LU ZHOU LAO JIAO", "domain": "lzlj.com",
+      "categoryId": "drinks", "country": "中国", "founded": 1573, "hq": "四川泸州",
+      "tier": "高奢", "tags": ["浓香鼻祖", "国窖1573", "活窖池"], "slogan": "让世界品味中国",
+      "desc": "浓香型白酒的鼻祖,1573国宝窖池群连续使用450年,「你能品味的历史」。",
+      "story": "泸州老窖的舒聚源糟坊始于明朝万历年间(1573),其国宝窖池群是全国重点文物保护单位,不间断使用至今。「浓香从泸州来」是行业共识。\n国窖1573对标茅五,特曲则是老酒民的心头好。",
+      "products": [
+        { "id": "luzhoulaojiao-guojiao", "name": "国窖1573", "nameEn": "Guojiao 1573", "type": "浓香白酒", "price": { "min": 900, "max": 1300, "label": "零售参考价" }, "desc": "超高端浓香,「你能品味的历史」广告语深入人心。", "highlights": ["超高端", "活窖池"], "tags": ["白酒"] },
+        { "id": "luzhoulaojiao-tequ", "name": "泸州老窖特曲", "nameEn": "Tequ", "type": "浓香白酒", "price": { "min": 200, "max": 500, "label": "零售参考价" }, "desc": "老牌「四大名酒」之一,浓香正统的口粮。", "highlights": ["四大名酒", "正统浓香"], "tags": ["白酒"] },
+        { "id": "luzhoulaojiao-60du", "name": "60度特曲老酒", "nameEn": "60% Tequ", "type": "浓香白酒", "price": { "min": 300, "max": 700, "label": "零售参考价" }, "desc": "高度浓香的爱好者之选,泡药酒的硬通货。", "highlights": ["高度", "泡酒"], "tags": ["白酒"] },
+        { "id": "luzhoulaojiao-baijiu", "name": "百年泸州老窖窖龄酒", "nameEn": "Cellar Aged", "type": "浓香白酒", "price": { "min": 300, "max": 1000, "label": "零售参考价" }, "desc": "30/60/90年窖龄系列,中端商务的阶梯。", "highlights": ["窖龄序列", "商务"], "tags": ["白酒"] },
+        { "id": "luzhoulaojiao-gaoguang", "name": "高光酒", "nameEn": "Highlight", "type": "浓香白酒", "price": { "min": 500, "max": 900, "label": "零售参考价" }, "desc": "光瓶酒里的高端化尝试,极简透明瓶身。", "highlights": ["光瓶高端", "极简"], "tags": ["白酒"] }
+      ]
+    },
+    {
+      "id": "fenjiu", "name": "汾酒", "nameEn": "Fenjiu", "domain": "fenjiu.com.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 1949, "hq": "山西汾阳杏花村",
+      "tier": "高奢", "tags": ["清香", "杏花村", "最早的国酒"], "slogan": "把美酒献给美好时代",
+      "desc": "清香型白酒之祖,「借问酒家何处有,牧童遥指杏花村」,1500年南北朝起的历史。",
+      "story": "汾酒的历史可追到南北朝的「汾清」酒,1915年巴拿马甲等大奖章得主。新中国第一届全国评酒会「四大名酒」之首。清香工艺的地缸发酵干净利落。\n玻汾(黄盖玻汾)被誉为「性价比之王」,青花系列扛起高端。",
+      "products": [
+        { "id": "fenjiu-bofen", "name": "黄盖玻汾", "nameEn": "Yellow Cap Glass Fen", "type": "清香白酒", "price": { "min": 50, "max": 80, "label": "零售参考价" }, "desc": "53度光瓶口粮酒的性价比之王,「口粮酒天花板」。", "highlights": ["口粮天花板", "53度"], "tags": ["白酒"] },
+        { "id": "fenjiu-qinghua20", "name": "青花20", "nameEn": "Blue & White 20", "type": "清香白酒", "price": { "min": 400, "max": 600, "label": "零售参考价" }, "desc": "青花瓷瓶的中坚款,清香高端的主力。", "highlights": ["青花瓷", "中坚"], "tags": ["白酒"] },
+        { "id": "fenjiu-qinghua30", "name": "青花30复兴版", "nameEn": "Blue & White 30", "type": "清香白酒", "price": { "min": 800, "max": 1300, "label": "零售参考价" }, "desc": "超高端清香的答卷,宴请大场面用酒。", "highlights": ["超高端", "宴请"], "tags": ["白酒"] },
+        { "id": "fenjiu-laobaigan", "name": "老白汾", "nameEn": "Lao Bai Fen", "type": "清香白酒", "price": { "min": 100, "max": 300, "label": "零售参考价" }, "desc": "10年/15年老白汾,山西人宴席的标配。", "highlights": ["山西标配", "宴席"], "tags": ["白酒"] },
+        { "id": "fenjiu-zhuyeqing", "name": "竹叶青酒", "nameEn": "Zhuyeqing", "type": "保健酒", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "以汾酒为底加草本浸泡,竹叶青是养生酒的古典范。", "highlights": ["草本浸泡", "古典范"], "tags": ["保健酒"] }
+      ]
+    },
+    {
+      "id": "jiannanchun", "name": "剑南春", "nameEn": "Jiannanchun", "domain": "jiannanchun.com",
+      "categoryId": "drinks", "country": "中国", "founded": 1951, "hq": "四川绵竹",
+      "tier": "高奢", "tags": ["浓香", "大唐御酒", "水晶剑"], "slogan": "唐时宫廷酒,盛世剑南春",
+      "desc": "唐代宫廷酒的传承者,水晶剑是300元档最能打的浓香,历史可追溯到「剑南烧春」。",
+      "story": "唐代李肇《唐国史补》记载「酒则有……剑南之烧春」,剑南春是正史留名的御酒。1990年代与茅五并列「茅五剑」。天益老号窖池遗址证明其千年酿造史。\n水晶剑多年不涨价死磕性价比,是婚宴宴请的硬通货。",
+      "products": [
+        { "id": "jiannanchun-shuijing", "name": "水晶剑", "nameEn": "Crystal Sword", "type": "浓香白酒", "price": { "min": 400, "max": 550, "label": "零售参考价" }, "desc": "300-500元档的性价比之王,婚宴硬通货。", "highlights": ["性价比之王", "婚宴硬通货"], "tags": ["白酒"] },
+        { "id": "jiannanchun-dongfanghong", "name": "东方红", "nameEn": "Dongfanghong", "type": "浓香白酒", "price": { "min": 1000, "max": 2000, "label": "零售参考价" }, "desc": "剑南春的超高端旗舰,对标茅五的大单品。", "highlights": ["超高端", "旗舰"], "tags": ["白酒"] },
+        { "id": "jiannanchun-maojian", "name": "绵竹大曲", "nameEn": "Mianzhu Daqu", "type": "浓香白酒", "price": { "min": 20, "max": 80, "label": "零售参考价" }, "desc": "几块钱的光瓶良心,老四川的日常。", "highlights": ["光瓶良心", "日常"], "tags": ["白酒"] },
+        { "id": "jiannanchun-jindian", "name": "金剑南K6", "nameEn": "Golden Sword K6", "type": "浓香白酒", "price": { "min": 100, "max": 250, "label": "零售参考价" }, "desc": "中端宴席的黑马,红色瓶身喜庆百搭。", "highlights": ["宴席黑马", "喜庆"], "tags": ["白酒"] },
+        { "id": "jiannanchun-tanggong", "name": "大唐国宝", "nameEn": "Tang Treasure", "type": "浓香白酒", "price": { "min": 2000, "max": 5000, "label": "零售参考价" }, "desc": "以唐代宫廷文化为IP的收藏级产品。", "highlights": ["唐文化IP", "收藏级"], "tags": ["收藏"] }
+      ]
+    },
+    {
+      "id": "yanghe", "name": "洋河", "nameEn": "Yanghe", "domain": "yanghe.com",
+      "categoryId": "drinks", "country": "中国", "founded": 1949, "hq": "江苏宿迁",
+      "tier": "高奢", "tags": ["绵柔", "梦之蓝", "蓝色经典"], "slogan": "梦想,水一样的力量",
+      "desc": "「绵柔型」的开创者:海之蓝、天之蓝、梦之蓝的蓝色矩阵横扫商务宴请。",
+      "story": "洋河酿酒史始于唐、盛于明清,1949年国营建厂。2003年推出蓝色经典系列,「绵柔淡雅」风格与「蓝色的诱惑」营销让它跻身白酒前三。\n梦之蓝M6+、M9是高端局新宠,手工班则是超高端答卷。",
+      "products": [
+        { "id": "yanghe-sea", "name": "海之蓝", "nameEn": "Sea Blue", "type": "绵柔白酒", "price": { "min": 120, "max": 200, "label": "零售参考价" }, "desc": "百元档国民度之王,商务便饭的通用选项。", "highlights": ["百元档", "国民度"], "tags": ["白酒"] },
+        { "id": "yanghe-sky", "name": "天之蓝", "nameEn": "Sky Blue", "type": "绵柔白酒", "price": { "min": 300, "max": 450, "label": "零售参考价" }, "desc": "400元档的中坚,宴席梯度里的主力。", "highlights": ["中坚", "宴席"], "tags": ["白酒"] },
+        { "id": "yanghe-m6", "name": "梦之蓝M6+", "nameEn": "Dream M6+", "type": "绵柔白酒", "price": { "min": 600, "max": 900, "label": "零售参考价" }, "desc": "苏南高端局的台面酒,梦之蓝的扛把子。", "highlights": ["高端台面", "扛把子"], "tags": ["白酒"] },
+        { "id": "yanghe-m9", "name": "梦之蓝M9", "nameEn": "Dream M9", "type": "绵柔白酒", "price": { "min": 1300, "max": 2000, "label": "零售参考价" }, "desc": "超高端绵柔,对标茅五的野心之作。", "highlights": ["超高端", "对标茅五"], "tags": ["白酒"] },
+        { "id": "yanghe-shuanggou", "name": "双沟珍宝坊", "nameEn": "Shuanggou Zhenbaofang", "type": "绵柔白酒", "price": { "min": 300, "max": 800, "label": "零售参考价" }, "desc": "上下两瓶自由调饮的双宝设计,洋河双沟联袂。", "highlights": ["自由调饮", "双瓶设计"], "tags": ["白酒"] }
+      ]
+    },
+    {
+      "id": "hennessy", "name": "轩尼诗", "nameEn": "Hennessy", "domain": "hennessy.com",
+      "categoryId": "drinks", "country": "法国", "founded": 1765, "hq": "干邑",
+      "tier": "顶奢", "tags": ["干邑", "XO发明者", "LVMH"], "slogan": "Pour the Next Chapter",
+      "desc": "干邑世界的王者:爱尔兰人Richard Hennessy创立,XO级别由它发明,LVMH的现金牛。",
+      "story": "1765年爱尔兰军官 Hennessy 在干邑创业,把「生命之水」卖回英伦与美洲。1870年首创XO(Extra Old)等级,星形标志取自 battle 荣誉勋章。\n如今与LV同属LVMH,VSOP与XO在中国夜场与宴请中地位崇高。",
+      "products": [
+        { "id": "hennessy-vsop", "name": "VSOP", "nameEn": "V.S.O.P", "type": "干邑白兰地", "price": { "min": 400, "max": 700, "label": "零售参考价" }, "desc": "陈酿4-15年生命之水,「干邑入门的正确姿势」。", "highlights": ["入门正确姿势", "陈酿4-15年"], "tags": ["白兰地"] },
+        { "id": "hennessy-xo", "name": "XO", "nameEn": "XO", "type": "干邑白兰地", "price": { "min": 1500, "max": 3000, "label": "零售参考价" }, "desc": "1870年发明的等级,11-70年基酒调配的深琥珀色。", "highlights": ["XO发明者", "11-70年基酒"], "tags": ["白兰地"] },
+        { "id": "hennessy-paradis", "name": "百乐廷", "nameEn": "Paradis", "type": "干邑白兰地", "price": { "min": 4000, "max": 8000, "label": "零售参考价" }, "desc": "丝绒瓶身的极致醇厚,藏家与名流之选。", "highlights": ["极致醇厚", "藏家之选"], "tags": ["白兰地"] },
+        { "id": "hennessy-richard", "name": "理查德·轩尼诗", "nameEn": "Richard Hennessy", "type": "干邑白兰地", "price": { "min": 20000, "max": 50000, "label": "零售参考价" }, "desc": "以创始人命名的殿堂级干邑,百年基酒臻藏。", "highlights": ["殿堂级", "百年基酒"], "tags": ["收藏"] },
+        { "id": "hennessy-black", "name": "詹姆士/黑方联名款", "nameEn": "James Hennessy", "type": "干邑白兰地", "price": { "min": 1500, "max": 3000, "label": "零售参考价" }, "desc": "纪念詹姆士·轩尼诗的当代款,设计师瓶身。", "highlights": ["纪念款", "设计师瓶身"], "tags": ["白兰地"] }
+      ]
+    },
+    {
+      "id": "martell", "name": "马爹利", "nameEn": "Martell", "domain": "martell.com",
+      "categoryId": "drinks", "country": "法国", "founded": 1715, "hq": "干邑",
+      "tier": "顶奢", "tags": ["最老干邑", "蓝带", "边缘区"], "slogan": "Reach for the stars",
+      "desc": "现存最古老的干邑世家:1715年泽西岛人Jean Martell创立,蓝带(Cordon Bleu)是全球认知度最高的干邑单品之一。",
+      "story": "1715年Jean Martell渡海来到干邑创业,偏爱边缘区(Borderies)葡萄园的圆润风格,双重蒸馏工艺自成一派。1912年蓝带问世,如今是亚洲宴请的超级符号。\n隶属保乐力加,与轩尼诗的人头马并称干邑三巨头。",
+      "products": [
+        { "id": "martell-cordonbleu", "name": "蓝带", "nameEn": "Cordon Bleu", "type": "干邑白兰地", "price": { "min": 900, "max": 1600, "label": "零售参考价" }, "desc": "1912年问世的传奇款,边缘区生命之水的圆润典范。", "highlights": ["传奇蓝带", "圆润典范"], "tags": ["白兰地"] },
+        { "id": "martell-vsop", "name": "名士 VSOP", "nameEn": "Noble VSOP", "type": "干邑白兰地", "price": { "min": 350, "max": 600, "label": "零售参考价" }, "desc": "干邑入门的三大山头之一,果香柔顺。", "highlights": ["入门三大山头", "果香柔顺"], "tags": ["白兰地"] },
+        { "id": "martell-xo", "name": "XO", "nameEn": "XO", "type": "干邑白兰地", "price": { "min": 1400, "max": 2800, "label": "零售参考价" }, "desc": "拱形瓶身的高端款,醇厚有力。", "highlights": ["拱形瓶", "醇厚"], "tags": ["白兰地"] },
+        { "id": "martell-creation", "name": "尚选 Creation", "nameEn": "Création Grand Extra", "type": "干邑白兰地", "price": { "min": 3000, "max": 6000, "label": "零售参考价" }, "desc": "致敬创始人启程的限量款,半人马座瓶身。", "highlights": ["限量致敬", "半人马瓶"], "tags": ["收藏"] },
+        { "id": "martell-lordon", "name": "鼎盛 L'Or", "nameEn": "L'Or", "type": "干邑白兰地", "price": { "min": 5000, "max": 12000, "label": "零售参考价" }, "desc": "金瓶鎏金的殿堂款,24K金饰瓶颈。", "highlights": ["鎏金瓶", "殿堂款"], "tags": ["收藏"] }
+      ]
+    },
+    {
+      "id": "remymartin", "name": "人头马", "nameEn": "Rémy Martin", "domain": "remymartin.com",
+      "categoryId": "drinks", "country": "法国", "founded": 1724, "hq": "干邑",
+      "tier": "顶奢", "tags": ["特优香槟干邑", "人头马一开", "科涅克"], "slogan": "人头马一开,好事自然来",
+      "desc": "只做特优香槟区(Fine Champagne)原料的干邑世家,「人头马一开,好事自然来」是华语圈最强广告语之一。",
+      "story": "1724年Rémy Martin创立,家族五代坚持只用大、小香槟区的葡萄,故称「特优香槟干邑」。人马座logo寓意「半人半神的追逐」。\nXO与路易十三(Louis XIII)是其王冠上的宝石,后者一瓶汇聚上千种生命之水。",
+      "products": [
+        { "id": "remymartin-vsop", "name": "VSOP", "nameEn": "V.S.O.P", "type": "干邑白兰地", "price": { "min": 350, "max": 600, "label": "零售参考价" }, "desc": "特优香槟区的标准入门,花果香活泼。", "highlights": ["特优香槟区", "花果香"], "tags": ["白兰地"] },
+        { "id": "remymartin-xo", "name": "XO", "nameEn": "XO", "type": "干邑白兰地", "price": { "min": 1300, "max": 2600, "label": "零售参考价" }, "desc": "美人鱼瓶身,李子无花果的圆润深沉。", "highlights": ["美人鱼瓶", "圆润深沉"], "tags": ["白兰地"] },
+        { "id": "remymartin-club", "name": "CLUB香槟区优质干邑", "nameEn": "CLUB", "type": "干邑白兰地", "price": { "min": 500, "max": 900, "label": "零售参考价" }, "desc": "亚洲市场经典款,黑瓶的沉稳。", "highlights": ["亚洲经典", "沉稳"], "tags": ["白兰地"] },
+        { "id": "remymartin-louis13", "name": "路易十三", "nameEn": "Louis XIII", "type": "干邑白兰地", "price": { "min": 20000, "max": 60000, "label": "零售参考价" }, "desc": "用Baccarat水晶瓶盛装的传奇,一口百年。", "highlights": ["Baccarat水晶瓶", "一口百年"], "tags": ["收藏"] },
+        { "id": "remymartin-cartblanche", "name": "全权之白", "nameEn": "Carte Blanche", "type": "干邑白兰地", "price": { "min": 5000, "max": 10000, "label": "零售参考价" }, "desc": "首席酿酒大师全权调配的限量表达。", "highlights": ["大师调配", "限量"], "tags": ["收藏"] }
+      ]
+    },
+    {
+      "id": "chivas", "name": "芝华士", "nameEn": "Chivas Regal", "domain": "chivas.com",
+      "categoryId": "drinks", "country": "苏格兰", "founded": 1801, "hq": "斯佩塞",
+      "tier": "高奢", "tags": ["调和威士忌", "12年", "保乐力加"], "slogan": "Live with Chivalry",
+      "desc": "调和威士忌的贵族典范:1801年芝华士兄弟的杂货铺,12年调和威士忌的开创者。",
+      "story": "1801年James与John Chivas兄弟在阿伯丁经营食品杂货,1843年起成为王室御用。1840年代首创「陈年调和」概念,12年芝华士让「年份」成为威士忌的通用语言。\n如今属保乐力加,与皇家礼炮(21年)同门。",
+      "products": [
+        { "id": "chivas-12", "name": "芝华士12年", "nameEn": "Chivas 12", "type": "调和威士忌", "price": { "min": 150, "max": 300, "label": "零售参考价" }, "desc": "最少陈酿12年的顺滑调和,夜场与家饮两相宜。", "highlights": ["12年调和", "顺滑"], "tags": ["威士忌"] },
+        { "id": "chivas-18", "name": "芝华士18年", "nameEn": "Chivas 18", "type": "调和威士忌", "price": { "min": 400, "max": 700, "label": "零售参考价" }, "desc": "85种风味层次的黄金调和,送长辈体面。", "highlights": ["85种风味", "送礼体面"], "tags": ["威士忌"] },
+        { "id": "chivas-25", "name": "芝华士25年", "nameEn": "Chivas 25", "type": "调和威士忌", "price": { "min": 2000, "max": 4000, "label": "零售参考价" }, "desc": "水晶瓶25年陈酿,重要时刻的排面。", "highlights": ["水晶瓶", "重要时刻"], "tags": ["威士忌"] },
+        { "id": "chivas-royalsalute", "name": "皇家礼炮21年", "nameEn": "Royal Salute 21", "type": "调和威士忌", "price": { "min": 1500, "max": 3000, "label": "零售参考价" }, "desc": "为伊丽莎白二世加冕而创的21响礼炮致敬款。", "highlights": ["王室致敬", "21响礼炮"], "tags": ["威士忌"] },
+        { "id": "chivas-mizunara", "name": "水楢桶限定", "nameEn": "Mizunara Edition", "type": "调和威士忌", "price": { "min": 800, "max": 1500, "label": "零售参考价" }, "desc": "日本水楢木桶过桶的东方韵味限定。", "highlights": ["水楢桶", "东方韵味"], "tags": ["威士忌"] }
+      ]
+    },
+    {
+      "id": "johnniewalker", "name": "尊尼获加", "nameEn": "Johnnie Walker", "domain": "johnniewalker.com",
+      "categoryId": "drinks", "country": "苏格兰", "founded": 1820, "hq": "基尔马诺克",
+      "tier": "中档", "tags": ["方瓶", "行走的绅士", "颜色矩阵"], "slogan": "Keep Walking",
+      "desc": "全球销量第一的苏格兰威士忌:斜标方瓶+颜色分级(红黑绿金蓝),「Keep Walking」广告语传遍全球。",
+      "story": "1820年John Walker在基尔马诺克开杂货店卖茶与威士忌,儿子们发明了标志性的方形瓶(防碎)与斜贴标签。1909年红方黑方命名,颜色阶梯从此成为全球消费者的入门地图。\n如今隶属帝亚吉欧,是全球销量最大的苏格兰威士忌。",
+      "products": [
+        { "id": "johnniewalker-red", "name": "红方", "nameEn": "Red Label", "type": "调和威士忌", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "入门调威的销量王者,兑可乐绿茶皆宜。", "highlights": ["销量王者", "百搭兑饮"], "tags": ["威士忌"] },
+        { "id": "johnniewalker-black", "name": "黑方", "nameEn": "Black Label", "type": "调和威士忌", "price": { "min": 200, "max": 350, "label": "零售参考价" }, "desc": "12年陈酿的标杆,烟熏与果香的平衡典范。", "highlights": ["12年标杆", "平衡典范"], "tags": ["威士忌"] },
+        { "id": "johnniewalker-green", "name": "绿方", "nameEn": "Green Label", "type": "调和纯麦威士忌", "price": { "min": 400, "max": 700, "label": "零售参考价" }, "desc": "四座单一麦芽酒厂调和的15年纯麦,性价比极高。", "highlights": ["15年纯麦", "四厂调和"], "tags": ["威士忌"] },
+        { "id": "johnniewalker-gold", "name": "金方", "nameEn": "Gold Label Reserve", "type": "调和威士忌", "price": { "min": 500, "max": 900, "label": "零售参考价" }, "desc": "蜂蜜奶油质感,庆祝时刻的金色选择。", "highlights": ["蜂蜜奶油", "庆祝"], "tags": ["威士忌"] },
+        { "id": "johnniewalker-blue", "name": "蓝方", "nameEn": "Blue Label", "type": "调和威士忌", "price": { "min": 1500, "max": 3000, "label": "零售参考价" }, "desc": "稀有基酒的殿堂级调和,手工编号瓶。", "highlights": ["殿堂级", "手工编号"], "tags": ["威士忌"] }
+      ]
+    },
+    {
+      "id": "macallan", "name": "麦卡伦", "nameEn": "The Macallan", "domain": "themacallan.com",
+      "categoryId": "drinks", "country": "苏格兰", "founded": 1824, "hq": "斯佩塞埃格斯",
+      "tier": "顶奢", "tags": ["单一麦芽", "雪莉桶", "拍卖之王"], "slogan": "Exceptional Single Malt",
+      "desc": "单一麦芽威士忌的「劳斯莱斯」:雪莉桶+小规模蒸馏器,拍卖行价格纪录的常客。",
+      "story": "1824年法定 licensing 时代最早的合法酒厂之一,坚持小Still蒸馏取酒芯与雪莉桶陈酿,酒体深沉如琥珀。1926年记录的麦卡伦60年拍卖出两千万人民币级天价。\n新酒庄由Bill Ackman…不,是Rogers Stirk Harbour设计,穹顶建筑本身即地标。",
+      "products": [
+        { "id": "macallan-doublecask", "name": "双桶12年", "nameEn": "Double Cask 12", "type": "单一麦芽威士忌", "price": { "min": 600, "max": 1000, "label": "零售参考价" }, "desc": "欧洲雪莉桶+美国雪莉桶双陈,入门麦卡伦的正确姿势。", "highlights": ["双桶陈酿", "入门姿势"], "tags": ["威士忌"] },
+        { "id": "macallan-sherry18", "name": "雪莉桶18年", "nameEn": "Sherry Oak 18", "type": "单一麦芽威士忌", "price": { "min": 3000, "max": 6000, "label": "零售参考价" }, "desc": "18年雪莉桶的黄金标准,干果与巧克力的醇厚。", "highlights": ["黄金标准", "干果巧克力"], "tags": ["威士忌"] },
+        { "id": "macallan-rarecask", "name": "Rare Cask 珍稀桶", "nameEn": "Rare Cask", "type": "单一麦芽威士忌", "price": { "min": 3000, "max": 8000, "label": "零售参考价" }, "desc": "仅0.5%桶源入选的珍稀红宝石色。", "highlights": ["0.5%桶源", "红宝石色"], "tags": ["威士忌"] },
+        { "id": "macallan-72", "name": "Genesis 72年", "nameEn": "Genesis 72", "type": "单一麦芽威士忌", "price": { "min": 200000, "max": 500000, "label": "拍卖参考价" }, "desc": "新酒庄落成纪念款,全球限量600瓶。", "highlights": ["限量600瓶", "新酒庄纪念"], "tags": ["收藏"] },
+        { "id": "macallan-concept", "name": "Concept Number 系列", "nameEn": "Concept Series", "type": "单一麦芽威士忌", "price": { "min": 3000, "max": 10000, "label": "零售参考价" }, "desc": "与摄影师、建筑师联名的概念系列,买酒送艺术。", "highlights": ["艺术联名", "概念系列"], "tags": ["收藏"] }
+      ]
+    },
+    {
+      "id": "jackdaniels", "name": "杰克丹尼", "nameEn": "Jack Daniel's", "domain": "jackdaniels.com",
+      "categoryId": "drinks", "country": "美国", "founded": 1866, "hq": "田纳西州林奇堡",
+      "tier": "中档", "tags": ["田纳西威士忌", "枫糖炭香", "方瓶"], "slogan": "Mellowed drop by drop",
+      "desc": "美国田纳西威士忌之王:枫木炭过滤的「滴滤」工艺赋予独特顺滑,黑标方瓶是全球夜店的通用符号。",
+      "story": "1866年Jasper「Jack」Daniel 在林奇堡注册酒厂,七号配方沿用至今。枫木炭滴滤(Charcoal Mellowing)让它区别于波本,自称田纳西威士忌品类。\nNo.7 的黑色方瓶与可乐是鸡尾酒界的国民组合。",
+      "products": [
+        { "id": "jackdaniels-no7", "name": "Old No.7", "nameEn": "Old No.7", "type": "田纳西威士忌", "price": { "min": 100, "max": 200, "label": "零售参考价" }, "desc": "经典的黑色方瓶,焦糖香草与烟熏的顺滑平衡。", "highlights": ["黑色方瓶", "经典顺滑"], "tags": ["威士忌"] },
+        { "id": "jackdaniels-honey", "name": "蜂蜜威士忌", "nameEn": "Tennessee Honey", "type": "利口威士忌", "price": { "min": 100, "max": 200, "label": "零售参考价" }, "desc": "No.7加蜂蜜利口酒,甜口党的入门快乐。", "highlights": ["蜂蜜甜口", "入门友好"], "tags": ["利口酒"] },
+        { "id": "jackdaniels-singlebarrel", "name": "单桶精选", "nameEn": "Single Barrel Select", "type": "田纳西威士忌", "price": { "min": 300, "max": 600, "label": "零售参考价" }, "desc": "单桶独立装瓶,每桶风味独一无二。", "highlights": ["单桶", "独一无二"], "tags": ["威士忌"] },
+        { "id": "jackdaniels-gentlemanjack", "name": "绅士杰克", "nameEn": "Gentleman Jack", "type": "田纳西威士忌", "price": { "min": 300, "max": 600, "label": "零售参考价" }, "desc": "双重炭滤更柔顺,银瓶绅士的体面之选。", "highlights": ["双重炭滤", "银瓶"], "tags": ["威士忌"] },
+        { "id": "jackdaniels-bonded", "name": "Bonded 瓶装在精", "nameEn": "Bonded", "type": "田纳西威士忌", "price": { "min": 300, "max": 500, "label": "零售参考价" }, "desc": "100 proof 装瓶在精(Bottled-in-Bond)法规致敬款。", "highlights": ["100proof", "法规致敬"], "tags": ["威士忌"] }
+      ]
+    },
+    {
+      "id": "jameson", "name": "尊美醇", "nameEn": "Jameson", "domain": "jamesonwhiskey.com",
+      "categoryId": "drinks", "country": "爱尔兰", "founded": 1780, "hq": "都柏林",
+      "tier": "大众", "tags": ["爱尔兰威士忌", "三次蒸馏", "顺滑"], "slogan": "Widen the circle",
+      "desc": "全球销量第一的爱尔兰威士忌:三次蒸馏+壶式蒸馏器混合,顺滑到可以「一口闷」。",
+      "story": "1780年John Jameson 在都柏林 bow street 建厂,坚持三次蒸馏的爱尔兰传统,比苏格兰多一次,口感圆润少烟熏。「The Irish Answer」的幽默营销深得人心。\n如今属保乐力加,是酒吧里最便宜的爱尔兰正统。",
+      "products": [
+        { "id": "jameson-original", "name": "爱尔兰原创", "nameEn": "Jameson Original", "type": "爱尔兰威士忌", "price": { "min": 100, "max": 180, "label": "零售参考价" }, "desc": "绿瓶经典,坚果香草的顺滑代表。", "highlights": ["绿瓶经典", "顺滑代表"], "tags": ["威士忌"] },
+        { "id": "jameson-creators", "name": "Caskmates IPA桶", "nameEn": "Caskmates IPA", "type": "爱尔兰威士忌", "price": { "min": 150, "max": 250, "label": "零售参考价" }, "desc": "精酿IPA桶过桶,啤酒花尾韵的创意之作。", "highlights": ["IPA桶", "啤酒花尾韵"], "tags": ["威士忌"] },
+        { "id": "jameson-18", "name": "18年限量", "nameEn": "Jameson 18", "type": "爱尔兰威士忌", "price": { "min": 600, "max": 1200, "label": "零售参考价" }, "desc": "18年陈酿的旗舰,波本+雪莉+初填桶三重奏。", "highlights": ["18年旗舰", "三重桶"], "tags": ["威士忌"] },
+        { "id": "jameson-bowst", "name": "Bow St. 18", "nameEn": "Bow St. 18", "type": "爱尔兰威士忌", "price": { "min": 500, "max": 900, "label": "零售参考价" }, "desc": "雪莉桶原厂熟成,重雪莉的都柏林表达。", "highlights": ["原厂熟成", "重雪莉"], "tags": ["威士忌"] },
+        { "id": "jameson-stout", "name": "Caskmates Stout 桶", "nameEn": "Caskmates Stout", "type": "爱尔兰威士忌", "price": { "min": 150, "max": 250, "label": "零售参考价" }, "desc": "世涛啤酒桶过桶,咖啡可可风味。", "highlights": ["世涛桶", "咖啡可可"], "tags": ["威士忌"] }
+      ]
+    },
+    {
+      "id": "absolut", "name": "绝对伏特加", "nameEn": "Absolut", "domain": "absolut.com",
+      "categoryId": "drinks", "country": "瑞典", "founded": 1879, "hq": "Åhus",
+      "tier": "大众", "tags": ["伏特加", "药瓶瓶身", "艺术营销"], "slogan": "Shake your usual",
+      "desc": "瑞典国酒:1879年Lars Olsson Smith的「绝对纯净」理念,药瓶造型的瓶子是广告艺术史的一部分。",
+      "story": "1879年「伏特加之王」Smith 推出绝对纯净的连续蒸馏伏特加。1979年药瓶造型的 Absolut 瓶登陆美国,Andy Warhol 为其作画开启「Absolut Art」营销神话,上千位艺术家为它创作。\n如今属保乐力加,是全球第二大国际伏特加品牌。",
+      "products": [
+        { "id": "absolut-original", "name": "原味伏特加", "nameEn": "Absolut Original", "type": "伏特加", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "连续蒸馏的纯净原味,基酒之王。", "highlights": ["纯净原味", "基酒之王"], "tags": ["伏特加"] },
+        { "id": "absolut-citron", "name": "柠檬味伏特加", "nameEn": "Absolut Citron", "type": "风味伏特加", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "1988年问世,大都会鸡尾酒(Cosmopolitan)的灵魂。", "highlights": ["大都会灵魂", "柠檬"], "tags": ["风味"] },
+        { "id": "absolut-raspberry", "name": "覆盆莓伏特加", "nameEn": "Absolut Raspberri", "type": "风味伏特加", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "浆果甜香,兑苏打水即可成杯。", "highlights": ["浆果甜香", "苏打伴侣"], "tags": ["风味"] },
+        { "id": "absolut-movemont", "name": "Absolut Magnetism 限定", "nameEn": "Limited Editions", "type": "限量伏特加", "price": { "min": 100, "max": 300, "label": "零售参考价" }, "desc": "年度艺术家限定瓶,买酒送展览。", "highlights": ["艺术家瓶", "年度限定"], "tags": ["限定"] },
+        { "id": "absolut-country", "name": "瑞典原装系列", "nameEn": "Sweden Edition", "type": "伏特加", "price": { "min": 150, "max": 400, "label": "零售参考价" }, "desc": "产地限定版,北欧纯净的信仰充值。", "highlights": ["产地限定", "北欧纯净"], "tags": ["伏特加"] }
+      ]
+    },
+    {
+      "id": "greygoose", "name": "灰雁", "nameEn": "Grey Goose", "domain": "greygoose.com",
+      "categoryId": "drinks", "country": "法国", "founded": 1997, "hq": "干邑区",
+      "tier": "中档", "tags": ["超高端伏特加", "法国","灰雁标准"], "slogan": "World's Best Tasting Vodka",
+      "desc": "1997年美国富豪Sidney Frank专为「超高端伏特加」而生的品牌:法国小麦+香槟区水源,五年做成了行业神话。",
+      "story": "Sidney Frank 看准了「法国=高级」的溢价空间,用皮卡第冬小麦与干邑区天然泉水,一次性蒸馏灌装,定价翻倍却大获成功,2014年卖给 Bacardi 时身价数十亿。\n瓶身上的飞跃灰雁与法兰西 limestone 水源是它的故事内核。",
+      "products": [
+        { "id": "greygoose-original", "name": "原味伏特加", "nameEn": "Grey Goose Original", "type": "伏特加", "price": { "min": 150, "max": 300, "label": "零售参考价" }, "desc": "冬小麦的微甜与顺滑,马天尼的优质答案。", "highlights": ["冬小麦", "马天尼优选"], "tags": ["伏特加"] },
+        { "id": "greygoose-lemon", "name": "柠檬伏特加", "nameEn": "Le Citron", "type": "风味伏特加", "price": { "min": 150, "max": 300, "label": "零售参考价" }, "desc": "芒通柠檬的清冽酸香, French 75 首选。", "highlights": ["芒通柠檬", "French75"], "tags": ["风味"] },
+        { "id": "greygoose-dumousseau", "name": "胡桃伏特加", "nameEn": "La Poire", "type": "风味伏特加", "price": { "min": 150, "max": 300, "label": "零售参考价" }, "desc": "安茹梨的清甜,兑香槟是派对杀器。", "highlights": ["安茹梨", "香槟兑饮"], "tags": ["风味"] },
+        { "id": "greygoose-magnum", "name": "Magnum 1.75L", "nameEn": "Magnum", "type": "伏特加", "price": { "min": 400, "max": 800, "label": "零售参考价" }, "desc": "派对大瓶装,夜店卡座标配。", "highlights": ["派对装", "卡座标配"], "tags": ["伏特加"] },
+        { "id": "greygoose-vodkaesque", "name": "VIVANT 起泡特调", "nameEn": "VIVANT", "type": "即饮特调", "price": { "min": 30, "max": 60, "label": "单罐参考价" }, "desc": "官方即饮起泡系列,开罐即酒吧。", "highlights": ["即饮", "起泡"], "tags": ["即饮"] }
+      ]
+    },
+    {
+      "id": "suntory", "name": "三得利·山崎", "nameEn": "Yamazaki", "domain": "suntory.com",
+      "categoryId": "drinks", "country": "日本", "founded": 1923, "hq": "大阪山崎",
+      "tier": "顶奢", "tags": ["日本威士忌之父", "水楢桶", "拍卖神话"], "slogan": "Suntory whisky is 人的梦",
+      "desc": "日本威士忌的起点:1923年鸟井信治郎建日本第一座麦芽威士忌蒸馏所,水楢桶的东方禅意与12年神话让它成为拍卖场之王。",
+      "story": "1923年鸟井信治郎邀来竹鹤政孝建山崎蒸馏所(二人后分道扬镳,竹鹤创Nikka)。山崎地处京都桂川、宇治川、木津川交汇,水楢桶赋予伽罗檀香般的东方气息。\n山崎12年曾被评为全球最佳,水楢12/25年价格十年翻数十倍。",
+      "products": [
+        { "id": "suntory-yamazaki12", "name": "山崎12年", "nameEn": "Yamazaki 12", "type": "单一麦芽威士忌", "price": { "min": 1500, "max": 4000, "label": "市场参考价" }, "desc": "日本威士忌扬名世界的代表作,雪莉桶+水楢的东方香。", "highlights": ["扬名世界", "东方香"], "tags": ["威士忌"] },
+        { "id": "suntory-mizunara", "name": "水楢桶系列", "nameEn": "Mizunara", "type": "单一麦芽威士忌", "price": { "min": 8000, "max": 30000, "label": "市场参考价" }, "desc": "日本橡木桶的伽罗檀香,「和风」的味觉表达。", "highlights": ["水楢桶", "伽罗檀香"], "tags": ["威士忌"] },
+        { "id": "suntory-18", "name": "山崎18年", "nameEn": "Yamazaki 18", "type": "单一麦芽威士忌", "price": { "min": 6000, "max": 20000, "label": "市场参考价" }, "desc": "深邃的果干与咖啡,国际大赛常胜军。", "highlights": ["国际大奖", "深邃"], "tags": ["威士忌"] },
+        { "id": "suntory-hibiki", "name": "响17年", "nameEn": "Hibiki 17", "type": "调和威士忌", "price": { "min": 6000, "max": 25000, "label": "市场参考价" }, "desc": "24切面瓶象征24节气,「和」的调和艺术。", "highlights": ["24切面", "和的艺术"], "tags": ["威士忌"] },
+        { "id": "suntory-toki", "name": "Toki", "nameEn": "Toki", "type": "调和威士忌", "price": { "min": 250, "max": 500, "label": "零售参考价" }, "desc": "三厂跨代调和,Highball 文化的国民口粮。", "highlights": ["Highball文化", "国民口粮"], "tags": ["威士忌"] }
+      ]
+    },
+    {
+      "id": "guinness", "name": "健力士", "nameEn": "Guinness", "domain": "guinness.com",
+      "categoryId": "drinks", "country": "爱尔兰", "founded": 1759, "hq": "都柏林",
+      "tier": "大众", "tags": ["世涛", "黑金", "吉尼斯纪录"], "slogan": "Made of More",
+      "desc": "1759年Arthur Guinness签下9000年租约的黑啤帝国,「吉尼斯世界纪录」正源于其老板的一场打赌。",
+      "story": "1759年Arthur以每年45镑租下都柏林圣詹姆士门酒厂9000年。世涛黑啤的氮气球泡沫如天鹅绒,「等待119.5秒倒一杯」是它的仪式。1950年代酒厂老板Hugh Beaver与人争论猎物速度,顺手创办了《吉尼斯世界纪录》。\n全球每年卖掉近20亿品脱。",
+      "products": [
+        { "id": "guinness-draught", "name": "生啤 Draught", "nameEn": "Draught Guinness", "type": "世涛黑啤", "price": { "min": 8, "max": 20, "label": "单罐/杯参考价" }, "desc": "氮气球罐还原酒吧口感,黑金分层是它的名片。", "highlights": ["氮气球", "黑金分层"], "tags": ["黑啤"] },
+        { "id": "guinness-foreign", "name": "海外特酿 FES", "nameEn": "Foreign Extra Stout", "type": "世涛黑啤", "price": { "min": 15, "max": 30, "label": "单瓶参考价" }, "desc": "7.5度出口版,更浓烈的黑巧与咖啡味。", "highlights": ["7.5度", "浓烈"], "tags": ["黑啤"] },
+        { "id": "guinness-original", "name": "经典 Original", "nameEn": "Original", "type": "世涛黑啤", "price": { "min": 10, "max": 25, "label": "单瓶参考价" }, "desc": "碳酸版经典,更接近1759年的原始风味。", "highlights": ["碳酸经典", "原始风味"], "tags": ["黑啤"] },
+        { "id": "guinness-zero", "name": "0.0 无醇", "nameEn": "Guinness 0.0", "type": "无醇黑啤", "price": { "min": 8, "max": 20, "label": "单罐参考价" }, "desc": "冷水过滤脱醇,开车也能举杯。", "highlights": ["无醇", "冷水脱醇"], "tags": ["无醇"] },
+        { "id": "guinness-openGate", "name": "OpenGate 限量精酿系列", "nameEn": "OpenGate Brewery", "type": "限量精酿", "price": { "min": 25, "max": 80, "label": "单瓶参考价" }, "desc": "实验酒厂限定,咖啡桶陈等小众表达。", "highlights": ["实验酒厂", "限量"], "tags": ["精酿"] }
+      ]
+    },
+    {
+      "id": "heineken", "name": "喜力", "nameEn": "Heineken", "domain": "heineken.com",
+      "categoryId": "drinks", "country": "荷兰", "founded": 1864, "hq": "阿姆斯特丹",
+      "tier": "大众", "tags": ["绿瓶", "欧战足球", "A-yeast"], "slogan": "Open Your World",
+      "desc": "绿色瓶子的世界第二大啤酒集团:1864年 Gerard Heineken 购得阿姆斯特丹 De Hooiberg 酒厂,A酵母配方延续至今。",
+      "story": "1864年22岁的 Gerard Heineken 接手老酒厂,1873年启用专属A酵母(H-level),横扫国际博览会金奖。欧冠、F1的绿色广告牌是全球体育营销的常青树。\n银河系之外,它在地球每年卖掉两亿多升——具体是 2.4 亿升。",
+      "products": [
+        { "id": "heineken-original", "name": "喜力经典", "nameEn": "Heineken Original", "type": "拉格啤酒", "price": { "min": 5, "max": 15, "label": "单瓶参考价" }, "desc": "5%度数的清爽拉格,绿瓶即识别。", "highlights": ["A酵母", "清爽拉格"], "tags": ["拉格"] },
+        { "id": "heineken-silver", "name": "喜力星银", "nameEn": "Heineken Silver", "type": "拉格啤酒", "price": { "min": 5, "max": 12, "label": "单瓶参考价" }, "desc": "4.3度更轻爽,亚洲市场定制。", "highlights": ["4.3度", "更轻爽"], "tags": ["拉格"] },
+        { "id": "heineken-zero", "name": "喜力0.0", "nameEn": "Heineken 0.0", "type": "无醇啤酒", "price": { "min": 5, "max": 12, "label": "单瓶参考价" }, "desc": "双次酿造脱醇,口感保留八成。", "highlights": ["无醇", "双次酿造"], "tags": ["无醇"] },
+        { "id": "heineken-amstel", "name": "Amstel 阿姆斯特尔", "nameEn": "Amstel", "type": "拉格啤酒", "price": { "min": 4, "max": 10, "label": "单瓶参考价" }, "desc": "集团旗下亲民副牌,性价比拉格。", "highlights": ["副牌", "性价比"], "tags": ["拉格"] },
+        { "id": "heineken-desperados", "name": "Desperados 特基拉风味", "nameEn": "Desperados", "type": "风味啤酒", "price": { "min": 10, "max": 25, "label": "单瓶参考价" }, "desc": "龙舌兰风味啤酒,派对里的野孩子。", "highlights": ["龙舌兰风味", "派对"], "tags": ["风味"] }
+      ]
+    },
+    {
+      "id": "budweiser", "name": "百威", "nameEn": "Budweiser", "domain": "budweiser.com",
+      "categoryId": "drinks", "country": "美国", "founded": 1876, "hq": "圣路易斯",
+      "tier": "大众", "tags": ["拉格", "啤酒之王", "红白标"], "slogan": "King of Beers",
+      "desc": "自称「啤酒之王」的百年拉格:1876年 Adolphus Busch 用山毛榉木熟成工艺造出 Budweiser,红色蝴蝶结标是美式文化的旗帜。",
+      "story": "1876年百威诞生,Busch 夫妇靠铁路与巴氏杀菌把它卖到全国。Super Bowl 广告、世界杯赞助、欧冠……「王冠上的蝴蝶结」无处不在。\n如今属 AB InBev(全球最大啤酒集团),在中国整合了哈啤、雪津等品牌。",
+      "products": [
+        { "id": "budweiser-classic", "name": "百威经典", "nameEn": "Budweiser Classic", "type": "拉格啤酒", "price": { "min": 5, "max": 12, "label": "单瓶参考价" }, "desc": "山毛榉熟成的美式拉格,清爽顺口的啤酒之王。", "highlights": ["山毛榉熟成", "啤酒之王"], "tags": ["拉格"] },
+        { "id": "budweiser-supreme", "name": "百威大师传奇虎", "nameEn": "Budweiser Supreme", "type": "高端拉格", "price": { "min": 15, "max": 40, "label": "单瓶参考价" }, "desc": "高端线金瓶,麦香更足的升级款。", "highlights": ["高端线", "金瓶"], "tags": ["拉格"] },
+        { "id": "budweiser-zero", "name": "百威无醇", "nameEn": "Budweiser Zero", "type": "无醇啤酒", "price": { "min": 5, "max": 12, "label": "单罐参考价" }, "desc": "0糖0醇,深夜看球的第二选择。", "highlights": ["0糖0醇", "夜球伴侣"], "tags": ["无醇"] },
+        { "id": "budweiser-harbin", "name": "哈尔滨啤酒", "nameEn": "Harbin Beer", "type": "拉格啤酒", "price": { "min": 3, "max": 8, "label": "单瓶参考价" }, "desc": "1900年中国第一家啤酒厂,如今在百威旗下。", "highlights": ["1900年", "中国第一家"], "tags": ["拉格"] },
+        { "id": "budweiser-nfl", "name": "联名限定罐", "nameEn": "Limited Cans", "type": "限定啤酒", "price": { "min": 6, "max": 20, "label": "单罐参考价" }, "desc": "世界杯/国潮联名罐,收藏党为罐买单。", "highlights": ["联名罐", "收藏向"], "tags": ["限定"] }
+      ]
+    },
+    {
+      "id": "corona", "name": "科罗娜", "nameEn": "Corona Extra", "domain": "corona.com",
+      "categoryId": "drinks", "country": "墨西哥", "founded": 1925, "hq": "墨西哥城",
+      "tier": "大众", "tags": ["透明瓶", "柠檬口", "海滩感"], "slogan": "La vida más fina",
+      "desc": "墨西哥透明瓶拉格:瓶颈插一块青柠是喝科罗娜的全球通用仪式,「Find your beach」营销卖的是海滩阳光。",
+      "story": "1925年 Grupo Modelo 推出科罗娜,透明瓶身本是墨西哥酒厂的散热妥协,却意外成了阳光人设。1997年进入美国后成为进口啤酒第一,疫情期间「去海滩」的广告翻车又翻红。\n如今同属 AB InBev,中国夜市烧烤摊的异域担当。",
+      "products": [
+        { "id": "corona-extra", "name": "科罗娜特酿", "nameEn": "Corona Extra", "type": "拉格啤酒", "price": { "min": 8, "max": 20, "label": "单瓶参考价" }, "desc": "4.5度清爽拉格,配青柠片的仪式感拉满。", "highlights": ["青柠仪式", "清爽"], "tags": ["拉格"] },
+        { "id": "corona-premier", "name": "科罗娜 Premier", "nameEn": "Corona Premier", "type": "拉格啤酒", "price": { "min": 10, "max": 25, "label": "单瓶参考价" }, "desc": "更低碳水的轻体款,健身党的海滩自由。", "highlights": ["低碳水", "轻体"], "tags": ["拉格"] },
+        { "id": "corona-familiar", "name": "科罗娜 Familiar 大瓶", "nameEn": "Corona Familiar", "type": "拉格啤酒", "price": { "min": 12, "max": 30, "label": "单瓶参考价" }, "desc": "墨西哥家庭装琥珀拉格,麦香更浓。", "highlights": ["家庭装", "琥珀"], "tags": ["拉格"] },
+        { "id": "corona-hardsero", "name": "Corona Hard Seltzer", "nameEn": "Hard Seltzer", "type": "气泡酒", "price": { "min": 8, "max": 20, "label": "单罐参考价" }, "desc": "低卡气泡酒线,沙滩风的清爽延伸。", "highlights": ["低卡", "气泡"], "tags": ["气泡酒"] },
+        { "id": "corona-xx", "name": "Modelo Negamboa 系列", "nameEn": "Modelo Line", "type": "拉格啤酒", "price": { "min": 10, "max": 25, "label": "单瓶参考价" }, "desc": "姐妹品牌 Modelo 的引入款,琥珀色的墨西哥骄傲。", "highlights": ["姐妹品牌", "琥珀"], "tags": ["拉格"] }
+      ]
+    },
+    {
+      "id": "tsingtao", "name": "青岛啤酒", "nameEn": "Tsingtao Brewery", "domain": "tsingtao.com.cn",
+      "categoryId": "drinks", "country": "中国", "founded": 1903, "hq": "青岛",
+      "tier": "大众", "tags": ["百年啤酒", "崂山水", "一厂青岛"], "slogan": "青岛啤酒,欢聚这一杯",
+      "desc": "1903年英德商人合资创办的中国现存最老啤酒厂,崂山矿泉水+青岛一厂原浆是老酒民心中的白月光。",
+      "story": "1903年日耳曼啤酒公司青岛股份公司成立,此后日据、民国、国营一路走来。德国工艺+崂山泉水成就「青岛味道」。每年八月的青岛国际啤酒节,全城哈啤酒吃蛤蜊。\n远销全球一百多国,是海外中餐馆的默认选项。",
+      "products": [
+        { "id": "tsingtao-classic", "name": "青岛啤酒经典", "nameEn": "Tsingtao Classic", "type": "拉格啤酒", "price": { "min": 4, "max": 10, "label": "单瓶参考价" }, "desc": "绿瓶经典11度,麦香浓郁的中国拉格代表。", "highlights": ["绿瓶经典", "麦香"], "tags": ["拉格"] },
+        { "id": "tsingtao-pure", "name": "青岛纯生", "nameEn": "Pure Draft", "type": "拉格啤酒", "price": { "min": 5, "max": 12, "label": "单瓶参考价" }, "desc": "鲜活过滤不经杀菌,口感更新鲜。", "highlights": ["鲜活过滤", "更新鲜"], "tags": ["拉格"] },
+        { "id": "tsingtao-original", "name": "青岛原浆", "nameEn": "Unfiltered", "type": "精酿拉格", "price": { "min": 10, "max": 25, "label": "单瓶参考价" }, "desc": "不过滤不杀菌的浑浊原浆,7天短保的鲜味。", "highlights": ["7天短保", "浑浊原浆"], "tags": ["精酿"] },
+        { "id": "tsingtao-white", "name": "全麦白啤", "nameEn": "Whole Wheat White Beer", "type": "白啤", "price": { "min": 8, "max": 18, "label": "单瓶参考价" }, "desc": "德式小麦白啤,香蕉丁香酚的风味。", "highlights": ["德式小麦", "香蕉丁香"], "tags": ["白啤"] },
+        { "id": "tsingtao-IPA", "name": "IPA 精酿系列", "nameEn": "IPA Series", "type": "精酿啤酒", "price": { "min": 10, "max": 30, "label": "单瓶参考价" }, "desc": "琥珀IPA与鸿运当头等精酿线,老厂的新尝试。", "highlights": ["精酿线", "新尝试"], "tags": ["精酿"] }
+      ]
+    }
+  ]
+}

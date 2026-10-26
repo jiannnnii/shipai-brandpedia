@@ -1,0 +1,312 @@
+{
+  "brands": [
+    {
+      "id": "maybelline", "name": "美宝莲", "nameEn": "Maybelline", "domain": "maybelline.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1915, "hq": "纽约",
+      "tier": "大众", "tags": ["开架彩妆", "睫毛膏", "欧莱雅系"], "slogan": "美来自内心,美来自美宝莲",
+      "desc": "全球销量第一的开架彩妆:从一块小蛋糕里的凡士林睫毛膏起家,「美来自内心」广告语家喻户晓。",
+      "story": "1915年Tom Lyle Williams为妹妹发明了Cake mascara,以妹妹名字Maybel命名。1990年代进入中国,「纽约美宝莲」成为一代人的第一支睫毛膏与眼线笔。\n隶属欧莱雅集团,Fit Me粉底液与Fit Me遮瑕是近年爆款。",
+      "products": [
+        { "id": "maybelline-fitme", "name": "Fit Me 粉底液", "nameEn": "Fit Me Foundation", "type": "粉底", "price": { "min": 90, "max": 150, "label": "零售参考价" }, "desc": "开架粉底的销量神话,色号齐全妆效自然。", "highlights": ["销量神话", "色号全"], "tags": ["底妆"] },
+        { "id": "maybelline-mascara", "name": "飞箭睫毛膏", "nameEn": "Hyper Curl", "type": "睫毛膏", "price": { "min": 60, "max": 120, "label": "零售参考价" }, "desc": "主打卷翘持久,睫毛膏品类的国民入门。", "highlights": ["国民入门", "卷翘"], "tags": ["眼妆"] },
+        { "id": "maybelline-superstay", "name": "SuperStay 持久唇釉", "nameEn": "SuperStay Vinyl Ink", "type": "唇釉", "price": { "min": 80, "max": 140, "label": "零售参考价" }, "desc": "镜面漆光+超长持妆,吃喝不掉的网红。", "highlights": ["镜面漆光", "超长持妆"], "tags": ["唇妆"] },
+        { "id": "maybelline-eraser", "name": "橡皮擦遮瑕", "nameEn": "Instant Eraser", "type": "遮瑕", "price": { "min": 70, "max": 120, "label": "零售参考价" }, "desc": "海绵头遮瑕的黑眼圈救星,欧美博主人手一支。", "highlights": ["海绵头", "黑眼圈救星"], "tags": ["底妆"] },
+        { "id": "maybelline-eyeliner", "name": "小金笔眼线液", "nameEn": "Hyper Precise", "type": "眼线", "price": { "min": 60, "max": 110, "label": "零售参考价" }, "desc": "极细笔头新手友好,持久不晕。", "highlights": ["极细笔头", "新手友好"], "tags": ["眼妆"] }
+      ]
+    },
+    {
+      "id": "mac", "name": "魅可", "nameEn": "M·A·C", "domain": "maccosmetics.com.cn",
+      "categoryId": "beauty", "country": "加拿大", "founded": 1984, "hq": "多伦多",
+      "tier": "中档", "tags": ["专业彩妆", "子弹头", "雅诗兰黛系"], "slogan": "All Ages, All Races, All Genders",
+      "desc": "从后台化妆师品牌到全球现象:一支子弹头口红与 NARS 并立的彩妆师挚爱。",
+      "story": "1984年Frank Toskan与Frank Angelo在多伦多为摄影后台创作高显色产品,Viva Glam 慈善系列让红唇有了社会意义。1998年并入雅诗兰黛集团。\nChili小辣椒色是中文互联网的第一支「网红色」。",
+      "products": [
+        { "id": "mac-chili", "name": "子弹头 Chili 小辣椒", "nameEn": "Matte Lipstick Chili", "type": "口红", "price": { "min": 170, "max": 230, "label": "专柜参考价" }, "desc": "砖红显白的中文网络初代网红色。", "highlights": ["初代网红色", "显白"], "tags": ["唇妆"] },
+        { "id": "mac-studiofix", "name": "Studio Fix 粉饼", "nameEn": "Studio Fix Powder", "type": "粉饼", "price": { "min": 280, "max": 380, "label": "专柜参考价" }, "desc": "高遮瑕控油的专业线粉饼,油皮信仰。", "highlights": ["高遮瑕", "油皮信仰"], "tags": ["底妆"] },
+        { "id": "mac-fixplus", "name": "Fix+ 定妆喷雾", "nameEn": "Prep + Prime Fix+", "type": "定妆喷雾", "price": { "min": 200, "max": 300, "label": "专柜参考价" }, "desc": "化妆师后台万能喷雾,定妆提亮两相宜。", "highlights": ["后台万能", "定妆"], "tags": ["定妆"] },
+        { "id": "mac-lipglass", "name": "Lipglass 唇彩", "nameEn": "Lipglass", "type": "唇彩", "price": { "min": 180, "max": 260, "label": "专柜参考价" }, "desc": "镜面玻璃唇的发明者,Y2K 妆容回归的宠儿。", "highlights": ["玻璃唇发明", "Y2K"], "tags": ["唇妆"] },
+        { "id": "mac-satin", "name": "Satin 眼影盘", "nameEn": "Eyeshadow Palette", "type": "眼影", "price": { "min": 350, "max": 500, "label": "专柜参考价" }, "desc": "专业配色的高显色眼影,化妆箱必备。", "highlights": ["高显色", "专业配色"], "tags": ["眼妆"] }
+      ]
+    },
+    {
+      "id": "nars", "name": "NARS", "nameEn": "NARS Cosmetics", "domain": "narscosmetics.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1994, "hq": "纽约",
+      "tier": "中档", "tags": ["高潮腮红", "情色命名", "资生堂系"], "slogan": "不要适可而止",
+      "desc": "摄影师François Nars的影像美学:高潮(Orgasm)腮红是史上最畅销的彩妆单品之一。",
+      "story": "1994年 Franco Nars 以12支口红创业,命名大胆直白,首支广告用自己拍的超模照片。Orgasm 腮红的桃金光泽成为「打在哪都对」的 universal 色。\n隶属资生堂集团,威尼斯红包装是品牌签名。",
+      "products": [
+        { "id": "nars-orgasm", "name": "高潮腮红", "nameEn": "Blush Orgasm", "type": "腮红", "price": { "min": 300, "max": 400, "label": "专柜参考价" }, "desc": "桃粉金闪的 universal 腮红,销量传奇。", "highlights": ["销量传奇", "universal色"], "tags": ["腮红"] },
+        { "id": "nars-radiant", "name": "持久遮瑕液", "nameEn": "Radiant Creamy Concealer", "type": "遮瑕", "price": { "min": 280, "max": 380, "label": "专柜参考价" }, "desc": "遮瑕界的标杆产品,滋润不卡纹。", "highlights": ["遮瑕标杆", "不卡纹"], "tags": ["底妆"] },
+        { "id": "nars-lipcover", "name": "持色唇液", "nameEn": "Powermatte Lip Pigment", "type": "唇釉", "price": { "min": 260, "max": 360, "label": "专柜参考价" }, "desc": "雾面哑光的轻透质地,Don't Stop 色号爆火。", "highlights": ["雾面轻透", "Don't Stop"], "tags": ["唇妆"] },
+        { "id": "nars-eyeshadow", "name": "爱情灵药眼影", "nameEn": "Cocoshade Palette", "type": "眼影", "price": { "min": 400, "max": 550, "label": "专柜参考价" }, "desc": "四色大地色盘,肿眼泡救星。", "highlights": ["大地色", "肿眼泡救星"], "tags": ["眼妆"] },
+        { "id": "nars-bronzer", "name": "古铜修容饼", "nameEn": "Laguna Bronzer", "type": "修容", "price": { "min": 320, "max": 420, "label": "专柜参考价" }, "desc": "Laguna 古铜色是修容界的 universal 色。", "highlights": ["修容universal", "Laguna"], "tags": ["修容"] }
+      ]
+    },
+    {
+      "id": "maxfactor", "name": "蜜丝佛陀", "nameEn": "Max Factor", "domain": "maxfactor.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1909, "hq": "洛杉矶",
+      "tier": "大众", "tags": ["好莱坞", "彩妆之父", "宝洁系"], "slogan": "The Make-up of Make-up Artists",
+      "desc": "「彩妆之父」Max Factor 为好莱坞默片时代发明的彩妆体系,莹亮润泽粉底的中国销量神话。",
+      "story": "1909年Max Factor在洛杉矶为电影化妆服务,发明 lip gloss 与「makeup」一词的现代化定义,玛丽莲·梦露与奥黛丽·赫本都是它的客人。\n进入中国后以「透蜜粉底」等单品开架热销,现在隶属宝洁。",
+      "products": [
+        { "id": "maxfactor-foundation", "name": "莹亮润泽粉底液", "nameEn": "Miracle Touch", "type": "粉底", "price": { "min": 100, "max": 180, "label": "零售参考价" }, "desc": "奶油肌开架粉底,中国专柜的经典畅销。", "highlights": ["奶油肌", "经典畅销"], "tags": ["底妆"] },
+        { "id": "maxfactor-lipfinity", "name": "恒采唇釉", "nameEn": "Lipfinity", "type": "口红", "price": { "min": 90, "max": 160, "label": "零售参考价" }, "desc": "双头持色唇膏的先行者,12小时不掉色。", "highlights": ["双头", "12小时"], "tags": ["唇妆"] },
+        { "id": "maxfactor-mascara", "name": "浓密魅眼睫毛膏", "nameEn": "False Lash Effect", "type": "睫毛膏", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "假睫毛效果的平价替代,刷头加密。", "highlights": ["假睫毛效果", "加密刷头"], "tags": ["眼妆"] },
+        { "id": "maxfactor-powder", "name": "透蜜粉饼", "nameEn": "Translucent Powder", "type": "粉饼", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "定妆控油的老牌粉饼,妈妈辈也认识。", "highlights": ["定妆", "老牌"], "tags": ["底妆"] },
+        { "id": "maxfactor-blush", "name": "胭脂腮红", "nameEn": "Cheek Blossom", "type": "腮红", "price": { "min": 70, "max": 130, "label": "零售参考价" }, "desc": "自然红润的好气色,开架腮红的稳妥选择。", "highlights": ["好气色", "稳妥"], "tags": ["腮红"] }
+      ]
+    },
+    {
+      "id": "perfectdiary", "name": "完美日记", "nameEn": "Perfect Diary", "domain": "perfectdiary.com",
+      "categoryId": "beauty", "country": "中国", "founded": 2016, "hq": "广州",
+      "tier": "大众", "tags": ["国货彩妆", "小红书", "动物眼影"], "slogan": "美不设限",
+      "desc": "新消费国货彩妆之王:小红书种草+KOL矩阵+动物眼影盘,三年做到中国彩妆第一。",
+      "story": "2016年黄锦峰在广州创立,借小红书与私域流量起飞,2019-2020登顶天猫彩妆。动物眼影盘(小猪/斑虎/丹顶鹤)与中国国家地理联名成为现象级。\n母公司逸仙电商上市后转向护肤多点开花。",
+      "products": [
+        { "id": "perfectdiary-animal", "name": "探险家动物眼影盘", "nameEn": "Explorer Palette", "type": "眼影", "price": { "min": 100, "max": 160, "label": "零售参考价" }, "desc": "小猪斑虎鳄鱼盘,国货眼影的现象级爆款。", "highlights": ["现象级", "动物盘"], "tags": ["眼妆"] },
+        { "id": "perfectdiary-lip", "name": "名片唇釉", "nameEn": "Name Card Lip", "type": "唇釉", "price": { "min": 60, "max": 100, "label": "零售参考价" }, "desc": "名片造型的哑光唇釉,平价显白。", "highlights": ["名片造型", "平价显白"], "tags": ["唇妆"] },
+        { "id": "perfectdiary-foundation", "name": "薄透粉底液", "nameEn": "Weightless Foundation", "type": "粉底", "price": { "min": 80, "max": 140, "label": "零售参考价" }, "desc": "轻薄持妆的学生党底妆。", "highlights": ["轻薄", "学生党"], "tags": ["底妆"] },
+        { "id": "perfectdiary-blush", "name": "马赛克腮红", "nameEn": "Mosaic Blush", "type": "腮红", "price": { "min": 50, "max": 90, "label": "零售参考价" }, "desc": "多色拼接腮红盘,一盘子打全脸。", "highlights": ["多色拼接", "一盘认证"], "tags": ["腮红"] },
+        { "id": "perfectdiary-eyebrow", "name": "双头眉笔", "nameEn": "Dual Brow Pencil", "type": "眉笔", "price": { "min": 40, "max": 70, "label": "零售参考价" }, "desc": "极细笔头+眉刷,新手画眉第一支。", "highlights": ["极细", "新手第一支"], "tags": ["眉妆"] }
+      ]
+    },
+    {
+      "id": "florasis", "name": "花西子", "nameEn": "Florasis", "domain": "florasis.com",
+      "categoryId": "beauty", "country": "中国", "founded": 2017, "hq": "杭州",
+      "tier": "大众", "tags": ["东方彩妆", "雕花口红", "李佳琦"], "slogan": "扬东方之美,铸百年国妆",
+      "desc": "以「东方彩妆,以花养妆」立身:雕花口红、百鸟朝凤眼影盘把中国美学做成产品。",
+      "story": "2017年吴成龙在杭州创立,2019年借李佳琦直播起飞,同心锁口红与苗族印象高定系列刷屏。雕花工艺口红一支难求的时刻被称为「花西子时刻」。\n2023年价格争议与「塌房」讨论后,品牌转向科技研发叙事。",
+      "products": [
+        { "id": "florasis-carved", "name": "雕花口红", "nameEn": "Carved Lipstick", "type": "口红", "price": { "min": 130, "max": 220, "label": "零售参考价" }, "desc": "口红上的微雕艺术,收藏与实用兼得。", "highlights": ["微雕工艺", "收藏级"], "tags": ["唇妆"] },
+        { "id": "florasis-airpalette", "name": "空气蜜粉", "nameEn": "Air Loose Powder", "type": "蜜粉", "price": { "min": 100, "max": 170, "label": "零售参考价" }, "desc": "轻盈定妆的控油蜜粉,直播间的销量王。", "highlights": ["轻盈", "销量王"], "tags": ["底妆"] },
+        { "id": "florasis-eyeshadow", "name": "百鸟朝凤眼影盘", "nameEn": "Phoenix Palette", "type": "眼影", "price": { "min": 150, "max": 260, "label": "零售参考价" }, "desc": "浮雕彩绘眼影,美到不舍得用。", "highlights": ["浮雕彩绘", "不舍得用"], "tags": ["眼妆"] },
+        { "id": "florasis-eyebrow", "name": "三角眉笔", "nameEn": "Triangle Brow Pen", "type": "眉笔", "price": { "min": 60, "max": 110, "label": "零售参考价" }, "desc": "砍刀三角笔头,国风眉形一笔到位。", "highlights": ["三角笔头", "国风眉"], "tags": ["眉妆"] },
+        { "id": "florasis-cushion", "name": "玉容纱气垫", "nameEn": "Cushion Foundation", "type": "气垫", "price": { "min": 130, "max": 200, "label": "零售参考价" }, "desc": "薄贴持妆的养肤气垫,东方妆感的代表。", "highlights": ["养肤", "东方妆感"], "tags": ["底妆"] }
+      ]
+    },
+    {
+      "id": "proya", "name": "珀莱雅", "nameEn": "PROYA", "domain": "proya.com",
+      "categoryId": "beauty", "country": "中国", "founded": 2003, "hq": "杭州",
+      "tier": "大众", "tags": ["国货护肤", "早C晚A", "双抗精华"], "slogan": "发现精粹之美",
+      "desc": "国货护肤翻身仗的旗手:早C晚A的护肤公式由它普及,双抗精华与红宝石精华屡屡出圈。",
+      "story": "2003年侯军呈在杭州创立,早期靠海洋护肤与线下渠道。2019年起聚焦大单品策略:红宝石精华(六胜肽)+双抗精华(麦角硫因)让珀莱雅市值登顶国货美妆。\n「早C晚A」由品牌科普教育发扬,已成为国民护肤常识。",
+      "products": [
+        { "id": "proya-doubleantiox", "name": "双抗精华", "nameEn": "Double Antioxidant Serum", "type": "精华", "price": { "min": 200, "max": 350, "label": "零售参考价" }, "desc": "麦角硫因+虾青素双抗氧,「晚A」之外的另一条腿。", "highlights": ["双抗氧", "晚A搭档"], "tags": ["精华"] },
+        { "id": "proya-ruby", "name": "红宝石精华", "nameEn": "Ruby Serum", "type": "精华", "price": { "min": 250, "max": 450, "label": "零售参考价" }, "desc": "六胜肽抗皱精华,「早C晚A」的A醇搭档。", "highlights": ["六胜肽", "抗皱"], "tags": ["精华"] },
+        { "id": "proya-energycream", "name": "能量面霜", "nameEn": "Energy Cream", "type": "面霜", "price": { "min": 200, "max": 350, "label": "零售参考价" }, "desc": "A醇面霜的新手友好版本,建立耐受的好搭档。", "highlights": ["A醇", "新手友好"], "tags": ["面霜"] },
+        { "id": "proya-sunscreen", "name": "羽感防晒", "nameEn": "Feather Sunscreen", "type": "防晒", "price": { "min": 100, "max": 180, "label": "零售参考价" }, "desc": "轻薄成膜不假白,国货防晒的口碑之作。", "highlights": ["轻薄成膜", "不假白"], "tags": ["防晒"] },
+        { "id": "proya-eye", "name": "红宝石眼霜", "nameEn": "Ruby Eye Cream", "type": "眼霜", "price": { "min": 180, "max": 300, "label": "零售参考价" }, "desc": "胜肽眼霜,熬夜党的细纹急救。", "highlights": ["胜肽", "细纹急救"], "tags": ["眼霜"] }
+      ]
+    },
+    {
+      "id": "winona", "name": "薇诺娜", "nameEn": "Winona", "domain": "winona.com.cn",
+      "categoryId": "beauty", "country": "中国", "founded": 2008, "hq": "昆明",
+      "tier": "大众", "tags": ["敏感肌", "皮肤学级", "滇红药企"], "slogan": "专业守护敏感肌",
+      "desc": "中国敏感肌护肤的代名词:皮肤学级功效护肤,滇红药企贝泰妮的现金牛。",
+      "story": "2008年郭振宇从医学教授转行创业,依托云南植物资源与医院渠道,「皮肤学级护肤」定位精准踩中国敏感肌人口红利。天猫双11常年护肤前十。\n舒敏保湿特护霜被称为「敏感肌的小金瓶」。",
+      "products": [
+        { "id": "winona-cream", "name": "舒敏保湿特护霜", "nameEn": "Anti-Sensitive Cream", "type": "面霜", "price": { "min": 200, "max": 350, "label": "零售参考价" }, "desc": "敏感肌「小金瓶」,泛红刺痛的急救面霜。", "highlights": ["小金瓶", "急救"], "tags": ["面霜"] },
+        { "id": "winona-sunscreen", "name": "清透防晒乳", "nameEn": "Sunscreen Milk", "type": "防晒", "price": { "min": 130, "max": 250, "label": "零售参考价" }, "desc": "敏感肌可用物化结合防晒,不闷痘。", "highlights": ["敏感肌可用", "不闷痘"], "tags": ["防晒"] },
+        { "id": "winona-serum", "name": "舒敏精华", "nameEn": "Soothing Serum", "type": "精华", "price": { "min": 200, "max": 350, "label": "零售参考价" }, "desc": "青刺果+马齿苋,修复屏障的精华担当。", "highlights": ["青刺果", "屏障修复"], "tags": ["精华"] },
+        { "id": "winona-cleanser", "name": "舒缓洁面乳", "nameEn": "Gentle Cleanser", "type": "洁面", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "氨基酸洁面,洗后不紧绷。", "highlights": ["氨基酸", "不紧绷"], "tags": ["洁面"] },
+        { "id": "winona-mask", "name": "舒缓修护冻干面膜", "nameEn": "Freeze-dried Mask", "type": "面膜", "price": { "min": 100, "max": 200, "label": "零售参考价" }, "desc": "冻干粉现调现用,医美术后也能用。", "highlights": ["冻干现调", "医美友好"], "tags": ["面膜"] }
+      ]
+    },
+    {
+      "id": "jomalone", "name": "祖·玛珑", "nameEn": "Jo Malone London", "domain": "jomalone.com.cn",
+      "categoryId": "beauty", "country": "英国", "founded": 1994, "hq": "伦敦",
+      "tier": "高奢", "tags": ["英伦香氛", "混香", "雅诗兰黛系"], "slogan": "The Art of Fragrance",
+      "desc": "英伦沙龙香的全球代表:鼠尾草与海盐、英国梨与小苍兰,「混香玩法」的开创者。",
+      "story": "1994年Jo Malone在伦敦自宅开课起家,以简单原料+优雅组合著称,1999年并入雅诗兰黛。青柠罗勒与柑橘是第一款爆款。\n礼盒包装与丝带仪式感让送礼场景无往不利。",
+      "products": [
+        { "id": "jomalone-wood", "name": "鼠尾草与海盐", "nameEn": "Wood Sage & Sea Salt", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "清冷海风的性与自由,中性香经典。", "highlights": ["中性香", "清冷海风"], "tags": ["香水"] },
+        { "id": "jomalone-pear", "name": "英国梨与小苍兰", "nameEn": "English Pear & Freesia", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "秋日果园的少女感,祖玛珑销量第一。", "highlights": ["销量第一", "少女感"], "tags": ["香水"] },
+        { "id": "jomalone-lime", "name": "青柠罗勒与柑橘", "nameEn": "Lime Basil & Mandarin", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "1994年创业款,奠定品牌风格的灵魂香。", "highlights": ["创业香", "灵魂香"], "tags": ["香水"] },
+        { "id": "jomalone-candle", "name": "香薰蜡烛", "nameEn": "Home Candle", "type": "香薰蜡烛", "price": { "min": 600, "max": 1200, "label": "专柜参考价" }, "desc": "家居香氛的轻奢入门,礼盒仪式感满分。", "highlights": ["轻奢入门", "送礼满分"], "tags": ["家居"] },
+        { "id": "jomalone-body", "name": "润肤乳液", "nameEn": "Body Lotion", "type": "身体护理", "price": { "min": 400, "max": 700, "label": "专柜参考价" }, "desc": "与香水同味的身体乳,叠香打底。", "highlights": ["叠香打底", "同味"], "tags": ["身体"] }
+      ]
+    },
+    {
+      "id": "ateliercologne", "name": "欧珑", "nameEn": "Atelier Cologne", "domain": "ateliercologne.com.cn",
+      "categoryId": "中档", "tags": ["古龙水", "柑橘", "欧莱雅系"], "slogan": "Cologne Absolue",
+      "desc": "2010年巴黎创的「精醇古龙」:把古龙水的柑橘与持久留香结合,无极乌龙是中文互联网的初恋香。",
+      "story": "2010年Sylvie Ganter与Christophe Cervasel 在纽约创店(巴黎血统),首创 Cologne Absolue 概念:高浓度精油古龙水。2016年入华后「无极乌龙」在小红书封神。\n隶属欧莱雅集团,周杰伦代言后进一步破圈。",
+      "categoryId": "beauty", "country": "法国", "founded": 2010, "hq": "巴黎",
+      "products": [
+        { "id": "ateliercologne-oolong", "name": "无极乌龙", "nameEn": "Oolang Infini", "type": "香水", "price": { "min": 700, "max": 1400, "label": "专柜参考价" }, "desc": "茶香+乌木的初恋感,中文互联网的第一香。", "highlights": ["初恋感", "茶香"], "tags": ["香水"] },
+        { "id": "ateliercologne-orange", "name": "赤霞橘光", "nameEn": "Orange Sanguine", "type": "香水", "price": { "min": 700, "max": 1400, "label": "专柜参考价" }, "desc": "血橙的阳光活力,元气少女标配。", "highlights": ["血橙", "元气"], "tags": ["香水"] },
+        { "id": "ateliercologne-cedre", "name": "梦幻香柏", "nameEn": "Cedre Atlas", "type": "香水", "price": { "min": 700, "max": 1400, "label": "专柜参考价" }, "desc": "雪松的干净温柔,「大男孩的床单味」。", "highlights": ["雪松", "床单味"], "tags": ["香水"] },
+        { "id": "ateliercologne-candle", "name": "香氛蜡烛", "nameEn": "Cologne Candle", "type": "香薰蜡烛", "price": { "min": 400, "max": 800, "label": "专柜参考价" }, "desc": "同系列古龙香氛蜡烛,送礼体面。", "highlights": ["同系列", "体面礼"], "tags": ["家居"] },
+        { "id": "ateliercologne-gift", "name": "刻字皮套礼盒", "nameEn": "Engraved Gift Set", "type": "礼盒", "price": { "min": 1000, "max": 2000, "label": "专柜参考价" }, "desc": "皮套刻字定制,情侣礼物的仪式感顶配。", "highlights": ["刻字定制", "情侣顶配"], "tags": ["礼盒"] }
+      ]
+    },
+    {
+      "id": "diptyque", "name": "蒂普提克", "nameEn": "diptyque", "domain": "diptyque.com.cn",
+      "categoryId": "高奢", "tags": ["巴黎左岸", "椭圆形瓶", "香薰之王"], "slogan": "The Art of Living",
+      "desc": "1961年三位巴黎艺术家创立的「生活方式香氛屋」:椭圆标签+黑白版画,香薰蜡烛之王。",
+      "story": "1961年Christian Montastruc、Desmond Knox-Leet与Yves Coueslant 在圣日耳曼大道34号开布艺店,1963年第一支蜡烛问世。Tam Dao 檀道与 Doson 杜桑是香水线的两大传奇。\n椭圆标签灵感来自舞蹈家裙摆剪影。",
+      "categoryId": "beauty", "country": "法国", "founded": 1961, "hq": "巴黎",
+      "products": [
+        { "id": "diptyque-tamdao", "name": "檀道", "nameEn": "Tam Dao", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "干燥寺庙木香的禅意,中性香的殿堂级。", "highlights": ["寺庙木香", "殿堂级中性"], "tags": ["香水"] },
+        { "id": "diptyque-doson", "name": "杜桑(晚香玉)", "nameEn": "Do Son", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "越南海边的晚香玉,初恋白花。", "highlights": ["晚香玉", "白花初恋"], "tags": ["香水"] },
+        { "id": "diptyque-baies", "name": "浆果香薰蜡烛", "nameEn": "Baies Candle", "type": "香薰蜡烛", "price": { "min": 500, "max": 1000, "label": "专柜参考价" }, "desc": "全球销量第一的香薰蜡烛,黑醋栗叶与玫瑰。", "highlights": ["全球第一", "黑醋栗玫瑰"], "tags": ["家居"] },
+        { "id": "diptyque-figuier", "name": "无花果蜡烛", "nameEn": "Figuier Candle", "type": "香薰蜡烛", "price": { "min": 500, "max": 1000, "label": "专柜参考价" }, "desc": "地中海无花果树影,夏日午后的奶绿感。", "highlights": ["无花果", "地中海"], "tags": ["家居"] },
+        { "id": "diptyque-cardiff", "name": "曼特淡香精", "nameEn": "Eau de Parfum", "type": "香水", "price": { "min": 1300, "max": 2600, "label": "专柜参考价" }, "desc": "EDP高浓度线,沙龙香的进阶玩法。", "highlights": ["EDP线", "沙龙进阶"], "tags": ["香水"] }
+      ]
+    },
+    {
+      "id": "fredericmalle", "name": "馥马尔", "nameEn": "Editions de Parfums Frédéric Malle", "domain": "fredericmalle.com.cn",
+      "categoryId": "高奢", "tags": ["香水出版社", "调香大师", "雅诗兰黛系"], "slogan": "Fragrance as literature",
+      "desc": "把香水当「出版物」:2000年Frédéric Malle请顶级调香师署名创作,一轮玫瑰与窈窕如她的殿堂。",
+      "story": "2000年香氛世家后人Frédéric Malle(迪奥香氛创始人孙女)创立「香水出版社」,调香师拥有完全创作自由并署名。Frederic Malle 的 Portrait of a Lady(窈窕如她)成为现象级玫瑰。\n隶属雅诗兰黛集团,门店如书房陈列香水。",
+      "categoryId": "beauty", "country": "法国", "founded": 2000, "hq": "巴黎",
+      "products": [
+        { "id": "fredericmalle-portrait", "name": "窈窕如她", "nameEn": "Portrait of a Lady", "type": "香水", "price": { "min": 1800, "max": 3500, "label": "专柜参考价" }, "desc": "玫瑰+广藿香的浓墨重彩,现象级东方玫瑰。", "highlights": ["现象级玫瑰", "浓墨重彩"], "tags": ["香水"] },
+        { "id": "fredericmalle-rose", "name": "一轮玫瑰", "nameEn": "Une Rose", "type": "香水", "price": { "min": 1800, "max": 3500, "label": "专柜参考价" }, "desc": "带着酒意与泥土的暗黑玫瑰。", "highlights": ["暗黑玫瑰", "酒意"], "tags": ["香水"] },
+        { "id": "fredericmalle-musc", "name": "狂恋麝香", "nameEn": "Musc Ravageur", "type": "香水", "price": { "min": 1800, "max": 3500, "label": "专柜参考价" }, "desc": "传奇「枕边香」,皮肤般的性感麝香。", "highlights": ["枕边香", "性感麝香"], "tags": ["香水"] },
+        { "id": "fredericmalle-iris", "name": "鸢尾浮沉", "nameEn": "Iris Poudre", "type": "香水", "price": { "min": 1800, "max": 3500, "label": "专柜参考价" }, "desc": "粉感鸢尾的古典美人,Alaïa 御用。", "highlights": ["粉感鸢尾", "古典美人"], "tags": ["香水"] },
+        { "id": "fredericmalle-candle", "name": "香氛蜡烛", "nameEn": "Candle", "type": "香薰蜡烛", "price": { "min": 700, "max": 1300, "label": "专柜参考价" }, "desc": "出版社同款香型的蜡烛版,书房气质。", "highlights": ["同款香型", "书房气质"], "tags": ["家居"] }
+      ]
+    },
+    {
+      "id": "byredo", "name": "百瑞德", "nameEn": "Byredo", "domain": "byredo.com",
+      "categoryId": "高奢", "tags": ["斯德哥尔摩", "无人区玫瑰", "Puig系"], "slogan": "Memories and Emotions",
+      "desc": "2006年瑞典人Ben Gorham创立的北欧极简香氛:无人区玫瑰是千禧一代的现象级香水。",
+      "story": "2006年前职业篮球手Ben Gorham 以「记忆与情感」为题创立,极简设计+故事化命名迅速风靡。Gypsy Water 流浪者之歌与 Blanche 白色浪漫都是时代符号。\n2022年被 Puig 收购,彩妆与皮具线扩张。",
+      "categoryId": "beauty", "country": "瑞典", "founded": 2006, "hq": "斯德哥尔摩",
+      "products": [
+        { "id": "byredo-rose", "name": "无人区玫瑰", "nameEn": "Rose of No Man's Land", "type": "香水", "price": { "min": 1200, "max": 2400, "label": "专柜参考价" }, "desc": "粉椒+玫瑰的疏离感,「香水的流量之王」。", "highlights": ["流量之王", "疏离感"], "tags": ["香水"] },
+        { "id": "byredo-gypsy", "name": "流浪者之歌", "nameEn": "Gypsy Water", "type": "香水", "price": { "min": 1200, "max": 2400, "label": "专柜参考价" }, "desc": "篝火松林与沙滩,自由浪游的北欧想象。", "highlights": ["自由浪游", "北欧想象"], "tags": ["香水"] },
+        { "id": "byredo-blanche", "name": "白色浪漫", "nameEn": "Blanche", "type": "香水", "price": { "min": 1200, "max": 2400, "label": "专柜参考价" }, "desc": "洗净的床单与白衣,纯净系顶配。", "highlights": ["洗净床单", "纯净顶配"], "tags": ["香水"] },
+        { "id": "byredo-handcream", "name": "护手霜", "nameEn": "Hand Cream", "type": "手部护理", "price": { "min": 300, "max": 500, "label": "专柜参考价" }, "desc": "同香型护手霜,包里的人格延伸。", "highlights": ["同香型", "包中人格"], "tags": ["手部"] },
+        { "id": "byredo-makeup", "name": "彩妆系列", "nameEn": "Color Cosmetics", "type": "彩妆", "price": { "min": 300, "max": 600, "label": "专柜参考价" }, "desc": "北欧极简的口红眼影,收藏向彩妆。", "highlights": ["极简彩妆", "收藏向"], "tags": ["彩妆"] }
+      ]
+    },
+    {
+      "id": "acquadiparma", "name": "帕尔玛之水", "nameEn": "Acqua di Parma", "domain": "acquadiparma.com.cn",
+      "categoryId": "高奢", "tags": ["意大利黄标", "Colonial", "LVMH系"], "slogan": "The Art of Italian Living",
+      "desc": "1916年帕尔玛的绅士古龙水:标志性黄色包装与手绘标签,意式优雅的嗅觉名片。",
+      "story": "1916年Carlo Magnani 在帕尔玛制 Colonia 古龙水,成为意式绅士的标配。好莱坞黄金时代与意式 Tailoring 文化的见证者,「Colonia」是它在伦敦萨维尔街的外号。\n2016年并入 LVMH,Blu Mediterraneo 蓝色地中海线亲民热卖。",
+      "categoryId": "beauty", "country": "意大利", "founded": 1916, "hq": "帕尔玛",
+      "products": [
+        { "id": "acquadiparma-colonia", "name": "经典古龙水", "nameEn": "Colonia", "type": "香水", "price": { "min": 1000, "max": 2200, "label": "专柜参考价" }, "desc": "1916年配方,西西里柑橘与英式薰衣草的绅士签名。", "highlights": ["绅士签名", "1916配方"], "tags": ["香水"] },
+        { "id": "acquadiparma-blu", "name": "蓝色地中海系列", "nameEn": "Blu Mediterraneo", "type": "香水", "price": { "min": 800, "max": 1600, "label": "专柜参考价" }, "desc": "阿玛菲无花果等度假系列,地中海的阳光。", "highlights": ["度假系列", "地中海"], "tags": ["香水"] },
+        { "id": "acquadiparma-candle", "name": "家居香薰", "nameEn": "Home Fragrance", "type": "香薰", "price": { "min": 600, "max": 1200, "label": "专柜参考价" }, "desc": "黑黄配色的室内香氛,意式客厅。", "highlights": ["意式客厅", "黑黄配色"], "tags": ["家居"] },
+        { "id": "acquadiparma-leather", "name": "皮革系列", "nameEn": "Leather Collection", "type": "香水", "price": { "min": 1500, "max": 3000, "label": "专柜参考价" }, "desc": "Colonia Leather 皮革线,西装革履的味道。", "highlights": ["皮革线", "西装"], "tags": ["香水"] },
+        { "id": "acquadiparma-bag", "name": "旅行香氛套装", "nameEn": "Travel Set", "type": "礼盒", "price": { "min": 800, "max": 1600, "label": "专柜参考价" }, "desc": "黄标旅行喷雾套装,差旅绅士的标配。", "highlights": ["差旅标配", "黄标"], "tags": ["礼盒"] }
+      ]
+    },
+    {
+      "id": "penhaligons", "name": "潘海利根", "nameEn": "Penhaligon's", "domain": "penhaligons.com",
+      "categoryId": "高奢", "tags": ["英伦皇室", "兽首", "曲奇店"], "slogan": "The quirky British house",
+      "desc": "1870年康沃尔理发师William Penhaligon 创立的英伦怪趣香氛:兽首雕像系列是近年最出圈的沙龙香。",
+      "story": "1870年理发师Penhaligon在伦敦 Jermyn Street 开店,第一瓶香 Hammam Bouquet 灵感来自土耳其浴。兽首系列(The Portraits)以贵族家族为原型,狐狸、狮子、孔雀头像火遍亚洲。\n如今属 Puig 集团,皇室认证加持。",
+      "categoryId": "beauty", "country": "英国", "founded": 1870, "hq": "伦敦",
+      "products": [
+        { "id": "penhaligons-fox", "name": "狐狸兽首(露西尔)", "nameEn": "The Tragedy of Lord George", "type": "香水", "price": { "min": 1600, "max": 3200, "label": "专柜参考价" }, "desc": "兽首系列的爆款主角,甜咸交织的贵族气。", "highlights": ["兽首爆款", "贵族气"], "tags": ["香水"] },
+        { "id": "penhaligons-hammam", "name": "土耳其浴场", "nameEn": "Hammam Bouquet", "type": "香水", "price": { "min": 1400, "max": 2800, "label": "专柜参考价" }, "desc": "1872年的第一瓶香,玫瑰与香料的蒸汽浴室。", "highlights": ["第一瓶香", "蒸汽玫瑰"], "tags": ["香水"] },
+        { "id": "penhaligons-halfeti", "name": "黑玫瑰海菲缇", "nameEn": "Halfeti", "type": "香水", "price": { "min": 1600, "max": 3200, "label": "专柜参考价" }, "desc": "土耳其黑玫瑰,浓郁神秘的东方调。", "highlights": ["黑玫瑰", "东方调"], "tags": ["香水"] },
+        { "id": "penhaligons-luna", "name": "月亮女神", "nameEn": "Luna", "type": "香水", "price": { "min": 1200, "max": 2400, "label": "专柜参考价" }, "desc": "清冷月光下的白玫瑰,送初恋不会错。", "highlights": ["清冷月光", "初恋"], "tags": ["香水"] },
+        { "id": "penhaligons-candle", "name": "兽首香薰蜡烛", "nameEn": "Portrait Candle", "type": "香薰蜡烛", "price": { "min": 600, "max": 1200, "label": "专柜参考价" }, "desc": "兽首同香蜡烛,客厅的英伦角落。", "highlights": ["兽首同香", "英伦客厅"], "tags": ["家居"] }
+      ]
+    },
+    {
+      "id": "sergelutens", "name": "芦丹氏", "nameEn": "Serge Lutens", "domain": "sergelutens.com",
+      "categoryId": "高奢", "tags": ["沙龙香", "黑色瓶身", "资生堂系"], "slogan": "À bout de mots, à bout de souffle",
+      "desc": "1980年代为资生堂打造形象的天才 Serge Lutens 的同名沙龙香:柏林少女、孤女、修女,名字就是文学。",
+      "story": "Serge Lutens 是资生堂美学的缔造者之一,2000年以自己名字推出沙龙线,巴黎 Palais Royal 药房店是朝圣地。La Fille d'air(孤女)、Vetiver Oriental 等作品名字如诗。\n方瓶黑标与戏剧化命名是它的签名。",
+      "categoryId": "beauty", "country": "法国", "founded": 2000, "hq": "巴黎",
+      "products": [
+        { "id": "sergelutens-berlin", "name": "柏林少女", "nameEn": "La Fille de Berlin", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "带刺的红玫瑰,「每一根刺都是我的骄傲」。", "highlights": ["带刺玫瑰", "骄傲宣言"], "tags": ["香水"] },
+        { "id": "sergelutens-lorpheline", "name": "孤女", "nameEn": "L'Orpheline", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "焚香与乳香的冷冽孤儿感。", "highlights": ["焚香乳香", "冷冽"], "tags": ["香水"] },
+        { "id": "sergelutens-chergui", "name": "切格尔", "nameEn": "Chergui", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "摩洛哥沙漠热风的烟草蜜糖。", "highlights": ["沙漠热风", "烟草蜜糖"], "tags": ["香水"] },
+        { "id": "sergelutens-femmedu", "name": "柏木处境", "nameEn": "Feminité du Bois", "type": "香水", "price": { "min": 900, "max": 1800, "label": "专柜参考价" }, "desc": "「女性气质的木头」,雪松梅子改变了整个行业。", "highlights": ["行业改变者", "雪松梅子"], "tags": ["香水"] },
+        { "id": "sergelutens-amber", "name": "琥珀琉璃蜡烛", "nameEn": "Amber Candle", "type": "香薰蜡烛", "price": { "min": 500, "max": 1000, "label": "专柜参考价" }, "desc": "品牌招牌琥珀的蜡烛形态,暗调客厅。", "highlights": ["招牌琥珀", "暗调"], "tags": ["家居"] }
+      ]
+    },
+    {
+      "id": "nivea", "name": "妮维雅", "nameEn": "NIVEA", "domain": "nivea.com.cn",
+      "categoryId": "beauty", "country": "德国", "founded": 1911, "hq": "汉堡",
+      "tier": "大众", "tags": ["蓝罐", "身体护理", "拜尔斯道夫"], "slogan": "她的信任,我们的骄傲",
+      "desc": "1911年世界第一支长效护肤霜:蓝罐 NIVEA Creme 是全球家庭共同的皮肤记忆。",
+      "story": "1911年Beiersdorf公司推出 NIVEA(拉丁语「雪白」),蓝罐铁盒1914年诞生并沿用至今。学生党秋冬护手霜、男 士须后水皆是开架之王。\n如今属拜尔斯道夫,全球销售超170国。",
+      "products": [
+        { "id": "nivea-cream", "name": "蓝罐润肤霜", "nameEn": "NIVEA Creme", "type": "润肤霜", "price": { "min": 15, "max": 60, "label": "零售参考价" }, "desc": "百年蓝罐,全家从头擦到脚的万能霜。", "highlights": ["百年蓝罐", "万能霜"], "tags": ["身体"] },
+        { "id": "nivea-hand", "name": "护手霜", "nameEn": "Hand Cream", "type": "护手霜", "price": { "min": 10, "max": 40, "label": "零售参考价" }, "desc": "学生党人手一支的秋冬护手。", "highlights": ["人手一支", "秋冬"], "tags": ["手部"] },
+        { "id": "nivea-men", "name": "男士须后水/洁面", "nameEn": "Men Care", "type": "男士护肤", "price": { "min": 30, "max": 100, "label": "零售参考价" }, "desc": "德国男士护理线,须后舒缓是招牌。", "highlights": ["男士线", "须后舒缓"], "tags": ["男士"] },
+        { "id": "nivea-lip", "name": "润唇膏", "nameEn": "Lip Balm", "type": "润唇膏", "price": { "min": 10, "max": 30, "label": "零售参考价" }, "desc": "果味润唇的童年记忆。", "highlights": ["果味", "童年记忆"], "tags": ["唇部"] },
+        { "id": "nivea-sun", "name": "防晒系列", "nameEn": "Sun Care", "type": "防晒", "price": { "min": 60, "max": 200, "label": "零售参考价" }, "desc": "欧洲防晒技术下放,水感防晒平价大碗。", "highlights": ["欧洲技术", "平价大碗"], "tags": ["防晒"] }
+      ]
+    },
+    {
+      "id": "dovebody", "name": "多芬", "nameEn": "Dove", "domain": "dove.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1957, "hq": "鹿特丹/伦敦",
+      "tier": "大众", "tags": ["真美运动", "沐浴露", "联合利华"], "slogan": "Real Beauty(真美运动)",
+      "desc": "联合利华的个人护理旗舰:四分之一润肤乳的香块起家,「真美运动」重塑了广告业的审美叙事。",
+      "story": "1957年Dove香块以「四分之一润肤乳」的温和承诺上市,2004年「Real Beauty」广告让真实身材模特登上 Billboard,成为营销史的分水岭。\n沐浴露、洗发水、身体乳全线开架霸榜。",
+      "products": [
+        { "id": "dovebody-bodywash", "name": "沐浴露", "nameEn": "Body Wash", "type": "沐浴露", "price": { "min": 25, "max": 70, "label": "零售参考价" }, "desc": "四分之一润肤乳配方,洗后不干的家庭装。", "highlights": ["1/4润肤乳", "不干"], "tags": ["洗护"] },
+        { "id": "dovebody-bar", "name": "经典香块", "nameEn": "Beauty Bar", "type": "香皂", "price": { "min": 10, "max": 40, "label": "零售参考价" }, "desc": "1957年的起点,温和洁面皂的鼻祖。", "highlights": ["1957起点", "温和鼻祖"], "tags": ["洗护"] },
+        { "id": "dovebody-shampoo", "name": "洗发水", "nameEn": "Shampoo", "type": "洗发水", "price": { "min": 30, "max": 80, "label": "零售参考价" }, "desc": "密集滋养系列,受损发质的修护线。", "highlights": ["密集滋养", "修护"], "tags": ["洗护"] },
+        { "id": "dovebody-lotion", "name": "身体乳", "nameEn": "Body Lotion", "type": "身体乳", "price": { "min": 25, "max": 70, "label": "零售参考价" }, "desc": "大碗好用的秋冬身体乳,干皮救星。", "highlights": ["大碗", "干皮救星"], "tags": ["身体"] },
+        { "id": "dovebody-deo", "name": "止汗走珠", "nameEn": "Deodorant", "type": "止汗露", "price": { "min": 20, "max": 60, "label": "零售参考价" }, "desc": "48小时止汗,夏日通勤必备。", "highlights": ["48小时", "夏日必备"], "tags": ["身体"] }
+      ]
+    },
+    {
+      "id": "vaseline", "name": "凡士林", "nameEn": "Vaseline", "domain": "vaseline.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1872, "hq": "新泽西",
+      "tier": "大众", "tags": ["凡士林晶冻", "修复", "联合利华"], "slogan": "Keep skin healthy",
+      "desc": "1872年Robert Chesebrough 从石油中提炼的「凡士林晶冻」,百年伤口护理与保湿的万能白。",
+      "story": "1872年化学家 Chesebrough 发现石油工人在用「棒子油」疗伤,提炼出 petrolatum 并以身试药。凡士林晶冻成为美国家庭药箱与化妆台的百年常客。\n「凡士林」几乎成为晶冻类产品的代名词。",
+      "products": [
+        { "id": "vaseline-jelly", "name": "凡士林晶冻", "nameEn": "Petroleum Jelly", "type": "润肤膏", "price": { "min": 15, "max": 50, "label": "零售参考价" }, "desc": "万能修护晶冻,从嘴唇到脚后跟。", "highlights": ["万能修护", "百年晶冻"], "tags": ["身体"] },
+        { "id": "vaseline-lip", "name": "润唇膏", "nameEn": "Lip Therapy", "type": "润唇膏", "price": { "min": 15, "max": 40, "label": "零售参考价" }, "desc": "小铁罐 Rosy Lips,嘴唇干裂急救。", "highlights": ["小铁罐", "急救"], "tags": ["唇部"] },
+        { "id": "vaseline-lotion", "name": "身体乳", "nameEn": "Intensive Care Lotion", "type": "身体乳", "price": { "min": 25, "max": 70, "label": "零售参考价" }, "desc": "燕麦修护大碗身体乳,冬天全身涂不心疼。", "highlights": ["燕麦修护", "大碗"], "tags": ["身体"] },
+        { "id": "vaseline-hand", "name": "护手霜", "nameEn": "Hand Cream", "type": "护手霜", "price": { "min": 15, "max": 40, "label": "零售参考价" }, "desc": "速干不油腻,办公室常备。", "highlights": ["速干", "办公室"], "tags": ["手部"] },
+        { "id": "vaseline-bodyserum", "name": "身体精华", "nameEn": "Body Serum", "type": "身体精华", "price": { "min": 60, "max": 120, "label": "零售参考价" }, "desc": "把「精华」概念带入身体护理的新线。", "highlights": ["新概念", "身体精华"], "tags": ["身体"] }
+      ]
+    },
+    {
+      "id": "neutrogena", "name": "露得清", "nameEn": "Neutrogena", "domain": "neutrogena.com.cn",
+      "categoryId": "beauty", "country": "美国", "founded": 1930, "hq": "洛杉矶",
+      "tier": "大众", "tags": ["药妆", "A醇鼻祖", "Kenvue系"], "slogan": "Best-selling #1 dermatologist recommended",
+      "desc": "1930年 Emanuel Stolaroff 的 cosmetics 公司,「不引发粉刺」的温和洁面与A醇鼻祖的皮肤科学定位。",
+      "story": "1930年创立于洛杉矶,1960年代荷兰护肤科学家 Edana 为其带来透明皂配方,「No.1皮肤科医生推荐」成为品牌标签。维A醇抗皱霜是药妆抗老的起点。\n2023年随强生消费者健康拆分为 Kenvue。",
+      "products": [
+        { "id": "neutrogena-retinol", "name": "维A醇抗皱修护霜", "nameEn": "Rapid Wrinkle Repair", "type": "抗老面霜", "price": { "min": 120, "max": 250, "label": "零售参考价" }, "desc": "A醇抗老的鼻祖级单品,入门抗皱首选。", "highlights": ["A醇鼻祖", "入门抗皱"], "tags": ["抗老"] },
+        { "id": "neutrogena-cleanser", "name": "温和洁面乳", "nameEn": "Gentle Cleanser", "type": "洁面", "price": { "min": 50, "max": 100, "label": "零售参考价" }, "desc": "不致粉刺配方,敏感肌可用。", "highlights": ["不致粉刺", "敏感可用"], "tags": ["洁面"] },
+        { "id": "neutrogena-sunscreen", "name": "清透防晒", "nameEn": "Ultra Sheer", "type": "防晒", "price": { "min": 80, "max": 150, "label": "零售参考价" }, "desc": "Helioplex 稳定技术,轻薄高倍防晒。", "highlights": ["Helioplex", "轻薄高倍"], "tags": ["防晒"] },
+        { "id": "neutrogena-hand", "name": "挪威配方护手霜", "nameEn": "Norwegian Formula", "type": "护手霜", "price": { "min": 30, "max": 80, "label": "零售参考价" }, "desc": "高浓度甘油浓缩,一支顶一月。", "highlights": ["高浓度甘油", "浓缩"], "tags": ["手部"] },
+        { "id": "neutrogena-hydro", "name": "水活保湿凝胶", "nameEn": "Hydro Boost", "type": "保湿", "price": { "min": 100, "max": 200, "label": "零售参考价" }, "desc": "玻尿酸啫喱质地,油皮保湿清爽款。", "highlights": ["玻尿酸", "油皮清爽"], "tags": ["保湿"] }
+      ]
+    },
+    {
+      "id": "schwarzkopf", "name": "施华蔻", "nameEn": "Schwarzkopf", "domain": "schwarzkopf.com.cn",
+      "categoryId": "beauty", "country": "德国", "founded": 1898, "hq": "汉堡",
+      "tier": "大众", "tags": ["染发", "专业美发", "汉高系"], "slogan": "You are your best stylist",
+      "desc": "1898年柏林药房起家的美发百年品牌:从世界第一支液体香波到国民染发剂泡泡染发乳。",
+      "story": "1898年Hermann Schwarzkopf 在柏林创办,1903年推出世界第一支液体香波 Schaumpon。染发业务是招牌:Fancy 彩色染发剂与泡泡染发乳让在家染发成为潮流。\n隶属汉高集团,专业线与家用线并重。",
+      "products": [
+        { "id": "schwarzkopf-bubble", "name": "泡泡染发乳", "nameEn": "Bubble Color", "type": "染发剂", "price": { "min": 60, "max": 120, "label": "零售参考价" }, "desc": "泡沫染发国民款,在家染发的第一支。", "highlights": ["泡沫染发", "国民款"], "tags": ["染发"] },
+        { "id": "schwarzkopf-shampoo", "name": "洗发水系列", "nameEn": "Shampoo", "type": "洗发水", "price": { "min": 30, "max": 90, "label": "零售参考价" }, "desc": "多效修护与控油蓬松线,德国洗护的日常。", "highlights": ["多效修护", "控油蓬松"], "tags": ["洗护"] },
+        { "id": "schwarzkopf-treatment", "name": "发膜/护发素", "nameEn": "Hair Treatment", "type": "护发", "price": { "min": 40, "max": 120, "label": "零售参考价" }, "desc": "8秒水发膜等懒人护发神器。", "highlights": ["8秒水膜", "懒人"], "tags": ["护发"] },
+        { "id": "schwarzkopf-styling", "name": "造型喷雾", "nameEn": "Styling Spray", "type": "造型", "price": { "min": 40, "max": 120, "label": "零售参考价" }, "desc": "定型喷雾与发蜡,专业线下放。", "highlights": ["定型", "专业下放"], "tags": ["造型"] },
+        { "id": "schwarzkopf-pro", "name": "专业线 IGORA", "nameEn": "IGORA", "type": "专业染发", "price": { "min": 100, "max": 300, "label": "沙龙参考价" }, "desc": "理发店用专业染膏, Tony 老师的弹药库。", "highlights": ["沙龙用", "专业线"], "tags": ["专业"] }
+      ]
+    },
+    {
+      "id": "kerastase", "name": "卡诗", "nameEn": "Kérastase", "domain": "kerastase.com.cn",
+      "categoryId": "中档", "tags": ["高端洗护", "鱼子酱", "欧莱雅系"], "slogan": "Sublimating hair since 1964",
+      "desc": "1964年巴黎创的高端专业洗护:鱼子酱、黑钻凝时系列把洗头发做成沙龙仪式。",
+      "story": "1964年François Dalle(欧莱雅)创立,首发于法国高端沙龙。发膜仪式+按摩手法让「护发」从步骤变成享受。鱼子酱精粹系列是婚宴级送礼硬通货。\n欧莱雅集团专业美发部旗舰,tony 老师们的进阶课代表。",
+      "categoryId": "beauty", "country": "法国", "founded": 1964, "hq": "巴黎",
+      "products": [
+        { "id": "kerastase-caviar", "name": "鱼子酱洗发水", "nameEn": "Bain Caviar", "type": "洗发水", "price": { "min": 300, "max": 500, "label": "专柜参考价" }, "desc": "黑钻凝时系列,贵妇洗护的具象化。", "highlights": ["黑钻凝时", "贵妇洗护"], "tags": ["洗护"] },
+        { "id": "kerastase-mask", "name": "鱼子酱发膜", "nameEn": "Masque Caviar", "type": "发膜", "price": { "min": 400, "max": 700, "label": "专柜参考价" }, "desc": "沙龙级深层修护,受损烫染的救赎。", "highlights": ["沙龙级", "烫染救赎"], "tags": ["护发"] },
+        { "id": "kerastase-oil", "name": "神仙精油", "nameEn": "Elixir Ultime", "type": "护发精油", "price": { "min": 300, "max": 500, "label": "专柜参考价" }, "desc": "四油调和的护发精油,毛躁救星。", "highlights": ["四油调和", "毛躁救星"], "tags": ["护发"] },
+        { "id": "kerastase-blond", "name": " BLONDE ABSOLU 漂发线", "nameEn": "Blond Absolu", "type": "洗发水", "price": { "min": 280, "max": 450, "label": "专柜参考价" }, "desc": "专为漂金发设计,去黄固色。", "highlights": ["漂发专用", "去黄固色"], "tags": ["洗护"] },
+        { "id": "kerastase-genifique", "name": "头皮精华", "nameEn": "Initialiste", "type": "头皮精华", "price": { "min": 400, "max": 650, "label": "专柜参考价" }, "desc": "把「精华」概念带入头皮,发根强韧。", "highlights": ["头皮精华", "发根强韧"], "tags": ["护发"] }
+      ]
+    }
+  ]
+}
