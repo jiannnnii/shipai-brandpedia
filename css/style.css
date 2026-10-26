@@ -63,8 +63,10 @@ svg{flex:none;display:block}
 }
 @keyframes viewIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 @keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
 @keyframes pop{0%{transform:scale(.7);opacity:0}60%{transform:scale(1.15)}100%{transform:scale(1);opacity:1}}
 .stagger{animation:fadeUp .45s var(--ease) both}
+.m-stagger{animation:fadeIn .5s var(--ease) both}
 
 /* ---------- 顶部导航(子页面) ---------- */
 .subhead{
@@ -337,8 +339,9 @@ svg{flex:none;display:block}
 .verify-box .vb-res{margin-top:10px;font-size:13px;color:var(--ink2);line-height:1.85;white-space:pre-wrap}
 
 /* ---------- 探索(瀑布流) ---------- */
-.masonry{columns:2;column-gap:12px}
-.masonry .prod-card{display:flex;flex-direction:column;margin-bottom:12px;break-inside:avoid;padding:10px}
+.masonry{display:flex;gap:12px;align-items:flex-start}
+.masonry .m-col{flex:1;min-width:0;display:grid;gap:12px;align-content:start}
+.masonry .prod-card{display:flex;flex-direction:column;margin-bottom:0;padding:10px}
 .masonry .prod-media{width:100%;height:auto;aspect-ratio:1/1}
 .masonry .prod-body{padding:8px 4px 4px}
 .masonry .prod-name{font-size:15.5px}

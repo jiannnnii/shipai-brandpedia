@@ -502,13 +502,17 @@ function viewExplore() {
       ${cats.map(c => `<button class="chip ${ui.exploreCat === c.id ? 'on' : ''}" data-act="ex-cat" data-val="${esc(c.id)}">${esc(c.name)}</button>`).join('')}
       <button class="chip" style="margin-left:auto;background:var(--ink);color:var(--bg);border-color:var(--ink)" data-act="random">🎲 随便逛逛</button>
     </div>
-    <div class="masonry" id="masonry"></div>
+    <div class="masonry" id="masonry">
+      <div class="m-col" id="mcol0"></div>
+      <div class="m-col" id="mcol1"></div>
+    </div>
     <div id="sentinel"></div>
     <p class="empty-tip" id="exEmpty" style="display:none">这个分类还没有产品</p>
   `, false);
 
   exploreShown = 0;
-  qs('#masonry').innerHTML = '';
+  qs('#mcol0').innerHTML = '';
+  qs('#mcol1').innerHTML = '';
   renderMore();
   if (exploreIO) exploreIO.disconnect();
   exploreIO = new IntersectionObserver(entries => {
@@ -528,15 +532,17 @@ function explorePool() {
 
 function renderMore() {
   const pool = explorePool();
-  const m = qs('#masonry'); if (!m) return;
+  const cols = [qs('#mcol0'), qs('#mcol1')];
+  if (!cols[0] || !cols[1]) return;
   const chunk = pool.slice(exploreShown, exploreShown + PAGE);
   if (!pool.length) qs('#exEmpty').style.display = 'block';
   if (!chunk.length) return;
-  m.insertAdjacentHTML('beforeend', chunk.map(p => prodCard(p, true)).join(''));
-  const cards = qsa('#masonry > .prod-card');
-  cards.slice(-chunk.length).forEach((el, i) => {
+  chunk.forEach((p, i) => {
+    const col = cols[(exploreShown + i) % 2];
+    col.insertAdjacentHTML('beforeend', prodCard(p, true));
+    const el = col.lastElementChild;
     el.classList.add('stagger');
-    el.style.animationDelay = Math.min(i * 26, 320) + 'ms';
+    el.style.animationDelay = Math.min(i * 30, 320) + 'ms';
   });
   exploreShown += chunk.length;
 }
