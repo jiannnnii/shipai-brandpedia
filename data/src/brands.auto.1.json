@@ -88,7 +88,7 @@
       ]
     },
     {
-      "id": "porsche", "name": "保时捷", "nameEn": "Porsche", "domain": "porsche.com/china",
+      "id": "porsche", "name": "保时捷", "nameEn": "Porsche", "domain": "porsche.com",
       "categoryId": "auto", "country": "德国", "founded": 1931, "hq": "斯图加特",
       "tier": "顶奢", "tags": ["911", "赛道", "蛙灯"], "slogan": "There is no substitute(无可替代)",
       "desc": "911的六十年不朽传奇:蛙灯、后置引擎与水平对置六缸,跑车界唯一「不变即是进化」的品牌。",
