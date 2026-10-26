@@ -885,6 +885,22 @@ matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
 });
 window.addEventListener('hashchange', () => { renderRoute(); activateTab(); });
 
+// 安卓物理返回键:优先页内回退,首页再退出
+try {
+  import('@capacitor/app').then(({ App }) => {
+    App.addListener('backButton', () => {
+      const h = location.hash.replace(/^#\/?/, '');
+      if (h && !['home', 'explore', 'search', 'me', ''].includes(h)) {
+        history.back();
+      } else if (h) {
+        location.hash = '#/home';
+      } else {
+        App.exitApp();
+      }
+    });
+  }).catch(() => {});
+} catch {}
+
 view.innerHTML = `
   <div style="padding-top:40vh;display:grid;gap:14px;justify-items:center">
     <div class="wordmark" style="font-size:36px">识<em>牌</em></div>
