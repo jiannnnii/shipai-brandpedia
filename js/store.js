@@ -18,6 +18,7 @@ export const store = {
     model: 'glm-4.5-flash',
     remoteUrl: 'https://cdn.jsdelivr.net/gh/jiannnnii/shipai-brandpedia@master/data/index.json',
     onlineImg: true,
+    webFindImg: false,    // 联网找图(维基共享/Open Food Facts),默认关
   }, read('prefs', {})),
 };
 

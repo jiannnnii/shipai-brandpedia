@@ -1,0 +1,282 @@
+[
+ {
+  "id": "nio-es6",
+  "verdict": "ok",
+  "note": "蔚来ES6实车车展照,车头挂牌es6,与条目相符"
+ },
+ {
+  "id": "nio-es8",
+  "verdict": "ok",
+  "note": "全新蔚来ES8官方宣传照,背景标有NIO es8,相符"
+ },
+ {
+  "id": "nissan-sylphy",
+  "verdict": "ok",
+  "note": "日产轩逸白色实车照,格栅有NISSAN标,相符"
+ },
+ {
+  "id": "nissan-teana",
+  "verdict": "mismatch",
+  "note": "图为日产途达Terra越野SUV,并非天籁轿车"
+ },
+ {
+  "id": "nissan-qashqai",
+  "verdict": "mismatch",
+  "note": "图为日产途达Terra越野SUV,并非逍客"
+ },
+ {
+  "id": "nissan-xtrail",
+  "verdict": "mismatch",
+  "note": "图为元素周期表截图,与汽车无关"
+ },
+ {
+  "id": "nissan-patrol",
+  "verdict": "mismatch",
+  "note": "图为日产途达Terra,并非途乐全尺寸越野SUV"
+ },
+ {
+  "id": "nissan-gtr",
+  "verdict": "mismatch",
+  "note": "图为学校科研年会会场照片,与GT-R无关"
+ },
+ {
+  "id": "opel-corsa",
+  "verdict": "mismatch",
+  "note": "图为欧宝英速亚Insignia轿车,并非可赛小型两厢"
+ },
+ {
+  "id": "opel-astra",
+  "verdict": "mismatch",
+  "note": "图为欧宝英速亚Insignia轿车,并非雅特"
+ },
+ {
+  "id": "opel-insignia",
+  "verdict": "ok",
+  "note": "欧宝英速亚Insignia官方图,车牌GS810,相符"
+ },
+ {
+  "id": "opel-antara",
+  "verdict": "mismatch",
+  "note": "图为欧宝英速亚轿车,并非安德拉SUV"
+ },
+ {
+  "id": "opel-zafira",
+  "verdict": "mismatch",
+  "note": "图为欧宝英速亚轿车,并非赛飞利MPV"
+ },
+ {
+  "id": "pagani-utopia",
+  "verdict": "mismatch",
+  "note": "图为女生自拍照,与帕加尼Utopia无关"
+ },
+ {
+  "id": "pagani-huayra",
+  "verdict": "ok",
+  "note": "帕加尼Huayra R侧面图解,属Huayra车系,可认"
+ },
+ {
+  "id": "pagani-zonda",
+  "verdict": "mismatch",
+  "note": "图为Poki游戏平台宣传图,与Zonda无关"
+ },
+ {
+  "id": "pagani-huayrabc",
+  "verdict": "mismatch",
+  "note": "图为中国民航大学校徽字标,与Huayra BC无关"
+ },
+ {
+  "id": "pagani-codalunga",
+  "verdict": "mismatch",
+  "note": "图为工地土方作业照片,与Codalunga无关"
+ },
+ {
+  "id": "peugeot-2008",
+  "verdict": "mismatch",
+  "note": "图为标致307三厢轿车,并非2008小型SUV"
+ },
+ {
+  "id": "peugeot-408",
+  "verdict": "mismatch",
+  "note": "图为标致307三厢轿车,408为不同车系"
+ },
+ {
+  "id": "peugeot-408x",
+  "verdict": "mismatch",
+  "note": "图为标致307三厢轿车,并非408X跨界轿跑"
+ },
+ {
+  "id": "peugeot-508l",
+  "verdict": "mismatch",
+  "note": "图为标致307三厢轿车,并非508L中型轿车"
+ },
+ {
+  "id": "peugeot-4008",
+  "verdict": "ok",
+  "note": "标致4008 SUV实车图,前脸有4008标识,相符"
+ },
+ {
+  "id": "peugeot-5008",
+  "verdict": "mismatch",
+  "note": "图为标致307三厢轿车,并非5008中型SUV"
+ },
+ {
+  "id": "porsche-911",
+  "verdict": "logo",
+  "note": "仅保时捷盾徽与中文字标,无911车体"
+ },
+ {
+  "id": "porsche-cayenne",
+  "verdict": "ok",
+  "note": "黑色保时捷Cayenne实车照,相符"
+ },
+ {
+  "id": "porsche-taycan",
+  "verdict": "ok",
+  "note": "保时捷Mission E概念车侧身图,即Taycan前身,同车系可认"
+ },
+ {
+  "id": "porsche-panamera",
+  "verdict": "ok",
+  "note": "白色保时捷Panamera E-Hybrid官方侧身图,相符"
+ },
+ {
+  "id": "porsche-macan",
+  "verdict": "logo",
+  "note": "仅保时捷盾徽与中文字标,无Macan车体"
+ },
+ {
+  "id": "porsche-718",
+  "verdict": "mismatch",
+  "note": "图为电影《苦月亮》海报,与718无关"
+ },
+ {
+  "id": "renault-captur",
+  "verdict": "mismatch",
+  "note": "图为雷诺科雷傲蓝色实车照,并非卡缤小型SUV"
+ },
+ {
+  "id": "renault-kadjar",
+  "verdict": "mismatch",
+  "note": "图为雷诺科雷傲实车照,并非科雷嘉"
+ },
+ {
+  "id": "renault-koleos",
+  "verdict": "ok",
+  "note": "车展全新Renault KOLEOS科雷傲实车照,相符"
+ },
+ {
+  "id": "renault-talisman",
+  "verdict": "mismatch",
+  "note": "图为雷诺科雷傲SUV,并非塔利斯曼轿车"
+ },
+ {
+  "id": "renault-espace",
+  "verdict": "mismatch",
+  "note": "图为雷诺科雷傲SUV,并非Espace MPV"
+ },
+ {
+  "id": "renault-meganers",
+  "verdict": "mismatch",
+  "note": "图为雷诺科雷傲SUV,并非梅甘娜RS"
+ },
+ {
+  "id": "rollsroyce-phantom",
+  "verdict": "mismatch",
+  "note": "图为劳斯莱斯闪灵Spectre,并非幻影"
+ },
+ {
+  "id": "rollsroyce-ghost",
+  "verdict": "mismatch",
+  "note": "图为劳斯莱斯魅影黑徽双门轿跑,并非古思特四门轿车"
+ },
+ {
+  "id": "rollsroyce-wraith",
+  "verdict": "mismatch",
+  "note": "图为劳斯莱斯闪灵Spectre官方图,并非魅影"
+ },
+ {
+  "id": "rollsroyce-cullinan",
+  "verdict": "mismatch",
+  "note": "图为劳斯莱斯闪灵Spectre,并非库里南SUV"
+ },
+ {
+  "id": "rollsroyce-spectre",
+  "verdict": "ok",
+  "note": "劳斯莱斯闪灵Spectre官方图,相符"
+ },
+ {
+  "id": "seat-ibiza",
+  "verdict": "mismatch",
+  "note": "图为人体大腿肌肉解剖图,与Ibiza无关"
+ },
+ {
+  "id": "seat-leon",
+  "verdict": "mismatch",
+  "note": "图为黑色墙面纹理图,与Leon无关"
+ },
+ {
+  "id": "seat-arona",
+  "verdict": "mismatch",
+  "note": "图为3D卡通女孩形象,与Arona无关"
+ },
+ {
+  "id": "seat-ateca",
+  "verdict": "mismatch",
+  "note": "图为汉字「西」字源讲解图,与Ateca无关"
+ },
+ {
+  "id": "seat-tarraco",
+  "verdict": "mismatch",
+  "note": "图为元素周期表截图,与Tarraco无关"
+ },
+ {
+  "id": "skoda-octavia",
+  "verdict": "ok",
+  "note": "斯柯达明锐三厢官方图,相符"
+ },
+ {
+  "id": "skoda-superb",
+  "verdict": "ok",
+  "note": "斯柯达速派官方图,车牌处标速派,相符"
+ },
+ {
+  "id": "skoda-kamiq",
+  "verdict": "ok",
+  "note": "白色斯柯达柯米克SUV实车图,分体灯设计相符"
+ },
+ {
+  "id": "skoda-karoq",
+  "verdict": "mismatch",
+  "note": "图为斯柯达柯米克,并非柯珞克"
+ },
+ {
+  "id": "skoda-kodiaq",
+  "verdict": "mismatch",
+  "note": "图为斯柯达柯米克小型SUV,并非柯迪亚克中型七座"
+ },
+ {
+  "id": "subaru-xv",
+  "verdict": "ok",
+  "note": "斯巴鲁Crosstrek实车图,即更名后的XV旭豹,相符"
+ },
+ {
+  "id": "subaru-forester",
+  "verdict": "mismatch",
+  "note": "图为斯巴鲁Crosstrek(XV),并非森林人"
+ },
+ {
+  "id": "subaru-legacy",
+  "verdict": "mismatch",
+  "note": "图为斯巴鲁Crosstrek(XV),并非力狮轿车"
+ },
+ {
+  "id": "subaru-outback",
+  "verdict": "mismatch",
+  "note": "图为斯巴鲁Crosstrek(XV),并非傲虎旅行车"
+ },
+ {
+  "id": "subaru-brz",
+  "verdict": "ok",
+  "note": "银色斯巴鲁BRZ双门跑车实车图,相符"
+ }
+]

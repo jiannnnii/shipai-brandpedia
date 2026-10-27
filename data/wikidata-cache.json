@@ -1,0 +1,124 @@
+{
+ "aape": {
+  "qid": null,
+  "t": 1793137571204
+ },
+ "balabala": {
+  "site": "",
+  "founded": 0,
+  "country": "烏干達",
+  "hq": "",
+  "t": 1793137578380
+ },
+ "baleno": {
+  "site": "baleno.com",
+  "founded": 1996,
+  "country": "中华人民共和国",
+  "hq": "Kwai Tsing District",
+  "t": 1793137584741
+ },
+ "bananain": {
+  "qid": null,
+  "t": 1793137595169
+ },
+ "bape": {
+  "qid": null,
+  "t": 1793137603955
+ },
+ "bosideng": {
+  "site": "bosideng.com",
+  "founded": 1975,
+  "country": "People's Republic of China",
+  "hq": "Shanghai",
+  "t": 1793137609539
+ },
+ "ca": {
+  "site": "c-and-a.com",
+  "founded": 1841,
+  "country": "英国",
+  "hq": "维尔福德",
+  "t": 1793137617204
+ },
+ "camel": {
+  "site": "camelproductions.com",
+  "founded": 1971,
+  "country": "",
+  "hq": "",
+  "t": 1793137640333
+ },
+ "carhartt": {
+  "site": "carhartt.com",
+  "founded": 1889,
+  "country": "美國",
+  "hq": "迪爾伯恩",
+  "t": 1793137649068
+ },
+ "champion": {
+  "site": "myspace.com",
+  "founded": 1999,
+  "country": "",
+  "hq": "",
+  "t": 1793137656288
+ },
+ "clot": {
+  "qid": null,
+  "t": 1793137661990
+ },
+ "dickies": {
+  "site": "dickies.com",
+  "founded": 1918,
+  "country": "United States",
+  "hq": "沃思堡",
+  "t": 1793137672139
+ },
+ "erdos": {
+  "qid": null,
+  "t": 1793137717497
+ },
+ "evisu": {
+  "site": "evisu.com",
+  "founded": 1991,
+  "country": "日本",
+  "hq": "大阪市",
+  "t": 1793137730369
+ },
+ "fearofgod": {
+  "site": "fear-of-god.com",
+  "founded": 1991,
+  "country": "",
+  "hq": "",
+  "t": 1793137746637
+ },
+ "g-star-raw": {
+  "qid": null,
+  "t": 1793137762467
+ },
+ "gap": {
+  "site": "gap-system.org",
+  "founded": 1986,
+  "country": "",
+  "hq": "",
+  "t": 1793137769034
+ },
+ "giordano": {
+  "site": "giordano.com",
+  "founded": 1981,
+  "country": "英屬香港",
+  "hq": "Hong Kong",
+  "t": 1793137780952
+ },
+ "gu": {
+  "site": "gu-global.com",
+  "founded": 1950,
+  "country": "日本",
+  "hq": "山口市",
+  "t": 1793137787888
+ },
+ "hengyuanxiang": {
+  "site": "hyx1927.com",
+  "founded": 1927,
+  "country": "中华人民共和国",
+  "hq": "上海市",
+  "t": 1793137798686
+ }
+}

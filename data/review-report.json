@@ -1,0 +1,2510 @@
+{
+ "timestamp": "2026-10-28 05:32:09",
+ "total": 503,
+ "notFound": 493,
+ "fieldDiff": 7,
+ "ok": 3,
+ "errors": 0,
+ "items": [
+  {
+   "id": "aape",
+   "name": "AAPE",
+   "note": "Wikidata 未找到对应实体(AAPE BY A BATHING APE),建议人工核对"
+  },
+  {
+   "id": "balabala",
+   "name": "巴拉巴拉",
+   "note": "Wikidata 未找到对应实体(Balabala),建议人工核对"
+  },
+  {
+   "id": "baleno",
+   "name": "班尼路",
+   "note": "Wikidata 未找到对应实体(Baleno),建议人工核对"
+  },
+  {
+   "id": "bananain",
+   "name": "蕉内",
+   "note": "Wikidata 未找到对应实体(Bananain),建议人工核对"
+  },
+  {
+   "id": "bape",
+   "name": "安逸猿",
+   "note": "Wikidata 未找到对应实体(A BATHING APE),建议人工核对"
+  },
+  {
+   "id": "bosideng",
+   "name": "波司登",
+   "note": "Wikidata 未找到对应实体(Bosideng),建议人工核对"
+  },
+  {
+   "id": "ca",
+   "name": "C&A",
+   "note": "Wikidata 未找到对应实体(C&A),建议人工核对"
+  },
+  {
+   "id": "camel",
+   "name": "骆驼",
+   "note": "Wikidata 未找到对应实体(CAMEL),建议人工核对"
+  },
+  {
+   "id": "carhartt",
+   "name": "卡哈特",
+   "note": "Wikidata 未找到对应实体(Carhartt),建议人工核对"
+  },
+  {
+   "id": "champion",
+   "name": "冠军",
+   "note": "Wikidata 未找到对应实体(Champion),建议人工核对"
+  },
+  {
+   "id": "clot",
+   "name": "CLOT",
+   "note": "Wikidata 未找到对应实体(CLOT),建议人工核对"
+  },
+  {
+   "id": "dickies",
+   "name": "迪凯斯",
+   "note": "Wikidata 未找到对应实体(Dickies),建议人工核对"
+  },
+  {
+   "id": "erdos",
+   "name": "鄂尔多斯",
+   "note": "Wikidata 未找到对应实体(ERDOS),建议人工核对"
+  },
+  {
+   "id": "evisu",
+   "name": "福神",
+   "note": "Wikidata 未找到对应实体(EVISU),建议人工核对"
+  },
+  {
+   "id": "fearofgod",
+   "name": "Fear of God",
+   "note": "Wikidata 未找到对应实体(Fear of God),建议人工核对"
+  },
+  {
+   "id": "g-star-raw",
+   "name": "G-Star RAW",
+   "note": "Wikidata 未找到对应实体(G-Star RAW),建议人工核对"
+  },
+  {
+   "id": "gap",
+   "name": "盖璞",
+   "note": "Wikidata 未找到对应实体(GAP),建议人工核对"
+  },
+  {
+   "id": "giordano",
+   "name": "佐丹奴",
+   "note": "Wikidata 未找到对应实体(GIORDANO),建议人工核对"
+  },
+  {
+   "id": "gu",
+   "name": "GU",
+   "note": "Wikidata 未找到对应实体(GU),建议人工核对"
+  },
+  {
+   "id": "hengyuanxiang",
+   "name": "恒源祥",
+   "note": "Wikidata 未找到对应实体(Hengyuanxiang),建议人工核对"
+  },
+  {
+   "id": "hla",
+   "name": "海澜之家",
+   "note": "Wikidata 未找到对应实体(HLA),建议人工核对"
+  },
+  {
+   "id": "hm",
+   "name": "H&M",
+   "note": "Wikidata 未找到对应实体(H&M),建议人工核对"
+  },
+  {
+   "id": "hotwind",
+   "name": "热风",
+   "note": "Wikidata 未找到对应实体(hotwind),建议人工核对"
+  },
+  {
+   "id": "jackjones",
+   "name": "杰克琼斯",
+   "note": "Wikidata 未找到对应实体(Jack & Jones),建议人工核对"
+  },
+  {
+   "id": "jeanswest",
+   "name": "真维斯",
+   "note": "Wikidata 未找到对应实体(JEANSWEST),建议人工核对"
+  },
+  {
+   "id": "joeone",
+   "name": "九牧王",
+   "note": "Wikidata 未找到对应实体(Joeone),建议人工核对"
+  },
+  {
+   "id": "kith",
+   "name": "Kith",
+   "note": "Wikidata 未找到对应实体(Kith),建议人工核对"
+  },
+  {
+   "id": "lee",
+   "name": "李牌",
+   "note": "Wikidata 未找到对应实体(Lee),建议人工核对"
+  },
+  {
+   "id": "levis",
+   "name": "李维斯",
+   "note": "Wikidata 未找到对应实体(Levi's),建议人工核对"
+  },
+  {
+   "id": "markfairwhale",
+   "name": "马克华菲",
+   "note": "Wikidata 未找到对应实体(Mark Fairwhale),建议人工核对"
+  },
+  {
+   "id": "metersbonwe",
+   "name": "美特斯邦威",
+   "note": "Wikidata 未找到对应实体(Metersbonwe),建议人工核对"
+  },
+  {
+   "id": "moussy",
+   "name": "MOUSSY",
+   "note": "Wikidata 未找到对应实体(MOUSSY),建议人工核对"
+  },
+  {
+   "id": "neiwai",
+   "name": "内外",
+   "note": "Wikidata 未找到对应实体(NEIWAI),建议人工核对"
+  },
+  {
+   "id": "offwhite",
+   "name": "Off-White",
+   "note": "Wikidata 未找到对应实体(Off-White),建议人工核对"
+  },
+  {
+   "id": "only",
+   "name": "ONLY",
+   "note": "Wikidata 未找到对应实体(ONLY),建议人工核对"
+  },
+  {
+   "id": "palmangels",
+   "name": "Palm Angels",
+   "note": "Wikidata 未找到对应实体(Palm Angels),建议人工核对"
+  },
+  {
+   "id": "peacebird",
+   "name": "太平鸟",
+   "note": "Wikidata 未找到对应实体(PEACEBIRD),建议人工核对"
+  },
+  {
+   "id": "semir",
+   "name": "森马",
+   "note": "Wikidata 未找到对应实体(Semir),建议人工核对"
+  },
+  {
+   "id": "septwolves",
+   "name": "七匹狼",
+   "note": "Wikidata 未找到对应实体(SEPTWOLVES),建议人工核对"
+  },
+  {
+   "id": "skechers",
+   "name": "斯凯奇",
+   "note": "Wikidata 未找到对应实体(Skechers),建议人工核对"
+  },
+  {
+   "id": "stussy",
+   "name": "斯图西",
+   "note": "Wikidata 未找到对应实体(Stüssy),建议人工核对"
+  },
+  {
+   "id": "supreme",
+   "name": "Supreme",
+   "note": "Wikidata 未找到对应实体(Supreme),建议人工核对"
+  },
+  {
+   "id": "triumph",
+   "name": "黛安芬",
+   "note": "Wikidata 未找到对应实体(Triumph),建议人工核对"
+  },
+  {
+   "id": "ubras",
+   "name": "Ubras",
+   "note": "Wikidata 未找到对应实体(Ubras),建议人工核对"
+  },
+  {
+   "id": "uniqlo",
+   "name": "优衣库",
+   "note": "Wikidata 未找到对应实体(UNIQLO),建议人工核对"
+  },
+  {
+   "id": "urbanrevivo",
+   "name": "UR",
+   "note": "Wikidata 未找到对应实体(Urban Revivo),建议人工核对"
+  },
+  {
+   "id": "vero-moda",
+   "name": "VERO MODA",
+   "note": "Wikidata 未找到对应实体(VERO MODA),建议人工核对"
+  },
+  {
+   "id": "victoriassecret",
+   "name": "维多利亚的秘密",
+   "note": "Wikidata 未找到对应实体(Victoria's Secret),建议人工核对"
+  },
+  {
+   "id": "wacoal",
+   "name": "华歌尔",
+   "note": "Wikidata 未找到对应实体(Wacoal),建议人工核对"
+  },
+  {
+   "id": "wrangler",
+   "name": "威格",
+   "note": "Wikidata 未找到对应实体(Wrangler),建议人工核对"
+  },
+  {
+   "id": "yaya",
+   "name": "鸭鸭",
+   "note": "Wikidata 未找到对应实体(YAYA),建议人工核对"
+  },
+  {
+   "id": "yishion",
+   "name": "以纯",
+   "note": "Wikidata 未找到对应实体(YISHION),建议人工核对"
+  },
+  {
+   "id": "youngor",
+   "name": "雅戈尔",
+   "note": "Wikidata 未找到对应实体(Youngor),建议人工核对"
+  },
+  {
+   "id": "zara",
+   "name": "ZARA",
+   "note": "Wikidata 未找到对应实体(ZARA),建议人工核对"
+  },
+  {
+   "id": "acura",
+   "name": "讴歌",
+   "note": "Wikidata 未找到对应实体(Acura),建议人工核对"
+  },
+  {
+   "id": "aito",
+   "name": "问界",
+   "note": "Wikidata 未找到对应实体(AITO),建议人工核对"
+  },
+  {
+   "id": "alfa-romeo",
+   "name": "阿尔法·罗密欧",
+   "note": "Wikidata 未找到对应实体(Alfa Romeo),建议人工核对"
+  },
+  {
+   "id": "astonmartin",
+   "name": "阿斯顿·马丁",
+   "note": "Wikidata 未找到对应实体(Aston Martin),建议人工核对"
+  },
+  {
+   "id": "audi",
+   "name": "奥迪",
+   "note": "Wikidata 未找到对应实体(Audi),建议人工核对"
+  },
+  {
+   "id": "avatr",
+   "name": "阿维塔",
+   "note": "Wikidata 未找到对应实体(Avatr),建议人工核对"
+  },
+  {
+   "id": "bentley",
+   "name": "宾利",
+   "note": "Wikidata 未找到对应实体(Bentley),建议人工核对"
+  },
+  {
+   "id": "bmw",
+   "name": "宝马",
+   "note": "Wikidata 未找到对应实体(BMW),建议人工核对"
+  },
+  {
+   "id": "bmw-real",
+   "name": "宝马",
+   "note": "Wikidata 未找到对应实体(BMW),建议人工核对"
+  },
+  {
+   "id": "bugatti",
+   "name": "布加迪",
+   "note": "Wikidata 未找到对应实体(Bugatti),建议人工核对"
+  },
+  {
+   "id": "byd",
+   "name": "比亚迪",
+   "note": "Wikidata 未找到对应实体(BYD),建议人工核对"
+  },
+  {
+   "id": "cadillac",
+   "name": "凯迪拉克",
+   "note": "Wikidata 未找到对应实体(Cadillac),建议人工核对"
+  },
+  {
+   "id": "changan",
+   "name": "长安",
+   "note": "Wikidata 未找到对应实体(Changan),建议人工核对"
+  },
+  {
+   "id": "chery",
+   "name": "奇瑞",
+   "note": "Wikidata 未找到对应实体(Chery),建议人工核对"
+  },
+  {
+   "id": "citroen",
+   "name": "雪铁龙",
+   "note": "Wikidata 未找到对应实体(Citroën),建议人工核对"
+  },
+  {
+   "id": "ferrari",
+   "name": "法拉利",
+   "note": "Wikidata 未找到对应实体(Ferrari),建议人工核对"
+  },
+  {
+   "id": "fiat",
+   "name": "菲亚特",
+   "note": "Wikidata 未找到对应实体(FIAT),建议人工核对"
+  },
+  {
+   "id": "gac-trumpchi",
+   "name": "传祺",
+   "note": "Wikidata 未找到对应实体(GAC Trumpchi),建议人工核对"
+  },
+  {
+   "id": "geely",
+   "name": "吉利",
+   "note": "Wikidata 未找到对应实体(Geely),建议人工核对"
+  },
+  {
+   "id": "gwm",
+   "name": "长城",
+   "note": "Wikidata 未找到对应实体(GWM),建议人工核对"
+  },
+  {
+   "id": "honda",
+   "name": "本田",
+   "note": "Wikidata 未找到对应实体(Honda),建议人工核对"
+  },
+  {
+   "id": "hongqi",
+   "name": "红旗",
+   "note": "Wikidata 未找到对应实体(Hongqi),建议人工核对"
+  },
+  {
+   "id": "hyundai",
+   "name": "现代",
+   "note": "Wikidata 未找到对应实体(Hyundai),建议人工核对"
+  },
+  {
+   "id": "im-motors",
+   "name": "智己",
+   "note": "Wikidata 未找到对应实体(IM Motors),建议人工核对"
+  },
+  {
+   "id": "infiniti",
+   "name": "英菲尼迪",
+   "note": "Wikidata 未找到对应实体(INFINITI),建议人工核对"
+  },
+  {
+   "id": "jaguar",
+   "name": "捷豹",
+   "note": "Wikidata 未找到对应实体(Jaguar),建议人工核对"
+  },
+  {
+   "id": "kia",
+   "name": "起亚",
+   "note": "Wikidata 未找到对应实体(Kia),建议人工核对"
+  },
+  {
+   "id": "koenigsegg",
+   "name": "科尼塞克",
+   "note": "Wikidata 未找到对应实体(Koenigsegg),建议人工核对"
+  },
+  {
+   "id": "lamborghini",
+   "name": "兰博基尼",
+   "note": "Wikidata 未找到对应实体(Lamborghini),建议人工核对"
+  },
+  {
+   "id": "landrover",
+   "name": "路虎",
+   "note": "Wikidata 未找到对应实体(Land Rover),建议人工核对"
+  },
+  {
+   "id": "lexus",
+   "name": "雷克萨斯",
+   "note": "Wikidata 未找到对应实体(Lexus),建议人工核对"
+  },
+  {
+   "id": "li-auto",
+   "name": "理想",
+   "note": "Wikidata 未找到对应实体(Li Auto),建议人工核对"
+  },
+  {
+   "id": "lincoln",
+   "name": "林肯",
+   "note": "Wikidata 未找到对应实体(Lincoln),建议人工核对"
+  },
+  {
+   "id": "lynk-co",
+   "name": "领克",
+   "note": "Wikidata 未找到对应实体(Lynk & Co),建议人工核对"
+  },
+  {
+   "id": "maserati",
+   "name": "玛莎拉蒂",
+   "note": "Wikidata 未找到对应实体(Maserati),建议人工核对"
+  },
+  {
+   "id": "maybach",
+   "name": "迈巴赫",
+   "note": "Wikidata 未找到对应实体(Maybach),建议人工核对"
+  },
+  {
+   "id": "mazda",
+   "name": "马自达",
+   "note": "Wikidata 未找到对应实体(Mazda),建议人工核对"
+  },
+  {
+   "id": "mclaren",
+   "name": "迈凯伦",
+   "note": "Wikidata 未找到对应实体(McLaren),建议人工核对"
+  },
+  {
+   "id": "mercedesbenz",
+   "name": "奔驰",
+   "note": "Wikidata 未找到对应实体(Mercedes-Benz),建议人工核对"
+  },
+  {
+   "id": "mitsubishi",
+   "name": "三菱",
+   "note": "Wikidata 未找到对应实体(Mitsubishi Motors),建议人工核对"
+  },
+  {
+   "id": "nio",
+   "name": "蔚来",
+   "note": "Wikidata 未找到对应实体(NIO),建议人工核对"
+  },
+  {
+   "id": "nissan",
+   "name": "日产",
+   "note": "Wikidata 未找到对应实体(Nissan),建议人工核对"
+  },
+  {
+   "id": "opel",
+   "name": "欧宝",
+   "note": "Wikidata 未找到对应实体(Opel),建议人工核对"
+  },
+  {
+   "id": "pagani",
+   "name": "帕加尼",
+   "note": "Wikidata 未找到对应实体(Pagani),建议人工核对"
+  },
+  {
+   "id": "peugeot",
+   "name": "标致",
+   "note": "Wikidata 未找到对应实体(Peugeot),建议人工核对"
+  },
+  {
+   "id": "porsche",
+   "name": "保时捷",
+   "note": "Wikidata 未找到对应实体(Porsche),建议人工核对"
+  },
+  {
+   "id": "renault",
+   "name": "雷诺",
+   "note": "Wikidata 未找到对应实体(Renault),建议人工核对"
+  },
+  {
+   "id": "rollsroyce",
+   "name": "劳斯莱斯",
+   "note": "Wikidata 未找到对应实体(Rolls-Royce),建议人工核对"
+  },
+  {
+   "id": "seat",
+   "name": "西雅特",
+   "note": "Wikidata 未找到对应实体(SEAT),建议人工核对"
+  },
+  {
+   "id": "skoda",
+   "name": "斯柯达",
+   "note": "Wikidata 未找到对应实体(Škoda),建议人工核对"
+  },
+  {
+   "id": "subaru",
+   "name": "斯巴鲁",
+   "note": "Wikidata 未找到对应实体(Subaru),建议人工核对"
+  },
+  {
+   "id": "suzuki",
+   "name": "铃木",
+   "note": "Wikidata 未找到对应实体(Suzuki),建议人工核对"
+  },
+  {
+   "id": "tesla",
+   "name": "特斯拉",
+   "note": "Wikidata 未找到对应实体(Tesla),建议人工核对"
+  },
+  {
+   "id": "toyota",
+   "name": "丰田",
+   "note": "Wikidata 未找到对应实体(Toyota),建议人工核对"
+  },
+  {
+   "id": "volkswagen",
+   "name": "大众",
+   "note": "Wikidata 未找到对应实体(Volkswagen),建议人工核对"
+  },
+  {
+   "id": "volvo",
+   "name": "沃尔沃",
+   "note": "Wikidata 未找到对应实体(Volvo Cars),建议人工核对"
+  },
+  {
+   "id": "voyah",
+   "name": "岚图",
+   "note": "Wikidata 未找到对应实体(Voyah),建议人工核对"
+  },
+  {
+   "id": "wuling",
+   "name": "五菱",
+   "note": "Wikidata 未找到对应实体(Wuling),建议人工核对"
+  },
+  {
+   "id": "xiaomi-auto",
+   "name": "小米汽车",
+   "note": "Wikidata 未找到对应实体(Xiaomi Auto),建议人工核对"
+  },
+  {
+   "id": "xpeng",
+   "name": "小鹏",
+   "note": "Wikidata 未找到对应实体(XPeng),建议人工核对"
+  },
+  {
+   "id": "zeekr",
+   "name": "极氪",
+   "note": "Wikidata 未找到对应实体(ZEEKR),建议人工核对"
+  },
+  {
+   "id": "acquadiparma",
+   "name": "帕尔玛之水",
+   "note": "Wikidata 未找到对应实体(Acqua di Parma),建议人工核对"
+  },
+  {
+   "id": "albion",
+   "name": "奥尔滨",
+   "note": "Wikidata 未找到对应实体(ALBION),建议人工核对"
+  },
+  {
+   "id": "ateliercologne",
+   "name": "欧珑",
+   "note": "Wikidata 未找到对应实体(Atelier Cologne),建议人工核对"
+  },
+  {
+   "id": "bobbi-brown",
+   "name": "芭比波朗",
+   "note": "Wikidata 未找到对应实体(Bobbi Brown),建议人工核对"
+  },
+  {
+   "id": "byredo",
+   "name": "百瑞德",
+   "note": "Wikidata 未找到对应实体(Byredo),建议人工核对"
+  },
+  {
+   "id": "cerave",
+   "name": "适乐肤",
+   "note": "Wikidata 未找到对应实体(CeraVe),建议人工核对"
+  },
+  {
+   "id": "clarins",
+   "name": "娇韵诗",
+   "note": "Wikidata 未找到对应实体(Clarins),建议人工核对"
+  },
+  {
+   "id": "cle-de-peau-beaute",
+   "name": "肌肤之钥",
+   "note": "Wikidata 未找到对应实体(Clé de Peau Beauté),建议人工核对"
+  },
+  {
+   "id": "curel",
+   "name": "珂润",
+   "note": "Wikidata 未找到对应实体(Curél),建议人工核对"
+  },
+  {
+   "id": "decorte",
+   "name": "黛珂",
+   "note": "Wikidata 未找到对应实体(DECORTÉ),建议人工核对"
+  },
+  {
+   "id": "diptyque",
+   "name": "蒂普提克",
+   "note": "Wikidata 未找到对应实体(diptyque),建议人工核对"
+  },
+  {
+   "id": "dovebody",
+   "name": "多芬",
+   "note": "Wikidata 未找到对应实体(Dove),建议人工核对"
+  },
+  {
+   "id": "estee-lauder",
+   "name": "雅诗兰黛",
+   "note": "Wikidata 未找到对应实体(Estée Lauder),建议人工核对"
+  },
+  {
+   "id": "florasis",
+   "name": "花西子",
+   "note": "Wikidata 未找到对应实体(Florasis),建议人工核对"
+  },
+  {
+   "id": "fredericmalle",
+   "name": "馥马尔",
+   "note": "Wikidata 未找到对应实体(Editions de Parfums Frédéric Malle),建议人工核对"
+  },
+  {
+   "id": "freeplus",
+   "name": "芙丽芳丝",
+   "note": "Wikidata 未找到对应实体(freeplus),建议人工核对"
+  },
+  {
+   "id": "guerlain",
+   "name": "娇兰",
+   "note": "Wikidata 未找到对应实体(Guerlain),建议人工核对"
+  },
+  {
+   "id": "helena-rubinstein",
+   "name": "赫莲娜",
+   "note": "Wikidata 未找到对应实体(Helena Rubinstein),建议人工核对"
+  },
+  {
+   "id": "jomalone",
+   "name": "祖·玛珑",
+   "note": "Wikidata 未找到对应实体(Jo Malone London),建议人工核对"
+  },
+  {
+   "id": "kerastase",
+   "name": "卡诗",
+   "note": "Wikidata 未找到对应实体(Kérastase),建议人工核对"
+  },
+  {
+   "id": "kose",
+   "name": "高丝",
+   "note": "Wikidata 未找到对应实体(KOSÉ),建议人工核对"
+  },
+  {
+   "id": "la-mer",
+   "name": "海蓝之谜",
+   "note": "Wikidata 未找到对应实体(La Mer),建议人工核对"
+  },
+  {
+   "id": "la-prairie",
+   "name": "莱珀妮",
+   "note": "Wikidata 未找到对应实体(La Prairie),建议人工核对"
+  },
+  {
+   "id": "la-roche-posay",
+   "name": "理肤泉",
+   "note": "Wikidata 未找到对应实体(La Roche-Posay),建议人工核对"
+  },
+  {
+   "id": "lancome",
+   "name": "兰蔻",
+   "note": "Wikidata 未找到对应实体(Lancôme),建议人工核对"
+  },
+  {
+   "id": "loreal-paris",
+   "name": "欧莱雅",
+   "note": "Wikidata 未找到对应实体(L'Oréal Paris),建议人工核对"
+  },
+  {
+   "id": "mac",
+   "name": "魅可",
+   "note": "Wikidata 未找到对应实体(M·A·C),建议人工核对"
+  },
+  {
+   "id": "maxfactor",
+   "name": "蜜丝佛陀",
+   "note": "Wikidata 未找到对应实体(Max Factor),建议人工核对"
+  },
+  {
+   "id": "maybelline",
+   "name": "美宝莲",
+   "note": "Wikidata 未找到对应实体(Maybelline),建议人工核对"
+  },
+  {
+   "id": "nars",
+   "name": "NARS",
+   "note": "Wikidata 未找到对应实体(NARS Cosmetics),建议人工核对"
+  },
+  {
+   "id": "neutrogena",
+   "name": "露得清",
+   "note": "Wikidata 未找到对应实体(Neutrogena),建议人工核对"
+  },
+  {
+   "id": "nivea",
+   "name": "妮维雅",
+   "note": "Wikidata 未找到对应实体(NIVEA),建议人工核对"
+  },
+  {
+   "id": "penhaligons",
+   "name": "潘海利根",
+   "note": "Wikidata 未找到对应实体(Penhaligon's),建议人工核对"
+  },
+  {
+   "id": "perfectdiary",
+   "name": "完美日记",
+   "note": "Wikidata 未找到对应实体(Perfect Diary),建议人工核对"
+  },
+  {
+   "id": "proya",
+   "name": "珀莱雅",
+   "note": "Wikidata 未找到对应实体(PROYA),建议人工核对"
+  },
+  {
+   "id": "schwarzkopf",
+   "name": "施华蔻",
+   "note": "Wikidata 未找到对应实体(Schwarzkopf),建议人工核对"
+  },
+  {
+   "id": "sergelutens",
+   "name": "芦丹氏",
+   "note": "Wikidata 未找到对应实体(Serge Lutens),建议人工核对"
+  },
+  {
+   "id": "shiseido",
+   "name": "资生堂",
+   "note": "Wikidata 未找到对应实体(SHISEIDO),建议人工核对"
+  },
+  {
+   "id": "shu-uemura",
+   "name": "植村秀",
+   "note": "Wikidata 未找到对应实体(shu uemura),建议人工核对"
+  },
+  {
+   "id": "sisley",
+   "name": "希思黎",
+   "note": "Wikidata 未找到对应实体(Sisley),建议人工核对"
+  },
+  {
+   "id": "sk-ii",
+   "name": "SK-II",
+   "note": "Wikidata 未找到对应实体(SK-II),建议人工核对"
+  },
+  {
+   "id": "skinceuticals",
+   "name": "修丽可",
+   "note": "Wikidata 未找到对应实体(SkinCeuticals),建议人工核对"
+  },
+  {
+   "id": "valmont",
+   "name": "法尔曼",
+   "note": "Wikidata 未找到对应实体(Valmont),建议人工核对"
+  },
+  {
+   "id": "winona",
+   "name": "薇诺娜",
+   "note": "Wikidata 未找到对应实体(Winona),建议人工核对"
+  },
+  {
+   "id": "absolut",
+   "name": "绝对伏特加",
+   "note": "Wikidata 未找到对应实体(Absolut),建议人工核对"
+  },
+  {
+   "id": "alittle",
+   "name": "一点点",
+   "note": "Wikidata 未找到对应实体(A Little Tea),建议人工核对"
+  },
+  {
+   "id": "budweiser",
+   "name": "百威",
+   "note": "Wikidata 未找到对应实体(Budweiser),建议人工核对"
+  },
+  {
+   "id": "chagee",
+   "name": "霸王茶姬",
+   "note": "Wikidata 未找到对应实体(CHAGEE),建议人工核对"
+  },
+  {
+   "id": "chapanda",
+   "name": "茶百道",
+   "note": "Wikidata 未找到对应实体(ChaPanda),建议人工核对"
+  },
+  {
+   "id": "chivas",
+   "name": "芝华士",
+   "note": "Wikidata 未找到对应实体(Chivas Regal),建议人工核对"
+  },
+  {
+   "id": "coco",
+   "name": "CoCo都可",
+   "note": "Wikidata 未找到对应实体(CoCo Fresh Tea),建议人工核对"
+  },
+  {
+   "id": "corona",
+   "name": "科罗娜",
+   "note": "Wikidata 未找到对应实体(Corona Extra),建议人工核对"
+  },
+  {
+   "id": "fenjiu",
+   "name": "汾酒",
+   "note": "Wikidata 未找到对应实体(Fenjiu),建议人工核对"
+  },
+  {
+   "id": "goodme",
+   "name": "古茗",
+   "note": "Wikidata 未找到对应实体(GOODME),建议人工核对"
+  },
+  {
+   "id": "greygoose",
+   "name": "灰雁",
+   "note": "Wikidata 未找到对应实体(Grey Goose),建议人工核对"
+  },
+  {
+   "id": "guinness",
+   "name": "健力士",
+   "note": "Wikidata 未找到对应实体(Guinness),建议人工核对"
+  },
+  {
+   "id": "heineken",
+   "name": "喜力",
+   "note": "Wikidata 未找到对应实体(Heineken),建议人工核对"
+  },
+  {
+   "id": "hennessy",
+   "name": "轩尼诗",
+   "note": "Wikidata 未找到对应实体(Hennessy),建议人工核对"
+  },
+  {
+   "id": "heytea",
+   "name": "喜茶",
+   "note": "Wikidata 未找到对应实体(HEYTEA),建议人工核对"
+  },
+  {
+   "id": "jackdaniels",
+   "name": "杰克丹尼",
+   "note": "Wikidata 未找到对应实体(Jack Daniel's),建议人工核对"
+  },
+  {
+   "id": "jameson",
+   "name": "尊美醇",
+   "note": "Wikidata 未找到对应实体(Jameson),建议人工核对"
+  },
+  {
+   "id": "jiannanchun",
+   "name": "剑南春",
+   "note": "Wikidata 未找到对应实体(Jiannanchun),建议人工核对"
+  },
+  {
+   "id": "johnniewalker",
+   "name": "尊尼获加",
+   "note": "Wikidata 未找到对应实体(Johnnie Walker),建议人工核对"
+  },
+  {
+   "id": "luckin",
+   "name": "瑞幸咖啡",
+   "note": "Wikidata 未找到对应实体(Luckin Coffee),建议人工核对"
+  },
+  {
+   "id": "luzhoulaojiao",
+   "name": "泸州老窖",
+   "note": "Wikidata 未找到对应实体(LU ZHOU LAO JIAO),建议人工核对"
+  },
+  {
+   "id": "macallan",
+   "name": "麦卡伦",
+   "note": "Wikidata 未找到对应实体(The Macallan),建议人工核对"
+  },
+  {
+   "id": "manner",
+   "name": "Manner Coffee",
+   "note": "Wikidata 未找到对应实体(Manner Coffee),建议人工核对"
+  },
+  {
+   "id": "martell",
+   "name": "马爹利",
+   "note": "Wikidata 未找到对应实体(Martell),建议人工核对"
+  },
+  {
+   "id": "mixue",
+   "name": "蜜雪冰城",
+   "note": "Wikidata 未找到对应实体(MIXUE),建议人工核对"
+  },
+  {
+   "id": "moutai",
+   "name": "贵州茅台",
+   "note": "Wikidata 未找到对应实体(MOUTAI),建议人工核对"
+  },
+  {
+   "id": "mstand",
+   "name": "M Stand",
+   "note": "Wikidata 未找到对应实体(M Stand),建议人工核对"
+  },
+  {
+   "id": "nayuki",
+   "name": "奈雪的茶",
+   "note": "Wikidata 未找到对应实体(Nayuki),建议人工核对"
+  },
+  {
+   "id": "nespresso",
+   "name": "浓遇咖啡",
+   "note": "Wikidata 未找到对应实体(Nespresso),建议人工核对"
+  },
+  {
+   "id": "peets",
+   "name": "皮爷咖啡",
+   "note": "Wikidata 未找到对应实体(Peet's Coffee),建议人工核对"
+  },
+  {
+   "id": "remymartin",
+   "name": "人头马",
+   "note": "Wikidata 未找到对应实体(Rémy Martin),建议人工核对"
+  },
+  {
+   "id": "saturnbird",
+   "name": "三顿半",
+   "note": "Wikidata 未找到对应实体(Saturnbird),建议人工核对"
+  },
+  {
+   "id": "sexytea",
+   "name": "茶颜悦色",
+   "note": "Wikidata 未找到对应实体(Sexy Tea),建议人工核对"
+  },
+  {
+   "id": "starbucks",
+   "name": "星巴克",
+   "note": "Wikidata 未找到对应实体(Starbucks),建议人工核对"
+  },
+  {
+   "id": "suntory",
+   "name": "三得利·山崎",
+   "note": "Wikidata 未找到对应实体(Yamazaki),建议人工核对"
+  },
+  {
+   "id": "tasogare",
+   "name": "隅田川",
+   "note": "Wikidata 未找到对应实体(TASOGARE),建议人工核对"
+  },
+  {
+   "id": "timhortons",
+   "name": "蒂姆·霍顿斯",
+   "note": "Wikidata 未找到对应实体(Tim Hortons),建议人工核对"
+  },
+  {
+   "id": "tsingtao",
+   "name": "青岛啤酒",
+   "note": "Wikidata 未找到对应实体(Tsingtao Brewery),建议人工核对"
+  },
+  {
+   "id": "wuliangye",
+   "name": "五粮液",
+   "note": "Wikidata 未找到对应实体(WULIANGYE),建议人工核对"
+  },
+  {
+   "id": "yanghe",
+   "name": "洋河",
+   "note": "Wikidata 未找到对应实体(Yanghe),建议人工核对"
+  },
+  {
+   "id": "yongpu",
+   "name": "永璞",
+   "note": "Wikidata 未找到对应实体(YONGPU),建议人工核对"
+  },
+  {
+   "id": "alexandermcqueen",
+   "name": "亚历山大·麦昆",
+   "note": "Wikidata 未找到对应实体(Alexander McQueen),建议人工核对"
+  },
+  {
+   "id": "balenciaga",
+   "name": "巴黎世家",
+   "note": "Wikidata 未找到对应实体(Balenciaga),建议人工核对"
+  },
+  {
+   "id": "bally",
+   "name": "巴利",
+   "note": "Wikidata 未找到对应实体(Bally),建议人工核对"
+  },
+  {
+   "id": "boss",
+   "name": "雨果博斯",
+   "note": "Wikidata 未找到对应实体(BOSS),建议人工核对"
+  },
+  {
+   "id": "bottega-veneta",
+   "name": "葆蝶家",
+   "note": "Wikidata 未找到对应实体(Bottega Veneta),建议人工核对"
+  },
+  {
+   "id": "brooksbrothers",
+   "name": "布克兄弟",
+   "note": "Wikidata 未找到对应实体(Brooks Brothers),建议人工核对"
+  },
+  {
+   "id": "brunellocucinelli",
+   "name": "布鲁内罗·库奇内利",
+   "note": "Wikidata 未找到对应实体(Brunello Cucinelli),建议人工核对"
+  },
+  {
+   "id": "burberry",
+   "name": "博柏利",
+   "note": "Wikidata 未找到对应实体(Burberry),建议人工核对"
+  },
+  {
+   "id": "cabbeen",
+   "name": "卡宾",
+   "note": "Wikidata 未找到对应实体(CABBEEN),建议人工核对"
+  },
+  {
+   "id": "calvinklein",
+   "name": "卡尔文·克雷恩",
+   "note": "Wikidata 未找到对应实体(Calvin Klein),建议人工核对"
+  },
+  {
+   "id": "canadagoose",
+   "name": "加拿大鹅",
+   "note": "Wikidata 未找到对应实体(Canada Goose),建议人工核对"
+  },
+  {
+   "id": "celine",
+   "name": "赛琳",
+   "note": "Wikidata 未找到对应实体(CELINE),建议人工核对"
+  },
+  {
+   "id": "chanel",
+   "name": "香奈儿",
+   "note": "Wikidata 未找到对应实体(Chanel),建议人工核对"
+  },
+  {
+   "id": "chloe",
+   "name": "蔻依",
+   "note": "Wikidata 未找到对应实体(Chloé),建议人工核对"
+  },
+  {
+   "id": "christianlouboutin",
+   "name": "克里斯提·鲁布托",
+   "note": "Wikidata 未找到对应实体(Christian Louboutin),建议人工核对"
+  },
+  {
+   "id": "cmdesgarcons",
+   "name": "川久保玲",
+   "note": "Wikidata 未找到对应实体(Comme des Garçons),建议人工核对"
+  },
+  {
+   "id": "coach",
+   "name": "蔻驰",
+   "note": "Wikidata 未找到对应实体(Coach),建议人工核对"
+  },
+  {
+   "id": "dazzle",
+   "name": "地素",
+   "note": "Wikidata 记录成立于 1997,数据里是 2002;Wikidata 官网为 dazzleapple.com,数据里是 dazzle-fashion.com"
+  },
+  {
+   "id": "dior",
+   "name": "迪奥",
+   "note": "Wikidata 未找到对应实体(Dior),建议人工核对"
+  },
+  {
+   "id": "dolce-gabbana",
+   "name": "杜嘉班纳",
+   "note": "Wikidata 未找到对应实体(Dolce&Gabbana),建议人工核对"
+  },
+  {
+   "id": "etro",
+   "name": "艾绰",
+   "note": "Wikidata 未找到对应实体(ETRO),建议人工核对"
+  },
+  {
+   "id": "fendi",
+   "name": "芬迪",
+   "note": "Wikidata 未找到对应实体(FENDI),建议人工核对"
+  },
+  {
+   "id": "ferragamo",
+   "name": "菲拉格慕",
+   "note": "Wikidata 未找到对应实体(Ferragamo),建议人工核对"
+  },
+  {
+   "id": "furla",
+   "name": "芙拉",
+   "note": "Wikidata 未找到对应实体(FURLA),建议人工核对"
+  },
+  {
+   "id": "giorgio-armani",
+   "name": "乔治·阿玛尼",
+   "note": "Wikidata 未找到对应实体(Giorgio Armani),建议人工核对"
+  },
+  {
+   "id": "givenchy",
+   "name": "纪梵希",
+   "note": "Wikidata 未找到对应实体(Givenchy),建议人工核对"
+  },
+  {
+   "id": "gucci",
+   "name": "古驰",
+   "note": "Wikidata 未找到对应实体(Gucci),建议人工核对"
+  },
+  {
+   "id": "hermes",
+   "name": "爱马仕",
+   "note": "Wikidata 未找到对应实体(Hermès),建议人工核对"
+  },
+  {
+   "id": "isseymiyake",
+   "name": "三宅一生",
+   "note": "Wikidata 未找到对应实体(ISSEY MIYAKE),建议人工核对"
+  },
+  {
+   "id": "jeanpaulgaultier",
+   "name": "高缇耶",
+   "note": "Wikidata 未找到对应实体(Jean Paul Gaultier),建议人工核对"
+  },
+  {
+   "id": "jimmychoo",
+   "name": "吉米·周",
+   "note": "Wikidata 未找到对应实体(Jimmy Choo),建议人工核对"
+  },
+  {
+   "id": "jnby",
+   "name": "江南布衣",
+   "note": "Wikidata 未找到对应实体(JNBY),建议人工核对"
+  },
+  {
+   "id": "katespade",
+   "name": "凯特·丝蓓",
+   "note": "Wikidata 未找到对应实体(Kate Spade),建议人工核对"
+  },
+  {
+   "id": "kenzo",
+   "name": "高田贤三",
+   "note": "Wikidata 未找到对应实体(KENZO),建议人工核对"
+  },
+  {
+   "id": "lacoste",
+   "name": "拉科斯特",
+   "note": "Wikidata 未找到对应实体(Lacoste),建议人工核对"
+  },
+  {
+   "id": "loewe",
+   "name": "罗意威",
+   "note": "Wikidata 未找到对应实体(LOEWE),建议人工核对"
+  },
+  {
+   "id": "longchamp",
+   "name": "珑骧",
+   "note": "Wikidata 未找到对应实体(Longchamp),建议人工核对"
+  },
+  {
+   "id": "louis-vuitton",
+   "name": "路易威登",
+   "note": "Wikidata 未找到对应实体(Louis Vuitton),建议人工核对"
+  },
+  {
+   "id": "manoloblahnik",
+   "name": "马诺洛·布拉尼克",
+   "note": "Wikidata 未找到对应实体(Manolo Blahnik),建议人工核对"
+  },
+  {
+   "id": "marni",
+   "name": "玛尼",
+   "note": "Wikidata 未找到对应实体(Marni),建议人工核对"
+  },
+  {
+   "id": "max-mara",
+   "name": "麦丝玛拉",
+   "note": "Wikidata 未找到对应实体(Max Mara),建议人工核对"
+  },
+  {
+   "id": "michaelkors",
+   "name": "迈克·高仕",
+   "note": "Wikidata 未找到对应实体(Michael Kors),建议人工核对"
+  },
+  {
+   "id": "miu-miu",
+   "name": "缪缪",
+   "note": "Wikidata 未找到对应实体(Miu Miu),建议人工核对"
+  },
+  {
+   "id": "moncler",
+   "name": "蒙克莱",
+   "note": "Wikidata 未找到对应实体(Moncler),建议人工核对"
+  },
+  {
+   "id": "moschino",
+   "name": "莫斯奇诺",
+   "note": "Wikidata 未找到对应实体(Moschino),建议人工核对"
+  },
+  {
+   "id": "paulsmith",
+   "name": "保罗·史密斯",
+   "note": "Wikidata 未找到对应实体(Paul Smith),建议人工核对"
+  },
+  {
+   "id": "philippplein",
+   "name": "菲利普·普莱因",
+   "note": "Wikidata 未找到对应实体(Philipp Plein),建议人工核对"
+  },
+  {
+   "id": "prada",
+   "name": "普拉达",
+   "note": "Wikidata 未找到对应实体(Prada),建议人工核对"
+  },
+  {
+   "id": "ralphlauren",
+   "name": "拉夫·劳伦",
+   "note": "Wikidata 未找到对应实体(Ralph Lauren),建议人工核对"
+  },
+  {
+   "id": "rickowens",
+   "name": "瑞克·欧文斯",
+   "note": "Wikidata 未找到对应实体(Rick Owens),建议人工核对"
+  },
+  {
+   "id": "robertocavalli",
+   "name": "罗伯特·卡沃利",
+   "note": "Wikidata 未找到对应实体(Roberto Cavalli),建议人工核对"
+  },
+  {
+   "id": "rogervivier",
+   "name": "罗杰·维维亚",
+   "note": "Wikidata 未找到对应实体(Roger Vivier),建议人工核对"
+  },
+  {
+   "id": "saint-laurent",
+   "name": "圣罗兰",
+   "note": "Wikidata 未找到对应实体(Saint Laurent),建议人工核对"
+  },
+  {
+   "id": "stellamccartney",
+   "name": "斯特拉·麦卡特尼",
+   "note": "Wikidata 未找到对应实体(Stella McCartney),建议人工核对"
+  },
+  {
+   "id": "stuartweitzman",
+   "name": "斯图尔特·韦茨曼",
+   "note": "Wikidata 未找到对应实体(Stuart Weitzman),建议人工核对"
+  },
+  {
+   "id": "thombrowne",
+   "name": "桑姆·布郎尼",
+   "note": "Wikidata 未找到对应实体(Thom Browne),建议人工核对"
+  },
+  {
+   "id": "tods",
+   "name": "托德斯",
+   "note": "Wikidata 未找到对应实体(Tod's),建议人工核对"
+  },
+  {
+   "id": "tomford",
+   "name": "汤姆·福特",
+   "note": "Wikidata 未找到对应实体(TOM FORD),建议人工核对"
+  },
+  {
+   "id": "tommy",
+   "name": "汤米·希尔费格",
+   "note": "Wikidata 未找到对应实体(Tommy Hilfiger),建议人工核对"
+  },
+  {
+   "id": "toryburch",
+   "name": "托里·伯奇",
+   "note": "Wikidata 未找到对应实体(Tory Burch),建议人工核对"
+  },
+  {
+   "id": "valentino",
+   "name": "华伦天奴",
+   "note": "Wikidata 未找到对应实体(Valentino),建议人工核对"
+  },
+  {
+   "id": "versace",
+   "name": "范思哲",
+   "note": "Wikidata 未找到对应实体(Versace),建议人工核对"
+  },
+  {
+   "id": "viviennewestwood",
+   "name": "薇薇安·韦斯特伍德",
+   "note": "Wikidata 未找到对应实体(Vivienne Westwood),建议人工核对"
+  },
+  {
+   "id": "yohjiyamamoto",
+   "name": "山本耀司",
+   "note": "Wikidata 未找到对应实体(Yohji Yamamoto),建议人工核对"
+  },
+  {
+   "id": "zegna",
+   "name": "杰尼亚",
+   "note": "Wikidata 未找到对应实体(Zegna),建议人工核对"
+  },
+  {
+   "id": "baixiang",
+   "name": "白象",
+   "note": "Wikidata 未找到对应实体(Baixiang),建议人工核对"
+  },
+  {
+   "id": "becheery",
+   "name": "百草味",
+   "note": "Wikidata 未找到对应实体(Be&Cheery),建议人工核对"
+  },
+  {
+   "id": "bestore",
+   "name": "良品铺子",
+   "note": "Wikidata 未找到对应实体(BESTORE),建议人工核对"
+  },
+  {
+   "id": "brightdairy",
+   "name": "光明",
+   "note": "Wikidata 未找到对应实体(Bright Dairy),建议人工核对"
+  },
+  {
+   "id": "burgerking",
+   "name": "汉堡王",
+   "note": "Wikidata 未找到对应实体(Burger King),建议人工核对"
+  },
+  {
+   "id": "chacha",
+   "name": "洽洽",
+   "note": "Wikidata 未找到对应实体(Chacha),建议人工核对"
+  },
+  {
+   "id": "cocacola",
+   "name": "可口可乐",
+   "note": "Wikidata 未找到对应实体(Coca-Cola),建议人工核对"
+  },
+  {
+   "id": "dali",
+   "name": "达利园",
+   "note": "Wikidata 未找到对应实体(Dali Foods),建议人工核对"
+  },
+  {
+   "id": "danone",
+   "name": "达能",
+   "note": "Wikidata 未找到对应实体(Danone),建议人工核对"
+  },
+  {
+   "id": "dovechoc",
+   "name": "德芙",
+   "note": "Wikidata 未找到对应实体(Dove Chocolate),建议人工核对"
+  },
+  {
+   "id": "ferrero",
+   "name": "费列罗",
+   "note": "Wikidata 未找到对应实体(Ferrero Rocher),建议人工核对"
+  },
+  {
+   "id": "genki",
+   "name": "元气森林",
+   "note": "Wikidata 未找到对应实体(Genki Forest),建议人工核对"
+  },
+  {
+   "id": "hagenDazs",
+   "name": "哈根达斯",
+   "note": "Wikidata 未找到对应实体(Häagen-Dazs),建议人工核对"
+  },
+  {
+   "id": "haitian",
+   "name": "海天",
+   "note": "Wikidata 未找到对应实体(Haitian),建议人工核对"
+  },
+  {
+   "id": "hersheys",
+   "name": "好时",
+   "note": "Wikidata 未找到对应实体(HERSHEY'S),建议人工核对"
+  },
+  {
+   "id": "hsufuchi",
+   "name": "徐福记",
+   "note": "Wikidata 未找到对应实体(Hsu Fu Chi),建议人工核对"
+  },
+  {
+   "id": "juewei",
+   "name": "绝味",
+   "note": "Wikidata 未找到对应实体(Juewei),建议人工核对"
+  },
+  {
+   "id": "kelloggs",
+   "name": "家乐氏",
+   "note": "Wikidata 未找到对应实体(Kellogg's),建议人工核对"
+  },
+  {
+   "id": "kfc",
+   "name": "肯德基",
+   "note": "Wikidata 未找到对应实体(KFC),建议人工核对"
+  },
+  {
+   "id": "laoganma",
+   "name": "老干妈",
+   "note": "Wikidata 未找到对应实体(Lao Gan Ma),建议人工核对"
+  },
+  {
+   "id": "masterkong",
+   "name": "康师傅",
+   "note": "Wikidata 未找到对应实体(Master Kong),建议人工核对"
+  },
+  {
+   "id": "mcdonalds",
+   "name": "麦当劳",
+   "note": "Wikidata 未找到对应实体(McDonald's),建议人工核对"
+  },
+  {
+   "id": "mengniu",
+   "name": "蒙牛",
+   "note": "Wikidata 未找到对应实体(Mengniu),建议人工核对"
+  },
+  {
+   "id": "mms",
+   "name": "M&M's",
+   "note": "Wikidata 未找到对应实体(M&M's),建议人工核对"
+  },
+  {
+   "id": "nestle",
+   "name": "雀巢",
+   "note": "Wikidata 未找到对应实体(Nestlé),建议人工核对"
+  },
+  {
+   "id": "nfsq",
+   "name": "农夫山泉",
+   "note": "Wikidata 未找到对应实体(NONGFU SPRING),建议人工核对"
+  },
+  {
+   "id": "oreo",
+   "name": "奥利奥",
+   "note": "Wikidata 未找到对应实体(OREO),建议人工核对"
+  },
+  {
+   "id": "orion",
+   "name": "好丽友",
+   "note": "Wikidata 未找到对应实体(Orion),建议人工核对"
+  },
+  {
+   "id": "pepsi",
+   "name": "百事",
+   "note": "Wikidata 未找到对应实体(Pepsi),建议人工核对"
+  },
+  {
+   "id": "pizzahut",
+   "name": "必胜客",
+   "note": "Wikidata 未找到对应实体(Pizza Hut),建议人工核对"
+  },
+  {
+   "id": "quaker",
+   "name": "桂格",
+   "note": "Wikidata 未找到对应实体(Quaker),建议人工核对"
+  },
+  {
+   "id": "shuanghui",
+   "name": "双汇",
+   "note": "Wikidata 未找到对应实体(Shuanghui),建议人工核对"
+  },
+  {
+   "id": "snickers",
+   "name": "士力架",
+   "note": "Wikidata 未找到对应实体(SNICKERS),建议人工核对"
+  },
+  {
+   "id": "subway",
+   "name": "赛百味",
+   "note": "Wikidata 未找到对应实体(Subway),建议人工核对"
+  },
+  {
+   "id": "threesquirrels",
+   "name": "三只松鼠",
+   "note": "Wikidata 未找到对应实体(Three Squirrels),建议人工核对"
+  },
+  {
+   "id": "unipresident",
+   "name": "统一",
+   "note": "Wikidata 未找到对应实体(Uni-President),建议人工核对"
+  },
+  {
+   "id": "wahaha",
+   "name": "娃哈哈",
+   "note": "Wikidata 未找到对应实体(Wahaha),建议人工核对"
+  },
+  {
+   "id": "walls",
+   "name": "和路雪",
+   "note": "Wikidata 未找到对应实体(Wall's),建议人工核对"
+  },
+  {
+   "id": "wantwant",
+   "name": "旺旺",
+   "note": "Wikidata 未找到对应实体(Want Want),建议人工核对"
+  },
+  {
+   "id": "weilong",
+   "name": "卫龙",
+   "note": "Wikidata 未找到对应实体(Weilong),建议人工核对"
+  },
+  {
+   "id": "whiterabbit",
+   "name": "大白兔",
+   "note": "Wikidata 未找到对应实体(White Rabbit),建议人工核对"
+  },
+  {
+   "id": "wonglokat",
+   "name": "王老吉",
+   "note": "Wikidata 未找到对应实体(Wong Lo Kat),建议人工核对"
+  },
+  {
+   "id": "yili",
+   "name": "伊利",
+   "note": "Wikidata 未找到对应实体(Yili),建议人工核对"
+  },
+  {
+   "id": "zhouheya",
+   "name": "周黑鸭",
+   "note": "Wikidata 未找到对应实体(ZHOU HEI YA),建议人工核对"
+  },
+  {
+   "id": "ariston",
+   "name": "阿里斯顿",
+   "note": "Wikidata 未找到对应实体(Ariston Thermo),建议人工核对"
+  },
+  {
+   "id": "bear",
+   "name": "小熊电器",
+   "note": "Wikidata 未找到对应实体(Bear Electric),建议人工核对"
+  },
+  {
+   "id": "bosch",
+   "name": "博世",
+   "note": "Wikidata 未找到对应实体(Bosch),建议人工核对"
+  },
+  {
+   "id": "buydeem",
+   "name": "北鼎",
+   "note": "Wikidata 未找到对应实体(Buydeem),建议人工核对"
+  },
+  {
+   "id": "corning",
+   "name": "康宁",
+   "note": "Wikidata 未找到对应实体(Corning),建议人工核对"
+  },
+  {
+   "id": "daewoo",
+   "name": "大宇",
+   "note": "Wikidata 未找到对应实体(DAEWOO),建议人工核对"
+  },
+  {
+   "id": "derucci",
+   "name": "慕思",
+   "note": "Wikidata 未找到对应实体(DeRUCCI),建议人工核对"
+  },
+  {
+   "id": "dreame",
+   "name": "追觅",
+   "note": "Wikidata 未找到对应实体(Dreame),建议人工核对"
+  },
+  {
+   "id": "ecovacs",
+   "name": "科沃斯",
+   "note": "Wikidata 未找到对应实体(ECOVACS),建议人工核对"
+  },
+  {
+   "id": "electrolux",
+   "name": "伊莱克斯",
+   "note": "Wikidata 未找到对应实体(Electrolux),建议人工核对"
+  },
+  {
+   "id": "fissler",
+   "name": "菲仕乐",
+   "note": "Wikidata 未找到对应实体(FISSLER),建议人工核对"
+  },
+  {
+   "id": "fotile",
+   "name": "方太",
+   "note": "Wikidata 未找到对应实体(Fotile),建议人工核对"
+  },
+  {
+   "id": "gree",
+   "name": "格力",
+   "note": "Wikidata 未找到对应实体(GREE),建议人工核对"
+  },
+  {
+   "id": "haier",
+   "name": "海尔",
+   "note": "Wikidata 未找到对应实体(Haier),建议人工核对"
+  },
+  {
+   "id": "hansgrohe",
+   "name": "汉斯格雅",
+   "note": "Wikidata 未找到对应实体(hansgrohe),建议人工核对"
+  },
+  {
+   "id": "hisense",
+   "name": "海信",
+   "note": "Wikidata 未找到对应实体(Hisense),建议人工核对"
+  },
+  {
+   "id": "ikea",
+   "name": "宜家",
+   "note": "Wikidata 未找到对应实体(IKEA),建议人工核对"
+  },
+  {
+   "id": "jomoo",
+   "name": "九牧",
+   "note": "Wikidata 未找到对应实体(JOMOO),建议人工核对"
+  },
+  {
+   "id": "joyoung",
+   "name": "九阳",
+   "note": "Wikidata 未找到对应实体(Joyoung),建议人工核对"
+  },
+  {
+   "id": "kingkoil",
+   "name": "金可儿",
+   "note": "Wikidata 未找到对应实体(King Koil),建议人工核对"
+  },
+  {
+   "id": "kohler",
+   "name": "科勒",
+   "note": "Wikidata 未找到对应实体(KOHLER),建议人工核对"
+  },
+  {
+   "id": "kuka",
+   "name": "顾家家居",
+   "note": "Wikidata 未找到对应实体(KUKA HOME),建议人工核对"
+  },
+  {
+   "id": "lg",
+   "name": "LG",
+   "note": "Wikidata 未找到对应实体(LG Electronics),建议人工核对"
+  },
+  {
+   "id": "locknlock",
+   "name": "乐扣乐扣",
+   "note": "Wikidata 未找到对应实体(LOCK&LOCK),建议人工核对"
+  },
+  {
+   "id": "midea",
+   "name": "美的",
+   "note": "Wikidata 未找到对应实体(Midea),建议人工核对"
+  },
+  {
+   "id": "miele",
+   "name": "美诺",
+   "note": "Wikidata 未找到对应实体(MIELE),建议人工核对"
+  },
+  {
+   "id": "moen",
+   "name": "摩恩",
+   "note": "Wikidata 未找到对应实体(MOEN),建议人工核对"
+  },
+  {
+   "id": "muji",
+   "name": "无印良品",
+   "note": "Wikidata 未找到对应实体(MUJI),建议人工核对"
+  },
+  {
+   "id": "panasonic",
+   "name": "松下",
+   "note": "Wikidata 未找到对应实体(Panasonic),建议人工核对"
+  },
+  {
+   "id": "robam",
+   "name": "老板电器",
+   "note": "Wikidata 未找到对应实体(ROBAM),建议人工核对"
+  },
+  {
+   "id": "roborock",
+   "name": "石头科技",
+   "note": "Wikidata 未找到对应实体(Roborock),建议人工核对"
+  },
+  {
+   "id": "sealy",
+   "name": "丝涟",
+   "note": "Wikidata 未找到对应实体(Sealy),建议人工核对"
+  },
+  {
+   "id": "serta",
+   "name": "舒达",
+   "note": "Wikidata 未找到对应实体(Serta),建议人工核对"
+  },
+  {
+   "id": "sharp",
+   "name": "夏普",
+   "note": "Wikidata 官网为 github.com,数据里是 sharp-global.com"
+  },
+  {
+   "id": "siemens",
+   "name": "西门子",
+   "note": "Wikidata 未找到对应实体(SIEMENS),建议人工核对"
+  },
+  {
+   "id": "simmons",
+   "name": "席梦思",
+   "note": "Wikidata 未找到对应实体(Simmons),建议人工核对"
+  },
+  {
+   "id": "supor",
+   "name": "苏泊尔",
+   "note": "Wikidata 未找到对应实体(SUPOR),建议人工核对"
+  },
+  {
+   "id": "tcl",
+   "name": "TCL",
+   "note": "Wikidata 未找到对应实体(TCL),建议人工核对"
+  },
+  {
+   "id": "thermos",
+   "name": "膳魔师",
+   "note": "Wikidata 未找到对应实体(THERMOS),建议人工核对"
+  },
+  {
+   "id": "tiger",
+   "name": "虎牌",
+   "note": "Wikidata 未找到对应实体(TIGER),建议人工核对"
+  },
+  {
+   "id": "toshiba",
+   "name": "东芝",
+   "note": "Wikidata 未找到对应实体(TOSHIBA),建议人工核对"
+  },
+  {
+   "id": "toto",
+   "name": "TOTO",
+   "note": "Wikidata 国家为 Belgium,数据里是 日本;Wikidata 官网为 uclouvain.be,数据里是 toto.com.cn"
+  },
+  {
+   "id": "tupperware",
+   "name": "特百惠",
+   "note": "Wikidata 未找到对应实体(Tupperware),建议人工核对"
+  },
+  {
+   "id": "vatti",
+   "name": "华帝",
+   "note": "Wikidata 未找到对应实体(VATTI),建议人工核对"
+  },
+  {
+   "id": "whirlpool",
+   "name": "惠而浦",
+   "note": "Wikidata 未找到对应实体(Whirlpool),建议人工核对"
+  },
+  {
+   "id": "zojirushi",
+   "name": "象印",
+   "note": "Wikidata 未找到对应实体(ZOJIRUSHI),建议人工核对"
+  },
+  {
+   "id": "zwilling",
+   "name": "双立人",
+   "note": "Wikidata 未找到对应实体(ZWILLING),建议人工核对"
+  },
+  {
+   "id": "361",
+   "name": "361°",
+   "note": "Wikidata 未找到对应实体(361 Degrees),建议人工核对"
+  },
+  {
+   "id": "adidas",
+   "name": "阿迪达斯",
+   "note": "Wikidata 未找到对应实体(adidas),建议人工核对"
+  },
+  {
+   "id": "anta",
+   "name": "安踏",
+   "note": "Wikidata 未找到对应实体(ANTA),建议人工核对"
+  },
+  {
+   "id": "arcteryx",
+   "name": "始祖鸟",
+   "note": "Wikidata 未找到对应实体(Arc'teryx),建议人工核对"
+  },
+  {
+   "id": "arena",
+   "name": "阿瑞娜",
+   "note": "Wikidata 未找到对应实体(arena),建议人工核对"
+  },
+  {
+   "id": "asics",
+   "name": "亚瑟士",
+   "note": "Wikidata 未找到对应实体(ASICS),建议人工核对"
+  },
+  {
+   "id": "blackdiamond",
+   "name": "黑钻",
+   "note": "Wikidata 未找到对应实体(Black Diamond),建议人工核对"
+  },
+  {
+   "id": "brooks",
+   "name": "布鲁克斯",
+   "note": "Wikidata 未找到对应实体(Brooks),建议人工核对"
+  },
+  {
+   "id": "burton",
+   "name": "伯顿",
+   "note": "Wikidata 未找到对应实体(BURTON),建议人工核对"
+  },
+  {
+   "id": "columbia",
+   "name": "哥伦比亚",
+   "note": "Wikidata 未找到对应实体(Columbia),建议人工核对"
+  },
+  {
+   "id": "converse",
+   "name": "匡威",
+   "note": "Wikidata 未找到对应实体(Converse),建议人工核对"
+  },
+  {
+   "id": "decathlon",
+   "name": "迪卡侬",
+   "note": "Wikidata 未找到对应实体(Decathlon),建议人工核对"
+  },
+  {
+   "id": "descente",
+   "name": "迪桑特",
+   "note": "Wikidata 未找到对应实体(DESCENTE),建议人工核对"
+  },
+  {
+   "id": "erke",
+   "name": "鸿星尔克",
+   "note": "Wikidata 未找到对应实体(ERKE),建议人工核对"
+  },
+  {
+   "id": "fila",
+   "name": "斐乐",
+   "note": "Wikidata 未找到对应实体(FILA),建议人工核对"
+  },
+  {
+   "id": "garmin",
+   "name": "佳明",
+   "note": "Wikidata 未找到对应实体(GARMIN),建议人工核对"
+  },
+  {
+   "id": "head",
+   "name": "海德",
+   "note": "Wikidata 未找到对应实体(HEAD),建议人工核对"
+  },
+  {
+   "id": "hoka",
+   "name": "HOKA",
+   "note": "Wikidata 未找到对应实体(HOKA ONE ONE),建议人工核对"
+  },
+  {
+   "id": "kailas",
+   "name": "凯乐石",
+   "note": "Wikidata 未找到对应实体(KAILAS),建议人工核对"
+  },
+  {
+   "id": "lining",
+   "name": "李宁",
+   "note": "Wikidata 未找到对应实体(LI-NING),建议人工核对"
+  },
+  {
+   "id": "lululemon",
+   "name": "露露柠檬",
+   "note": "Wikidata 未找到对应实体(lululemon),建议人工核对"
+  },
+  {
+   "id": "mammut",
+   "name": "猛犸象",
+   "note": "Wikidata 官网为 danieledesensi.github.io,数据里是 mammut.com"
+  },
+  {
+   "id": "marmot",
+   "name": "土拨鼠",
+   "note": "Wikidata 未找到对应实体(Marmot),建议人工核对"
+  },
+  {
+   "id": "merrell",
+   "name": "迈乐",
+   "note": "Wikidata 未找到对应实体(Merrell),建议人工核对"
+  },
+  {
+   "id": "mizuno",
+   "name": "美津浓",
+   "note": "Wikidata 未找到对应实体(MIZUNO),建议人工核对"
+  },
+  {
+   "id": "montbell",
+   "name": "蒙贝尔",
+   "note": "Wikidata 未找到对应实体(Mont-bell),建议人工核对"
+  },
+  {
+   "id": "newbalance",
+   "name": "纽巴伦",
+   "note": "Wikidata 未找到对应实体(New Balance),建议人工核对"
+  },
+  {
+   "id": "nike",
+   "name": "耐克",
+   "note": "Wikidata 未找到对应实体(Nike),建议人工核对"
+  },
+  {
+   "id": "on",
+   "name": "昂跑",
+   "note": "Wikidata 未找到对应实体(On),建议人工核对"
+  },
+  {
+   "id": "patagonia",
+   "name": "巴塔哥尼亚",
+   "note": "Wikidata 未找到对应实体(Patagonia),建议人工核对"
+  },
+  {
+   "id": "peak",
+   "name": "匹克",
+   "note": "Wikidata 未找到对应实体(PEAK),建议人工核对"
+  },
+  {
+   "id": "puma",
+   "name": "彪马",
+   "note": "Wikidata 未找到对应实体(PUMA),建议人工核对"
+  },
+  {
+   "id": "rockbros",
+   "name": "洛克兄弟",
+   "note": "Wikidata 未找到对应实体(ROCKBROS),建议人工核对"
+  },
+  {
+   "id": "salomon",
+   "name": "萨洛蒙",
+   "note": "Wikidata 未找到对应实体(Salomon),建议人工核对"
+  },
+  {
+   "id": "saucony",
+   "name": "索康尼",
+   "note": "Wikidata 未找到对应实体(Saucony),建议人工核对"
+  },
+  {
+   "id": "snowpeak",
+   "name": "雪峰",
+   "note": "Wikidata 未找到对应实体(Snow Peak),建议人工核对"
+  },
+  {
+   "id": "spalding",
+   "name": "斯伯丁",
+   "note": "Wikidata 未找到对应实体(Spalding),建议人工核对"
+  },
+  {
+   "id": "speedo",
+   "name": "速比涛",
+   "note": "Wikidata 未找到对应实体(Speedo),建议人工核对"
+  },
+  {
+   "id": "thenorthface",
+   "name": "北面",
+   "note": "Wikidata 未找到对应实体(The North Face),建议人工核对"
+  },
+  {
+   "id": "toread",
+   "name": "探路者",
+   "note": "Wikidata 未找到对应实体(Toread),建议人工核对"
+  },
+  {
+   "id": "underarmour",
+   "name": "安德玛",
+   "note": "Wikidata 未找到对应实体(Under Armour),建议人工核对"
+  },
+  {
+   "id": "vans",
+   "name": "范斯",
+   "note": "Wikidata 未找到对应实体(Vans),建议人工核对"
+  },
+  {
+   "id": "wilson",
+   "name": "威尔胜",
+   "note": "Wikidata 未找到对应实体(Wilson),建议人工核对"
+  },
+  {
+   "id": "xtep",
+   "name": "特步",
+   "note": "Wikidata 未找到对应实体(XTEP),建议人工核对"
+  },
+  {
+   "id": "yonex",
+   "name": "尤尼克斯",
+   "note": "Wikidata 未找到对应实体(YONEX),建议人工核对"
+  },
+  {
+   "id": "acer",
+   "name": "宏碁",
+   "note": "Wikidata 总部为 臺北市,数据里是 新北市"
+  },
+  {
+   "id": "alienware",
+   "name": "外星人",
+   "note": "Wikidata 未找到对应实体(Alienware),建议人工核对"
+  },
+  {
+   "id": "amd",
+   "name": "AMD",
+   "note": "Wikidata 未找到对应实体(AMD),建议人工核对"
+  },
+  {
+   "id": "anker",
+   "name": "安克",
+   "note": "Wikidata 未找到对应实体(Anker),建议人工核对"
+  },
+  {
+   "id": "apple",
+   "name": "苹果",
+   "note": "Wikidata 未找到对应实体(Apple),建议人工核对"
+  },
+  {
+   "id": "asus",
+   "name": "华硕",
+   "note": "Wikidata 未找到对应实体(ASUS),建议人工核对"
+  },
+  {
+   "id": "bose",
+   "name": "博士",
+   "note": "Wikidata 未找到对应实体(Bose),建议人工核对"
+  },
+  {
+   "id": "canon",
+   "name": "佳能",
+   "note": "Wikidata 未找到对应实体(Canon),建议人工核对"
+  },
+  {
+   "id": "dell",
+   "name": "戴尔",
+   "note": "Wikidata 未找到对应实体(DELL),建议人工核对"
+  },
+  {
+   "id": "dji",
+   "name": "大疆",
+   "note": "Wikidata 未找到对应实体(DJI),建议人工核对"
+  },
+  {
+   "id": "edifier",
+   "name": "漫步者",
+   "note": "Wikidata 未找到对应实体(EDIFIER),建议人工核对"
+  },
+  {
+   "id": "fujifilm",
+   "name": "富士",
+   "note": "Wikidata 未找到对应实体(FUJIFILM),建议人工核对"
+  },
+  {
+   "id": "google",
+   "name": "谷歌",
+   "note": "Wikidata 官网为 breakingcode.wordpress.com,数据里是 google.com"
+  },
+  {
+   "id": "gopro",
+   "name": "GoPro",
+   "note": "Wikidata 未找到对应实体(GoPro),建议人工核对"
+  },
+  {
+   "id": "hasselblad",
+   "name": "哈苏",
+   "note": "Wikidata 未找到对应实体(Hasselblad),建议人工核对"
+  },
+  {
+   "id": "honor",
+   "name": "荣耀",
+   "note": "Wikidata 未找到对应实体(HONOR),建议人工核对"
+  },
+  {
+   "id": "hp",
+   "name": "惠普",
+   "note": "Wikidata 未找到对应实体(HP),建议人工核对"
+  },
+  {
+   "id": "huawei",
+   "name": "华为",
+   "note": "Wikidata 未找到对应实体(HUAWEI),建议人工核对"
+  },
+  {
+   "id": "iflytek",
+   "name": "科大讯飞",
+   "note": "Wikidata 未找到对应实体(iFLYTEK),建议人工核对"
+  },
+  {
+   "id": "imoo",
+   "name": "小天才",
+   "note": "Wikidata 未找到对应实体(imoo),建议人工核对"
+  },
+  {
+   "id": "insta360",
+   "name": "影石",
+   "note": "Wikidata 未找到对应实体(Insta360),建议人工核对"
+  },
+  {
+   "id": "intel",
+   "name": "英特尔",
+   "note": "Wikidata 未找到对应实体(Intel),建议人工核对"
+  },
+  {
+   "id": "kingston",
+   "name": "金士顿",
+   "note": "Wikidata 未找到对应实体(Kingston),建议人工核对"
+  },
+  {
+   "id": "leica",
+   "name": "徕卡",
+   "note": "Wikidata 未找到对应实体(Leica),建议人工核对"
+  },
+  {
+   "id": "lenovo",
+   "name": "联想",
+   "note": "Wikidata 未找到对应实体(Lenovo),建议人工核对"
+  },
+  {
+   "id": "logitech",
+   "name": "罗技",
+   "note": "Wikidata 未找到对应实体(Logitech),建议人工核对"
+  },
+  {
+   "id": "meizu",
+   "name": "魅族",
+   "note": "Wikidata 未找到对应实体(MEIZU),建议人工核对"
+  },
+  {
+   "id": "microsoft",
+   "name": "微软",
+   "note": "Wikidata 未找到对应实体(Microsoft),建议人工核对"
+  },
+  {
+   "id": "msi",
+   "name": "微星",
+   "note": "Wikidata 未找到对应实体(MSI),建议人工核对"
+  },
+  {
+   "id": "nikon",
+   "name": "尼康",
+   "note": "Wikidata 未找到对应实体(Nikon),建议人工核对"
+  },
+  {
+   "id": "nintendo",
+   "name": "任天堂",
+   "note": "Wikidata 未找到对应实体(Nintendo),建议人工核对"
+  },
+  {
+   "id": "nvidia",
+   "name": "英伟达",
+   "note": "Wikidata 未找到对应实体(NVIDIA),建议人工核对"
+  },
+  {
+   "id": "oneplus",
+   "name": "一加",
+   "note": "Wikidata 未找到对应实体(OnePlus),建议人工核对"
+  },
+  {
+   "id": "oppo",
+   "name": "OPPO",
+   "note": "Wikidata 未找到对应实体(OPPO),建议人工核对"
+  },
+  {
+   "id": "qualcomm",
+   "name": "高通",
+   "note": "Wikidata 未找到对应实体(Qualcomm),建议人工核对"
+  },
+  {
+   "id": "razer",
+   "name": "雷蛇",
+   "note": "Wikidata 未找到对应实体(Razer),建议人工核对"
+  },
+  {
+   "id": "realme",
+   "name": "真我",
+   "note": "Wikidata 未找到对应实体(realme),建议人工核对"
+  },
+  {
+   "id": "redmagic",
+   "name": "红魔",
+   "note": "Wikidata 未找到对应实体(REDMAGIC),建议人工核对"
+  },
+  {
+   "id": "samsung",
+   "name": "三星",
+   "note": "Wikidata 未找到对应实体(Samsung),建议人工核对"
+  },
+  {
+   "id": "sandisk",
+   "name": "闪迪",
+   "note": "Wikidata 未找到对应实体(SanDisk),建议人工核对"
+  },
+  {
+   "id": "seagate",
+   "name": "希捷",
+   "note": "Wikidata 未找到对应实体(Seagate),建议人工核对"
+  },
+  {
+   "id": "sennheiser",
+   "name": "森海塞尔",
+   "note": "Wikidata 未找到对应实体(Sennheiser),建议人工核对"
+  },
+  {
+   "id": "sony",
+   "name": "索尼",
+   "note": "Wikidata 未找到对应实体(SONY),建议人工核对"
+  },
+  {
+   "id": "tplink",
+   "name": "普联",
+   "note": "Wikidata 未找到对应实体(TP-Link),建议人工核对"
+  },
+  {
+   "id": "ugreen",
+   "name": "绿联",
+   "note": "Wikidata 未找到对应实体(UGREEN),建议人工核对"
+  },
+  {
+   "id": "vivo",
+   "name": "vivo",
+   "note": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 Dongguan,数据里是 东莞"
+  },
+  {
+   "id": "wd",
+   "name": "西部数据",
+   "note": "Wikidata 未找到对应实体(Western Digital),建议人工核对"
+  },
+  {
+   "id": "xgimi",
+   "name": "极米",
+   "note": "Wikidata 未找到对应实体(XGIMI),建议人工核对"
+  },
+  {
+   "id": "xiaomi",
+   "name": "小米",
+   "note": "Wikidata 未找到对应实体(Xiaomi),建议人工核对"
+  },
+  {
+   "id": "zte",
+   "name": "中兴",
+   "note": "Wikidata 未找到对应实体(ZTE),建议人工核对"
+  },
+  {
+   "id": "ap",
+   "name": "爱彼",
+   "note": "Wikidata 未找到对应实体(Audemars Piguet),建议人工核对"
+  },
+  {
+   "id": "blancpain",
+   "name": "宝珀",
+   "note": "Wikidata 未找到对应实体(Blancpain),建议人工核对"
+  },
+  {
+   "id": "boucheron",
+   "name": "宝诗龙",
+   "note": "Wikidata 未找到对应实体(Boucheron),建议人工核对"
+  },
+  {
+   "id": "breguet",
+   "name": "宝玑",
+   "note": "Wikidata 未找到对应实体(Breguet),建议人工核对"
+  },
+  {
+   "id": "bvlgari",
+   "name": "宝格丽",
+   "note": "Wikidata 未找到对应实体(BVLGARI),建议人工核对"
+  },
+  {
+   "id": "casio",
+   "name": "卡西欧",
+   "note": "Wikidata 未找到对应实体(CASIO),建议人工核对"
+  },
+  {
+   "id": "chaumet",
+   "name": "尚美巴黎",
+   "note": "Wikidata 未找到对应实体(CHAUMET),建议人工核对"
+  },
+  {
+   "id": "chopard",
+   "name": "萧邦",
+   "note": "Wikidata 未找到对应实体(Chopard),建议人工核对"
+  },
+  {
+   "id": "chowsangsang",
+   "name": "周生生",
+   "note": "Wikidata 未找到对应实体(Chow Sang Sang),建议人工核对"
+  },
+  {
+   "id": "chowtaifook",
+   "name": "周大福",
+   "note": "Wikidata 未找到对应实体(Chow Tai Fook),建议人工核对"
+  },
+  {
+   "id": "citizen",
+   "name": "西铁城",
+   "note": "Wikidata 未找到对应实体(Citizen),建议人工核对"
+  },
+  {
+   "id": "darryring",
+   "name": "DR",
+   "note": "Wikidata 未找到对应实体(DR (Darry Ring)),建议人工核对"
+  },
+  {
+   "id": "fiyta",
+   "name": "飞亚达",
+   "note": "Wikidata 未找到对应实体(Fiyta),建议人工核对"
+  },
+  {
+   "id": "franckmuller",
+   "name": "法穆兰",
+   "note": "Wikidata 未找到对应实体(Franck Muller),建议人工核对"
+  },
+  {
+   "id": "glashuette",
+   "name": "格拉苏蒂原创",
+   "note": "Wikidata 未找到对应实体(Glashütte Original),建议人工核对"
+  },
+  {
+   "id": "gp",
+   "name": "芝柏",
+   "note": "Wikidata 未找到对应实体(Girard-Perregaux),建议人工核对"
+  },
+  {
+   "id": "graff",
+   "name": "格拉夫",
+   "note": "Wikidata 未找到对应实体(GRAFF),建议人工核对"
+  },
+  {
+   "id": "hamilton",
+   "name": "汉米尔顿",
+   "note": "Wikidata 未找到对应实体(Hamilton),建议人工核对"
+  },
+  {
+   "id": "harrywinston",
+   "name": "海瑞·温斯顿",
+   "note": "Wikidata 未找到对应实体(Harry Winston),建议人工核对"
+  },
+  {
+   "id": "hublot",
+   "name": "宇舶",
+   "note": "Wikidata 未找到对应实体(HUBLOT),建议人工核对"
+  },
+  {
+   "id": "iwc",
+   "name": "万国",
+   "note": "Wikidata 未找到对应实体(IWC Schaffhausen),建议人工核对"
+  },
+  {
+   "id": "jlc",
+   "name": "积家",
+   "note": "Wikidata 未找到对应实体(Jaeger-LeCoultre),建议人工核对"
+  },
+  {
+   "id": "lange",
+   "name": "朗格",
+   "note": "Wikidata 未找到对应实体(A. Lange & Söhne),建议人工核对"
+  },
+  {
+   "id": "laofengxiang",
+   "name": "老凤祥",
+   "note": "Wikidata 未找到对应实体(Lao Feng Xiang),建议人工核对"
+  },
+  {
+   "id": "laomiaogold",
+   "name": "老庙黄金",
+   "note": "Wikidata 未找到对应实体(Laomiao Gold),建议人工核对"
+  },
+  {
+   "id": "longines",
+   "name": "浪琴",
+   "note": "Wikidata 未找到对应实体(Longines),建议人工核对"
+  },
+  {
+   "id": "mido",
+   "name": "美度",
+   "note": "Wikidata 未找到对应实体(MIDO),建议人工核对"
+  },
+  {
+   "id": "mikimoto",
+   "name": "御木本",
+   "note": "Wikidata 未找到对应实体(MIKIMOTO),建议人工核对"
+  },
+  {
+   "id": "oris",
+   "name": "豪利时",
+   "note": "Wikidata 未找到对应实体(ORIS),建议人工核对"
+  },
+  {
+   "id": "pandora",
+   "name": "潘多拉",
+   "note": "Wikidata 未找到对应实体(Pandora),建议人工核对"
+  },
+  {
+   "id": "patek",
+   "name": "百达翡丽",
+   "note": "Wikidata 未找到对应实体(Patek Philippe),建议人工核对"
+  },
+  {
+   "id": "piaget",
+   "name": "伯爵",
+   "note": "Wikidata 未找到对应实体(PIAGET),建议人工核对"
+  },
+  {
+   "id": "qeelin",
+   "name": "麒麟珠宝",
+   "note": "Wikidata 未找到对应实体(Qeelin),建议人工核对"
+  },
+  {
+   "id": "rado",
+   "name": "雷达",
+   "note": "Wikidata 未找到对应实体(RADO),建议人工核对"
+  },
+  {
+   "id": "raymondweil",
+   "name": "蕾蒙威",
+   "note": "Wikidata 未找到对应实体(RAYMOND WEIL),建议人工核对"
+  },
+  {
+   "id": "richardmille",
+   "name": "里查德米尔",
+   "note": "Wikidata 未找到对应实体(Richard Mille),建议人工核对"
+  },
+  {
+   "id": "rolex",
+   "name": "劳力士",
+   "note": "Wikidata 未找到对应实体(Rolex),建议人工核对"
+  },
+  {
+   "id": "rossini",
+   "name": "罗西尼",
+   "note": "Wikidata 未找到对应实体(Rossini),建议人工核对"
+  },
+  {
+   "id": "seagull",
+   "name": "海鸥",
+   "note": "Wikidata 未找到对应实体(Sea-Gull),建议人工核对"
+  },
+  {
+   "id": "seiko",
+   "name": "精工",
+   "note": "Wikidata 未找到对应实体(SEIKO),建议人工核对"
+  },
+  {
+   "id": "swarovski",
+   "name": "施华洛世奇",
+   "note": "Wikidata 未找到对应实体(SWAROVSKI),建议人工核对"
+  },
+  {
+   "id": "tagheuer",
+   "name": "泰格豪雅",
+   "note": "Wikidata 未找到对应实体(TAG Heuer),建议人工核对"
+  },
+  {
+   "id": "tasaki",
+   "name": "塔思琦",
+   "note": "Wikidata 未找到对应实体(TASAKI),建议人工核对"
+  },
+  {
+   "id": "tiffany",
+   "name": "蒂芙尼",
+   "note": "Wikidata 未找到对应实体(Tiffany & Co.),建议人工核对"
+  },
+  {
+   "id": "tissot",
+   "name": "天梭",
+   "note": "Wikidata 未找到对应实体(TISSOT),建议人工核对"
+  },
+  {
+   "id": "tudor",
+   "name": "帝舵",
+   "note": "Wikidata 未找到对应实体(TUDOR),建议人工核对"
+  },
+  {
+   "id": "ulysse",
+   "name": "雅典表",
+   "note": "Wikidata 未找到对应实体(Ulysse Nardin),建议人工核对"
+  },
+  {
+   "id": "vc",
+   "name": "江诗丹顿",
+   "note": "Wikidata 未找到对应实体(Vacheron Constantin),建议人工核对"
+  },
+  {
+   "id": "vca",
+   "name": "梵克雅宝",
+   "note": "Wikidata 未找到对应实体(Van Cleef & Arpels),建议人工核对"
+  }
+ ]
+}

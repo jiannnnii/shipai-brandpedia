@@ -37,8 +37,9 @@ export function hashCode(str){
   for (let i = 0; i < str.length; i++) { h = (h*31 + str.charCodeAt(i)) | 0; }
   return Math.abs(h);
 }
-// 品牌主题色:按品类基色 + 品牌名哈希微调,保证同品类色系、品牌间有区分
-export function brandColor(brand, categories){
+// 品牌主题色:优先 Simple Icons 品牌主色,否则按品类基色 + 品牌名哈希微调
+export function brandColor(brand, categories) {
+  if (brand.brandColor) return brand.brandColor;
   const cat = categories.find(c => c.id === brand.categoryId);
   const base = cat?.h ?? 30, sat = cat?.s ?? 38;
   const l = 26 + (hashCode(brand.id) % 18);           // 26–44

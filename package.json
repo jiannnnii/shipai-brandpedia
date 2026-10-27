@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "serve": "node tools/serve.mjs",
-    "data": "node tools/build-data.mjs",
+    "data": "node tools/wikidata-check.mjs && node tools/build-data.mjs",
+    "check": "node tools/wikidata-check.mjs",
     "www": "node tools/copy-web.mjs",
     "sync": "npm run www && npx cap sync android"
   },

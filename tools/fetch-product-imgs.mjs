@@ -30,6 +30,15 @@ async function fetchBuf(url, timeoutMs = 15000) {
 }
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
+const crypto = await import('node:crypto');
+const HASHFILE = join(IMG, '.hashes.json');
+const hashes = (()=>{ try { return JSON.parse(readFileSync(HASHFILE,'utf8')); } catch { return {}; } })();
+const saveHashes = () => { try { writeFileSync(HASHFILE, JSON.stringify(hashes)); } catch {} };
+function contentHash(buf){ return crypto.createHash('md5').update(buf).digest('hex').slice(0,16); }
+// 占用检查:同一张图不许占两个产品
+function hashTaken(h, selfId){ return hashes[h] && hashes[h] !== selfId; }
+let lastFirstMurl = '';
+let throttle = 0;
 const isImg = buf => buf && (buf[0] === 0xFF && buf[1] === 0xD8) || (buf[0] === 0x89 && buf[1] === 0x50) || (buf[0] === 0x52 && buf[1] === 0x49);
 
 // 解析 JPEG/PNG 像素尺寸
@@ -62,6 +71,9 @@ async function bingImage(kw) {
   const url = `https://cn.bing.com/images/search?q=${encodeURIComponent(kw)}&form=HDRSC2&first=1`;
   const html = await (await fetchBuf(url, 15000)).toString();
   const murls = [...html.matchAll(/murl&quot;:&quot;(.*?)&quot;/g)].map(m => m[1].replace(/\\u002f/gi, '/'));
+  if (murls[0] === lastFirstMurl && murls[0]) { throttle++; } else { throttle = 0; }
+  lastFirstMurl = murls[0] || lastFirstMurl;
+  if (throttle >= 2) { console.log('  ⚠ 疑似限流,退避 15s'); await sleep(15000); }
   return murls.slice(0, 8);
 }
 
@@ -78,15 +90,17 @@ const workers = Array.from({ length: 3 }, async () => {
       for (const mu of murls) {
         try {
           const buf = await fetchBuf(mu, 15000);
-          if (buf.length >= 15000 && buf.length <= 4_000_000 && isImg(buf) && looksRight(buf)) {
+          const h = contentHash(buf);
+          if (buf.length >= 15000 && buf.length <= 4_000_000 && isImg(buf) && looksRight(buf) && !hashTaken(h, p.id)) {
             writeFileSync(join(IMG, p.id + '.jpg'), buf);
+            hashes[h] = p.id; saveHashes();
             ok++; saved = true; break;
           }
         } catch {}
       }
       if (!saved) { noresult++; failures.push(p.id); }
     } catch { noresult++; failures.push(p.id); }
-    await sleep(300 + Math.floor(Math.random() * 500));
+    await sleep(1200 + Math.floor(Math.random() * 2200) + throttle * 3000);
   }
 });
 await Promise.all(workers);

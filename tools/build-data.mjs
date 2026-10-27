@@ -50,6 +50,15 @@ for (const b of brands) {
   uniq.push(b);
 }
 if (dupCount) console.log(`⚠ 跳过重复品牌 ${dupCount} 个(先到先得)`);
+
+// Wikidata 体检标记 + Simple Icons 品牌主色
+const flags = existsSync('data/review-flags.json') ? JSON.parse(readFileSync('data/review-flags.json', 'utf8')) : {};
+const bcolors = existsSync('data/brandcolors.json') ? JSON.parse(readFileSync('data/brandcolors.json', 'utf8')) : {};
+for (const b of uniq) {
+  const fl = flags[b.id];
+  if (fl) { b.needsReview = true; b.reviewNote = fl.reviewNote; }
+  if (bcolors[b.id]) b.brandColor = bcolors[b.id];
+}
 uniq.sort((a, b) => (a.categoryId === b.categoryId ? a.id.localeCompare(b.id) : a.categoryId.localeCompare(b.categoryId)));
 const finalBrands = uniq;
 

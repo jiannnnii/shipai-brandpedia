@@ -104,17 +104,16 @@ window.logoFail = img => {
 };
 
 function logoHtml(b, size = 20) {
-  const color = brandColor(b, DATA.categories);
+  const color = b.brandColor || brandColor(b, DATA.categories);
   if (!store.prefs.onlineImg) {
     return `<div class="logo-fb" style="--c:${color};font-size:${size}px">${esc(initials(b))}</div>`;
   }
-  // svg(矢量高清) → png → 在线三级回退
+  // svg(矢量高清) → png → Simple Icons(品牌主色单色) → 字块
+  const siSlug = (b.nameEn || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const fb = [
     `data/logos/${b.id}.png`,
-    `https://icons.duckduckgo.com/ip3/${b.domain}.ico`,
-    `https://icon.horse/icon/${b.domain}`,
-    `https://www.google.com/s2/favicons?domain=${b.domain}&sz=128`,
-  ].join('|');
+    siSlug ? `https://cdn.simpleicons.org/${siSlug}` : '',
+  ].filter(Boolean).join('|');
   return `<img src="data/logos/${esc(b.id)}.svg" alt="${esc(b.name)}" loading="lazy"
     data-fb="${esc(fb)}" data-name="${esc(initials(b))}" data-color="${color}" data-size="${size}" onerror="logoFail(this)">`;
 }
@@ -359,6 +358,33 @@ function viewBrand(id) {
   pushHistory('b:' + b.id);
 }
 
+/* ================= 数据体检 ================= */
+function viewReview() {
+  const list = DATA.brands.filter(b => b.needsReview);
+  setView(`
+    <div class="subhead">
+      <button class="backbtn" data-act="back">${icons.back}</button>
+      <div class="sh-title">数据体检</div>
+    </div>
+    <div class="cat-hero" style="padding-top:10px">
+      <div class="ch-en">DATA HEALTH</div>
+      <div class="ch-desc" style="margin-top:6px">与 Wikidata 比对成立年份、国家、总部、官网 · ${list.length} 条待复核</div>
+    </div>
+    <div class="rowlist" style="margin-top:16px">
+      ${list.length ? list.map(b => `
+        <a class="rowitem" href="#/brand/${esc(b.id)}">
+          <span class="ri-logo">${logoHtml(b, 14)}</span>
+          <span class="ri-main">
+            <span class="ri-name">${esc(b.name)}</span>
+            <span class="ri-sub">${esc(b.reviewNote || '')}</span>
+          </span>
+          <span class="ri-time">复核</span>
+        </a>`).join('') : '<p class="empty-tip">全部通过 ✓ 没有待复核的数据</p>'}
+    </div>
+    <div style="height:24px"></div>
+  `, true);
+}
+
 /* ================= 产品页 ================= */
 function viewProduct(id) {
   const p = prodById.get(id);
@@ -470,6 +496,43 @@ function viewProduct(id) {
 
   markSeen(ref);
   pushHistory(ref);
+  enrichProductImage(p, b);
+}
+
+// 联网找图增强(默认关):维基共享资源 → Open Food Facts(食品饮料),失败静默回落
+async function commonsImage(kw) {
+  const u = `https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent('filetype:bitmap ' + kw)}&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url&iiurlwidth=800&format=json&origin=*`;
+  const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 8000);
+  const j = await (await fetch(u, { signal: ctl.signal })).json(); clearTimeout(t);
+  const pages = j.query?.pages || {};
+  for (const k of Object.keys(pages)) {
+    const ii = pages[k].imageinfo?.[0];
+    if (ii?.thumburl) return ii.thumburl;
+  }
+  return '';
+}
+async function offImage(kw) {
+  const u = `https://world.openfoodfacts.org/cgi/search.pl?search_terms=${encodeURIComponent(kw)}&fields=image_front_url&json=1&page_size=5`;
+  const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 8000);
+  const j = await (await fetch(u, { signal: ctl.signal })).json(); clearTimeout(t);
+  return (j.products || []).map(x => x.image_front_url).find(Boolean) || '';
+}
+function enrichProductImage(p, b) {
+  if (!store.prefs.webFindImg || !p) return;
+  const holder = qs('.pd-media');
+  if (!holder || holder.dataset.enriched) return;
+  holder.dataset.enriched = '1';
+  (async () => {
+    let url = '';
+    try { url = await commonsImage(`${b.name} ${p.name}`); } catch {}
+    if (!url && (b.categoryId === 'food' || b.categoryId === 'drinks')) {
+      try { url = await offImage(`${b.nameEn || b.name} ${p.name}`); } catch {}
+    }
+    if (url && holder.isConnected) {
+      holder.insertAdjacentHTML('afterbegin',
+        `<img src="${esc(url)}" alt="${esc(p.name)}" onerror="this.remove()">`);
+    }
+  })();
 }
 
 async function doVerify(ref) {
@@ -709,6 +772,14 @@ function renderMePanel() {
           <button class="mini-btn" data-act="check-update">检查更新</button>
         </div>
         <div class="set-row">
+          <span class="sr-label">联网找图<small>维基共享资源 + Open Food Facts(默认关,失败自动回落)</small></span>
+          <label class="switch"><input type="checkbox" id="setWebImg" ${store.prefs.webFindImg ? 'checked' : ''}><span class="sl"></span></label>
+        </div>
+        <div class="set-row">
+          <span class="sr-label">数据体检<small>与 Wikidata 比对字段,发现 ${DATA.brands.filter(b => b.needsReview).length} 条待复核</small></span>
+          <button class="mini-btn" data-act="nav-review">查看</button>
+        </div>
+        <div class="set-row">
           <span class="sr-label">本地记录<small>收藏 / 足迹 / 笔记</small></span>
           <button class="mini-btn ghost" data-act="export">导出</button>
           <button class="mini-btn ghost" data-act="import">导入</button>
@@ -735,6 +806,7 @@ function renderMePanel() {
       <div class="set-group">
         <div class="sg-label">关于</div>
         <div class="set-row"><span class="sr-label">识牌 BrandPedia<small>v1.0 · 只属于一个人的品牌百科</small></span></div>
+        <div class="set-row"><span class="sr-label">数据来源声明<small>主要数据为自建整理;品牌图标来自 Simple Icons(CC0);数据体检基于 Wikidata(CC0);可选联网找图来自维基共享资源与 Open Food Facts(CC 授权,需署名,默认关闭)</small></span></div>
         <div class="set-row"><button class="mini-btn ghost" data-act="clear-cache">清除全部本地数据</button></div>
       </div>
       <div style="height:20px"></div>`;
@@ -742,6 +814,7 @@ function renderMePanel() {
     qs('#setTheme').addEventListener('change', e => setPrefs({ theme: e.target.value }));
     qs('#setImg').addEventListener('change', e => { setPrefs({ onlineImg: e.target.checked }); renderRoute(); });
     qs('#setRemote').addEventListener('change', e => setPrefs({ remoteUrl: e.target.value.trim() }));
+    qs('#setWebImg').addEventListener('change', e => setPrefs({ webFindImg: e.target.checked }));
     qs('#setKey').addEventListener('change', e => setPrefs({ apiKey: e.target.value.trim() }));
     qs('#setApiBase').addEventListener('change', e => setPrefs({ apiBase: e.target.value.trim() }));
     qs('#setModel').addEventListener('change', e => setPrefs({ model: e.target.value.trim() }));
@@ -794,6 +867,7 @@ export function renderRoute() {
   if (head === 'explore') return viewExplore();
   if (head === 'search') return viewSearch();
   if (head === 'me') return viewMe();
+  if (head === 'review') return viewReview();
   return viewHome();
 }
 
@@ -892,6 +966,7 @@ document.addEventListener('click', e => {
     case 'check-update': checkUpdate(); break;
     case 'export': exportBackup(); break;
     case 'import': qs('#importFile').click(); break;
+    case 'nav-review': location.hash = '#/review'; break;
     case 'clear-history': {
       store.history = []; saveHistory(); renderMePanel(); toast('足迹已清空');
       break;

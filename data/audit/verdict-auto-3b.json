@@ -1,0 +1,282 @@
+[
+  {
+    "id": "suzuki-alto",
+    "verdict": "mismatch",
+    "note": "图为一辆蓝色铃木GSX摩托车,与奥拓汽车完全无关"
+  },
+  {
+    "id": "suzuki-swift",
+    "verdict": "ok",
+    "note": "黄色铃木Swift Sport实拍图,车型相符"
+  },
+  {
+    "id": "suzuki-sx4",
+    "verdict": "mismatch",
+    "note": "图为铃木GSX摩托车,与天语SX4无关"
+  },
+  {
+    "id": "suzuki-vitara",
+    "verdict": "ok",
+    "note": "铃木Grand Vitara官方图,同车系相符"
+  },
+  {
+    "id": "suzuki-kizashi",
+    "verdict": "mismatch",
+    "note": "图为铃木GSX摩托车,与凯泽西轿车无关"
+  },
+  {
+    "id": "suzuki-jimny",
+    "verdict": "mismatch",
+    "note": "图为铃木GSX摩托车,与吉姆尼越野车无关"
+  },
+  {
+    "id": "tesla-model-3",
+    "verdict": "mismatch",
+    "note": "图为中国象棋棋盘截图,与Model 3无关"
+  },
+  {
+    "id": "tesla-model-y",
+    "verdict": "mismatch",
+    "note": "图为AI生成的卡通人物'HAaland'插画,与Model Y无关"
+  },
+  {
+    "id": "tesla-model-s",
+    "verdict": "mismatch",
+    "note": "图为石窟佛像雕塑照片,与Model S无关"
+  },
+  {
+    "id": "tesla-model-x",
+    "verdict": "mismatch",
+    "note": "图为动漫少女插画,与Model X无关"
+  },
+  {
+    "id": "tesla-cybertruck",
+    "verdict": "mismatch",
+    "note": "图为甜甜圈甜点照片,与Cybertruck无关"
+  },
+  {
+    "id": "toyota-corolla",
+    "verdict": "ok",
+    "note": "白色丰田卡罗拉实拍图,车型相符"
+  },
+  {
+    "id": "toyota-camry",
+    "verdict": "ok",
+    "note": "棕色丰田凯美瑞实拍图,车型相符"
+  },
+  {
+    "id": "toyota-rav4",
+    "verdict": "ok",
+    "note": "白色丰田RAV4荣放实拍图,车型相符"
+  },
+  {
+    "id": "toyota-highlander",
+    "verdict": "ok",
+    "note": "丰田Grand Highlander实拍图,汉兰达同车系"
+  },
+  {
+    "id": "toyota-prado",
+    "verdict": "mismatch",
+    "note": "图为江南水乡水墨画,与普拉多无关"
+  },
+  {
+    "id": "toyota-landcruiser",
+    "verdict": "ok",
+    "note": "丰田兰德酷路泽LC300实拍图,车型相符"
+  },
+  {
+    "id": "toyota-alphard",
+    "verdict": "ok",
+    "note": "丰田埃尔法官方图,车型相符"
+  },
+  {
+    "id": "toyota-sienna",
+    "verdict": "ok",
+    "note": "丰田赛那(Toyota&Pony展车)实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-golf",
+    "verdict": "ok",
+    "note": "白色大众高尔夫7实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-lavida",
+    "verdict": "ok",
+    "note": "白色大众朗逸实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-sagitar",
+    "verdict": "ok",
+    "note": "黑色大众速腾实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-passat",
+    "verdict": "ok",
+    "note": "新帕萨特官方图,车型相符"
+  },
+  {
+    "id": "volkswagen-magotan",
+    "verdict": "ok",
+    "note": "黑色大众迈腾实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-tiguanl",
+    "verdict": "ok",
+    "note": "黑色大众途观L实拍图,车型相符"
+  },
+  {
+    "id": "volkswagen-teramont",
+    "verdict": "mismatch",
+    "note": "图为新帕萨特官方图(轿车),并非途昂SUV"
+  },
+  {
+    "id": "volkswagen-beetle",
+    "verdict": "ok",
+    "note": "红色大众甲壳虫实拍图,车型相符"
+  },
+  {
+    "id": "volvo-xc90",
+    "verdict": "ok",
+    "note": "黑色沃尔沃XC90实拍图,车型相符"
+  },
+  {
+    "id": "volvo-s90",
+    "verdict": "mismatch",
+    "note": "图为英格兰银行建筑照片,与S90无关"
+  },
+  {
+    "id": "volvo-xc60",
+    "verdict": "ok",
+    "note": "白色沃尔沃XC60车展实拍图,车型相符"
+  },
+  {
+    "id": "volvo-ex90",
+    "verdict": "mismatch",
+    "note": "图为智能马桶遥控器评测照片,与EX90无关"
+  },
+  {
+    "id": "volvo-polestar",
+    "verdict": "mismatch",
+    "note": "图为沃尔沃XC60/S60/S90三车文章配图,非Polestar"
+  },
+  {
+    "id": "voyah-free",
+    "verdict": "mismatch",
+    "note": "图为草原风景照片,与岚图FREE无关"
+  },
+  {
+    "id": "voyah-dream",
+    "verdict": "mismatch",
+    "note": "图为美国马蹄湾峡谷风景照,与岚图梦想家无关"
+  },
+  {
+    "id": "voyah-passion",
+    "verdict": "mismatch",
+    "note": "图为牛肉面美食海报,与岚图追光无关"
+  },
+  {
+    "id": "voyah-courage",
+    "verdict": "mismatch",
+    "note": "图为草原风景照片,与岚图知音无关"
+  },
+  {
+    "id": "wuling-hongguang-miniev",
+    "verdict": "ok",
+    "note": "浅绿色五菱宏光MINIEV实拍图,车型相符"
+  },
+  {
+    "id": "wuling-bingo",
+    "verdict": "ok",
+    "note": "五菱缤果SUV官方图,缤果同车系"
+  },
+  {
+    "id": "wuling-xingguang",
+    "verdict": "ok",
+    "note": "五菱星光S官方图,星光同车系"
+  },
+  {
+    "id": "wuling-hongguang",
+    "verdict": "mismatch",
+    "note": "图为血小板止血血栓医学示意图,与五菱宏光无关"
+  },
+  {
+    "id": "wuling-zhiguang",
+    "verdict": "mismatch",
+    "note": "图为草书书法作品,与五菱之光无关"
+  },
+  {
+    "id": "wuling-victory",
+    "verdict": "ok",
+    "note": "五菱凯捷Victory官方图,车型相符"
+  },
+  {
+    "id": "xiaomi-auto-su7",
+    "verdict": "ok",
+    "note": "粉色小米SU7官方图,车型相符"
+  },
+  {
+    "id": "xiaomi-auto-su7-ultra",
+    "verdict": "mismatch",
+    "note": "图为小米13手机产品图,并非SU7 Ultra"
+  },
+  {
+    "id": "xiaomi-auto-yu7",
+    "verdict": "mismatch",
+    "note": "图为小米13手机产品图,并非YU7"
+  },
+  {
+    "id": "xpeng-p7",
+    "verdict": "ok",
+    "note": "全新一代小鹏P7官方图,车型相符"
+  },
+  {
+    "id": "xpeng-p7-plus",
+    "verdict": "mismatch",
+    "note": "图为全新一代P7官方图(与P7条目同图),并非P7+"
+  },
+  {
+    "id": "xpeng-mona-m03",
+    "verdict": "mismatch",
+    "note": "图为小鹏P7+行驶官图,并非MONA M03"
+  },
+  {
+    "id": "xpeng-g6",
+    "verdict": "ok",
+    "note": "小鹏G6官方图,车型相符"
+  },
+  {
+    "id": "xpeng-g9",
+    "verdict": "mismatch",
+    "note": "图为小鹏P7+官图(车牌处标P7+),并非G9"
+  },
+  {
+    "id": "xpeng-x9",
+    "verdict": "ok",
+    "note": "小鹏X9官方图,车型相符"
+  },
+  {
+    "id": "zeekr-001",
+    "verdict": "mismatch",
+    "note": "图为挑选土豆的人物照片,与极氪001无关"
+  },
+  {
+    "id": "zeekr-007",
+    "verdict": "mismatch",
+    "note": "图为湖南第一师范建筑照片,与极氪007无关"
+  },
+  {
+    "id": "zeekr-009",
+    "verdict": "mismatch",
+    "note": "图为蒋介石历史照片,与极氪009无关"
+  },
+  {
+    "id": "zeekr-x",
+    "verdict": "mismatch",
+    "note": "图为恰恰瓜子包装插画,与极氪X无关"
+  },
+  {
+    "id": "zeekr-7x",
+    "verdict": "mismatch",
+    "note": "图为2025年5月日历风景图,与极氪7X无关"
+  }
+]
