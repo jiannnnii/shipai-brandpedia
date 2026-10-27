@@ -270,8 +270,7 @@ function viewCategory(catId) {
     </div>
     <div class="cat-hero" style="padding-top:10px">
       <div class="ch-en" style="color:hsl(${c.h} ${c.s}% 45%)">${esc(c.en || '')}</div>
-      <div class="ch-name">${esc(c.name)}</div>
-      <div class="ch-desc">${esc(c.desc || '')} · 共 ${list.length} 个品牌</div>
+      <div class="ch-desc" style="margin-top:6px">${esc(c.desc || '')} · 共 ${list.length} 个品牌</div>
     </div>
     ${tiers.length > 1 ? chipRow('tier', tiers) : ''}
     ${countries.length > 1 ? chipRow('country', countries) : ''}
