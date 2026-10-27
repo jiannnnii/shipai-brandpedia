@@ -1,8 +1,9 @@
 // 合并 data/src/*.json → data/index.json(含校验)。在项目根目录运行:node tools/build-data.mjs
-import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 const SRC = 'data/src';
+const IMG_REMOTE = 'https://raw.githubusercontent.com/jiannnnii/shipai-brandpedia/master/data/img';
 const categories = JSON.parse(readFileSync(join(SRC, 'categories.json'), 'utf8'));
 const catIds = new Set(categories.map(c => c.id));
 
@@ -38,6 +39,10 @@ for (const b of brands) {
     pids.add(p.id);
     if (!p.name) errors.push(`${pt}: 产品缺 name`);
     if (p.price && typeof p.price.min !== 'number' && !p.price.label) errors.push(`${pt}: price 异常`);
+    const imgPath = join('data', 'img', `${p.id}.jpg`);
+    if (existsSync(imgPath) && statSync(imgPath).size > 8000) {
+      p.image = `${IMG_REMOTE}/${p.id}.jpg`;
+    }
     pu.push(p);
   }
   b.products = pu;
@@ -56,7 +61,7 @@ const out = {
   version: '数据版本 ' + new Date().toLocaleString('sv-SE').replace('T', ' '),
   counts,
   categories,
-  brands,
+  brands: finalBrands,
 };
 
 mkdirSync('data', { recursive: true });
