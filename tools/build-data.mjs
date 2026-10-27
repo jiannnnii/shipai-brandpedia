@@ -58,6 +58,7 @@ const counts = {
   products: finalBrands.reduce((s, b) => s + b.products.length, 0),
 };
 const out = {
+  vtime: Date.now(),
   version: '数据版本 ' + new Date().toLocaleString('sv-SE').replace('T', ' '),
   counts,
   categories,

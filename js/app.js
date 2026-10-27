@@ -47,7 +47,7 @@ export async function refreshRemote(silent = false) {
     const r = await fetch(store.prefs.remoteUrl, { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const rd = await r.json();
-    if ((rd.counts?.brands || 0) >= (DATA.counts?.brands || 0) && rd.version !== DATA.version) {
+    if ((rd.vtime || 0) > (DATA.vtime || 0) || (rd.counts?.brands || 0) > (DATA.counts?.brands || 0)) {
       const wasNewer = (rd.counts?.brands || 0) > (DATA.counts?.brands || 0);
       rd._src = 'remote';
       indexData(rd);
