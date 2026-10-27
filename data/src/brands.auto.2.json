@@ -10,7 +10,12 @@
       "founded": 1989,
       "hq": "日本爱知县丰田市",
       "tier": "豪华",
-      "tags": ["日系豪华", "静谧", "混动"],
+      "sub": "豪华",
+      "tags": [
+        "日系豪华",
+        "静谧",
+        "混动"
+      ],
       "slogan": "领未见,探非凡",
       "desc": "丰田旗下豪华品牌,1989年以LS400挑战奔驰S级一战成名,以极致静谧、可靠性与日式待客之道著称,多年蝉联美国豪华车销量冠军,在华长期加价的传奇。",
       "story": "1989年,丰田启动代号F1的十年秘密计划,LS400以「方向盘上立香槟塔」的广告震动北美豪华车市场,用静谧与可靠性向奔驰S级正面宣战。\n凭借匠人文化、克制的纺锤格栅设计与成熟的混动技术,雷克萨斯多年蝉联美国豪华车销量冠军,在中国更是长期保持加价神话,如今正以电气化与全新设计语言开启第二个时代。",
@@ -20,10 +25,21 @@
           "name": "LS",
           "nameEn": "LS",
           "type": "旗舰轿车",
-          "price": { "min": 900000, "max": 1200000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 900000,
+            "max": 1200000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "1989年问世的品牌奠基之作,初代LS400以静谧与可靠性正面挑战奔驰S级,历代旗舰延续东方豪华气质,搭载多级混动系统。",
-          "highlights": ["挑战S级", "多级混动", "静谧之王"],
-          "tags": ["轿车"],
+          "highlights": [
+            "挑战S级",
+            "多级混动",
+            "静谧之王"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -31,10 +47,21 @@
           "name": "ES",
           "nameEn": "ES",
           "type": "行政轿车",
-          "price": { "min": 290000, "max": 480000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 290000,
+            "max": 480000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "长期霸榜进口轿车销量的中大型行政轿车,2.5L自吸与混动主打平顺省心,曾一车难求加价提车,是雷克萨斯在华销量支柱。",
-          "highlights": ["进口销量王", "加价神话", "平顺省心"],
-          "tags": ["轿车"],
+          "highlights": [
+            "进口销量王",
+            "加价神话",
+            "平顺省心"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -42,10 +69,20 @@
           "name": "RX",
           "nameEn": "RX",
           "type": "中大型SUV",
-          "price": { "min": 400000, "max": 620000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 400000,
+            "max": 620000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "1998年开创豪华中大型SUV品类,历代以舒适静谧著称,纺锤格栅与内饰工艺精良,是家用豪华SUV的标杆之一。",
-          "highlights": ["品类开创者", "舒适之王"],
-          "tags": ["SUV"],
+          "highlights": [
+            "品类开创者",
+            "舒适之王"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -53,10 +90,21 @@
           "name": "NX",
           "nameEn": "NX",
           "type": "中型SUV",
-          "price": { "min": 320000, "max": 570000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 320000,
+            "max": 570000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型SUV,提供2.5L燃油、350h混动与400h+插混多种动力,造型凌厉,驾驶质感轻盈,入门豪华SUV热门之选。",
-          "highlights": ["多动力矩阵", "设计凌厉"],
-          "tags": ["SUV", "混动"],
+          "highlights": [
+            "多动力矩阵",
+            "设计凌厉"
+          ],
+          "tags": [
+            "SUV",
+            "混动"
+          ],
           "image": null
         },
         {
@@ -64,10 +112,21 @@
           "name": "LX",
           "nameEn": "LX",
           "type": "全尺寸SUV",
-          "price": { "min": 1200000, "max": 1500000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 1200000,
+            "max": 1500000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "旗舰全尺寸豪华越野SUV,非承载车身配合大排量动力,越野可靠与豪华舒适兼得,是硬派玩家与中东市场的挚爱。",
-          "highlights": ["旗舰越野", "非承载车身"],
-          "tags": ["SUV", "越野"],
+          "highlights": [
+            "旗舰越野",
+            "非承载车身"
+          ],
+          "tags": [
+            "SUV",
+            "越野"
+          ],
           "image": null
         },
         {
@@ -75,10 +134,20 @@
           "name": "LM",
           "nameEn": "LM",
           "type": "豪华MPV",
-          "price": { "min": 1200000, "max": 2000000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 1200000,
+            "max": 2000000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "超豪华MPV,四座御世版配隔断设计与带腿托航空座椅,上市初期加价数十万仍一车难求,商务接待的顶流座驾。",
-          "highlights": ["陆地头等舱", "加价王"],
-          "tags": ["MPV"],
+          "highlights": [
+            "陆地头等舱",
+            "加价王"
+          ],
+          "tags": [
+            "MPV"
+          ],
           "image": null
         },
         {
@@ -86,10 +155,20 @@
           "name": "LC",
           "nameEn": "LC 500",
           "type": "GT轿跑",
-          "price": { "min": 1100000, "max": 1300000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 1100000,
+            "max": 1300000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "量产即还原概念车的GT旗舰,5.0L V8自吸与多级混动并行,工业设计屡获大奖,是雷克萨斯设计美学的巅峰之作。",
-          "highlights": ["概念直接量产", "V8自吸"],
-          "tags": ["轿跑"],
+          "highlights": [
+            "概念直接量产",
+            "V8自吸"
+          ],
+          "tags": [
+            "轿跑"
+          ],
           "image": null
         }
       ]
@@ -104,7 +183,12 @@
       "founded": 1989,
       "hq": "中国香港",
       "tier": "豪华",
-      "tags": ["日系豪华", "大排量", "舒适"],
+      "sub": "豪华",
+      "tags": [
+        "日系豪华",
+        "大排量",
+        "舒适"
+      ],
       "slogan": "Empower the Drive",
       "desc": "日产旗下豪华品牌,1989年诞生于北美,以VQ发动机、线控转向与「大沙发」式舒适著称,2014年起由东风英菲尼迪国产,现收缩为小众豪华选择。",
       "story": "1989年11月8日,日产在北美发布英菲尼迪,Q45以无立柱车身与主动悬挂挑战奔驰宝马,早期广告里甚至不出现汽车,只拍山川湖海。\n2007年进入中国,2012年将全球总部迁至香港,2014年与东风合资国产Q50L与QX50。如今品牌收缩为小众选择,但VQ系列发动机与「大沙发」座椅仍是车迷心中的经典。",
@@ -114,10 +198,20 @@
           "name": "Q50L",
           "nameEn": "Q50L",
           "type": "中型轿车",
-          "price": { "min": 264800, "max": 389800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 264800,
+            "max": 389800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "东风英菲尼迪国产加长中型轿车,2.0T动力与奔驰C级同源,线控转向DAS独具一格,二手车市场性价比突出。",
-          "highlights": ["线控转向", "奔驰同源动力"],
-          "tags": ["轿车"],
+          "highlights": [
+            "线控转向",
+            "奔驰同源动力"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -125,10 +219,20 @@
           "name": "QX50",
           "nameEn": "QX50",
           "type": "中型SUV",
-          "price": { "min": 333800, "max": 469800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 333800,
+            "max": 469800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国产中型SUV,搭载可变压缩比2.0T VC-Turbo发动机这一黑科技,空间与舒适取向,终端优惠后是家用性价比之选。",
-          "highlights": ["VC-Turbo可变压缩比", "大沙发"],
-          "tags": ["SUV"],
+          "highlights": [
+            "VC-Turbo可变压缩比",
+            "大沙发"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -136,10 +240,20 @@
           "name": "QX60",
           "nameEn": "QX60",
           "type": "中大型SUV",
-          "price": { "min": 450000, "max": 660000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 450000,
+            "max": 660000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国产旗舰中大型SUV,2.0T VC-Turbo配9AT,三排七座布局,主打豪华静谧,是英菲尼迪在华现役旗舰。",
-          "highlights": ["国产旗舰", "三排七座"],
-          "tags": ["SUV"],
+          "highlights": [
+            "国产旗舰",
+            "三排七座"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -147,10 +261,21 @@
           "name": "QX80",
           "nameEn": "QX80",
           "type": "全尺寸SUV",
-          "price": { "min": 1100000, "max": 1500000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 1100000,
+            "max": 1500000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全尺寸非承载SUV,5.6L V8自然吸气,气势与拖挂能力兼备,中东王室与北美玩家钟爱,国内以进口方式少量销售。",
-          "highlights": ["5.6L V8", "全尺寸旗舰"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "5.6L V8",
+            "全尺寸旗舰"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -158,10 +283,21 @@
           "name": "QX55",
           "nameEn": "QX55",
           "type": "轿跑SUV",
-          "price": { "min": 450000, "max": 480000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 450000,
+            "max": 480000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "基于QX50打造的溜背轿跑SUV,2.0T VC-Turbo配CVT,造型是最大卖点,进口小众身份让它街头罕见。",
-          "highlights": ["溜背造型", "进口小众"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "溜背造型",
+            "进口小众"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -169,10 +305,21 @@
           "name": "ESQ",
           "nameEn": "ESQ",
           "type": "小型SUV",
-          "price": { "min": 199800, "max": 299800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 199800,
+            "max": 299800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "基于日产Juke的进口小型SUV,分体式大灯个性十足,1.6T动力曾相当凶悍,停产后成为情怀藏品。",
-          "highlights": ["分体大灯", "情怀藏品"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "分体大灯",
+            "情怀藏品"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -187,7 +334,12 @@
       "founded": 1986,
       "hq": "美国加州托兰斯",
       "tier": "豪华",
-      "tags": ["日系豪华", "精工", "四驱技术"],
+      "sub": "豪华",
+      "tags": [
+        "日系豪华",
+        "精工",
+        "四驱技术"
+      ],
       "slogan": "Precision Crafted Performance",
       "desc": "本田旗下豪华品牌,1986年诞生于北美,是日系豪华品牌开创者。以SH-AWD四驱与精密机械著称,NSX是东瀛超跑图腾,2023年退出中国市场。",
       "story": "1986年,本田在北美创立讴歌,比雷克萨斯和英菲尼迪早三年,是日系第一个豪华品牌,Legend一经推出便登顶美国进口车销冠。\n2006年进入中国,2016年广汽讴歌国产CDX、TLX-L与RDX。NSX以铝合金中置引擎写下「东瀛法拉利」传奇,但品牌整体声量渐弱,2023年正式退出中国市场。",
@@ -197,10 +349,20 @@
           "name": "CDX",
           "nameEn": "CDX",
           "type": "紧凑型SUV",
-          "price": { "min": 229800, "max": 349800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 229800,
+            "max": 349800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "广汽讴歌国产入门SUV,1.5T与2.0L混动可选,做工用料精致,终端优惠后性价比可观,已随品牌退市。",
-          "highlights": ["精致做工", "混动版本"],
-          "tags": ["SUV"],
+          "highlights": [
+            "精致做工",
+            "混动版本"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -208,10 +370,20 @@
           "name": "TLX-L",
           "nameEn": "TLX-L",
           "type": "中型轿车",
-          "price": { "min": 279800, "max": 369800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 279800,
+            "max": 369800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国产加长中型轿车,2.4L自吸配8速双离合,转向与底盘功力扎实,但品牌力不足销量惨淡,叫好不叫座。",
-          "highlights": ["8DCT", "操控扎实"],
-          "tags": ["轿车"],
+          "highlights": [
+            "8DCT",
+            "操控扎实"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -219,10 +391,20 @@
           "name": "RDX",
           "nameEn": "RDX",
           "type": "中型SUV",
-          "price": { "min": 328000, "max": 460000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 328000,
+            "max": 460000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国产中型SUV,2.0T+10AT黄金动力组合,SH-AWD四驱版操控出色,曾获多个媒体年度SUV奖项,是讴歌在华口碑之作。",
-          "highlights": ["2.0T+10AT", "SH-AWD"],
-          "tags": ["SUV"],
+          "highlights": [
+            "2.0T+10AT",
+            "SH-AWD"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -230,10 +412,21 @@
           "name": "MDX",
           "nameEn": "MDX",
           "type": "中大型SUV",
-          "price": { "min": 650000, "max": 900000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 650000,
+            "max": 900000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "进口中大型七座SUV,3.0L混动与SH-AWD四驱,美式豪华与日系精工结合,是讴歌在华旗舰,价格坚挺保有量小。",
-          "highlights": ["混动旗舰", "七座"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "混动旗舰",
+            "七座"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -241,10 +434,21 @@
           "name": "NSX",
           "nameEn": "NSX",
           "type": "混动超跑",
-          "price": { "min": 2800000, "max": 3000000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 2800000,
+            "max": 3000000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "第二代NSX以3.5T V6加三电机混动回归,铝与碳纤维车身,「东瀛法拉利」的复仇之作,国内限量发售,已成收藏级超跑。",
-          "highlights": ["混动超跑", "中置引擎"],
-          "tags": ["跑车", "进口"],
+          "highlights": [
+            "混动超跑",
+            "中置引擎"
+          ],
+          "tags": [
+            "跑车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -259,7 +463,12 @@
       "founded": 1937,
       "hq": "日本爱知县丰田市",
       "tier": "大众",
-      "tags": ["可靠耐用", "混动先驱", "高保值"],
+      "sub": "家用",
+      "tags": [
+        "可靠耐用",
+        "混动先驱",
+        "高保值"
+      ],
       "slogan": "车到山前必有路,有路必有丰田车",
       "desc": "全球销量最大的汽车制造商,以精益生产方式和极致可靠性定义现代汽车工业,卡罗拉、凯美瑞、普拉多皆成图腾,混动技术全球领先,「开不坏的丰田」深入人心。",
       "story": "1937年丰田喜一郎在爱知县创立丰田汽车,以精益生产方式(TPS)重塑全球制造业,「Just in Time」成为管理圣经。\n1966年卡罗拉问世,成为人类历史上最畅销的车型,1997年普锐斯开启混合动力时代。丰田多年蝉联全球销量第一,在中国以一汽丰田、广汽丰田双线布局,TNGA架构与双车战略下,可靠口碑与保值率深入人心。",
@@ -269,10 +478,20 @@
           "name": "卡罗拉",
           "nameEn": "Corolla",
           "type": "紧凑型轿车",
-          "price": { "min": 116800, "max": 153800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 116800,
+            "max": 153800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全球累计销量超5000万辆的国民家轿,1.2T与1.8L混动可选,TNGA架构后标配丰富安全配置,省油耐用的代名词。",
-          "highlights": ["全球销量王", "省油耐用"],
-          "tags": ["轿车"],
+          "highlights": [
+            "全球销量王",
+            "省油耐用"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -280,10 +499,21 @@
           "name": "凯美瑞",
           "nameEn": "Camry",
           "type": "中型轿车",
-          "price": { "min": 171800, "max": 206800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 171800,
+            "max": 206800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型轿车保值率常青树,2.0L、2.5L自吸与双擎混动可选,第九代全面电动化,平衡、省心、舒适是它的产品哲学。",
-          "highlights": ["高保值", "双擎混动"],
-          "tags": ["轿车", "混动"],
+          "highlights": [
+            "高保值",
+            "双擎混动"
+          ],
+          "tags": [
+            "轿车",
+            "混动"
+          ],
           "image": null
         },
         {
@@ -291,10 +521,21 @@
           "name": "RAV4荣放",
           "nameEn": "RAV4",
           "type": "紧凑型SUV",
-          "price": { "min": 175800, "max": 260800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 175800,
+            "max": 260800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "城市SUV鼻祖之一,基于TNGA-K平台,提供燃油、双擎与双擎E+多种动力,四驱版本越野能力同级领先,全球常青。",
-          "highlights": ["城市SUV鼻祖", "多种动力"],
-          "tags": ["SUV", "混动"],
+          "highlights": [
+            "城市SUV鼻祖",
+            "多种动力"
+          ],
+          "tags": [
+            "SUV",
+            "混动"
+          ],
           "image": null
         },
         {
@@ -302,10 +543,20 @@
           "name": "汉兰达",
           "nameEn": "Highlander",
           "type": "中型SUV",
-          "price": { "min": 249800, "max": 348800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 249800,
+            "max": 348800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型七座SUV标杆,「开不坏的汉兰达」曾是同级保值率天花板,2.0T与2.5L双擎可选,第三排空间实用。",
-          "highlights": ["七座标杆", "保值天花板"],
-          "tags": ["SUV"],
+          "highlights": [
+            "七座标杆",
+            "保值天花板"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -313,10 +564,21 @@
           "name": "普拉多",
           "nameEn": "Prado",
           "type": "硬派越野SUV",
-          "price": { "min": 459800, "max": 549800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 459800,
+            "max": 549800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "硬派越野图腾,非承载车身配合全时四驱,全新一代回归国内生产并换装2.4T混动,是进藏、穿越圈层的信仰之车。",
-          "highlights": ["越野信仰", "非承载车身"],
-          "tags": ["SUV", "越野"],
+          "highlights": [
+            "越野信仰",
+            "非承载车身"
+          ],
+          "tags": [
+            "SUV",
+            "越野"
+          ],
           "image": null
         },
         {
@@ -324,10 +586,22 @@
           "name": "兰德酷路泽",
           "nameEn": "Land Cruiser",
           "type": "全尺寸越野SUV",
-          "price": { "min": 850000, "max": 1200000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 850000,
+            "max": 1200000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全球豪华硬派越野旗舰,LC300配3.5T与多地形选择系统,中东版长期加价,「陆地巡洋舰」名不虚传。",
-          "highlights": ["陆地巡洋舰", "豪华硬派"],
-          "tags": ["SUV", "越野", "进口"],
+          "highlights": [
+            "陆地巡洋舰",
+            "豪华硬派"
+          ],
+          "tags": [
+            "SUV",
+            "越野",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -335,10 +609,20 @@
           "name": "埃尔法",
           "nameEn": "Alphard",
           "type": "豪华MPV",
-          "price": { "min": 819000, "max": 920000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 819000,
+            "max": 920000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "顶级豪华MPV,2.5L混动,是明星保姆车文化的顶点,加价数十万仍一车难求,港澳明星与商务接待首选。",
-          "highlights": ["保姆车之王", "加价传奇"],
-          "tags": ["MPV"],
+          "highlights": [
+            "保姆车之王",
+            "加价传奇"
+          ],
+          "tags": [
+            "MPV"
+          ],
           "image": null
         },
         {
@@ -346,10 +630,21 @@
           "name": "赛那",
           "nameEn": "Sienna",
           "type": "家用MPV",
-          "price": { "min": 309800, "max": 411800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 309800,
+            "max": 411800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "广汽丰田国产家用MPV,全系2.5L混动,第二排航空座椅,油耗低空间大,是与GL8分庭抗礼的家庭之选。",
-          "highlights": ["全系混动", "家用MPV"],
-          "tags": ["MPV", "混动"],
+          "highlights": [
+            "全系混动",
+            "家用MPV"
+          ],
+          "tags": [
+            "MPV",
+            "混动"
+          ],
           "image": null
         }
       ]
@@ -364,7 +659,12 @@
       "founded": 1948,
       "hq": "日本东京",
       "tier": "大众",
-      "tags": ["发动机技术", "MM理念", "运动"],
+      "sub": "家用",
+      "tags": [
+        "发动机技术",
+        "MM理念",
+        "运动"
+      ],
       "slogan": "The Power of Dreams",
       "desc": "全球最大发动机制造商之一,从摩托车到F1冠军,以VTEC、i-MMD混动与MM空间理念闻名,思域、雅阁、CR-V是全球常青树,「买发动机送车」是玩笑更是褒奖。",
       "story": "1948年本田宗一郎创立本田技研,从摩托车起家,1959年成为世界最大摩托车制造商,1963年造车,并以独立车队征战F1登顶。\nVTEC、i-MMD混动与MM空间理念深入人心,思域、雅阁、CR-V皆是全球车坛常青树。在中国广汽本田、东风本田双线合资,发动机技术之强素有「买发动机送车」的美谈。",
@@ -374,10 +674,20 @@
           "name": "飞度",
           "nameEn": "Fit",
           "type": "小型车",
-          "price": { "min": 81800, "max": 108800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 81800,
+            "max": 108800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型车市场的「平民超跑」,1.5L地球梦发动机动力亮眼,魔术座椅让空间变化多端,GK5改装文化风靡玩车圈。",
-          "highlights": ["平民超跑", "魔术座椅"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "平民超跑",
+            "魔术座椅"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -385,10 +695,21 @@
           "name": "思域",
           "nameEn": "Civic",
           "type": "紧凑型轿车",
-          "price": { "min": 129900, "max": 163900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129900,
+            "max": 163900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "运动家轿标杆,1.5T配CVT兼顾省油与激情,十代思域引领轿跑化设计,Type R更是前驱性能图腾,改装文化深厚。",
-          "highlights": ["运动家轿", "Type R图腾"],
-          "tags": ["轿车", "运动"],
+          "highlights": [
+            "运动家轿",
+            "Type R图腾"
+          ],
+          "tags": [
+            "轿车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -396,10 +717,21 @@
           "name": "型格",
           "nameEn": "Integra",
           "type": "紧凑型轿车",
-          "price": { "min": 129900, "max": 166900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129900,
+            "max": 166900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "思域姊妹车,广汽本田国产运动家轿,1.5T配CVT或6MT,继承INTEGRA经典之名,外观更凶,受年轻用户喜爱。",
-          "highlights": ["6MT可选", "经典之名"],
-          "tags": ["轿车", "运动"],
+          "highlights": [
+            "6MT可选",
+            "经典之名"
+          ],
+          "tags": [
+            "轿车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -407,10 +739,20 @@
           "name": "雅阁",
           "nameEn": "Accord",
           "type": "中型轿车",
-          "price": { "min": 179800, "max": 259800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 179800,
+            "max": 259800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型轿车常青树,第十一代提供1.5T与插混动力,设计大气、空间宽敞,历代蝉联北美与国内中型车销量前列。",
-          "highlights": ["销量常青树", "插混版本"],
-          "tags": ["轿车"],
+          "highlights": [
+            "销量常青树",
+            "插混版本"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -418,10 +760,21 @@
           "name": "CR-V",
           "nameEn": "CR-V",
           "type": "紧凑型SUV",
-          "price": { "min": 185900, "max": 279900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 185900,
+            "max": 279900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "城市SUV开创者之一,全球累计销量数千万辆,1.5T与2.0L e:HEV混动可选,空间灵活、保值率高,家用SUV安全牌。",
-          "highlights": ["城市SUV鼻祖", "e:HEV混动"],
-          "tags": ["SUV", "混动"],
+          "highlights": [
+            "城市SUV鼻祖",
+            "e:HEV混动"
+          ],
+          "tags": [
+            "SUV",
+            "混动"
+          ],
           "image": null
         },
         {
@@ -429,10 +782,21 @@
           "name": "奥德赛",
           "nameEn": "Odyssey",
           "type": "家用MPV",
-          "price": { "min": 235800, "max": 354800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 235800,
+            "max": 354800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "家用MPV标杆,2.0L混动,侧滑门加低地台,第三排可翻平形成「钓鱼凳」,奶爸车圈层文化浓厚。",
-          "highlights": ["侧滑门", "低地台"],
-          "tags": ["MPV", "混动"],
+          "highlights": [
+            "侧滑门",
+            "低地台"
+          ],
+          "tags": [
+            "MPV",
+            "混动"
+          ],
           "image": null
         }
       ]
@@ -447,7 +811,12 @@
       "founded": 1933,
       "hq": "日本横滨",
       "tier": "大众",
-      "tags": ["大沙发", "舒适", "销量常青"],
+      "sub": "家用",
+      "tags": [
+        "大沙发",
+        "舒适",
+        "销量常青"
+      ],
       "slogan": "人·车·生活",
       "desc": "日系三大车企之一,以舒适性见长,「移动大沙发」口碑深入人心。GT-R是性价比超跑神话,聆风开创电动时代,轩逸常年位居中国轿车销量榜首。",
       "story": "1933年日产在横滨创立,Datsun轿车让汽车驶入日本寻常家庭,80年代天际线与Z系跑车扬名海外。\n1999年与雷诺组成联盟,GT-R「东瀛战神」以性价比屠戮超跑圈,聆风则是全球首款量产纯电车。在中国,东风日产凭借轩逸、天籁、奇骏长盛不衰,「移动大沙发」的舒适性标签深入人心。",
@@ -457,10 +826,20 @@
           "name": "轩逸",
           "nameEn": "Sylphy",
           "type": "紧凑型轿车",
-          "price": { "min": 108600, "max": 174900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 108600,
+            "max": 174900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "常年霸榜轿车销量前三的「家轿王」,1.6L自吸配CVT平顺省油,座椅舒适性冠绝同级,家商两用双料认证。",
-          "highlights": ["家轿王", "大沙发座椅"],
-          "tags": ["轿车"],
+          "highlights": [
+            "家轿王",
+            "大沙发座椅"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -468,10 +847,20 @@
           "name": "天籁",
           "nameEn": "Teana",
           "type": "中型轿车",
-          "price": { "min": 179800, "max": 269800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 179800,
+            "max": 269800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型「大沙发」,2.0L自吸与2.0T VC-Turbo可变压缩比发动机可选,Zero Gravity重力座椅长途不累,商务家用两相宜。",
-          "highlights": ["VC-Turbo", "重力座椅"],
-          "tags": ["轿车"],
+          "highlights": [
+            "VC-Turbo",
+            "重力座椅"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -479,10 +868,20 @@
           "name": "逍客",
           "nameEn": "Qashqai",
           "type": "紧凑型SUV",
-          "price": { "min": 154900, "max": 188900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 154900,
+            "max": 188900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型SUV常青树,1.3T轻混动力,城市通勤舒适省油,曾开创跨界SUV品类,是15万级家用SUV经典之选。",
-          "highlights": ["跨界鼻祖", "省油舒适"],
-          "tags": ["SUV"],
+          "highlights": [
+            "跨界鼻祖",
+            "省油舒适"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -490,10 +889,20 @@
           "name": "奇骏",
           "nameEn": "X-Trail",
           "type": "紧凑型SUV",
-          "price": { "min": 189900, "max": 273300, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 189900,
+            "max": 273300,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "东风日产主力SUV,全新一代1.5T VC-Turbo三缸曾引争议后推经典四缸版,4x4-i智能四驱保留越野基因。",
-          "highlights": ["4x4-i四驱", "主力走量"],
-          "tags": ["SUV"],
+          "highlights": [
+            "4x4-i四驱",
+            "主力走量"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -501,10 +910,22 @@
           "name": "途乐",
           "nameEn": "Patrol",
           "type": "全尺寸越野SUV",
-          "price": { "min": 500000, "max": 900000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 500000,
+            "max": 900000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全尺寸非承载越野旗舰,4.0L与5.6L V8动力,中东版风靡国内越野圈,是与陆巡并立的「沙漠之王」。",
-          "highlights": ["沙漠之王", "V8动力"],
-          "tags": ["SUV", "越野", "进口"],
+          "highlights": [
+            "沙漠之王",
+            "V8动力"
+          ],
+          "tags": [
+            "SUV",
+            "越野",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -512,10 +933,21 @@
           "name": "GT-R",
           "nameEn": "GT-R",
           "type": "性能跑车",
-          "price": { "min": 1300000, "max": 1700000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 1300000,
+            "max": 1700000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "「东瀛战神」,3.8T V6双涡轮,改装潜力深不见底,纽北圈速屠戮超跑的性价比神话,R35是几代人的Dream Car。",
-          "highlights": ["东瀛战神", "改装潜力"],
-          "tags": ["跑车", "进口"],
+          "highlights": [
+            "东瀛战神",
+            "改装潜力"
+          ],
+          "tags": [
+            "跑车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -530,7 +962,12 @@
       "founded": 1920,
       "hq": "日本广岛",
       "tier": "大众",
-      "tags": ["人马一体", "魂动设计", "创驰蓝天"],
+      "sub": "家用",
+      "tags": [
+        "人马一体",
+        "魂动设计",
+        "创驰蓝天"
+      ],
       "slogan": "Zoom-Zoom",
       "desc": "日本广岛的车企偏执狂,唯一让转子发动机登顶勒芒的制造商,坚持自然吸气与驾驶乐趣,魂动设计与创驰蓝天技术自成一派,是「小而美」造车哲学的代表。",
       "story": "1920年松田重次郎在广岛创立东洋软木工业,后转型机械与汽车。马自达是唯一坚持转子发动机并让它夺冠勒芒的车企,1991年787B登顶勒芒24小时耐力赛。\n创驰蓝天技术与魂动设计让它成为小而美的技术偏执狂,MX-5则是史上最畅销的敞篷跑车。在中国经历一汽马自达并入长安马自达后,凭「人马一体」的驾驶乐趣收获忠实拥趸。",
@@ -540,10 +977,21 @@
           "name": "马自达3 昂克赛拉",
           "nameEn": "Mazda3 Axela",
           "type": "紧凑型轿车",
-          "price": { "min": 115900, "max": 169900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 115900,
+            "max": 169900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "「东瀛宝马」,以创驰蓝天底盘与精准转向见长,2.0L自吸配6AT平顺跟手,魂动红车漆是选装率之王。",
-          "highlights": ["人马一体", "魂动红"],
-          "tags": ["轿车", "运动"],
+          "highlights": [
+            "人马一体",
+            "魂动红"
+          ],
+          "tags": [
+            "轿车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -551,10 +999,21 @@
           "name": "阿特兹",
           "nameEn": "Atenza",
           "type": "中型轿车",
-          "price": { "min": 175800, "max": 239800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 175800,
+            "max": 239800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型运动轿车,2.0L与2.5L自吸,魂动设计最纯粹的载体之一,操控口碑极佳,随一汽马自达并入长安马自达后停售。",
-          "highlights": ["魂动设计", "操控口碑"],
-          "tags": ["轿车", "运动"],
+          "highlights": [
+            "魂动设计",
+            "操控口碑"
+          ],
+          "tags": [
+            "轿车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -562,10 +1021,20 @@
           "name": "CX-30",
           "nameEn": "CX-30",
           "type": "紧凑型SUV",
-          "price": { "min": 129900, "max": 179900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129900,
+            "max": 179900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "跨界紧凑SUV,曾引入压燃Skyactiv-X发动机,操控与设计在线,是马自达美学的入门之选。",
-          "highlights": ["压燃发动机", "跨界设计"],
-          "tags": ["SUV"],
+          "highlights": [
+            "压燃发动机",
+            "跨界设计"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -573,10 +1042,20 @@
           "name": "CX-5",
           "nameEn": "CX-5",
           "type": "紧凑型SUV",
-          "price": { "min": 175800, "max": 236800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 175800,
+            "max": 236800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全球畅销紧凑型SUV,2.0L与2.5L自吸配6AT,GVC Plus车身矢量控制,公路操控同级罕见,后推6MT手动版。",
-          "highlights": ["GVC Plus", "6MT手动"],
-          "tags": ["SUV"],
+          "highlights": [
+            "GVC Plus",
+            "6MT手动"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -584,10 +1063,20 @@
           "name": "CX-50行也",
           "nameEn": "CX-50",
           "type": "紧凑型SUV",
-          "price": { "min": 159800, "max": 206800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 159800,
+            "max": 206800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "长安马自达主打户外风格的紧凑SUV,2.5L自吸,空间加大,是适合自驾露营场景的「山系」SUV。",
-          "highlights": ["山系户外", "空间加大"],
-          "tags": ["SUV"],
+          "highlights": [
+            "山系户外",
+            "空间加大"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -595,10 +1084,21 @@
           "name": "MX-5",
           "nameEn": "MX-5",
           "type": "敞篷跑车",
-          "price": { "min": 330000, "max": 360000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 330000,
+            "max": 360000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "全球最畅销双座敞篷跑车,「人马一体」的极致载体,2.0L自吸配6MT,轻量化后驱乐趣无穷,限量入华一车难求。",
-          "highlights": ["最畅销敞篷", "自吸+6MT"],
-          "tags": ["跑车", "进口"],
+          "highlights": [
+            "最畅销敞篷",
+            "自吸+6MT"
+          ],
+          "tags": [
+            "跑车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -613,7 +1113,12 @@
       "founded": 1953,
       "hq": "日本东京",
       "tier": "大众",
-      "tags": ["水平对置", "全时四驱", "安全"],
+      "sub": "越野",
+      "tags": [
+        "水平对置",
+        "全时四驱",
+        "安全"
+      ],
       "slogan": "Confidence in Motion",
       "desc": "以水平对置发动机与左右对称全时四驱立身的日本车企,WRC拉力传奇,安全口碑极佳,全系进口中国销售,是小众而忠诚度极高的品牌。",
       "story": "斯巴鲁前身中岛飞行机是航空工业巨头,1953年整合为富士重工,名字取自昴宿星团「六连星」。\n它坚持水平对置发动机与左右对称全时四驱的低重心布局,WRC拉力赛场的蓝色火焰所向披靡,BRZ与森林人拥有大批拥趸。全系进口销售的斯巴鲁是小众却忠诚的选择,安全碰撞成绩常年名列前茅。",
@@ -623,10 +1128,21 @@
           "name": "XV旭豹",
           "nameEn": "XV / Crosstrek",
           "type": "紧凑型SUV",
-          "price": { "min": 191800, "max": 233800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 191800,
+            "max": 233800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "跨界紧凑SUV,2.0L自吸配全时四驱,离地间隙高,现更名「旭豹」,是斯巴鲁入门全能选手。",
-          "highlights": ["全时四驱", "跨界通过性"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "全时四驱",
+            "跨界通过性"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -634,10 +1150,21 @@
           "name": "森林人",
           "nameEn": "Forester",
           "type": "紧凑型SUV",
-          "price": { "min": 223800, "max": 285800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 223800,
+            "max": 285800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "斯巴鲁销量主力,2.0L自吸加左右对称全时四驱标配,视野开阔、碰撞成绩出色,徒步露营玩家的可靠伙伴。",
-          "highlights": ["销量主力", "碰撞优等生"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "销量主力",
+            "碰撞优等生"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -645,10 +1172,21 @@
           "name": "力狮",
           "nameEn": "Legacy",
           "type": "中型轿车",
-          "price": { "min": 204800, "max": 247800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 204800,
+            "max": 247800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "进口中型轿车,2.5L自吸配全时四驱,四驱轿车在同价位独树一帜,是低调理性派的选择。",
-          "highlights": ["四驱轿车", "低调实在"],
-          "tags": ["轿车", "进口"],
+          "highlights": [
+            "四驱轿车",
+            "低调实在"
+          ],
+          "tags": [
+            "轿车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -656,10 +1194,21 @@
           "name": "傲虎",
           "nameEn": "Outback",
           "type": "跨界旅行车",
-          "price": { "min": 299800, "max": 349800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 299800,
+            "max": 349800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "跨界旅行车鼻祖,2.5L自吸配全时四驱,离地间隙堪比SUV,长途穿越舒适安静,瓦罐迷的终极选择之一。",
-          "highlights": ["瓦罐鼻祖", "长途穿越"],
-          "tags": ["旅行车", "进口"],
+          "highlights": [
+            "瓦罐鼻祖",
+            "长途穿越"
+          ],
+          "tags": [
+            "旅行车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -667,10 +1216,21 @@
           "name": "BRZ",
           "nameEn": "BRZ",
           "type": "双门跑车",
-          "price": { "min": 308800, "max": 340800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 308800,
+            "max": 340800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与丰田GR86同平台的前置后驱小跑车,2.4L自吸高转引擎,漂移入门神器,手动挡纯粹乐趣,玩车圈入门信仰。",
-          "highlights": ["后驱漂移", "2.4L自吸"],
-          "tags": ["跑车", "进口"],
+          "highlights": [
+            "后驱漂移",
+            "2.4L自吸"
+          ],
+          "tags": [
+            "跑车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -685,7 +1245,12 @@
       "founded": 1970,
       "hq": "日本东京",
       "tier": "大众",
-      "tags": ["越野世家", "达喀尔", "发动机供应商"],
+      "sub": "越野",
+      "tags": [
+        "越野世家",
+        "达喀尔",
+        "发动机供应商"
+      ],
       "slogan": "Drive your Ambition",
       "desc": "三菱集团旗下车企,帕杰罗在达喀尔12次夺冠,4G63发动机曾装备大半个中国自主品牌,堪称中国汽车工业启蒙者,2023年退出中国市场。",
       "story": "三菱财阀19世纪70年代起步,三菱汽车1970年从三菱重工独立。帕杰罗在达喀尔拉力赛12次夺冠,「山猫」与Lancer Evolution成为越野和性能迷的信仰。\n90年代起三菱发动机曾装备大半个中国自主品牌,可谓中国汽车的启蒙老师。广汽三菱2023年退出中国,但欧蓝德与帕杰罗的耐用口碑仍在民间流传。",
@@ -695,10 +1260,20 @@
           "name": "劲炫",
           "nameEn": "ASX",
           "type": "紧凑型SUV",
-          "price": { "min": 114800, "max": 155800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 114800,
+            "max": 155800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "广汽三菱入门SUV,1.6L与2.0L自吸,皮实省油,终端优惠大,是三菱家用车的务实之选,已随品牌退市。",
-          "highlights": ["皮实省油", "务实之选"],
-          "tags": ["SUV"],
+          "highlights": [
+            "皮实省油",
+            "务实之选"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -706,10 +1281,20 @@
           "name": "奕歌",
           "nameEn": "Eclipse Cross",
           "type": "紧凑型SUV",
-          "price": { "min": 129800, "max": 185800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129800,
+            "max": 185800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "1.5T涡轮动力,溜背造型与贯穿式双天幕设计年轻化,曾担三菱在华走量重任,现已停产。",
-          "highlights": ["溜背造型", "1.5T动力"],
-          "tags": ["SUV"],
+          "highlights": [
+            "溜背造型",
+            "1.5T动力"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -717,10 +1302,20 @@
           "name": "欧蓝德",
           "nameEn": "Outlander",
           "type": "紧凑型SUV",
-          "price": { "min": 159800, "max": 225800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 159800,
+            "max": 225800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "从进口到国产的销量担当,2.0L与2.4L自吸四驱版本性价比极高,「20万内四驱七座」曾是其杀手锏。",
-          "highlights": ["四驱七座", "销量担当"],
-          "tags": ["SUV"],
+          "highlights": [
+            "四驱七座",
+            "销量担当"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -728,10 +1323,22 @@
           "name": "帕杰罗",
           "nameEn": "Pajero",
           "type": "硬派越野SUV",
-          "price": { "min": 349800, "max": 399800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 349800,
+            "max": 399800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "达喀尔拉力12次夺冠的传奇越野车,3.0L V6配超选四驱,内嵌梯形车架兼顾公路与极限穿越,海外停产后成绝唱。",
-          "highlights": ["达喀尔12冠", "超选四驱"],
-          "tags": ["SUV", "越野", "进口"],
+          "highlights": [
+            "达喀尔12冠",
+            "超选四驱"
+          ],
+          "tags": [
+            "SUV",
+            "越野",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -739,10 +1346,21 @@
           "name": "Lancer Evolution",
           "nameEn": "Lancer Evolution",
           "type": "性能轿车",
-          "price": { "min": 450000, "max": 600000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 450000,
+            "max": 600000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "拉力血统性能传奇,4G63红头涡轮机潜力深不见底,AYC主动偏航控制加持,十代更迭后停产,仍是JDM车迷信仰。",
-          "highlights": ["4G63红头机", "AYC"],
-          "tags": ["性能车", "进口"],
+          "highlights": [
+            "4G63红头机",
+            "AYC"
+          ],
+          "tags": [
+            "性能车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -757,7 +1375,12 @@
       "founded": 1909,
       "hq": "日本静冈县滨松市",
       "tier": "国民",
-      "tags": ["小车之王", "K-CAR", "轻巧可靠"],
+      "sub": "家用",
+      "tags": [
+        "小车之王",
+        "K-CAR",
+        "轻巧可靠"
+      ],
       "slogan": "Way of Life!",
       "desc": "小车之王,以K-CAR与轻型车闻名全球,奥拓、雨燕、吉姆尼各有信仰,发动机小型化与轻量化登峰造极,2018年退出中国合资市场。",
       "story": "1909年铃木道雄在滨松创立织机制作所,1955年推出首款量产车Suzulight。它专注小车与K-CAR,奥拓、雨燕让中国人第一次感到「小车也可以很精致」。\n长安铃木曾是微车市场霸主,2018年因战略收缩退出中国合资市场,但吉姆尼的越野信仰与全球190多个国家的市场,让它稳坐小车之王。",
@@ -767,10 +1390,20 @@
           "name": "奥拓",
           "nameEn": "Alto",
           "type": "微型车",
-          "price": { "min": 40000, "max": 65000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 40000,
+            "max": 65000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "微车启蒙者,长安奥拓让「奥拓」成为微车代名词,小排量发动机省到极致,是无数中国家庭的第一辆车。",
-          "highlights": ["国民第一车", "微车启蒙"],
-          "tags": ["微型车"],
+          "highlights": [
+            "国民第一车",
+            "微车启蒙"
+          ],
+          "tags": [
+            "微型车"
+          ],
           "image": null
         },
         {
@@ -778,10 +1411,21 @@
           "name": "雨燕",
           "nameEn": "Swift",
           "type": "小型两厢车",
-          "price": { "min": 59800, "max": 98800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 59800,
+            "max": 98800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "精品小型两厢,1.5L与1.6L动力,雨燕曾活跃于场地与拉力赛场,轻盈车身与扎实底盘深受改装玩家喜爱。",
-          "highlights": ["拉力血统", "改装热门"],
-          "tags": ["两厢车", "运动"],
+          "highlights": [
+            "拉力血统",
+            "改装热门"
+          ],
+          "tags": [
+            "两厢车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -789,10 +1433,20 @@
           "name": "天语SX4",
           "nameEn": "SX4",
           "type": "跨界两厢车",
-          "price": { "min": 79800, "max": 128800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 79800,
+            "max": 128800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "长安铃木早期跨界两厢车,高离地间隙开创跨界先河,皮实耐用口碑佳,是跨界SUV的先行者。",
-          "highlights": ["跨界先行者", "皮实耐用"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "跨界先行者",
+            "皮实耐用"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -800,10 +1454,20 @@
           "name": "维特拉",
           "nameEn": "Vitara",
           "type": "小型SUV",
-          "price": { "min": 99800, "max": 159800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 99800,
+            "max": 159800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型SUV,1.4T BOOSTERJET发动机,全时四驱版同级罕见,省油又个性,是一台被低估的硬派小型SUV。",
-          "highlights": ["全时四驱", "1.4T省油"],
-          "tags": ["SUV"],
+          "highlights": [
+            "全时四驱",
+            "1.4T省油"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -811,10 +1475,21 @@
           "name": "凯泽西",
           "nameEn": "Kizashi",
           "type": "中型轿车",
-          "price": { "min": 188800, "max": 248800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 188800,
+            "max": 248800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "铃木冲击中型车的孤勇之作,2.4L自吸配6MT或CVT,海外版有四驱,做工用料远超品牌预期,存世量稀少。",
-          "highlights": ["越级做工", "存世稀少"],
-          "tags": ["轿车", "进口"],
+          "highlights": [
+            "越级做工",
+            "存世稀少"
+          ],
+          "tags": [
+            "轿车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -822,10 +1497,21 @@
           "name": "吉姆尼",
           "nameEn": "Jimny",
           "type": "小型硬派越野",
-          "price": { "min": 141800, "max": 175800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 141800,
+            "max": 175800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小排量加非承载车身加分时四驱,迷你G级造型,越野圈「小神车」,全新一代国内以平行进口加价销售。",
-          "highlights": ["迷你G级", "分时四驱"],
-          "tags": ["越野", "进口"],
+          "highlights": [
+            "迷你G级",
+            "分时四驱"
+          ],
+          "tags": [
+            "越野",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -840,7 +1526,12 @@
       "founded": 1967,
       "hq": "韩国首尔",
       "tier": "大众",
-      "tags": ["韩系", "高性价比", "设计"],
+      "sub": "家用",
+      "tags": [
+        "韩系",
+        "高性价比",
+        "设计"
+      ],
       "slogan": "New Thinking. New Possibilities.",
       "desc": "韩国最大汽车集团现代汽车旗下主品牌,全球销量前三,以设计、性价比与快速迭代见长,伊兰特、索纳塔是两代中国人的家轿记忆。",
       "story": "1967年郑周永创立现代汽车,1975年凭借Pony成为少数掌握整车自主开发能力的亚洲车企,90年代以超长质保杀入美国市场。\n与起亚组成现代汽车集团后多年稳居全球销量前三。北京现代2002年成立,伊兰特曾是出租车与家轿的国民记忆,如今以设计、性价比与氢能源技术寻找新的增长点。",
@@ -850,10 +1541,20 @@
           "name": "伊兰特",
           "nameEn": "Elantra",
           "type": "紧凑型轿车",
-          "price": { "min": 99800, "max": 149800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 99800,
+            "max": 149800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "韩系家轿图腾,历经七代更迭,1.5L与1.4T动力,最新一代设计激进,曾长期是出租车与家销市场主力。",
-          "highlights": ["家轿图腾", "七代更迭"],
-          "tags": ["轿车"],
+          "highlights": [
+            "家轿图腾",
+            "七代更迭"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -861,10 +1562,20 @@
           "name": "索纳塔",
           "nameEn": "Sonata",
           "type": "中型轿车",
-          "price": { "min": 161800, "max": 205800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 161800,
+            "max": 205800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型轿车,历代以设计革新著称,第十代流体雕塑2.0T配8AT,索八曾是当年最亲民的合资中级车之一。",
-          "highlights": ["流体雕塑", "设计革新"],
-          "tags": ["轿车"],
+          "highlights": [
+            "流体雕塑",
+            "设计革新"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -872,10 +1583,20 @@
           "name": "ix35",
           "nameEn": "ix35",
           "type": "紧凑型SUV",
-          "price": { "min": 119900, "max": 161900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 119900,
+            "max": 161900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型SUV,2.0L与1.4T动力,北京现代走量车型,以性价比与皮实耐用见长,常年活跃在12-16万区间。",
-          "highlights": ["性价比", "皮实耐用"],
-          "tags": ["SUV"],
+          "highlights": [
+            "性价比",
+            "皮实耐用"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -883,10 +1604,20 @@
           "name": "途胜L",
           "nameEn": "Tucson L",
           "type": "紧凑型SUV",
-          "price": { "min": 161800, "max": 219800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 161800,
+            "max": 219800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "第五代平台的紧凑SUV,1.5T配7DCT,轴距加长至2755mm,设计与空间进步明显,是现代SUV走量新旗舰。",
-          "highlights": ["轴距2755mm", "全球车型"],
-          "tags": ["SUV"],
+          "highlights": [
+            "轴距2755mm",
+            "全球车型"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -894,10 +1625,20 @@
           "name": "胜达",
           "nameEn": "Santa Fe",
           "type": "中型SUV",
-          "price": { "min": 202800, "max": 272800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 202800,
+            "max": 272800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型七座SUV,2.0T配8AT,历代设计大气,主打家庭多座场景,是现代在华尺寸最大的国产SUV之一。",
-          "highlights": ["七座家用", "2.0T+8AT"],
-          "tags": ["SUV"],
+          "highlights": [
+            "七座家用",
+            "2.0T+8AT"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -905,10 +1646,20 @@
           "name": "库斯途",
           "nameEn": "Custo",
           "type": "家用MPV",
-          "price": { "min": 169800, "max": 238800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 169800,
+            "max": 238800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "家用MPV,2.0T配8AT,第二排电动调节航空座椅,价格比GL8亲民,主打家庭奶爸市场。",
-          "highlights": ["亲民MPV", "航空座椅"],
-          "tags": ["MPV"],
+          "highlights": [
+            "亲民MPV",
+            "航空座椅"
+          ],
+          "tags": [
+            "MPV"
+          ],
           "image": null
         }
       ]
@@ -923,7 +1674,12 @@
       "founded": 1944,
       "hq": "韩国首尔",
       "tier": "大众",
-      "tags": ["韩系", "设计", "超长质保"],
+      "sub": "家用",
+      "tags": [
+        "韩系",
+        "设计",
+        "超长质保"
+      ],
       "slogan": "Movement that inspires",
       "desc": "韩国历史最悠久的汽车制造商,现属现代起亚集团,全球销量前三。以虎啸式设计与超长质保著称,K5、狮跑、嘉华皆有名,电动化转型迅速。",
       "story": "起亚1944年以京城精密工业之名创立,从自行车起家,1974年推出韩国首款自主轿车Brisa,1998年被现代集团收购组成现代起亚汽车。\n设计大师彼得·希瑞尔加盟后,虎啸式前脸让K5与狮跑焕然一新。在华先后经历东风悦达起亚的辉煌与调整,如今以狮铂拓界、EV5与全球前三的体量继续深耕,超长质保口碑深入人心。",
@@ -933,10 +1689,20 @@
           "name": "K3",
           "nameEn": "K3",
           "type": "紧凑型轿车",
-          "price": { "min": 109800, "max": 143900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 109800,
+            "max": 143900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型家轿,1.5L与1.4T动力,与伊兰特同平台,设计年轻,终端优惠后性价比突出,是起亚在华走量轿车。",
-          "highlights": ["同平台伊兰特", "性价比"],
-          "tags": ["轿车"],
+          "highlights": [
+            "同平台伊兰特",
+            "性价比"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -944,10 +1710,21 @@
           "name": "K5凯酷",
           "nameEn": "K5",
           "type": "中型轿车",
-          "price": { "min": 161800, "max": 205800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 161800,
+            "max": 205800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "第三代K5,1.5T配7DCT与2.0T配8AT,溜背轿跑造型,轴距加长,主打运动中级车市场。",
-          "highlights": ["溜背轿跑", "2.0T+8AT"],
-          "tags": ["轿车", "运动"],
+          "highlights": [
+            "溜背轿跑",
+            "2.0T+8AT"
+          ],
+          "tags": [
+            "轿车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -955,10 +1732,20 @@
           "name": "狮铂拓界",
           "nameEn": "Sportage",
           "type": "紧凑型SUV",
-          "price": { "min": 159800, "max": 206800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 159800,
+            "max": 206800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "第五代Sportage,1.5T、2.0T与混动多动力可选,全球紧凑SUV鼻祖血统,是起亚在华SUV主力。",
-          "highlights": ["SUV鼻祖", "多动力可选"],
-          "tags": ["SUV"],
+          "highlights": [
+            "SUV鼻祖",
+            "多动力可选"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -966,10 +1753,20 @@
           "name": "傲跑",
           "nameEn": "KX3 / Seltos",
           "type": "小型SUV",
-          "price": { "min": 107800, "max": 139800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 107800,
+            "max": 139800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型SUV,1.5L配CVT,设计时尚配置丰富,主打年轻人第一台车,油耗表现出色。",
-          "highlights": ["年轻第一车", "低油耗"],
-          "tags": ["SUV"],
+          "highlights": [
+            "年轻第一车",
+            "低油耗"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -977,10 +1774,20 @@
           "name": "嘉华",
           "nameEn": "Carnival",
           "type": "MPV",
-          "price": { "min": 288900, "max": 340900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 288900,
+            "max": 340900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "第四代国产MPV,2.0T配8AT,二三排空间充裕,设计摆脱商务风,主打高端家用,对标GL8与赛那。",
-          "highlights": ["高端家用MPV", "空间充裕"],
-          "tags": ["MPV"],
+          "highlights": [
+            "高端家用MPV",
+            "空间充裕"
+          ],
+          "tags": [
+            "MPV"
+          ],
           "image": null
         },
         {
@@ -988,10 +1795,21 @@
           "name": "EV5",
           "nameEn": "EV5",
           "type": "纯电紧凑型SUV",
-          "price": { "min": 149800, "max": 209800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 149800,
+            "max": 209800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "起亚全球化纯电SUV,长续航版本可达700公里级,中国生产并返销海外,是起亚电动化的先锋之作。",
-          "highlights": ["返销全球", "700km级续航"],
-          "tags": ["SUV", "纯电"],
+          "highlights": [
+            "返销全球",
+            "700km级续航"
+          ],
+          "tags": [
+            "SUV",
+            "纯电"
+          ],
           "image": null
         }
       ]
@@ -1006,7 +1824,12 @@
       "founded": 1937,
       "hq": "德国沃尔夫斯堡",
       "tier": "大众",
-      "tags": ["德系", "国民车", "销量王"],
+      "sub": "家用",
+      "tags": [
+        "德系",
+        "国民车",
+        "销量王"
+      ],
       "slogan": "Das Auto",
       "desc": "欧洲最大汽车制造商,以「国民车」起家,甲壳虫与高尔夫改写汽车史。在中国最早合资、市占率长期领先,朗逸、帕萨特、途观皆是销量神话。",
       "story": "1937年大众在沃尔夫斯堡成立,使命是造人人都买得起的「国民车」,甲壳虫以超过2150万辆成为单一车型销量传奇,高尔夫则定义了紧凑两厢车的标准。\n1984年上汽大众成立,桑塔纳开启中国轿车工业的启蒙时代,如今一汽大众与上汽大众双线布局,朗逸、帕萨特、途观常年霸榜。作为欧洲最大车企,大众正以ID.系列推进电动化转型。",
@@ -1016,10 +1839,21 @@
           "name": "高尔夫",
           "nameEn": "Golf",
           "type": "紧凑型两厢车",
-          "price": { "min": 129800, "max": 229800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129800,
+            "max": 229800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "定义紧凑两厢车标准的全球经典,历经八代,1.2T、1.5T与2.0T GTI可选,「大众只有一款车,就是高尔夫」。",
-          "highlights": ["八代经典", "GTI钢炮"],
-          "tags": ["两厢车", "运动"],
+          "highlights": [
+            "八代经典",
+            "GTI钢炮"
+          ],
+          "tags": [
+            "两厢车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -1027,10 +1861,20 @@
           "name": "朗逸",
           "nameEn": "Lavida",
           "type": "紧凑型轿车",
-          "price": { "min": 120900, "max": 151900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 120900,
+            "max": 151900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中国特供家轿之王,常年位居轿车销量榜首,1.5L与1.5T动力,皮实、保值、网点多,是「国民家轿」代名词。",
-          "highlights": ["销量榜首", "国民家轿"],
-          "tags": ["轿车"],
+          "highlights": [
+            "销量榜首",
+            "国民家轿"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1038,10 +1882,20 @@
           "name": "速腾",
           "nameEn": "Sagitar",
           "type": "紧凑型轿车",
-          "price": { "min": 127900, "max": 172900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 127900,
+            "max": 172900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "德系高品质家轿,1.5T Evo2发动机,轴距加长至2731mm,A+级细分市场开创者,销量长期位居前列。",
-          "highlights": ["A+级开创者", "1.5T Evo2"],
-          "tags": ["轿车"],
+          "highlights": [
+            "A+级开创者",
+            "1.5T Evo2"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1049,10 +1903,20 @@
           "name": "帕萨特",
           "nameEn": "Passat",
           "type": "中型轿车",
-          "price": { "min": 181900, "max": 250900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 181900,
+            "max": 250900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "上汽大众中型轿车标杆,1.4T与2.0T动力,商务与家用兼顾,历经多代国产,常年稳居中高级车销量前列。",
-          "highlights": ["商务标杆", "多代国产"],
-          "tags": ["轿车"],
+          "highlights": [
+            "商务标杆",
+            "多代国产"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1060,10 +1924,20 @@
           "name": "迈腾",
           "nameEn": "Magotan",
           "type": "中型轿车",
-          "price": { "min": 186900, "max": 253900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 186900,
+            "max": 253900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "一汽-大众版Passat,2.0T EA888配7速湿式双离合,欧味操控与做工,公商务市场常青树。",
-          "highlights": ["EA888", "欧味操控"],
-          "tags": ["轿车"],
+          "highlights": [
+            "EA888",
+            "欧味操控"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1071,10 +1945,20 @@
           "name": "途观L",
           "nameEn": "Tiguan L",
           "type": "中型SUV",
-          "price": { "min": 199000, "max": 261000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 199000,
+            "max": 261000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型SUV销量王,1.5T与2.0T动力,七座版本可选,途观之名自2010年国产以来一直是合资SUV标杆。",
-          "highlights": ["SUV销量王", "七座可选"],
-          "tags": ["SUV"],
+          "highlights": [
+            "SUV销量王",
+            "七座可选"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1082,10 +1966,20 @@
           "name": "途昂",
           "nameEn": "Teramont",
           "type": "中大型SUV",
-          "price": { "min": 295000, "max": 405000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 295000,
+            "max": 405000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中大型七座SUV,2.0T与2.5T V6动力,车长超5米,大排量V6在此价位极为罕见,气场十足的大块头。",
-          "highlights": ["2.5T V6", "车长超5米"],
-          "tags": ["SUV"],
+          "highlights": [
+            "2.5T V6",
+            "车长超5米"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1093,10 +1987,21 @@
           "name": "甲壳虫",
           "nameEn": "Beetle",
           "type": "经典两厢车",
-          "price": { "min": 178800, "max": 255800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 178800,
+            "max": 255800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国民车计划的活化石,历代造型不改其萌,2019年全球停产,是汽车工业史上最富传奇色彩的车型之一。",
-          "highlights": ["活化石", "2019停产"],
-          "tags": ["两厢车", "进口"],
+          "highlights": [
+            "活化石",
+            "2019停产"
+          ],
+          "tags": [
+            "两厢车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -1111,7 +2016,12 @@
       "founded": 1895,
       "hq": "捷克姆拉达·博莱斯拉夫",
       "tier": "大众",
-      "tags": ["百年车企", "德系品质", "高性价比"],
+      "sub": "家用",
+      "tags": [
+        "百年车企",
+        "德系品质",
+        "高性价比"
+      ],
       "slogan": "Simply Clever",
       "desc": "世界最古老汽车制造商之一,1895年创立于捷克,1991年加入大众集团,以德系品质与掀背实用性著称,「懂大众的都买斯柯达」广为流传。",
       "story": "1895年劳林与克莱门特在捷克姆拉达·博莱斯拉夫创立自行车厂,是世界历史最悠久的汽车制造商之一,1905年推出首款汽车。\n1991年加入大众集团成为其第四品牌,以「德系品质、捷克价格」立足。2005年入华由上汽大众销售,明锐、速派与柯迪亚克以掀背尾门与高性价比收获「懂车之选」的评价。",
@@ -1121,10 +2031,20 @@
           "name": "明锐",
           "nameEn": "Octavia",
           "type": "紧凑型轿车",
-          "price": { "min": 109900, "max": 159900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 109900,
+            "max": 159900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与高尔夫同平台的A+级轿车,1.4T与1.5T动力,标志性掀背尾门装载能力出众,「懂大众的都买斯柯达」主角。",
-          "highlights": ["掀背尾门", "高尔夫同平台"],
-          "tags": ["轿车"],
+          "highlights": [
+            "掀背尾门",
+            "高尔夫同平台"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1132,10 +2052,20 @@
           "name": "速派",
           "nameEn": "Superb",
           "type": "中型轿车",
-          "price": { "min": 169900, "max": 239900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 169900,
+            "max": 239900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与迈腾同平台的中型轿车,2.0T配7速双离合,掀背式尾门装载能力越级,终端优惠大,务实之选。",
-          "highlights": ["迈腾同平台", "越级装载"],
-          "tags": ["轿车"],
+          "highlights": [
+            "迈腾同平台",
+            "越级装载"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1143,10 +2073,20 @@
           "name": "柯米克",
           "nameEn": "Kamiq",
           "type": "小型SUV",
-          "price": { "min": 101900, "max": 135900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 101900,
+            "max": 135900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "斯柯达入门SUV,1.5L自吸为主,价格下探至10万级,空间与德系底子仍在,是务实的代步选择。",
-          "highlights": ["10万级德系", "入门SUV"],
-          "tags": ["SUV"],
+          "highlights": [
+            "10万级德系",
+            "入门SUV"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1154,10 +2094,20 @@
           "name": "柯珞克",
           "nameEn": "Karoq",
           "type": "紧凑型SUV",
-          "price": { "min": 129900, "max": 179900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 129900,
+            "max": 179900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "欧版Karoq国产版,与途岳同源,德系工艺与合理定价兼备,空间利用率高,是家用SUV实惠之选。",
-          "highlights": ["途岳同源", "空间利用率"],
-          "tags": ["SUV"],
+          "highlights": [
+            "途岳同源",
+            "空间利用率"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1165,10 +2115,20 @@
           "name": "柯迪亚克",
           "nameEn": "Kodiaq",
           "type": "中型SUV",
-          "price": { "min": 186900, "max": 243900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 186900,
+            "max": 243900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型七座SUV,与途观L同平台,2.0T配7DCT,英文名取自阿拉斯加棕熊,七座实用与德系操控兼得。",
-          "highlights": ["途观L同平台", "七座"],
-          "tags": ["SUV"],
+          "highlights": [
+            "途观L同平台",
+            "七座"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         }
       ]
@@ -1183,7 +2143,12 @@
       "founded": 1950,
       "hq": "西班牙巴塞罗那",
       "tier": "大众",
-      "tags": ["西班牙", "运动两厢", "大众集团"],
+      "sub": "性能",
+      "tags": [
+        "西班牙",
+        "运动两厢",
+        "大众集团"
+      ],
       "slogan": "Enjoyneering",
       "desc": "西班牙唯一本土乘用车品牌,1950年创立,1986年加入大众集团,以运动两厢车与南欧设计热情著称,高性能子品牌Cupra已独立运营。",
       "story": "1950年西班牙国家工业研究院牵头创立西雅特,旨在让西班牙人开上本国汽车,曾长期占据本土市场龙头,以Panda、Ibiza风靡南欧。\n1986年大众集团收购其多数股权,马尔托雷工厂成为集团在欧洲的重要基地。西雅特曾短暂进口中国,如今将高性能线独立为Cupra品牌,以运动两厢车与电动车征战欧洲。",
@@ -1193,10 +2158,20 @@
           "name": "Ibiza",
           "nameEn": "Ibiza",
           "type": "小型两厢车",
-          "price": { "min": 130000, "max": 200000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 130000,
+            "max": 200000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "欧洲畅销小型两厢,与Polo同平台,运动化调校,是西班牙国民小车,Cupra版本更显凶悍。",
-          "highlights": ["国民小车", "Polo同平台"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "国民小车",
+            "Polo同平台"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -1204,10 +2179,21 @@
           "name": "Leon",
           "nameEn": "Leon",
           "type": "紧凑型两厢车",
-          "price": { "min": 150000, "max": 300000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 150000,
+            "max": 300000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与高尔夫同平台的紧凑两厢,设计更锐利操控更激进,Cupra性能版曾是纽北前驱量产车圈速纪录保持者。",
-          "highlights": ["纽北前驱纪录", "激进操控"],
-          "tags": ["两厢车", "运动"],
+          "highlights": [
+            "纽北前驱纪录",
+            "激进操控"
+          ],
+          "tags": [
+            "两厢车",
+            "运动"
+          ],
           "image": null
         },
         {
@@ -1215,10 +2201,20 @@
           "name": "Arona",
           "nameEn": "Arona",
           "type": "小型SUV",
-          "price": { "min": 140000, "max": 210000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 140000,
+            "max": 210000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型跨界SUV,与Ibiza同平台,离地间隙更高,双色车身年轻灵动,是西雅特在欧洲的销量支柱之一。",
-          "highlights": ["双色车身", "欧洲畅销"],
-          "tags": ["SUV"],
+          "highlights": [
+            "双色车身",
+            "欧洲畅销"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1226,10 +2222,20 @@
           "name": "Ateca",
           "nameEn": "Ateca",
           "type": "紧凑型SUV",
-          "price": { "min": 180000, "max": 300000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 180000,
+            "max": 300000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与大众Tiguan同平台的紧凑SUV,欧洲E-NCAP五星安全,实用性与德系质感兼备,是西雅特SUV主力。",
-          "highlights": ["五星安全", "Tiguan同平台"],
-          "tags": ["SUV"],
+          "highlights": [
+            "五星安全",
+            "Tiguan同平台"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1237,10 +2243,20 @@
           "name": "Tarraco",
           "nameEn": "Tarraco",
           "type": "中型SUV",
-          "price": { "min": 250000, "max": 380000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 250000,
+            "max": 380000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "家族旗舰中型七座SUV,2.0T配7速DSG与四驱可选,名字致敬西班牙古城塔拉戈纳。",
-          "highlights": ["旗舰七座", "四驱可选"],
-          "tags": ["SUV"],
+          "highlights": [
+            "旗舰七座",
+            "四驱可选"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         }
       ]
@@ -1255,7 +2271,12 @@
       "founded": 1862,
       "hq": "德国吕塞尔斯海姆",
       "tier": "大众",
-      "tags": ["德系老牌", "通用系", "实用"],
+      "sub": "家用",
+      "tags": [
+        "德系老牌",
+        "通用系",
+        "实用"
+      ],
       "slogan": "Wir lieben Autos",
       "desc": "德国老牌车企,1862年以缝纫机起家,曾长期是德国销量冠军,通用时代以欧系操控闻名,现属Stellantis,2015年退出中国。",
       "story": "1862年亚当·欧宝在吕塞尔斯海姆创办缝纫机厂,1886年开始生产自行车,1899年造出第一辆汽车,曾长期是德国销量最大的车企。\n1929年起被通用收购近九十年,成为通用打入欧洲的主力,雅特、英速亚以欧系操控著称。2015年退出中国,2017年通用将其售予PSA,如今归属Stellantis,正以电动化重启。",
@@ -1265,10 +2286,20 @@
           "name": "可赛",
           "nameEn": "Corsa",
           "type": "小型两厢车",
-          "price": { "min": 120000, "max": 200000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 120000,
+            "max": 200000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "欧洲经典小型两厢,历代40余年长销,电动版Corsa-e续航350公里级,曾以进口方式进入中国。",
-          "highlights": ["40余年长销", "电动版"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "40余年长销",
+            "电动版"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -1276,10 +2307,21 @@
           "name": "雅特",
           "nameEn": "Astra",
           "type": "紧凑型两厢车",
-          "price": { "min": 180000, "max": 280000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 180000,
+            "max": 280000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与高尔夫对标的紧凑两厢,GTC三门版与OPC性能款曾进口国内,欧系底盘调校功力深厚。",
-          "highlights": ["对标高尔夫", "OPC性能款"],
-          "tags": ["两厢车", "进口"],
+          "highlights": [
+            "对标高尔夫",
+            "OPC性能款"
+          ],
+          "tags": [
+            "两厢车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1287,10 +2329,21 @@
           "name": "英速亚",
           "nameEn": "Insignia",
           "type": "中型轿车",
-          "price": { "min": 250000, "max": 350000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 250000,
+            "max": 350000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型轿车与旅行车,与别克君威同平台,四驱系统与FlexRide自适应底盘,旅行版是瓦罐迷小众之选。",
-          "highlights": ["君威同平台", "自适应底盘"],
-          "tags": ["轿车", "进口"],
+          "highlights": [
+            "君威同平台",
+            "自适应底盘"
+          ],
+          "tags": [
+            "轿车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1298,10 +2351,21 @@
           "name": "安德拉",
           "nameEn": "Antara",
           "type": "紧凑型SUV",
-          "price": { "min": 250000, "max": 350000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 250000,
+            "max": 350000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型SUV,与雪佛兰科帕奇同源,曾以进口身份在华销售,是早期进口SUV的性价比选择。",
-          "highlights": ["科帕奇同源", "进口SUV"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "科帕奇同源",
+            "进口SUV"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1309,10 +2373,21 @@
           "name": "赛飞利",
           "nameEn": "Zafira",
           "type": "紧凑型MPV",
-          "price": { "min": 250000, "max": 320000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 250000,
+            "max": 320000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型MPV,Flex7座椅系统灵活变出七座,欧洲家庭多用途车经典,进口版曾活跃于国内家用市场。",
-          "highlights": ["Flex7座椅", "家庭MPV"],
-          "tags": ["MPV", "进口"],
+          "highlights": [
+            "Flex7座椅",
+            "家庭MPV"
+          ],
+          "tags": [
+            "MPV",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -1327,7 +2402,12 @@
       "founded": 1919,
       "hq": "法国巴黎",
       "tier": "大众",
-      "tags": ["法系", "底盘大师", "大胆设计"],
+      "sub": "家用",
+      "tags": [
+        "法系",
+        "底盘大师",
+        "大胆设计"
+      ],
       "slogan": "Créative Technologie",
       "desc": "法国百年车企,以液压气动悬挂、大胆设计与大师级底盘调校闻名,DS曾是1955年最惊世骇俗的汽车,富康是「老三样」国民记忆。",
       "story": "1919年安德烈·雪铁龙创立公司,率先在欧洲引入流水线大批量生产,1934年Traction Avant开创前驱承载式车身先河,1955年DS以液压气动悬挂轰动世界。\n1992年神龙汽车成立,富康与桑塔纳、捷达并称「老三样」。雪铁龙以大师级底盘与大胆设计著称,凡尔赛C5 X成为法系翻身之作——不是所有人都能读懂,但读懂的人都会爱。",
@@ -1337,10 +2417,20 @@
           "name": "C3-XR",
           "nameEn": "C3-XR",
           "type": "小型SUV",
-          "price": { "min": 100000, "max": 140000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 100000,
+            "max": 140000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型SUV,1.2T与1.6L动力,设计圆润小巧,是雪铁龙在华入门SUV,现随品牌收缩退市。",
-          "highlights": ["入门SUV", "小巧灵动"],
-          "tags": ["SUV"],
+          "highlights": [
+            "入门SUV",
+            "小巧灵动"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1348,10 +2438,20 @@
           "name": "爱丽舍",
           "nameEn": "Élysée",
           "type": "紧凑型轿车",
-          "price": { "min": 80000, "max": 110000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 80000,
+            "max": 110000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "经典家用三厢,1.6L自吸皮实耐用,出租车行业常客,继承富康衣钵,是法系国民记忆。",
-          "highlights": ["皮实耐用", "出租车常客"],
-          "tags": ["轿车"],
+          "highlights": [
+            "皮实耐用",
+            "出租车常客"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1359,10 +2459,20 @@
           "name": "世嘉",
           "nameEn": "C-Quatre",
           "type": "紧凑型两厢车",
-          "price": { "min": 100000, "max": 160000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 100000,
+            "max": 160000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与富康同门的C4国产版,中央固定式方向盘集控设计独树一帜,WRC冠军血统加成。",
-          "highlights": ["WRC血统", "集控方向盘"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "WRC血统",
+            "集控方向盘"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -1370,10 +2480,20 @@
           "name": "C6",
           "nameEn": "C6",
           "type": "中大型轿车",
-          "price": { "min": 220000, "max": 280000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 220000,
+            "max": 280000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "旗舰中大型轿车,1.8T动力,初代C6曾是法国总统座驾,国产后主打行政舒适,底盘功力深厚。",
-          "highlights": ["总统座驾", "行政舒适"],
-          "tags": ["轿车"],
+          "highlights": [
+            "总统座驾",
+            "行政舒适"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1381,10 +2501,20 @@
           "name": "天逸 C5 AIRCROSS",
           "nameEn": "C5 Aircross",
           "type": "紧凑型SUV",
-          "price": { "min": 150000, "max": 200000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 150000,
+            "max": 200000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型SUV,1.6T与1.8T配8AT,PHC自适应液压悬挂带来「魔毯」体验,方形撞色设计个性鲜明。",
-          "highlights": ["PHC魔毯悬挂", "撞色设计"],
-          "tags": ["SUV"],
+          "highlights": [
+            "PHC魔毯悬挂",
+            "撞色设计"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1392,10 +2522,20 @@
           "name": "凡尔赛C5 X",
           "nameEn": "C5 X",
           "type": "中型旅行车",
-          "price": { "min": 143700, "max": 186700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 143700,
+            "max": 186700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中级旅行车,1.6T配8AT,轿车、SUV与旅行车跨界形态,上市即热销成为法系翻身之作,配置厚道。",
-          "highlights": ["法系翻身作", "跨界形态"],
-          "tags": ["旅行车"],
+          "highlights": [
+            "法系翻身作",
+            "跨界形态"
+          ],
+          "tags": [
+            "旅行车"
+          ],
           "image": null
         }
       ]
@@ -1410,7 +2550,12 @@
       "founded": 1810,
       "hq": "法国巴黎",
       "tier": "大众",
-      "tags": ["法系", "i-Cockpit", "操控"],
+      "sub": "家用",
+      "tags": [
+        "法系",
+        "i-Cockpit",
+        "操控"
+      ],
       "slogan": "Motion & Emotion",
       "desc": "最古老的汽车品牌之一,1810年起家,以狮标、i-Cockpit座舱与出色底盘操控著称,3008曾获欧洲年度车,设计自成一派。",
       "story": "标致家族1810年从磨坊与弹簧钢起家,1890年造出第一辆汽油汽车,是最古老的汽车品牌之一,狮标历经十余次演变。\n205 GTI定义了钢炮,505是中国80年代的公务车记忆,与东风合资后408、508L国产。标致以i-Cockpit座舱与狮爪尾灯设计自成一派,底盘操控屡获好评,3008曾摘得2017年欧洲年度车。",
@@ -1420,10 +2565,20 @@
           "name": "2008",
           "nameEn": "2008",
           "type": "小型SUV",
-          "price": { "min": 109900, "max": 149900, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 109900,
+            "max": 149900,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "小型SUV,1.2T配6DCT,3D i-Cockpit座舱,设计灵动,与e2008电动版同堂,是标致年轻化入门之选。",
-          "highlights": ["3D仪表", "灵动设计"],
-          "tags": ["SUV"],
+          "highlights": [
+            "3D仪表",
+            "灵动设计"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1431,10 +2586,20 @@
           "name": "408",
           "nameEn": "408",
           "type": "紧凑型轿车",
-          "price": { "min": 105700, "max": 137700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 105700,
+            "max": 137700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中国特供A+级轿车,1.6T配6AT,2730mm轴距空间宽裕,终端优惠厚道,是标致在华销量支柱之一。",
-          "highlights": ["2730mm轴距", "特供轿车"],
-          "tags": ["轿车"],
+          "highlights": [
+            "2730mm轴距",
+            "特供轿车"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1442,10 +2607,20 @@
           "name": "408X",
           "nameEn": "408 X",
           "type": "跨界轿跑车",
-          "price": { "min": 145700, "max": 178700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 145700,
+            "max": 178700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "跨界轿跑,1.6T配8AT,轿跑、SUV与旅行车融合形态,与欧洲408同款,设计前卫,驾驶乐趣是主调。",
-          "highlights": ["中欧同款", "前卫设计"],
-          "tags": ["轿跑"],
+          "highlights": [
+            "中欧同款",
+            "前卫设计"
+          ],
+          "tags": [
+            "轿跑"
+          ],
           "image": null
         },
         {
@@ -1453,10 +2628,20 @@
           "name": "508L",
           "nameEn": "508L",
           "type": "中型轿车",
-          "price": { "min": 159700, "max": 225700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 159700,
+            "max": 225700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "国产加长中型轿车,1.8T配8AT,欧洲版无框门与掀背尾门被取消曾引争议,但底盘操控仍是同级上乘。",
-          "highlights": ["1.8T+8AT", "操控上乘"],
-          "tags": ["轿车"],
+          "highlights": [
+            "1.8T+8AT",
+            "操控上乘"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1464,10 +2649,20 @@
           "name": "4008",
           "nameEn": "4008",
           "type": "紧凑型SUV",
-          "price": { "min": 167700, "max": 233700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 167700,
+            "max": 233700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "紧凑型SUV,1.6T与1.8T动力,战斗机座舱式设计与法系底盘调校是招牌,GT版运动属性拉满。",
-          "highlights": ["战斗机座舱", "GT版"],
-          "tags": ["SUV"],
+          "highlights": [
+            "战斗机座舱",
+            "GT版"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1475,10 +2670,20 @@
           "name": "5008",
           "nameEn": "5008",
           "type": "中型SUV",
-          "price": { "min": 187700, "max": 263700, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 187700,
+            "max": 263700,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "中型七座SUV,1.8T配8AT,第三排座椅可拆卸,与4008共享设计语言,是标致旗舰家庭用车。",
-          "highlights": ["七座", "可拆卸第三排"],
-          "tags": ["SUV"],
+          "highlights": [
+            "七座",
+            "可拆卸第三排"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         }
       ]
@@ -1493,7 +2698,12 @@
       "founded": 1898,
       "hq": "法国布洛涅-比扬古",
       "tier": "大众",
-      "tags": ["法系", "F1引擎", "欧洲畅销"],
+      "sub": "家用",
+      "tags": [
+        "法系",
+        "F1引擎",
+        "欧洲畅销"
+      ],
       "slogan": "Passion for life",
       "desc": "法国工业象征,1898年创立,雷诺F1引擎曾12次问鼎车队冠军,与日产结盟多年,达喀尔与方程式赛场战功赫赫,2020年退出中国乘用车市场。",
       "story": "1898年路易·雷诺在巴黎郊外的车库里造出第一辆Type A,次年订单如雪片般飞来,雷诺长期是法国工业的象征,二战后国有化又于1996年私有化。\n它曾以雷诺F1引擎12次问鼎F1车队冠军,达喀尔与勒芒亦有建树,1999年与日产结盟。东风雷诺2020年退出中国乘用车市场,但在欧洲与Dacia一道常年位居销量前列。",
@@ -1503,10 +2713,21 @@
           "name": "卡缤",
           "nameEn": "Captur",
           "type": "小型SUV",
-          "price": { "min": 139800, "max": 159800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 139800,
+            "max": 159800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "进口小型SUV,1.2T配6DCT,双色车身年轻灵动,欧洲同名车型畅销,国内保有量小众。",
-          "highlights": ["双色车身", "进口小众"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "双色车身",
+            "进口小众"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1514,10 +2735,20 @@
           "name": "科雷嘉",
           "nameEn": "Kadjar",
           "type": "紧凑型SUV",
-          "price": { "min": 139800, "max": 209800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 139800,
+            "max": 209800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与逍客同平台的紧凑型SUV,2.0L自吸动力,设计浪漫动感,与科雷傲组成东风雷诺双拳。",
-          "highlights": ["逍客同平台", "浪漫设计"],
-          "tags": ["SUV"],
+          "highlights": [
+            "逍客同平台",
+            "浪漫设计"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1525,10 +2756,20 @@
           "name": "科雷傲",
           "nameEn": "Koleos",
           "type": "中型SUV",
-          "price": { "min": 179800, "max": 269800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 179800,
+            "max": 269800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "与奇骏同平台的中型SUV,2.0L与2.5L动力,舒适大空间,是东风雷诺销量担当,已随品牌退市。",
-          "highlights": ["奇骏同平台", "销量担当"],
-          "tags": ["SUV"],
+          "highlights": [
+            "奇骏同平台",
+            "销量担当"
+          ],
+          "tags": [
+            "SUV"
+          ],
           "image": null
         },
         {
@@ -1536,10 +2777,21 @@
           "name": "塔利斯曼",
           "nameEn": "Talisman",
           "type": "中型轿车",
-          "price": { "min": 220000, "max": 300000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 220000,
+            "max": 300000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "雷诺旗舰轿车,4Control四轮转向与行政舒适配置齐全,进口身份小众,代表法系中级车最高水准。",
-          "highlights": ["4Control转向", "旗舰进口"],
-          "tags": ["轿车", "进口"],
+          "highlights": [
+            "4Control转向",
+            "旗舰进口"
+          ],
+          "tags": [
+            "轿车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1547,10 +2799,21 @@
           "name": "Espace",
           "nameEn": "Espace",
           "type": "MPV",
-          "price": { "min": 270000, "max": 360000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 270000,
+            "max": 360000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "MPV品类的开创者(1984年),进口跨界MPV,1.8T配7DCT,设计前卫如太空舱,是欧洲家用MPV鼻祖。",
-          "highlights": ["MPV鼻祖", "太空舱设计"],
-          "tags": ["MPV", "进口"],
+          "highlights": [
+            "MPV鼻祖",
+            "太空舱设计"
+          ],
+          "tags": [
+            "MPV",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1558,10 +2821,21 @@
           "name": "梅甘娜RS",
           "nameEn": "Megane RS",
           "type": "性能两厢车",
-          "price": { "min": 320000, "max": 360000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 320000,
+            "max": 360000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "前驱钢炮,1.8T配6MT,Trophy-R曾刷新纽北前驱量产车圈速纪录,Cup底盘硬核,进口限量销售。",
-          "highlights": ["纽北前驱纪录", "1.8T+6MT"],
-          "tags": ["性能车", "进口"],
+          "highlights": [
+            "纽北前驱纪录",
+            "1.8T+6MT"
+          ],
+          "tags": [
+            "性能车",
+            "进口"
+          ],
           "image": null
         }
       ]
@@ -1576,7 +2850,12 @@
       "founded": 1899,
       "hq": "意大利都灵",
       "tier": "大众",
-      "tags": ["意系", "小车专家", "百年品牌"],
+      "sub": "家用",
+      "tags": [
+        "意系",
+        "小车专家",
+        "百年品牌"
+      ],
       "slogan": "Driven by Passion",
       "desc": "意大利工业象征,1899年创立于都灵,以500与Panda国民小车闻名,曾组建FCA集团后并入Stellantis,两次入华合资皆退场,留下意式小车情怀。",
       "story": "1899年菲亚特在都灵创立,全名为意大利都灵汽车工厂,很快成长为意大利工业的象征,林格托工厂曾是欧洲最大的汽车工厂。\n500与Panda是意式国民车的代表,126P更是一代东欧记忆。它收购克莱斯勒组建FCA,2021年并入Stellantis。在华经历南京菲亚特与广汽菲亚特两次合资均告退场,如今以进口500与Abarth维系意式小车情怀。",
@@ -1586,10 +2865,21 @@
           "name": "500",
           "nameEn": "500",
           "type": "微型两厢车",
-          "price": { "min": 170000, "max": 270000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 170000,
+            "max": 270000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "菲亚特灵魂符号,1957年的国民小车拯救战后意大利,圆形大灯与复古线条无可替代,进口500与Abarth 595曾是都市潮物。",
-          "highlights": ["国民车符号", "复古设计"],
-          "tags": ["微型车", "进口"],
+          "highlights": [
+            "国民车符号",
+            "复古设计"
+          ],
+          "tags": [
+            "微型车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1597,10 +2887,20 @@
           "name": "Panda",
           "nameEn": "Panda",
           "type": "微型车",
-          "price": { "min": 80000, "max": 130000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 80000,
+            "max": 130000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "欧洲微型车常青树,四驱版本是阿尔卑斯山区神车,三代车型40余年长销,是意大利国民级存在。",
-          "highlights": ["四驱版", "40余年长销"],
-          "tags": ["微型车"],
+          "highlights": [
+            "四驱版",
+            "40余年长销"
+          ],
+          "tags": [
+            "微型车"
+          ],
           "image": null
         },
         {
@@ -1608,10 +2908,20 @@
           "name": "菲翔",
           "nameEn": "Viaggio",
           "type": "紧凑型轿车",
-          "price": { "min": 100800, "max": 159800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 100800,
+            "max": 159800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "广汽菲亚特国产紧凑三厢,1.4T配7速双离合,设计与用料越级,是菲亚特重返中国的主力,已停产。",
-          "highlights": ["越级用料", "1.4T+7DCT"],
-          "tags": ["轿车"],
+          "highlights": [
+            "越级用料",
+            "1.4T+7DCT"
+          ],
+          "tags": [
+            "轿车"
+          ],
           "image": null
         },
         {
@@ -1619,10 +2929,20 @@
           "name": "致悦",
           "nameEn": "Ottimo",
           "type": "紧凑型两厢车",
-          "price": { "min": 108800, "max": 159800, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 108800,
+            "max": 159800,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "菲翔两厢版,1.4T动力,运动化外观套件,操控轻快,与菲翔一同见证广汽菲亚特时代,现已停产。",
-          "highlights": ["两厢运动", "菲翔姊妹车"],
-          "tags": ["两厢车"],
+          "highlights": [
+            "两厢运动",
+            "菲翔姊妹车"
+          ],
+          "tags": [
+            "两厢车"
+          ],
           "image": null
         },
         {
@@ -1630,10 +2950,21 @@
           "name": "博悦",
           "nameEn": "Bravo",
           "type": "紧凑型两厢车",
-          "price": { "min": 170000, "max": 220000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 170000,
+            "max": 220000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "进口紧凑两厢,1.4T涡轮配6MT或6DCT,意大利钢炮,底盘扎实有驾驶乐趣,保有量稀少的情怀车。",
-          "highlights": ["意式钢炮", "1.4T涡轮"],
-          "tags": ["两厢车", "进口"],
+          "highlights": [
+            "意式钢炮",
+            "1.4T涡轮"
+          ],
+          "tags": [
+            "两厢车",
+            "进口"
+          ],
           "image": null
         },
         {
@@ -1641,10 +2972,21 @@
           "name": "菲跃",
           "nameEn": "Freemont",
           "type": "中型SUV",
-          "price": { "min": 250000, "max": 300000, "currency": "CNY", "label": "厂商指导价" },
+          "price": {
+            "min": 250000,
+            "max": 300000,
+            "currency": "CNY",
+            "label": "厂商指导价"
+          },
           "desc": "进口中型七座SUV,与道奇酷威同平台,2.4L与3.6L V6动力,美式大空间搭配意式设计,已停售。",
-          "highlights": ["七座", "酷威同平台"],
-          "tags": ["SUV", "进口"],
+          "highlights": [
+            "七座",
+            "酷威同平台"
+          ],
+          "tags": [
+            "SUV",
+            "进口"
+          ],
           "image": null
         }
       ]

@@ -31,24 +31,37 @@ async function loadLocal() {
   return r.json();
 }
 
-export async function loadData() {
+export async function bootData() {
   let d = null;
   try { d = await loadLocal(); } catch {}
-  // 远端数据(条数更多才采用)
-  if (store.prefs.remoteUrl) {
-    try {
-      const r = await fetch(store.prefs.remoteUrl, { cache: 'no-store' });
-      if (r.ok) {
-        const rd = await r.json();
-        if ((rd.counts?.brands || 0) >= (d?.counts?.brands || 0)) {
-          rd._src = 'remote'; d = rd; idb.put('remoteData', rd);
-        }
-      }
-    } catch {}
-  }
   if (!d) { const c = await idb.get('remoteData'); if (c) { c._src = 'cache'; d = c; } }
   if (!d) d = { categories: [], brands: [], counts: { brands: 0, products: 0 } };
   indexData(d);
+  refreshRemote(true); // 后台刷新,不阻塞首屏
+}
+
+// 拉取远端数据,有更新则热替换并刷新当前页
+export async function refreshRemote(silent = false) {
+  if (!store.prefs.remoteUrl) return;
+  try {
+    const r = await fetch(store.prefs.remoteUrl, { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const rd = await r.json();
+    if ((rd.counts?.brands || 0) >= (DATA.counts?.brands || 0)) {
+      const wasNewer = (rd.counts?.brands || 0) > (DATA.counts?.brands || 0);
+      rd._src = 'remote';
+      indexData(rd);
+      idb.put('remoteData', rd);
+      renderRoute();
+      if (!silent) {
+        toast(wasNewer ? `已更新:${rd.counts?.brands || 0} 品牌 / ${rd.counts?.products || 0} 产品` : '已是最新数据');
+      }
+    } else if (!silent) {
+      toast('已是最新数据');
+    }
+  } catch (e) {
+    if (!silent) toast('更新失败:' + e.message);
+  }
 }
 
 /* ================= 渲染基建 ================= */
@@ -113,7 +126,6 @@ function prodCard(p, masonry = false) {
     <button class="card-fav ${isFav('p:' + p.id) ? 'fav-on' : ''}" data-act="fav" data-ref="p:${esc(p.id)}" aria-label="收藏">${icons[isFav('p:' + p.id) ? 'starFill' : 'star']}</button>
     <div class="prod-media" style="--c:${color}">
       <span class="pm-icon">${icons[iconForType(p.type, b.categoryId)]}</span>
-      ${b.domain ? `<img class="pm-logo" src="data/logos/${esc(b.id)}.png" loading="lazy" alt="" onerror="this.remove()">` : ''}
     </div>
     <div class="prod-body">
       <div class="prod-brand">${esc(b.name || '')}</div>
@@ -235,30 +247,24 @@ function viewHome() {
 }
 
 /* ================= 品类页 ================= */
-const catFilter = {};   // catId -> {tier, country}
+const catFilter = {};   // catId -> {sub, country}
 
 function viewCategory(catId) {
   const c = DATA.categories.find(x => x.id === catId);
   if (!c) return setView('<p class="empty-tip">分类不存在</p>', true);
   let list = brandsOfCat.get(catId) || [];
-  const tiers = [...new Set(list.map(b => b.tier).filter(Boolean))];
+  const subs = [...new Set(list.map(b => b.sub).filter(Boolean))];
   const countries = [...new Set(list.map(b => b.country).filter(Boolean))];
-  const f = catFilter[catId] || (catFilter[catId] = { tier: '全部', country: '全部' });
-
-  const chipRow = (group, vals) => `
-    <div class="chipbar" data-chipgroup="${group}">
-      ${['全部', ...vals].map(v =>
-        `<button class="chip ${f[group] === v ? 'on' : ''}" data-act="cat-chip" data-cat="${esc(catId)}" data-group="${group}" data-val="${esc(v)}">${esc(v)}</button>`).join('')}
-    </div>`;
+  const f = catFilter[catId] || (catFilter[catId] = { sub: '全部', country: '全部' });
 
   const renderGrid = () => {
     let l = list.filter(b =>
-      (f.tier === '全部' || b.tier === f.tier) &&
+      (f.sub === '全部' || b.sub === f.sub) &&
       (f.country === '全部' || b.country === f.country));
     l = [...l].sort((a, b) => (b.products || []).length - (a.products || []).length);
     const g = qs('#brandGrid');
     g.innerHTML = l.length
-      ? `<div class="brand-grid">${l.map(brandTile).join('')}</div>`
+      ? l.map(brandTile).join('')
       : '<p class="empty-tip">没有符合筛选的品牌</p>';
     stagger('.brand-grid > *', 26, 400);
   };
@@ -272,9 +278,17 @@ function viewCategory(catId) {
       <div class="ch-en" style="color:hsl(${c.h} ${c.s}% 45%)">${esc(c.en || '')}</div>
       <div class="ch-desc" style="margin-top:6px">${esc(c.desc || '')} · 共 ${list.length} 个品牌</div>
     </div>
-    ${tiers.length > 1 ? chipRow('tier', tiers) : ''}
-    ${countries.length > 1 ? chipRow('country', countries) : ''}
-    <div id="brandGrid" style="margin-top:6px"></div>
+    <div class="chipbar">
+      ${['全部', ...countries].map(v =>
+        `<button class="chip ${f.country === v ? 'on' : ''}" data-act="cat-chip" data-cat="${esc(catId)}" data-group="country" data-val="${esc(v)}">${esc(v)}</button>`).join('')}
+    </div>
+    <div class="cat-body">
+      ${subs.length ? `<div class="sub-rail">
+        ${['全部', ...subs].map(v =>
+          `<button class="sub-chip ${f.sub === v ? 'on' : ''}" data-act="cat-chip" data-cat="${esc(catId)}" data-group="sub" data-val="${esc(v)}">${esc(v)}</button>`).join('')}
+      </div>` : ''}
+      <div class="cat-grid-wrap"><div id="brandGrid" class="brand-grid"></div></div>
+    </div>
   `, true);
 
   renderGrid();
@@ -368,8 +382,7 @@ function viewProduct(id) {
     <div class="pd-media" style="--c:${color}">
       ${store.prefs.onlineImg && p.image
         ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" onerror="this.remove()">` : ''}
-      ${(!store.prefs.onlineImg || !p.image) ? `<span class="pm-big">${icons[iconForType(p.type, b.categoryId)]}</span>` : ''}
-      ${b.domain ? `<img class="pm-logo" src="data/logos/${esc(b.id)}.png" alt="" onerror="this.remove()">` : ''}
+      <span class="pm-big">${icons[iconForType(p.type, b.categoryId)]}</span>
       ${p.type ? `<span class="pm-type">${esc(p.type)}</span>` : ''}
     </div>
 
@@ -499,7 +512,8 @@ function viewExplore() {
     <div class="chipbar" style="position:static;background:none;backdrop-filter:none;padding-top:4px">
       <button class="chip ${ui.exploreCat === 'all' ? 'on' : ''}" data-act="ex-cat" data-val="all">全部</button>
       ${cats.map(c => `<button class="chip ${ui.exploreCat === c.id ? 'on' : ''}" data-act="ex-cat" data-val="${esc(c.id)}">${esc(c.name)}</button>`).join('')}
-      <button class="chip" style="margin-left:auto;background:var(--ink);color:var(--bg);border-color:var(--ink)" data-act="random">🎲 随便逛逛</button>
+      <button class="chip ${ui.exploreUnseen ? 'on' : ''}" data-act="ex-unseen">👁 只看没看过</button>
+      <button class="chip" style="margin-left:auto;background:var(--ink);color:var(--bg);border-color:var(--ink)" data-act="random">🎲 逛逛</button>
     </div>
     <div class="masonry" id="masonry">
       <div class="m-col" id="mcol0"></div>
@@ -523,7 +537,10 @@ function viewExplore() {
 function explorePool() {
   let all = [];
   const cats = ui.exploreCat === 'all' ? DATA.categories.map(c => c.id) : [ui.exploreCat];
-  for (const cid of cats) for (const b of (brandsOfCat.get(cid) || [])) for (const p of (b.products || [])) all.push(p);
+  for (const cid of cats) for (const b of (brandsOfCat.get(cid) || [])) for (const p of (b.products || [])) {
+    if (ui.exploreUnseen && isSeen('p:' + p.id)) continue;
+    all.push(p);
+  }
   // 随机打散(每次进入顺序不同,逛起来新鲜)
   for (let i = all.length - 1; i > 0; i--) { const j = (i * 2654435761 + Date.now()) % (i + 1); [all[i], all[j]] = [all[j], all[i]]; }
   return all;
@@ -598,8 +615,17 @@ function doSearch(qRaw) {
 const meState = { tab: 'favs' };
 
 function viewMe() {
+  const total = DATA.counts?.products || 0;
+  const seenN = [...store.seen].filter(r => r.startsWith('p:') && prodById.has(r.slice(2))).length;
+  const pct = total ? Math.min(100, Math.round(seenN / total * 1000) / 10) : 0;
   setView(`
     <header class="home-head"><div class="wordmark">我的<em>识牌</em></div><div class="date">MY MUSEUM</div></header>
+
+    <div class="collect-card">
+      <div class="cc-head"><span class="zh">图鉴收集</span><span class="en">Collection</span><b>${pct}%</b></div>
+      <div class="progress"><div class="bar" style="width:${pct}%"></div></div>
+      <div class="cc-nums">已看 ${seenN} / ${total} 个产品 · 收藏 ${store.favs.size} 件心头好 · 去探索页开「只看没看过」继续收集</div>
+    </div>
 
     <div class="me-stats">
       <div class="ms"><b>${store.favs.size}</b><span>收藏</span></div>
@@ -721,15 +747,8 @@ function renderMePanel() {
 async function checkUpdate() {
   if (!store.prefs.remoteUrl) return toast('先填远端数据地址');
   toast('正在检查…');
-  try {
-    const r = await fetch(store.prefs.remoteUrl, { cache: 'no-store' });
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    const rd = await r.json();
-    await idb.put('remoteData', rd);
-    indexData(rd);
-    toast(`已更新:${rd.counts?.brands || 0} 品牌 / ${rd.counts?.products || 0} 产品`);
-    renderMePanel();
-  } catch (e) { toast('更新失败:' + e.message); }
+  await refreshRemote(false);
+  if (meState.tab === 'settings') renderMePanel();
 }
 
 function exportBackup() {
@@ -759,7 +778,7 @@ function importBackup(e) {
 }
 
 /* ================= 路由 ================= */
-const ui = { exploreCat: 'all' };
+const ui = { exploreCat: 'all', exploreUnseen: false };
 
 export function renderRoute() {
   const h = location.hash.replace(/^#\/?/, '');
@@ -775,7 +794,7 @@ export function renderRoute() {
 
 function activateTab() {
   const h = location.hash;
-  const name = h.startsWith('#/explore') ? 'explore' : h.startsWith('#/search') ? 'search'
+  const name = h.startsWith('#/explore') ? 'explore' : h.startsWith('#/search') ? 'home'
     : h.startsWith('#/me') ? 'me' : 'home';
   qsa('#tabbar .tab').forEach(t => t.classList.toggle('on', t.dataset.tab === name));
 }
@@ -829,6 +848,12 @@ document.addEventListener('click', e => {
     }
     case 'ex-cat': {
       ui.exploreCat = el.dataset.val;
+      viewExplore();
+      break;
+    }
+    case 'ex-unseen': {
+      ui.exploreUnseen = !ui.exploreUnseen;
+      toast(ui.exploreUnseen ? '只看没看过的' : '显示全部');
       viewExplore();
       break;
     }
@@ -906,7 +931,7 @@ view.innerHTML = `
     <div class="skel" style="width:120px;height:8px;border-radius:99px"></div>
   </div>`;
 
-loadData().then(() => {
+bootData().then(() => {
   renderRoute();
   activateTab();
   console.log('[识牌] 数据就绪', DATA.counts);

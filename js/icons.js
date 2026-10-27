@@ -37,7 +37,7 @@ export const icons = {
 
 // Tab 图标注入
 export function initTabIcons() {
-  const map = { home:'home', explore:'explore', search:'search', me:'me' };
+  const map = { home:'home', explore:'explore', me:'me' };
   document.querySelectorAll('#tabbar .tab').forEach(el => {
     const ic = el.querySelector('.tab-ic');
     if (ic && map[el.dataset.tab]) ic.innerHTML = icons[map[el.dataset.tab]];

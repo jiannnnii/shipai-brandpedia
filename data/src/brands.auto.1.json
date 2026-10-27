@@ -1,329 +1,2769 @@
 {
   "brands": [
     {
-      "id": "rollsroyce", "name": "劳斯莱斯", "nameEn": "Rolls-Royce", "domain": "rolls-roycemotorcars.com",
-      "categoryId": "auto", "country": "英国", "founded": 1904, "hq": "英国古德伍德",
-      "tier": "顶奢", "tags": ["飞翔女神", "手工", "移动宫殿"], "slogan": "世界顶级的汽车",
+      "id": "rollsroyce",
+      "name": "劳斯莱斯",
+      "nameEn": "Rolls-Royce",
+      "domain": "rolls-roycemotorcars.com",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1904,
+      "hq": "英国古德伍德",
+      "tier": "顶奢",
+      "sub": "豪华",
+      "tags": [
+        "飞翔女神",
+        "手工",
+        "移动宫殿"
+      ],
+      "slogan": "世界顶级的汽车",
       "desc": "汽车工业的金字塔尖:手工打造+定制造车,欢庆女神立标与帕特农格栅是身份图腾。",
       "story": "1904年Henry Royce与Charles Rolls联手,「做一台最好的车」。欢庆女神像自1911年立于车头,星空顶篷、车门内藏伞,把汽车做成了移动宫殿。2003年起归属宝马集团,古德伍德工厂手工完成。\n库里南让劳斯莱斯进入SUV时代,任何配置都可以定制——包括把星空绣进车顶。",
       "products": [
-        { "id": "rollsroyce-phantom", "name": "幻影", "nameEn": "Phantom", "type": "旗舰轿车", "price": { "min": 9000000, "max": 20000000, "label": "厂商指导价" }, "desc": "1925年至今的旗舰之王,星空顶+魔法地毯悬挂。", "highlights": ["旗舰之王", "星空顶"], "tags": ["轿车"] },
-        { "id": "rollsroyce-ghost", "name": "古思特", "nameEn": "Ghost", "type": "豪华轿车", "price": { "min": 5000000, "max": 7000000, "label": "厂商指导价" }, "desc": "「更年轻的劳斯莱斯」,极简黑徽版是富二代的暗号。", "highlights": ["年轻化", "黑徽版"], "tags": ["轿车"] },
-        { "id": "rollsroyce-wraith", "name": "魅影", "nameEn": "Wraith", "type": "豪华轿跑", "price": { "min": 5000000, "max": 8000000, "label": "厂商指导价" }, "desc": "双门溜背轿跑,流星顶为乘客定制星空。", "highlights": ["双门轿跑", "流星顶"], "tags": ["轿跑"] },
-        { "id": "rollsroyce-cullinan", "name": "库里南", "nameEn": "Cullinan", "type": "豪华SUV", "price": { "min": 6000000, "max": 12000000, "label": "厂商指导价" }, "desc": "以最大钻石命名的SUV,对开门+观景座椅。", "highlights": ["钻石命名", "对开门"], "tags": ["SUV"] },
-        { "id": "rollsroyce-spectre", "name": "闪灵", "nameEn": "Spectre", "type": "纯电轿跑", "price": { "min": 6000000, "max": 9000000, "label": "厂商指导价" }, "desc": "品牌首款纯电车,575万起的「电动幽灵」。", "highlights": ["首款纯电", "电动幽灵"], "tags": ["纯电"] }
+        {
+          "id": "rollsroyce-phantom",
+          "name": "幻影",
+          "nameEn": "Phantom",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 9000000,
+            "max": 20000000,
+            "label": "厂商指导价"
+          },
+          "desc": "1925年至今的旗舰之王,星空顶+魔法地毯悬挂。",
+          "highlights": [
+            "旗舰之王",
+            "星空顶"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "rollsroyce-ghost",
+          "name": "古思特",
+          "nameEn": "Ghost",
+          "type": "豪华轿车",
+          "price": {
+            "min": 5000000,
+            "max": 7000000,
+            "label": "厂商指导价"
+          },
+          "desc": "「更年轻的劳斯莱斯」,极简黑徽版是富二代的暗号。",
+          "highlights": [
+            "年轻化",
+            "黑徽版"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "rollsroyce-wraith",
+          "name": "魅影",
+          "nameEn": "Wraith",
+          "type": "豪华轿跑",
+          "price": {
+            "min": 5000000,
+            "max": 8000000,
+            "label": "厂商指导价"
+          },
+          "desc": "双门溜背轿跑,流星顶为乘客定制星空。",
+          "highlights": [
+            "双门轿跑",
+            "流星顶"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "rollsroyce-cullinan",
+          "name": "库里南",
+          "nameEn": "Cullinan",
+          "type": "豪华SUV",
+          "price": {
+            "min": 6000000,
+            "max": 12000000,
+            "label": "厂商指导价"
+          },
+          "desc": "以最大钻石命名的SUV,对开门+观景座椅。",
+          "highlights": [
+            "钻石命名",
+            "对开门"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "rollsroyce-spectre",
+          "name": "闪灵",
+          "nameEn": "Spectre",
+          "type": "纯电轿跑",
+          "price": {
+            "min": 6000000,
+            "max": 9000000,
+            "label": "厂商指导价"
+          },
+          "desc": "品牌首款纯电车,575万起的「电动幽灵」。",
+          "highlights": [
+            "首款纯电",
+            "电动幽灵"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        }
       ]
     },
     {
-      "id": "bentley", "name": "宾利", "nameEn": "Bentley", "domain": "bentleymotors.com",
-      "categoryId": "auto", "country": "英国", "founded": 1919, "hq": "英国克鲁",
-      "tier": "顶奢", "tags": ["W12", "勒芒六冠", "水晶切割"], "slogan": "Extraordinary journeys",
+      "id": "bentley",
+      "name": "宾利",
+      "nameEn": "Bentley",
+      "domain": "bentleymotors.com",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1919,
+      "hq": "英国克鲁",
+      "tier": "顶奢",
+      "sub": "豪华",
+      "tags": [
+        "W12",
+        "勒芒六冠",
+        "水晶切割"
+      ],
+      "slogan": "Extraordinary journeys",
       "desc": "勒芒六冠王与W12引擎的传奇,英国皇室御用座驾,木纹与水晶切割工艺登峰造极。",
       "story": "1919年W.O.宾利创立,「造一台快车,好车」。1920-30年代五夺勒芒24小时耐力赛冠军。1998年起归属大众集团,克鲁工厂至今手工缝线。\n水晶大灯的切割工艺来自珠宝行业,内饰单棵胡桃木 veneer 要挂28天。",
       "products": [
-        { "id": "bentley-flyingSpur", "name": "飞驰", "nameEn": "Flying Spur", "type": "豪华轿车", "price": { "min": 2500000, "max": 4000000, "label": "厂商指导价" }, "desc": "四门行政旗舰,W12/插混可选,后排能躺平办公。", "highlights": ["行政旗舰", "W12可选"], "tags": ["轿车"] },
-        { "id": "bentley-continental", "name": "欧陆 GT", "nameEn": "Continental GT", "type": "豪华轿跑", "price": { "min": 2800000, "max": 4500000, "label": "厂商指导价" }, "desc": "1952年经典延续,双门GT的英伦标杆。", "highlights": ["1952经典", "双门GT"], "tags": ["轿跑"] },
-        { "id": "bentley-addBentayga", "name": "添越", "nameEn": "Bentayga", "type": "豪华SUV", "price": { "min": 2500000, "max": 5000000, "label": "厂商指导价" }, "desc": "超豪华SUV的开创者之一,钓鱼套件都能定制。", "highlights": ["超豪华SUV", "奢侈定制"], "tags": ["SUV"] },
-        { "id": "bentley-mulsanne", "name": "慕尚", "nameEn": "Mulsanne", "type": "旗舰轿车", "price": { "min": 4000000, "max": 9000000, "label": "已停产参考价" }, "desc": "2020年停产的V8旗舰,手工流水线最后的绝唱。", "highlights": ["已停产", "V8旗舰"], "tags": ["轿车"] },
-        { "id": "bentley-mulliner", "name": "Mulliner 定制部", "nameEn": "Mulliner", "type": "定制服务", "price": { "min": 5000000, "max": 20000000, "label": "定制参考价" }, "desc": "世界最老车身定制坊,从金线绣徽到车载酒柜皆可。", "highlights": ["最老定制坊", "全定制"], "tags": ["定制"] }
+        {
+          "id": "bentley-flyingSpur",
+          "name": "飞驰",
+          "nameEn": "Flying Spur",
+          "type": "豪华轿车",
+          "price": {
+            "min": 2500000,
+            "max": 4000000,
+            "label": "厂商指导价"
+          },
+          "desc": "四门行政旗舰,W12/插混可选,后排能躺平办公。",
+          "highlights": [
+            "行政旗舰",
+            "W12可选"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "bentley-continental",
+          "name": "欧陆 GT",
+          "nameEn": "Continental GT",
+          "type": "豪华轿跑",
+          "price": {
+            "min": 2800000,
+            "max": 4500000,
+            "label": "厂商指导价"
+          },
+          "desc": "1952年经典延续,双门GT的英伦标杆。",
+          "highlights": [
+            "1952经典",
+            "双门GT"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "bentley-addBentayga",
+          "name": "添越",
+          "nameEn": "Bentayga",
+          "type": "豪华SUV",
+          "price": {
+            "min": 2500000,
+            "max": 5000000,
+            "label": "厂商指导价"
+          },
+          "desc": "超豪华SUV的开创者之一,钓鱼套件都能定制。",
+          "highlights": [
+            "超豪华SUV",
+            "奢侈定制"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "bentley-mulsanne",
+          "name": "慕尚",
+          "nameEn": "Mulsanne",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 4000000,
+            "max": 9000000,
+            "label": "已停产参考价"
+          },
+          "desc": "2020年停产的V8旗舰,手工流水线最后的绝唱。",
+          "highlights": [
+            "已停产",
+            "V8旗舰"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "bentley-mulliner",
+          "name": "Mulliner 定制部",
+          "nameEn": "Mulliner",
+          "type": "定制服务",
+          "price": {
+            "min": 5000000,
+            "max": 20000000,
+            "label": "定制参考价"
+          },
+          "desc": "世界最老车身定制坊,从金线绣徽到车载酒柜皆可。",
+          "highlights": [
+            "最老定制坊",
+            "全定制"
+          ],
+          "tags": [
+            "定制"
+          ]
+        }
       ]
     },
     {
-      "id": "maybach", "name": "迈巴赫", "nameEn": "Maybach", "domain": "mercedes-benz.com.cn",
-      "categoryId": "auto", "country": "德国", "founded": 1909, "hq": "斯图加特",
-      "tier": "顶奢", "tags": ["奔驰之上", "后排为王", "齐柏林"], "slogan": "One Man, One Engine(尊享独一)",
+      "id": "maybach",
+      "name": "迈巴赫",
+      "nameEn": "Maybach",
+      "domain": "mercedes-benz.com.cn",
+      "categoryId": "auto",
+      "country": "德国",
+      "founded": 1909,
+      "hq": "斯图加特",
+      "tier": "顶奢",
+      "sub": "行政",
+      "tags": [
+        "奔驰之上",
+        "后排为王",
+        "齐柏林"
+      ],
+      "slogan": "One Man, One Engine(尊享独一)",
       "desc": "从齐柏林飞艇引擎到奔驰之上:迈巴赫S级把「后排为王」做到极致,双M标是老板座驾的通行证。",
       "story": "1909年Wilhelm Maybach为齐柏林飞艇造引擎,1921年开始造车,曾与劳斯莱斯齐名。2015年以「Mercedes-Maybach」重生,57/62的经典褪去,S级加长版扛起大旗。\n迈巴赫GLS让SUV老板们也加入了双M俱乐部。",
       "products": [
-        { "id": "maybach-sclass", "name": "迈巴赫S级", "nameEn": "Mercedes-Maybach S-Class", "type": "旗舰轿车", "price": { "min": 1500000, "max": 3500000, "label": "厂商指导价" }, "desc": "加长轴距+后排行政座椅,老板座驾的默认答案。", "highlights": ["加长轴距", "后排行政座"], "tags": ["轿车"] },
-        { "id": "maybach-gls", "name": "迈巴赫GLS", "nameEn": "Mercedes-Maybach GLS", "type": "豪华SUV", "price": { "min": 1800000, "max": 3200000, "label": "厂商指导价" }, "desc": "把迈巴赫的舒适装进SUV,香氛+冷藏柜齐全。", "highlights": ["SUV版迈巴赫", "冷藏柜"], "tags": ["SUV"] },
-        { "id": "maybach-eqs", "name": "迈巴赫EQS SUV", "nameEn": "Maybach EQS SUV", "type": "纯电SUV", "price": { "min": 1600000, "max": 2400000, "label": "厂商指导价" }, "desc": "电动化时代的迈巴赫,静谧如图书馆。", "highlights": ["纯电", "静谧"], "tags": ["纯电"] },
-        { "id": "maybach-62", "name": "迈巴赫62(经典)", "nameEn": "Maybach 62", "type": "旗舰轿车", "price": { "min": 9000000, "max": 13000000, "label": "历史参考价" }, "desc": "2002-2012年的独立品牌时代旗舰,马云同款。", "highlights": ["独立品牌时代", "马云同款"], "tags": ["经典"] },
-        { "id": "maybach-night", "name": "Night Series 夜境", "nameEn": "Night Series", "type": "特别版", "price": { "min": 1800000, "max": 4000000, "label": "厂商指导价" }, "desc": "全黑化套件的夜行者版本,年轻化一步到位。", "highlights": ["全黑化", "年轻化"], "tags": ["特别版"] }
+        {
+          "id": "maybach-sclass",
+          "name": "迈巴赫S级",
+          "nameEn": "Mercedes-Maybach S-Class",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 1500000,
+            "max": 3500000,
+            "label": "厂商指导价"
+          },
+          "desc": "加长轴距+后排行政座椅,老板座驾的默认答案。",
+          "highlights": [
+            "加长轴距",
+            "后排行政座"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "maybach-gls",
+          "name": "迈巴赫GLS",
+          "nameEn": "Mercedes-Maybach GLS",
+          "type": "豪华SUV",
+          "price": {
+            "min": 1800000,
+            "max": 3200000,
+            "label": "厂商指导价"
+          },
+          "desc": "把迈巴赫的舒适装进SUV,香氛+冷藏柜齐全。",
+          "highlights": [
+            "SUV版迈巴赫",
+            "冷藏柜"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "maybach-eqs",
+          "name": "迈巴赫EQS SUV",
+          "nameEn": "Maybach EQS SUV",
+          "type": "纯电SUV",
+          "price": {
+            "min": 1600000,
+            "max": 2400000,
+            "label": "厂商指导价"
+          },
+          "desc": "电动化时代的迈巴赫,静谧如图书馆。",
+          "highlights": [
+            "纯电",
+            "静谧"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "maybach-62",
+          "name": "迈巴赫62(经典)",
+          "nameEn": "Maybach 62",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 9000000,
+            "max": 13000000,
+            "label": "历史参考价"
+          },
+          "desc": "2002-2012年的独立品牌时代旗舰,马云同款。",
+          "highlights": [
+            "独立品牌时代",
+            "马云同款"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "maybach-night",
+          "name": "Night Series 夜境",
+          "nameEn": "Night Series",
+          "type": "特别版",
+          "price": {
+            "min": 1800000,
+            "max": 4000000,
+            "label": "厂商指导价"
+          },
+          "desc": "全黑化套件的夜行者版本,年轻化一步到位。",
+          "highlights": [
+            "全黑化",
+            "年轻化"
+          ],
+          "tags": [
+            "特别版"
+          ]
+        }
       ]
     },
     {
-      "id": "mercedesbenz", "name": "奔驰", "nameEn": "Mercedes-Benz", "domain": "mercedes-benz.com.cn",
-      "categoryId": "auto", "country": "德国", "founded": 1886, "hq": "斯图加特",
-      "tier": "豪华", "tags": ["汽车发明者", "三叉星", "BBA"], "slogan": "The best or nothing(唯有最好)",
+      "id": "mercedesbenz",
+      "name": "奔驰",
+      "nameEn": "Mercedes-Benz",
+      "domain": "mercedes-benz.com.cn",
+      "categoryId": "auto",
+      "country": "德国",
+      "founded": 1886,
+      "hq": "斯图加特",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "汽车发明者",
+        "三叉星",
+        "BBA"
+      ],
+      "slogan": "The best or nothing(唯有最好)",
       "desc": "汽车的发明者:1886年卡尔·本茨造出世界第一辆汽车,三叉星照耀百万富翁、千万富翁与亿万富翁。",
       "story": "1886年本茨专利 Motorwagen 与戴姆勒四轮车同年问世,1901年梅赛德斯得名于一位商人的女儿。S级定义豪华,W123成为质量图腾,F1银箭书写赛车传奇。\n如今是戴姆勒旗下核心品牌,在中国与北汽合资的北京奔驰是最大单一市场。",
       "products": [
-        { "id": "mercedesbenz-sclass", "name": "S级", "nameEn": "S-Class", "type": "旗舰轿车", "price": { "min": 900000, "max": 2000000, "label": "厂商指导价" }, "desc": "每一代S级都定义时代:空气悬挂、魔术车身、大屏全是最先。", "highlights": ["定义豪华", "技术风向标"], "tags": ["轿车"] },
-        { "id": "mercedesbenz-eclass", "name": "E级", "nameEn": "E-Class", "type": "行政轿车", "price": { "min": 440000, "max": 600000, "label": "厂商指导价" }, "desc": "行政级的中坚,「小S级」是国宴外的默认座驾。", "highlights": ["行政中坚", "小S级"], "tags": ["轿车"] },
-        { "id": "mercedesbenz-cclass", "name": "C级", "nameEn": "C-Class", "type": "中型轿车", "price": { "min": 330000, "max": 400000, "label": "厂商指导价" }, "desc": "30万级豪华入门的标配答案,立标与AMG线双造型。", "highlights": ["30万级", "双造型"], "tags": ["轿车"] },
-        { "id": "mercedesbenz-glc", "name": "GLC", "nameEn": "GLC", "type": "中型SUV", "price": { "min": 420000, "max": 550000, "label": "厂商指导价" }, "desc": "加长轴距的中型SUV主力,家庭豪华首选之一。", "highlights": ["加长", "家用豪华"], "tags": ["SUV"] },
-        { "id": "mercedesbenz-gclass", "name": "G级", "nameEn": "G-Class", "type": "越野车", "price": { "min": 1600000, "max": 4000000, "label": "厂商指导价" }, "desc": "1979年至今的方盒子越野活化石,关门声都是理财产品。", "highlights": ["方盒子", "理财产品"], "tags": ["越野"] },
-        { "id": "mercedesbenz-amg", "name": "AMG 系列", "nameEn": "Mercedes-AMG", "type": "高性能", "price": { "min": 500000, "max": 3000000, "label": "厂商指导价" }, "desc": "一人一机的签名血统,从A45到SL63的性能矩阵。", "highlights": ["一人一机", "性能矩阵"], "tags": ["性能"] }
+        {
+          "id": "mercedesbenz-sclass",
+          "name": "S级",
+          "nameEn": "S-Class",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 900000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "每一代S级都定义时代:空气悬挂、魔术车身、大屏全是最先。",
+          "highlights": [
+            "定义豪华",
+            "技术风向标"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "mercedesbenz-eclass",
+          "name": "E级",
+          "nameEn": "E-Class",
+          "type": "行政轿车",
+          "price": {
+            "min": 440000,
+            "max": 600000,
+            "label": "厂商指导价"
+          },
+          "desc": "行政级的中坚,「小S级」是国宴外的默认座驾。",
+          "highlights": [
+            "行政中坚",
+            "小S级"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "mercedesbenz-cclass",
+          "name": "C级",
+          "nameEn": "C-Class",
+          "type": "中型轿车",
+          "price": {
+            "min": 330000,
+            "max": 400000,
+            "label": "厂商指导价"
+          },
+          "desc": "30万级豪华入门的标配答案,立标与AMG线双造型。",
+          "highlights": [
+            "30万级",
+            "双造型"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "mercedesbenz-glc",
+          "name": "GLC",
+          "nameEn": "GLC",
+          "type": "中型SUV",
+          "price": {
+            "min": 420000,
+            "max": 550000,
+            "label": "厂商指导价"
+          },
+          "desc": "加长轴距的中型SUV主力,家庭豪华首选之一。",
+          "highlights": [
+            "加长",
+            "家用豪华"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "mercedesbenz-gclass",
+          "name": "G级",
+          "nameEn": "G-Class",
+          "type": "越野车",
+          "price": {
+            "min": 1600000,
+            "max": 4000000,
+            "label": "厂商指导价"
+          },
+          "desc": "1979年至今的方盒子越野活化石,关门声都是理财产品。",
+          "highlights": [
+            "方盒子",
+            "理财产品"
+          ],
+          "tags": [
+            "越野"
+          ]
+        },
+        {
+          "id": "mercedesbenz-amg",
+          "name": "AMG 系列",
+          "nameEn": "Mercedes-AMG",
+          "type": "高性能",
+          "price": {
+            "min": 500000,
+            "max": 3000000,
+            "label": "厂商指导价"
+          },
+          "desc": "一人一机的签名血统,从A45到SL63的性能矩阵。",
+          "highlights": [
+            "一人一机",
+            "性能矩阵"
+          ],
+          "tags": [
+            "性能"
+          ]
+        }
       ]
     },
     {
-      "id": "bmw-real", "name": "宝马", "nameEn": "BMW", "domain": "bmw.com.cn",
-      "categoryId": "auto", "country": "德国", "founded": 1916, "hq": "慕尼黑",
-      "tier": "豪华", "tags": ["操控", "双肾格栅", "M部门"], "slogan": "纯粹驾驶乐趣",
+      "id": "bmw-real",
+      "name": "宝马",
+      "nameEn": "BMW",
+      "domain": "bmw.com.cn",
+      "categoryId": "auto",
+      "country": "德国",
+      "founded": 1916,
+      "hq": "慕尼黑",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "操控",
+        "双肾格栅",
+        "M部门"
+      ],
+      "slogan": "纯粹驾驶乐趣",
       "desc": "蓝白螺旋桨的巴伐利亚发动机制造厂,「开宝马」的操控信仰与M部门的性能图腾。",
       "story": "1916年飞机引擎厂起家,蓝白标取自巴伐利亚州旗。1962年New Class确立运动轿车基因,1972年M部门成立。如今旗下握有MINI与劳斯莱斯,i系列引领电动化。\n在华与华晨合资,沈阳是宝马全球最大生产基地。",
       "products": [
-        { "id": "bmw-real-3", "name": "3系", "nameEn": "3 Series", "type": "中型轿车", "price": { "min": 300000, "max": 400000, "label": "厂商指导价" }, "desc": "运动中型车标杆,前后50:50配重的操控信仰。", "highlights": ["50:50配重", "操控信仰"], "tags": ["轿车"] },
-        { "id": "bmw-real-5", "name": "5系", "nameEn": "5 Series", "type": "行政轿车", "price": { "min": 430000, "max": 560000, "label": "厂商指导价" }, "desc": "行政与运动兼得,长轴版是商务主流。", "highlights": ["行政运动", "长轴"], "tags": ["轿车"] },
-        { "id": "bmw-real-x5", "name": "X5", "nameEn": "X5", "type": "中大型SUV", "price": { "min": 615000, "max": 800000, "label": "厂商指导价" }, "desc": "1999年开创SAV概念,公路王者至今。", "highlights": ["SAV鼻祖", "公路王者"], "tags": ["SUV"] },
-        { "id": "bmw-real-m3", "name": "M3/M4", "nameEn": "M3 / M4", "type": "高性能", "price": { "min": 850000, "max": 1000000, "label": "厂商指导价" }, "desc": "直六+大鼻孔,M部门的图腾双雄。", "highlights": ["直六引擎", "M图腾"], "tags": ["性能"] },
-        { "id": "bmw-real-i3", "name": "i3/i4/iX", "nameEn": "i Series", "type": "纯电", "price": { "min": 350000, "max": 1000000, "label": "厂商指导价" }, "desc": "从碳纤维i3到iX的电动化探索。", "highlights": ["碳纤维", "电动化"], "tags": ["纯电"] },
-        { "id": "bmw-real-mini", "name": "MINI", "nameEn": "MINI", "type": "小型车", "price": { "min": 200000, "max": 450000, "label": "厂商指导价" }, "desc": "宝马旗下英伦小车,卡丁车般的操控玩具。", "highlights": ["英伦小车", "卡丁手感"], "tags": ["小型车"] }
+        {
+          "id": "bmw-real-3",
+          "name": "3系",
+          "nameEn": "3 Series",
+          "type": "中型轿车",
+          "price": {
+            "min": 300000,
+            "max": 400000,
+            "label": "厂商指导价"
+          },
+          "desc": "运动中型车标杆,前后50:50配重的操控信仰。",
+          "highlights": [
+            "50:50配重",
+            "操控信仰"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "bmw-real-5",
+          "name": "5系",
+          "nameEn": "5 Series",
+          "type": "行政轿车",
+          "price": {
+            "min": 430000,
+            "max": 560000,
+            "label": "厂商指导价"
+          },
+          "desc": "行政与运动兼得,长轴版是商务主流。",
+          "highlights": [
+            "行政运动",
+            "长轴"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "bmw-real-x5",
+          "name": "X5",
+          "nameEn": "X5",
+          "type": "中大型SUV",
+          "price": {
+            "min": 615000,
+            "max": 800000,
+            "label": "厂商指导价"
+          },
+          "desc": "1999年开创SAV概念,公路王者至今。",
+          "highlights": [
+            "SAV鼻祖",
+            "公路王者"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "bmw-real-m3",
+          "name": "M3/M4",
+          "nameEn": "M3 / M4",
+          "type": "高性能",
+          "price": {
+            "min": 850000,
+            "max": 1000000,
+            "label": "厂商指导价"
+          },
+          "desc": "直六+大鼻孔,M部门的图腾双雄。",
+          "highlights": [
+            "直六引擎",
+            "M图腾"
+          ],
+          "tags": [
+            "性能"
+          ]
+        },
+        {
+          "id": "bmw-real-i3",
+          "name": "i3/i4/iX",
+          "nameEn": "i Series",
+          "type": "纯电",
+          "price": {
+            "min": 350000,
+            "max": 1000000,
+            "label": "厂商指导价"
+          },
+          "desc": "从碳纤维i3到iX的电动化探索。",
+          "highlights": [
+            "碳纤维",
+            "电动化"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "bmw-real-mini",
+          "name": "MINI",
+          "nameEn": "MINI",
+          "type": "小型车",
+          "price": {
+            "min": 200000,
+            "max": 450000,
+            "label": "厂商指导价"
+          },
+          "desc": "宝马旗下英伦小车,卡丁车般的操控玩具。",
+          "highlights": [
+            "英伦小车",
+            "卡丁手感"
+          ],
+          "tags": [
+            "小型车"
+          ]
+        }
       ]
     },
     {
-      "id": "audi", "name": "奥迪", "nameEn": "Audi", "domain": "audi.cn",
-      "categoryId": "auto", "country": "德国", "founded": 1909, "hq": "英戈尔施塔特",
-      "tier": "豪华", "tags": ["quattro", "灯厂", "科技"], "slogan": "突破科技,启迪未来",
+      "id": "audi",
+      "name": "奥迪",
+      "nameEn": "Audi",
+      "domain": "audi.cn",
+      "categoryId": "auto",
+      "country": "德国",
+      "founded": 1909,
+      "hq": "英戈尔施塔特",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "quattro",
+        "灯厂",
+        "科技"
+      ],
+      "slogan": "突破科技,启迪未来",
       "desc": "四环联盟的科技先锋:quattro全时四驱改写拉力史,「灯厂」的灯光秀与铝车身独步江湖。",
       "story": "1909年奥古斯特·霍希二度创业,1932年四家车企结盟成汽车联盟(Audi/DKW/Horch/Wanderer),四环即联盟印记。1980年quattro四驱在拉力赛场封神。\n隶属大众集团,在华与一汽合资三十余年,「官车」形象深入人心。",
       "products": [
-        { "id": "audi-a6", "name": "A6L", "nameEn": "A6L", "type": "行政轿车", "price": { "min": 420000, "max": 660000, "label": "厂商指导价" }, "desc": "中国「官车」时代的图腾,行政级的科技先锋。", "highlights": ["官车图腾", "科技先锋"], "tags": ["轿车"] },
-        { "id": "audi-a4", "name": "A4L", "nameEn": "A4L", "type": "中型轿车", "price": { "min": 300000, "max": 400000, "label": "厂商指导价" }, "desc": "30万级德系均衡之选,quattro入门即信仰。", "highlights": ["德系均衡", "quattro"], "tags": ["轿车"] },
-        { "id": "audi-q5", "name": "Q5L", "nameEn": "Q5L", "type": "中型SUV", "price": { "min": 380000, "max": 500000, "label": "厂商指导价" }, "desc": "豪华中型SUV的老牌常青树。", "highlights": ["常青树", "加长"], "tags": ["SUV"] },
-        { "id": "audi-r8", "name": "R8", "nameEn": "R8", "type": "超跑", "price": { "min": 1900000, "max": 2800000, "label": "厂商指导价" }, "desc": "兰博基尼同源的V10日常超跑,钢铁侠座驾。", "highlights": ["兰博基尼同源", "钢铁侠座驾"], "tags": ["超跑"] },
-        { "id": "audi-etron", "name": "Q6 e-tron", "nameEn": "Q6 e-tron", "type": "纯电SUV", "price": { "min": 500000, "max": 800000, "label": "厂商指导价" }, "desc": "PPE平台新世代纯电,大灯科技依旧在线。", "highlights": ["PPE平台", "灯厂科技"], "tags": ["纯电"] },
-        { "id": "audi-rsq", "name": "RS 系列", "nameEn": "RS", "type": "高性能", "price": { "min": 800000, "max": 2000000, "label": "厂商指导价" }, "desc": "西装暴徒之名:RS6 Avant 是地表最强旅行车之一。", "highlights": ["西装暴徒", "最强旅行车"], "tags": ["性能"] }
+        {
+          "id": "audi-a6",
+          "name": "A6L",
+          "nameEn": "A6L",
+          "type": "行政轿车",
+          "price": {
+            "min": 420000,
+            "max": 660000,
+            "label": "厂商指导价"
+          },
+          "desc": "中国「官车」时代的图腾,行政级的科技先锋。",
+          "highlights": [
+            "官车图腾",
+            "科技先锋"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "audi-a4",
+          "name": "A4L",
+          "nameEn": "A4L",
+          "type": "中型轿车",
+          "price": {
+            "min": 300000,
+            "max": 400000,
+            "label": "厂商指导价"
+          },
+          "desc": "30万级德系均衡之选,quattro入门即信仰。",
+          "highlights": [
+            "德系均衡",
+            "quattro"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "audi-q5",
+          "name": "Q5L",
+          "nameEn": "Q5L",
+          "type": "中型SUV",
+          "price": {
+            "min": 380000,
+            "max": 500000,
+            "label": "厂商指导价"
+          },
+          "desc": "豪华中型SUV的老牌常青树。",
+          "highlights": [
+            "常青树",
+            "加长"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "audi-r8",
+          "name": "R8",
+          "nameEn": "R8",
+          "type": "超跑",
+          "price": {
+            "min": 1900000,
+            "max": 2800000,
+            "label": "厂商指导价"
+          },
+          "desc": "兰博基尼同源的V10日常超跑,钢铁侠座驾。",
+          "highlights": [
+            "兰博基尼同源",
+            "钢铁侠座驾"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "audi-etron",
+          "name": "Q6 e-tron",
+          "nameEn": "Q6 e-tron",
+          "type": "纯电SUV",
+          "price": {
+            "min": 500000,
+            "max": 800000,
+            "label": "厂商指导价"
+          },
+          "desc": "PPE平台新世代纯电,大灯科技依旧在线。",
+          "highlights": [
+            "PPE平台",
+            "灯厂科技"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "audi-rsq",
+          "name": "RS 系列",
+          "nameEn": "RS",
+          "type": "高性能",
+          "price": {
+            "min": 800000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "西装暴徒之名:RS6 Avant 是地表最强旅行车之一。",
+          "highlights": [
+            "西装暴徒",
+            "最强旅行车"
+          ],
+          "tags": [
+            "性能"
+          ]
+        }
       ]
     },
     {
-      "id": "porsche", "name": "保时捷", "nameEn": "Porsche", "domain": "porsche.com",
-      "categoryId": "auto", "country": "德国", "founded": 1931, "hq": "斯图加特",
-      "tier": "顶奢", "tags": ["911", "赛道", "蛙灯"], "slogan": "There is no substitute(无可替代)",
+      "id": "porsche",
+      "name": "保时捷",
+      "nameEn": "Porsche",
+      "domain": "porsche.com",
+      "categoryId": "auto",
+      "country": "德国",
+      "founded": 1931,
+      "hq": "斯图加特",
+      "tier": "顶奢",
+      "sub": "性能",
+      "tags": [
+        "911",
+        "赛道",
+        "蛙灯"
+      ],
+      "slogan": "There is no substitute(无可替代)",
       "desc": "911的六十年不朽传奇:蛙灯、后置引擎与水平对置六缸,跑车界唯一「不变即是进化」的品牌。",
       "story": "1931年费迪南德·保时捷设立设计工作室(甲壳虫之父),1948年356问世,1963年911横空出世并进化至今。勒芒19冠、达喀尔、F1引擎全面开花。\n如今911、Cayenne、Taycan三驾马车,是超豪华阵营里最赚钱的公司。",
       "products": [
-        { "id": "porsche-911", "name": "911", "nameEn": "911", "type": "跑车", "price": { "min": 1500000, "max": 3000000, "label": "厂商指导价" }, "desc": "1963年至今八代进化,后置引擎的永恒图腾。", "highlights": ["八代进化", "永恒图腾"], "tags": ["跑车"] },
-        { "id": "porsche-cayenne", "name": "Cayenne", "nameEn": "Cayenne", "type": "豪华SUV", "price": { "min": 900000, "max": 2000000, "label": "厂商指导价" }, "desc": "2002年救活公司的SUV,跑得快的绿牌大家伙。", "highlights": ["救主之作", "绿牌"], "tags": ["SUV"] },
-        { "id": "porsche-taycan", "name": "Taycan", "nameEn": "Taycan", "type": "纯电跑车", "price": { "min": 900000, "max": 2000000, "label": "厂商指导价" }, "desc": "800V高压平台的电动先驱,纽北圈速之王(纯电)。", "highlights": ["800V平台", "纽北之王"], "tags": ["纯电"] },
-        { "id": "porsche-panamera", "name": "Panamera", "nameEn": "Panamera", "type": "行政轿跑", "price": { "min": 1000000, "max": 2500000, "label": "厂商指导价" }, "desc": "四门GT的保时捷答案,行政与性能双修。", "highlights": ["四门GT", "双修"], "tags": ["轿跑"] },
-        { "id": "porsche-macan", "name": "Macan", "nameEn": "Macan", "type": "中型SUV", "price": { "min": 600000, "max": 1000000, "label": "厂商指导价" }, "desc": "最畅销的保时捷,入门即跑车调校。", "highlights": ["最畅销", "跑车调校"], "tags": ["SUV"] },
-        { "id": "porsche-718", "name": "718 Boxster/Cayman", "nameEn": "718", "type": "中置跑车", "price": { "min": 600000, "max": 1600000, "label": "厂商指导价" }, "desc": "中置引擎的入门双雄,赛道日的性价比神器。", "highlights": ["中置引擎", "赛道日"], "tags": ["跑车"] }
+        {
+          "id": "porsche-911",
+          "name": "911",
+          "nameEn": "911",
+          "type": "跑车",
+          "price": {
+            "min": 1500000,
+            "max": 3000000,
+            "label": "厂商指导价"
+          },
+          "desc": "1963年至今八代进化,后置引擎的永恒图腾。",
+          "highlights": [
+            "八代进化",
+            "永恒图腾"
+          ],
+          "tags": [
+            "跑车"
+          ]
+        },
+        {
+          "id": "porsche-cayenne",
+          "name": "Cayenne",
+          "nameEn": "Cayenne",
+          "type": "豪华SUV",
+          "price": {
+            "min": 900000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "2002年救活公司的SUV,跑得快的绿牌大家伙。",
+          "highlights": [
+            "救主之作",
+            "绿牌"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "porsche-taycan",
+          "name": "Taycan",
+          "nameEn": "Taycan",
+          "type": "纯电跑车",
+          "price": {
+            "min": 900000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "800V高压平台的电动先驱,纽北圈速之王(纯电)。",
+          "highlights": [
+            "800V平台",
+            "纽北之王"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "porsche-panamera",
+          "name": "Panamera",
+          "nameEn": "Panamera",
+          "type": "行政轿跑",
+          "price": {
+            "min": 1000000,
+            "max": 2500000,
+            "label": "厂商指导价"
+          },
+          "desc": "四门GT的保时捷答案,行政与性能双修。",
+          "highlights": [
+            "四门GT",
+            "双修"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "porsche-macan",
+          "name": "Macan",
+          "nameEn": "Macan",
+          "type": "中型SUV",
+          "price": {
+            "min": 600000,
+            "max": 1000000,
+            "label": "厂商指导价"
+          },
+          "desc": "最畅销的保时捷,入门即跑车调校。",
+          "highlights": [
+            "最畅销",
+            "跑车调校"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "porsche-718",
+          "name": "718 Boxster/Cayman",
+          "nameEn": "718",
+          "type": "中置跑车",
+          "price": {
+            "min": 600000,
+            "max": 1600000,
+            "label": "厂商指导价"
+          },
+          "desc": "中置引擎的入门双雄,赛道日的性价比神器。",
+          "highlights": [
+            "中置引擎",
+            "赛道日"
+          ],
+          "tags": [
+            "跑车"
+          ]
+        }
       ]
     },
     {
-      "id": "lamborghini", "name": "兰博基尼", "nameEn": "Lamborghini", "domain": "lamborghini.com",
-      "categoryId": "auto", "country": "意大利", "founded": 1963, "hq": "圣阿加塔",
-      "tier": "顶奢", "tags": ["蛮牛", "剪刀门", "V12"], "slogan": "Expect the Unexpected(不期而至)",
+      "id": "lamborghini",
+      "name": "兰博基尼",
+      "nameEn": "Lamborghini",
+      "domain": "lamborghini.com",
+      "categoryId": "auto",
+      "country": "意大利",
+      "founded": 1963,
+      "hq": "圣阿加塔",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "蛮牛",
+        "剪刀门",
+        "V12"
+      ],
+      "slogan": "Expect the Unexpected(不期而至)",
       "desc": "与法拉利赌气而生的蛮牛:拖拉机王 Ferruccio Lamborghini 因 clutch 抱怨被恩佐嘲讽,愤而造车。",
       "story": "1963年Ferruccio Lamborghini创办车厂,1966年Miura定义超跑布局,1974年Countach把剪刀门与楔形车身变成文化符号。如今属奥迪(大众集团),Urus贡献大半销量。\n金牛与跃马的恩怨,是汽车史最著名的赌气美学。",
       "products": [
-        { "id": "lamborghini-huracan", "name": "Huracán", "nameEn": "Huracán", "type": "超跑", "price": { "min": 2600000, "max": 5000000, "label": "厂商指导价" }, "desc": "V10自然吸气的末代欢歌,STO为赛道而生。", "highlights": ["V10自吸", "STO赛道版"], "tags": ["超跑"] },
-        { "id": "lamborghini-revuelto", "name": "Revuelto", "nameEn": "Revuelto", "type": "混动超跑", "price": { "min": 6300000, "max": 8000000, "label": "厂商指导价" }, "desc": "V12+三电机的旗舰接力,大牛的插混时代。", "highlights": ["V12混动", "旗舰"], "tags": ["超跑"] },
-        { "id": "lamborghini-urus", "name": "Urus", "nameEn": "Urus", "type": "超级SUV", "price": { "min": 3000000, "max": 5000000, "label": "厂商指导价" }, "desc": "超级SUV定义者,买菜与下赛道一肩挑。", "highlights": ["超级SUV", "销量担当"], "tags": ["SUV"] },
-        { "id": "lamborghini-countach", "name": "Countach LPI 800-4", "nameEn": "Countach LPI 800-4", "type": "限量超跑", "price": { "min": 7000000, "max": 12000000, "label": "厂商指导价" }, "desc": "致敬1974经典楔形,112台瞬间售罄。", "highlights": ["致敬楔形", "112台"], "tags": ["限量"] },
-        { "id": "lamborghini-sian", "name": "Sián", "nameEn": "Sián FKP 37", "type": "混动限量", "price": { "min": 30000000, "max": 40000000, "label": "厂商指导价" }, "desc": "超级电容混动+V12,63台的科技宣言。", "highlights": ["超级电容", "63台"], "tags": ["限量"] }
+        {
+          "id": "lamborghini-huracan",
+          "name": "Huracán",
+          "nameEn": "Huracán",
+          "type": "超跑",
+          "price": {
+            "min": 2600000,
+            "max": 5000000,
+            "label": "厂商指导价"
+          },
+          "desc": "V10自然吸气的末代欢歌,STO为赛道而生。",
+          "highlights": [
+            "V10自吸",
+            "STO赛道版"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "lamborghini-revuelto",
+          "name": "Revuelto",
+          "nameEn": "Revuelto",
+          "type": "混动超跑",
+          "price": {
+            "min": 6300000,
+            "max": 8000000,
+            "label": "厂商指导价"
+          },
+          "desc": "V12+三电机的旗舰接力,大牛的插混时代。",
+          "highlights": [
+            "V12混动",
+            "旗舰"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "lamborghini-urus",
+          "name": "Urus",
+          "nameEn": "Urus",
+          "type": "超级SUV",
+          "price": {
+            "min": 3000000,
+            "max": 5000000,
+            "label": "厂商指导价"
+          },
+          "desc": "超级SUV定义者,买菜与下赛道一肩挑。",
+          "highlights": [
+            "超级SUV",
+            "销量担当"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "lamborghini-countach",
+          "name": "Countach LPI 800-4",
+          "nameEn": "Countach LPI 800-4",
+          "type": "限量超跑",
+          "price": {
+            "min": 7000000,
+            "max": 12000000,
+            "label": "厂商指导价"
+          },
+          "desc": "致敬1974经典楔形,112台瞬间售罄。",
+          "highlights": [
+            "致敬楔形",
+            "112台"
+          ],
+          "tags": [
+            "限量"
+          ]
+        },
+        {
+          "id": "lamborghini-sian",
+          "name": "Sián",
+          "nameEn": "Sián FKP 37",
+          "type": "混动限量",
+          "price": {
+            "min": 30000000,
+            "max": 40000000,
+            "label": "厂商指导价"
+          },
+          "desc": "超级电容混动+V12,63台的科技宣言。",
+          "highlights": [
+            "超级电容",
+            "63台"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "ferrari", "name": "法拉利", "nameEn": "Ferrari", "domain": "ferrari.com",
-      "categoryId": "auto", "country": "意大利", "founded": 1947, "hq": "马拉内罗",
-      "tier": "顶奢", "tags": ["跃马", "F1", "红色"], "slogan": "We are the competition",
+      "id": "ferrari",
+      "name": "法拉利",
+      "nameEn": "Ferrari",
+      "domain": "ferrari.com",
+      "categoryId": "auto",
+      "country": "意大利",
+      "founded": 1947,
+      "hq": "马拉内罗",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "跃马",
+        "F1",
+        "红色"
+      ],
+      "slogan": "We are the competition",
       "desc": "恩佐·法拉利用赛车哲学统治街道:跃马、红色与V12,F1历史上最伟大的车队没有之一。",
       "story": "1947年125S驶出马拉内罗工厂大门,F1自1950年创办以来唯一全勤车队,16次车队冠军。恩佐的名言「空气动力学是给不会造引擎的人准备的」至今被争论。\nNYSE上市,年利润率超20%,卖的是信仰与稀缺。",
       "products": [
-        { "id": "ferrari-sf90", "name": "SF90 Stradale", "nameEn": "SF90 Stradale", "type": "混动超跑", "price": { "min": 4000000, "max": 6000000, "label": "厂商指导价" }, "desc": "V8+三电机1000匹,法拉利的插混旗舰。", "highlights": ["1000匹", "插混旗舰"], "tags": ["超跑"] },
-        { "id": "ferrari-296", "name": "296 GTB", "nameEn": "296 GTB", "type": "混动超跑", "price": { "min": 3000000, "max": 4000000, "label": "厂商指导价" }, "desc": "120度夹角V6混动,中置双座的新物种。", "highlights": ["V6混动", "新物种"], "tags": ["超跑"] },
-        { "id": "ferrari-roma", "name": "Roma", "nameEn": "Roma", "type": "GT轿跑", "price": { "min": 2400000, "max": 3000000, "label": "厂商指导价" }, "desc": "La Nuova Dolce Vita 的优雅双门,日常GT。", "highlights": ["甜蜜生活", "日常GT"], "tags": ["轿跑"] },
-        { "id": "ferrari-purosangue", "name": "Purosangue", "nameEn": "Purosangue", "type": "超级SUV", "price": { "min": 5000000, "max": 7000000, "label": "厂商指导价" }, "desc": "法拉利第一台四门四座,纯血之名拒绝叫SUV。", "highlights": ["首款四门", "纯血"], "tags": ["SUV"] },
-        { "id": "ferrari-monza", "name": "Monza SP 系列", "nameEn": "Monza SP1/SP2", "type": "限量超跑", "price": { "min": 15000000, "max": 25000000, "label": "厂商指导价" }, "desc": "无风挡 barchetta 复古,Icona 系列开山。", "highlights": ["无风挡", "Icona开山"], "tags": ["限量"] }
+        {
+          "id": "ferrari-sf90",
+          "name": "SF90 Stradale",
+          "nameEn": "SF90 Stradale",
+          "type": "混动超跑",
+          "price": {
+            "min": 4000000,
+            "max": 6000000,
+            "label": "厂商指导价"
+          },
+          "desc": "V8+三电机1000匹,法拉利的插混旗舰。",
+          "highlights": [
+            "1000匹",
+            "插混旗舰"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "ferrari-296",
+          "name": "296 GTB",
+          "nameEn": "296 GTB",
+          "type": "混动超跑",
+          "price": {
+            "min": 3000000,
+            "max": 4000000,
+            "label": "厂商指导价"
+          },
+          "desc": "120度夹角V6混动,中置双座的新物种。",
+          "highlights": [
+            "V6混动",
+            "新物种"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "ferrari-roma",
+          "name": "Roma",
+          "nameEn": "Roma",
+          "type": "GT轿跑",
+          "price": {
+            "min": 2400000,
+            "max": 3000000,
+            "label": "厂商指导价"
+          },
+          "desc": "La Nuova Dolce Vita 的优雅双门,日常GT。",
+          "highlights": [
+            "甜蜜生活",
+            "日常GT"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "ferrari-purosangue",
+          "name": "Purosangue",
+          "nameEn": "Purosangue",
+          "type": "超级SUV",
+          "price": {
+            "min": 5000000,
+            "max": 7000000,
+            "label": "厂商指导价"
+          },
+          "desc": "法拉利第一台四门四座,纯血之名拒绝叫SUV。",
+          "highlights": [
+            "首款四门",
+            "纯血"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "ferrari-monza",
+          "name": "Monza SP 系列",
+          "nameEn": "Monza SP1/SP2",
+          "type": "限量超跑",
+          "price": {
+            "min": 15000000,
+            "max": 25000000,
+            "label": "厂商指导价"
+          },
+          "desc": "无风挡 barchetta 复古,Icona 系列开山。",
+          "highlights": [
+            "无风挡",
+            "Icona开山"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "maserati", "name": "玛莎拉蒂", "nameEn": "Maserati", "domain": "maserati.com",
-      "categoryId": "auto", "country": "意大利", "founded": 1914, "hq": "摩德纳",
-      "tier": "高奢", "tags": ["三叉戟", "海王", "声浪"], "slogan": "The absolute opposite of ordinary",
+      "id": "maserati",
+      "name": "玛莎拉蒂",
+      "nameEn": "Maserati",
+      "domain": "maserati.com",
+      "categoryId": "auto",
+      "country": "意大利",
+      "founded": 1914,
+      "hq": "摩德纳",
+      "tier": "高奢",
+      "sub": "豪华",
+      "tags": [
+        "三叉戟",
+        "海王",
+        "声浪"
+      ],
+      "slogan": "The absolute opposite of ordinary",
       "desc": "波塞冬三叉戟旗下的意式声浪:百年赛道血统,「听得见的意大利」。",
       "story": "1914年玛莎拉蒂兄弟在博洛尼亚创立(三叉戟取自海神喷泉),曾拥有F1史上最传奇的250F。1957年退出赛车专注公路车,GT四座跑车是它的招牌。\n如今属Stellantis集团,MC20标志着中置引擎的回归。",
       "products": [
-        { "id": "maserati-mc20", "name": "MC20", "nameEn": "MC20", "type": "超跑", "price": { "min": 2300000, "max": 3000000, "label": "厂商指导价" }, "desc": "Nettuno海王V6的回归之作,蝶翼门+碳纤维舱。", "highlights": ["海王V6", "蝶翼门"], "tags": ["超跑"] },
-        { "id": "maserati-ghibli", "name": "Ghibli", "nameEn": "Ghibli", "type": "运动轿车", "price": { "min": 700000, "max": 1200000, "label": "厂商指导价" }, "desc": "最便宜的玛莎,百万内唯一的海王声浪。", "highlights": ["百万内声浪", "运动"], "tags": ["轿车"] },
-        { "id": "maserati-levante", "name": "Levante", "nameEn": "Levante", "type": "豪华SUV", "price": { "min": 800000, "max": 1600000, "label": "厂商指导价" }, "desc": "以季风命名的SUV,意式操控的跨界。", "highlights": ["季风命名", "意式操控"], "tags": ["SUV"] },
-        { "id": "maserati-quattroporte", "name": "总裁", "nameEn": "Quattroporte", "type": "行政轿车", "price": { "min": 1400000, "max": 2000000, "label": "厂商指导价" }, "desc": "字面意义的「四门总裁」,意式行政旗舰。", "highlights": ["四门总裁", "行政"], "tags": ["轿车"] },
-        { "id": "maserati-grecale", "name": "Grecale", "nameEn": "Grecale", "type": "中型SUV", "price": { "min": 650000, "max": 1000000, "label": "厂商指导价" }, "desc": "以地中海风命名的年轻SUV,Folgore电动版并行。", "highlights": ["地中海风", "电动版"], "tags": ["SUV"] }
+        {
+          "id": "maserati-mc20",
+          "name": "MC20",
+          "nameEn": "MC20",
+          "type": "超跑",
+          "price": {
+            "min": 2300000,
+            "max": 3000000,
+            "label": "厂商指导价"
+          },
+          "desc": "Nettuno海王V6的回归之作,蝶翼门+碳纤维舱。",
+          "highlights": [
+            "海王V6",
+            "蝶翼门"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "maserati-ghibli",
+          "name": "Ghibli",
+          "nameEn": "Ghibli",
+          "type": "运动轿车",
+          "price": {
+            "min": 700000,
+            "max": 1200000,
+            "label": "厂商指导价"
+          },
+          "desc": "最便宜的玛莎,百万内唯一的海王声浪。",
+          "highlights": [
+            "百万内声浪",
+            "运动"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "maserati-levante",
+          "name": "Levante",
+          "nameEn": "Levante",
+          "type": "豪华SUV",
+          "price": {
+            "min": 800000,
+            "max": 1600000,
+            "label": "厂商指导价"
+          },
+          "desc": "以季风命名的SUV,意式操控的跨界。",
+          "highlights": [
+            "季风命名",
+            "意式操控"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "maserati-quattroporte",
+          "name": "总裁",
+          "nameEn": "Quattroporte",
+          "type": "行政轿车",
+          "price": {
+            "min": 1400000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "字面意义的「四门总裁」,意式行政旗舰。",
+          "highlights": [
+            "四门总裁",
+            "行政"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "maserati-grecale",
+          "name": "Grecale",
+          "nameEn": "Grecale",
+          "type": "中型SUV",
+          "price": {
+            "min": 650000,
+            "max": 1000000,
+            "label": "厂商指导价"
+          },
+          "desc": "以地中海风命名的年轻SUV,Folgore电动版并行。",
+          "highlights": [
+            "地中海风",
+            "电动版"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        }
       ]
     },
     {
-      "id": "bugatti", "name": "布加迪", "nameEn": "Bugatti", "domain": "bugatti.com",
-      "categoryId": "auto", "country": "法国", "founded": 1909, "hq": "莫尔斯海姆",
-      "tier": "顶奢", "tags": ["威龙", "W16", "速度纪录"], "slogan": "If comparably, it's no longer Bugatti",
+      "id": "bugatti",
+      "name": "布加迪",
+      "nameEn": "Bugatti",
+      "domain": "bugatti.com",
+      "categoryId": "auto",
+      "country": "法国",
+      "founded": 1909,
+      "hq": "莫尔斯海姆",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "威龙",
+        "W16",
+        "速度纪录"
+      ],
+      "slogan": "If comparably, it's no longer Bugatti",
       "desc": "W16四涡轮的机械狂想:从EB110到威龙再到Chiron,量产车极速纪录的永续持有者。",
       "story": "1909年Ettore Bugatti在阿尔萨斯创业,Type 35 拿下千余场胜利。1998年大众接手后造出1001匹的Veyron(威龙),Chiron以420km/h刷新量产极速纪录。\n如今与Rimac合资,电动化即将终结W16时代。",
       "products": [
-        { "id": "bugatti-chiron", "name": "Chiron", "nameEn": "Chiron", "type": "混动超跑", "price": { "min": 20000000, "max": 40000000, "label": "厂商指导价" }, "desc": "1500匹W16,420km/h极速纪录持有者。", "highlights": ["1500匹W16", "极速纪录"], "tags": ["超跑"] },
-        { "id": "bugatti-veyron", "name": "威龙 Veyron", "nameEn": "Veyron 16.4", "type": "超跑", "price": { "min": 25000000, "max": 50000000, "label": "市场参考价" }, "desc": "2005年的1001匹工程奇迹,每卖一台亏一台的信仰。", "highlights": ["1001匹", "工程奇迹"], "tags": ["超跑"] },
-        { "id": "bugatti-divo", "name": "Divo", "nameEn": "Divo", "type": "限量超跑", "price": { "min": 50000000, "max": 60000000, "label": "厂商指导价" }, "desc": "弯道王的40台限定,为操控放弃极速。", "highlights": ["弯道王", "40台"], "tags": ["限量"] },
-        { "id": "bugatti-lavoiture", "name": "La Voiture Noire", "nameEn": "La Voiture Noire", "type": "限量超跑", "price": { "min": 100000000, "max": 120000000, "label": "成交参考价" }, "desc": "「黑色之车」单车1.1亿成交,史上最贵新车。", "highlights": ["单车1.1亿", "史上最贵"], "tags": ["限量"] },
-        { "id": "bugatti-centodieci", "name": "Centodieci", "nameEn": "Centodieci", "type": "限量超跑", "price": { "min": 60000000, "max": 80000000, "label": "厂商指导价" }, "desc": "致敬EB110的十台限量,意大利语「110」。", "highlights": ["致敬EB110", "十台"], "tags": ["限量"] }
+        {
+          "id": "bugatti-chiron",
+          "name": "Chiron",
+          "nameEn": "Chiron",
+          "type": "混动超跑",
+          "price": {
+            "min": 20000000,
+            "max": 40000000,
+            "label": "厂商指导价"
+          },
+          "desc": "1500匹W16,420km/h极速纪录持有者。",
+          "highlights": [
+            "1500匹W16",
+            "极速纪录"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "bugatti-veyron",
+          "name": "威龙 Veyron",
+          "nameEn": "Veyron 16.4",
+          "type": "超跑",
+          "price": {
+            "min": 25000000,
+            "max": 50000000,
+            "label": "市场参考价"
+          },
+          "desc": "2005年的1001匹工程奇迹,每卖一台亏一台的信仰。",
+          "highlights": [
+            "1001匹",
+            "工程奇迹"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "bugatti-divo",
+          "name": "Divo",
+          "nameEn": "Divo",
+          "type": "限量超跑",
+          "price": {
+            "min": 50000000,
+            "max": 60000000,
+            "label": "厂商指导价"
+          },
+          "desc": "弯道王的40台限定,为操控放弃极速。",
+          "highlights": [
+            "弯道王",
+            "40台"
+          ],
+          "tags": [
+            "限量"
+          ]
+        },
+        {
+          "id": "bugatti-lavoiture",
+          "name": "La Voiture Noire",
+          "nameEn": "La Voiture Noire",
+          "type": "限量超跑",
+          "price": {
+            "min": 100000000,
+            "max": 120000000,
+            "label": "成交参考价"
+          },
+          "desc": "「黑色之车」单车1.1亿成交,史上最贵新车。",
+          "highlights": [
+            "单车1.1亿",
+            "史上最贵"
+          ],
+          "tags": [
+            "限量"
+          ]
+        },
+        {
+          "id": "bugatti-centodieci",
+          "name": "Centodieci",
+          "nameEn": "Centodieci",
+          "type": "限量超跑",
+          "price": {
+            "min": 60000000,
+            "max": 80000000,
+            "label": "厂商指导价"
+          },
+          "desc": "致敬EB110的十台限量,意大利语「110」。",
+          "highlights": [
+            "致敬EB110",
+            "十台"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "astonmartin", "name": "阿斯顿·马丁", "nameEn": "Aston Martin", "domain": "astonmartin.com",
-      "categoryId": "auto", "country": "英国", "founded": 1913, "hq": "盖顿",
-      "tier": "顶奢", "tags": ["007", "英伦优雅", "V12"], "slogan": "Power, Beauty, Soul",
+      "id": "astonmartin",
+      "name": "阿斯顿·马丁",
+      "nameEn": "Aston Martin",
+      "domain": "astonmartin.com",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1913,
+      "hq": "盖顿",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "007",
+        "英伦优雅",
+        "V12"
+      ],
+      "slogan": "Power, Beauty, Soul",
       "desc": "詹姆斯·邦德的默认座驾:美、力、魂三位一体的英伦GT,百年七次破产却风度不减。",
       "story": "1913年Lionel Martin与Robert Bamford 创立,名字来自 Aston Clinton 爬山赛的胜利。DB5因《金手指》成为影史名车,此后每一代007都换不开它。\n如今劳伦斯·斯特罗尔入主,F1车队与超跑双线并进。",
       "products": [
-        { "id": "astonmartin-db12", "name": "DB12", "nameEn": "DB12", "type": "GT轿跑", "price": { "min": 2500000, "max": 3500000, "label": "厂商指导价" }, "desc": "「超级旅行车」DB系列的现代化之作。", "highlights": ["超级旅行车", "DB系列"], "tags": ["轿跑"] },
-        { "id": "astonmartin-vantage", "name": "Vantage", "nameEn": "Vantage", "type": "跑车", "price": { "min": 1800000, "max": 2500000, "label": "厂商指导价" }, "desc": "入门双门猛兽,V8的咆哮与优雅并存。", "highlights": ["入门猛兽", "V8咆哮"], "tags": ["跑车"] },
-        { "id": "astonmartin-dbs", "name": "DBS", "nameEn": "DBS", "type": "旗舰GT", "price": { "min": 3700000, "max": 5000000, "label": "厂商指导价" }, "desc": "V12旗舰GT,DB系列的王冠。", "highlights": ["V12旗舰", "王冠"], "tags": ["轿跑"] },
-        { "id": "astonmartin-dbx", "name": "DBX", "nameEn": "DBX", "type": "豪华SUV", "price": { "min": 1900000, "max": 3000000, "label": "厂商指导价" }, "desc": "品牌首款SUV,救营收的英伦大块头。", "highlights": ["首款SUV", "救营收"], "tags": ["SUV"] },
-        { "id": "astonmartin-valkyrie", "name": "Valkyrie", "nameEn": "Valkyrie", "type": "混动超跑", "price": { "min": 25000000, "max": 35000000, "label": "厂商指导价" }, "desc": "与红牛F1联手的自吸V12女武神,赛道技术街道化。", "highlights": ["红牛F1联手", "自吸V12"], "tags": ["限量"] }
+        {
+          "id": "astonmartin-db12",
+          "name": "DB12",
+          "nameEn": "DB12",
+          "type": "GT轿跑",
+          "price": {
+            "min": 2500000,
+            "max": 3500000,
+            "label": "厂商指导价"
+          },
+          "desc": "「超级旅行车」DB系列的现代化之作。",
+          "highlights": [
+            "超级旅行车",
+            "DB系列"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "astonmartin-vantage",
+          "name": "Vantage",
+          "nameEn": "Vantage",
+          "type": "跑车",
+          "price": {
+            "min": 1800000,
+            "max": 2500000,
+            "label": "厂商指导价"
+          },
+          "desc": "入门双门猛兽,V8的咆哮与优雅并存。",
+          "highlights": [
+            "入门猛兽",
+            "V8咆哮"
+          ],
+          "tags": [
+            "跑车"
+          ]
+        },
+        {
+          "id": "astonmartin-dbs",
+          "name": "DBS",
+          "nameEn": "DBS",
+          "type": "旗舰GT",
+          "price": {
+            "min": 3700000,
+            "max": 5000000,
+            "label": "厂商指导价"
+          },
+          "desc": "V12旗舰GT,DB系列的王冠。",
+          "highlights": [
+            "V12旗舰",
+            "王冠"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "astonmartin-dbx",
+          "name": "DBX",
+          "nameEn": "DBX",
+          "type": "豪华SUV",
+          "price": {
+            "min": 1900000,
+            "max": 3000000,
+            "label": "厂商指导价"
+          },
+          "desc": "品牌首款SUV,救营收的英伦大块头。",
+          "highlights": [
+            "首款SUV",
+            "救营收"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "astonmartin-valkyrie",
+          "name": "Valkyrie",
+          "nameEn": "Valkyrie",
+          "type": "混动超跑",
+          "price": {
+            "min": 25000000,
+            "max": 35000000,
+            "label": "厂商指导价"
+          },
+          "desc": "与红牛F1联手的自吸V12女武神,赛道技术街道化。",
+          "highlights": [
+            "红牛F1联手",
+            "自吸V12"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "mclaren", "name": "迈凯伦", "nameEn": "McLaren", "domain": "cars.mclaren.com",
-      "categoryId": "auto", "country": "英国", "founded": 1963, "hq": "沃金",
-      "tier": "顶奢", "tags": ["碳纤维", "F1车队", "蝴蝶门"], "slogan": "Fearlessly Forward",
+      "id": "mclaren",
+      "name": "迈凯伦",
+      "nameEn": "McLaren",
+      "domain": "cars.mclaren.com",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1963,
+      "hq": "沃金",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "碳纤维",
+        "F1车队",
+        "蝴蝶门"
+      ],
+      "slogan": "Fearlessly Forward",
       "desc": "从F1冠军车队衍生的公路车厂:碳纤维单体舱与蝴蝶门,把赛车工程直接搬上街道。",
       "story": "1963年新西兰车手Bruce McLaren创立车队,F1八冠王。1992年McLaren F1公路车以碳纤维+中央座椅封神,2011年MP4-12C开启量产时代。\n720S、Artura与750S组成「蜘蛛网」产品线,轻量化近乎偏执。",
       "products": [
-        { "id": "mclaren-750s", "name": "750S", "nameEn": "750S", "type": "超跑", "price": { "min": 3000000, "max": 4500000, "label": "厂商指导价" }, "desc": "720S进化版,碳纤维舱+液压悬挂的性能怪兽。", "highlights": ["碳纤维舱", "性能怪兽"], "tags": ["超跑"] },
-        { "id": "mclaren-artura", "name": "Artura", "nameEn": "Artura", "type": "混动超跑", "price": { "min": 2500000, "max": 3500000, "label": "厂商指导价" }, "desc": "V6双涡轮+电机的品牌混动开山。", "highlights": ["V6混动", "开山之作"], "tags": ["超跑"] },
-        { "id": "mclaren-gt", "name": "McLaren GT", "nameEn": "GT", "type": "GT轿跑", "price": { "min": 2500000, "max": 3500000, "label": "厂商指导价" }, "desc": "能装行李箱的超跑GT,长途巡航版迈凯伦。", "highlights": ["能装行李", "长途巡航"], "tags": ["轿跑"] },
-        { "id": "mclaren-f1", "name": "McLaren F1(经典)", "nameEn": "McLaren F1", "type": "神级超跑", "price": { "min": 150000000, "max": 250000000, "label": "拍卖参考价" }, "desc": "1992-98年仅106台,中央座椅+金箔引擎舱,拍卖行之王。", "highlights": ["106台", "拍卖之王"], "tags": ["经典"] },
-        { "id": "mclaren-senna", "name": "Senna", "nameEn": "Senna", "type": "限量超跑", "price": { "min": 10000000, "max": 15000000, "label": "厂商指导价" }, "desc": "Ultimate 系列塞纳纪念款,为弯道而生的空气怪物。", "highlights": ["塞纳纪念", "空气怪物"], "tags": ["限量"] }
+        {
+          "id": "mclaren-750s",
+          "name": "750S",
+          "nameEn": "750S",
+          "type": "超跑",
+          "price": {
+            "min": 3000000,
+            "max": 4500000,
+            "label": "厂商指导价"
+          },
+          "desc": "720S进化版,碳纤维舱+液压悬挂的性能怪兽。",
+          "highlights": [
+            "碳纤维舱",
+            "性能怪兽"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "mclaren-artura",
+          "name": "Artura",
+          "nameEn": "Artura",
+          "type": "混动超跑",
+          "price": {
+            "min": 2500000,
+            "max": 3500000,
+            "label": "厂商指导价"
+          },
+          "desc": "V6双涡轮+电机的品牌混动开山。",
+          "highlights": [
+            "V6混动",
+            "开山之作"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "mclaren-gt",
+          "name": "McLaren GT",
+          "nameEn": "GT",
+          "type": "GT轿跑",
+          "price": {
+            "min": 2500000,
+            "max": 3500000,
+            "label": "厂商指导价"
+          },
+          "desc": "能装行李箱的超跑GT,长途巡航版迈凯伦。",
+          "highlights": [
+            "能装行李",
+            "长途巡航"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "mclaren-f1",
+          "name": "McLaren F1(经典)",
+          "nameEn": "McLaren F1",
+          "type": "神级超跑",
+          "price": {
+            "min": 150000000,
+            "max": 250000000,
+            "label": "拍卖参考价"
+          },
+          "desc": "1992-98年仅106台,中央座椅+金箔引擎舱,拍卖行之王。",
+          "highlights": [
+            "106台",
+            "拍卖之王"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "mclaren-senna",
+          "name": "Senna",
+          "nameEn": "Senna",
+          "type": "限量超跑",
+          "price": {
+            "min": 10000000,
+            "max": 15000000,
+            "label": "厂商指导价"
+          },
+          "desc": "Ultimate 系列塞纳纪念款,为弯道而生的空气怪物。",
+          "highlights": [
+            "塞纳纪念",
+            "空气怪物"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "koenigsegg", "name": "科尼塞克", "nameEn": "Koenigsegg", "domain": "koenigsegg.com",
-      "categoryId": "auto", "country": "瑞典", "founded": 1994, "hq": "恩厄尔霍尔姆",
-      "tier": "顶奢", "tags": ["幽灵", "极速狂魔", "自由阀"], "slogan": "If it's possible, it's possible",
+      "id": "koenigsegg",
+      "name": "科尼塞克",
+      "nameEn": "Koenigsegg",
+      "domain": "koenigsegg.com",
+      "categoryId": "auto",
+      "country": "瑞典",
+      "founded": 1994,
+      "hq": "恩厄尔霍尔姆",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "幽灵",
+        "极速狂魔",
+        "自由阀"
+      ],
+      "slogan": "If it's possible, it's possible",
       "desc": "22岁瑞典青年Christian von Koenigsegg的造车梦:幽灵徽章+自由阀引擎,极速纪录的常年刷新者。",
       "story": "1994年Christian以一部纪录片起誓造车,2002年CC8S问世。Agera RS以447km/h刷新量产极速,Jesko宣称480km/h+。Freevalve 自由阀技术、无凸轮轴引擎是工程奇观。\n年产量几十台,每一台都是排期数年的期货。",
       "products": [
-        { "id": "koenigsegg-jesko", "name": "Jesko", "nameEn": "Jesko", "type": "超跑", "price": { "min": 20000000, "max": 40000000, "label": "厂商指导价" }, "desc": "1600匹+LST 9速多离合变速箱,极速理论480km/h+。", "highlights": ["1600匹", "9速多离合"], "tags": ["超跑"] },
-        { "id": "koenigsegg-regera", "name": "Regera", "nameEn": "Regera", "type": "混动超跑", "price": { "min": 15000000, "max": 30000000, "label": "厂商指导价" }, "desc": "无变速箱Direct Drive,1500匹混动幽灵。", "highlights": ["无变速箱", "1500匹混动"], "tags": ["超跑"] },
-        { "id": "koenigsegg-gemera", "name": "Gemera", "nameEn": "Gemera", "type": "四座超跑", "price": { "min": 10000000, "max": 20000000, "label": "厂商指导价" }, "desc": "四座Mega-GT,一家四口一起飞的幻想。", "highlights": ["四座", "Mega-GT"], "tags": ["超跑"] },
-        { "id": "koenigsegg-agera", "name": "Agera RS", "nameEn": "Agera RS", "type": "限量超跑", "price": { "min": 15000000, "max": 40000000, "label": "市场参考价" }, "desc": "447km/h量产极速纪录缔造者(2017)。", "highlights": ["447km/h纪录", "量产极速"], "tags": ["限量"] },
-        { "id": "koenigsegg-cc", "name": "CC8S / CCR(经典)", "nameEn": "CC8S", "type": "经典超跑", "price": { "min": 8000000, "max": 20000000, "label": "市场参考价" }, "desc": "梦开始的地方,CCR曾打破迈凯伦F1极速纪录。", "highlights": ["梦开始", "破F1纪录"], "tags": ["经典"] }
+        {
+          "id": "koenigsegg-jesko",
+          "name": "Jesko",
+          "nameEn": "Jesko",
+          "type": "超跑",
+          "price": {
+            "min": 20000000,
+            "max": 40000000,
+            "label": "厂商指导价"
+          },
+          "desc": "1600匹+LST 9速多离合变速箱,极速理论480km/h+。",
+          "highlights": [
+            "1600匹",
+            "9速多离合"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "koenigsegg-regera",
+          "name": "Regera",
+          "nameEn": "Regera",
+          "type": "混动超跑",
+          "price": {
+            "min": 15000000,
+            "max": 30000000,
+            "label": "厂商指导价"
+          },
+          "desc": "无变速箱Direct Drive,1500匹混动幽灵。",
+          "highlights": [
+            "无变速箱",
+            "1500匹混动"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "koenigsegg-gemera",
+          "name": "Gemera",
+          "nameEn": "Gemera",
+          "type": "四座超跑",
+          "price": {
+            "min": 10000000,
+            "max": 20000000,
+            "label": "厂商指导价"
+          },
+          "desc": "四座Mega-GT,一家四口一起飞的幻想。",
+          "highlights": [
+            "四座",
+            "Mega-GT"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "koenigsegg-agera",
+          "name": "Agera RS",
+          "nameEn": "Agera RS",
+          "type": "限量超跑",
+          "price": {
+            "min": 15000000,
+            "max": 40000000,
+            "label": "市场参考价"
+          },
+          "desc": "447km/h量产极速纪录缔造者(2017)。",
+          "highlights": [
+            "447km/h纪录",
+            "量产极速"
+          ],
+          "tags": [
+            "限量"
+          ]
+        },
+        {
+          "id": "koenigsegg-cc",
+          "name": "CC8S / CCR(经典)",
+          "nameEn": "CC8S",
+          "type": "经典超跑",
+          "price": {
+            "min": 8000000,
+            "max": 20000000,
+            "label": "市场参考价"
+          },
+          "desc": "梦开始的地方,CCR曾打破迈凯伦F1极速纪录。",
+          "highlights": [
+            "梦开始",
+            "破F1纪录"
+          ],
+          "tags": [
+            "经典"
+          ]
+        }
       ]
     },
     {
-      "id": "pagani", "name": "帕加尼", "nameEn": "Pagani", "domain": "pagani.com",
-      "categoryId": "auto", "country": "意大利", "founded": 1992, "hq": "莫德纳圣切萨里奥",
-      "tier": "顶奢", "tags": ["风之子", "Amartist", "碳钛"], "slogan": "Art and Science",
+      "id": "pagani",
+      "name": "帕加尼",
+      "nameEn": "Pagani",
+      "domain": "pagani.com",
+      "categoryId": "auto",
+      "country": "意大利",
+      "founded": 1992,
+      "hq": "莫德纳圣切萨里奥",
+      "tier": "顶奢",
+      "sub": "超跑",
+      "tags": [
+        "风之子",
+        "Amartist",
+        "碳钛"
+      ],
+      "slogan": "Art and Science",
       "desc": "阿根廷人Horacio Pagani的艺术品工厂:碳钛复合材料+AMG心脏,每一台都是会跑的雕塑。",
       "story": "1992年曾在兰博基尼做碳纤维的Horacio自立门户,1999年Zonda(风之子)问世,把碳纤维做成了珠宝级工艺。Huayra以 Ama-Zonda 之名接棒,双叉臂+钛合金排气近乎艺术品。\n创始人亲自接见每一位车主,年产量仅几十台。",
       "products": [
-        { "id": "pagani-utopia", "name": "Utopia", "nameEn": "Utopia", "type": "超跑", "price": { "min": 20000000, "max": 30000000, "label": "厂商指导价" }, "desc": "接替Huayra的乌托邦,V12手动挡可选的复古宣言。", "highlights": ["V12手动可选", "复古宣言"], "tags": ["超跑"] },
-        { "id": "pagani-huayra", "name": "Huayra", "nameEn": "Huayra", "type": "超跑", "price": { "min": 25000000, "max": 40000000, "label": "厂商指导价" }, "desc": "四片独立空气刹车翼片,「风神」的主动空力。", "highlights": ["四片翼片", "主动空力"], "tags": ["超跑"] },
-        { "id": "pagani-zonda", "name": "Zonda(风之子)", "nameEn": "Zonda", "type": "经典超跑", "price": { "min": 15000000, "max": 60000000, "label": "市场参考价" }, "desc": "1999-2019不断推陈出新的传奇,「终结版」出了无数次。", "highlights": ["20年传奇", "永远在终结"], "tags": ["经典"] },
-        { "id": "pagani-huayrabc", "name": "Huayra BC", "nameEn": "Huayra BC", "type": "限量超跑", "price": { "min": 35000000, "max": 50000000, "label": "厂商指导价" }, "desc": "Benny Caiola 致敬版,更轻更野的Huayra。", "highlights": ["BC致敬", "更轻更野"], "tags": ["限量"] },
-        { "id": "pagani-codalunga", "name": "Huayra Codalunga", "nameEn": "Codalunga", "type": "限量超跑", "price": { "min": 50000000, "max": 70000000, "label": "厂商指导价" }, "desc": "长尾赛车美学的5台限量,1960年代勒芒致敬。", "highlights": ["长尾美学", "5台"], "tags": ["限量"] }
+        {
+          "id": "pagani-utopia",
+          "name": "Utopia",
+          "nameEn": "Utopia",
+          "type": "超跑",
+          "price": {
+            "min": 20000000,
+            "max": 30000000,
+            "label": "厂商指导价"
+          },
+          "desc": "接替Huayra的乌托邦,V12手动挡可选的复古宣言。",
+          "highlights": [
+            "V12手动可选",
+            "复古宣言"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "pagani-huayra",
+          "name": "Huayra",
+          "nameEn": "Huayra",
+          "type": "超跑",
+          "price": {
+            "min": 25000000,
+            "max": 40000000,
+            "label": "厂商指导价"
+          },
+          "desc": "四片独立空气刹车翼片,「风神」的主动空力。",
+          "highlights": [
+            "四片翼片",
+            "主动空力"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "pagani-zonda",
+          "name": "Zonda(风之子)",
+          "nameEn": "Zonda",
+          "type": "经典超跑",
+          "price": {
+            "min": 15000000,
+            "max": 60000000,
+            "label": "市场参考价"
+          },
+          "desc": "1999-2019不断推陈出新的传奇,「终结版」出了无数次。",
+          "highlights": [
+            "20年传奇",
+            "永远在终结"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "pagani-huayrabc",
+          "name": "Huayra BC",
+          "nameEn": "Huayra BC",
+          "type": "限量超跑",
+          "price": {
+            "min": 35000000,
+            "max": 50000000,
+            "label": "厂商指导价"
+          },
+          "desc": "Benny Caiola 致敬版,更轻更野的Huayra。",
+          "highlights": [
+            "BC致敬",
+            "更轻更野"
+          ],
+          "tags": [
+            "限量"
+          ]
+        },
+        {
+          "id": "pagani-codalunga",
+          "name": "Huayra Codalunga",
+          "nameEn": "Codalunga",
+          "type": "限量超跑",
+          "price": {
+            "min": 50000000,
+            "max": 70000000,
+            "label": "厂商指导价"
+          },
+          "desc": "长尾赛车美学的5台限量,1960年代勒芒致敬。",
+          "highlights": [
+            "长尾美学",
+            "5台"
+          ],
+          "tags": [
+            "限量"
+          ]
+        }
       ]
     },
     {
-      "id": "landrover", "name": "路虎", "nameEn": "Land Rover", "domain": "landrover.com.cn",
-      "categoryId": "auto", "country": "英国", "founded": 1948, "hq": "英国盖顿",
-      "tier": "豪华", "tags": ["全地形", "卫士", "揽胜"], "slogan": "Above and Beyond(心至无疆)",
+      "id": "landrover",
+      "name": "路虎",
+      "nameEn": "Land Rover",
+      "domain": "landrover.com.cn",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1948,
+      "hq": "英国盖顿",
+      "tier": "豪华",
+      "sub": "越野",
+      "tags": [
+        "全地形",
+        "卫士",
+        "揽胜"
+      ],
+      "slogan": "Above and Beyond(心至无疆)",
       "desc": "1948年阿姆斯特丹车展亮相的农用四驱,如今是「全地形豪华」的代名词:揽胜与卫士双旗舰。",
       "story": "1948年Maurice Wilks 在威尔士红沙滩画下第一辆路虎的草图,铝制车身源自战后铝材过剩。卫士70年硬派不改,揽胜1970年开创豪华SUV品类。\n如今属印度塔塔集团,与捷豹同属 JLR。",
       "products": [
-        { "id": "landrover-rangeRover", "name": "揽胜", "nameEn": "Range Rover", "type": "豪华SUV", "price": { "min": 1400000, "max": 3500000, "label": "厂商指导价" }, "desc": "1970年开创豪华SUV品类,英国王室的野外办公室。", "highlights": ["品类开创", "王室座驾"], "tags": ["SUV"] },
-        { "id": "landrover-defender", "name": "卫士", "nameEn": "Defender", "type": "硬派越野", "price": { "min": 700000, "max": 1600000, "label": "厂商指导价" }, "desc": "2020年复活的新卫士,硬派与豪华的和解。", "highlights": ["2020复活", "硬派豪华"], "tags": ["越野"] },
-        { "id": "landrover-sport", "name": "揽胜运动版", "nameEn": "Range Rover Sport", "type": "运动SUV", "price": { "min": 900000, "max": 2200000, "label": "厂商指导价" }, "desc": "曾爬上天门山999级台阶的运动揽胜。", "highlights": ["天门山纪录", "运动揽胜"], "tags": ["SUV"] },
-        { "id": "landrover-discovery", "name": "发现", "nameEn": "Discovery", "type": "SUV", "price": { "min": 600000, "max": 900000, "label": "厂商指导价" }, "desc": "发现5的非对称车顶争议不断,能力依旧。", "highlights": ["非对称设计", "全地形"], "tags": ["SUV"] },
-        { "id": "landrover-evoque", "name": "揽胜极光", "nameEn": "Evoque", "type": "紧凑SUV", "price": { "min": 300000, "max": 450000, "label": "厂商指导价" }, "desc": "2010年惊艳世界的 Coupe SUV 鼻祖。", "highlights": ["Coupe SUV鼻祖", "惊艳设计"], "tags": ["SUV"] }
+        {
+          "id": "landrover-rangeRover",
+          "name": "揽胜",
+          "nameEn": "Range Rover",
+          "type": "豪华SUV",
+          "price": {
+            "min": 1400000,
+            "max": 3500000,
+            "label": "厂商指导价"
+          },
+          "desc": "1970年开创豪华SUV品类,英国王室的野外办公室。",
+          "highlights": [
+            "品类开创",
+            "王室座驾"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "landrover-defender",
+          "name": "卫士",
+          "nameEn": "Defender",
+          "type": "硬派越野",
+          "price": {
+            "min": 700000,
+            "max": 1600000,
+            "label": "厂商指导价"
+          },
+          "desc": "2020年复活的新卫士,硬派与豪华的和解。",
+          "highlights": [
+            "2020复活",
+            "硬派豪华"
+          ],
+          "tags": [
+            "越野"
+          ]
+        },
+        {
+          "id": "landrover-sport",
+          "name": "揽胜运动版",
+          "nameEn": "Range Rover Sport",
+          "type": "运动SUV",
+          "price": {
+            "min": 900000,
+            "max": 2200000,
+            "label": "厂商指导价"
+          },
+          "desc": "曾爬上天门山999级台阶的运动揽胜。",
+          "highlights": [
+            "天门山纪录",
+            "运动揽胜"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "landrover-discovery",
+          "name": "发现",
+          "nameEn": "Discovery",
+          "type": "SUV",
+          "price": {
+            "min": 600000,
+            "max": 900000,
+            "label": "厂商指导价"
+          },
+          "desc": "发现5的非对称车顶争议不断,能力依旧。",
+          "highlights": [
+            "非对称设计",
+            "全地形"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "landrover-evoque",
+          "name": "揽胜极光",
+          "nameEn": "Evoque",
+          "type": "紧凑SUV",
+          "price": {
+            "min": 300000,
+            "max": 450000,
+            "label": "厂商指导价"
+          },
+          "desc": "2010年惊艳世界的 Coupe SUV 鼻祖。",
+          "highlights": [
+            "Coupe SUV鼻祖",
+            "惊艳设计"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        }
       ]
     },
     {
-      "id": "jaguar", "name": "捷豹", "nameEn": "Jaguar", "domain": "jaguar.com.cn",
-      "categoryId": "auto", "country": "英国", "founded": 1935, "hq": "英国盖顿",
-      "tier": "豪华", "tags": ["跃豹", "E-Type", "英伦绅士"], "slogan": "Copy Nothing",
+      "id": "jaguar",
+      "name": "捷豹",
+      "nameEn": "Jaguar",
+      "domain": "jaguar.com.cn",
+      "categoryId": "auto",
+      "country": "英国",
+      "founded": 1935,
+      "hq": "英国盖顿",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "跃豹",
+        "E-Type",
+        "英伦绅士"
+      ],
+      "slogan": "Copy Nothing",
       "desc": "恩佐·法拉利承认最美的车是E-Type:捷豹的英伦优雅与赛道血统,Daimler 曾是它的代工客户。",
       "story": "1935年William Lyons 创立SS Jaguar,XK120在战后横扫赛场,1950年代五夺勒芒。1961年E-Type在日内瓦首发,被纽约MoMA永久收藏。\n如今与路虎同属JLR,正全面转型纯电豪华(Jaguar 重新出发)。",
       "products": [
-        { "id": "jaguar-etype", "name": "E-Type(经典)", "nameEn": "E-Type", "type": "经典跑车", "price": { "min": 1000000, "max": 10000000, "label": "市场参考价" }, "desc": "1961-1975的「世界最美汽车」,MoMA永久藏品。", "highlights": ["世界最美", "MoMA收藏"], "tags": ["经典"] },
-        { "id": "jaguar-f-type", "name": "F-Type", "nameEn": "F-Type", "type": "跑车", "price": { "min": 600000, "max": 1800000, "label": "厂商指导价" }, "desc": "E-Type精神续作,V8咆哮的最后一舞。", "highlights": ["E-Type续作", "V8咆哮"], "tags": ["跑车"] },
-        { "id": "jaguar-xj", "name": "XJ(经典)", "nameEn": "XJ", "type": "行政轿车", "price": { "min": 300000, "max": 2000000, "label": "历史参考价" }, "desc": "1968-2019的英伦行政旗舰,查尔斯王子的最爱。", "highlights": ["行政旗舰", "王子最爱"], "tags": ["经典"] },
-        { "id": "jaguar-ftype", "name": "I-PACE", "nameEn": "I-PACE", "type": "纯电SUV", "price": { "min": 600000, "max": 800000, "label": "厂商指导价" }, "desc": "2019年世界年度车,捷豹电动化的先声。", "highlights": ["2019世界年度车", "电动先声"], "tags": ["纯电"] },
-        { "id": "jaguar-xf", "name": "XF", "nameEn": "XF", "type": "行政轿车", "price": { "min": 400000, "max": 500000, "label": "厂商指导价" }, "desc": "英伦行政的中坚,卷出优雅的性价比。", "highlights": ["英伦行政", "性价比"], "tags": ["轿车"] }
+        {
+          "id": "jaguar-etype",
+          "name": "E-Type(经典)",
+          "nameEn": "E-Type",
+          "type": "经典跑车",
+          "price": {
+            "min": 1000000,
+            "max": 10000000,
+            "label": "市场参考价"
+          },
+          "desc": "1961-1975的「世界最美汽车」,MoMA永久藏品。",
+          "highlights": [
+            "世界最美",
+            "MoMA收藏"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "jaguar-f-type",
+          "name": "F-Type",
+          "nameEn": "F-Type",
+          "type": "跑车",
+          "price": {
+            "min": 600000,
+            "max": 1800000,
+            "label": "厂商指导价"
+          },
+          "desc": "E-Type精神续作,V8咆哮的最后一舞。",
+          "highlights": [
+            "E-Type续作",
+            "V8咆哮"
+          ],
+          "tags": [
+            "跑车"
+          ]
+        },
+        {
+          "id": "jaguar-xj",
+          "name": "XJ(经典)",
+          "nameEn": "XJ",
+          "type": "行政轿车",
+          "price": {
+            "min": 300000,
+            "max": 2000000,
+            "label": "历史参考价"
+          },
+          "desc": "1968-2019的英伦行政旗舰,查尔斯王子的最爱。",
+          "highlights": [
+            "行政旗舰",
+            "王子最爱"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "jaguar-ftype",
+          "name": "I-PACE",
+          "nameEn": "I-PACE",
+          "type": "纯电SUV",
+          "price": {
+            "min": 600000,
+            "max": 800000,
+            "label": "厂商指导价"
+          },
+          "desc": "2019年世界年度车,捷豹电动化的先声。",
+          "highlights": [
+            "2019世界年度车",
+            "电动先声"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "jaguar-xf",
+          "name": "XF",
+          "nameEn": "XF",
+          "type": "行政轿车",
+          "price": {
+            "min": 400000,
+            "max": 500000,
+            "label": "厂商指导价"
+          },
+          "desc": "英伦行政的中坚,卷出优雅的性价比。",
+          "highlights": [
+            "英伦行政",
+            "性价比"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        }
       ]
     },
     {
-      "id": "volvo", "name": "沃尔沃", "nameEn": "Volvo Cars", "domain": "volvo.com.cn",
-      "categoryId": "auto", "country": "瑞典", "founded": 1927, "hq": "哥德堡",
-      "tier": "豪华", "tags": ["安全", "三点式安全带", "北欧"], "slogan": "For life(以人为尊)",
+      "id": "volvo",
+      "name": "沃尔沃",
+      "nameEn": "Volvo Cars",
+      "domain": "volvo.com.cn",
+      "categoryId": "auto",
+      "country": "瑞典",
+      "founded": 1927,
+      "hq": "哥德堡",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "安全",
+        "三点式安全带",
+        "北欧"
+      ],
+      "slogan": "For life(以人为尊)",
       "desc": "1927年瑞典国宝:三点式安全带的发明者并免费开放专利,北欧极简+安全信仰的 luxury。",
       "story": "1927年 SKF 轴承厂旗下诞生,1959年工程师 Nils Bohlin 发明三点式安全带并开放专利,据说救了上百万条命。2010年吉利全资收购,SPA平台与C40电动化全面推进。\n「安全感」是它百年不变的奢侈品属性。",
       "products": [
-        { "id": "volvo-xc90", "name": "XC90", "nameEn": "XC90", "type": "豪华SUV", "price": { "min": 630000, "max": 900000, "label": "厂商指导价" }, "desc": "七座北欧旗舰,City Safety 城市安全的守门员。", "highlights": ["七座旗舰", "City Safety"], "tags": ["SUV"] },
-        { "id": "volvo-s90", "name": "S90", "nameEn": "S90", "type": "行政轿车", "price": { "min": 400000, "max": 500000, "label": "厂商指导价" }, "desc": "北欧行政的低调之选,宝华韦健音响是加分项。", "highlights": ["北欧行政", "宝华韦健"], "tags": ["轿车"] },
-        { "id": "volvo-xc60", "name": "XC60", "nameEn": "XC60", "type": "中型SUV", "price": { "min": 370000, "max": 470000, "label": "厂商指导价" }, "desc": "全球最畅销的沃尔沃,安全与实用的均衡。", "highlights": ["最畅销", "均衡"], "tags": ["SUV"] },
-        { "id": "volvo-ex90", "name": "EX90", "nameEn": "EX90", "type": "纯电SUV", "price": { "min": 600000, "max": 800000, "label": "厂商指导价" }, "desc": "电动旗舰,Luminar 激光雷达标配。", "highlights": ["激光雷达", "电动旗舰"], "tags": ["纯电"] },
-        { "id": "volvo-polestar", "name": "Polestar 极星", "nameEn": "Polestar", "type": "性能电动", "price": { "min": 250000, "max": 1000000, "label": "厂商指导价" }, "desc": "从御用改装部到独立电动品牌,北欧性能绿标。", "highlights": ["御用改装", "独立电动"], "tags": ["纯电"] }
+        {
+          "id": "volvo-xc90",
+          "name": "XC90",
+          "nameEn": "XC90",
+          "type": "豪华SUV",
+          "price": {
+            "min": 630000,
+            "max": 900000,
+            "label": "厂商指导价"
+          },
+          "desc": "七座北欧旗舰,City Safety 城市安全的守门员。",
+          "highlights": [
+            "七座旗舰",
+            "City Safety"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "volvo-s90",
+          "name": "S90",
+          "nameEn": "S90",
+          "type": "行政轿车",
+          "price": {
+            "min": 400000,
+            "max": 500000,
+            "label": "厂商指导价"
+          },
+          "desc": "北欧行政的低调之选,宝华韦健音响是加分项。",
+          "highlights": [
+            "北欧行政",
+            "宝华韦健"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "volvo-xc60",
+          "name": "XC60",
+          "nameEn": "XC60",
+          "type": "中型SUV",
+          "price": {
+            "min": 370000,
+            "max": 470000,
+            "label": "厂商指导价"
+          },
+          "desc": "全球最畅销的沃尔沃,安全与实用的均衡。",
+          "highlights": [
+            "最畅销",
+            "均衡"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "volvo-ex90",
+          "name": "EX90",
+          "nameEn": "EX90",
+          "type": "纯电SUV",
+          "price": {
+            "min": 600000,
+            "max": 800000,
+            "label": "厂商指导价"
+          },
+          "desc": "电动旗舰,Luminar 激光雷达标配。",
+          "highlights": [
+            "激光雷达",
+            "电动旗舰"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "volvo-polestar",
+          "name": "Polestar 极星",
+          "nameEn": "Polestar",
+          "type": "性能电动",
+          "price": {
+            "min": 250000,
+            "max": 1000000,
+            "label": "厂商指导价"
+          },
+          "desc": "从御用改装部到独立电动品牌,北欧性能绿标。",
+          "highlights": [
+            "御用改装",
+            "独立电动"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        }
       ]
     },
     {
-      "id": "cadillac", "name": "凯迪拉克", "nameEn": "Cadillac", "domain": "cadillac.com.cn",
-      "categoryId": "auto", "country": "美国", "founded": 1902, "hq": "底特律",
-      "tier": "豪华", "tags": ["美式豪华", "总统座驾", "钻石切割"], "slogan": "所有的伟大,源于一个勇敢的开始",
+      "id": "cadillac",
+      "name": "凯迪拉克",
+      "nameEn": "Cadillac",
+      "domain": "cadillac.com.cn",
+      "categoryId": "auto",
+      "country": "美国",
+      "founded": 1902,
+      "hq": "底特律",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "美式豪华",
+        "总统座驾",
+        "钻石切割"
+      ],
+      "slogan": "所有的伟大,源于一个勇敢的开始",
       "desc": "美国最早的豪华车厂:美国总统座驾供应商,钻石切割设计语言与「洗浴中心」的中文梗并存。",
       "story": "1902年 Henry Leland 创立,曾以精密互换性零件赢得英国皇家汽车俱乐部奖章(1908)。凯迪拉克是首个量产V8、首个配恒温空调的品牌。\n如今属通用集团,在中国以「浴皇大帝」梗+CT5/XT5走量。",
       "products": [
-        { "id": "cadillac-ct5", "name": "CT5", "nameEn": "CT5", "type": "运动轿车", "price": { "min": 270000, "max": 350000, "label": "厂商指导价" }, "desc": "后驱+2.0T的运动轿车,「没有中间商赚差价」的性价比。", "highlights": ["后驱", "性价比"], "tags": ["轿车"] },
-        { "id": "cadillac-ct6", "name": "CT6", "nameEn": "CT6", "type": "行政轿车", "price": { "min": 350000, "max": 500000, "label": "厂商指导价" }, "desc": "美式行政旗舰,美国总统座驾的民用亲戚。", "highlights": ["美式行政", "总统亲戚"], "tags": ["轿车"] },
-        { "id": "cadillac-xt5", "name": "XT5", "nameEn": "XT5", "type": "中型SUV", "price": { "min": 300000, "max": 400000, "label": "厂商指导价" }, "desc": "豪华中型SUV的美式答案,折扣力度闻名。", "highlights": ["美式豪华", "折扣闻名"], "tags": ["SUV"] },
-        { "id": "cadillac-lyriq", "name": "LYRIQ 锐歌", "nameEn": "LYRIQ", "type": "纯电SUV", "price": { "min": 400000, "max": 500000, "label": "厂商指导价" }, "desc": "奥特能平台纯电,33英寸环幕屏的开创。", "highlights": ["奥特能", "33英寸环幕"], "tags": ["纯电"] },
-        { "id": "cadillac-celestiq", "name": "CELESTIQ", "nameEn": "CELESTIQ", "type": "旗舰纯电", "price": { "min": 2500000, "max": 4000000, "label": "厂商指导价" }, "desc": "手工定制旗舰电动车,一台一色绝无重复。", "highlights": ["手工定制", "绝无重复"], "tags": ["纯电"] }
+        {
+          "id": "cadillac-ct5",
+          "name": "CT5",
+          "nameEn": "CT5",
+          "type": "运动轿车",
+          "price": {
+            "min": 270000,
+            "max": 350000,
+            "label": "厂商指导价"
+          },
+          "desc": "后驱+2.0T的运动轿车,「没有中间商赚差价」的性价比。",
+          "highlights": [
+            "后驱",
+            "性价比"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "cadillac-ct6",
+          "name": "CT6",
+          "nameEn": "CT6",
+          "type": "行政轿车",
+          "price": {
+            "min": 350000,
+            "max": 500000,
+            "label": "厂商指导价"
+          },
+          "desc": "美式行政旗舰,美国总统座驾的民用亲戚。",
+          "highlights": [
+            "美式行政",
+            "总统亲戚"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "cadillac-xt5",
+          "name": "XT5",
+          "nameEn": "XT5",
+          "type": "中型SUV",
+          "price": {
+            "min": 300000,
+            "max": 400000,
+            "label": "厂商指导价"
+          },
+          "desc": "豪华中型SUV的美式答案,折扣力度闻名。",
+          "highlights": [
+            "美式豪华",
+            "折扣闻名"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "cadillac-lyriq",
+          "name": "LYRIQ 锐歌",
+          "nameEn": "LYRIQ",
+          "type": "纯电SUV",
+          "price": {
+            "min": 400000,
+            "max": 500000,
+            "label": "厂商指导价"
+          },
+          "desc": "奥特能平台纯电,33英寸环幕屏的开创。",
+          "highlights": [
+            "奥特能",
+            "33英寸环幕"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        },
+        {
+          "id": "cadillac-celestiq",
+          "name": "CELESTIQ",
+          "nameEn": "CELESTIQ",
+          "type": "旗舰纯电",
+          "price": {
+            "min": 2500000,
+            "max": 4000000,
+            "label": "厂商指导价"
+          },
+          "desc": "手工定制旗舰电动车,一台一色绝无重复。",
+          "highlights": [
+            "手工定制",
+            "绝无重复"
+          ],
+          "tags": [
+            "纯电"
+          ]
+        }
       ]
     },
     {
-      "id": "lincoln", "name": "林肯", "nameEn": "Lincoln", "domain": "lincoln.com.cn",
-      "categoryId": "auto", "country": "美国", "founded": 1917, "hq": "迪尔伯恩",
-      "tier": "豪华", "tags": ["总统座驾", "美式静谧", "星辉格栅"], "slogan": "Now it's Lincoln time",
+      "id": "lincoln",
+      "name": "林肯",
+      "nameEn": "Lincoln",
+      "domain": "lincoln.com.cn",
+      "categoryId": "auto",
+      "country": "美国",
+      "founded": 1917,
+      "hq": "迪尔伯恩",
+      "tier": "豪华",
+      "sub": "行政",
+      "tags": [
+        "总统座驾",
+        "美式静谧",
+        "星辉格栅"
+      ],
+      "slogan": "Now it's Lincoln time",
       "desc": "以林肯总统命名的美式豪华:十二位美国总统的座驾,「静谧之旅」哲学与星辉格栅。",
       "story": "1917年亨利·利兰(凯迪拉克创始人)创立,1922年被福特收购。大陆(Continental)曾是对开门的巅峰,加长林肯是中国婚车的时代记忆。\n2014年重返中国,以航海家、飞行家等「海陆空」命名全系国产。",
       "products": [
-        { "id": "lincoln-navigator", "name": "领航员", "nameEn": "Navigator", "type": "全尺寸SUV", "price": { "min": 1000000, "max": 1500000, "label": "厂商指导价" }, "desc": "全尺寸美式巨兽,加长婚车的正统血统。", "highlights": ["全尺寸", "婚车血统"], "tags": ["SUV"] },
-        { "id": "lincoln-continental", "name": "大陆(经典)", "nameEn": "Continental", "type": "旗舰轿车", "price": { "min": 400000, "max": 1500000, "label": "历史参考价" }, "desc": "1961年对开门 masterpiece,肯尼迪的座驾记忆。", "highlights": ["对开门", "肯尼迪座驾"], "tags": ["经典"] },
-        { "id": "lincoln-aviator", "name": "飞行家", "nameEn": "Aviator", "type": "中大型SUV", "price": { "min": 500000, "max": 800000, "label": "厂商指导价" }, "desc": "3.0T V6+10AT,美式飞行的平顺。", "highlights": ["3.0T V6", "平顺"], "tags": ["SUV"] },
-        { "id": "lincoln-corair", "name": "冒险家", "nameEn": "Corsair", "type": "紧凑SUV", "price": { "min": 250000, "max": 350000, "label": "厂商指导价" }, "desc": "国产入门款,25万级的美式豪华门票。", "highlights": ["入门", "25万门票"], "tags": ["SUV"] },
-        { "id": "lincoln-nautilus", "name": "航海家", "nameEn": "Nautilus", "type": "中型SUV", "price": { "min": 320000, "max": 450000, "label": "厂商指导价" }, "desc": "中层主力,星辉格栅+贯穿屏的新脸。", "highlights": ["星辉格栅", "贯穿屏"], "tags": ["SUV"] }
+        {
+          "id": "lincoln-navigator",
+          "name": "领航员",
+          "nameEn": "Navigator",
+          "type": "全尺寸SUV",
+          "price": {
+            "min": 1000000,
+            "max": 1500000,
+            "label": "厂商指导价"
+          },
+          "desc": "全尺寸美式巨兽,加长婚车的正统血统。",
+          "highlights": [
+            "全尺寸",
+            "婚车血统"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "lincoln-continental",
+          "name": "大陆(经典)",
+          "nameEn": "Continental",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 400000,
+            "max": 1500000,
+            "label": "历史参考价"
+          },
+          "desc": "1961年对开门 masterpiece,肯尼迪的座驾记忆。",
+          "highlights": [
+            "对开门",
+            "肯尼迪座驾"
+          ],
+          "tags": [
+            "经典"
+          ]
+        },
+        {
+          "id": "lincoln-aviator",
+          "name": "飞行家",
+          "nameEn": "Aviator",
+          "type": "中大型SUV",
+          "price": {
+            "min": 500000,
+            "max": 800000,
+            "label": "厂商指导价"
+          },
+          "desc": "3.0T V6+10AT,美式飞行的平顺。",
+          "highlights": [
+            "3.0T V6",
+            "平顺"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "lincoln-corair",
+          "name": "冒险家",
+          "nameEn": "Corsair",
+          "type": "紧凑SUV",
+          "price": {
+            "min": 250000,
+            "max": 350000,
+            "label": "厂商指导价"
+          },
+          "desc": "国产入门款,25万级的美式豪华门票。",
+          "highlights": [
+            "入门",
+            "25万门票"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "lincoln-nautilus",
+          "name": "航海家",
+          "nameEn": "Nautilus",
+          "type": "中型SUV",
+          "price": {
+            "min": 320000,
+            "max": 450000,
+            "label": "厂商指导价"
+          },
+          "desc": "中层主力,星辉格栅+贯穿屏的新脸。",
+          "highlights": [
+            "星辉格栅",
+            "贯穿屏"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        }
       ]
     },
     {
-      "id": "lexus", "name": "雷克萨斯", "nameEn": "Lexus", "domain": "lexus.com.cn",
-      "categoryId": "豪华", "tags": ["工匠", "静谧", "混动"], "slogan": "Experience Amazing(领未见,探非凡)",
+      "id": "lexus",
+      "name": "雷克萨斯",
+      "nameEn": "Lexus",
+      "domain": "lexus.com.cn",
+      "categoryId": "auto",
+      "tags": [
+        "工匠",
+        "静谧",
+        "混动"
+      ],
+      "slogan": "Experience Amazing(领未见,探非凡)",
       "desc": "丰田的豪华答卷:1989年为「造世界最好的车」而生,以安静与可靠性著称,加价神话的制造者。",
       "story": "1989年丰田秘密F1计划落地,LS400以「方向盘上放香槟塔」广告挑战奔驰S级。日式匠人文化与服务礼仪让它在中国长期加价。\n如今电动化转型,TZ与RZ开启新章。",
-      "categoryId": "auto", "country": "日本", "founded": 1989, "hq": "日本爱知",
+      "country": "日本",
+      "founded": 1989,
+      "hq": "日本爱知",
+      "sub": "豪华",
       "products": [
-        { "id": "lexus-ls", "name": "LS", "nameEn": "LS", "type": "旗舰轿车", "price": { "min": 900000, "max": 1200000, "label": "厂商指导价" }, "desc": "挑战S级的初代旗舰,行走的和风茶室。", "highlights": ["挑战S级", "和风茶室"], "tags": ["轿车"] },
-        { "id": "lexus-es", "name": "ES", "nameEn": "ES", "type": "行政轿车", "price": { "min": 290000, "max": 480000, "label": "厂商指导价" }, "desc": "进口中大型轿车销量王,加价神话的主角。", "highlights": ["销量王", "加价神话"], "tags": ["轿车"] },
-        { "id": "lexus-rx", "name": "RX", "nameEn": "RX", "type": "中大型SUV", "price": { "min": 400000, "max": 620000, "label": "厂商指导价" }, "desc": "1998年开创豪华 crossover 品类,舒适之王。", "highlights": ["品类开创", "舒适之王"], "tags": ["SUV"] },
-        { "id": "lexus-lc", "name": "LC", "nameEn": "LC 500", "type": "GT轿跑", "price": { "min": 1100000, "max": 1300000, "label": "厂商指导价" }, "desc": "概念车直接量产的惊艳,5.0 V8自然吸气绝唱。", "highlights": ["概念量产", "V8绝唱"], "tags": ["轿跑"] },
-        { "id": "lexus-lm", "name": "LM", "nameEn": "LM", "type": "豪华MPV", "price": { "min": 1200000, "max": 2000000, "label": "厂商指导价" }, "desc": "超豪华MPV,加价50万仍一车难求的陆地头等舱。", "highlights": ["超豪华MPV", "加价50万"], "tags": ["MPV"] }
+        {
+          "id": "lexus-ls",
+          "name": "LS",
+          "nameEn": "LS",
+          "type": "旗舰轿车",
+          "price": {
+            "min": 900000,
+            "max": 1200000,
+            "label": "厂商指导价"
+          },
+          "desc": "挑战S级的初代旗舰,行走的和风茶室。",
+          "highlights": [
+            "挑战S级",
+            "和风茶室"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "lexus-es",
+          "name": "ES",
+          "nameEn": "ES",
+          "type": "行政轿车",
+          "price": {
+            "min": 290000,
+            "max": 480000,
+            "label": "厂商指导价"
+          },
+          "desc": "进口中大型轿车销量王,加价神话的主角。",
+          "highlights": [
+            "销量王",
+            "加价神话"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "lexus-rx",
+          "name": "RX",
+          "nameEn": "RX",
+          "type": "中大型SUV",
+          "price": {
+            "min": 400000,
+            "max": 620000,
+            "label": "厂商指导价"
+          },
+          "desc": "1998年开创豪华 crossover 品类,舒适之王。",
+          "highlights": [
+            "品类开创",
+            "舒适之王"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "lexus-lc",
+          "name": "LC",
+          "nameEn": "LC 500",
+          "type": "GT轿跑",
+          "price": {
+            "min": 1100000,
+            "max": 1300000,
+            "label": "厂商指导价"
+          },
+          "desc": "概念车直接量产的惊艳,5.0 V8自然吸气绝唱。",
+          "highlights": [
+            "概念量产",
+            "V8绝唱"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "lexus-lm",
+          "name": "LM",
+          "nameEn": "LM",
+          "type": "豪华MPV",
+          "price": {
+            "min": 1200000,
+            "max": 2000000,
+            "label": "厂商指导价"
+          },
+          "desc": "超豪华MPV,加价50万仍一车难求的陆地头等舱。",
+          "highlights": [
+            "超豪华MPV",
+            "加价50万"
+          ],
+          "tags": [
+            "MPV"
+          ]
+        }
       ]
     },
     {
-      "id": "infiniti", "name": "英菲尼迪", "nameEn": "INFINITI", "domain": "infiniti.com.cn",
-      "categoryId": "auto", "country": "日本", "founded": 1989, "hq": "香港(全球总部)",
-      "tier": "豪华", "tags": ["日产豪华", "VC-Turbo", "东方美学"], "slogan": "Empower the Drive",
+      "id": "infiniti",
+      "name": "英菲尼迪",
+      "nameEn": "INFINITI",
+      "domain": "infiniti.com.cn",
+      "categoryId": "auto",
+      "country": "日本",
+      "founded": 1989,
+      "hq": "香港(全球总部)",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "日产豪华",
+        "VC-Turbo",
+        "东方美学"
+      ],
+      "slogan": "Empower the Drive",
       "desc": "日产的豪华答卷:1989年与雷克萨斯同年诞生,以「 resistant」的东方美学与VC-Turbo 可变压缩比黑科技闻名。",
       "story": "1989年北美诞生,开业的广告没有一辆车只有石头与森林——「尊重自然」的东方哲学。VQ37 HR 自吸六缸被评过全球十佳,VC-Turbo 是量产可变压缩比第一机。\n在华收缩为东风英菲尼迪,聚焦 QX60 等车型。",
       "products": [
-        { "id": "infiniti-qx60", "name": "QX60", "nameEn": "QX60", "type": "中大型SUV", "price": { "min": 400000, "max": 550000, "label": "厂商指导价" }, "desc": "国产旗舰SUV,三排座家用豪华。", "highlights": ["国产旗舰", "三排座"], "tags": ["SUV"] },
-        { "id": "infiniti-q50", "name": "Q50L", "nameEn": "Q50L", "type": "运动轿车", "price": { "min": 250000, "max": 350000, "label": "历史指导价" }, "desc": "DAS线控转向的尝试者,运动弯道玩具。", "highlights": ["线控转向", "运动"], "tags": ["轿车"] },
-        { "id": "infiniti-qx50", "name": "QX50", "nameEn": "QX50", "type": "中型SUV", "price": { "min": 330000, "max": 450000, "label": "历史指导价" }, "desc": "VC-Turbo 可变压缩比引擎全球首发车型。", "highlights": ["VC-Turbo首发", "黑科技"], "tags": ["SUV"] },
-        { "id": "infiniti-q60", "name": "Q60", "nameEn": "Q60", "type": "轿跑", "price": { "min": 350000, "max": 450000, "label": "历史指导价" }, "desc": "双门轿跑,VQ37自吸的绝唱之一。", "highlights": ["VQ37", "绝唱"], "tags": ["轿跑"] },
-        { "id": "infiniti-esq", "name": "ESQ(经典)", "nameEn": "ESQ", "type": "小型SUV", "price": { "min": 180000, "max": 250000, "label": "历史指导价" }, "desc": "日产Juke换标的中国特供,设计争议最大。", "highlights": ["Juke换标", "争议设计"], "tags": ["经典"] }
+        {
+          "id": "infiniti-qx60",
+          "name": "QX60",
+          "nameEn": "QX60",
+          "type": "中大型SUV",
+          "price": {
+            "min": 400000,
+            "max": 550000,
+            "label": "厂商指导价"
+          },
+          "desc": "国产旗舰SUV,三排座家用豪华。",
+          "highlights": [
+            "国产旗舰",
+            "三排座"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "infiniti-q50",
+          "name": "Q50L",
+          "nameEn": "Q50L",
+          "type": "运动轿车",
+          "price": {
+            "min": 250000,
+            "max": 350000,
+            "label": "历史指导价"
+          },
+          "desc": "DAS线控转向的尝试者,运动弯道玩具。",
+          "highlights": [
+            "线控转向",
+            "运动"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "infiniti-qx50",
+          "name": "QX50",
+          "nameEn": "QX50",
+          "type": "中型SUV",
+          "price": {
+            "min": 330000,
+            "max": 450000,
+            "label": "历史指导价"
+          },
+          "desc": "VC-Turbo 可变压缩比引擎全球首发车型。",
+          "highlights": [
+            "VC-Turbo首发",
+            "黑科技"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "infiniti-q60",
+          "name": "Q60",
+          "nameEn": "Q60",
+          "type": "轿跑",
+          "price": {
+            "min": 350000,
+            "max": 450000,
+            "label": "历史指导价"
+          },
+          "desc": "双门轿跑,VQ37自吸的绝唱之一。",
+          "highlights": [
+            "VQ37",
+            "绝唱"
+          ],
+          "tags": [
+            "轿跑"
+          ]
+        },
+        {
+          "id": "infiniti-esq",
+          "name": "ESQ(经典)",
+          "nameEn": "ESQ",
+          "type": "小型SUV",
+          "price": {
+            "min": 180000,
+            "max": 250000,
+            "label": "历史指导价"
+          },
+          "desc": "日产Juke换标的中国特供,设计争议最大。",
+          "highlights": [
+            "Juke换标",
+            "争议设计"
+          ],
+          "tags": [
+            "经典"
+          ]
+        }
       ]
     },
     {
-      "id": "acura", "name": "讴歌", "nameEn": "Acura", "domain": "acura.com",
-      "categoryId": "auto", "country": "日本", "founded": 1986, "hq": "东京",
-      "tier": "豪华", "tags": ["本田豪华", "SH-AWD", "Type S"], "slogan": "Precision Crafted Performance",
+      "id": "acura",
+      "name": "讴歌",
+      "nameEn": "Acura",
+      "domain": "acura.com",
+      "categoryId": "auto",
+      "country": "日本",
+      "founded": 1986,
+      "hq": "东京",
+      "tier": "豪华",
+      "sub": "豪华",
+      "tags": [
+        "本田豪华",
+        "SH-AWD",
+        "Type S"
+      ],
+      "slogan": "Precision Crafted Performance",
       "desc": "本田的豪华先锋:1986年北美创立(首个日系豪华品牌),SH-AWD 超级四驱与NSX的传奇。",
       "story": "1986年本田在北美推出 Acura,比雷克萨斯早三年。1990年NSX以铝制车身+VTEC 教了法拉利做人,塞纳参与调校。SH-AWD 四驱是看家技术。\n2023年退出中国,北美市场 MDX/Integra 继续。",
       "products": [
-        { "id": "acura-nsx", "name": "NSX(经典/二代)", "nameEn": "NSX", "type": "超跑", "price": { "min": 1500000, "max": 3000000, "label": "历史指导价" }, "desc": "1990年铝制超跑教鞭,二代混动重出江湖。", "highlights": ["铝制超跑", "塞纳调校"], "tags": ["超跑"] },
-        { "id": "acura-mdx", "name": "MDX", "nameEn": "MDX", "type": "中大型SUV", "price": { "min": 500000, "max": 800000, "label": "北美参考价" }, "desc": "北美最畅销的讴歌,三排座 Type S 性能版。", "highlights": ["北美畅销", "TypeS"], "tags": ["SUV"] },
-        { "id": "acura-tlx", "name": "TLX", "nameEn": "TLX", "type": "运动轿车", "price": { "min": 350000, "max": 500000, "label": "北美参考价" }, "desc": "双叉臂前悬的冷门好车,Type S 3.0T。", "highlights": ["双叉臂", "TypeS"], "tags": ["轿车"] },
-        { "id": "acura-integra", "name": "Integra", "nameEn": "Integra", "type": "运动掀背", "price": { "min": 250000, "max": 350000, "label": "北美参考价" }, "desc": "JDM 传奇复活,Type S 手动挡情怀。", "highlights": ["JDM复活", "手动挡"], "tags": ["轿车"] },
-        { "id": "acura-cdx", "name": "CDX(中国)", "nameEn": "CDX", "type": "紧凑SUV", "price": { "min": 220000, "max": 300000, "label": "历史指导价" }, "desc": "中国特供入门SUV,扭力梁的争议。", "highlights": ["中国特供", "争议"], "tags": ["经典"] }
+        {
+          "id": "acura-nsx",
+          "name": "NSX(经典/二代)",
+          "nameEn": "NSX",
+          "type": "超跑",
+          "price": {
+            "min": 1500000,
+            "max": 3000000,
+            "label": "历史指导价"
+          },
+          "desc": "1990年铝制超跑教鞭,二代混动重出江湖。",
+          "highlights": [
+            "铝制超跑",
+            "塞纳调校"
+          ],
+          "tags": [
+            "超跑"
+          ]
+        },
+        {
+          "id": "acura-mdx",
+          "name": "MDX",
+          "nameEn": "MDX",
+          "type": "中大型SUV",
+          "price": {
+            "min": 500000,
+            "max": 800000,
+            "label": "北美参考价"
+          },
+          "desc": "北美最畅销的讴歌,三排座 Type S 性能版。",
+          "highlights": [
+            "北美畅销",
+            "TypeS"
+          ],
+          "tags": [
+            "SUV"
+          ]
+        },
+        {
+          "id": "acura-tlx",
+          "name": "TLX",
+          "nameEn": "TLX",
+          "type": "运动轿车",
+          "price": {
+            "min": 350000,
+            "max": 500000,
+            "label": "北美参考价"
+          },
+          "desc": "双叉臂前悬的冷门好车,Type S 3.0T。",
+          "highlights": [
+            "双叉臂",
+            "TypeS"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "acura-integra",
+          "name": "Integra",
+          "nameEn": "Integra",
+          "type": "运动掀背",
+          "price": {
+            "min": 250000,
+            "max": 350000,
+            "label": "北美参考价"
+          },
+          "desc": "JDM 传奇复活,Type S 手动挡情怀。",
+          "highlights": [
+            "JDM复活",
+            "手动挡"
+          ],
+          "tags": [
+            "轿车"
+          ]
+        },
+        {
+          "id": "acura-cdx",
+          "name": "CDX(中国)",
+          "nameEn": "CDX",
+          "type": "紧凑SUV",
+          "price": {
+            "min": 220000,
+            "max": 300000,
+            "label": "历史指导价"
+          },
+          "desc": "中国特供入门SUV,扭力梁的争议。",
+          "highlights": [
+            "中国特供",
+            "争议"
+          ],
+          "tags": [
+            "经典"
+          ]
+        }
       ]
     }
   ]

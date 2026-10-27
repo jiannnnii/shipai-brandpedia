@@ -10,7 +10,13 @@
       "founded": 2005,
       "hq": "纽约",
       "tier": "高奢",
-      "tags": ["现代奢华", "美妆", "男装", "性感剪裁"],
+      "sub": "设计师",
+      "tags": [
+        "现代奢华",
+        "美妆",
+        "男装",
+        "性感剪裁"
+      ],
       "slogan": "性感克制的现代奢华",
       "desc": "由设计师汤姆·福特创立的纽约奢华品牌,以香水、彩妆与锐利剪裁的男女装闻名,墨镜与口红是标志性单品,风格性感克制而摩登,是当代最具辨识度的设计师品牌之一。",
       "story": "汤姆·福特曾执掌古驰与圣罗兰并带领两家老牌复兴,2005年在纽约创立同名品牌,次年联手雅诗兰黛推出香水彩妆线,乌木沉香香水与口红迅速成为现象级单品。\n2007年推出男装线,2010年重返女装高级时装,以利落剪裁与性感气质著称;2023年雅诗兰黛集团完成对品牌的收购,如今其香水彩妆与成衣配饰业务在全球持续扩张。",
@@ -20,10 +26,21 @@
           "name": "私人调配香水",
           "nameEn": "Private Blend",
           "type": "香水",
-          "price": { "min": 2000, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌高端香水线,乌木沉香、烟草香草等浓香闻名单圈粉无数,瓶身自带奢华气场,是送礼与自用的经典之选。",
-          "highlights": ["乌木沉香", "烟草香草", "高浓度香精"],
-          "tags": ["香水"],
+          "highlights": [
+            "乌木沉香",
+            "烟草香草",
+            "高浓度香精"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -31,10 +48,21 @@
           "name": "经典唇膏",
           "nameEn": "Lip Color",
           "type": "彩妆",
-          "price": { "min": 400, "max": 600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 400,
+            "max": 600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "美妆线王牌单品,显色饱和、质地滋润,白管黑管外壳设计高级,堪称口红界的奢侈品标杆。",
-          "highlights": ["显色度高", "白管黑管", "高级外壳"],
-          "tags": ["彩妆"],
+          "highlights": [
+            "显色度高",
+            "白管黑管",
+            "高级外壳"
+          ],
+          "tags": [
+            "彩妆"
+          ],
           "image": null
         },
         {
@@ -42,10 +70,21 @@
           "name": "太阳镜",
           "nameEn": "Eyewear",
           "type": "眼镜",
-          "price": { "min": 1800, "max": 3800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 3800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "与专业眼镜集团合作的眼镜线,大框猫眼等复古造型极具辨识度,是好莱坞红毯与街拍常见单品。",
-          "highlights": ["复古大框", "猫眼造型", "红毯同款"],
-          "tags": ["眼镜"],
+          "highlights": [
+            "复古大框",
+            "猫眼造型",
+            "红毯同款"
+          ],
+          "tags": [
+            "眼镜"
+          ],
           "image": null
         },
         {
@@ -53,10 +92,21 @@
           "name": "手袋",
           "nameEn": "Handbags",
           "type": "手袋",
-          "price": { "min": 12000, "max": 35000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 12000,
+            "max": 35000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "以金属旋扣等标志性细节打造的晚宴包与通勤包,皮质考究、造型利落,常亮相红毯与时尚杂志封面。",
-          "highlights": ["金属旋扣", "晚宴包", "意大利皮质"],
-          "tags": ["手袋"],
+          "highlights": [
+            "金属旋扣",
+            "晚宴包",
+            "意大利皮质"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -64,10 +114,21 @@
           "name": "男装成衣",
           "nameEn": "Menswear",
           "type": "男装成衣",
-          "price": { "min": 8000, "max": 45000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 8000,
+            "max": 45000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "从修身西装到红毯礼服,以极致剪裁塑造摩登绅士形象,意产面料与考究细节是商务精英的心头好。",
-          "highlights": ["修身剪裁", "红毯礼服", "意产面料"],
-          "tags": ["男装"],
+          "highlights": [
+            "修身剪裁",
+            "红毯礼服",
+            "意产面料"
+          ],
+          "tags": [
+            "男装"
+          ],
           "image": null
         },
         {
@@ -75,10 +136,21 @@
           "name": "女装成衣",
           "nameEn": "Womenswear",
           "type": "女装成衣",
-          "price": { "min": 8000, "max": 50000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 8000,
+            "max": 50000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "2010年回归的女装线走隐秘奢华路线,丝绒、亮片与流苏展现华丽性感,高级晚装尤为出名。",
-          "highlights": ["隐秘奢华", "丝绒亮片", "高级晚装"],
-          "tags": ["女装"],
+          "highlights": [
+            "隐秘奢华",
+            "丝绒亮片",
+            "高级晚装"
+          ],
+          "tags": [
+            "女装"
+          ],
           "image": null
         }
       ]
@@ -93,7 +165,12 @@
       "founded": 1856,
       "hq": "伦敦",
       "tier": "高奢",
-      "tags": ["风衣", "格纹", "英伦"],
+      "sub": "成衣",
+      "tags": [
+        "风衣",
+        "格纹",
+        "英伦"
+      ],
       "slogan": "英伦经典的当代演绎",
       "desc": "创立于1856年的英国奢侈品牌,以防渗雨的嘎巴甸风衣与经典格纹闻名,是英伦风格的代名词,产品覆盖成衣、皮具、配饰与美妆,风衣被视为可传世的经典。",
       "story": "1856年托马斯·博柏利在英国贝辛斯托克开设成衣铺,1879年发明防风防雨的嘎巴甸面料,为一战军官打造的风衣战后成为传世经典,驼色格纹衬里更演变为品牌的视觉符号。\n百余年来品牌既曾为极地探险家供应装备,也持续引领英伦时尚,近年积极推动年轻化转型;风衣、格纹围巾与手袋至今仍是全球衣橱中的经典之选。",
@@ -103,10 +180,21 @@
           "name": "经典 Trench 风衣",
           "nameEn": "Trench Coat",
           "type": "风衣",
-          "price": { "min": 12000, "max": 26000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 12000,
+            "max": 26000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌灵魂单品,嘎巴甸面料防风防雨,双排扣、腰带领结细节考究,切尔西与肯辛顿版型最为热销。",
-          "highlights": ["嘎巴甸面料", "双排扣", "英伦经典"],
-          "tags": ["风衣"],
+          "highlights": [
+            "嘎巴甸面料",
+            "双排扣",
+            "英伦经典"
+          ],
+          "tags": [
+            "风衣"
+          ],
           "image": null
         },
         {
@@ -114,10 +202,21 @@
           "name": "格纹羊绒围巾",
           "nameEn": "Classic Cashmere Scarf",
           "type": "围巾",
-          "price": { "min": 2800, "max": 4800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2800,
+            "max": 4800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "苏格兰织造的纯羊绒围巾,经典驼色格纹一眼即识,手感柔软保暖,是送礼首选的入门单品。",
-          "highlights": ["纯羊绒", "苏格兰织造", "经典格纹"],
-          "tags": ["围巾"],
+          "highlights": [
+            "纯羊绒",
+            "苏格兰织造",
+            "经典格纹"
+          ],
+          "tags": [
+            "围巾"
+          ],
           "image": null
         },
         {
@@ -125,10 +224,21 @@
           "name": "TB 专属标识手袋",
           "nameEn": "TB Bag",
           "type": "手袋",
-          "price": { "min": 8000, "max": 22000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 8000,
+            "max": 22000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以创始人 Thomas Burberry 缩写打造的专属标识锁扣手袋,线条简约,兼具通勤与休闲多种场景。",
-          "highlights": ["TB标识锁扣", "简约线条", "通勤百搭"],
-          "tags": ["手袋"],
+          "highlights": [
+            "TB标识锁扣",
+            "简约线条",
+            "通勤百搭"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -136,10 +246,21 @@
           "name": "格纹羊绒大衣",
           "nameEn": "Cashmere Coat",
           "type": "大衣",
-          "price": { "min": 15000, "max": 35000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 15000,
+            "max": 35000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "冬季主打单品,羊绒或羊毛混纺质地,格纹内衬或撞色格纹设计,保暖与气场兼备。",
-          "highlights": ["羊绒质地", "格纹内衬", "冬季气场单品"],
-          "tags": ["大衣"],
+          "highlights": [
+            "羊绒质地",
+            "格纹内衬",
+            "冬季气场单品"
+          ],
+          "tags": [
+            "大衣"
+          ],
           "image": null
         },
         {
@@ -147,10 +268,21 @@
           "name": "成衣系列",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 3000, "max": 18000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 3000,
+            "max": 18000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "覆盖衬衫、针织与裙装,格纹与战马元素贯穿其中,英伦休闲与正式场合皆可胜任。",
-          "highlights": ["格纹元素", "英伦休闲", "衬衫见长"],
-          "tags": ["服装"],
+          "highlights": [
+            "格纹元素",
+            "英伦休闲",
+            "衬衫见长"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         },
         {
@@ -158,10 +290,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 500, "max": 1300, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 500,
+            "max": 1300,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以 My Burberry、Hero、Goddess 等为代表的香水线,英伦花园气息与摩登木质调并存,瓶身延续经典设计元素。",
-          "highlights": ["My Burberry", "Hero", "Goddess"],
-          "tags": ["香水"],
+          "highlights": [
+            "My Burberry",
+            "Hero",
+            "Goddess"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         }
       ]
@@ -176,7 +319,12 @@
       "founded": 1970,
       "hq": "巴黎",
       "tier": "轻奢",
-      "tags": ["虎头", "印花", "东西融合"],
+      "sub": "设计师",
+      "tags": [
+        "虎头",
+        "印花",
+        "东西融合"
+      ],
       "slogan": "让色彩与印花自由生长",
       "desc": "日本设计师高田贤三1970年在巴黎创立的时装屋,以大胆印花、虎头图案与东西方美学融合著称,卫衣与香水最为人熟知,现隶属 LVMH 集团旗下。",
       "story": "高田贤三1970年在巴黎开设首间店铺,是最早在巴黎立足的日本设计师之一,以自由混搭的印花与色彩为时装注入东方气韵,重新定义了法式浪漫。\n1993年品牌并入 LVMH 集团,虎头卫衣与 Flower by Kenzo 香水先后成为全球爆款;2020年创始人离世后,品牌延续其彩色拼贴美学,在成衣、配饰与香水领域持续发力。",
@@ -186,10 +334,21 @@
           "name": "虎头卫衣",
           "nameEn": "Tiger Crest Sweatshirt",
           "type": "卫衣",
-          "price": { "min": 2200, "max": 4200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2200,
+            "max": 4200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌最具辨识度的单品,刺绣虎头与 KENZO 字样极具街头感,男女同款常年热销。",
-          "highlights": ["刺绣虎头", "街头风", "男女同款"],
-          "tags": ["卫衣"],
+          "highlights": [
+            "刺绣虎头",
+            "街头风",
+            "男女同款"
+          ],
+          "tags": [
+            "卫衣"
+          ],
           "image": null
         },
         {
@@ -197,10 +356,21 @@
           "name": "虎头T恤",
           "nameEn": "Tiger T-shirt",
           "type": "T恤",
-          "price": { "min": 1100, "max": 2200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1100,
+            "max": 2200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "虎头图案的短袖版本,面料厚实、版型宽松,是入门这个品牌的首选单品。",
-          "highlights": ["虎头印花", "宽松版型", "入门首选"],
-          "tags": ["T恤"],
+          "highlights": [
+            "虎头印花",
+            "宽松版型",
+            "入门首选"
+          ],
+          "tags": [
+            "T恤"
+          ],
           "image": null
         },
         {
@@ -208,10 +378,21 @@
           "name": "手袋",
           "nameEn": "Bags",
           "type": "手袋",
-          "price": { "min": 3000, "max": 8000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 8000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以 Kampus、Tali 等系列为代表的包袋,帆布与皮革拼接、印花色彩鲜明,轻便实用。",
-          "highlights": ["Kampus", "帆布拼皮", "色彩鲜明"],
-          "tags": ["手袋"],
+          "highlights": [
+            "Kampus",
+            "帆布拼皮",
+            "色彩鲜明"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -219,10 +400,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 400, "max": 1100, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 400,
+            "max": 1100,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "Flower by Kenzo 罂粟花香氛闻名遐迩,一枝花瓶身极具辨识度,清甜花香适合日常佩戴。",
-          "highlights": ["Flower by Kenzo", "罂粟花", "花香调"],
-          "tags": ["香水"],
+          "highlights": [
+            "Flower by Kenzo",
+            "罂粟花",
+            "花香调"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -230,10 +422,21 @@
           "name": "运动鞋",
           "nameEn": "Sneakers",
           "type": "鞋履",
-          "price": { "min": 2000, "max": 5000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 5000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "虎头元素点缀的板鞋与老爹鞋,设计活泼、配色大胆,与卫衣组成经典街头穿搭。",
-          "highlights": ["虎头元素", "配色大胆", "街头百搭"],
-          "tags": ["鞋履"],
+          "highlights": [
+            "虎头元素",
+            "配色大胆",
+            "街头百搭"
+          ],
+          "tags": [
+            "鞋履"
+          ],
           "image": null
         },
         {
@@ -241,10 +444,21 @@
           "name": "成衣系列",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 1800, "max": 15000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 1800,
+            "max": 15000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "印花衬衫、针织与连衣裙延续创始人对色彩与花卉的热爱,东西混搭风格独树一帜。",
-          "highlights": ["印花衬衫", "花卉元素", "东西混搭"],
-          "tags": ["服装"],
+          "highlights": [
+            "印花衬衫",
+            "花卉元素",
+            "东西混搭"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         }
       ]
@@ -259,7 +473,12 @@
       "founded": 1967,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["Polo衫", "美式经典", "学院风"],
+      "sub": "轻奢",
+      "tags": [
+        "Polo衫",
+        "美式经典",
+        "学院风"
+      ],
       "slogan": "美式生活方式的经典范本",
       "desc": "美式生活方式的代表性品牌,以骑手标识的经典 Polo 衫与学院风时装闻名,旗下从 Polo 到紫标覆盖多个价位,定义了美式休闲奢侈风格,影响力遍及全球。",
       "story": "拉夫·劳伦1967年在纽约以一系领带起家,1972年推出26色的经典网眼 Polo 衫,骑手标识自此成为美式经典的象征,倡导的常春藤学院风影响了全球休闲时装。\n如今品牌拥有 Polo Ralph Lauren、紫标等多元产品线,覆盖男女装、家居与香水,从大众休闲到顶级定制皆有布局,是全球最具影响力的美式生活方式品牌之一。",
@@ -269,10 +488,21 @@
           "name": "经典 Polo 衫",
           "nameEn": "Classic Polo Shirt",
           "type": "Polo衫",
-          "price": { "min": 700, "max": 1500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 1500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "1972年诞生的网眼 Polo 衫,左胸骑手刺绣标志,颜色选择极多,是美式休闲风的基石单品。",
-          "highlights": ["骑手刺绣", "网眼棉", "多色可选"],
-          "tags": ["Polo衫"],
+          "highlights": [
+            "骑手刺绣",
+            "网眼棉",
+            "多色可选"
+          ],
+          "tags": [
+            "Polo衫"
+          ],
           "image": null
         },
         {
@@ -280,10 +510,21 @@
           "name": "牛津纺衬衫",
           "nameEn": "Oxford Shirt",
           "type": "衬衫",
-          "price": { "min": 700, "max": 1600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 1600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "小马标牛津衬衫,布料挺括耐穿,正装休闲两相宜,是学院风的必修单品。",
-          "highlights": ["小马刺绣", "牛津纺", "学院风"],
-          "tags": ["衬衫"],
+          "highlights": [
+            "小马刺绣",
+            "牛津纺",
+            "学院风"
+          ],
+          "tags": [
+            "衬衫"
+          ],
           "image": null
         },
         {
@@ -291,10 +532,21 @@
           "name": "针织衫",
           "nameEn": "Knitwear",
           "type": "针织衫",
-          "price": { "min": 1000, "max": 3500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1000,
+            "max": 3500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "羊毛羊绒材质的圆领与开衫,以经典配色与复古图案见长,秋冬叠穿的利器。",
-          "highlights": ["羊毛羊绒", "经典配色", "叠穿百搭"],
-          "tags": ["针织衫"],
+          "highlights": [
+            "羊毛羊绒",
+            "经典配色",
+            "叠穿百搭"
+          ],
+          "tags": [
+            "针织衫"
+          ],
           "image": null
         },
         {
@@ -302,10 +554,21 @@
           "name": "外套与西装",
           "nameEn": "Outerwear & Tailoring",
           "type": "外套",
-          "price": { "min": 3000, "max": 18000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 3000,
+            "max": 18000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "从风衣、夹克到猎装西装一应俱全,美式经典版型结合优质面料,商务与休闲通吃。",
-          "highlights": ["美式版型", "猎装风衣", "商务休闲"],
-          "tags": ["外套"],
+          "highlights": [
+            "美式版型",
+            "猎装风衣",
+            "商务休闲"
+          ],
+          "tags": [
+            "外套"
+          ],
           "image": null
         },
         {
@@ -313,10 +576,21 @@
           "name": "手袋与皮具",
           "nameEn": "Handbags & Leather Goods",
           "type": "皮具",
-          "price": { "min": 1500, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以骑手标识为点缀的手袋、腰带与钱夹,做工扎实,延续品牌的经典美式格调。",
-          "highlights": ["骑手标识", "实用耐看", "经典格纹"],
-          "tags": ["皮具"],
+          "highlights": [
+            "骑手标识",
+            "实用耐看",
+            "经典格纹"
+          ],
+          "tags": [
+            "皮具"
+          ],
           "image": null
         },
         {
@@ -324,10 +598,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 350, "max": 1000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 350,
+            "max": 1000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "Polo Blue 等男香与 Ralph 女香长销多年,清爽的美式气质,是入门香水的常青款。",
-          "highlights": ["Polo Blue", "常青款", "清爽调"],
-          "tags": ["香水"],
+          "highlights": [
+            "Polo Blue",
+            "常青款",
+            "清爽调"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         }
       ]
@@ -342,7 +627,12 @@
       "founded": 1985,
       "hq": "阿姆斯特丹",
       "tier": "轻奢",
-      "tags": ["美式学院风", "红白蓝", "休闲"],
+      "sub": "轻奢",
+      "tags": [
+        "美式学院风",
+        "红白蓝",
+        "休闲"
+      ],
       "slogan": "经典美式,潮流新生",
       "desc": "以红白蓝旗帜标识闻名的美式休闲品牌,主打学院风 Polo、牛仔与休闲装,H 标与旗帜元素风靡全球,是美式休闲时装最成功的品牌之一,现隶属 PVH 集团。",
       "story": "汤米·希尔费格1985年在纽约推出首个同名男装系列,以红白蓝旗帜为标识,主打时髦的美式学院风,上世纪九十年代借嘻哈与街头文化红极一时。\n品牌现隶属 PVH 集团,设计总部设在阿姆斯特丹,旗下 Tommy Hilfiger 与 Tommy Jeans 两条主线覆盖男女装、牛仔与配饰,门店遍布全球,持续演绎经典美式风格。",
@@ -352,10 +642,21 @@
           "name": "经典 Polo 衫",
           "nameEn": "Classic Polo",
           "type": "Polo衫",
-          "price": { "min": 500, "max": 1100, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 500,
+            "max": 1100,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "领口袖口镶红白蓝织带的经典 Polo,胸前旗帜小标,版型利落,是品牌最热销的品类。",
-          "highlights": ["红白蓝织带", "旗帜小标", "经典版型"],
-          "tags": ["Polo衫"],
+          "highlights": [
+            "红白蓝织带",
+            "旗帜小标",
+            "经典版型"
+          ],
+          "tags": [
+            "Polo衫"
+          ],
           "image": null
         },
         {
@@ -363,10 +664,21 @@
           "name": "Tommy Jeans 牛仔裤",
           "nameEn": "Tommy Jeans Denim",
           "type": "牛仔裤",
-          "price": { "min": 700, "max": 1400, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 1400,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "面向年轻线的复古牛仔系列,直筒与阔腿版型怀旧美式,标识刺绣辨识度高。",
-          "highlights": ["复古直筒", "怀旧美式", "标识刺绣"],
-          "tags": ["牛仔裤"],
+          "highlights": [
+            "复古直筒",
+            "怀旧美式",
+            "标识刺绣"
+          ],
+          "tags": [
+            "牛仔裤"
+          ],
           "image": null
         },
         {
@@ -374,10 +686,21 @@
           "name": "卫衣与T恤",
           "nameEn": "Sweatshirts & Tees",
           "type": "卫衣",
-          "price": { "min": 400, "max": 1000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 400,
+            "max": 1000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大标识印花的连帽卫衣与圆领T恤,秋冬内搭或运动出街皆宜,男女款齐全。",
-          "highlights": ["大标识印花", "连帽款", "男女同款"],
-          "tags": ["卫衣"],
+          "highlights": [
+            "大标识印花",
+            "连帽款",
+            "男女同款"
+          ],
+          "tags": [
+            "卫衣"
+          ],
           "image": null
         },
         {
@@ -385,10 +708,21 @@
           "name": "衬衫",
           "nameEn": "Shirts",
           "type": "衬衫",
-          "price": { "min": 600, "max": 1300, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 1300,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "经典牛津纺与格纹衬衫,学院气质浓郁,商务与休闲场合都能轻松驾驭。",
-          "highlights": ["牛津纺", "格纹款", "学院气质"],
-          "tags": ["衬衫"],
+          "highlights": [
+            "牛津纺",
+            "格纹款",
+            "学院气质"
+          ],
+          "tags": [
+            "衬衫"
+          ],
           "image": null
         },
         {
@@ -396,10 +730,21 @@
           "name": "夹克外套",
           "nameEn": "Jackets",
           "type": "外套",
-          "price": { "min": 900, "max": 2600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "从棒球夹克到羽绒马甲,延续红白蓝配色基因,是春秋换季的百搭之选。",
-          "highlights": ["棒球夹克", "羽绒马甲", "红白蓝配色"],
-          "tags": ["外套"],
+          "highlights": [
+            "棒球夹克",
+            "羽绒马甲",
+            "红白蓝配色"
+          ],
+          "tags": [
+            "外套"
+          ],
           "image": null
         },
         {
@@ -407,10 +752,21 @@
           "name": "配饰",
           "nameEn": "Accessories",
           "type": "配饰",
-          "price": { "min": 300, "max": 1800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 300,
+            "max": 1800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "涵盖腰带、钱包与腕表等日常配饰,旗帜元素随处可见,价格亲民适合成套入手。",
-          "highlights": ["旗帜元素", "价格亲民", "日常百搭"],
-          "tags": ["配饰"],
+          "highlights": [
+            "旗帜元素",
+            "价格亲民",
+            "日常百搭"
+          ],
+          "tags": [
+            "配饰"
+          ],
           "image": null
         }
       ]
@@ -425,7 +781,12 @@
       "founded": 1968,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["极简", "内衣", "牛仔"],
+      "sub": "轻奢",
+      "tags": [
+        "极简",
+        "内衣",
+        "牛仔"
+      ],
       "slogan": "极简主义的美式表达",
       "desc": "以极简美学与大胆广告著称的美式时尚品牌,内衣、牛仔裤与香水是最深入人心的品类,极简 CK 标识风靡全球,现隶属 PVH 集团,是美式简约风的开创者之一。",
       "story": "设计师卡尔文·克雷恩1968年在纽约创立同名品牌,以简洁利落的剪裁与极简主义风格立足时尚圈,上世纪八九十年代凭借前卫大胆的广告大片屡屡引发话题。\n如今品牌分为主线 Calvin Klein 与牛仔线 Calvin Klein Jeans,内衣、牛仔裤与 CK One 香水常年热销,极简标识设计与年轻化营销持续影响着全球流行文化。",
@@ -435,10 +796,21 @@
           "name": "内衣系列",
           "nameEn": "Underwear",
           "type": "内衣",
-          "price": { "min": 100, "max": 350, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 100,
+            "max": 350,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "腰间 CK 织标内裤与内衣是品牌招牌,棉质舒适、剪裁贴身,几乎是无人不识的经典。",
-          "highlights": ["腰间织标", "纯棉舒适", "超高国民度"],
-          "tags": ["内衣"],
+          "highlights": [
+            "腰间织标",
+            "纯棉舒适",
+            "超高国民度"
+          ],
+          "tags": [
+            "内衣"
+          ],
           "image": null
         },
         {
@@ -446,10 +818,21 @@
           "name": "牛仔裤",
           "nameEn": "Jeans",
           "type": "牛仔裤",
-          "price": { "min": 600, "max": 1400, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 1400,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "Calvin Klein Jeans 主打复古直筒与修身版型,后腰皮标极具辨识度,基础款耐穿百搭。",
-          "highlights": ["后腰皮标", "复古版型", "基础耐穿"],
-          "tags": ["牛仔裤"],
+          "highlights": [
+            "后腰皮标",
+            "复古版型",
+            "基础耐穿"
+          ],
+          "tags": [
+            "牛仔裤"
+          ],
           "image": null
         },
         {
@@ -457,10 +840,21 @@
           "name": "T恤与卫衣",
           "nameEn": "Tees & Sweatshirts",
           "type": "T恤",
-          "price": { "min": 300, "max": 900, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 300,
+            "max": 900,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "极简标识印花系列男女通吃,纯棉质地基础百搭,是美式简约风的入门单品。",
-          "highlights": ["极简标识", "纯棉基础款", "男女通吃"],
-          "tags": ["T恤"],
+          "highlights": [
+            "极简标识",
+            "纯棉基础款",
+            "男女通吃"
+          ],
+          "tags": [
+            "T恤"
+          ],
           "image": null
         },
         {
@@ -468,10 +862,21 @@
           "name": "CK One 香水",
           "nameEn": "CK One",
           "type": "香水",
-          "price": { "min": 300, "max": 800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 300,
+            "max": 800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "1994年推出的中性香水鼻祖,柑橘与绿茶的清新气息,极简药瓶造型同样成为经典。",
-          "highlights": ["中性香", "清新柑橘", "极简瓶身"],
-          "tags": ["香水"],
+          "highlights": [
+            "中性香",
+            "清新柑橘",
+            "极简瓶身"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -479,10 +884,21 @@
           "name": "手袋与配饰",
           "nameEn": "Bags & Accessories",
           "type": "配饰",
-          "price": { "min": 500, "max": 2500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 500,
+            "max": 2500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "手袋、腰带与墨镜等配饰延续极简设计,大标识款式近年重新走红,性价比突出。",
-          "highlights": ["极简设计", "大标识款", "性价比"],
-          "tags": ["配饰"],
+          "highlights": [
+            "极简设计",
+            "大标识款",
+            "性价比"
+          ],
+          "tags": [
+            "配饰"
+          ],
           "image": null
         },
         {
@@ -490,10 +906,21 @@
           "name": "外套",
           "nameEn": "Outerwear",
           "type": "外套",
-          "price": { "min": 900, "max": 2500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "羽绒服、夹克与西装外套以简约廓形为主,黑白灰主色调,日常通勤好搭不出错。",
-          "highlights": ["简约廓形", "黑白灰", "通勤百搭"],
-          "tags": ["外套"],
+          "highlights": [
+            "简约廓形",
+            "黑白灰",
+            "通勤百搭"
+          ],
+          "tags": [
+            "外套"
+          ],
           "image": null
         }
       ]
@@ -508,7 +935,12 @@
       "founded": 1952,
       "hq": "米兰",
       "tier": "高奢",
-      "tags": ["羽绒服", "高端户外", "意式奢华"],
+      "sub": "成衣",
+      "tags": [
+        "羽绒服",
+        "高端户外",
+        "意式奢华"
+      ],
       "slogan": "高山精神的奢华表达",
       "desc": "源自阿尔卑斯山麓的奢华羽绒服品牌,把专业登山装备做成了时尚符号,亮面短款羽绒服与滑雪系列在都市街头和雪场同样常见,被誉为羽绒服中的天花板。",
       "story": "1952年品牌创立于法国阿尔卑斯小镇莫内斯捷-克莱蒙,早期为登山远征队供应专业羽绒装备,1954年随意大利登山队远征乔戈里峰而声名鹊起。\n2003年意大利企业家雷莫·鲁菲尼入主后推动时尚化转型,亮面羽绒服登上秀场成为风潮;如今品牌总部位于米兰,旗下还有 Grenoble 滑雪支线与高端系列,稳居奢侈品羽绒服领域首位。",
@@ -518,10 +950,21 @@
           "name": "Maya 羽绒服",
           "nameEn": "Maya Down Jacket",
           "type": "羽绒服",
-          "price": { "min": 9000, "max": 16000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 9000,
+            "max": 16000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "亮面短款羽绒服的代表作,横格绗缝亮面设计经典耐看,是品牌的常年爆款。",
-          "highlights": ["亮面横格", "短款百搭", "常年爆款"],
-          "tags": ["羽绒服"],
+          "highlights": [
+            "亮面横格",
+            "短款百搭",
+            "常年爆款"
+          ],
+          "tags": [
+            "羽绒服"
+          ],
           "image": null
         },
         {
@@ -529,10 +972,21 @@
           "name": "Grenoble 滑雪系列",
           "nameEn": "Moncler Grenoble",
           "type": "滑雪服",
-          "price": { "min": 10000, "max": 28000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 10000,
+            "max": 28000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "高性能滑雪支线,兼顾专业保暖功能与秀场级设计,雪场造型的首选。",
-          "highlights": ["滑雪支线", "高性能面料", "秀场设计"],
-          "tags": ["滑雪服"],
+          "highlights": [
+            "滑雪支线",
+            "高性能面料",
+            "秀场设计"
+          ],
+          "tags": [
+            "滑雪服"
+          ],
           "image": null
         },
         {
@@ -540,10 +994,21 @@
           "name": "长款羽绒服",
           "nameEn": "Long Down Coat",
           "type": "羽绒服",
-          "price": { "min": 12000, "max": 24000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 12000,
+            "max": 24000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "过膝长款版型御寒能力出众,收腰剪裁兼顾风度与温度,严寒城市街拍常见。",
-          "highlights": ["过膝长款", "收腰剪裁", "强御寒"],
-          "tags": ["羽绒服"],
+          "highlights": [
+            "过膝长款",
+            "收腰剪裁",
+            "强御寒"
+          ],
+          "tags": [
+            "羽绒服"
+          ],
           "image": null
         },
         {
@@ -551,10 +1016,21 @@
           "name": "针织衫",
           "nameEn": "Knitwear",
           "type": "针织衫",
-          "price": { "min": 3500, "max": 9000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3500,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "羊毛羊绒针织品缀以三色织带或标识提花,延续山地风格,内搭外穿皆宜。",
-          "highlights": ["三色织带", "羊毛羊绒", "山地风"],
-          "tags": ["针织衫"],
+          "highlights": [
+            "三色织带",
+            "羊毛羊绒",
+            "山地风"
+          ],
+          "tags": [
+            "针织衫"
+          ],
           "image": null
         },
         {
@@ -562,10 +1038,21 @@
           "name": "围巾与帽子",
           "nameEn": "Accessories",
           "type": "配饰",
-          "price": { "min": 1800, "max": 5000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 5000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "羊绒围巾与毛线帽以品牌织带和徽标点缀,与羽绒服组成完整的冬季装备。",
-          "highlights": ["羊绒质地", "织带徽标", "冬季装备"],
-          "tags": ["配饰"],
+          "highlights": [
+            "羊绒质地",
+            "织带徽标",
+            "冬季装备"
+          ],
+          "tags": [
+            "配饰"
+          ],
           "image": null
         },
         {
@@ -573,10 +1060,21 @@
           "name": "靴子",
           "nameEn": "Boots",
           "type": "鞋履",
-          "price": { "min": 5000, "max": 13000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 5000,
+            "max": 13000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "雪地靴与机车靴结合防水保暖科技,外观依旧时髦,适合冰雪天气出行。",
-          "highlights": ["雪地靴", "防水保暖", "时髦外观"],
-          "tags": ["鞋履"],
+          "highlights": [
+            "雪地靴",
+            "防水保暖",
+            "时髦外观"
+          ],
+          "tags": [
+            "鞋履"
+          ],
           "image": null
         }
       ]
@@ -591,7 +1089,12 @@
       "founded": 1957,
       "hq": "多伦多",
       "tier": "高奢",
-      "tags": ["派克大衣", "极地御寒", "加拿大制造"],
+      "sub": "成衣",
+      "tags": [
+        "派克大衣",
+        "极地御寒",
+        "加拿大制造"
+      ],
       "slogan": "为极寒而生",
       "desc": "加拿大高端御寒服装品牌,以极地级别的派克大衣闻名,坚持加拿大本土制造,面料与羽绒经严格测试,是科考队与极寒城市居民信赖的装备级羽绒服。",
       "story": "1957年波兰移民山姆·蒂克在多伦多创办制衣工坊,早期为加拿大北方工人与执法者制作御寒工装,后正式更名为 Canada Goose,以耐寒耐磨的品质积累口碑。\n品牌坚持本土生产,Expedition 派克大衣曾伴随科考队深入极地;21世纪初进入时尚界后迅速走红,如今已是全球最知名的高端御寒品牌,并持续投入材料创新。",
@@ -601,10 +1104,21 @@
           "name": "Expedition 派克大衣",
           "nameEn": "Expedition Parka",
           "type": "派克大衣",
-          "price": { "min": 8500, "max": 12000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 8500,
+            "max": 12000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌最经典的重装派克,原为极地科考设计,充绒量高、防护全面,胸前徽标辨识度极高。",
-          "highlights": ["极地血统", "高充绒量", "经典徽标"],
-          "tags": ["派克大衣"],
+          "highlights": [
+            "极地血统",
+            "高充绒量",
+            "经典徽标"
+          ],
+          "tags": [
+            "派克大衣"
+          ],
           "image": null
         },
         {
@@ -612,10 +1126,21 @@
           "name": "Langford 派克大衣",
           "nameEn": "Langford Parka",
           "type": "派克大衣",
-          "price": { "min": 7500, "max": 10500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 7500,
+            "max": 10500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "都市通勤版派克大衣,剪裁比 Expedition 更利落,保暖与日常轻量取得平衡。",
-          "highlights": ["都市通勤", "利落剪裁", "保暖均衡"],
-          "tags": ["派克大衣"],
+          "highlights": [
+            "都市通勤",
+            "利落剪裁",
+            "保暖均衡"
+          ],
+          "tags": [
+            "派克大衣"
+          ],
           "image": null
         },
         {
@@ -623,10 +1148,21 @@
           "name": "Chilliwack 飞行员夹克",
           "nameEn": "Chilliwack Bomber",
           "type": "夹克",
-          "price": { "min": 6000, "max": 8500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 6000,
+            "max": 8500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "短款飞行员版型,毛领厚实、袖口罗纹收口,活动灵便,是短款御寒的人气之选。",
-          "highlights": ["飞行员版型", "毛领", "短款灵便"],
-          "tags": ["夹克"],
+          "highlights": [
+            "飞行员版型",
+            "毛领",
+            "短款灵便"
+          ],
+          "tags": [
+            "夹克"
+          ],
           "image": null
         },
         {
@@ -634,10 +1170,21 @@
           "name": "HyBridge 轻量羽绒服",
           "nameEn": "HyBridge",
           "type": "轻量羽绒服",
-          "price": { "min": 5500, "max": 9000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 5500,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "弹性面料拼接羽绒的轻量系列,压缩收纳方便,适合秋冬城市与户外过渡穿着。",
-          "highlights": ["轻量弹性", "便携收纳", "城市户外"],
-          "tags": ["羽绒服"],
+          "highlights": [
+            "轻量弹性",
+            "便携收纳",
+            "城市户外"
+          ],
+          "tags": [
+            "羽绒服"
+          ],
           "image": null
         },
         {
@@ -645,10 +1192,21 @@
           "name": "Freestyle 马甲",
           "nameEn": "Freestyle Vest",
           "type": "马甲",
-          "price": { "min": 4000, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 4000,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "轻薄羽绒马甲,秋冬叠穿神器,男女同款配色丰富,与衬衫组成经典搭配。",
-          "highlights": ["叠穿神器", "轻薄羽绒", "男女同款"],
-          "tags": ["马甲"],
+          "highlights": [
+            "叠穿神器",
+            "轻薄羽绒",
+            "男女同款"
+          ],
+          "tags": [
+            "马甲"
+          ],
           "image": null
         },
         {
@@ -656,10 +1214,21 @@
           "name": "针织系列",
           "nameEn": "Knitwear",
           "type": "针织衫",
-          "price": { "min": 2500, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2500,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "羊毛抓绒与针织单品延续极简设计,胸前小徽标低调,适合作为冬季内搭。",
-          "highlights": ["羊毛抓绒", "低调徽标", "冬季内搭"],
-          "tags": ["针织衫"],
+          "highlights": [
+            "羊毛抓绒",
+            "低调徽标",
+            "冬季内搭"
+          ],
+          "tags": [
+            "针织衫"
+          ],
           "image": null
         }
       ]
@@ -674,7 +1243,12 @@
       "founded": 1941,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["皮革工艺", "轻奢手袋", "纽约"],
+      "sub": "轻奢",
+      "tags": [
+        "皮革工艺",
+        "轻奢手袋",
+        "纽约"
+      ],
       "slogan": "纽约经典,匠心皮具",
       "desc": "1941年创立于纽约的皮具世家,以棒球手套鞣制工艺起家,如今是轻奢手袋的代名词之一,Tabby 等热门包款让经典工艺焕发年轻活力,稳居轻奢皮具头部。",
       "story": "1941年六位工匠在纽约曼哈顿的阁楼车间创立 Coach,借用棒球手套的鞣制工艺制作皮件,以耐用扎实积累口碑,1962年起设计师邦尼·卡欣带来旋锁扣等经典设计。\n2010年代创意总监斯图尔特·维弗斯主导品牌年轻化,推出 Tabby、Rogue 等热门包款成功圈粉年轻一代;品牌现隶属 Tapestry 集团,是全球轻奢皮具的头部玩家。",
@@ -684,10 +1258,21 @@
           "name": "Tabby 手袋",
           "nameEn": "Tabby Bag",
           "type": "手袋",
-          "price": { "min": 3200, "max": 5200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3200,
+            "max": 5200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以1970年代档案为灵感的复古手袋,标志性 C 形旋锁点缀,枕头造型百搭时尚,是近年最热包款。",
-          "highlights": ["C形旋锁", "复古造型", "热门爆款"],
-          "tags": ["手袋"],
+          "highlights": [
+            "C形旋锁",
+            "复古造型",
+            "热门爆款"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -695,10 +1280,21 @@
           "name": "Willow 手袋",
           "nameEn": "Willow Bag",
           "type": "手袋",
-          "price": { "min": 3800, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3800,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "线条圆润柔和的肩背包,顶级皮革呈现复古光泽,一包多背,通勤与聚会都能胜任。",
-          "highlights": ["圆润线条", "多背法", "复古光泽"],
-          "tags": ["手袋"],
+          "highlights": [
+            "圆润线条",
+            "多背法",
+            "复古光泽"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -706,10 +1302,21 @@
           "name": "Rogue 手袋",
           "nameEn": "Rogue Bag",
           "type": "手袋",
-          "price": { "min": 4500, "max": 8000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 4500,
+            "max": 8000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "1941 工艺代表包款,结构立体、容量可观,拼接皮革充分展现品牌的制包功底。",
-          "highlights": ["立体结构", "大容量", "工艺考究"],
-          "tags": ["手袋"],
+          "highlights": [
+            "立体结构",
+            "大容量",
+            "工艺考究"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -717,10 +1324,21 @@
           "name": "托特包",
           "nameEn": "Tote",
           "type": "托特包",
-          "price": { "min": 2000, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "帆布与皮革结合的大容量托特,马车图案与老花托特常年畅销,上学通勤皆宜。",
-          "highlights": ["马车图案", "大容量", "通勤上学"],
-          "tags": ["托特包"],
+          "highlights": [
+            "马车图案",
+            "大容量",
+            "通勤上学"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -728,10 +1346,21 @@
           "name": "钱包与小皮具",
           "nameEn": "Wallets & Small Goods",
           "type": "小皮具",
-          "price": { "min": 800, "max": 2800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 800,
+            "max": 2800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "经典老花与皮革钱夹、卡包,做工精细价格适中,是品牌口碑最好的入门品类。",
-          "highlights": ["老花图案", "入门首选", "做工精细"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "老花图案",
+            "入门首选",
+            "做工精细"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -739,10 +1368,21 @@
           "name": "男士包袋",
           "nameEn": "Men's Bags",
           "type": "男包",
-          "price": { "min": 2500, "max": 7000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2500,
+            "max": 7000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "公文包、斜挎包与腰包兼具功能与质感,简约设计广受职场男士欢迎。",
-          "highlights": ["公文包", "斜挎腰包", "职场实用"],
-          "tags": ["男包"],
+          "highlights": [
+            "公文包",
+            "斜挎腰包",
+            "职场实用"
+          ],
+          "tags": [
+            "男包"
+          ],
           "image": null
         }
       ]
@@ -757,7 +1397,12 @@
       "founded": 1981,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["轻奢手袋", "美式都市", "Jet Set"],
+      "sub": "轻奢",
+      "tags": [
+        "轻奢手袋",
+        "美式都市",
+        "Jet Set"
+      ],
       "slogan": "Jet Set 都市风尚",
       "desc": "以 Jet Set 都市度假风著称的美国轻奢品牌,手袋与腕表设计时髦、价格友好,花押字印花包款曾是全球街拍符号,现隶属卡普里集团,门店遍布全球。",
       "story": "设计师迈克尔·科尔斯1981年在纽约创立同名品牌,以时髦易穿的美式都市风格起家,1997年至2003年还曾兼任思琳成衣设计总监,以极简华丽的设计气质闻名。\n品牌的手袋、腕表与配饰定位轻奢,Jet Set 托特与花押字图案在2000年代风靡全球;现属卡普里集团,产品线扩展至男女装与香水,是轻奢赛道的标志性品牌。",
@@ -767,10 +1412,21 @@
           "name": "Jet Set 托特包",
           "nameEn": "Jet Set Tote",
           "type": "托特包",
-          "price": { "min": 2000, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌标志性托特包,花押字印花与荔枝纹皮质版本众多,容量充足,通勤出差皆宜。",
-          "highlights": ["花押字印花", "大容量", "通勤出差"],
-          "tags": ["托特包"],
+          "highlights": [
+            "花押字印花",
+            "大容量",
+            "通勤出差"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -778,10 +1434,21 @@
           "name": "Hamilton 手袋",
           "nameEn": "Hamilton Bag",
           "type": "手袋",
-          "price": { "min": 2500, "max": 5000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2500,
+            "max": 5000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以金属圆牌锁扣闻名的经典手袋,方正廓形优雅干练,是品牌早年成名作之一。",
-          "highlights": ["金属圆牌锁扣", "方正廓形", "经典成名款"],
-          "tags": ["手袋"],
+          "highlights": [
+            "金属圆牌锁扣",
+            "方正廓形",
+            "经典成名款"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -789,10 +1456,21 @@
           "name": "小号斜挎包",
           "nameEn": "Crossbody",
           "type": "斜挎包",
-          "price": { "min": 1500, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "轻巧的链条与皮革斜挎包,满足日常轻装出门,花押字与纯色选择丰富。",
-          "highlights": ["链条设计", "轻巧便携", "选择丰富"],
-          "tags": ["斜挎包"],
+          "highlights": [
+            "链条设计",
+            "轻巧便携",
+            "选择丰富"
+          ],
+          "tags": [
+            "斜挎包"
+          ],
           "image": null
         },
         {
@@ -800,10 +1478,21 @@
           "name": "腕表",
           "nameEn": "Watches",
           "type": "腕表",
-          "price": { "min": 1200, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1200,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "水钻表圈与金属链带的时装表风格华丽,价格友好,曾是轻奢腕表的销量王。",
-          "highlights": ["水钻表圈", "金属链带", "时装表"],
-          "tags": ["腕表"],
+          "highlights": [
+            "水钻表圈",
+            "金属链带",
+            "时装表"
+          ],
+          "tags": [
+            "腕表"
+          ],
           "image": null
         },
         {
@@ -811,10 +1500,21 @@
           "name": "钱包与小皮具",
           "nameEn": "Wallets",
           "type": "小皮具",
-          "price": { "min": 600, "max": 1800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 1800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "花押字长款钱夹与卡包人气居高不下,自用送礼两相宜,是入门轻奢的第一步。",
-          "highlights": ["花押字", "人气卡包", "送礼常选"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "花押字",
+            "人气卡包",
+            "送礼常选"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -822,10 +1522,21 @@
           "name": "太阳镜",
           "nameEn": "Sunglasses",
           "type": "眼镜",
-          "price": { "min": 1000, "max": 2200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1000,
+            "max": 2200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大框设计配品牌标识镜腿,风格华丽时髦,与手袋腕表组成成套的都市造型。",
-          "highlights": ["大框设计", "标识镜腿", "都市风格"],
-          "tags": ["眼镜"],
+          "highlights": [
+            "大框设计",
+            "标识镜腿",
+            "都市风格"
+          ],
+          "tags": [
+            "眼镜"
+          ],
           "image": null
         }
       ]
@@ -840,7 +1551,12 @@
       "founded": 1993,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["俏皮", "彩色", "手袋"],
+      "sub": "轻奢",
+      "tags": [
+        "俏皮",
+        "彩色",
+        "手袋"
+      ],
       "slogan": "让日常充满快乐色彩",
       "desc": "1993年诞生于纽约的轻奢品牌,以明快色彩、俏皮图案与实用手袋著称,桃心与波点元素深入人心,让轻奢包袋变得鲜活有趣,深受都市年轻女性喜爱。",
       "story": "凯特·布罗斯纳汉1993年与丈夫在纽约创立 Kate Spade,早期以线条利落的手袋起家,经典的尼龙包与方正手提包一度人手一只,用色彩与幽默感改写了当时沉闷的手袋设计。\n品牌现隶属 Tapestry 集团,产品从手袋扩展到成衣、首饰与生活方式周边,桃心、圆点等俏皮符号延续至今,成为传递快乐美学的轻奢代表。",
@@ -850,10 +1566,21 @@
           "name": "经典手袋",
           "nameEn": "Handbags",
           "type": "手袋",
-          "price": { "min": 1800, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "Knott、Sam 等系列以流畅轮廓与精致五金取胜,桃心铆钉等彩蛋细节充满巧思。",
-          "highlights": ["Knott系列", "桃心细节", "流畅轮廓"],
-          "tags": ["手袋"],
+          "highlights": [
+            "Knott系列",
+            "桃心细节",
+            "流畅轮廓"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -861,10 +1588,21 @@
           "name": "托特包",
           "nameEn": "Totes",
           "type": "托特包",
-          "price": { "min": 1500, "max": 3200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 3200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大容量托特包印有品牌标语或彩绘图案,轻便能装,通勤上学的人气选择。",
-          "highlights": ["大容量", "印花图案", "人气通勤"],
-          "tags": ["托特包"],
+          "highlights": [
+            "大容量",
+            "印花图案",
+            "人气通勤"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -872,10 +1610,21 @@
           "name": "小皮具",
           "nameEn": "Small Leather Goods",
           "type": "小皮具",
-          "price": { "min": 600, "max": 1800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 1800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "钱夹、卡包色彩缤纷,点缀桃心与波点元素,实用性之余更添一份好心情。",
-          "highlights": ["桃心波点", "色彩缤纷", "好心情单品"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "桃心波点",
+            "色彩缤纷",
+            "好心情单品"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -883,10 +1632,21 @@
           "name": "服饰珠宝",
           "nameEn": "Jewelry",
           "type": "首饰",
-          "price": { "min": 400, "max": 1600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 400,
+            "max": 1600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以桃心、蝴蝶结等意象打造的耳环项链,价格亲民风格甜美,适合日常叠戴。",
-          "highlights": ["桃心蝴蝶结", "甜美风", "日常叠戴"],
-          "tags": ["首饰"],
+          "highlights": [
+            "桃心蝴蝶结",
+            "甜美风",
+            "日常叠戴"
+          ],
+          "tags": [
+            "首饰"
+          ],
           "image": null
         },
         {
@@ -894,10 +1654,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 400, "max": 900, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 400,
+            "max": 900,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "经典花香调香水以花果气息为主,瓶身设计延续俏皮风格,清新易穿。",
-          "highlights": ["花果香", "清新易穿", "俏皮瓶身"],
-          "tags": ["香水"],
+          "highlights": [
+            "花果香",
+            "清新易穿",
+            "俏皮瓶身"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -905,10 +1676,21 @@
           "name": "生活方式周边",
           "nameEn": "Home & Lifestyle",
           "type": "生活杂货",
-          "price": { "min": 150, "max": 1200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 150,
+            "max": 1200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "从文具、马克杯到手机壳,把彩色图案带进日常小物,是品牌趣味美学的延伸。",
-          "highlights": ["文具杂货", "趣味图案", "日常小物"],
-          "tags": ["生活杂货"],
+          "highlights": [
+            "文具杂货",
+            "趣味图案",
+            "日常小物"
+          ],
+          "tags": [
+            "生活杂货"
+          ],
           "image": null
         }
       ]
@@ -923,7 +1705,12 @@
       "founded": 2004,
       "hq": "纽约",
       "tier": "轻奢",
-      "tags": ["双T标识", "美式优雅", "波西米亚"],
+      "sub": "轻奢",
+      "tags": [
+        "双T标识",
+        "美式优雅",
+        "波西米亚"
+      ],
       "slogan": "美式优雅,自由波西米亚",
       "desc": "2004年诞生于纽约的轻奢品牌,以双 T 标识与复古波西米亚风格著称,芭蕾平底鞋与链条包是都市女性的通勤标配,兼具商业成功与社会影响力。",
       "story": "托里·伯奇2004年在纽约的公寓店铺起步,双 T 标识平底鞋与托特包一经推出便引发排队热潮,凭借口碑传播迅速扩张,成为轻奢领域的现象级品牌。\n品牌从手袋扩展至成衣、鞋履与香水,设计融合复古美式与波西米亚气质;创始人同名的基金会长期支持女性创业,如今门店遍布全球,是最成功的美式轻奢品牌之一。",
@@ -933,10 +1720,21 @@
           "name": "Kira 链条包",
           "nameEn": "Kira Bag",
           "type": "手袋",
-          "price": { "min": 3200, "max": 6500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3200,
+            "max": 6500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "双 T 标识扣搭配链条肩带,小牛皮质感细腻,晚宴与日常切换自如的人气包款。",
-          "highlights": ["双T标识扣", "链条肩带", "人气包款"],
-          "tags": ["手袋"],
+          "highlights": [
+            "双T标识扣",
+            "链条肩带",
+            "人气包款"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -944,10 +1742,21 @@
           "name": "Ella 托特包",
           "nameEn": "Ella Tote",
           "type": "托特包",
-          "price": { "min": 1200, "max": 2600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1200,
+            "max": 2600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "尼龙材质的大容量托特,轻便耐造、配色丰富,是入门品牌最热销的实用款。",
-          "highlights": ["尼龙轻便", "大容量", "热销入门款"],
-          "tags": ["托特包"],
+          "highlights": [
+            "尼龙轻便",
+            "大容量",
+            "热销入门款"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -955,10 +1764,21 @@
           "name": "Fleming 手袋",
           "nameEn": "Fleming Bag",
           "type": "手袋",
-          "price": { "min": 2800, "max": 5500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2800,
+            "max": 5500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "绗缝软皮配双 T 旋转锁扣,肩背手提皆宜,兼具复古与优雅的招牌系列。",
-          "highlights": ["绗缝软皮", "旋转锁扣", "复古优雅"],
-          "tags": ["手袋"],
+          "highlights": [
+            "绗缝软皮",
+            "旋转锁扣",
+            "复古优雅"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -966,10 +1786,21 @@
           "name": "Miller 平底凉鞋",
           "nameEn": "Miller Sandal",
           "type": "凉鞋",
-          "price": { "min": 1300, "max": 2600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1300,
+            "max": 2600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "双 T 金属标志点缀的平底凉鞋与芭蕾鞋,舒适百搭,一推出便成为爆款鞋履。",
-          "highlights": ["双T金属标", "平底舒适", "爆款鞋履"],
-          "tags": ["凉鞋"],
+          "highlights": [
+            "双T金属标",
+            "平底舒适",
+            "爆款鞋履"
+          ],
+          "tags": [
+            "凉鞋"
+          ],
           "image": null
         },
         {
@@ -977,10 +1808,21 @@
           "name": "首饰",
           "nameEn": "Jewelry",
           "type": "首饰",
-          "price": { "min": 800, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 800,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以双 T 标识、珍珠与仿旧金属打造的项链耳环,复古气质浓郁,可与包袋成套搭配。",
-          "highlights": ["双T标识", "复古金属", "成套搭配"],
-          "tags": ["首饰"],
+          "highlights": [
+            "双T标识",
+            "复古金属",
+            "成套搭配"
+          ],
+          "tags": [
+            "首饰"
+          ],
           "image": null
         },
         {
@@ -988,10 +1830,21 @@
           "name": "成衣系列",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 1500, "max": 8000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 1500,
+            "max": 8000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "连衣裙、针织与外套延续波西米亚与度假气质,色彩明快,主打优雅易穿。",
-          "highlights": ["波西米亚", "度假风", "优雅易穿"],
-          "tags": ["服装"],
+          "highlights": [
+            "波西米亚",
+            "度假风",
+            "优雅易穿"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         }
       ]
@@ -1006,7 +1859,12 @@
       "founded": 1948,
       "hq": "巴黎",
       "tier": "轻奢",
-      "tags": ["饺子包", "尼龙", "法式"],
+      "sub": "轻奢",
+      "tags": [
+        "饺子包",
+        "尼龙",
+        "法式"
+      ],
       "slogan": "轻便优雅,法式生活",
       "desc": "1948年创立的巴黎皮具世家,以可折叠的 Le Pliage 饺子包闻名全球,轻便实用与法式优雅兼备,从学生到明星都爱用,是通勤与旅行的好伙伴。",
       "story": "让·卡士格兰1948年在巴黎创立 Longchamp,早期制作奢华皮革小件,工艺口碑在名流圈迅速传开,品牌名源自巴黎著名的隆尚赛马场,家族企业至今已传至第二代。\n1993年推出的尼龙折叠包 Le Pliage 灵感来自折纸,全球累计销量以百万计,成为史上最畅销的包袋之一;如今产品线覆盖手袋、行李、成衣与配饰,法式轻便优雅深入人心。",
@@ -1016,10 +1874,21 @@
           "name": "Le Pliage 折叠包",
           "nameEn": "Le Pliage",
           "type": "折叠包",
-          "price": { "min": 700, "max": 1800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 1800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "标志性尼龙饺子包,折叠便携、轻若无物,从学生到明星人手一只的国民包袋。",
-          "highlights": ["尼龙折叠", "轻便耐用", "国民包袋"],
-          "tags": ["折叠包"],
+          "highlights": [
+            "尼龙折叠",
+            "轻便耐用",
+            "国民包袋"
+          ],
+          "tags": [
+            "折叠包"
+          ],
           "image": null
         },
         {
@@ -1027,10 +1896,21 @@
           "name": "Roseau 竹节手袋",
           "nameEn": "Roseau",
           "type": "手袋",
-          "price": { "min": 2800, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2800,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以竹节式锁扣闻名的皮革手袋,线条简洁优雅,是品牌正装气质的代表系列。",
-          "highlights": ["竹节锁扣", "简洁优雅", "正装气质"],
-          "tags": ["手袋"],
+          "highlights": [
+            "竹节锁扣",
+            "简洁优雅",
+            "正装气质"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1038,10 +1918,21 @@
           "name": "旅行袋与行李箱",
           "nameEn": "Travel",
           "type": "旅行箱",
-          "price": { "min": 1500, "max": 5000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 5000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "尼龙旅行袋与登机箱延续轻便基因,耐造抗造,长短途出行的经典装备。",
-          "highlights": ["轻便耐造", "登机尺寸", "出行装备"],
-          "tags": ["旅行箱"],
+          "highlights": [
+            "轻便耐造",
+            "登机尺寸",
+            "出行装备"
+          ],
+          "tags": [
+            "旅行箱"
+          ],
           "image": null
         },
         {
@@ -1049,10 +1940,21 @@
           "name": "小皮具",
           "nameEn": "Small Leather Goods",
           "type": "小皮具",
-          "price": { "min": 500, "max": 1800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 500,
+            "max": 1800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "钱夹、卡包与护照夹做工精致,部分款式缀以格纹刺绣,轻巧实用便于随身。",
-          "highlights": ["做工精致", "格纹点缀", "轻巧实用"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "做工精致",
+            "格纹点缀",
+            "轻巧实用"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -1060,10 +1962,21 @@
           "name": "Mademoiselle 手袋",
           "nameEn": "Mademoiselle",
           "type": "手袋",
-          "price": { "min": 3000, "max": 7000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 7000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "翻盖链条设计的优雅手袋,以精致皮革呈现法式淑女气质,适合正式场合。",
-          "highlights": ["翻盖链条", "法式淑女", "正式场合"],
-          "tags": ["手袋"],
+          "highlights": [
+            "翻盖链条",
+            "法式淑女",
+            "正式场合"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1071,10 +1984,21 @@
           "name": "成衣与配饰",
           "nameEn": "Ready-to-Wear & Accessories",
           "type": "服装",
-          "price": { "min": 1000, "max": 6000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 1000,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "从羊绒围巾到印花连衣裙,延续马术与巴黎血统,让品牌生活方式更加完整。",
-          "highlights": ["羊绒围巾", "马术血统", "法式印花"],
-          "tags": ["服装"],
+          "highlights": [
+            "羊绒围巾",
+            "马术血统",
+            "法式印花"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         }
       ]
@@ -1089,7 +2013,12 @@
       "founded": 1927,
       "hq": "米兰",
       "tier": "轻奢",
-      "tags": ["意大利皮具", "轻奢手袋", "色彩"],
+      "sub": "轻奢",
+      "tags": [
+        "意大利皮具",
+        "轻奢手袋",
+        "色彩"
+      ],
       "slogan": "意式色彩,轻享奢华",
       "desc": "1927年创立的意大利皮具品牌,以精良工艺与明快色彩著称,经典果冻包与1927系列广受欢迎,坚持意大利制造,是轻奢手袋中高性价比的代表。",
       "story": "阿尔多·福尔兰纳托1927年在博洛尼亚创立家族皮具生意,精湛工艺为品牌打下根基,1980年代正式推出自有品牌 FURLA。\n2011年 Candy 果冻包以彩色果冻质感风靡全球,让品牌声势达到顶峰;如今总部位于米兰,坚持意大利设计与制造,门店遍布全球各大都市,以轻盈设计和亲民定价稳居轻奢皮具前列。",
@@ -1099,10 +2028,21 @@
           "name": "1927 手袋",
           "nameEn": "Furla 1927",
           "type": "手袋",
-          "price": { "min": 2200, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2200,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以创立年份命名的招牌系列,拱形锁扣致敬历史档案,简洁百搭,通勤首选。",
-          "highlights": ["拱形锁扣", "致敬档案", "通勤首选"],
-          "tags": ["手袋"],
+          "highlights": [
+            "拱形锁扣",
+            "致敬档案",
+            "通勤首选"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1110,10 +2050,21 @@
           "name": "Metropolis 系列",
           "nameEn": "Metropolis",
           "type": "手袋",
-          "price": { "min": 1800, "max": 3500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 3500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "迷你贝壳形斜挎包,造型精致小巧,配色丰富,曾是街拍出镜率极高的爆款。",
-          "highlights": ["迷你贝壳形", "配色丰富", "街拍爆款"],
-          "tags": ["手袋"],
+          "highlights": [
+            "迷你贝壳形",
+            "配色丰富",
+            "街拍爆款"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1121,10 +2072,21 @@
           "name": "Candy 果冻包",
           "nameEn": "Candy Bag",
           "type": "果冻包",
-          "price": { "min": 1300, "max": 2600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1300,
+            "max": 2600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以果冻般透明橡胶材质打造的知名包款,糖果色彩与轻巧设计让它一度风靡全球。",
-          "highlights": ["果冻材质", "糖果色", "风靡全球"],
-          "tags": ["果冻包"],
+          "highlights": [
+            "果冻材质",
+            "糖果色",
+            "风靡全球"
+          ],
+          "tags": [
+            "果冻包"
+          ],
           "image": null
         },
         {
@@ -1132,10 +2094,21 @@
           "name": "Net 手袋",
           "nameEn": "Net Bag",
           "type": "手袋",
-          "price": { "min": 2500, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2500,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "立体网面设计的手袋系列,光影层次别致,搭配金属配件尽显意式俏皮。",
-          "highlights": ["立体网面", "光影层次", "意式俏皮"],
-          "tags": ["手袋"],
+          "highlights": [
+            "立体网面",
+            "光影层次",
+            "意式俏皮"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1143,10 +2116,21 @@
           "name": "钱包与小皮具",
           "nameEn": "Small Leather Goods",
           "type": "小皮具",
-          "price": { "min": 700, "max": 2000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 2000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "皮革钱夹与卡包延续品牌配色哲学,意大利工艺打底,价格亲民入门无压力。",
-          "highlights": ["意大利工艺", "配色明快", "亲民入门"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "意大利工艺",
+            "配色明快",
+            "亲民入门"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -1154,10 +2138,21 @@
           "name": "通勤托特包",
           "nameEn": "Tote",
           "type": "托特包",
-          "price": { "min": 2000, "max": 4000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 4000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大容量托特兼顾电脑收纳与日常造型,皮质挺括,是职场女性的实用之选。",
-          "highlights": ["电脑收纳", "皮质挺括", "职场实用"],
-          "tags": ["托特包"],
+          "highlights": [
+            "电脑收纳",
+            "皮质挺括",
+            "职场实用"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         }
       ]
@@ -1172,7 +2167,12 @@
       "founded": 1851,
       "hq": "卡斯兰诺",
       "tier": "高奢",
-      "tags": ["瑞士皮具", "鞋履", "条纹元素"],
+      "sub": "皮具",
+      "tags": [
+        "瑞士皮具",
+        "鞋履",
+        "条纹元素"
+      ],
       "slogan": "瑞士工艺,百年传承",
       "desc": "1851年创立的瑞士奢侈品牌,以精湛鞋履与皮具工艺闻名,红白条纹与 B 字标识低调经典,是最早实现制鞋工业化的高端品牌之一,如今总部位于卡斯兰诺。",
       "story": "卡尔·弗兰茨·巴利1851年在瑞士舍嫩韦尔德创立制鞋事业,率先引入机械化生产,以舒适耐穿的瑞士式工艺迅速打开名声,制鞋传统至今仍在延续。\n品牌后迁至卡斯兰诺,业务从鞋履扩展到皮具、成衣与配饰,红白条纹与 B 字扣成为标志性元素;如今延续极简摩登路线,男女鞋履与包袋是其核心品类,以百年工艺在现代奢侈品界占有一席之地。",
@@ -1182,10 +2182,21 @@
           "name": "乐福鞋",
           "nameEn": "Loafers",
           "type": "乐福鞋",
-          "price": { "min": 3800, "max": 7500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3800,
+            "max": 7500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌招牌鞋款,以柔软皮革与条纹细节著称,一脚蹬设计舒适百搭,男女款皆有。",
-          "highlights": ["条纹细节", "一脚蹬", "男女同款"],
-          "tags": ["乐福鞋"],
+          "highlights": [
+            "条纹细节",
+            "一脚蹬",
+            "男女同款"
+          ],
+          "tags": [
+            "乐福鞋"
+          ],
           "image": null
         },
         {
@@ -1193,10 +2204,21 @@
           "name": "正装皮鞋",
           "nameEn": "Dress Shoes",
           "type": "皮鞋",
-          "price": { "min": 4000, "max": 9000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 4000,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "德比鞋与牛津鞋采用意大利制革与缝制工艺,鞋楦舒适,商务正装的经典选择。",
-          "highlights": ["意大利制革", "舒适鞋楦", "商务经典"],
-          "tags": ["皮鞋"],
+          "highlights": [
+            "意大利制革",
+            "舒适鞋楦",
+            "商务经典"
+          ],
+          "tags": [
+            "皮鞋"
+          ],
           "image": null
         },
         {
@@ -1204,10 +2226,21 @@
           "name": "运动鞋",
           "nameEn": "Sneakers",
           "type": "运动鞋",
-          "price": { "min": 3000, "max": 6500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 6500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以 Helios 等系列为代表的休闲运动鞋,简洁造型缀以条纹织带,轻便日常。",
-          "highlights": ["Helios系列", "条纹织带", "轻便日常"],
-          "tags": ["运动鞋"],
+          "highlights": [
+            "Helios系列",
+            "条纹织带",
+            "轻便日常"
+          ],
+          "tags": [
+            "运动鞋"
+          ],
           "image": null
         },
         {
@@ -1215,10 +2248,21 @@
           "name": "手袋",
           "nameEn": "Handbags",
           "type": "手袋",
-          "price": { "min": 7000, "max": 20000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 7000,
+            "max": 20000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以利落线条与顶级皮革见长的包袋系列,低调中透着瑞士式的精致气质。",
-          "highlights": ["顶级皮革", "利落线条", "低调精致"],
-          "tags": ["手袋"],
+          "highlights": [
+            "顶级皮革",
+            "利落线条",
+            "低调精致"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1226,10 +2270,21 @@
           "name": "小皮具",
           "nameEn": "Small Leather Goods",
           "type": "小皮具",
-          "price": { "min": 1500, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "钱夹、腰带与卡片夹以 B 字五金点缀,做工扎实,是品牌口碑的入门单品。",
-          "highlights": ["B字五金", "做工扎实", "入门单品"],
-          "tags": ["小皮具"],
+          "highlights": [
+            "B字五金",
+            "做工扎实",
+            "入门单品"
+          ],
+          "tags": [
+            "小皮具"
+          ],
           "image": null
         },
         {
@@ -1237,10 +2292,21 @@
           "name": "成衣与配饰",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 2500, "max": 15000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 2500,
+            "max": 15000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "从大衣到针织衫延续极简摩登路线,丝巾围巾上的经典条纹尤具辨识度。",
-          "highlights": ["极简摩登", "经典条纹", "丝巾围巾"],
-          "tags": ["服装"],
+          "highlights": [
+            "极简摩登",
+            "经典条纹",
+            "丝巾围巾"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         }
       ]
@@ -1255,7 +2321,12 @@
       "founded": 1952,
       "hq": "巴黎",
       "tier": "高奢",
-      "tags": ["波西米亚", "法式浪漫", "女装"],
+      "sub": "成衣",
+      "tags": [
+        "波西米亚",
+        "法式浪漫",
+        "女装"
+      ],
       "slogan": "自由柔美的法式浪漫",
       "desc": "1952年创立于巴黎的法国时装屋,以柔美浪漫的波西米亚女装著称,开创高级成衣先河,小猪包与丝带香水让品牌为大众熟知,现隶属历峰集团。",
       "story": "加比·阿格依翁1952年在巴黎创立 Chloé,开创高级成衣的先河,为女性时装打开了新局面,卡尔·拉格斐等设计大师都曾在此执掌,柔美自由的波西米亚风格由此成为品牌底色。\n进入新世纪,Paddington 锁头包、Drew 小猪包与丝带香水接连成为现象级单品;品牌现隶属历峰集团,并率先在奢侈品界推进环保与社会责任实践。",
@@ -1265,10 +2336,21 @@
           "name": "Drew 小猪包",
           "nameEn": "Drew Bag",
           "type": "手袋",
-          "price": { "min": 12000, "max": 26000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 12000,
+            "max": 26000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "2014年推出的圆弧鞍形包,金属链条与拼接设计温婉可人,当年红极一时的 it bag。",
-          "highlights": ["圆弧鞍形", "金属链条", "现象级it bag"],
-          "tags": ["手袋"],
+          "highlights": [
+            "圆弧鞍形",
+            "金属链条",
+            "现象级it bag"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1276,10 +2358,21 @@
           "name": "Marcie 手袋",
           "nameEn": "Marcie Bag",
           "type": "手袋",
-          "price": { "min": 9000, "max": 18000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 9000,
+            "max": 18000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以复古马鞍缝线与圆弧翻盖著称的长青系列,皮质柔软,法式气质浓郁。",
-          "highlights": ["马鞍缝线", "圆弧翻盖", "长青系列"],
-          "tags": ["手袋"],
+          "highlights": [
+            "马鞍缝线",
+            "圆弧翻盖",
+            "长青系列"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1287,10 +2380,21 @@
           "name": "Faye 手袋",
           "nameEn": "Faye Bag",
           "type": "手袋",
-          "price": { "min": 9000, "max": 17000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 9000,
+            "max": 17000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "绒面与光面皮拼接、缀以圆形金属环,慵懒随性的设计让它成为街拍常客。",
-          "highlights": ["皮面拼接", "圆形金属环", "街拍常客"],
-          "tags": ["手袋"],
+          "highlights": [
+            "皮面拼接",
+            "圆形金属环",
+            "街拍常客"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1298,10 +2402,21 @@
           "name": "Woody 托特包",
           "nameEn": "Woody Tote",
           "type": "托特包",
-          "price": { "min": 3500, "max": 7000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3500,
+            "max": 7000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "帆布皮革拼接的宽松托特,刺绣标识低调慵懒,日常通勤容量充足。",
-          "highlights": ["帆布拼皮", "刺绣标识", "大容量"],
-          "tags": ["托特包"],
+          "highlights": [
+            "帆布拼皮",
+            "刺绣标识",
+            "大容量"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -1309,10 +2424,21 @@
           "name": "丝带香水",
           "nameEn": "Chloé Eau de Parfum",
           "type": "香水",
-          "price": { "min": 600, "max": 1500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 1500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "瓶颈系着丝带的经典女香,玫瑰与牡丹花香优雅柔和,是入门女香的常年畅销款。",
-          "highlights": ["丝带瓶身", "玫瑰花香", "畅销女香"],
-          "tags": ["香水"],
+          "highlights": [
+            "丝带瓶身",
+            "玫瑰花香",
+            "畅销女香"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -1320,10 +2446,21 @@
           "name": "女装成衣",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 6000, "max": 30000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 6000,
+            "max": 30000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "飘逸连衣裙、蕾丝衬衫与阔腿裤演绎法式浪漫,面料轻软,尽显波西米亚气质。",
-          "highlights": ["飘逸连衣裙", "蕾丝衬衫", "波西米亚"],
-          "tags": ["服装"],
+          "highlights": [
+            "飘逸连衣裙",
+            "蕾丝衬衫",
+            "波西米亚"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         }
       ]
@@ -1338,7 +2475,12 @@
       "founded": 1992,
       "hq": "伦敦",
       "tier": "高奢",
-      "tags": ["暗黑先锋", "戏剧化", "英伦剪裁"],
+      "sub": "设计师",
+      "tags": [
+        "暗黑先锋",
+        "戏剧化",
+        "英伦剪裁"
+      ],
       "slogan": "暗黑与浪漫并存的先锋力量",
       "desc": "以暗黑浪漫与戏剧化秀场闻名的英国时装屋,突破性的剪裁与骷髅、花卉意象成就独特美学,厚底运动鞋与骷髅丝巾是人气单品,如今隶属开云集团。",
       "story": "亚历山大·麦昆1992年毕业于伦敦中央圣马丁后创立同名品牌,戏剧张力十足的秀场与挑战传统的剪裁令他被誉为时装界坏孩子,低腰裤等设计轰动一时。\n2010年创始人骤然离世,继任创意总监延续其美学遗产,凯特王妃的婚纱亦出自品牌之手;如今品牌隶属开云集团,以鞋履、手袋与成衣线持续扩张,仍是英伦先锋时装的旗帜。",
@@ -1348,10 +2490,21 @@
           "name": "Oversized 运动鞋",
           "nameEn": "Oversized Sneaker",
           "type": "运动鞋",
-          "price": { "min": 3500, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3500,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大圆头厚底小白鞋,夸张比例与后跟标识独树一帜,是时装运动鞋的代表作。",
-          "highlights": ["大圆头", "厚底增高", "时装运动鞋"],
-          "tags": ["运动鞋"],
+          "highlights": [
+            "大圆头",
+            "厚底增高",
+            "时装运动鞋"
+          ],
+          "tags": [
+            "运动鞋"
+          ],
           "image": null
         },
         {
@@ -1359,10 +2512,21 @@
           "name": "Tread Slick 系带靴",
           "nameEn": "Tread Slick",
           "type": "靴子",
-          "price": { "min": 5500, "max": 9000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 5500,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "超大锯齿底搭配系带鞋面,夸张轮廓极具存在感,延续品牌的先锋街头气质。",
-          "highlights": ["超大锯齿底", "夸张轮廓", "先锋街头"],
-          "tags": ["靴子"],
+          "highlights": [
+            "超大锯齿底",
+            "夸张轮廓",
+            "先锋街头"
+          ],
+          "tags": [
+            "靴子"
+          ],
           "image": null
         },
         {
@@ -1370,10 +2534,21 @@
           "name": "Knuckle 手拿包",
           "nameEn": "Knuckle Clutch",
           "type": "手拿包",
-          "price": { "min": 7000, "max": 16000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 7000,
+            "max": 16000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以指环五金为标志的晚宴手包,骷髅与宝石细节奢华暗黑,是红毯经典。",
-          "highlights": ["指环五金", "骷髅细节", "红毯经典"],
-          "tags": ["手拿包"],
+          "highlights": [
+            "指环五金",
+            "骷髅细节",
+            "红毯经典"
+          ],
+          "tags": [
+            "手拿包"
+          ],
           "image": null
         },
         {
@@ -1381,10 +2556,21 @@
           "name": "骷髅丝巾",
           "nameEn": "Skull Scarf",
           "type": "丝巾",
-          "price": { "min": 1500, "max": 3200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 3200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "丝质方巾上重复的骷髅印花是品牌符号,轻巧百搭,是入门首选的配饰单品。",
-          "highlights": ["骷髅印花", "丝质方巾", "入门配饰"],
-          "tags": ["丝巾"],
+          "highlights": [
+            "骷髅印花",
+            "丝质方巾",
+            "入门配饰"
+          ],
+          "tags": [
+            "丝巾"
+          ],
           "image": null
         },
         {
@@ -1392,10 +2578,21 @@
           "name": "剪裁西装",
           "nameEn": "Tailoring",
           "type": "西装",
-          "price": { "min": 12000, "max": 35000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 12000,
+            "max": 35000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "传承萨维尔街的英式剪裁功力,收腰廓形与戏剧细节兼具,红毯与秀场常客。",
-          "highlights": ["英式剪裁", "收腰廓形", "秀场常客"],
-          "tags": ["西装"],
+          "highlights": [
+            "英式剪裁",
+            "收腰廓形",
+            "秀场常客"
+          ],
+          "tags": [
+            "西装"
+          ],
           "image": null
         },
         {
@@ -1403,10 +2600,21 @@
           "name": "皮衣与外套",
           "nameEn": "Jackets & Outerwear",
           "type": "外套",
-          "price": { "min": 9000, "max": 25000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 9000,
+            "max": 25000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "机车皮衣、刺绣飞行夹克暗藏品牌意象,做工凌厉,是暗黑衣橱的核心单品。",
-          "highlights": ["机车皮衣", "刺绣细节", "暗黑衣橱"],
-          "tags": ["外套"],
+          "highlights": [
+            "机车皮衣",
+            "刺绣细节",
+            "暗黑衣橱"
+          ],
+          "tags": [
+            "外套"
+          ],
           "image": null
         }
       ]
@@ -1421,7 +2629,12 @@
       "founded": 2001,
       "hq": "伦敦",
       "tier": "高奢",
-      "tags": ["可持续", "零皮草", "环保时尚"],
+      "sub": "设计师",
+      "tags": [
+        "可持续",
+        "零皮草",
+        "环保时尚"
+      ],
       "slogan": "时尚可以不牺牲环境",
       "desc": "2001年创立的英国时装品牌,坚持不使用皮草与皮革,以环保理念结合摩登设计,链条包与利落西服广受欢迎,是可持续奢侈时装的开创者与标杆。",
       "story": "披头士成员保罗·麦卡特尼之女斯特拉,曾出任蔻依创意总监,2001年在古驰集团支持下创立同名品牌,从创立之初便坚持零皮草、零皮革,把素食主义带入奢侈品行业。\n品牌以 Falabella 链条包与利落剪裁闻名,持续探索菌丝皮革与再生面料,跨界合作不断,被视为可持续时尚的行业标杆;近年品牌走向独立经营,环保使命依旧如一。",
@@ -1431,10 +2644,21 @@
           "name": "Falabella 链条包",
           "nameEn": "Falabella Bag",
           "type": "手袋",
-          "price": { "min": 6000, "max": 12000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 6000,
+            "max": 12000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以粗链条与仿麂皮材质打造的招牌包,无皮革却质感十足,是环保奢侈的经典符号。",
-          "highlights": ["粗链条", "仿麂皮", "环保符号"],
-          "tags": ["手袋"],
+          "highlights": [
+            "粗链条",
+            "仿麂皮",
+            "环保符号"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1442,10 +2666,21 @@
           "name": "Logo 帆布托特",
           "nameEn": "Logo Tote",
           "type": "托特包",
-          "price": { "min": 3000, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "印有品牌字样的环保帆布托特,轻便大容量,日常通勤与出街皆宜。",
-          "highlights": ["环保帆布", "大容量", "轻便实用"],
-          "tags": ["托特包"],
+          "highlights": [
+            "环保帆布",
+            "大容量",
+            "轻便实用"
+          ],
+          "tags": [
+            "托特包"
+          ],
           "image": null
         },
         {
@@ -1453,10 +2688,21 @@
           "name": "运动鞋",
           "nameEn": "Sneakers",
           "type": "运动鞋",
-          "price": { "min": 3000, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "采用植物基与再生材料制成的运动鞋,厚底造型时髦,兼顾环保与设计感。",
-          "highlights": ["植物基材料", "再生材质", "厚底时髦"],
-          "tags": ["运动鞋"],
+          "highlights": [
+            "植物基材料",
+            "再生材质",
+            "厚底时髦"
+          ],
+          "tags": [
+            "运动鞋"
+          ],
           "image": null
         },
         {
@@ -1464,10 +2710,21 @@
           "name": "连衣裙",
           "nameEn": "Dresses",
           "type": "连衣裙",
-          "price": { "min": 5000, "max": 18000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 5000,
+            "max": 18000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "从礼服到日常裙装,以雕塑感剪裁与女性化细节见长,红毯环保造型首选。",
-          "highlights": ["雕塑剪裁", "红毯礼服", "女性化细节"],
-          "tags": ["连衣裙"],
+          "highlights": [
+            "雕塑剪裁",
+            "红毯礼服",
+            "女性化细节"
+          ],
+          "tags": [
+            "连衣裙"
+          ],
           "image": null
         },
         {
@@ -1475,10 +2732,21 @@
           "name": "针织衫",
           "nameEn": "Knitwear",
           "type": "针织衫",
-          "price": { "min": 3500, "max": 9000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3500,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "有机棉与再生纤维针织,趣味图案与经典款并存,摩登又可持续。",
-          "highlights": ["有机棉", "再生纤维", "趣味图案"],
-          "tags": ["针织衫"],
+          "highlights": [
+            "有机棉",
+            "再生纤维",
+            "趣味图案"
+          ],
+          "tags": [
+            "针织衫"
+          ],
           "image": null
         },
         {
@@ -1486,10 +2754,21 @@
           "name": "太阳镜",
           "nameEn": "Eyewear",
           "type": "眼镜",
-          "price": { "min": 1800, "max": 3200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 3200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "采用生物基醋酸纤维的镜架,复古造型搭配环保理念,低调且具辨识度。",
-          "highlights": ["生物基材料", "复古造型", "环保理念"],
-          "tags": ["眼镜"],
+          "highlights": [
+            "生物基材料",
+            "复古造型",
+            "环保理念"
+          ],
+          "tags": [
+            "眼镜"
+          ],
           "image": null
         }
       ]
@@ -1504,7 +2783,12 @@
       "founded": 1971,
       "hq": "伦敦",
       "tier": "轻奢",
-      "tags": ["土星", "朋克教母", "先锋"],
+      "sub": "设计师",
+      "tags": [
+        "土星",
+        "朋克教母",
+        "先锋"
+      ],
       "slogan": "买少选好,态度至上",
       "desc": "由朋克教母薇薇安·韦斯特伍德创立的英国品牌,土星 Orb 标志的首饰风靡全球,设计融合朋克精神、英式传统与环保主张,是态度时装的代名词。",
       "story": "薇薇安·韦斯特伍德1971年起在伦敦国王路开设店铺,与马尔科姆·麦克拉伦共同掀起朋克时尚革命,撕破、别针与大胆剪裁惊世骇俗,改写了英伦时尚的面貌。\n她后来把英式格纹与复古剪裁带入高级时装,土星标志自1980年代沿用至今;2022年创始人离世后,品牌延续其「买少、选好、用久」的理念,首饰与包袋持续热销。",
@@ -1514,10 +2798,21 @@
           "name": "土星项链",
           "nameEn": "Orb Necklace",
           "type": "项链",
-          "price": { "min": 700, "max": 2500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 700,
+            "max": 2500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "三维土星造型的小巧吊坠,金属与仿珍珠组合,是品牌最具辨识度的招牌首饰。",
-          "highlights": ["土星造型", "仿珍珠", "招牌首饰"],
-          "tags": ["项链"],
+          "highlights": [
+            "土星造型",
+            "仿珍珠",
+            "招牌首饰"
+          ],
+          "tags": [
+            "项链"
+          ],
           "image": null
         },
         {
@@ -1525,10 +2820,21 @@
           "name": "土星耳饰",
           "nameEn": "Orb Earrings",
           "type": "耳饰",
-          "price": { "min": 600, "max": 2200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 600,
+            "max": 2200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "土星元素的耳钉与耳坠,大小与配色选择丰富,日常与派对都好搭配。",
-          "highlights": ["土星元素", "选择丰富", "百搭"],
-          "tags": ["耳饰"],
+          "highlights": [
+            "土星元素",
+            "选择丰富",
+            "百搭"
+          ],
+          "tags": [
+            "耳饰"
+          ],
           "image": null
         },
         {
@@ -1536,10 +2842,21 @@
           "name": "珍珠颈链",
           "nameEn": "Pearl Choker",
           "type": "颈链",
-          "price": { "min": 900, "max": 2600, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2600,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "复古宫廷风珍珠颈链,缀以土星吊坠,近年随千禧风潮重新翻红。",
-          "highlights": ["宫廷风", "土星吊坠", "千禧回潮"],
-          "tags": ["颈链"],
+          "highlights": [
+            "宫廷风",
+            "土星吊坠",
+            "千禧回潮"
+          ],
+          "tags": [
+            "颈链"
+          ],
           "image": null
         },
         {
@@ -1547,10 +2864,21 @@
           "name": "印花T恤",
           "nameEn": "T-shirts",
           "type": "T恤",
-          "price": { "min": 900, "max": 2200, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2200,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "印有品牌手写签名或土星图案的基础T恤,棉质舒适,是入门品牌的热门单品。",
-          "highlights": ["手写签名", "土星印花", "热门入门"],
-          "tags": ["T恤"],
+          "highlights": [
+            "手写签名",
+            "土星印花",
+            "热门入门"
+          ],
+          "tags": [
+            "T恤"
+          ],
           "image": null
         },
         {
@@ -1558,10 +2886,21 @@
           "name": "手袋",
           "nameEn": "Bags",
           "type": "手袋",
-          "price": { "min": 1500, "max": 4500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1500,
+            "max": 4500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "格纹与土星锁扣的小方包、斜挎包人气居高不下,复古造型兼具趣味。",
-          "highlights": ["土星锁扣", "格纹元素", "人气小包"],
-          "tags": ["手袋"],
+          "highlights": [
+            "土星锁扣",
+            "格纹元素",
+            "人气小包"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1569,10 +2908,21 @@
           "name": "围巾丝巾",
           "nameEn": "Scarves",
           "type": "围巾",
-          "price": { "min": 900, "max": 2800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "格纹与印花丝巾延续英伦血脉,土星细节点缀,是秋冬搭配的调色单品。",
-          "highlights": ["英伦格纹", "土星点缀", "搭配调色"],
-          "tags": ["围巾"],
+          "highlights": [
+            "英伦格纹",
+            "土星点缀",
+            "搭配调色"
+          ],
+          "tags": [
+            "围巾"
+          ],
           "image": null
         }
       ]
@@ -1587,7 +2937,12 @@
       "founded": 1983,
       "hq": "米兰",
       "tier": "轻奢",
-      "tags": ["幽默", "泰迪熊", "印花"],
+      "sub": "设计师",
+      "tags": [
+        "幽默",
+        "泰迪熊",
+        "印花"
+      ],
       "slogan": "认真地把时装变有趣",
       "desc": "以幽默戏谑著称的意大利时装屋,泰迪熊图案与讽刺印花是招牌,把时装的严肃规则变成趣味游戏,T恤、包袋与香水广受欢迎,深受年轻世代喜爱。",
       "story": "弗朗哥·莫斯奇诺1983年在米兰创立品牌,以反讽高级时装的幽默设计迅速成名,让幽默成为奢侈品的另一种语言,被称作时装圈的顽童。\n2013年杰里米·斯科特入主后,泰迪熊与玩具元素引爆社交网络;品牌现隶属意大利 Aeffe 集团,旗下还有更亲民的 Moschino Love 副线,门店遍布全球。",
@@ -1597,10 +2952,21 @@
           "name": "泰迪熊T恤",
           "nameEn": "Teddy T-shirt",
           "type": "T恤",
-          "price": { "min": 1300, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1300,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "戴墨镜的泰迪熊印花T恤是品牌最强符号,男女同款,趣味与时尚兼备。",
-          "highlights": ["泰迪熊印花", "品牌符号", "男女同款"],
-          "tags": ["T恤"],
+          "highlights": [
+            "泰迪熊印花",
+            "品牌符号",
+            "男女同款"
+          ],
+          "tags": [
+            "T恤"
+          ],
           "image": null
         },
         {
@@ -1608,10 +2974,21 @@
           "name": "泰迪熊手袋",
           "nameEn": "Teddy Bag",
           "type": "手袋",
-          "price": { "min": 3000, "max": 6500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 6500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以熊掌形状与熊头装饰打造的包袋,毛绒或皮质版本都极具话题度,吸睛利器。",
-          "highlights": ["熊头装饰", "毛绒质感", "话题单品"],
-          "tags": ["手袋"],
+          "highlights": [
+            "熊头装饰",
+            "毛绒质感",
+            "话题单品"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1619,10 +2996,21 @@
           "name": "Toy 2 香水",
           "nameEn": "Toy 2",
           "type": "香水",
-          "price": { "min": 500, "max": 1100, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 500,
+            "max": 1100,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "小熊造型瓶身的明星香水,白花与麝香气息干净温柔,颜值与香气兼备。",
-          "highlights": ["小熊瓶身", "白花麝香", "明星香"],
-          "tags": ["香水"],
+          "highlights": [
+            "小熊瓶身",
+            "白花麝香",
+            "明星香"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -1630,10 +3018,21 @@
           "name": "卫衣",
           "nameEn": "Sweatshirts",
           "type": "卫衣",
-          "price": { "min": 1800, "max": 4000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1800,
+            "max": 4000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "大面积标语与玩偶印花的连帽卫衣,街头感十足,副线 Moschino Love 更为亲民。",
-          "highlights": ["标语印花", "街头感", "亲民副线"],
-          "tags": ["卫衣"],
+          "highlights": [
+            "标语印花",
+            "街头感",
+            "亲民副线"
+          ],
+          "tags": [
+            "卫衣"
+          ],
           "image": null
         },
         {
@@ -1641,10 +3040,21 @@
           "name": "连衣裙",
           "nameEn": "Dresses",
           "type": "连衣裙",
-          "price": { "min": 2500, "max": 8000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 2500,
+            "max": 8000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "印花与廓形设计充满戏剧感,从派对裙到日常裙都带着品牌式幽默,辨识度极高。",
-          "highlights": ["戏剧感", "派对裙", "高辨识度"],
-          "tags": ["连衣裙"],
+          "highlights": [
+            "戏剧感",
+            "派对裙",
+            "高辨识度"
+          ],
+          "tags": [
+            "连衣裙"
+          ],
           "image": null
         },
         {
@@ -1652,10 +3062,21 @@
           "name": "配饰与周边",
           "nameEn": "Accessories",
           "type": "配饰",
-          "price": { "min": 800, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 800,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "墨镜、丝巾与手机壳延续趣味设计,细节处藏着品牌幽默,适合混搭点睛。",
-          "highlights": ["趣味设计", "墨镜丝巾", "混搭点睛"],
-          "tags": ["配饰"],
+          "highlights": [
+            "趣味设计",
+            "墨镜丝巾",
+            "混搭点睛"
+          ],
+          "tags": [
+            "配饰"
+          ],
           "image": null
         }
       ]
@@ -1670,7 +3091,12 @@
       "founded": 1970,
       "hq": "佛罗伦萨",
       "tier": "高奢",
-      "tags": ["豹纹", "狂野印花", "意式性感"],
+      "sub": "设计师",
+      "tags": [
+        "豹纹",
+        "狂野印花",
+        "意式性感"
+      ],
       "slogan": "狂野性感的意式奢华",
       "desc": "意大利狂野美学的代表品牌,以豹纹、动物印花与性感剪裁闻名,2000年代风靡红毯与夜店,香水与眼镜线同样畅销,是意式奢华的极致表达。",
       "story": "罗伯特·卡沃利1970年在佛罗伦萨创立同名品牌,凭借在皮革与丹宁面料上印花的技术革新立足时装圈,野性豹纹与动物纹样从此成为品牌图腾。\n2000年代其性感狂放的风格红遍全球,香水、眼镜与家居线有声有色;创始人2020年离世后品牌历经重组,如今在男女装与配饰领域持续发展,继续以华丽印花诠释意式浪漫的狂想。",
@@ -1680,10 +3106,21 @@
           "name": "豹纹连衣裙",
           "nameEn": "Leopard Dress",
           "type": "连衣裙",
-          "price": { "min": 5000, "max": 18000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 5000,
+            "max": 18000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "品牌图腾级的豹纹印花裙,剪裁贴身勾勒曲线,是红毯与派对的名场面战袍。",
-          "highlights": ["豹纹图腾", "贴身剪裁", "派对战袍"],
-          "tags": ["连衣裙"],
+          "highlights": [
+            "豹纹图腾",
+            "贴身剪裁",
+            "派对战袍"
+          ],
+          "tags": [
+            "连衣裙"
+          ],
           "image": null
         },
         {
@@ -1691,10 +3128,21 @@
           "name": "牛仔裤",
           "nameEn": "Denim",
           "type": "牛仔裤",
-          "price": { "min": 2000, "max": 5500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2000,
+            "max": 5500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "曾在丹宁上印花开创先河,刺绣与破坏处理的牛仔裤是2000年代的潮流记忆。",
-          "highlights": ["丹宁印花", "刺绣处理", "潮流记忆"],
-          "tags": ["牛仔裤"],
+          "highlights": [
+            "丹宁印花",
+            "刺绣处理",
+            "潮流记忆"
+          ],
+          "tags": [
+            "牛仔裤"
+          ],
           "image": null
         },
         {
@@ -1702,10 +3150,21 @@
           "name": "手袋",
           "nameEn": "Handbags",
           "type": "手袋",
-          "price": { "min": 3500, "max": 10000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3500,
+            "max": 10000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以动物纹压花与金属装饰为特色的包袋,狂野中带着华丽,出街极具存在感。",
-          "highlights": ["动物纹压花", "金属装饰", "高辨识度"],
-          "tags": ["手袋"],
+          "highlights": [
+            "动物纹压花",
+            "金属装饰",
+            "高辨识度"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1713,10 +3172,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 350, "max": 1000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 350,
+            "max": 1000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "同名女香与 Paradiso 系列以浓郁花果香著称,豹纹瓶身华丽,是性感气息的写照。",
-          "highlights": ["浓郁花香", "豹纹瓶身", "性感气息"],
-          "tags": ["香水"],
+          "highlights": [
+            "浓郁花香",
+            "豹纹瓶身",
+            "性感气息"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         },
         {
@@ -1724,10 +3194,21 @@
           "name": "太阳镜",
           "nameEn": "Sunglasses",
           "type": "眼镜",
-          "price": { "min": 1200, "max": 3000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1200,
+            "max": 3000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "华丽镜腿与动物元素装饰的眼镜线,风格张扬,与成衣一脉相承。",
-          "highlights": ["华丽镜腿", "动物元素", "张扬风格"],
-          "tags": ["眼镜"],
+          "highlights": [
+            "华丽镜腿",
+            "动物元素",
+            "张扬风格"
+          ],
+          "tags": [
+            "眼镜"
+          ],
           "image": null
         },
         {
@@ -1735,10 +3216,21 @@
           "name": "男士成衣",
           "nameEn": "Menswear",
           "type": "男装成衣",
-          "price": { "min": 2000, "max": 9000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 2000,
+            "max": 9000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "修身衬衫、皮夹克与西服释放意式雄性魅力,刺绣细节张扬又不失精致。",
-          "highlights": ["修身剪裁", "刺绣细节", "意式魅力"],
-          "tags": ["男装"],
+          "highlights": [
+            "修身剪裁",
+            "刺绣细节",
+            "意式魅力"
+          ],
+          "tags": [
+            "男装"
+          ],
           "image": null
         }
       ]
@@ -1753,7 +3245,12 @@
       "founded": 1968,
       "hq": "米兰",
       "tier": "高奢",
-      "tags": ["佩斯利", "腰果花", "印花工艺"],
+      "sub": "成衣",
+      "tags": [
+        "佩斯利",
+        "腰果花",
+        "印花工艺"
+      ],
       "slogan": "游牧色彩,印花艺术",
       "desc": "以佩斯利腰果花图案闻名世界的米兰时装屋,把游牧民族的印花织进羊绒与真丝,色彩繁复华丽、工艺精湛,被誉为印花艺术的代名词,家族经营至今。",
       "story": "吉尔莫·埃特罗1968年在米兰创立 ETRO,以高级纺织面料起家,1980年代起将游牧气息的佩斯利腰果花纹样带上秀场,打开了一扇通往东方的时尚之窗,自此成为品牌无可替代的符号。\n品牌的印花、刺绣与提花工艺登峰造极,产品覆盖男女装、皮具、家居与香水;近年国际资本入股后家族仍主导创意,持续书写色彩与织物的浪漫史诗。",
@@ -1763,10 +3260,21 @@
           "name": "佩斯利印花衬衫",
           "nameEn": "Paisley Shirt",
           "type": "衬衫",
-          "price": { "min": 3000, "max": 8000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 3000,
+            "max": 8000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "腰果花图案的真丝与棉质衬衫,色彩繁复却不失章法,是品牌最典型的单品。",
-          "highlights": ["腰果花纹", "真丝棉质", "品牌符号"],
-          "tags": ["衬衫"],
+          "highlights": [
+            "腰果花纹",
+            "真丝棉质",
+            "品牌符号"
+          ],
+          "tags": [
+            "衬衫"
+          ],
           "image": null
         },
         {
@@ -1774,10 +3282,21 @@
           "name": "羊绒围巾",
           "nameEn": "Cashmere Scarves",
           "type": "围巾",
-          "price": { "min": 2500, "max": 6000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 2500,
+            "max": 6000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "精纺羊绒印花围巾,纹样繁花似锦,触感细腻,冬季佩戴即成造型焦点。",
-          "highlights": ["精纺羊绒", "繁花纹样", "造型焦点"],
-          "tags": ["围巾"],
+          "highlights": [
+            "精纺羊绒",
+            "繁花纹样",
+            "造型焦点"
+          ],
+          "tags": [
+            "围巾"
+          ],
           "image": null
         },
         {
@@ -1785,10 +3304,21 @@
           "name": "真丝领带",
           "nameEn": "Silk Ties",
           "type": "领带",
-          "price": { "min": 1200, "max": 2800, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 1200,
+            "max": 2800,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "品牌起家看家的领带工艺,真丝印花精致考究,是商务绅士的心头好。",
-          "highlights": ["看家工艺", "真丝印花", "绅士之选"],
-          "tags": ["领带"],
+          "highlights": [
+            "看家工艺",
+            "真丝印花",
+            "绅士之选"
+          ],
+          "tags": [
+            "领带"
+          ],
           "image": null
         },
         {
@@ -1796,10 +3326,21 @@
           "name": "手袋",
           "nameEn": "Handbags",
           "type": "手袋",
-          "price": { "min": 7000, "max": 20000, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 7000,
+            "max": 20000,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "Love Trotter 等系列把经典纹样融入包身,皮革拼接与刺绣细节尽显意式奢华。",
-          "highlights": ["Love Trotter", "皮革拼接", "刺绣细节"],
-          "tags": ["手袋"],
+          "highlights": [
+            "Love Trotter",
+            "皮革拼接",
+            "刺绣细节"
+          ],
+          "tags": [
+            "手袋"
+          ],
           "image": null
         },
         {
@@ -1807,10 +3348,21 @@
           "name": "成衣系列",
           "nameEn": "Ready-to-Wear",
           "type": "服装",
-          "price": { "min": 4000, "max": 25000, "currency": "CNY", "label": "专柜参考价" },
+          "price": {
+            "min": 4000,
+            "max": 25000,
+            "currency": "CNY",
+            "label": "专柜参考价"
+          },
           "desc": "提花外套、印花长裙与波西米亚廓形,浓烈色彩中透着游牧式的浪漫优雅。",
-          "highlights": ["提花外套", "波西米亚", "游牧浪漫"],
-          "tags": ["服装"],
+          "highlights": [
+            "提花外套",
+            "波西米亚",
+            "游牧浪漫"
+          ],
+          "tags": [
+            "服装"
+          ],
           "image": null
         },
         {
@@ -1818,10 +3370,21 @@
           "name": "香水",
           "nameEn": "Fragrance",
           "type": "香水",
-          "price": { "min": 900, "max": 2500, "currency": "CNY", "label": "官网参考价" },
+          "price": {
+            "min": 900,
+            "max": 2500,
+            "currency": "CNY",
+            "label": "官网参考价"
+          },
           "desc": "以香料之路为灵感的香氛系列,东方式辛香与木质调浓郁迷人,瓶身延续佩斯利纹样。",
-          "highlights": ["香料之路", "东方辛香", "佩斯利瓶身"],
-          "tags": ["香水"],
+          "highlights": [
+            "香料之路",
+            "东方辛香",
+            "佩斯利瓶身"
+          ],
+          "tags": [
+            "香水"
+          ],
           "image": null
         }
       ]
