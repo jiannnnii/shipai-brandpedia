@@ -128,6 +128,9 @@ function prodCard(p, masonry = false) {
     <button class="card-fav ${isFav('p:' + p.id) ? 'fav-on' : ''}" data-act="fav" data-ref="p:${esc(p.id)}" aria-label="收藏">${icons[isFav('p:' + p.id) ? 'starFill' : 'star']}</button>
     <div class="prod-media" style="--c:${color}">
       <span class="pm-icon">${icons[iconForType(p.type, b.categoryId)]}</span>
+      ${store.prefs.onlineImg && p.image
+        ? `<img src="${esc(p.image)}" loading="lazy" alt="${esc(p.name)}" onerror="this.remove()">`
+        : ''}
     </div>
     <div class="prod-body">
       <div class="prod-brand">${esc(b.name || '')}</div>

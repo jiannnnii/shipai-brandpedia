@@ -16,7 +16,7 @@ export const store = {
     theme: 'auto',        // auto | light | dark
     apiKey: '',
     model: 'glm-4.5-flash',
-    remoteUrl: 'https://raw.githubusercontent.com/jiannnnii/shipai-brandpedia/master/data/index.json',
+    remoteUrl: 'https://cdn.jsdelivr.net/gh/jiannnnii/shipai-brandpedia@master/data/index.json',
     onlineImg: true,
   }, read('prefs', {})),
 };

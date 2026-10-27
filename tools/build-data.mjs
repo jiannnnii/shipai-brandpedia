@@ -3,7 +3,7 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync, statSy
 import { join } from 'node:path';
 
 const SRC = 'data/src';
-const IMG_REMOTE = 'https://raw.githubusercontent.com/jiannnnii/shipai-brandpedia/master/data/img';
+const IMG_REMOTE = 'https://cdn.jsdelivr.net/gh/jiannnnii/shipai-brandpedia@master/data/img';
 const categories = JSON.parse(readFileSync(join(SRC, 'categories.json'), 'utf8'));
 const catIds = new Set(categories.map(c => c.id));
 
@@ -41,7 +41,7 @@ for (const b of brands) {
     if (p.price && typeof p.price.min !== 'number' && !p.price.label) errors.push(`${pt}: price 异常`);
     const imgPath = join('data', 'img', `${p.id}.jpg`);
     if (existsSync(imgPath) && statSync(imgPath).size > 8000) {
-      p.image = `${IMG_REMOTE}/${p.id}.jpg`;
+      p.image = `data/img/${p.id}.jpg`;
     }
     pu.push(p);
   }
