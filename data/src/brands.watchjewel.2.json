@@ -3,7 +3,7 @@
     {
       "id": "tiffany", "name": "蒂芙尼", "nameEn": "Tiffany & Co.", "domain": "tiffany.com",
       "categoryId": "watchjewel", "country": "美国", "founded": 1837, "hq": "纽约",
-      "tier": "顶奢", "tags": ["蒂芙尼蓝", "订婚戒", "纽约"], "slogan": "Return to Tiffany",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["蒂芙尼蓝", "订婚戒", "纽约"], "slogan": "Return to Tiffany",
       "desc": "美国珠宝之王,蒂芙尼蓝礼盒是全球最有辨识度的颜色资产,六爪镶嵌订婚戒的发明者。",
       "story": "1837年查尔斯·路易斯·蒂芙尼在纽约百老汇开出文具杂货铺,后来成为\"钻石之王\":1878年买下世界最大黄钻之一蒂芙尼黄钻,1886年发明六爪镶嵌 setting,让钻戒从此有了标准答案。\n如今隶属LVMH,第五大道旗舰店《蒂芙尼的早餐》取景地。经典T系列、钥匙系列与微笑系列是当代销量担当。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "bvlgari", "name": "宝格丽", "nameEn": "BVLGARI", "domain": "bvlgari.com",
       "categoryId": "watchjewel", "country": "意大利", "founded": 1884, "hq": "罗马",
-      "tier": "顶奢", "tags": ["彩色宝石", "罗马", "蛇形"], "slogan": "Live the Roman Wonder",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["彩色宝石", "罗马", "蛇形"], "slogan": "Live the Roman Wonder",
       "desc": "罗马出身的希腊裔珠宝世家,彩色宝石组合大胆浓烈,Serpenti 蛇形是品牌灵魂图腾。",
       "story": "1884年希腊银匠索蒂里奥·宝格丽在罗马开店,打破法式珠宝的柔美传统,用大颗彩色宝石与对称几何开创\"意式浓烈\"。二十世纪中叶成为巨星名流罗马假日里的标配。\nSerpenti 蛇形手镯表从1940年代延续至今,B.zero1 弹簧戒则是当代婚嫁新宠;腕表业务以 Octo Finissimo 超薄屡破纪录。",
       "products": [
@@ -31,7 +31,7 @@
     {
       "id": "vca", "name": "梵克雅宝", "nameEn": "Van Cleef & Arpels", "domain": "vancleefarpels.com",
       "categoryId": "watchjewel", "country": "法国", "founded": 1896, "hq": "巴黎",
-      "tier": "顶奢", "tags": ["四叶草", "隐密镶嵌", "诗意"], "slogan": "The Poetry of Time",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["四叶草", "隐密镶嵌", "诗意"], "slogan": "The Poetry of Time",
       "desc": "阿尔弗莱德·梵克与艾斯特尔·雅宝因爱联姻诞生的珠宝行,四叶草 Alhambra 是全球最想被送的首饰。",
       "story": "1896年,珠宝商之子与宝石商之女在巴黎成婚,两家姓氏合成 Van Cleef & Arpels。1933年发明的隐密式镶嵌让宝石不见金属底座,成为独门绝技。1968年推出的 Alhambra 四叶草,如今是幸运的通用符号。\n品牌以诗意为主题:芭蕾舞者、仙子、花园与星空,高级珠宝系列年年限量,故事感拉满。",
       "products": [
@@ -44,7 +44,7 @@
     {
       "id": "harrywinston", "name": "海瑞·温斯顿", "nameEn": "Harry Winston", "domain": "harrywinston.com",
       "categoryId": "watchjewel", "country": "美国", "founded": 1932, "hq": "纽约",
-      "tier": "顶奢", "tags": ["钻石之王", "簇镶", "红毯之王"], "slogan": "Kings of Diamonds",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["钻石之王", "簇镶", "红毯之王"], "slogan": "Kings of Diamonds",
       "desc": "\"钻石之王\":不做设计做克拉,簇镶工艺让钻石看起来像悬浮在皮肤上。",
       "story": "1932年海瑞·温斯顿在纽约创立品牌,他一生经手过希望之钻、琼格尔之钻等传奇大钻,把宝石本身而非金属框当作主角。发明的簇镶(Halo Cluster)以极少的金属托住满钻,火彩像从皮肤里长出来。\n品牌长期霸榜红毯钻饰曝光,如今隶属Swatch集团,高级珠宝与 Hope 钻同台陈列于第五大道。",
       "products": [
@@ -57,7 +57,7 @@
     {
       "id": "graff", "name": "格拉夫", "nameEn": "GRAFF", "domain": "graff.com",
       "categoryId": "watchjewel", "country": "英国", "founded": 1960, "hq": "伦敦",
-      "tier": "顶奢", "tags": ["大克拉", "伦敦", "黄钻之王"], "slogan": "The most fabulous jewels in the world",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["大克拉", "伦敦", "黄钻之王"], "slogan": "The most fabulous jewels in the world",
       "desc": "伦敦起家的钻石狂人品牌,经手全球近三成已知大克拉名钻,黄钻尤其称王。",
       "story": "1960年劳伦斯·格拉夫在伦敦创业,以买下传奇大钻闻名:Lesedi La Rona(1109克拉)、维特尔斯巴赫·格拉夫蓝钻……许多世界纪录成交都出自其手。品牌口号即野心:\"世界上最惊艳的珠宝\"。\n GRAFF 不追潮流,只做极致大石与 flawless 切工,门店开在全世界最贵的街区。",
       "products": [
@@ -70,7 +70,7 @@
     {
       "id": "chaumet", "name": "尚美巴黎", "nameEn": "CHAUMET", "domain": "chaumet.com",
       "categoryId": "watchjewel", "country": "法国", "founded": 1780, "hq": "巴黎",
-      "tier": "顶奢", "tags": ["冠冕大师", "拿破仑御用", "约瑟芬"], "slogan": "The jeweller of feelings since 1780",
+      "tier": "顶奢", "sub": "珠宝", "tags": ["冠冕大师", "拿破仑御用", "约瑟芬"], "slogan": "The jeweller of feelings since 1780",
       "desc": "拿破仑官方珠宝商,243年的\"冠冕大师\",约瑟芬皇后系列把帝国爱情写进钻石。",
       "story": "1780年玛利-艾天·尼铎在巴黎做珠宝,1802年成为拿破仑官方珠宝匠,为约瑟芬皇后打造的冠冕与宝剑至今在卢浮宫可寻。品牌为欧洲十几个王室做过冠冕,\"A crown is the emblem of Chaumet\"。\n如今隶属LVMH, Joséphine 约瑟芬系列的冠冕形戒指是当代求婚的浪漫答案。",
       "products": [
@@ -83,7 +83,7 @@
     {
       "id": "boucheron", "name": "宝诗龙", "nameEn": "Boucheron", "domain": "boucheron.com",
       "categoryId": "watchjewel", "country": "法国", "founded": 1858, "hq": "巴黎",
-      "tier": "高奢", "tags": ["旺多姆广场", "问号项链", "自然主义"], "slogan": "Libre. Audacieuse. Créatrice.",
+      "tier": "高奢", "sub": "珠宝", "tags": ["旺多姆广场", "问号项链", "自然主义"], "slogan": "Libre. Audacieuse. Créatrice.",
       "desc": "首家入驻巴黎旺多姆广场的珠宝商,以自由精神著称,问号项链(Torse)解放了女性的锁骨。",
       "story": "1858年菲德烈克·宝诗龙在皇家宫殿画廊开店,1889年他是第一位把电灯引进店铺的珠宝商。1893年入驻旺多姆广场26号,俯瞰广场的橱窗至今未换位置。问号项链无背链设计、纽约天然珍珠项链等都是珠宝史名场面。\n如今隶属开云集团,Quatre 四环与 animals 动物系列是当代icon,主张珠宝应自由不羁。",
       "products": [
@@ -96,7 +96,7 @@
     {
       "id": "qeelin", "name": "麒麟珠宝", "nameEn": "Qeelin", "domain": "qeelin.com",
       "categoryId": "watchjewel", "country": "中国香港", "founded": 2004, "hq": "香港",
-      "tier": "高奢", "tags": ["国风", "葫芦", "熊猫"], "slogan": "Luxury with a Chinese twist",
+      "tier": "高奢", "sub": "珠宝", "tags": ["国风", "葫芦", "熊猫"], "slogan": "Luxury with a Chinese twist",
       "desc": "2004年创立于香港的当代东方珠宝,葫芦、熊猫、如意把中国符号做成世界语言。",
       "story": "设计师陈瑞麟在欧洲珠宝行业多年后回到香港,创立 Qeelin(谐音\"麒麟\"),把中华图腾做进高级珠宝:Wulu 葫芦系列一鸣惊人,成为国际明星红毯常客。2004年杨紫琼佩戴 Wulu 出席奥斯卡让品牌一夜成名。\n如今隶属开云集团,巴黎、纽约、上海门店齐开,\"最会讲中国故事的奢侈珠宝\"。",
       "products": [
@@ -109,7 +109,7 @@
     {
       "id": "mikimoto", "name": "御木本", "nameEn": "MIKIMOTO", "domain": "mikimoto.com",
       "categoryId": "watchjewel", "country": "日本", "founded": 1893, "hq": "东京",
-      "tier": "顶奢", "tags": ["珍珠之王", "养殖鼻祖", "日本"], "slogan": "The originator of cultured pearls",
+      "tier": "顶奢", "sub": "珍珠", "tags": ["珍珠之王", "养殖鼻祖", "日本"], "slogan": "The originator of cultured pearls",
       "desc": "世界养殖珍珠之父御木本幸吉创立,一条项链要筛选上万颗珠,\"珍珠之王\"名副其实。",
       "story": "1893年御木本幸吉在志摩半岛成功培育出世界第一批半球养殖珍珠,1905年实现球形珍珠量产,改写了整个珍珠行业。品牌标准严苛:每串项链用珠需从上万颗中选出,只有不足5%能成为 MIKIMOTO 珍珠。\n珍珠项链与\"第一颗珍珠\"胸针是传奇单品,日本皇室的御用珠宝,巴黎门店被称作\"珍珠宫\"。",
       "products": [
@@ -122,7 +122,7 @@
     {
       "id": "tasaki", "name": "塔思琦", "nameEn": "TASAKI", "domain": "tasaki.com",
       "categoryId": "watchjewel", "country": "日本", "founded": 1954, "hq": "神户",
-      "tier": "高奢", "tags": ["balance", "珍珠", "当代设计"], "slogan": "Jewelry from Japan",
+      "tier": "高奢", "sub": "珍珠", "tags": ["balance", "珍珠", "当代设计"], "slogan": "Jewelry from Japan",
       "desc": "神户出身的珍珠世家,用建筑感线条打破珍珠的古典印象,balance 系列是珍珠界的当代艺术。",
       "story": "1954年田崎龙吉在神户创立,从珍珠养殖到零售全链经营。2000年代起启用年轻设计师,以 balance 系列(珍珠与黄金的几何对话)惊艳世界,成为珍珠品类里最\"不奶奶\"的品牌。\n还手握日本唯一 royale 珍珠与海水无核 keshi,是懂行玩家的高级选项。",
       "products": [
@@ -135,7 +135,7 @@
     {
       "id": "pandora", "name": "潘多拉", "nameEn": "Pandora", "domain": "pandora.net",
       "categoryId": "watchjewel", "country": "丹麦", "founded": 1982, "hq": "哥本哈根",
-      "tier": "轻奢", "tags": ["串珠", "DIY", "平价珠宝"], "slogan": "Unforgettable Moments",
+      "tier": "轻奢", "sub": "珠宝", "tags": ["串珠", "DIY", "平价珠宝"], "slogan": "Unforgettable Moments",
       "desc": "全球销量最大的珠宝品牌之一,把\"自己设计手链\"的串珠玩法做成世界生意。",
       "story": "1982年丹麦夫妻店起家,2000年发明可自由搭配的手链串珠系统,女人为自己收藏每一个纪念时刻,199元到几千元的价格带让它成为\"人生第一件轻珠宝\"。全世界每年卖出上亿件首饰。\n如今全面转型实验室培育钻石与回收银,\"人人戴得起的高级感\"是其商业护城河。",
       "products": [
@@ -148,7 +148,7 @@
     {
       "id": "swarovski", "name": "施华洛世奇", "nameEn": "SWAROVSKI", "domain": "swarovski.com",
       "categoryId": "watchjewel", "country": "奥地利", "founded": 1895, "hq": "瓦滕斯",
-      "tier": "轻奢", "tags": ["水晶", "切割工艺", "天鹅"], "slogan": "You are the sparkle you seek",
+      "tier": "轻奢", "sub": "珠宝", "tags": ["水晶", "切割工艺", "天鹅"], "slogan": "You are the sparkle you seek",
       "desc": "人造水晶切割之王,天鹅logo与\"跳动的心\"是最出圈的平价浪漫,159年切割工艺封神。",
       "story": "1895年丹尼尔·施华洛世奇发明电动水晶切割机,在奥地利瓦滕斯建厂,把人造水晶做出钻石般的火彩。小天鹅 logo 自1988年沿用,跳动的心(水晶随心跳频率闪动)是现象级爆款。\n除了首饰,施华洛世奇还为高级定制、灯具、电影工业供应水晶,米兰大教堂的水晶吊灯也有它的份。",
       "products": [
@@ -161,7 +161,7 @@
     {
       "id": "chowtaifook", "name": "周大福", "nameEn": "Chow Tai Fook", "domain": "chowtaifook.com",
       "categoryId": "watchjewel", "country": "中国香港", "founded": 1929, "hq": "香港",
-      "tier": "中档", "tags": ["黄金", "国潮", "传承系列"], "slogan": "挚爱无界",
+      "tier": "中档", "sub": "珠宝", "tags": ["黄金", "国潮", "传承系列"], "slogan": "挚爱无界",
       "desc": "华人世界最大的珠宝集团,95年历史,把古法黄金做成年轻人的\"人生第一克金\"。",
       "story": "1929年周至元在广州创办周大福金行,郑裕彤家族接手后发明\"四条九\"足金标准,信誉立牌。如今门店过万家,传承系列古法金手镯让年轻一代排队抢金。\n从婚嫁三金到国潮转运珠,周大福几乎定义了华人的黄金消费仪式。",
       "products": [
@@ -174,7 +174,7 @@
     {
       "id": "chowsangsang", "name": "周生生", "nameEn": "Chow Sang Sang", "domain": "chowsangsang.com",
       "categoryId": "watchjewel", "country": "中国香港", "founded": 1934, "hq": "香港",
-      "tier": "中档", "tags": ["黄金", "设计感", "g系列"], "slogan": "周而复始,生生不息",
+      "tier": "中档", "sub": "珠宝", "tags": ["黄金", "设计感", "g系列"], "slogan": "周而复始,生生不息",
       "desc": "1934年创自广州的港资珠宝行,比同行更早做年轻设计,金饰里的\"设计派\"。",
       "story": "1934年创于广州西关,1948年迁港。名字取\"周而复始,生生不息\",是港澳最早上市的珠宝行之一。周生生较早摆脱金铺思维,推出 g* 系列等年轻线,把金饰做成了时尚品。\n如今在内地上百家门店,Promise 系列、国潮联名款都主打轻龄客群。",
       "products": [
@@ -187,7 +187,7 @@
     {
       "id": "laofengxiang", "name": "老凤祥", "nameEn": "Lao Feng Xiang", "domain": "laofengxiang.com",
       "categoryId": "watchjewel", "country": "中国", "founded": 1848, "hq": "上海",
-      "tier": "中档", "tags": ["百年金号", "海派", "银楼"], "slogan": "百年老凤祥,经典新时尚",
+      "tier": "中档", "sub": "珠宝", "tags": ["百年金号", "海派", "银楼"], "slogan": "百年老凤祥,经典新时尚",
       "desc": "1848年创自上海的老银楼,中华第一金号,凤钗与婚嫁金饰的活字号。",
       "story": "1848年\"凤祥裕记银楼\"在上海开业,历经清末、民国至今,是中国现存最久的珠宝老字号之一。海派金工细腻,凤冠、龙凤镯是沪上婚嫁的老讲究。\n如今为国企上市公司,门店遍布全国,古法金与非遗银器工艺是两张王牌。",
       "products": [
@@ -200,7 +200,7 @@
     {
       "id": "laomiaogold", "name": "老庙黄金", "nameEn": "Laomiao Gold", "domain": "laomiaogold.com",
       "categoryId": "watchjewel", "country": "中国", "founded": 1906, "hq": "上海",
-      "tier": "中档", "tags": ["城隍庙", "好运文化", "古法金"], "slogan": "老庙给您带来好运气",
+      "tier": "中档", "sub": "珠宝", "tags": ["城隍庙", "好运文化", "古法金"], "slogan": "老庙给您带来好运气",
       "desc": "发源于上海城隍庙的百年金号,一句\"老庙给您带来好运气\"传遍华东,好运文化玩到极致。",
       "story": "1906年起家于上海城隍庙商圈,靠着庙会的香客生意做大,广告语\"老庙给您带来好运气\"家喻户晓。主打好运主题:转运珠、福字金、生肖系列年年翻新。\n古法金工艺与国潮联名让老庙在年轻客群里翻红,\"好运经济\"的代表玩家。",
       "products": [
@@ -213,7 +213,7 @@
     {
       "id": "darryring", "name": "DR", "nameEn": "DR (Darry Ring)", "domain": "darryring.com",
       "categoryId": "watchjewel", "country": "中国", "founded": 2010, "hq": "深圳",
-      "tier": "轻奢", "tags": ["真爱协议", "一生一枚", "求婚"], "slogan": "用一生爱一人",
+      "tier": "轻奢", "sub": "珠宝", "tags": ["真爱协议", "一生一枚", "求婚"], "slogan": "用一生爱一人",
       "desc": "靠\"男士一生仅能定制一枚\"规则走红的婚戒品牌,把排他性做成了商业神话。",
       "story": "2010年创立于深圳,规则简单粗暴:凭身份证购买,一生只能为一人定制真爱戒指,还要签真爱协议。争议不断,但年轻人买账——\"DR=requesting 你是我的唯一\"成为社交货币。\n如今门店过百家,求婚场景的市占率惊人,是营销驱动型珠宝品牌的教科书。",
       "products": [
@@ -226,7 +226,7 @@
     {
       "id": "oris", "name": "豪利时", "nameEn": "ORIS", "domain": "oris.ch",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1904, "hq": "霍尔斯坦",
-      "tier": "中档", "tags": ["独立纯机械", "潜水表", "环保"], "slogan": "Go your own way",
+      "tier": "中档", "sub": "时尚腕表", "tags": ["独立纯机械", "潜水表", "环保"], "slogan": "Go your own way",
       "desc": "只做机械表的独立老厂,1904年至今不做人造材料,潜水表与环保公益是两张名片。",
       "story": "1904年成立于霍尔斯坦小镇,百年来坚持只造机械表——石英风暴时全厂坚持不转产,活成了行业倔脾气。豪利时没有电子表历史,也没有大集团背景,反而保留了老派制表的自由身。\n大表冠潜水表(Aquis)与复古赛车(Holstein)系列是主力,与海洋保护组织合作的\"变蓝\"限量款年年上新。",
       "products": [
@@ -239,7 +239,7 @@
     {
       "id": "raymondweil", "name": "蕾蒙威", "nameEn": "RAYMOND WEIL", "domain": "raymond-weil.ch",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1976, "hq": "日内瓦",
-      "tier": "中档", "tags": ["音乐世家", "自由职业者", "独立家族"], "slogan": "Independence is a state of mind",
+      "tier": "中档", "sub": "时尚腕表", "tags": ["音乐世家", "自由职业者", "独立家族"], "slogan": "Independence is a state of mind",
       "desc": "1976年石英风暴中逆势创家的日内瓦品牌,把音乐写进每个系列名字。",
       "story": "1976年,石英危机最惨烈的时候,蕾蒙·威尔在日内瓦创业,坚信机械表会活下来。品牌各系列都以音乐命名:Freelancer(自由职业者)、Tango、Maestro(大师)、Nabucco(歌剧)。\n家族三代经营至今,是日内瓦最后的独立家族制表企业之一,定价亲民、做工扎实。",
       "products": [
@@ -252,7 +252,7 @@
     {
       "id": "citizen", "name": "西铁城", "nameEn": "Citizen", "domain": "citizenwatch.com",
       "categoryId": "watchjewel", "country": "日本", "founded": 1930, "hq": "东京",
-      "tier": "入门", "tags": ["光动能", "精准", "环保"], "slogan": "Better Starts Now",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["光动能", "精准", "环保"], "slogan": "Better Starts Now",
       "desc": "光动能技术的代名词:任何光源充电,一表用十年,全球民用表的技术流。",
       "story": "1930年以\"市民表\"之名创立于东京,1976年发明光动能(Eco-Drive)——太阳能充电石英机芯,彻底解决换电池烦恼,累计减少数亿颗废电池。旗下还有机械机芯名厂Miyota与瑞士品牌宝路华、Frederique Constant。\n卫星对时、超级钛™材质是其技术招牌,机械线也有「 Miyota 9039」等扎实机芯。",
       "products": [
@@ -265,7 +265,7 @@
     {
       "id": "casio", "name": "卡西欧", "nameEn": "CASIO", "domain": "casio.com",
       "categoryId": "watchjewel", "country": "日本", "founded": 1946, "hq": "东京",
-      "tier": "入门", "tags": ["G-SHOCK", "防摔", "功能狂魔"], "slogan": "Creativity and Contribution",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["G-SHOCK", "防摔", "功能狂魔"], "slogan": "Creativity and Contribution",
       "desc": "一块摔不坏的 G-SHOCK 定义了电子表的强悍,计算器、电子琴与腕表共同构成卡西欧宇宙。",
       "story": "1946年樫尾四兄弟在东京创业,从计算器起家。1983年工程师伊部菊雄因父亲摔坏的手表立志造\"十年不坏的手表\",G-SHOCK 诞生,初代被扔出大楼测试的场景成为广告经典。\n如今 G-SHOCK、BABY-G、EDIFICE、OCEANUS 多线并行,防震防水太阳能电波六大电波全配,是功能主义腕表的尽头。",
       "products": [
@@ -278,7 +278,7 @@
     {
       "id": "seiko", "name": "精工", "nameEn": "SEIKO", "domain": "seikowatches.com",
       "categoryId": "watchjewel", "country": "日本", "founded": 1881, "hq": "东京",
-      "tier": "中档", "tags": ["石英革命", "Spring Drive", "潜水表"], "slogan": "Elegance in Technology",
+      "tier": "中档", "sub": "时尚腕表", "tags": ["石英革命", "Spring Drive", "潜水表"], "slogan": "Elegance in Technology",
       "desc": "1881年创立的日本表坛祖师,1969年推出世界首款石英腕表改写历史,潜水表与Grand Seiko双线封神。",
       "story": "1881年服部金太郎创办精工舍,1969年Astron石英表终结了瑞士机械表的垄断时代(史称\"石英革命\")。品牌手握 Spring Drive(弹簧驱动)与 High Beat 等独门技术。\nSEIKO 主线走亲民路线:Seiko 5 自动、Prospex 潜水罐头,而 Grand Seiko(冠蓝狮)已独立成顶级品牌,与瑞士高端正面对决。",
       "products": [
@@ -291,7 +291,7 @@
     {
       "id": "rossini", "name": "罗西尼", "nameEn": "Rossini", "domain": "rossini.com.cn",
       "categoryId": "watchjewel", "country": "中国", "founded": 1984, "hq": "珠海",
-      "tier": "入门", "tags": ["国产老牌", "合资起点", "礼品牌"], "slogan": "时间因为祝福而存在",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["国产老牌", "合资起点", "礼品牌"], "slogan": "时间因为祝福而存在",
       "desc": "1984年珠海创办的中外合资表厂鼻祖,国产表\"四大金刚\"之一,节日礼表常青树。",
       "story": "1984年中国钟表业首批合资项目落户珠海,罗西尼凭一支\"雅尊商务\"系列打开了国人对手表的品牌认知。九十年代到零几年,罗西尼几乎是\"单位奖品表\"的代名词。\n如今隶属冠城钟表珠宝集团,门店网络遍布全国,青花、生肖等文化款持续更新。",
       "products": [
@@ -304,7 +304,7 @@
     {
       "id": "fiyta", "name": "飞亚达", "nameEn": "Fiyta", "domain": "fiyta.com",
       "categoryId": "watchjewel", "country": "中国", "founded": 1987, "hq": "深圳",
-      "tier": "入门", "tags": ["航天表", "国产", "神舟"], "slogan": "Once for all",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["航天表", "国产", "神舟"], "slogan": "Once for all",
       "desc": "中国航天表指定供应商,神舟航天员都戴着它出舱,国产表的技术流代表。",
       "story": "1987年成立于深圳,2003年起成为神舟系列航天表的官方供应商,航天员出舱行走佩戴的正是飞亚达航天表——这是继瑞美苏之后第三个掌握航天表技术的国家品牌。\n设计上与故宫等文化IP联名, regularly 出圈;价段千元为主,技术背书硬。",
       "products": [
@@ -317,7 +317,7 @@
     {
       "id": "seagull", "name": "海鸥", "nameEn": "Sea-Gull", "domain": "seagullwatch.com",
       "categoryId": "watchjewel", "country": "中国", "founded": 1955, "hq": "天津",
-      "tier": "入门", "tags": ["国产机芯之王", "陀飞轮", "军表"], "slogan": "中国表,海鸥芯",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["国产机芯之王", "陀飞轮", "军表"], "slogan": "中国表,海鸥芯",
       "desc": "1955年新中国第一只国产手表的诞生地,全球最大机械机芯厂之一,千元陀飞轮无人能敌。",
       "story": "1955年天津手表厂造出\"五星\"牌国产第一表,海鸥由此起家。如今年产机芯数千万枚,全球许多品牌的\"基础机械芯\"都来自海鸥ST系列。\n从ST16到ST25系列,再到万元内的陀飞轮、三问、万年历,海鸥把\"复杂功能平价化\"玩成了独门生意,玩表人的国产情怀第一名。",
       "products": [

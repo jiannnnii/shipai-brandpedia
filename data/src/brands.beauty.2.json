@@ -1059,6 +1059,7 @@
       "nameEn": "Atelier Cologne",
       "domain": "ateliercologne.com.cn",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "古龙水",
         "柑橘",
@@ -1174,6 +1175,7 @@
       "nameEn": "diptyque",
       "domain": "diptyque.com.cn",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "巴黎左岸",
         "椭圆形瓶",
@@ -1289,6 +1291,7 @@
       "nameEn": "Editions de Parfums Frédéric Malle",
       "domain": "fredericmalle.com.cn",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "香水出版社",
         "调香大师",
@@ -1404,6 +1407,7 @@
       "nameEn": "Byredo",
       "domain": "byredo.com",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "斯德哥尔摩",
         "无人区玫瑰",
@@ -1519,6 +1523,7 @@
       "nameEn": "Acqua di Parma",
       "domain": "acquadiparma.com.cn",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "意大利黄标",
         "Colonial",
@@ -1634,6 +1639,7 @@
       "nameEn": "Penhaligon's",
       "domain": "penhaligons.com",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "英伦皇室",
         "兽首",
@@ -1749,6 +1755,7 @@
       "nameEn": "Serge Lutens",
       "domain": "sergelutens.com",
       "categoryId": "beauty",
+      "sub": "香氛",
       "tags": [
         "沙龙香",
         "黑色瓶身",
@@ -2449,6 +2456,7 @@
       "nameEn": "Kérastase",
       "domain": "kerastase.com.cn",
       "categoryId": "beauty",
+      "sub": "高端护肤",
       "tags": [
         "高端洗护",
         "鱼子酱",

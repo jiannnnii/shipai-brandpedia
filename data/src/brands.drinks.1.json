@@ -3,7 +3,7 @@
     {
       "id": "starbucks", "name": "星巴克", "nameEn": "Starbucks", "domain": "starbucks.com",
       "categoryId": "drinks", "country": "美国", "founded": 1971, "hq": "西雅图",
-      "tier": "中档", "tags": ["咖啡", "第三空间", "美人鱼"], "slogan": "每个瞬间,都值得等待",
+      "tier": "中档", "sub": "咖啡", "tags": ["咖啡", "第三空间", "美人鱼"], "slogan": "每个瞬间,都值得等待",
       "desc": "全球最大咖啡连锁,把意式浓缩与「第三空间」生活方式卖到全世界,绿围裙是都市白领的接头暗号。",
       "story": "1971年西雅图派克市场卖出第一磅咖啡豆,1987年霍华德·舒尔茨把它从卖豆子改造成卖体验——拿铁+沙发+背景乐的「第三空间」。1999年进入中国,如今中国已是其最大海外市场。\n圣诞红杯、季节限定(桂花、太妃榛果)与星享卡体系,把喝咖啡做成了仪式。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "luckin", "name": "瑞幸咖啡", "nameEn": "Luckin Coffee", "domain": "luckincoffee.com",
       "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "厦门",
-      "tier": "大众", "tags": ["咖啡", "9.9元", "生椰拿铁"], "slogan": "这一杯,瑞幸起始",
+      "tier": "大众", "sub": "咖啡", "tags": ["咖啡", "9.9元", "生椰拿铁"], "slogan": "这一杯,瑞幸起始",
       "desc": "用互联网打法重塑中国咖啡:快速开店+补贴大战+爆品公式,生椰拿铁单品卖出几亿杯。",
       "story": "2017年神州系团队创立,18个月上市创纪录,2020年财务造假退市却奇迹翻红。新团队靠「9.9元周购」与生椰拿铁(2021)彻底翻身,2023年门店破万反超星巴克中国。\n爆品方法论(椰云拿铁、酱香拿铁联名茅台)让它成为中国咖啡的现象级玩家。",
       "products": [
@@ -30,7 +30,7 @@
     {
       "id": "nayuki", "name": "奈雪的茶", "nameEn": "Nayuki", "domain": "nayuki.com",
       "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "深圳",
-      "tier": "中档", "tags": ["新式茶饮", "软欧包", "茶饮第一股"], "slogan": "一杯好茶,一口软欧包",
+      "tier": "中档", "sub": "新茶饮", "tags": ["新式茶饮", "软欧包", "茶饮第一股"], "slogan": "一杯好茶,一口软欧包",
       "desc": "新式茶饮第一股,首创「茶饮+软欧包」双品类模式,霸气鲜果茶是招牌。",
       "story": "2015年彭心、赵林夫妇在深圳创立,把茶饮店开成大店+社交空间,软欧包配茶的组合被全行业模仿。2021年港股上市成为新式茶饮第一股。\n后转小店模型降价求生,霸气玉油柑、鸭屎香宝藏茶都是出圈单品。",
       "products": [
@@ -43,7 +43,7 @@
     {
       "id": "heytea", "name": "喜茶", "nameEn": "HEYTEA", "domain": "heytea.com",
       "categoryId": "drinks", "country": "中国", "founded": 2012, "hq": "深圳",
-      "tier": "中档", "tags": ["芝士茶", "灵感之茶", "联名狂魔"], "slogan": "灵感之茶",
+      "tier": "中档", "sub": "新茶饮", "tags": ["芝士茶", "灵感之茶", "联名狂魔"], "slogan": "灵感之茶",
       "desc": "新茶饮开创者:芝士现泡茶定义了整个品类,FENDI 联名让「人生第一杯FENDI」刷屏全网。",
       "story": "2012年聂云宸在江门开出第一家皇茶,首创芝士现泡茶,排队三小时是2017年北上广的盛况。品牌一路高端,又主动降价打开大众市场。\n多肉葡萄、烤黑糖波波与一年几十场的联名(原神、FENDI、周大福)让它成为社交货币制造机。",
       "products": [
@@ -56,7 +56,7 @@
     {
       "id": "mixue", "name": "蜜雪冰城", "nameEn": "MIXUE", "domain": "mixue.com",
       "categoryId": "drinks", "country": "中国", "founded": 1997, "hq": "郑州",
-      "tier": "平价", "tags": ["柠檬水", "性价比之王", "雪王"], "slogan": "你爱我,我爱你,蜜雪冰城甜蜜蜜",
+      "tier": "平价", "sub": "新茶饮", "tags": ["柠檬水", "性价比之王", "雪王"], "slogan": "你爱我,我爱你,蜜雪冰城甜蜜蜜",
       "desc": "全球门店数第一的现制饮品品牌,4元柠檬水+雪王神曲,下沉市场的甜蜜帝国。",
       "story": "1997年张红超在郑州刨冰摊起家,靠自建供应链把柠檬水做到4块钱还有利润,门店两万多家。2021年「雪王神曲」鬼畜MV全网刷屏,雪王成为国民IP。\n供应链(大咖国际)才是真护城河——它挣的是原料钱。",
       "products": [
@@ -69,7 +69,7 @@
     {
       "id": "chapanda", "name": "茶百道", "nameEn": "ChaPanda", "domain": "chapanda.cn",
       "categoryId": "drinks", "country": "中国", "founded": 2008, "hq": "成都",
-      "tier": "大众", "tags": ["熊猫", "鲜果茶", "中端"], "slogan": "鲜果茶,选茶百道",
+      "tier": "大众", "sub": "新茶饮", "tags": ["熊猫", "鲜果茶", "中端"], "slogan": "鲜果茶,选茶百道",
       "desc": "成都出身的国民茶饮,熊猫形象+杨枝甘露是招牌,2024年港股上市的第二梯队头名。",
       "story": "2008年王霄锟在成都温江开店,借大熊猫形象直白好记,靠加盟模式快速铺满全国。杨枝甘露一年卖出上亿杯,是它真正的现金牛。\n「熊猫+中端价+稳定出品」的基本盘扎实,全国门店数千家。",
       "products": [
@@ -82,7 +82,7 @@
     {
       "id": "chagee", "name": "霸王茶姬", "nameEn": "CHAGEE", "domain": "chagee.com",
       "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "云南昆明",
-      "tier": "中档", "tags": ["国风", "原叶鲜奶茶", "伯牙绝弦"], "slogan": "以东方茶,会世界友",
+      "tier": "中档", "sub": "新茶饮", "tags": ["国风", "原叶鲜奶茶", "伯牙绝弦"], "slogan": "以东方茶,会世界友",
       "desc": "国风茶饮顶流:戏曲脸谱+茶马古道叙事,靠原叶鲜奶茶和伯牙绝弦横扫全国并出海东南亚。",
       "story": "2017年张俊杰在昆明创立,定位新中式国风茶饮,logo 是京剧花旦侧脸。伯牙绝弦一年卖出一亿多杯,门店爆发至数千家,新加坡马来西亚遍地开花。\n卡在蜜雪与喜茶之间的价位带,配上健康化(低卡标签、热量计算器)策略,是过去两年最猛的黑马。",
       "products": [
@@ -95,7 +95,7 @@
     {
       "id": "goodme", "name": "古茗", "nameEn": "GOODME", "domain": "goodme.com.cn",
       "categoryId": "drinks", "country": "中国", "founded": 2010, "hq": "浙江台州",
-      "tier": "大众", "tags": ["鲜果茶", "加盟之王", "冷链"], "slogan": "每天一杯喝不腻",
+      "tier": "大众", "sub": "新茶饮", "tags": ["鲜果茶", "加盟之王", "冷链"], "slogan": "每天一杯喝不腻",
       "desc": "浙江出身的下沉市场王者,以自建冷链让乡镇门店也卖上鲜果茶,2025年港股上市。",
       "story": "2010年王云安在台州大溪镇开出第一家店,打法朴素:用料不惜本。自建仓储冷链把鲜果送到县城,加盟商回本周期短,业内口碑极好。\n轻乳茶+水果茶双线,门店数近万家,与蜜雪、茶百道三分下沉天下。",
       "products": [
@@ -108,7 +108,7 @@
     {
       "id": "coco", "name": "CoCo都可", "nameEn": "CoCo Fresh Tea", "domain": "coco-tea.com",
       "categoryId": "drinks", "country": "中国台湾", "founded": 1997, "hq": "台北",
-      "tier": "大众", "tags": ["老牌奶茶", "三兄弟", "全球连锁"], "slogan": "CoCo都可,都可茶饮",
+      "tier": "大众", "sub": "新茶饮", "tags": ["老牌奶茶", "三兄弟", "全球连锁"], "slogan": "CoCo都可,都可茶饮",
       "desc": "1997年创立的老牌台式奶茶,珍珠奶茶三兄弟的启蒙者,全球连锁的台式奶茶名片。",
       "story": "1997年洪肇水家族在台北创立,是最早把连锁奶茶模式带入大陆的品牌之一。三兄弟(珍珠+仙草+布丁)与鲜芋青稞牛奶常年霸榜。\n海外布局早,纽约、伦敦、悉尼都有它的红色招牌。",
       "products": [
@@ -121,7 +121,7 @@
     {
       "id": "alittle", "name": "一点点", "nameEn": "A Little Tea", "domain": "alittle-tea.com",
       "categoryId": "drinks", "country": "中国台湾", "founded": 1994, "hq": "台北",
-      "tier": "大众", "tags": ["波霸奶茶", "老牌", "隐藏菜单"], "slogan": "来一点点,好喝一点点",
+      "tier": "大众", "sub": "新茶饮", "tags": ["波霸奶茶", "老牌", "隐藏菜单"], "slogan": "来一点点,好喝一点点",
       "desc": "兰芳园系老牌奶茶,波霸鲜奶茶与「隐藏菜单」攻略曾是大学生社交货币。",
       "story": "1994年创于台北,2010年代进入大陆后凭波霸奶茶+四季奶青+三分糖的隐藏点单攻略风靡校园。红底白字的招牌是几届毕业生的青春记忆。\n近年门店收缩但基本盘仍在,经典配方的稳定性是招牌。",
       "products": [
@@ -134,7 +134,7 @@
     {
       "id": "nespresso", "name": "浓遇咖啡", "nameEn": "Nespresso", "domain": "nespresso.com",
       "categoryId": "drinks", "country": "瑞士", "founded": 1986, "hq": "洛桑",
-      "tier": "中档", "tags": ["胶囊咖啡", "乔治克鲁尼", "家用精品"], "slogan": "What else?",
+      "tier": "中档", "sub": "咖啡", "tags": ["胶囊咖啡", "乔治克鲁尼", "家用精品"], "slogan": "What else?",
       "desc": "雀巢旗下胶囊咖啡系统鼻祖,乔治·克鲁尼代言的家用咖啡精品化标志。",
       "story": "1986年雀巢把意式浓缩压缩进铝制胶囊,用专利胶囊+会员制订阅的商业模式,把咖啡机变成了「剃须刀+刀片」的生意。克鲁尼的 What else? 广告语成为奢华休闲的符号。\nVertuo 线+精品店+回收体系,胶囊年销百亿颗。",
       "products": [
@@ -147,7 +147,7 @@
     {
       "id": "saturnbird", "name": "三顿半", "nameEn": "Saturnbird", "domain": "saturnbird.com",
       "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "长沙",
-      "tier": "中档", "tags": ["冻干咖啡", "小罐子", "返航计划"], "slogan": "超即溶,随时随地好咖啡",
+      "tier": "中档", "sub": "咖啡", "tags": ["冻干咖啡", "小罐子", "返航计划"], "slogan": "超即溶,随时随地好咖啡",
       "desc": "把精品咖啡装进小罐子的国货之光:3秒冷水可溶,数字编号+返航计划收空罐是品牌信仰。",
       "story": "2015年吴骏在长沙创立,2018年超即溶品类爆发,小罐冻干把精品咖啡价格打到5-8元一颗。空罐返航(回收换周边)把环保做成了社群仪式。\n连续多年天猫咖啡类目第一,是新消费最扎实的长红案例。",
       "products": [
@@ -160,7 +160,7 @@
     {
       "id": "yongpu", "name": "永璞", "nameEn": "YONGPU", "domain": "yongpu.com",
       "categoryId": "drinks", "country": "中国", "founded": 2014, "hq": "上海",
-      "tier": "大众", "tags": ["石端正", "冻干", "文创咖啡"], "slogan": "精品咖啡生活方式品牌",
+      "tier": "大众", "sub": "咖啡", "tags": ["石端正", "冻干", "文创咖啡"], "slogan": "精品咖啡生活方式品牌",
       "desc": "从淘宝店起家的上海咖啡品牌,飞碟冻干+IP形象「石端正」把咖啡做成了文创。",
       "story": "2014年候永璞(铁皮叔叔)从手冲豆起家,2020年推出飞碟冻干咖啡,与500多个品牌联名(三丽鸥、英雄牌钢笔)让石端正狮子IP深入人心。\n咖啡+生活方式路线:杂志、香薰、文具齐上,小而美长红。",
       "products": [
@@ -173,7 +173,7 @@
     {
       "id": "tasogare", "name": "隅田川", "nameEn": "TASOGARE", "domain": "tasogare.cn",
       "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "杭州",
-      "tier": "大众", "tags": ["口粮咖啡", "锁鲜", "挂耳"], "slogan": "做老百姓喝得起的口粮咖啡",
+      "tier": "大众", "sub": "咖啡", "tags": ["口粮咖啡", "锁鲜", "挂耳"], "slogan": "做老百姓喝得起的口粮咖啡",
       "desc": "杭州出身的口粮咖啡品牌,锁鲜咖啡液与挂耳把精品咖啡价格打到两三块一杯。",
       "story": "2015年林浩创立,名字取自日语「黄昏」(隅田川桥下约会)。主打鲜萃咖啡液胶囊与挂耳包,电商挂耳类目常年第一,让每天两三块的咖啡自由成为可能。\n周杰伦代言后破圈,自建产能后成本进一步下探。",
       "products": [
@@ -186,7 +186,7 @@
     {
       "id": "sexytea", "name": "茶颜悦色", "nameEn": "Sexy Tea", "domain": "chayanyuese.com",
       "categoryId": "drinks", "country": "中国", "founded": 2013, "hq": "长沙",
-      "tier": "大众", "tags": ["长沙", "中式奶茶", "幽兰拿铁"], "slogan": "中茶西做",
+      "tier": "大众", "sub": "新茶饮", "tags": ["长沙", "中式奶茶", "幽兰拿铁"], "slogan": "中茶西做",
       "desc": "长沙城市名片:中国风插画+密度惊人的门店,一杯幽兰拿铁让人为奶茶专程坐高铁。",
       "story": "2013年吕良在长沙司门口开出第一家店,把宋词、仕女图、湖南话写满包装,中式奶茶从此有了模版。十年深耕长沙不外扩,反而养出全国性的「来长沙必喝」心智。\n近年入驻武汉、南京并做城市快闪,排队的热情依旧凶猛。",
       "products": [
@@ -199,7 +199,7 @@
     {
       "id": "manner", "name": "Manner Coffee", "nameEn": "Manner Coffee", "domain": "mannercoffee.com.cn",
       "categoryId": "drinks", "country": "中国", "founded": 2015, "hq": "上海",
-      "tier": "大众", "tags": ["15元精品", "自带杯减5元", "白领"], "slogan": "Make coffee part of your life",
+      "tier": "大众", "sub": "咖啡", "tags": ["15元精品", "自带杯减5元", "白领"], "slogan": "Make coffee part of your life",
       "desc": "上海街角起家的平价精品咖啡,15元的出品力压贵价连锁,自带杯减5元是环保界最实在的让利。",
       "story": "2015年韩玉龙夫妇在南阳路开出2平米小窗口,只做意式与手冲,把精品咖啡从百元拉到15元档。自带杯减5元的政策让环保变成真金白银。\n如今门店过千,估值百亿,是小咖啡馆打败大公司叙事的现实版本。",
       "products": [
@@ -212,7 +212,7 @@
     {
       "id": "mstand", "name": "M Stand", "nameEn": "M Stand", "domain": "mstand.com",
       "categoryId": "drinks", "country": "中国", "founded": 2017, "hq": "上海",
-      "tier": "中档", "tags": ["一店一设计", "鲜椰冰咖", "工业风"], "slogan": "Coffee, Odd & Good",
+      "tier": "中档", "sub": "咖啡", "tags": ["一店一设计", "鲜椰冰咖", "工业风"], "slogan": "Coffee, Odd & Good",
       "desc": "上海工业风咖啡空间代表,一店一设计把咖啡馆做成打卡地标,鲜椰冰咖一杯出圈。",
       "story": "2017年葛冬在上海创立,门店走水泥灰工业空间路线,每家店都是一个美术馆级的打卡点。2021年「椰不来」整颗鲜椰装咖啡引爆社交媒体。\n定位30元档的美学咖啡,把空间价值折进一杯拿铁里。",
       "products": [
@@ -225,7 +225,7 @@
     {
       "id": "timhortons", "name": "蒂姆·霍顿斯", "nameEn": "Tim Hortons", "domain": "timhortons.com",
       "categoryId": "drinks", "country": "加拿大", "founded": 1964, "hq": "多伦多",
-      "tier": "大众", "tags": ["加拿大国民", "Double-Double", "咖啡贝果"], "slogan": "Always Fresh",
+      "tier": "大众", "sub": "咖啡", "tags": ["加拿大国民", "Double-Double", "咖啡贝果"], "slogan": "Always Fresh",
       "desc": "加拿大国民咖啡,以冰球传奇球员命名,Double-Double(双奶双糖)是枫叶国的通用语言。",
       "story": "1964年冰球运动员 Tim Horton 开店,靠现磨咖啡+甜甜圈+贝果成为加拿大人清晨的第一站,全国每八杯咖啡就有一杯 Timmies。\n2019年以 Tims 天好咖啡进入中国,咖啡+贝果+暖食的组合主打第三空间。",
       "products": [
@@ -238,7 +238,7 @@
     {
       "id": "peets", "name": "皮爷咖啡", "nameEn": "Peet's Coffee", "domain": "peets.com",
       "categoryId": "drinks", "country": "美国", "founded": 1966, "hq": "伯克利",
-      "tier": "中档", "tags": ["深烘鼻祖", "星巴克师父", "伯克利"], "slogan": "The Original Craft Coffee",
+      "tier": "中档", "sub": "咖啡", "tags": ["深烘鼻祖", "星巴克师父", "伯克利"], "slogan": "The Original Craft Coffee",
       "desc": "1966年荷兰裔 Alfred Peet 在伯克利开的深烘咖啡店,星巴克三位创始人的师父,现磨精品咖啡的源头。",
       "story": "1966年 Peet 把欧洲重烘焙带进美国,星巴克三位创始人都在他店里学徒取经,第一年星巴克的豆子就是 Peet 供应的。深烘浓郁至今是它的签名。\n2017年进入中国走慢工出细活路线,上海首店排队盛况重现。",
       "products": [

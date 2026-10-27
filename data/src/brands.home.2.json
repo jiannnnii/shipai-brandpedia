@@ -3,7 +3,7 @@
     {
       "id": "ikea", "name": "宜家", "nameEn": "IKEA", "domain": "ikea.com.cn",
       "categoryId": "home", "country": "瑞典", "founded": 1943, "hq": "荷兰(宜家集团)",
-      "tier": "大众", "tags": ["平板包装", "瑞典肉丸", "自助家具"], "slogan": "为大众创造更美好的日常生活",
+      "tier": "大众", "sub": "家居零售", "tags": ["平板包装", "瑞典肉丸", "自助家具"], "slogan": "为大众创造更美好的日常生活",
       "desc": "Ingvar Kamprad 17岁创办的家居帝国:平板包装+自助组装+迷宫动线,全球最成功的家居零售品牌。",
       "story": "1943年 Kamprad 在瑞典小镇邮购铅笔起家,1956年发明平板包装。蓝黄大盒子+肉丸餐厅+样板间动线,让逛宜家成了生活方式。BILLY 书架平均每5秒卖出一个。\nKamprad 的节俭传说(开20年旧车)与民主设计理念同样出名。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "muji", "name": "无印良品", "nameEn": "MUJI", "domain": "muji.com.cn",
       "categoryId": "home", "country": "日本", "founded": 1980, "hq": "东京",
-      "tier": "中档", "tags": ["无品牌", "性冷淡", "良品计划"], "slogan": "This is what we aim to be",
+      "tier": "中档", "sub": "家居零售", "tags": ["无品牌", "性冷淡", "良品计划"], "slogan": "This is what we aim to be",
       "desc": "「无品牌」的品牌:1980年西武百货的自有品牌,极简美学+生活哲学,MUJI 已成为生活方式的代名词。",
       "story": "1980年堤清二与田中一光创立,「无印」即无牌子。设计大师原研哉与深泽直人加持,把「就这样就好」的哲学卖向全球。文具、收纳、服装、食品、酒店与民宿全产业布局。\n淘宝时代的「无印良品平替」是对其审美的最高致敬。",
       "products": [
@@ -31,7 +31,7 @@
     {
       "id": "kohler", "name": "科勒", "nameEn": "KOHLER", "domain": "kohler.com.cn",
       "categoryId": "home", "country": "美国", "founded": 1873, "hq": "威斯康星州科勒镇",
-      "tier": "中档", "tags": ["卫浴", "一体铸模", "科勒镇"], "slogan": "The Bold Look of Kohler",
+      "tier": "中档", "sub": "卫浴", "tags": ["卫浴", "一体铸模", "科勒镇"], "slogan": "The Bold Look of Kohler",
       "desc": "150年历史的美国卫浴巨头:一体铸模浴缸起家,连公司所在的小镇都以它命名。",
       "story": "1873年 John Michael Kohler 以3000美元收购铸铁厂,1883年给铸铁浴缸镀上珐琅——世界上第一只珐琅浴缸诞生。如今科勒是美国家族企业的常青树。\n五星级酒店的卫浴常客,Artifacts 复古系列是设计师最爱。",
       "products": [
@@ -45,7 +45,7 @@
     {
       "id": "toto", "name": "TOTO", "nameEn": "TOTO", "domain": "toto.com.cn",
       "categoryId": "home", "country": "日本", "founded": 1917, "hq": "北九州",
-      "tier": "中档", "tags": ["卫洗丽", "智能马桶鼻祖", "日本卫浴"], "slogan": "People-First Innovation",
+      "tier": "中档", "sub": "卫浴", "tags": ["卫洗丽", "智能马桶鼻祖", "日本卫浴"], "slogan": "People-First Innovation",
       "desc": "1917年大仓和亲创立的日本卫浴之王:卫洗丽(智能马桶盖)的发明者,「洗净科技」的代名词。",
       "story": "1917年东洋陶器创立,1980年推出世界第一款智能马桶盖「卫洗丽」,全球销量过亿。去日本旅游背马桶盖的浪潮,TOTO 是原点。\n漩涡式冲水与纳米釉面是其硬科技。",
       "products": [
@@ -59,7 +59,7 @@
     {
       "id": "jomoo", "name": "九牧", "nameEn": "JOMOO", "domain": "jomoo.cn",
       "categoryId": "home", "country": "中国", "founded": 1990, "hq": "泉州南安",
-      "tier": "大众", "tags": ["国产卫浴一哥", "五星酒店", "智能马桶"], "slogan": "科技让卫浴更懂生活",
+      "tier": "大众", "sub": "卫浴", "tags": ["国产卫浴一哥", "五星酒店", "智能马桶"], "slogan": "科技让卫浴更懂生活",
       "desc": "中国卫浴市占率第一:林氏父子的泉州卫浴帝国,智能马桶盖的国产平替先锋。",
       "story": "1990年林孝发兄弟从花洒起家,如今九牧是国产卫浴的绝对一哥,i80 智能马桶对标国际大牌半价。北京大兴机场、鸟巢都用它的产品。\n「小牧优家」副线打年轻市场。",
       "products": [
@@ -73,7 +73,7 @@
     {
       "id": "arrow", "name": "箭牌", "nameEn": "ARROW", "domain": "arrow.com.cn",
       "categoryId": "home", "country": "中国", "founded": 1994, "hq": "佛山",
-      "tier": "大众", "tags": ["箭牌家居", "乐华系", "瓷砖卫浴"], "slogan": "箭牌家居,让家更懂你",
+      "tier": "大众", "sub": "卫浴", "tags": ["箭牌家居", "乐华系", "瓷砖卫浴"], "slogan": "箭牌家居,让家更懂你",
       "desc": "乐华集团旗下国产卫浴大牌:箭牌卫浴、安华、法恩莎三驾马车,瓷砖卫浴全品类。",
       "story": "1994年谢岳荣在佛山创立,从马桶起家到全品类家居集团(箭牌家居上市)。与九牧的双雄之争贯穿国产卫浴十年。",
       "products": [
@@ -87,7 +87,7 @@
     {
       "id": "zwilling", "name": "双立人", "nameEn": "ZWILLING", "domain": "zwilling.com.cn",
       "categoryId": "home", "country": "德国", "founded": 1731, "hq": "索林根",
-      "tier": "中档", "tags": ["刀剪之王", "冰锻", "索林根"], "slogan": "ZWILLING – the art of cooking",
+      "tier": "中档", "sub": "锅具", "tags": ["刀剪之王", "冰锻", "索林根"], "slogan": "ZWILLING – the art of cooking",
       "desc": "1731年索林根的双子星刀标:德国刀剪之王,「冰锻工艺」与 Twin 系列让切菜变成享受。",
       "story": "1731年 Peter Henckels 注册双子商标,近三百年刀匠传承。冰锻工艺(-70°C 淬火)让刀刃持久锋利。2015年旗下还收购了法国 STAUB 铸铁锅与丹麦 Scanpan。\n婚礼嫁妆级别的厨具品牌。",
       "products": [
@@ -101,7 +101,7 @@
     {
       "id": "fissler", "name": "菲仕乐", "nameEn": "FISSLER", "domain": "fissler.com",
       "categoryId": "home", "country": "德国", "founded": 1845, "hq": "伊达尔-奥伯施泰因",
-      "tier": "中档", "tags": ["压力锅", "sunsteam", "德国锅具"], "slogan": "FISSLER – made in Germany",
+      "tier": "中档", "sub": "锅具", "tags": ["压力锅", "sunsteam", "德国锅具"], "slogan": "FISSLER – made in Germany",
       "desc": "1845年的德国锅具世家:太阳花锅底的最早发明者,压力锅与蜂窝晶盾不粘锅是招牌。",
       "story": "1845年 Carl Philipp Fissler 创立,1908年推出世界第一只民用压力锅。Solar 锅底的蜂窝结构让导热均匀,「一口锅用三代」的口碑。",
       "products": [
@@ -115,7 +115,7 @@
     {
       "id": "corning", "name": "康宁", "nameEn": "Corning", "domain": "corning.com",
       "categoryId": "home", "country": "美国", "founded": 1851, "hq": "纽约州康宁镇",
-      "tier": "中档", "tags": ["玻璃科技", "Pyrex", " Gorilla Glass"], "slogan": "Corning – glass innovator",
+      "tier": "中档", "sub": "锅具", "tags": ["玻璃科技", "Pyrex", " Gorilla Glass"], "slogan": "Corning – glass innovator",
       "desc": "1851年的玻璃科技巨头:爱迪生灯泡的玻璃壳、Pyrex 耐热玻璃、手机上的 Gorilla 大猩猩玻璃都出自它手。",
       "story": "1851年 Amory Houghton 创立,爱迪生灯泡玻璃壳是第一桶金。Pyrex 耐热玻璃(1915)改变了厨房,大猩猩玻璃(2007)几乎覆盖所有智能手机。\n光纤业务是全球互联网的血管。",
       "products": [
@@ -129,7 +129,7 @@
     {
       "id": "tupperware", "name": "特百惠", "nameEn": "Tupperware", "domain": "tupperware.com.cn",
       "categoryId": "home", "country": "美国", "founded": 1946, "hq": "奥兰多",
-      "tier": "中档", "tags": ["塑料保鲜", "家庭聚会", "直销鼻祖"], "slogan": "Tupperware – a lifetime of quality",
+      "tier": "中档", "sub": "锅具", "tags": ["塑料保鲜", "家庭聚会", "直销鼻祖"], "slogan": "Tupperware – a lifetime of quality",
       "desc": "1946年 Earl Tupper 发明塑料保鲜盒,「Tupperware Party」家庭聚会直销模式成为营销史经典。",
       "story": "1946年发明,1950年代 Brownie Wise 的家庭聚会模式让它病毒式传播。冰箱收纳与「用一辈子不变形」的品质口号深入人心。\n2023年申请破产保护后品牌重组,情怀仍在。",
       "products": [
@@ -143,7 +143,7 @@
     {
       "id": "locknlock", "name": "乐扣乐扣", "nameEn": "LOCK&LOCK", "domain": "locknlock.com",
       "categoryId": "home", "country": "韩国", "founded": 1985, "hq": "首尔",
-      "tier": "大众", "tags": ["四边锁", "保鲜盒", "韩流"], "slogan": "LOCK&LOCK,Lock the freshness",
+      "tier": "大众", "sub": "锅具", "tags": ["四边锁", "保鲜盒", "韩流"], "slogan": "LOCK&LOCK,Lock the freshness",
       "desc": "1985年金俊石的韩国保鲜盒品牌:四边锁扣+硅胶密封圈,「滴不漏」是它最响的招牌。",
       "story": "1985年创立,1997年四边锁保鲜盒专利让它一飞冲天,《大长今》时代随韩流进入中国。玻璃保鲜盒与水杯是王牌。",
       "products": [
@@ -156,7 +156,7 @@
     },
     {
       "id": "thermos", "name": "膳魔师", "nameEn": "THERMOS", "domain": "thermos.com.cn",
-      "categoryId": "home", "tags": ["保温杯", "1904", "真空断热"], "slogan": "THERMOS – keeps hot things hot",
+      "categoryId": "home", "sub": "锅具", "tags": ["保温杯", "1904", "真空断热"], "slogan": "THERMOS – keeps hot things hot",
       "desc": "1904年德国人 Reinhold Burger 把真空断热技术商品化:膳魔师保温杯是「从奶茶店到珠峰大本营」的百年经典。",
       "story": "1904年 Burger 注册 THERMOS(希腊语「热」),真空保温原理沿用至今。日本膳魔师(属日资)在中国运营,保温杯被中国家长视为「开学三件套」之一。",
       "products": [
@@ -169,7 +169,7 @@
     },
     {
       "id": "zojirushi", "name": "象印", "nameEn": "ZOJIRUSHI", "domain": "zojirushi.com",
-      "categoryId": "home", "tags": ["象鼻子", "保温杯", "电饭煲"], "slogan": "Inspired by your lifestyle",
+      "categoryId": "home", "sub": "锅具", "tags": ["象鼻子", "保温杯", "电饭煲"], "slogan": "Inspired by your lifestyle",
       "desc": "1918年大阪的象鼻子保温瓶:日本保温杯与电饭煲的顶级代表,「Made in Japan」的品质符号。",
       "story": "1918年市川兄弟创立,大象标志源于初代产品名。电饭煲(南部铁器内胆)与保温杯在中国高端市场地位崇高。",
       "products": [
@@ -182,7 +182,7 @@
     },
     {
       "id": "tiger", "name": "虎牌", "nameEn": "TIGER", "domain": "tiger-corporation.com",
-      "categoryId": "home", "tags": ["虎印", "保温杯", "电饭煲"], "slogan": "TIGER – wonderful in every sense",
+      "categoryId": "home", "sub": "锅具", "tags": ["虎印", "保温杯", "电饭煲"], "slogan": "TIGER – wonderful in every sense",
       "desc": "1923年日本的虎印保温瓶:与象印、膳魔师并称保温杯三巨头,土锅电饭煲是特色。",
       "story": "1923年近藤忠太郎在 Osaka 创立(虎印真空瓶),土锅压力 IH 电饭煲与保温杯是两大招牌。",
       "products": [
@@ -195,7 +195,7 @@
     },
     {
       "id": "kingkoil", "name": "金可儿", "nameEn": "King Koil", "domain": "kingkoil.com.cn",
-      "categoryId": "home", "tags": ["床垫", "脊椎保护", "ICA认证"], "slogan": "Comfort Solutions",
+      "categoryId": "home", "sub": "床垫", "tags": ["床垫", "脊椎保护", "ICA认证"], "slogan": "Comfort Solutions",
       "desc": "1898年美国的脊椎保护床垫专家:国际脊椎研究学会唯一认证的床垫品牌。",
       "story": "1898年 Samuel Bronstion 创立,与脊椎医学界合作研发,ICA 认证是其护脊招牌。五星级酒店(万豪、香格里拉)的合作常客。",
       "products": [
@@ -208,7 +208,7 @@
     },
     {
       "id": "sealy", "name": "丝涟", "nameEn": "Sealy", "domain": "sealy.com.cn",
-      "categoryId": "home", "tags": ["美姿感应", "床垫之王", "全球第一"], "slogan": "Sealy – the world's best selling mattress",
+      "categoryId": "home", "sub": "床垫", "tags": ["美姿感应", "床垫之王", "全球第一"], "slogan": "Sealy – the world's best selling mattress",
       "desc": "1881年德克萨斯的床垫之王:美姿感应弹簧技术,全球销量第一的床垫品牌。",
       "story": "1881年 Daniel Haynes 在德州小镇为邻居做棉被床垫,美姿(Posturepedic)弹簧技术1950年代问世后一骑绝尘。\n2013年与 Tempur 合并为 Tempur Sealy 集团。",
       "products": [
@@ -221,7 +221,7 @@
     },
     {
       "id": "serta", "name": "舒达", "nameEn": "Serta", "domain": "serta.com",
-      "categoryId": "home", "tags": ["妙而扣", "羊驼", "北美三巨头"], "slogan": "We make the world's best mattress",
+      "categoryId": "home", "sub": "床垫", "tags": ["妙而扣", "羊驼", "北美三巨头"], "slogan": "We make the world's best mattress",
       "desc": "1931年芝加哥的北美床垫三巨头之一:妙而扣连续弹簧系统与「羊驼」IP 出圈。",
       "story": "1931年13家独立床垫商联合创立 Serta,Serta Perfect Sleeper 是销量传奇。 Sheep(数羊的羊驼)广告深入人心。\n与丝涟、席梦思同属(各自主打)北美格局。",
       "products": [
@@ -234,7 +234,7 @@
     },
     {
       "id": "simmons", "name": "席梦思", "nameEn": "Simmons", "domain": "simmons.com",
-      "categoryId": "home", "tags": ["弹簧床垫鼻祖", "Beautyrest", "一个名字一个品类"], "slogan": "Simmons – better sleep",
+      "categoryId": "home", "sub": "床垫", "tags": ["弹簧床垫鼻祖", "Beautyrest", "一个名字一个品类"], "slogan": "Simmons – better sleep",
       "desc": "1870年 Zalmon Simmons 的威州公司:1925年发明独立袋装弹簧(Beautyrest),让「席梦思」成为床垫的中文代名词。",
       "story": "1870年创立,1876年开始做床垫,1925年 John 的独立袋装弹簧专利改变行业。几经破产重组,品牌价值依然坚挺。\n在中国,「席梦思」三个字=床垫。",
       "products": [
@@ -247,7 +247,7 @@
     },
     {
       "id": "derucci", "name": "慕思", "nameEn": "DeRUCCI", "domain": "derucci.com",
-      "categoryId": "home", "tags": ["健康睡眠", "国产高端", "IPO"], "slogan": "让人们睡得更好",
+      "categoryId": "home", "sub": "床垫", "tags": ["健康睡眠", "国产高端", "IPO"], "slogan": "让人们睡得更好",
       "desc": "2004年东莞的健康睡眠系统品牌:把「床垫+床架+枕头」打包成睡眠解决方案的国产高端。",
       "story": "2004年王炳坤兄弟创立,以「健康睡眠专家」定位+明星代言迅速登顶国产高端。2022年深交所上市。\n凯奇 老爷子的广告形象深入人心。",
       "products": [
@@ -261,7 +261,7 @@
     {
       "id": "kuka", "name": "顾家家居", "nameEn": "KUKA HOME", "domain": "kuka.com",
       "categoryId": "home", "country": "中国", "founded": 1982, "hq": "杭州",
-      "tier": "中档", "tags": ["沙发之王", "软体家具", "顾江生"], "slogan": "因为顾家,所以爱家",
+      "tier": "中档", "sub": "家居零售", "tags": ["沙发之王", "软体家具", "顾江生"], "slogan": "因为顾家,所以爱家",
       "desc": "从杭州沙发作坊到软体家具之王:顾家家居的沙发、床垫与全屋定制全面开花。",
       "story": "1982年顾氏家族在南通(后迁杭州)做沙发,顾江生带领上市并连续收购( Natuzzi 中国、Rolf Benz 等)成为软体之王。\n「顾家」二字与品牌名成了国民梗。",
       "products": [
@@ -275,7 +275,7 @@
     {
       "id": "ecovacs", "name": "科沃斯", "nameEn": "ECOVACS", "domain": "ecovacs.com",
       "categoryId": "home", "country": "中国", "founded": 1998, "hq": "苏州",
-      "tier": "大众", "tags": ["扫地机器人", "地宝", "钱东奇"], "slogan": "让机器人服务全人类",
+      "tier": "大众", "sub": "清洁电器", "tags": ["扫地机器人", "地宝", "钱东奇"], "slogan": "让机器人服务全人类",
       "desc": "1998年钱东奇创立的「地宝」:全球扫地机器人的开创者之一,从代工吸尘器到服务机器人第一股。",
       "story": "1998年做吸尘器代工,2006年推出「地宝」扫地机器人,2018年上市。X 系列自清洁基站把「扫拖一体」做到极致。\n添可(Tineco)洗地机是其第二曲线。",
       "products": [
@@ -289,7 +289,7 @@
     {
       "id": "roborock", "name": "石头科技", "nameEn": "Roborock", "domain": "roborock.com",
       "categoryId": "home", "country": "中国", "founded": 2014, "hq": "北京",
-      "tier": "中档", "tags": ["小米系", "LDS激光", "科创上市"], "slogan": "Roborock – clean smarter",
+      "tier": "中档", "sub": "清洁电器", "tags": ["小米系", "LDS激光", "科创上市"], "slogan": "Roborock – clean smarter",
       "desc": "2014年昌敬创立的小米生态链出身:以 LDS 激光导航崛起,如今全球扫地机的高端旗手。",
       "story": "2014年创立,早期为小米米家扫地机代工,2017年推自有品牌。LDS 导航、声波震动拖地与 G10S/G20 系列技术领先。\n2020年科创板上市,海外收入过半。",
       "products": [
@@ -303,7 +303,7 @@
     {
       "id": "dreame", "name": "追觅", "nameEn": "Dreame", "domain": "dreame.com",
       "categoryId": "home", "country": "中国", "founded": 2017, "hq": "北京",
-      "tier": "大众", "tags": ["小米系", "高速马达", "全球化"], "slogan": "Dreame – Dream big",
+      "tier": "大众", "sub": "清洁电器", "tags": ["小米系", "高速马达", "全球化"], "slogan": "Dreame – Dream big",
       "desc": "2017年俞浩(清华天工社)创立的小米系黑马:以15万转高速马达为核心,扫地机与洗地机全线爆发。",
       "story": "2017年创立于小米生态链,高速数字马达是技术底座。X 系列扫地机、H 系列洗地机与吹风机全线出海,欧洲市场增长凶猛。",
       "products": [
@@ -316,7 +316,7 @@
     },
     {
       "id": "hansgrohe", "name": "汉斯格雅", "nameEn": "hansgrohe", "domain": "hansgrohe.cn",
-      "categoryId": "home", "tags": ["德国花洒", "飞雨", "120年"], "slogan": "Meet the future of water",
+      "categoryId": "home", "sub": "卫浴", "tags": ["德国花洒", "飞雨", "120年"], "slogan": "Meet the future of water",
       "desc": "1901年 Hans Grohe 在黑森林创立的卫浴顶奢:飞雨(RainAir)花洒把淋浴做成雨林体验。",
       "story": "1901年创立,父亲是.mixer 龙头工艺先驱。飞雨系列让花洒出水「像雨」;AXOR 顶级线是设计师卫浴的王者。\n汉斯格雅=酒店总统套房的花洒。",
       "products": [
@@ -329,7 +329,7 @@
     },
     {
       "id": "moen", "name": "摩恩", "nameEn": "MOEN", "domain": "moen.com.cn",
-      "categoryId": "home", "tags": ["美国龙头", "单柄水龙头", "富俊集团"], "slogan": "Buy it for looks, buy it for life",
+      "categoryId": "home", "sub": "卫浴", "tags": ["美国龙头", "单柄水龙头", "富俊集团"], "slogan": "Buy it for looks, buy it for life",
       "desc": "1937年 Al Moen 发明单柄冷热水龙头:摩恩由此成为美式卫浴龙头的代名词。",
       "story": "1937年 Al Moen 被水龙头烫伤后发明单柄混合龙头,1939年上市。如今属 Fortune Brands,北美市占率第一。\nMotionSense 感应龙头是科技线。",
       "products": [

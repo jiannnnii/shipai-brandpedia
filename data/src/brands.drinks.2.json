@@ -3,7 +3,7 @@
     {
       "id": "moutai", "name": "贵州茅台", "nameEn": "MOUTAI", "domain": "moutaichina.com",
       "categoryId": "drinks", "country": "中国", "founded": 1951, "hq": "贵州仁怀茅台镇",
-      "tier": "顶奢", "tags": ["酱香", "国酒", "硬通货"], "slogan": "酿造美好生活",
+      "tier": "顶奢", "sub": "白酒", "tags": ["酱香", "国酒", "硬通货"], "slogan": "酿造美好生活",
       "desc": "A股股王的酱香白酒,赤水河畔的12987工艺,一瓶难求的液体黄金。",
       "story": "1951年由成义、荣和、恒兴三家烧坊合并而成,酱香工艺「12987」(一年周期、两次投料、九次蒸煮、八次发酵、七次取酒)代代相传。巴拿马万国博览会「一摔成名」的故事妇孺皆知。\n茅台早已超出饮品范畴:宴请、收藏、投资,54度飞天是社交场上的通用语言。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "wuliangye", "name": "五粮液", "nameEn": "WULIANGYE", "domain": "wuliangye.com.cn",
       "categoryId": "drinks", "country": "中国", "founded": 1909, "hq": "四川宜宾",
-      "tier": "顶奢", "tags": ["浓香", "五种粮食", "长江首城"], "slogan": "中国的五粮液,世界的五粮液",
+      "tier": "顶奢", "sub": "白酒", "tags": ["浓香", "五种粮食", "长江首城"], "slogan": "中国的五粮液,世界的五粮液",
       "desc": "浓香型白酒的老大:高粱、大米、糯米、小麦、玉米五种粮食酿造,明代古窖池至今在用。",
       "story": "1909年晚清举人杨惠泉取名「五粮液」,此前的明代陈氏秘方在宜宾延续六百年。十里酒城与501年不间断发酵的古窖池群,是浓香工艺的活化石。\n普五(第八代)是商务宴请的硬通货,与茅台的「茅五之争」是中国白酒的双雄戏。",
       "products": [
@@ -31,7 +31,7 @@
     {
       "id": "luzhoulaojiao", "name": "泸州老窖", "nameEn": "LU ZHOU LAO JIAO", "domain": "lzlj.com",
       "categoryId": "drinks", "country": "中国", "founded": 1573, "hq": "四川泸州",
-      "tier": "高奢", "tags": ["浓香鼻祖", "国窖1573", "活窖池"], "slogan": "让世界品味中国",
+      "tier": "高奢", "sub": "白酒", "tags": ["浓香鼻祖", "国窖1573", "活窖池"], "slogan": "让世界品味中国",
       "desc": "浓香型白酒的鼻祖,1573国宝窖池群连续使用450年,「你能品味的历史」。",
       "story": "泸州老窖的舒聚源糟坊始于明朝万历年间(1573),其国宝窖池群是全国重点文物保护单位,不间断使用至今。「浓香从泸州来」是行业共识。\n国窖1573对标茅五,特曲则是老酒民的心头好。",
       "products": [
@@ -45,7 +45,7 @@
     {
       "id": "fenjiu", "name": "汾酒", "nameEn": "Fenjiu", "domain": "fenjiu.com.cn",
       "categoryId": "drinks", "country": "中国", "founded": 1949, "hq": "山西汾阳杏花村",
-      "tier": "高奢", "tags": ["清香", "杏花村", "最早的国酒"], "slogan": "把美酒献给美好时代",
+      "tier": "高奢", "sub": "白酒", "tags": ["清香", "杏花村", "最早的国酒"], "slogan": "把美酒献给美好时代",
       "desc": "清香型白酒之祖,「借问酒家何处有,牧童遥指杏花村」,1500年南北朝起的历史。",
       "story": "汾酒的历史可追到南北朝的「汾清」酒,1915年巴拿马甲等大奖章得主。新中国第一届全国评酒会「四大名酒」之首。清香工艺的地缸发酵干净利落。\n玻汾(黄盖玻汾)被誉为「性价比之王」,青花系列扛起高端。",
       "products": [
@@ -59,7 +59,7 @@
     {
       "id": "jiannanchun", "name": "剑南春", "nameEn": "Jiannanchun", "domain": "jiannanchun.com",
       "categoryId": "drinks", "country": "中国", "founded": 1951, "hq": "四川绵竹",
-      "tier": "高奢", "tags": ["浓香", "大唐御酒", "水晶剑"], "slogan": "唐时宫廷酒,盛世剑南春",
+      "tier": "高奢", "sub": "白酒", "tags": ["浓香", "大唐御酒", "水晶剑"], "slogan": "唐时宫廷酒,盛世剑南春",
       "desc": "唐代宫廷酒的传承者,水晶剑是300元档最能打的浓香,历史可追溯到「剑南烧春」。",
       "story": "唐代李肇《唐国史补》记载「酒则有……剑南之烧春」,剑南春是正史留名的御酒。1990年代与茅五并列「茅五剑」。天益老号窖池遗址证明其千年酿造史。\n水晶剑多年不涨价死磕性价比,是婚宴宴请的硬通货。",
       "products": [
@@ -73,7 +73,7 @@
     {
       "id": "yanghe", "name": "洋河", "nameEn": "Yanghe", "domain": "yanghe.com",
       "categoryId": "drinks", "country": "中国", "founded": 1949, "hq": "江苏宿迁",
-      "tier": "高奢", "tags": ["绵柔", "梦之蓝", "蓝色经典"], "slogan": "梦想,水一样的力量",
+      "tier": "高奢", "sub": "白酒", "tags": ["绵柔", "梦之蓝", "蓝色经典"], "slogan": "梦想,水一样的力量",
       "desc": "「绵柔型」的开创者:海之蓝、天之蓝、梦之蓝的蓝色矩阵横扫商务宴请。",
       "story": "洋河酿酒史始于唐、盛于明清,1949年国营建厂。2003年推出蓝色经典系列,「绵柔淡雅」风格与「蓝色的诱惑」营销让它跻身白酒前三。\n梦之蓝M6+、M9是高端局新宠,手工班则是超高端答卷。",
       "products": [
@@ -87,7 +87,7 @@
     {
       "id": "hennessy", "name": "轩尼诗", "nameEn": "Hennessy", "domain": "hennessy.com",
       "categoryId": "drinks", "country": "法国", "founded": 1765, "hq": "干邑",
-      "tier": "顶奢", "tags": ["干邑", "XO发明者", "LVMH"], "slogan": "Pour the Next Chapter",
+      "tier": "顶奢", "sub": "洋酒", "tags": ["干邑", "XO发明者", "LVMH"], "slogan": "Pour the Next Chapter",
       "desc": "干邑世界的王者:爱尔兰人Richard Hennessy创立,XO级别由它发明,LVMH的现金牛。",
       "story": "1765年爱尔兰军官 Hennessy 在干邑创业,把「生命之水」卖回英伦与美洲。1870年首创XO(Extra Old)等级,星形标志取自 battle 荣誉勋章。\n如今与LV同属LVMH,VSOP与XO在中国夜场与宴请中地位崇高。",
       "products": [
@@ -101,7 +101,7 @@
     {
       "id": "martell", "name": "马爹利", "nameEn": "Martell", "domain": "martell.com",
       "categoryId": "drinks", "country": "法国", "founded": 1715, "hq": "干邑",
-      "tier": "顶奢", "tags": ["最老干邑", "蓝带", "边缘区"], "slogan": "Reach for the stars",
+      "tier": "顶奢", "sub": "洋酒", "tags": ["最老干邑", "蓝带", "边缘区"], "slogan": "Reach for the stars",
       "desc": "现存最古老的干邑世家:1715年泽西岛人Jean Martell创立,蓝带(Cordon Bleu)是全球认知度最高的干邑单品之一。",
       "story": "1715年Jean Martell渡海来到干邑创业,偏爱边缘区(Borderies)葡萄园的圆润风格,双重蒸馏工艺自成一派。1912年蓝带问世,如今是亚洲宴请的超级符号。\n隶属保乐力加,与轩尼诗的人头马并称干邑三巨头。",
       "products": [
@@ -115,7 +115,7 @@
     {
       "id": "remymartin", "name": "人头马", "nameEn": "Rémy Martin", "domain": "remymartin.com",
       "categoryId": "drinks", "country": "法国", "founded": 1724, "hq": "干邑",
-      "tier": "顶奢", "tags": ["特优香槟干邑", "人头马一开", "科涅克"], "slogan": "人头马一开,好事自然来",
+      "tier": "顶奢", "sub": "洋酒", "tags": ["特优香槟干邑", "人头马一开", "科涅克"], "slogan": "人头马一开,好事自然来",
       "desc": "只做特优香槟区(Fine Champagne)原料的干邑世家,「人头马一开,好事自然来」是华语圈最强广告语之一。",
       "story": "1724年Rémy Martin创立,家族五代坚持只用大、小香槟区的葡萄,故称「特优香槟干邑」。人马座logo寓意「半人半神的追逐」。\nXO与路易十三(Louis XIII)是其王冠上的宝石,后者一瓶汇聚上千种生命之水。",
       "products": [
@@ -129,7 +129,7 @@
     {
       "id": "chivas", "name": "芝华士", "nameEn": "Chivas Regal", "domain": "chivas.com",
       "categoryId": "drinks", "country": "苏格兰", "founded": 1801, "hq": "斯佩塞",
-      "tier": "高奢", "tags": ["调和威士忌", "12年", "保乐力加"], "slogan": "Live with Chivalry",
+      "tier": "高奢", "sub": "洋酒", "tags": ["调和威士忌", "12年", "保乐力加"], "slogan": "Live with Chivalry",
       "desc": "调和威士忌的贵族典范:1801年芝华士兄弟的杂货铺,12年调和威士忌的开创者。",
       "story": "1801年James与John Chivas兄弟在阿伯丁经营食品杂货,1843年起成为王室御用。1840年代首创「陈年调和」概念,12年芝华士让「年份」成为威士忌的通用语言。\n如今属保乐力加,与皇家礼炮(21年)同门。",
       "products": [
@@ -143,7 +143,7 @@
     {
       "id": "johnniewalker", "name": "尊尼获加", "nameEn": "Johnnie Walker", "domain": "johnniewalker.com",
       "categoryId": "drinks", "country": "苏格兰", "founded": 1820, "hq": "基尔马诺克",
-      "tier": "中档", "tags": ["方瓶", "行走的绅士", "颜色矩阵"], "slogan": "Keep Walking",
+      "tier": "中档", "sub": "洋酒", "tags": ["方瓶", "行走的绅士", "颜色矩阵"], "slogan": "Keep Walking",
       "desc": "全球销量第一的苏格兰威士忌:斜标方瓶+颜色分级(红黑绿金蓝),「Keep Walking」广告语传遍全球。",
       "story": "1820年John Walker在基尔马诺克开杂货店卖茶与威士忌,儿子们发明了标志性的方形瓶(防碎)与斜贴标签。1909年红方黑方命名,颜色阶梯从此成为全球消费者的入门地图。\n如今隶属帝亚吉欧,是全球销量最大的苏格兰威士忌。",
       "products": [
@@ -157,7 +157,7 @@
     {
       "id": "macallan", "name": "麦卡伦", "nameEn": "The Macallan", "domain": "themacallan.com",
       "categoryId": "drinks", "country": "苏格兰", "founded": 1824, "hq": "斯佩塞埃格斯",
-      "tier": "顶奢", "tags": ["单一麦芽", "雪莉桶", "拍卖之王"], "slogan": "Exceptional Single Malt",
+      "tier": "顶奢", "sub": "洋酒", "tags": ["单一麦芽", "雪莉桶", "拍卖之王"], "slogan": "Exceptional Single Malt",
       "desc": "单一麦芽威士忌的「劳斯莱斯」:雪莉桶+小规模蒸馏器,拍卖行价格纪录的常客。",
       "story": "1824年法定 licensing 时代最早的合法酒厂之一,坚持小Still蒸馏取酒芯与雪莉桶陈酿,酒体深沉如琥珀。1926年记录的麦卡伦60年拍卖出两千万人民币级天价。\n新酒庄由Bill Ackman…不,是Rogers Stirk Harbour设计,穹顶建筑本身即地标。",
       "products": [
@@ -171,7 +171,7 @@
     {
       "id": "jackdaniels", "name": "杰克丹尼", "nameEn": "Jack Daniel's", "domain": "jackdaniels.com",
       "categoryId": "drinks", "country": "美国", "founded": 1866, "hq": "田纳西州林奇堡",
-      "tier": "中档", "tags": ["田纳西威士忌", "枫糖炭香", "方瓶"], "slogan": "Mellowed drop by drop",
+      "tier": "中档", "sub": "洋酒", "tags": ["田纳西威士忌", "枫糖炭香", "方瓶"], "slogan": "Mellowed drop by drop",
       "desc": "美国田纳西威士忌之王:枫木炭过滤的「滴滤」工艺赋予独特顺滑,黑标方瓶是全球夜店的通用符号。",
       "story": "1866年Jasper「Jack」Daniel 在林奇堡注册酒厂,七号配方沿用至今。枫木炭滴滤(Charcoal Mellowing)让它区别于波本,自称田纳西威士忌品类。\nNo.7 的黑色方瓶与可乐是鸡尾酒界的国民组合。",
       "products": [
@@ -185,7 +185,7 @@
     {
       "id": "jameson", "name": "尊美醇", "nameEn": "Jameson", "domain": "jamesonwhiskey.com",
       "categoryId": "drinks", "country": "爱尔兰", "founded": 1780, "hq": "都柏林",
-      "tier": "大众", "tags": ["爱尔兰威士忌", "三次蒸馏", "顺滑"], "slogan": "Widen the circle",
+      "tier": "大众", "sub": "洋酒", "tags": ["爱尔兰威士忌", "三次蒸馏", "顺滑"], "slogan": "Widen the circle",
       "desc": "全球销量第一的爱尔兰威士忌:三次蒸馏+壶式蒸馏器混合,顺滑到可以「一口闷」。",
       "story": "1780年John Jameson 在都柏林 bow street 建厂,坚持三次蒸馏的爱尔兰传统,比苏格兰多一次,口感圆润少烟熏。「The Irish Answer」的幽默营销深得人心。\n如今属保乐力加,是酒吧里最便宜的爱尔兰正统。",
       "products": [
@@ -199,7 +199,7 @@
     {
       "id": "absolut", "name": "绝对伏特加", "nameEn": "Absolut", "domain": "absolut.com",
       "categoryId": "drinks", "country": "瑞典", "founded": 1879, "hq": "Åhus",
-      "tier": "大众", "tags": ["伏特加", "药瓶瓶身", "艺术营销"], "slogan": "Shake your usual",
+      "tier": "大众", "sub": "洋酒", "tags": ["伏特加", "药瓶瓶身", "艺术营销"], "slogan": "Shake your usual",
       "desc": "瑞典国酒:1879年Lars Olsson Smith的「绝对纯净」理念,药瓶造型的瓶子是广告艺术史的一部分。",
       "story": "1879年「伏特加之王」Smith 推出绝对纯净的连续蒸馏伏特加。1979年药瓶造型的 Absolut 瓶登陆美国,Andy Warhol 为其作画开启「Absolut Art」营销神话,上千位艺术家为它创作。\n如今属保乐力加,是全球第二大国际伏特加品牌。",
       "products": [
@@ -213,7 +213,7 @@
     {
       "id": "greygoose", "name": "灰雁", "nameEn": "Grey Goose", "domain": "greygoose.com",
       "categoryId": "drinks", "country": "法国", "founded": 1997, "hq": "干邑区",
-      "tier": "中档", "tags": ["超高端伏特加", "法国","灰雁标准"], "slogan": "World's Best Tasting Vodka",
+      "tier": "中档", "sub": "洋酒", "tags": ["超高端伏特加", "法国","灰雁标准"], "slogan": "World's Best Tasting Vodka",
       "desc": "1997年美国富豪Sidney Frank专为「超高端伏特加」而生的品牌:法国小麦+香槟区水源,五年做成了行业神话。",
       "story": "Sidney Frank 看准了「法国=高级」的溢价空间,用皮卡第冬小麦与干邑区天然泉水,一次性蒸馏灌装,定价翻倍却大获成功,2014年卖给 Bacardi 时身价数十亿。\n瓶身上的飞跃灰雁与法兰西 limestone 水源是它的故事内核。",
       "products": [
@@ -227,7 +227,7 @@
     {
       "id": "suntory", "name": "三得利·山崎", "nameEn": "Yamazaki", "domain": "suntory.com",
       "categoryId": "drinks", "country": "日本", "founded": 1923, "hq": "大阪山崎",
-      "tier": "顶奢", "tags": ["日本威士忌之父", "水楢桶", "拍卖神话"], "slogan": "Suntory whisky is 人的梦",
+      "tier": "顶奢", "sub": "洋酒", "tags": ["日本威士忌之父", "水楢桶", "拍卖神话"], "slogan": "Suntory whisky is 人的梦",
       "desc": "日本威士忌的起点:1923年鸟井信治郎建日本第一座麦芽威士忌蒸馏所,水楢桶的东方禅意与12年神话让它成为拍卖场之王。",
       "story": "1923年鸟井信治郎邀来竹鹤政孝建山崎蒸馏所(二人后分道扬镳,竹鹤创Nikka)。山崎地处京都桂川、宇治川、木津川交汇,水楢桶赋予伽罗檀香般的东方气息。\n山崎12年曾被评为全球最佳,水楢12/25年价格十年翻数十倍。",
       "products": [
@@ -241,7 +241,7 @@
     {
       "id": "guinness", "name": "健力士", "nameEn": "Guinness", "domain": "guinness.com",
       "categoryId": "drinks", "country": "爱尔兰", "founded": 1759, "hq": "都柏林",
-      "tier": "大众", "tags": ["世涛", "黑金", "吉尼斯纪录"], "slogan": "Made of More",
+      "tier": "大众", "sub": "啤酒", "tags": ["世涛", "黑金", "吉尼斯纪录"], "slogan": "Made of More",
       "desc": "1759年Arthur Guinness签下9000年租约的黑啤帝国,「吉尼斯世界纪录」正源于其老板的一场打赌。",
       "story": "1759年Arthur以每年45镑租下都柏林圣詹姆士门酒厂9000年。世涛黑啤的氮气球泡沫如天鹅绒,「等待119.5秒倒一杯」是它的仪式。1950年代酒厂老板Hugh Beaver与人争论猎物速度,顺手创办了《吉尼斯世界纪录》。\n全球每年卖掉近20亿品脱。",
       "products": [
@@ -255,7 +255,7 @@
     {
       "id": "heineken", "name": "喜力", "nameEn": "Heineken", "domain": "heineken.com",
       "categoryId": "drinks", "country": "荷兰", "founded": 1864, "hq": "阿姆斯特丹",
-      "tier": "大众", "tags": ["绿瓶", "欧战足球", "A-yeast"], "slogan": "Open Your World",
+      "tier": "大众", "sub": "啤酒", "tags": ["绿瓶", "欧战足球", "A-yeast"], "slogan": "Open Your World",
       "desc": "绿色瓶子的世界第二大啤酒集团:1864年 Gerard Heineken 购得阿姆斯特丹 De Hooiberg 酒厂,A酵母配方延续至今。",
       "story": "1864年22岁的 Gerard Heineken 接手老酒厂,1873年启用专属A酵母(H-level),横扫国际博览会金奖。欧冠、F1的绿色广告牌是全球体育营销的常青树。\n银河系之外,它在地球每年卖掉两亿多升——具体是 2.4 亿升。",
       "products": [
@@ -269,7 +269,7 @@
     {
       "id": "budweiser", "name": "百威", "nameEn": "Budweiser", "domain": "budweiser.com",
       "categoryId": "drinks", "country": "美国", "founded": 1876, "hq": "圣路易斯",
-      "tier": "大众", "tags": ["拉格", "啤酒之王", "红白标"], "slogan": "King of Beers",
+      "tier": "大众", "sub": "啤酒", "tags": ["拉格", "啤酒之王", "红白标"], "slogan": "King of Beers",
       "desc": "自称「啤酒之王」的百年拉格:1876年 Adolphus Busch 用山毛榉木熟成工艺造出 Budweiser,红色蝴蝶结标是美式文化的旗帜。",
       "story": "1876年百威诞生,Busch 夫妇靠铁路与巴氏杀菌把它卖到全国。Super Bowl 广告、世界杯赞助、欧冠……「王冠上的蝴蝶结」无处不在。\n如今属 AB InBev(全球最大啤酒集团),在中国整合了哈啤、雪津等品牌。",
       "products": [
@@ -283,7 +283,7 @@
     {
       "id": "corona", "name": "科罗娜", "nameEn": "Corona Extra", "domain": "corona.com",
       "categoryId": "drinks", "country": "墨西哥", "founded": 1925, "hq": "墨西哥城",
-      "tier": "大众", "tags": ["透明瓶", "柠檬口", "海滩感"], "slogan": "La vida más fina",
+      "tier": "大众", "sub": "啤酒", "tags": ["透明瓶", "柠檬口", "海滩感"], "slogan": "La vida más fina",
       "desc": "墨西哥透明瓶拉格:瓶颈插一块青柠是喝科罗娜的全球通用仪式,「Find your beach」营销卖的是海滩阳光。",
       "story": "1925年 Grupo Modelo 推出科罗娜,透明瓶身本是墨西哥酒厂的散热妥协,却意外成了阳光人设。1997年进入美国后成为进口啤酒第一,疫情期间「去海滩」的广告翻车又翻红。\n如今同属 AB InBev,中国夜市烧烤摊的异域担当。",
       "products": [
@@ -297,7 +297,7 @@
     {
       "id": "tsingtao", "name": "青岛啤酒", "nameEn": "Tsingtao Brewery", "domain": "tsingtao.com.cn",
       "categoryId": "drinks", "country": "中国", "founded": 1903, "hq": "青岛",
-      "tier": "大众", "tags": ["百年啤酒", "崂山水", "一厂青岛"], "slogan": "青岛啤酒,欢聚这一杯",
+      "tier": "大众", "sub": "啤酒", "tags": ["百年啤酒", "崂山水", "一厂青岛"], "slogan": "青岛啤酒,欢聚这一杯",
       "desc": "1903年英德商人合资创办的中国现存最老啤酒厂,崂山矿泉水+青岛一厂原浆是老酒民心中的白月光。",
       "story": "1903年日耳曼啤酒公司青岛股份公司成立,此后日据、民国、国营一路走来。德国工艺+崂山泉水成就「青岛味道」。每年八月的青岛国际啤酒节,全城哈啤酒吃蛤蜊。\n远销全球一百多国,是海外中餐馆的默认选项。",
       "products": [

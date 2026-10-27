@@ -3,7 +3,7 @@
     {
       "id": "patek", "name": "百达翡丽", "nameEn": "Patek Philippe", "domain": "patek.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1839, "hq": "日内瓦",
-      "tier": "顶奢", "tags": ["日内瓦", "家族制表", "传世"], "slogan": "没人能真正拥有百达翡丽,只不过为下一代保管而已",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["日内瓦", "家族制表", "传世"], "slogan": "没人能真正拥有百达翡丽,只不过为下一代保管而已",
       "desc": "瑞士现存唯一全程家族独立经营的制表商,被视为腕表世界的巅峰, complicated 功能与传世价值并重。",
       "story": "1839年创立于日内瓦,1851年得名 Patek Philippe,始终由斯特恩家族经营。历史上的客户包括维多利亚女王、爱因斯坦,是世界上第一块腕表的制造者。\n品牌坚持全自产机芯与日内瓦印记,鹦鹉螺、手雷等运动表款在二级市场长期溢价。拍卖会上百达翡丽反复刷新腕表成交纪录,是公认的\"表王\"。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "ap", "name": "爱彼", "nameEn": "Audemars Piguet", "domain": "audemarspiguet.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1875, "hq": "布拉苏丝",
-      "tier": "顶奢", "tags": ["皇家橡树", "独立家族", "运动豪华"], "slogan": "驾驭常规,铸就创新",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["皇家橡树", "独立家族", "运动豪华"], "slogan": "驾驭常规,铸就创新",
       "desc": "瑞士最古老的制表世家之一,皇家橡树开创了 luxury sport 豪华运动表品类。",
       "story": "1875年,两位不到25岁的制表师 Jules Audemars 与 Edward Piguet 在汝山谷创立爱彼,至今仍由创始家族掌舵。1892年推出史上首枚三问腕表机芯。\n1972年,杰罗·尊达以战舰舷窗为灵感的皇家橡树横空出世,精钢表售价超过黄金表,彻底改写了高级制表规则,八角形表圈成为一代符号。",
       "products": [
@@ -30,7 +30,7 @@
     {
       "id": "vc", "name": "江诗丹顿", "nameEn": "Vacheron Constantin", "domain": "vacheron-constantin.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1755, "hq": "日内瓦",
-      "tier": "顶奢", "tags": ["最古老", "日内瓦印记", "艺术"], "slogan": "力行不辍,臻于至善",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["最古老", "日内瓦印记", "艺术"], "slogan": "力行不辍,臻于至善",
       "desc": "世界最古老的持续运营制表厂,历史比瑞士联邦还长,艺术表盘造诣深不可测。",
       "story": "1755年,24岁的让-马克·瓦什隆在日内瓦签下第一份学徒合同,江诗丹顿由此诞生,连续运营超过270年。十九世纪起为各国王室供货,中国故宫亦有藏品。\n品牌以\"日内瓦印记\"和艺术工艺(珐琅、雕刻、镂空)著称,Overseas纵横四海与Patrimony传承分别是运动与正装的当代答案。",
       "products": [
@@ -43,7 +43,7 @@
     {
       "id": "breguet", "name": "宝玑", "nameEn": "Breguet", "domain": "breguet.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1775, "hq": "拉布拉耶",
-      "tier": "顶奢", "tags": ["发明之王", "陀飞轮鼻祖", "王室御用"], "slogan": "制表师中的制表师",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["发明之王", "陀飞轮鼻祖", "王室御用"], "slogan": "制表师中的制表师",
       "desc": "现代制表几乎所有重要发明的源头:陀飞轮、宝玑摆轮、问表打簧都出自阿伯拉罕-路易·宝玑之手。",
       "story": "1775年宝玑大师在巴黎创业,先后为王后玛丽·安托瓦内特、拿破仑、丘吉尔造表。他发明的陀飞轮(1801年专利)至今仍是机械表最高技艺的象征,宝玑指针与宝玑数字沿用至今。\n如今宝玑隶属斯沃琪集团,经典系列的钱币纹表圈和镂空车轮指针一眼可辨,是\"血统\"二字最硬的注脚。",
       "products": [
@@ -56,7 +56,7 @@
     {
       "id": "blancpain", "name": "宝珀", "nameEn": "Blancpain", "domain": "blancpain.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1735, "hq": "锡耶雷",
-      "tier": "顶奢", "tags": ["最古老制表牌", "五十噚", "全自产"], "slogan": "经典时计的领导者",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["最古老制表牌", "五十噚", "全自产"], "slogan": "经典时计的领导者",
       "desc": "1735年诞生、世界上最古老的腕表品牌,现代潜水表鼻祖五十噚的缔造者。",
       "story": " Jehan-Jacques Blancpain 1735年在维莱雷田庄注册制表工坊,宝珀从此从未间断生产。品牌坚持\"不做石英表\"的原则,全部采用机械机芯。\n1953年问世的五十噚定义了现代潜水表的一切标准(旋转表圈、夜光、防水),比水鬼还早。今天宝珀隶属斯沃琪集团,是集团塔尖上的制表担当。",
       "products": [
@@ -69,7 +69,7 @@
     {
       "id": "jlc", "name": "积家", "nameEn": "Jaeger-LeCoultre", "domain": "jaeger-lecoultre.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1833, "hq": "勒桑捷",
-      "tier": "顶奢", "tags": ["大工坊", "超薄", "翻转表"], "slogan": "制表大工坊",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["大工坊", "超薄", "翻转表"], "slogan": "制表大工坊",
       "desc": "号称\"制表师中的制表师\",发明过1246种机芯,超薄与翻转表是两大名片。",
       "story": "1833年安东尼·勒考特在勒桑捷创办工坊,经过百年发展成为\"大工坊\"(Manufacture):从齿轮到表壳全部自产,并向百达翡丽、爱彼等供应过机芯。\n1931年为英国马球军官设计的Reverso翻转表,表壳一翻护住镜面,背面还可刻字,成为装饰艺术时代的活化石。",
       "products": [
@@ -82,7 +82,7 @@
     {
       "id": "iwc", "name": "万国", "nameEn": "IWC Schaffhausen", "domain": "iwc.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1868, "hq": "沙夫豪森",
-      "tier": "高奢", "tags": ["飞行员表", "大飞", "工程师"], "slogan": "卓越的工程艺术",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["飞行员表", "大飞", "工程师"], "slogan": "卓越的工程艺术",
       "desc": "美国工程师 Florentine Jones 创立于莱茵河畔,以大表径飞行员表和工程师文化著称。",
       "story": "1868年,美国工程师琼斯跑到瑞士,把美国化的工程思维带进制表业,创立万国。二十世纪为军方造飞行员表、为工程师造防磁表,大表径、强机芯的形象深入人心。\n万国隶属历峰集团,葡计、大飞、马克系列是最著名的组合,男性气质拉满,\"男人味的表\"民间票选常年第一。",
       "products": [
@@ -95,7 +95,7 @@
     {
       "id": "piaget", "name": "伯爵", "nameEn": "PIAGET", "domain": "piaget.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1874, "hq": "仙子坡",
-      "tier": "顶奢", "tags": ["超薄之王", "珠宝表", "金匠"], "slogan": "永远做得比要求的更好",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["超薄之王", "珠宝表", "金匠"], "slogan": "永远做得比要求的更好",
       "desc": "从汝山谷农庄走出的制表珠宝双修世家,超薄机芯纪录保持者,\"钱不是问题\"的奢华美学。",
       "story": "1874年乔治·爱德华·伯爵在仙子坡农舍里为顶级品牌装配精密机芯,二战后自创品牌,1960年代以超薄机芯和大胆的宝石表盘震动业界,\"金比钢多\"的用料哲学自成一派。\n如今伯爵隶属历峰集团,Altiplano超薄与Polo系列双线并行,珠宝工坊仍在为高级定制续写华彩。",
       "products": [
@@ -108,7 +108,7 @@
     {
       "id": "chopard", "name": "萧邦", "nameEn": "Chopard", "domain": "chopard.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1860, "hq": "日内瓦",
-      "tier": "高奢", "tags": ["珠宝表", "快乐钻石", "赛车计时"], "slogan": "载誉而行",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["珠宝表", "快乐钻石", "赛车计时"], "slogan": "载誉而行",
       "desc": "珠宝与制表双栖的家族企业,快乐钻石灵动全球,Mille Miglia 赛车表年年迭代。",
       "story": "1860年路易·尤利西斯·萧邦在汝拉小镇创建精密机芯工坊,1963年并入舍费尔家族后珠宝基因全面觉醒。1976年\"快乐钻石\"让钻石在表盘里自由滑动,成为品牌最浪漫的签名。\n萧邦还是戛纳电影节官方合作伙伴与Mille Miglia复古赛车赛计时,家族至今独立经营,是奢侈行业里少见的\"小而美\"。",
       "products": [
@@ -121,7 +121,7 @@
     {
       "id": "gp", "name": "芝柏", "nameEn": "Girard-Perregaux", "domain": "girard-perregaux.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1791, "hq": "拉绍德封",
-      "tier": "高奢", "tags": ["金桥", "老牌大厂", "三金桥"], "slogan": "未竟之志,持续向前",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["金桥", "老牌大厂", "三金桥"], "slogan": "未竟之志,持续向前",
       "desc": "1791年创立的老牌大厂,三金桥陀飞轮是制表史上被拍照最多的机芯结构之一。",
       "story": "让-弗朗索瓦·博特1791年在日内瓦开办表厂,后与吉拉尔家族合并成为芝柏。1860年代康斯坦特·吉拉尔把三枚金桥排成等边三角形,三金桥陀飞轮在1900年巴黎世博会拿金奖。\n芝柏隶属索风集团(LVMH背后家族的分支),Laureato 桂冠系列是1970年代一体式运动豪华的代表之一。",
       "products": [
@@ -134,7 +134,7 @@
     {
       "id": "ulysse", "name": "雅典表", "nameEn": "Ulysse Nardin", "domain": "ulysse-nardin.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1846, "hq": "勒洛克",
-      "tier": "高奢", "tags": ["航海天文台", "珐琅", "奇想"], "slogan": "无畏前行",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["航海天文台", "珐琅", "奇想"], "slogan": "无畏前行",
       "desc": "以航海天文台钟起家,复辟珐琅微绘与奇想创意,是浪琴之前海洋计时真正的王者。",
       "story": "1846年,23岁的尤利西斯·纳德在勒洛克创办工坊,凭航海天文台钟服务全球海军,拿过18项国际大奖。1980年代新东家入主后,以三问、万年历与\"天文三部曲\"震惊业界,还复活了濒危的日内瓦珐琅微绘工艺。\n如今雅典隶属索风集团,Freak 奇想系列无指针无表冠的卡罗素结构,是当代最前卫的机械表达。",
       "products": [
@@ -147,7 +147,7 @@
     {
       "id": "glashuette", "name": "格拉苏蒂原创", "nameEn": "Glashütte Original", "domain": "glashuette-original.com",
       "categoryId": "watchjewel", "country": "德国", "founded": 1845, "hq": "格拉苏蒂",
-      "tier": "高奢", "tags": ["德系", "东德遗产", "鹅颈微调"], "slogan": "德国制表艺术的传承者",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["德系", "东德遗产", "鹅颈微调"], "slogan": "德国制表艺术的传承者",
       "desc": "德东格拉苏蒂小镇制表正统,四分之三夹板与鹅颈微调,德系高级制表双雄之一。",
       "story": "1845年费尔迪南多·阿道夫·朗格在萨克森创办制表业,格拉苏蒂小镇就此兴起。东德时代国营合并为GUB,两德统一后改制为格拉苏蒂原创,德系打磨传统完整保留。\n如今隶属斯沃琪集团,以Pano偏心与Senator议员两大系列立足,机芯美学与朗格各擅胜场,价格却是德系高定的甜点位。",
       "products": [
@@ -160,7 +160,7 @@
     {
       "id": "lange", "name": "朗格", "nameEn": "A. Lange & Söhne", "domain": "langepart.com",
       "categoryId": "watchjewel", "country": "德国", "founded": 1845, "hq": "格拉苏蒂",
-      "tier": "顶奢", "tags": ["德系表王", "四分之三夹板", "东德重生"], "slogan": "追求完美者,永不自满",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["德系表王", "四分之三夹板", "东德重生"], "slogan": "追求完美者,永不自满",
       "desc": "德系制表的巅峰,1994年凭Lange 1王者归来,机芯打磨被公认为世界顶级。",
       "story": "1845年费尔迪南多·阿道夫·朗格在格拉苏蒂奠基德国精密制表,四分之三夹板、鹅颈微调自此成为德系标签。东德时代品牌被国有化,1990年瓦尔特·朗格重返故土,1994年发布四款全新腕表,Lange 1 的偏心非对称布局一夜封神。\n如今朗格隶属历峰集团,年产仅数千枚,猫头鹰Zeitwerk跳字、Datograph计时都是一代神作,二级市场一表难求。",
       "products": [
@@ -173,7 +173,7 @@
     {
       "id": "franckmuller", "name": "法穆兰", "nameEn": "Franck Muller", "domain": "franckmuller.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1991, "hq": "日内瓦",
-      "tier": "高奢", "tags": ["酒桶形", "疯狂时间", "数字狂想"], "slogan": "制表艺术的极限挑战",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["酒桶形", "疯狂时间", "数字狂想"], "slogan": "制表艺术的极限挑战",
       "desc": "1991年创立的年轻大牌,酒桶形表壳与跳跃数字盘面自成一派,江湖人称\"疯狂时间\"。",
       "story": "制表天才法穆兰与合作伙伴1991年自立门户,以修复古董复杂表起家,很快以一年一枚\"世界首创\"复杂表立威。酒桶形Cintrée Curvex表壳把运动与正装揉成一体。\nVanguard与Crazy Hours(数字乱序跳动)是两大招牌,中东与亚洲市场尤其买账,年轻顶奢的代表。",
       "products": [
@@ -186,7 +186,7 @@
     {
       "id": "richardmille", "name": "里查德米尔", "nameEn": "Richard Mille", "domain": "richardmille.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 2001, "hq": "弗莱耶尔",
-      "tier": "顶奢", "tags": ["赛车科技", "百万起步", "新贵之王"], "slogan": " racing machine on the wrist(腕上的赛车机器)",
+      "tier": "顶奢", "sub": "顶级制表", "tags": ["赛车科技", "百万起步", "新贵之王"], "slogan": " racing machine on the wrist(腕上的赛车机器)",
       "desc": "2001年创立即封神的超新贵,建筑学表壳+赛车级材质,公价百万起步,新钱圈层硬通货。",
       "story": "里查德·米尔与爱彼前高管2001年创立品牌,把F1悬挂、航空钛材、纳米碳管直接搬进腕表,RM 001一亮相定价即百万级。赞助纳达尔、勒克莱尔等顶级运动员,手表戴着打大满贯都摔不坏。\n它的商业模式反传统:年产量数千枚、全球配额稀缺,二级市场常年翻倍,成为过去二十年最成功的奢侈品牌创业案例。",
       "products": [
@@ -199,7 +199,7 @@
     {
       "id": "hublot", "name": "宇舶", "nameEn": "HUBLOT", "domain": "hublot.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1980, "hq": "尼永",
-      "tier": "高奢", "tags": ["融合艺术", "大爆炸", "橡胶金"], "slogan": "融合的艺术",
+      "tier": "高奢", "sub": "豪华制表", "tags": ["融合艺术", "大爆炸", "橡胶金"], "slogan": "融合的艺术",
       "desc": "1980年以\"天然橡胶+黄金\"的混搭横空出世,大爆炸系列是21世纪最成功的运动表之一。",
       "story": "意大利人卡罗·克罗科1980年创立宇舶,首创贵金属表壳配天然橡胶表带,当年被视为离经叛道,如今成为行业标配。2005年Big Bang大爆炸问世,拿下多项年度大奖。\nLVMH收购后,前CEO比弗把\"融合的艺术\"推向极致:与足球世界杯、艺术家、超跑全面联名,陶瓷、蓝宝石、碳纤维换着花样玩。",
       "products": [
@@ -212,7 +212,7 @@
     {
       "id": "tagheuer", "name": "泰格豪雅", "nameEn": "TAG Heuer", "domain": "tagheuer.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1860, "hq": "拉绍德封",
-      "tier": "轻奢", "tags": ["赛车计时", "卡莱拉", "性价比"], "slogan": "勇于挑战,成就自我(Don't Crack Under Pressure)",
+      "tier": "轻奢", "sub": "时尚腕表", "tags": ["赛车计时", "卡莱拉", "性价比"], "slogan": "勇于挑战,成就自我(Don't Crack Under Pressure)",
       "desc": "赛车计时之王,卡莱拉与摩纳哥系列是汽车文化浓到化不开的计时码表。",
       "story": "1860年爱德华·豪雅在自家农场创办工坊,1887年发明摆动齿轮计时机构沿用百年。二十世纪绑定赛车运动,摩纳哥系列因史蒂夫·麦昆电影《Le Mans》封神。\n如今隶属LVMH,卡莱拉、摩纳哥、F1构成金字塔,400077级到十万的豪华计时跨度,是\"第一块豪华表\"的热门答案。",
       "products": [
@@ -225,7 +225,7 @@
     {
       "id": "tudor", "name": "帝舵", "nameEn": "TUDOR", "domain": "tudorwatch.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1926, "hq": "日内瓦",
-      "tier": "轻奢", "tags": ["劳力士小弟", "碧湾", "性价比之王"], "slogan": "生而为敢(Born To Dare)",
+      "tier": "轻奢", "sub": "时尚腕表", "tags": ["劳力士小弟", "碧湾", "性价比之王"], "slogan": "生而为敢(Born To Dare)",
       "desc": "劳力士创始人之子创立的同门品牌,用亲民价格提供劳系品质,碧湾系列是最强入门豪华潜水表。",
       "story": "1926年劳力士创始人汉斯·威尔斯多夫注册帝舵商标,1936年交由儿子掌管,理念很简单:让更多人以可承受的价格买到劳力士级别的可靠。历史上帝舵用劳力士表壳与表冠,机芯外购。\n2012年Heritage Black Bay(碧湾)复活古董水鬼美学,一炮而红;如今自产机芯全面铺开,专业潜水、计时、正装全线开花,是被藏书家反复点名的\"性价比天花板\"。",
       "products": [
@@ -238,7 +238,7 @@
     {
       "id": "longines", "name": "浪琴", "nameEn": "Longines", "domain": "longines.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1832, "hq": "圣伊米尔",
-      "tier": "中档", "tags": ["优雅", "飞行表鼻祖", "马术"], "slogan": "优雅态度,真我个性",
+      "tier": "中档", "sub": "时尚腕表", "tags": ["优雅", "飞行表鼻祖", "马术"], "slogan": "优雅态度,真我个性",
       "desc": "1832年老牌,飞行计时先驱,如今是\"一万到两万块买什么表\"的标准答案。",
       "story": "1832年奥古斯特·阿加西在圣伊米尔建工坊,浪琴曾在二十世纪初包揽无数航空纪录——林德伯格跨大西洋后专门为浪琴设计了林白表。\n如今隶属斯沃琪集团,定位优雅中档:名匠、康卡斯、先行者三大系列撑起门面,马术计时与体操赛事赞助延续品牌气质。",
       "products": [
@@ -251,7 +251,7 @@
     {
       "id": "tissot", "name": "天梭", "nameEn": "TISSOT", "domain": "tissotwatches.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1853, "hq": "勒洛克",
-      "tier": "入门", "tags": ["瑞士入门", "性价比", "NBA"], "slogan": "非凡创新,源于传统",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["瑞士入门", "性价比", "NBA"], "slogan": "非凡创新,源于传统",
       "desc": "\"入门瑞士表\"的同义词,1853年创立,把机械表价格打到了三四千块。",
       "story": "1853年夏尔-埃米尔·泰梭在勒洛克创业,从美国淘金热一路卖到沙俄宫廷。1983年并入斯沃琪集团后成为瑞士表入门担当,力洛克系列的机刻盘面三四千块就能拿下瑞士自动表。\n天梭还是NBA官方计时与世界自行车锦标赛计时,1853 logo 上的\"+\"号寓意\"瑞士制造+创新\"。",
       "products": [
@@ -264,7 +264,7 @@
     {
       "id": "mido", "name": "美度", "nameEn": "MIDO", "domain": "mido.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1918, "hq": "索罗图恩",
-      "tier": "入门", "tags": ["建筑灵感", "天文台认证", "长动力"], "slogan": "灵感印证永恒",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["建筑灵感", "天文台认证", "长动力"], "slogan": "灵感印证永恒",
       "desc": "1918年创立,以经典建筑为设计灵感,天文台认证+长动力是硬指标。",
       "story": "1918年乔治·斯卡隆在瑞士创立美度,设计师出身让他把建筑美学写进表壳:贝伦赛丽致敬巴黎歌剧院,指挥官致敬帝国大厦。品牌还酷爱天文台认证与超长动力,测过认证的机芯成堆。\n如今隶属斯沃琪集团,主打6000-15000价位段,是注重内在质量的理性派之选。",
       "products": [
@@ -277,7 +277,7 @@
     {
       "id": "hamilton", "name": "汉米尔顿", "nameEn": "Hamilton", "domain": "hamiltonwatch.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1892, "hq": "比恩",
-      "tier": "入门", "tags": ["美国血统", "军表", "好莱坞"], "slogan": "Every story starts with a Hamilton",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["美国血统", "军表", "好莱坞"], "slogan": "Every story starts with a Hamilton",
       "desc": "生于美国宾州的铁路军表品牌,如今瑞士制造,好莱坞电影里出镜率最高的手表。",
       "story": "1892年创立于宾夕法尼亚,以铁路精密计时起家,两次世界大战为美军供应军表,卡其野战与MWC飞行员表都是经典。1969年迁往瑞士,美国灵魂+瑞士工艺的混血身份延续至今。\n《星际穿越》《生死时速》《黑客帝国》……汉米尔顿的电影棚常年有专属角色位,\"电影表\"人设无可撼动。",
       "products": [
@@ -290,7 +290,7 @@
     {
       "id": "rado", "name": "雷达", "nameEn": "RADO", "domain": "rado.com",
       "categoryId": "watchjewel", "country": "瑞士", "founded": 1917, "hq": "伦格瑙",
-      "tier": "入门", "tags": ["高科技陶瓷", "不易磨损", "设计感"], "slogan": "If we can imagine it, we can make it",
+      "tier": "入门", "sub": "时尚腕表", "tags": ["高科技陶瓷", "不易磨损", "设计感"], "slogan": "If we can imagine it, we can make it",
       "desc": "材质先锋:1986年就做出全陶瓷表壳,\"不易磨损\"的代言人,设计大胆的瑞士品牌。",
       "story": "1917年以表厂起家,1962年推出全球首枚不易磨损的硬金属表DiaStar钻星,1986年做出全陶瓷表。雷达把高科技陶瓷、等离子、碳纤维玩了个遍,表面处理工艺在业内首屈一指。\n库克船长复古潜水与True Thinline真薄系列是当下主力,斯沃琪集团旗下定位设计的个性之选。",
       "products": [

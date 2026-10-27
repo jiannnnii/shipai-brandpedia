@@ -3,7 +3,7 @@
     {
       "id": "nestle", "name": "雀巢", "nameEn": "Nestlé", "domain": "nestle.com",
       "categoryId": "food", "country": "瑞士", "founded": 1866, "hq": "沃韦",
-      "tier": "大众", "tags": ["食品巨头", "咖啡", "婴儿奶粉"], "slogan": "Good Food, Good Life",
+      "tier": "大众", "sub": "饮料", "tags": ["食品巨头", "咖啡", "婴儿奶粉"], "slogan": "Good Food, Good Life",
       "desc": "全球最大食品公司,从婴儿奶粉到咖啡、矿泉水、宠物粮,超市货架的半壁江山都有它。",
       "story": "1866年内斯尔以婴儿奶粉起家,1905年与英瑞炼乳公司合并为雀巢。一个多世纪以来靠并购吞下了徐福记、太太乐、惠氏、星巴克零售业务授权等无数品牌。\n雀巢旗下 Nespresso、雀巢咖啡是中国速溶与胶囊咖啡的启蒙者,奇巧、脆脆鲨则是几代人的零食记忆。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "cocacola", "name": "可口可乐", "nameEn": "Coca-Cola", "domain": "coca-cola.com",
       "categoryId": "food", "country": "美国", "founded": 1886, "hq": "亚特兰大",
-      "tier": "大众", "tags": ["汽水", "红色经典", "全球符号"], "slogan": "Taste the Feeling",
+      "tier": "大众", "sub": "饮料", "tags": ["汽水", "红色经典", "全球符号"], "slogan": "Taste the Feeling",
       "desc": "地球上认知度最高的饮料品牌,红色弧形瓶是横跨140年的流行文化符号。",
       "story": "1886年药剂师彭伯顿在亚特兰大调出第一杯可口可乐,特许经营+瓶装商模式让它滚雪球成全球帝国。圣诞老人红衣形象、弧形瓶、\"我想请世界喝可乐\"都是营销史教科书。\n如今旗下有雪碧、芬达、美汁源、纯悦等品牌矩阵,肥宅快乐水的统治力无可撼动。",
       "products": [
@@ -30,7 +30,7 @@
     {
       "id": "pepsi", "name": "百事", "nameEn": "Pepsi", "domain": "pepsi.com",
       "categoryId": "food", "country": "美国", "founded": 1898, "hq": "纽约州帕切斯",
-      "tier": "大众", "tags": ["可乐", "蓝红大战", "年轻化"], "slogan": "That's What I Like",
+      "tier": "大众", "sub": "饮料", "tags": ["可乐", "蓝红大战", "年轻化"], "slogan": "That's What I Like",
       "desc": "与可口可乐缠斗百年的蓝色对手,乐事、百草味、佳得乐都在它旗下。",
       "story": "1898年布拉德汉姆把\"布拉德的饮料\"改名 Pepsi,大萧条时期靠\"同价双倍\"打得对手 reshuffle。并购乐事(Frito-Lay)、佳得乐、纯果乐后转型食品饮料双巨头,在中国还一度手握百草味、康师傅饮品股份。\n蓝色易拉罐与红色对手的百年可乐战争,是商业史最精彩的对手戏。",
       "products": [
@@ -43,7 +43,7 @@
     {
       "id": "oreo", "name": "奥利奥", "nameEn": "OREO", "domain": "oreo.com",
       "categoryId": "food", "country": "美国", "founded": 1912, "hq": "东亥俄",
-      "tier": "大众", "tags": ["夹心饼干", "扭一扭", "亿滋旗下"], "slogan": "扭一扭,舔一舔,泡一泡",
+      "tier": "大众", "sub": "零食", "tags": ["夹心饼干", "扭一扭", "亿滋旗下"], "slogan": "扭一扭,舔一舔,泡一泡",
       "desc": "1912年问世的夹心饼干,全球销量第一的饼干,\"扭舔泡\"吃法是一代人的童年暗号。",
       "story": "1912年国家饼干公司推出奥利奥,两片黑可可饼干夹甜奶油,靠标准化的快乐征服全世界。如今属亿滋国际,在中国玩出花:草莓味、芥末味、奥利奥巧脆卷、奥利奥冰淇淋联名不断。\n\"扭一扭、舔一舔、泡一泡\"的广告词,可能是中文世界最成功的吃法教学。",
       "products": [
@@ -56,7 +56,7 @@
     {
       "id": "hersheys", "name": "好时", "nameEn": "HERSHEY'S", "domain": "hersheys.com",
       "categoryId": "food", "country": "美国", "founded": 1894, "hq": "宾州好时镇",
-      "tier": "大众", "tags": ["巧克力", "水滴形", "好时小镇"], "slogan": "The Sweetest Place on Earth",
+      "tier": "大众", "sub": "巧克力", "tags": ["巧克力", "水滴形", "好时小镇"], "slogan": "The Sweetest Place on Earth",
       "desc": "美国巧克力之王,整座\"好时小镇\"的街灯都做成水滴巧克力形状。",
       "story": "1894年米尔顿·好时在自己的焦糖厂里造出第一块牛奶巧克力,后来建起好时镇:学校、游乐园、酒店全由巧克力公司供养,堪称美国梦的实体化。\nKISSES 水滴巧克力、排块与可可粉是三大国民产品,万圣节美国人的糖袋里一半是好时。",
       "products": [
@@ -69,7 +69,7 @@
     {
       "id": "ferrero", "name": "费列罗", "nameEn": "Ferrero Rocher", "domain": "ferrero.com",
       "categoryId": "food", "country": "意大利", "founded": 1946, "hq": "阿尔巴",
-      "tier": "中档", "tags": ["金球", "榛子巧克力", "送礼"], "slogan": "绽放金球,卓越品质",
+      "tier": "中档", "sub": "巧克力", "tags": ["金球", "榛子巧克力", "送礼"], "slogan": "绽放金球,卓越品质",
       "desc": "意大利家族糖果帝国,金球巧克力是中国年货桌上的体面担当,Nutella 酱也是它家的。",
       "story": "1946年皮埃蒙特小城的糕点师彼得罗·费列罗战后创业,儿子米凯莱造出榛子巧克力的两个神话:Nutella 酱(1964)与 Ferrero Rocher 金球(1982)。三层结构:碎榛仁巧克力壳+威化+榛仁夹心,配金色锡纸,包装即高级。\n家族至今不上市,旗下还有健达、Tic Tac、Thorntons,是全球第三大巧克力集团。",
       "products": [
@@ -82,7 +82,7 @@
     {
       "id": "snickers", "name": "士力架", "nameEn": "SNICKERS", "domain": "snickers.com",
       "categoryId": "food", "country": "美国", "founded": 1930, "hq": "芝加哥",
-      "tier": "大众", "tags": ["花生夹心", "横扫饥饿", "玛氏旗下"], "slogan": "横扫饥饿,做回自己",
+      "tier": "大众", "sub": "巧克力", "tags": ["花生夹心", "横扫饥饿", "玛氏旗下"], "slogan": "横扫饥饿,做回自己",
       "desc": "1930年问世的花生牛轧巧克力条,全球销量最高的能量型零食,\"饿货\"广告梗深入人心。",
       "story": "玛氏家族以自家爱马 Snickers 命名这款四层夹心巧克力:焦糖+牛轧+花生+巧克力。\"横扫饥饿\"系列广告在中国把\"饿货\"变成流行语。\n士力架是登山、游戏、加班场景的硬通货,年销售额数十亿美元。",
       "products": [
@@ -95,7 +95,7 @@
     {
       "id": "mms", "name": "M&M's", "nameEn": "M&M's", "domain": "mms.com",
       "categoryId": "food", "country": "美国", "founded": 1941, "hq": "纽瓦克",
-      "tier": "大众", "tags": ["彩色糖豆", "不融化", "玛氏旗下"], "slogan": "Melts in your mouth, not in your hand",
+      "tier": "大众", "sub": "巧克力", "tags": ["彩色糖豆", "不融化", "玛氏旗下"], "slogan": "Melts in your mouth, not in your hand",
       "desc": "1941年为军队设计的\"不化在手心\"糖衣巧克力豆,彩色豆子与卡通人偶是全球化的快乐符号。",
       "story": "二战时美军需要不易融化的巧克力,糖衣豆应运而生。1954年\"只融在口,不融在手\"广告语封神,彩色豆子、绿色M豆的性感营销、人偶天团一个接一个出圈。\n如今有花生、脆心、巧克力、焦糖多种内芯,自定义印字服务还能把名字印上豆子。",
       "products": [
@@ -108,7 +108,7 @@
     {
       "id": "dovechoc", "name": "德芙", "nameEn": "Dove Chocolate", "domain": "dovechocolate.com",
       "categoryId": "food", "country": "美国", "founded": 1939, "hq": "芝加哥",
-      "tier": "大众", "tags": ["丝滑", "巧克力", "玛氏旗下"], "slogan": "纵享丝滑",
+      "tier": "大众", "sub": "巧克力", "tags": ["丝滑", "巧克力", "玛氏旗下"], "slogan": "纵享丝滑",
       "desc": "\"纵享丝滑\"的中文广告语教科书,玛氏旗下最受中国消费者欢迎的巧克力品牌。",
       "story": "1939年希腊裔美国人让·斯皮罗斯·芬格以自家糖果店 DoveBAR 起家,后并入玛氏。1989年进入中国后凭丝滑口感与\"牛奶香浓\"广告迅速占领市场,成为情人节礼物的默认选项。\n丝滑秘诀在于独家的研磨工艺与乳脂配比,\"丝滑\"二字被做成了品牌护城河。",
       "products": [
@@ -121,7 +121,7 @@
     {
       "id": "hagenDazs", "name": "哈根达斯", "nameEn": "Häagen-Dazs", "domain": "haagen-dazs.com",
       "categoryId": "food", "country": "美国", "founded": 1960, "hq": "明尼阿波利斯",
-      "tier": "中档", "tags": ["冰淇淋", "高端", "比利时巧克力"], "slogan": "If it's not Haagen-Dazs, it's not ice cream",
+      "tier": "中档", "sub": "零食", "tags": ["冰淇淋", "高端", "比利时巧克力"], "slogan": "If it's not Haagen-Dazs, it's not ice cream",
       "desc": "用丹麦语造词营造欧洲血统的美国冰淇淋,把\"爱她,就带她吃哈根达斯\"刻进了中国都市记忆。",
       "story": "1960年鲁本·马图斯在纽约创牌,靠高乳脂含量与无添加剂配方走高价路线。进入中国后被做成浪漫仪式感——雪糕吧、月光恋人、表白场景,一球冰нiç33元也不愁卖。\n如今属通用磨坊,全球门店与零售双线,抹茶、曲奇香草、比利时巧克力是长青口味。",
       "products": [
@@ -134,7 +134,7 @@
     {
       "id": "walls", "name": "和路雪", "nameEn": "Wall's", "domain": "walls.com",
       "categoryId": "food", "country": "英国", "founded": 1922, "hq": "伦敦",
-      "tier": "大众", "tags": ["冰淇淋", "梦龙", "可爱多"], "slogan": "Have a wall's day",
+      "tier": "大众", "sub": "零食", "tags": ["冰淇淋", "梦龙", "可爱多"], "slogan": "Have a wall's day",
       "desc": "联合利华旗下冰淇淋 umbrella,梦龙、可爱多、千层雪都是它的子品牌。",
       "story": "1922年英国 Wall 家族开始做香肠起家的冰淇淋生意,后被联合利华收编成为全球冰淇淋主力平台。在中国,它用梦龙定义了\"高端雪糕\",用可爱多霸榜年轻市场,千层雪则承包了下午茶。\n近年的\"梦龙ultipart 分层\"营销与贵价化策略话题不断。",
       "products": [
@@ -147,7 +147,7 @@
     {
       "id": "mcdonalds", "name": "麦当劳", "nameEn": "McDonald's", "domain": "mcdonalds.com",
       "categoryId": "food", "country": "美国", "founded": 1955, "hq": "芝加哥",
-      "tier": "大众", "tags": ["快餐", "金色拱门", "标准化"], "slogan": "I'm lovin' it",
+      "tier": "大众", "sub": "西式快餐", "tags": ["快餐", "金色拱门", "标准化"], "slogan": "I'm lovin' it",
       "desc": "全球最大快餐连锁,金色拱门是城市化地标,\"巨无霸指数\"甚至成了经济学指标。",
       "story": "1955年雷·克罗克把加州兄弟的汉堡店做成特许经营帝国,标准化流水线+地产思维让金色拱门开遍全球四万多家。薯条、巨无霸、麦乐鸡、开心乐园餐,每个单品都是文化符号。\n在中国本土化玩得飞起:麦辣鸡腿堡、板烧、1+1随心配,早餐粥和油条也没落下。",
       "products": [
@@ -161,7 +161,7 @@
     {
       "id": "kfc", "name": "肯德基", "nameEn": "KFC", "domain": "kfc.com",
       "categoryId": "food", "country": "美国", "founded": 1952, "hq": "路易维尔",
-      "tier": "大众", "tags": ["炸鸡", "上校", "疯狂星期四"], "slogan": "Finger Lickin' Good(尽情自在)",
+      "tier": "大众", "sub": "西式快餐", "tags": ["炸鸡", "上校", "疯狂星期四"], "slogan": "Finger Lickin' Good(尽情自在)",
       "desc": "山德士上校的11种香料炸鸡,在中国因\"疯狂星期四\"文学成为互联网梗王。",
       "story": "1952年65岁的哈兰·山德士上校带着压力锅和秘方四处授权开店,白西装+山羊胡成为最深入人心的品牌形象。1987年肯德基进入北京前门,是中国第一家洋快餐。\n吮指原味鸡、香辣鸡腿堡、蛋挞是铁三角,而\"V我50\"的疯四文学让它持续霸屏社交媒体。",
       "products": [
@@ -174,7 +174,7 @@
     {
       "id": "burgerking", "name": "汉堡王", "nameEn": "Burger King", "domain": "bk.com",
       "categoryId": "food", "country": "美国", "founded": 1954, "hq": "迈阿密",
-      "tier": "大众", "tags": ["火烤", "皇堡", "汉堡之战"], "slogan": "Have it your way(我选我味)",
+      "tier": "大众", "sub": "西式快餐", "tags": ["火烤", "皇堡", "汉堡之战"], "slogan": "Have it your way(我选我味)",
       "desc": "以明火烤制差异化的汉堡连锁,皇堡是它和麦当劳对抗五十年的王牌。",
       "story": "1954年麦当劳模式最火时,James McLamore 与 David Edgerton 反其道用明火炭烤,1957年推出皇堡。\"Have it your way\"让顾客自由选配料,成为快餐个性化的鼻祖。\n皇堡大块炭烤牛肉+芝麻包,是许多人心目中\"更美式\"的那一口。",
       "products": [
@@ -187,7 +187,7 @@
     {
       "id": "pizzahut", "name": "必胜客", "nameEn": "Pizza Hut", "domain": "pizzahut.com",
       "categoryId": "food", "country": "美国", "founded": 1958, "hq": "普莱诺",
-      "tier": "大众", "tags": ["披萨", "红屋顶", "自助沙拉"], "slogan": "Pizza and More",
+      "tier": "大众", "sub": "西式快餐", "tags": ["披萨", "红屋顶", "自助沙拉"], "slogan": "Pizza and More",
       "desc": "全球最大披萨连锁,红屋顶标志下,把披萨做成了中国家庭聚会的\"轻西餐\"。",
       "story": "1958年堪萨斯州两兄弟借母亲的600美元开了第一家店,红屋顶招牌沿用至今。1990年进入北京,当年吃必胜客是件很时髦的事;下午茶自助、比萨饼边DIY、超级至尊都是记忆点。\n如今属百胜中国,本土化披萨(小龙虾、榴莲)月月上新。",
       "products": [
@@ -200,7 +200,7 @@
     {
       "id": "subway", "name": "赛百味", "nameEn": "Subway", "domain": "subway.com",
       "categoryId": "food", "country": "美国", "founded": 1965, "hq": "康涅狄格州",
-      "tier": "大众", "tags": ["三明治", "现做", "低脂感"], "slogan": "Eat Fresh",
+      "tier": "大众", "sub": "西式快餐", "tags": ["三明治", "现做", "低脂感"], "slogan": "Eat Fresh",
       "desc": "门店数量曾经全球第一的三明治连锁,把\"现做+自选\"的健康感做成了商业模式。",
       "story": "1965年17岁的 Fred DeLuca 为筹学费开了家潜水艇三明治店,如今门店曾超过四万家——比麦当劳还多。全开放厨房、面包现烤、菜料自选, \"今天吃什么\"的选择困难从这一刻开始。\n金枪鱼三明治、意大利经典BMT与曲奇是三大记忆点。",
       "products": [
@@ -213,7 +213,7 @@
     {
       "id": "dali", "name": "达利园", "nameEn": "Dali Foods", "domain": "daligroup.com",
       "categoryId": "food", "country": "中国", "founded": 1989, "hq": "泉州",
-      "tier": "大众", "tags": ["性价比", "国民零食", "达利模式"], "slogan": "达利园食品,美味你我他",
+      "tier": "大众", "sub": "饮料", "tags": ["性价比", "国民零食", "达利模式"], "slogan": "达利园食品,美味你我他",
       "desc": "福建首富许世辉的零食帝国,达利园蛋黄派、和其正、乐虎、豆本豆都是追随式创新的产物。",
       "story": "1989年许世辉在福建惠安做蜜饯起家,最擅长\"品类跟随+价格战\":好吃点对标奥利奥、和其正对标王老吉、乐虎对标红牛、豆本豆对标维他奶,几乎每个爆款都是精准卡位的结果。\n低线市场渗透力惊人,是国产快消\"模仿之王\"的教科书。",
       "products": [
@@ -226,7 +226,7 @@
     {
       "id": "orion", "name": "好丽友", "nameEn": "Orion", "domain": "orionworld.com",
       "categoryId": "food", "country": "韩国", "founded": 1956, "hq": "首尔",
-      "tier": "大众", "tags": ["派", "好多鱼", "韩国零食"], "slogan": "好丽友,好朋友",
+      "tier": "大众", "sub": "零食", "tags": ["派", "好多鱼", "韩国零食"], "slogan": "好丽友,好朋友",
       "desc": "韩国四大食品集团之一,好丽友派、薯愿、好多鱼承包了中国80后90后的课桌零食。",
       "story": "1956年东洋制果创立,1974年推出的 Choco Pie 改写了亚洲零食史——软蛋糕+棉花糖+巧克力壳的构造风靡中日俄。1995年进入中国,\"好丽友,好朋友\"的广告语人尽皆知。\n好多鱼的小鱼造型与随机玩具卡片,是课间社交的硬通货。",
       "products": [
@@ -239,7 +239,7 @@
     {
       "id": "masterkong", "name": "康师傅", "nameEn": "Master Kong", "domain": "masterkong.com.cn",
       "categoryId": "food", "country": "中国", "founded": 1992, "hq": "天津",
-      "tier": "大众", "tags": ["方便面", "红烧牛肉面", "饮品"], "slogan": "面霸天下",
+      "tier": "大众", "sub": "零食", "tags": ["方便面", "红烧牛肉面", "饮品"], "slogan": "面霸天下",
       "desc": "魏氏兄弟的方便面帝国,红烧牛肉面是中国泡面的默认答案,冰红茶承包了整个夏天。",
       "story": "1992年魏应州在天津试水方便面,\"康师傅红烧牛肉面\"一炮而红,靠密集经销与统一战线打遍全国。高峰期一年卖出上百亿包,是中国人火车记忆的背景音。\n如今与日本三洋食品结盟,饮品线(冰红茶、冰糖雪梨)同样霸榜。",
       "products": [
@@ -252,7 +252,7 @@
     {
       "id": "unipresident", "name": "统一", "nameEn": "Uni-President", "domain": "uni-president.com",
       "categoryId": "food", "country": "中国台湾", "founded": 1967, "hq": "台南",
-      "tier": "大众", "tags": ["方便面", "茶饮料", "老坛酸菜"], "slogan": "千禧之爱",
+      "tier": "大众", "sub": "零食", "tags": ["方便面", "茶饮料", "老坛酸菜"], "slogan": "千禧之爱",
       "desc": "台湾食品龙头,老坛酸菜牛肉面与阿萨姆奶茶在中国大陆掀起过现象级风口。",
       "story": "1967年吴修齐等人在台南创立统一,从面粉饲料做到食品饮料全链。1992年随康师傅之后进军大陆, \"老坛酸菜\"广告让\"这酸爽\"成为流行语,阿萨姆奶茶则是奶茶界的第一瓶瓶装记忆。\n旗下还有来一桶、汤达人、小茗同学等爆款矩阵。",
       "products": [
@@ -265,7 +265,7 @@
     {
       "id": "nfsq", "name": "农夫山泉", "nameEn": "NONGFU SPRING", "domain": "nongfuspring.com",
       "categoryId": "food", "country": "中国", "founded": 1996, "hq": "杭州",
-      "tier": "大众", "tags": ["瓶装水", "有点甜", "东方树叶"], "slogan": "农夫山泉,有点甜",
+      "tier": "大众", "sub": "饮料", "tags": ["瓶装水", "有点甜", "东方树叶"], "slogan": "农夫山泉,有点甜",
       "desc": "钟睒睒的水帝国,\"我们不生产水,我们只是大自然的搬运工\"是最成功的广告语之一。",
       "story": "1996年钟睒睒在千岛湖建厂,主打天然水概念狙击纯净水同行,凭\"有点甜\"广告与红色瓶身杀出重围。此后长白山、峨眉山等水源地营销把\"天然\"做成了信仰。\n东方树叶十年冷板凳后等来无糖茶风口,如今公司市值一度是亚洲消费品之王,钟睒睒也成了中国首富。",
       "products": [
@@ -278,7 +278,7 @@
     {
       "id": "genki", "name": "元气森林", "nameEn": "Genki Forest", "domain": "chi-forest.com",
       "categoryId": "food", "country": "中国", "founded": 2016, "hq": "北京",
-      "tier": "大众", "tags": ["0糖", "气泡水", "新消费"], "slogan": "0糖0脂0卡",
+      "tier": "大众", "sub": "饮料", "tags": ["0糖", "气泡水", "新消费"], "slogan": "0糖0脂0卡",
       "desc": "新消费神话:用\"0糖0脂0卡\"的气泡水四年做到百亿估值,把赤藓糖醇带火了全国。",
       "story": "2016年唐彬森(智明星通创始人)跨界做饮料,绿白瓶气泡水靠便利店冰柜+小红书种草打法引爆。代糖赤藓糖醇随之脱销,传统饮料巨头纷纷跟进无糖线。\n虽经历供应链与舆论风波,但外星人电解质水、纤茶等新品线仍在扩张,\"饮料界的互联网公司\"名不虚传。",
       "products": [

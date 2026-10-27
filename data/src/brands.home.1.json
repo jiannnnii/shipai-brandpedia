@@ -3,7 +3,7 @@
     {
       "id": "haier", "name": "海尔", "nameEn": "Haier", "domain": "haier.com",
       "categoryId": "home", "country": "中国", "founded": 1984, "hq": "青岛",
-      "tier": "大众", "tags": ["白电之王", "全球化", "物联网"], "slogan": "智慧家庭,定制美好生活",
+      "tier": "大众", "sub": "白电", "tags": ["白电之王", "全球化", "物联网"], "slogan": "智慧家庭,定制美好生活",
       "desc": "从青岛电冰箱总厂到全球白电第一品牌,砸冰箱砸出的质量神话,卡萨帝是其高端答案。",
       "story": "1984年张瑞敏接手亏损小厂,抡起大锤砸掉76台问题冰箱,把「质量」砸成了企业文化。此后海外建厂、收购斐雪派克与GE家电,成为全球大家电份额第一。\n如今海尔智家旗下有海尔、卡萨帝、Leader,向物联网智慧家庭转型。",
       "products": [
@@ -17,7 +17,7 @@
     {
       "id": "midea", "name": "美的", "nameEn": "Midea", "domain": "midea.com",
       "categoryId": "home", "country": "中国", "founded": 1968, "hq": "佛山",
-      "tier": "大众", "tags": ["全品类", "机器人", "科技集团"], "slogan": "科技尽善,生活尽美",
+      "tier": "大众", "sub": "白电", "tags": ["全品类", "机器人", "科技集团"], "slogan": "科技尽善,生活尽美",
       "desc": "何享健的佛山家电帝国,全品类通吃+收购库卡机器人,中国家电营收之王。",
       "story": "1968年何享健带23人做塑料瓶盖起家,1980年转做电风扇,此后空调、小家电全面开花。2016年收购德国库卡机器人,转型科技集团。\n旗下小天鹅、华凌、COLMO多品牌矩阵,多元化程度中国第一。",
       "products": [
@@ -31,7 +31,7 @@
     {
       "id": "gree", "name": "格力", "nameEn": "GREE", "domain": "gree.com",
       "categoryId": "home", "country": "中国", "founded": 1991, "hq": "珠海",
-      "tier": "大众", "tags": ["空调霸主", "掌握核心科技", "董明珠"], "slogan": "让世界爱上中国造",
+      "tier": "大众", "sub": "白电", "tags": ["空调霸主", "掌握核心科技", "董明珠"], "slogan": "让世界爱上中国造",
       "desc": "「好空调,格力造」的空调一姐,董明珠的个人IP与铁腕质量文化同样出名。",
       "story": "1991年朱江洪奠基,董明珠从业务员一路做到董事长,「格力掌握核心科技」的广告语撑起空调霸主地位二十余年。家用空调市占率长期第一。\n近年多元化(手机、芯片、新能源)争议不断,但空调基本盘依然坚硬。",
       "products": [
@@ -45,7 +45,7 @@
     {
       "id": "hisense", "name": "海信", "nameEn": "Hisense", "domain": "hisense.com",
       "categoryId": "home", "country": "中国", "founded": 1969, "hq": "青岛",
-      "tier": "大众", "tags": ["电视", "ULED", "体育营销"], "slogan": "海信,科技范",
+      "tier": "大众", "sub": "白电", "tags": ["电视", "ULED", "体育营销"], "slogan": "海信,科技范",
       "desc": "从青岛无线电二厂到全球电视出货量第二,ULED与激光电视是两张技术名片。",
       "story": "1969年起步于收音机,此后电视成为主业,收购东芝映像、夏普北美电视业务后全球份额升至前列。世界杯、欧洲杯的中国广告位被它承包多年。\n旗下还有容声冰箱、科龙空调与海信日立中央空调。",
       "products": [
@@ -59,7 +59,7 @@
     {
       "id": "robam", "name": "老板电器", "nameEn": "ROBAM", "domain": "robam.com",
       "categoryId": "home", "country": "中国", "founded": 1979, "hq": "杭州",
-      "tier": "中档", "tags": ["油烟机", "厨电", "中式烹饪"], "slogan": "只做好厨房这一件事",
+      "tier": "中档", "sub": "厨电", "tags": ["油烟机", "厨电", "中式烹饪"], "slogan": "只做好厨房这一件事",
       "desc": "45年只做厨房电器的中式厨电之王,大吸力油烟机是国民厨房的标配记忆。",
       "story": "1979年任建华在杭州余杭做剪刀起家,1988年转型油烟机,「大吸力」三个字钉进了品牌基因。中国每卖出三台油烟机就有一台是老板。\n近年布局洗碗机、蒸烤一体机,向中式烹饪全场景走。",
       "products": [
@@ -73,7 +73,7 @@
     {
       "id": "fotile", "name": "方太", "nameEn": "Fotile", "domain": "fotile.com",
       "categoryId": "home", "country": "中国", "founded": 1996, "hq": "宁波",
-      "tier": "中档", "tags": ["厨电", "儒道经营", "水槽洗碗机"], "slogan": "因爱伟大",
+      "tier": "中档", "sub": "厨电", "tags": ["厨电", "儒道经营", "水槽洗碗机"], "slogan": "因爱伟大",
       "desc": "茅氏父子的高端厨电品牌,以儒家文化治企,水槽洗碗机是它发明的品类。",
       "story": "1996年茅理翔、茅忠群父子在宁波创业,坚持不打价格战、不上市,把「仁义礼智信」写进公司制度。云魔方油烟机与水槽洗碗机都是品类创新代表。\n高端厨电市场与老板电器双雄并立,客单价常年更高。",
       "products": [
@@ -87,7 +87,7 @@
     {
       "id": "vatti", "name": "华帝", "nameEn": "VATTI", "domain": "vatti.com.cn",
       "categoryId": "home", "country": "中国", "founded": 1992, "hq": "中山",
-      "tier": "大众", "tags": ["厨电", "火炬", "运动营销"], "slogan": "智慧+,更好家",
+      "tier": "大众", "sub": "厨电", "tags": ["厨电", "火炬", "运动营销"], "slogan": "智慧+,更好家",
       "desc": "广东中山厨电三巨头之一,曾为奥运会制造火炬,「退全款」世界杯营销一战成名。",
       "story": "1992年七位创始人创业于中山,以燃气灶起家。2008年北京奥运火炬「祥云」出自华帝之手。2018年世界杯「法国队夺冠退全款」成为营销史名场面。\n烟灶热水器全品类,主打年轻化与智能化。",
       "products": [
@@ -101,7 +101,7 @@
     {
       "id": "supor", "name": "苏泊尔", "nameEn": "SUPOR", "domain": "supor.com",
       "categoryId": "home", "country": "中国", "founded": 1994, "hq": "杭州",
-      "tier": "大众", "tags": ["炊具之王", "压力锅", "SEB系"], "slogan": "Cook on the bright side",
+      "tier": "大众", "sub": "锅具", "tags": ["炊具之王", "压力锅", "SEB系"], "slogan": "Cook on the bright side",
       "desc": "中国炊具行业第一家上市公司,一口安全压力锅起家,如今从锅铲到电饭煲全线通吃。",
       "story": "1994年苏增福在玉环做压力锅,把「安全」做成代名词。2007年法国SEB集团控股,借其技术与渠道走向全球。电饭煲、炒锅、空气炸锅市占率长期领先。\n「什么都做,什么都能打」的国民厨具品牌。",
       "products": [
@@ -115,7 +115,7 @@
     {
       "id": "joyoung", "name": "九阳", "nameEn": "Joyoung", "domain": "joyoung.com",
       "categoryId": "home", "country": "中国", "founded": 1994, "hq": "济南",
-      "tier": "大众", "tags": ["豆浆机鼻祖", "免洗", "太空科技"], "slogan": "健康,不止一面",
+      "tier": "大众", "sub": "厨电", "tags": ["豆浆机鼻祖", "免洗", "太空科技"], "slogan": "健康,不止一面",
       "desc": "王旭宁发明的豆浆机开创了一个行业,如今以「太空科技」与免洗技术继续领跑小家电。",
       "story": "1994年山东工大的年轻教师王旭宁发明全自动豆浆机,九阳从此成为豆浆的代名词。后布局破壁机、蒸烤与洗碗机,还与中国航天联名开发太空厨房技术。\n「不用手洗破壁机」是近年最大爆款,直击清洗痛点。",
       "products": [
@@ -129,7 +129,7 @@
     {
       "id": "bear", "name": "小熊电器", "nameEn": "Bear Electric", "domain": "bearappliance.com",
       "categoryId": "home", "country": "中国", "founded": 2006, "hq": "佛山",
-      "tier": "大众", "tags": ["创意小家电", "萌系", "年轻人"], "slogan": "妙想生活",
+      "tier": "大众", "sub": "厨电", "tags": ["创意小家电", "萌系", "年轻人"], "slogan": "妙想生活",
       "desc": "专攻年轻人的萌系小家电:酸奶机、煮蛋器、养生壶,把一人食场景做到极致。",
       "story": "2006年李一峰在佛山创立,避开大家电红海,专做「小而美」的长尾小家电。电商起家,颜值+场景细分是打法:一人食电饭煲、办公室养生壶、宿舍煮蛋器。\n2020年上市,是「宅经济」与颜值经济的代表玩家。",
       "products": [
@@ -143,7 +143,7 @@
     {
       "id": "buydeem", "name": "北鼎", "nameEn": "Buydeem", "domain": "buydeem.com",
       "categoryId": "home", "country": "中国", "founded": 2003, "hq": "深圳",
-      "tier": "中档", "tags": ["高端养生壶", "颜值", "慢下来"], "slogan": "让时间有味",
+      "tier": "中档", "sub": "厨电", "tags": ["高端养生壶", "颜值", "慢下来"], "slogan": "让时间有味",
       "desc": "小家电里的「爱马仕」:一只上千元的养生壶,把喝水煮茶做成了精致生活方式。",
       "story": "2003年起家于代工,2012年推自有品牌,以莫兰迪色系与玻璃质感杀出重围。K系列养生壶成为办公室中产的社交货币,「北鼎绿」自带品牌识别度。\n上市后扩展蒸炖锅、饮水机,坚持不打折的价控策略。",
       "products": [
@@ -157,7 +157,7 @@
     {
       "id": "panasonic", "name": "松下", "nameEn": "Panasonic", "domain": "panasonic.com",
       "categoryId": "home", "country": "日本", "founded": 1918, "hq": "大阪",
-      "tier": "中档", "tags": ["百年松下", "经营之神", "全品类"], "slogan": "A Better Life, A Better World",
+      "tier": "中档", "sub": "白电", "tags": ["百年松下", "经营之神", "全品类"], "slogan": "A Better Life, A Better World",
       "desc": "松下幸之助创立的百年巨头,从灯泡到洗衣机、马桶盖、电池,「经营的之神」遗产遍布生活。",
       "story": "1918年松下幸之助在大阪做插头起家,以「自来水哲学」与终身雇佣文化影响整个日本商界。中国家庭的松下洗衣机、马桶盖、nanoe美容仪都曾是品质符号。\n如今能源(特斯拉电池伙伴)与家电双轮驱动。",
       "products": [
@@ -171,7 +171,7 @@
     {
       "id": "sharp", "name": "夏普", "nameEn": "SHARP", "domain": "sharp-global.com",
       "categoryId": "home", "country": "日本", "founded": 1912, "hq": "堺市",
-      "tier": "中档", "tags": ["液晶之父", "净离子群", "早川"], "slogan": "Be Original",
+      "tier": "中档", "sub": "白电", "tags": ["液晶之父", "净离子群", "早川"], "slogan": "Be Original",
       "desc": "早川德次的百年企业:从 Ever-Sharp 铅笔到液晶屏之父,净离子群净化技术是健康家电王牌。",
       "story": "1912年早川德次发明自动铅笔(Ever-Sharp Sharp 铅笔即品牌由来),此后做出日本第一台电视与计算器,液晶技术领跑全球半个世纪。\n2016年被富士康收购后主打大屏电视与健康家电, Plasmacluster 净离子群技术仍是健康家电的王牌。",
       "products": [
@@ -185,7 +185,7 @@
     {
       "id": "bosch", "name": "博世", "nameEn": "Bosch", "domain": "bosch-home.cn",
       "categoryId": "home", "country": "德国", "founded": 1886, "hq": "斯图加特",
-      "tier": "中档", "tags": ["德国精工", "全品类", "汽车技术"], "slogan": "Invented for life",
+      "tier": "中档", "sub": "白电", "tags": ["德国精工", "全品类", "汽车技术"], "slogan": "Invented for life",
       "desc": "罗伯特·博世的百年工业巨头,家电业务与西门子同属博西集团,德系品质的通用符号。",
       "story": "1886年罗伯特·博世在斯图加特开精密机械车间,后来成为汽车零部件霸主与电动工具巨头。博西家电由博世与西门子合资演变而来,冰箱洗衣机洗洗碗机全线德标。\n8系洗碗机与活氧除菌是其家电明星技术。",
       "products": [
@@ -199,7 +199,7 @@
     {
       "id": "siemens", "name": "西门子", "nameEn": "SIEMENS", "domain": "siemens-home.cn",
       "categoryId": "home", "country": "德国", "founded": 1847, "hq": "慕尼黑",
-      "tier": "中档", "tags": ["百年电气", "德系", "博西系"], "slogan": "Ingenuity for life",
+      "tier": "中档", "sub": "白电", "tags": ["百年电气", "德系", "博西系"], "slogan": "Ingenuity for life",
       "desc": "1847年维尔纳·冯·西门子创立的电气巨人,家电业务与博世同门,「德国 quality」的代名词。",
       "story": "西门子从电报机起家,电气化铁路、医疗设备(MR)无所不包。家电部分并入博西家电后,在中国以冰箱洗衣机为主打,「零度生物保鲜」曾是高端冰箱的代名词。\niQ300/iQ500 系列是 apartments 与新家的常见选择。",
       "products": [
@@ -213,7 +213,7 @@
     {
       "id": "miele", "name": "美诺", "nameEn": "MIELE", "domain": "miele.com",
       "categoryId": "home", "country": "德国", "founded": 1899, "hq": "居特斯洛",
-      "tier": "顶奢", "tags": ["家电爱马仕", "20年寿命", "家族企业"], "slogan": "Immer Besser(永远更好)",
+      "tier": "顶奢", "sub": "白电", "tags": ["家电爱马仕", "20年寿命", "家族企业"], "slogan": "Immer Besser(永远更好)",
       "desc": "德国百年家族企业,家电界的爱马仕:一台洗衣机设计寿命20年,价格也令人肃然起敬。",
       "story": "1899年 Carl Miele 与合伙人创办,家族四代经营,坚持德国自产与极端耐用测试。「Immer Besser」(永远更好)是1899年至今的slogan。\nW1 洗衣机、G7000 洗碗机与咖啡机是中产厨房的终极向往,泰国王室的御用家电。",
       "products": [
@@ -227,7 +227,7 @@
     {
       "id": "lg", "name": "LG", "nameEn": "LG Electronics", "domain": "lg.com",
       "categoryId": "home", "country": "韩国", "founded": 1958, "hq": "首尔",
-      "tier": "中档", "tags": ["OLED之王", "美学家电", " Lifestyle"], "slogan": "Life's Good",
+      "tier": "中档", "sub": "白电", "tags": ["OLED之王", "美学家电", " Lifestyle"], "slogan": "Life's Good",
       "desc": "韩国第二大财团 LG 旗下的电子巨头,OLED 电视之王,LG 的生活家电以「美学+黑科技」著称。",
       "story": "1958年金星社(GoldStar)创立,与 LG 化学同根。电视 OLED 面板技术全球第一梯队,洗衣机蒸汽除菌、 styler 蒸汽衣物护理机、InstaView 敲两下就亮的冰箱都是名场面。\n近年 Object Collection 艺术家电把家电做成了家具。",
       "products": [
@@ -241,7 +241,7 @@
     {
       "id": "electrolux", "name": "伊莱克斯", "nameEn": "Electrolux", "domain": "electrolux.com",
       "categoryId": "home", "country": "瑞典", "founded": 1919, "hq": "斯德哥尔摩",
-      "tier": "中档", "tags": ["北欧", "全球第二", "专业厨房"], "slogan": "Shape living for the better",
+      "tier": "中档", "sub": "白电", "tags": ["北欧", "全球第二", "专业厨房"], "slogan": "Shape living for the better",
       "desc": "瑞典百年家电集团,全球销售额第二,旗下还有 AEG、Frigidaire,专业厨房里的北欧身影。",
       "story": "1919年 Lux 与 Elektromekanisk 合并而成,吸尘器与冰箱起家。全球餐饮界知名度极高——专业厨房与「世界厨师大赛」的赞助常客。\n设计感与北欧极简审美是它的差异化标签。",
       "products": [
@@ -255,7 +255,7 @@
     {
       "id": "whirlpool", "name": "惠而浦", "nameEn": "Whirlpool", "domain": "whirlpool.com",
       "categoryId": "home", "country": "美国", "founded": 1911, "hq": "密歇根州本顿港",
-      "tier": "中档", "tags": ["美式大家电", "百年", "全球制造"], "slogan": "Every day, care",
+      "tier": "中档", "sub": "白电", "tags": ["美式大家电", "百年", "全球制造"], "slogan": "Every day, care",
       "desc": "1911年创立的美式大家电巨头,全球最大家电制造商之一,Maytag、KitchenAid 都在旗下。",
       "story": "1911年 Upton 机器公司做出电动绞衣式洗衣机,此后百年靠并购成为白色家电巨无霸。KitchenAid 厨师机是烘焙圈的信仰单品。\n在中国与苏宁合作后份额有限,但美式大容量洗衣机仍是特色。",
       "products": [
@@ -269,7 +269,7 @@
     {
       "id": "ariston", "name": "阿里斯顿", "nameEn": "Ariston Thermo", "domain": "ariston.com",
       "categoryId": "home", "country": "意大利", "founded": 1930, "hq": "法布里亚诺",
-      "tier": "中档", "tags": ["热水器", "意大利", "供暖"], "slogan": "Expert comfort",
+      "tier": "中档", "sub": "白电", "tags": ["热水器", "意大利", "供暖"], "slogan": "Expert comfort",
       "desc": "意大利热舒适专家:从热水器到壁挂炉,欧洲家庭的暖气与热水背后常是阿里斯顿。",
       "story": "1930年 Aristide Merloni 在意大利中部做秤起家,后转型热水器,1960年「阿里斯顿,一个温暖的名字」进入中国成为一代人的广告记忆。\n如今专注于热水与供暖系统,壁挂炉技术全球领先。",
       "products": [
@@ -283,7 +283,7 @@
     {
       "id": "daewoo", "name": "大宇", "nameEn": "DAEWOO", "domain": "daewoobr.com",
       "categoryId": "home", "country": "韩国", "founded": 1967, "hq": "首尔",
-      "tier": "大众", "tags": ["韩系", "挂烫机", "复古设计"], "slogan": "Built for a better life",
+      "tier": "大众", "sub": "白电", "tags": ["韩系", "挂烫机", "复古设计"], "slogan": "Built for a better life",
       "desc": "韩国大宇集团的家电品牌,如今以复古造型的挂烫机、电风扇与 portable 洗衣机在年轻市场翻红。",
       "story": "1967年金宇中创立大宇集团,曾是韩国第二大财阀,2000年代解体后家电业务几经流转。近年靠复古韩系设计与网红单品(挂烫机、循环扇、迷你洗衣机)在电商翻红。\n奶油色系+圆润线条,是「韩式 ins 风」家电的代表。",
       "products": [
@@ -297,7 +297,7 @@
     {
       "id": "toshiba", "name": "东芝", "nameEn": "TOSHIBA", "domain": "toshiba.com",
       "categoryId": "home", "country": "日本", "founded": 1875, "hq": "东京",
-      "tier": "中档", "tags": ["日本第一家", "芝浦", "百年制造"], "slogan": "Touched by Toshiba",
+      "tier": "中档", "sub": "白电", "tags": ["日本第一家", "芝浦", "百年制造"], "slogan": "Touched by Toshiba",
       "desc": "1875年田久重吉创办的日本第一家工业企业(芝浦制造所),家电与半导体都曾是世界级玩家。",
       "story": "东芝由田中久重的「田中制造所」与芝浦制造所合并而来,日本第一台电风扇、洗衣机、冰箱都出自它手。半导体闪存技术曾全球领先,2017年后业务重组。\n家电业务归于美的系,在日本本土仍保有忠诚用户。",
       "products": [
@@ -311,7 +311,7 @@
     {
       "id": "tcl", "name": "TCL", "nameEn": "TCL", "domain": "tcl.com",
       "categoryId": "home", "country": "中国", "founded": 1981, "hq": "惠州",
-      "tier": "大众", "tags": ["电视面板", "全球化", "Mini LED"], "slogan": "The Creative Life",
+      "tier": "大众", "sub": "白电", "tags": ["电视面板", "全球化", "Mini LED"], "slogan": "The Creative Life",
       "desc": "李东生的惠州电子厂,如今是全球第二大电视品牌与最大面板厂之一,Mini LED 的中国旗手。",
       "story": "1981年做磁带起家(TCL=Today China Lion 的民间解读),1990年代电话机畅销全国,此后电视全球化。收购汤姆逊电视、华星光电自建面板厂,一路做到产业链上下游通吃。\nMini LED 电视与98吋巨幕以性价比横扫全球市场。",
       "products": [

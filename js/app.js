@@ -47,7 +47,7 @@ export async function refreshRemote(silent = false) {
     const r = await fetch(store.prefs.remoteUrl, { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const rd = await r.json();
-    if ((rd.counts?.brands || 0) >= (DATA.counts?.brands || 0)) {
+    if ((rd.counts?.brands || 0) >= (DATA.counts?.brands || 0) && rd.version !== DATA.version) {
       const wasNewer = (rd.counts?.brands || 0) > (DATA.counts?.brands || 0);
       rd._src = 'remote';
       indexData(rd);
@@ -108,12 +108,14 @@ function logoHtml(b, size = 20) {
   if (!store.prefs.onlineImg) {
     return `<div class="logo-fb" style="--c:${color};font-size:${size}px">${esc(initials(b))}</div>`;
   }
+  // svg(矢量高清) → png → 在线三级回退
   const fb = [
+    `data/logos/${b.id}.png`,
     `https://icons.duckduckgo.com/ip3/${b.domain}.ico`,
     `https://icon.horse/icon/${b.domain}`,
     `https://www.google.com/s2/favicons?domain=${b.domain}&sz=128`,
   ].join('|');
-  return `<img src="data/logos/${esc(b.id)}.png" alt="${esc(b.name)}" loading="lazy"
+  return `<img src="data/logos/${esc(b.id)}.svg" alt="${esc(b.name)}" loading="lazy"
     data-fb="${esc(fb)}" data-name="${esc(initials(b))}" data-color="${color}" data-size="${size}" onerror="logoFail(this)">`;
 }
 
