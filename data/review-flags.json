@@ -1,7 +1,7 @@
 {
  "361": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(361 Degrees),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1771,数据里是 2003"
  },
  "aape": {
   "needsReview": true,
@@ -9,11 +9,11 @@
  },
  "balabala": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Balabala),建议人工核对"
+  "reviewNote": "Wikidata 国家为 烏干达,数据里是 中国"
  },
  "baleno": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Baleno),建议人工核对"
+  "reviewNote": "Wikidata 国家为 中华人民共和国,数据里是 中国香港"
  },
  "bananain": {
   "needsReview": true,
@@ -25,23 +25,19 @@
  },
  "bosideng": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bosideng),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "ca": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(C&A),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 荷兰;Wikidata 总部为 维尔福德,数据里是 布鲁塞尔"
  },
  "camel": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CAMEL),建议人工核对"
- },
- "carhartt": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Carhartt),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1971,数据里是 1950"
  },
  "champion": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Champion),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1999,数据里是 1919;Wikidata 官网为 myspace.com,数据里是 champion.com"
  },
  "clot": {
   "needsReview": true,
@@ -49,19 +45,15 @@
  },
  "dickies": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Dickies),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1918,数据里是 1922;Wikidata 总部为 沃思堡,数据里是 沃斯堡"
  },
  "erdos": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(ERDOS),建议人工核对"
  },
- "evisu": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(EVISU),建议人工核对"
- },
  "fearofgod": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Fear of God),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1991,数据里是 2013;Wikidata 官网为 fear-of-god.com,数据里是 fearofgod.com"
  },
  "g-star-raw": {
   "needsReview": true,
@@ -69,39 +61,23 @@
  },
  "gap": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GAP),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1986,数据里是 1969"
  },
  "giordano": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GIORDANO),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英屬香港,数据里是 中国香港"
  },
  "gu": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GU),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1950,数据里是 2006;Wikidata 总部为 山口市,数据里是 东京"
  },
  "hengyuanxiang": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hengyuanxiang),建议人工核对"
+  "reviewNote": "Wikidata 官网为 hyx1927.com,数据里是 hengyuanxiang.com.cn"
  },
  "hla": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(HLA),建议人工核对"
- },
- "hm": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(H&M),建议人工核对"
- },
- "hotwind": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(hotwind),建议人工核对"
- },
- "jackjones": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jack & Jones),建议人工核对"
- },
- "jeanswest": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(JEANSWEST),建议人工核对"
+  "reviewNote": "Wikidata 官网为 onlinelibrary.wiley.com,数据里是 heilanhome.com"
  },
  "joeone": {
   "needsReview": true,
@@ -110,14 +86,6 @@
  "kith": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Kith),建议人工核对"
- },
- "lee": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lee),建议人工核对"
- },
- "levis": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Levi's),建议人工核对"
  },
  "markfairwhale": {
   "needsReview": true,
@@ -129,7 +97,7 @@
  },
  "moussy": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MOUSSY),建议人工核对"
+  "reviewNote": "Wikidata 国家为 法国,数据里是 日本"
  },
  "neiwai": {
   "needsReview": true,
@@ -137,43 +105,31 @@
  },
  "offwhite": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Off-White),建议人工核对"
+  "reviewNote": "Wikidata 国家为 意大利,数据里是 美国"
  },
  "only": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ONLY),建议人工核对"
- },
- "palmangels": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Palm Angels),建议人工核对"
+  "reviewNote": "Wikidata 国家为 丹麥,数据里是 丹麦"
  },
  "peacebird": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(PEACEBIRD),建议人工核对"
  },
- "semir": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Semir),建议人工核对"
- },
  "septwolves": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SEPTWOLVES),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "skechers": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Skechers),建议人工核对"
+  "reviewNote": "Wikidata 总部为 曼哈顿比奇,数据里是 曼哈顿海滩"
  },
  "stussy": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Stüssy),建议人工核对"
  },
- "supreme": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Supreme),建议人工核对"
- },
  "triumph": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Triumph),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 德国"
  },
  "ubras": {
   "needsReview": true,
@@ -181,7 +137,7 @@
  },
  "uniqlo": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(UNIQLO),建议人工核对"
+  "reviewNote": "Wikidata 总部为 中城大厦,数据里是 山口"
  },
  "urbanrevivo": {
   "needsReview": true,
@@ -195,21 +151,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Victoria's Secret),建议人工核对"
  },
- "wacoal": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wacoal),建议人工核对"
- },
  "wrangler": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wrangler),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1904,数据里是 1947"
  },
  "yaya": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(YAYA),建议人工核对"
- },
- "yishion": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(YISHION),建议人工核对"
+  "reviewNote": "Wikidata 国家为 美国,数据里是 中国"
  },
  "youngor": {
   "needsReview": true,
@@ -217,71 +165,27 @@
  },
  "zara": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ZARA),建议人工核对"
- },
- "acura": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Acura),建议人工核对"
- },
- "aito": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(AITO),建议人工核对"
- },
- "alfa-romeo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Alfa Romeo),建议人工核对"
- },
- "astonmartin": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Aston Martin),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1999,数据里是 1975;Wikidata 国家为 奥地利,数据里是 西班牙"
  },
  "audi": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Audi),建议人工核对"
+  "reviewNote": "Wikidata 国家为 意大利,数据里是 德国"
  },
  "avatr": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Avatr),建议人工核对"
  },
- "bentley": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bentley),建议人工核对"
- },
- "bmw": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(BMW),建议人工核对"
- },
- "bmw-real": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(BMW),建议人工核对"
- },
  "bugatti": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bugatti),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1947,数据里是 1909;Wikidata 国家为 德国,数据里是 法国"
  },
  "byd": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(BYD),建议人工核对"
  },
- "cadillac": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Cadillac),建议人工核对"
- },
- "changan": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Changan),建议人工核对"
- },
  "chery": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chery),建议人工核对"
- },
- "citroen": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Citroën),建议人工核对"
- },
- "ferrari": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Ferrari),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "fiat": {
   "needsReview": true,
@@ -291,157 +195,97 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(GAC Trumpchi),建议人工核对"
  },
- "geely": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Geely),建议人工核对"
- },
  "gwm": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(GWM),建议人工核对"
  },
  "honda": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Honda),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1986,数据里是 1948;Wikidata 总部为 港區,数据里是 日本东京"
  },
  "hongqi": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hongqi),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "hyundai": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hyundai),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1947,数据里是 1967"
  },
  "im-motors": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(IM Motors),建议人工核对"
- },
- "infiniti": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(INFINITI),建议人工核对"
+  "reviewNote": "Wikidata 官网为 immotors.com,数据里是 im-motors.com"
  },
  "jaguar": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jaguar),建议人工核对"
- },
- "kia": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Kia),建议人工核对"
- },
- "koenigsegg": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Koenigsegg),建议人工核对"
+  "reviewNote": "Wikidata 总部为 考文垂,数据里是 英国盖顿"
  },
  "lamborghini": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lamborghini),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1948,数据里是 1963"
  },
  "landrover": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Land Rover),建议人工核对"
- },
- "lexus": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lexus),建议人工核对"
- },
- "li-auto": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Li Auto),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1978,数据里是 1948"
  },
  "lincoln": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lincoln),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1869,数据里是 1917"
  },
  "lynk-co": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lynk & Co),建议人工核对"
- },
- "maserati": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Maserati),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "maybach": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Maybach),建议人工核对"
- },
- "mazda": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Mazda),建议人工核对"
- },
- "mclaren": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(McLaren),建议人工核对"
+  "reviewNote": "Wikidata 官网为 maybach.com,数据里是 mercedes-benz.com.cn"
  },
  "mercedesbenz": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Mercedes-Benz),建议人工核对"
- },
- "mitsubishi": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Mitsubishi Motors),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1926,数据里是 1886"
  },
  "nio": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(NIO),建议人工核对"
  },
- "nissan": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nissan),建议人工核对"
- },
  "opel": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Opel),建议人工核对"
- },
- "pagani": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Pagani),建议人工核对"
+  "reviewNote": "Wikidata 总部为 美因河畔吕瑟尔斯海姆,数据里是 德国吕塞尔斯海姆"
  },
  "peugeot": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Peugeot),建议人工核对"
- },
- "porsche": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Porsche),建议人工核对"
+  "reviewNote": "Wikidata 总部为 普瓦西,数据里是 法国巴黎"
  },
  "renault": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Renault),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1835,数据里是 1898;Wikidata 总部为 科尼亚克,数据里是 法国布洛涅-比扬古"
  },
  "rollsroyce": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Rolls-Royce),建议人工核对"
- },
- "seat": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SEAT),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1906,数据里是 1904;Wikidata 总部为 倫敦,数据里是 英国古德伍德"
  },
  "skoda": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Škoda),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2021,数据里是 1895"
  },
  "subaru": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Subaru),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1976,数据里是 1953"
  },
  "suzuki": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Suzuki),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1974,数据里是 1909"
  },
  "tesla": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tesla),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1991,数据里是 2003;Wikidata 国家为 Czech Republic,数据里是 美国"
  },
  "toyota": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Toyota),建议人工核对"
+  "reviewNote": "Wikidata 国家为 瑞士,数据里是 日本;Wikidata 总部为 薩芬维尔,数据里是 日本爱知县丰田市"
  },
  "volkswagen": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Volkswagen),建议人工核对"
- },
- "volvo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Volvo Cars),建议人工核对"
+  "reviewNote": "Wikidata 官网为 vw.com,数据里是 volkswagen.com"
  },
  "voyah": {
   "needsReview": true,
@@ -449,47 +293,35 @@
  },
  "wuling": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wuling),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1987,数据里是 1958"
  },
  "xiaomi-auto": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Xiaomi Auto),建议人工核对"
+  "reviewNote": "Wikidata 官网为 xiaomiauto.com,数据里是 xiaomiev.com"
  },
  "xpeng": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(XPeng),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 官网为 xpeng-auto.es,数据里是 xiaopeng.com"
  },
  "zeekr": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ZEEKR),建议人工核对"
+  "reviewNote": "Wikidata 官网为 zeekrglobal.com,数据里是 zeekrlife.com"
  },
  "acquadiparma": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Acqua di Parma),建议人工核对"
+  "reviewNote": "Wikidata 总部为 米兰,数据里是 帕尔玛"
  },
  "albion": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ALBION),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1998,数据里是 1956;Wikidata 国家为 澳大利亚,数据里是 日本"
  },
  "ateliercologne": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Atelier Cologne),建议人工核对"
  },
- "bobbi-brown": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bobbi Brown),建议人工核对"
- },
- "byredo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Byredo),建议人工核对"
- },
- "cerave": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CeraVe),建议人工核对"
- },
  "clarins": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Clarins),建议人工核对"
+  "reviewNote": "Wikidata 总部为 塞纳河畔讷伊,数据里是 巴黎"
  },
  "cle-de-peau-beaute": {
   "needsReview": true,
@@ -499,69 +331,37 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Curél),建议人工核对"
  },
- "decorte": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(DECORTÉ),建议人工核对"
- },
- "diptyque": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(diptyque),建议人工核对"
- },
- "dovebody": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Dove),建议人工核对"
- },
  "estee-lauder": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Estée Lauder),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1943,数据里是 1946"
  },
  "florasis": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Florasis),建议人工核对"
- },
- "fredericmalle": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Editions de Parfums Frédéric Malle),建议人工核对"
+  "reviewNote": "Wikidata 官网为 huaxizi.cn,数据里是 florasis.com"
  },
  "freeplus": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(freeplus),建议人工核对"
  },
- "guerlain": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Guerlain),建议人工核对"
- },
- "helena-rubinstein": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Helena Rubinstein),建议人工核对"
- },
- "jomalone": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jo Malone London),建议人工核对"
- },
- "kerastase": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Kérastase),建议人工核对"
- },
  "kose": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(KOSÉ),建议人工核对"
+  "reviewNote": "Wikidata 国家为 Chad,数据里是 日本"
  },
  "la-mer": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(La Mer),建议人工核对"
+  "reviewNote": "Wikidata 国家为 法国,数据里是 美国"
  },
  "la-prairie": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(La Prairie),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1846,数据里是 1978;Wikidata 国家为 加拿大,数据里是 瑞士"
  },
  "la-roche-posay": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(La Roche-Posay),建议人工核对"
+  "reviewNote": "Wikidata 官网为 laroche-posay.com,数据里是 larocheposay.com"
  },
  "lancome": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lancôme),建议人工核对"
+  "reviewNote": "Wikidata 总部为 库尔伯瓦,数据里是 巴黎"
  },
  "loreal-paris": {
   "needsReview": true,
@@ -571,29 +371,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(M·A·C),建议人工核对"
  },
- "maxfactor": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Max Factor),建议人工核对"
- },
  "maybelline": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Maybelline),建议人工核对"
+  "reviewNote": "Wikidata 国家为 巴西,数据里是 美国"
  },
  "nars": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(NARS Cosmetics),建议人工核对"
- },
- "neutrogena": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Neutrogena),建议人工核对"
- },
- "nivea": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(NIVEA),建议人工核对"
- },
- "penhaligons": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Penhaligon's),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1996,数据里是 1994;Wikidata 国家为 法国,数据里是 美国"
  },
  "perfectdiary": {
   "needsReview": true,
@@ -605,43 +389,31 @@
  },
  "schwarzkopf": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Schwarzkopf),建议人工核对"
- },
- "sergelutens": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Serge Lutens),建议人工核对"
- },
- "shiseido": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SHISEIDO),建议人工核对"
+  "reviewNote": "Wikidata 总部为 明斯特豪森,数据里是 汉堡"
  },
  "shu-uemura": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(shu uemura),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1972,数据里是 1967;Wikidata 官网为 shuuemura.com,数据里是 shu-uemura.com"
  },
  "sisley": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Sisley),建议人工核对"
- },
- "sk-ii": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SK-II),建议人工核对"
- },
- "skinceuticals": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SkinCeuticals),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1968,数据里是 1976;Wikidata 国家为 意大利,数据里是 法国"
  },
  "valmont": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Valmont),建议人工核对"
+  "reviewNote": "Wikidata 国家为 法国,数据里是 瑞士;Wikidata 官网为 mairie-valmont.fr,数据里是 valmontcosmetics.com"
+ },
+ "vaseline": {
+  "needsReview": true,
+  "reviewNote": "Wikidata 未找到对应实体(Vaseline),建议人工核对"
  },
  "winona": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Winona),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1861,数据里是 2008;Wikidata 国家为 美国,数据里是 中国"
  },
  "absolut": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Absolut),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1997,数据里是 1879;Wikidata 国家为 Russia,数据里是 瑞典"
  },
  "alittle": {
   "needsReview": true,
@@ -649,19 +421,19 @@
  },
  "budweiser": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Budweiser),建议人工核对"
+  "reviewNote": "Wikidata 总部为 聖路易斯,数据里是 圣路易斯"
  },
  "chagee": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CHAGEE),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 成都市,数据里是 云南昆明"
  },
  "chapanda": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ChaPanda),建议人工核对"
+  "reviewNote": "Wikidata 官网为 chabaidao.com,数据里是 chapanda.cn"
  },
  "chivas": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chivas Regal),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 苏格兰;Wikidata 总部为 阿伯丁,数据里是 斯佩塞"
  },
  "coco": {
   "needsReview": true,
@@ -679,33 +451,17 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(GOODME),建议人工核对"
  },
- "greygoose": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Grey Goose),建议人工核对"
- },
  "guinness": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Guinness),建议人工核对"
+  "reviewNote": "Wikidata 国家为 愛尔兰共和国,数据里是 爱尔兰"
  },
  "heineken": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Heineken),建议人工核对"
- },
- "hennessy": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hennessy),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1874,数据里是 1864"
  },
  "heytea": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(HEYTEA),建议人工核对"
- },
- "jackdaniels": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jack Daniel's),建议人工核对"
- },
- "jameson": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jameson),建议人工核对"
  },
  "jiannanchun": {
   "needsReview": true,
@@ -713,11 +469,11 @@
  },
  "johnniewalker": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Johnnie Walker),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 苏格兰"
  },
  "luckin": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Luckin Coffee),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "luzhoulaojiao": {
   "needsReview": true,
@@ -729,11 +485,7 @@
  },
  "manner": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Manner Coffee),建议人工核对"
- },
- "martell": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Martell),建议人工核对"
+  "reviewNote": "Wikidata 官网为 wearemanner.com,数据里是 mannercoffee.com.cn"
  },
  "mixue": {
   "needsReview": true,
@@ -743,25 +495,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(MOUTAI),建议人工核对"
  },
- "mstand": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(M Stand),建议人工核对"
- },
  "nayuki": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Nayuki),建议人工核对"
  },
- "nespresso": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nespresso),建议人工核对"
- },
  "peets": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Peet's Coffee),建议人工核对"
- },
- "remymartin": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Rémy Martin),建议人工核对"
+  "reviewNote": "Wikidata 总部为 愛莫利维尔,数据里是 伯克利"
  },
  "saturnbird": {
   "needsReview": true,
@@ -771,93 +511,57 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Sexy Tea),建议人工核对"
  },
- "starbucks": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Starbucks),建议人工核对"
- },
  "suntory": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Yamazaki),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1949,数据里是 1923;Wikidata 总部为 大阪府,数据里是 大阪山崎;Wikidata 官网为 yamazaki-sangyo.co.jp,数据里是 suntory.com"
  },
  "tasogare": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(TASOGARE),建议人工核对"
  },
- "timhortons": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tim Hortons),建议人工核对"
- },
  "tsingtao": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tsingtao Brewery),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "wuliangye": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(WULIANGYE),建议人工核对"
- },
- "yanghe": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Yanghe),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1998,数据里是 1909;Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 宜宾市,数据里是 四川宜宾"
  },
  "yongpu": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(YONGPU),建议人工核对"
  },
- "alexandermcqueen": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Alexander McQueen),建议人工核对"
- },
  "balenciaga": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Balenciaga),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1917,数据里是 1919"
  },
  "bally": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bally),建议人工核对"
+  "reviewNote": "Wikidata 总部为 卡斯拉諾,数据里是 卡斯兰诺"
  },
  "boss": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(BOSS),建议人工核对"
+  "reviewNote": "Wikidata 官网为 zarbi.chem.yale.edu,数据里是 hugoboss.com"
  },
  "bottega-veneta": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bottega Veneta),建议人工核对"
- },
- "brooksbrothers": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Brooks Brothers),建议人工核对"
+  "reviewNote": "Wikidata 总部为 维琴察,数据里是 米兰"
  },
  "brunellocucinelli": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Brunello Cucinelli),建议人工核对"
- },
- "burberry": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Burberry),建议人工核对"
+  "reviewNote": "Wikidata 总部为 科尔恰诺,数据里是 索罗梅奥"
  },
  "cabbeen": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(CABBEEN),建议人工核对"
  },
- "calvinklein": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Calvin Klein),建议人工核对"
- },
  "canadagoose": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Canada Goose),建议人工核对"
- },
- "celine": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CELINE),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1834,数据里是 1957"
  },
  "chanel": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chanel),建议人工核对"
- },
- "chloe": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chloé),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2010,数据里是 1910;Wikidata 总部为 塞纳河畔讷伊,数据里是 巴黎"
  },
  "christianlouboutin": {
   "needsReview": true,
@@ -865,19 +569,15 @@
  },
  "cmdesgarcons": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Comme des Garçons),建议人工核对"
- },
- "coach": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Coach),建议人工核对"
+  "reviewNote": "Wikidata 官网为 comme-des-garcons.com,数据里是 commedesgarcons.com"
  },
  "dazzle": {
   "needsReview": true,
-  "reviewNote": "Wikidata 记录成立于 1997,数据里是 2002;Wikidata 官网为 dazzleapple.com,数据里是 dazzle-fashion.com"
+  "reviewNote": "Wikidata 未找到对应实体(DAZZLE),建议人工核对"
  },
  "dior": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Dior),建议人工核对"
+  "reviewNote": "Wikidata 国家为 印度,数据里是 法国"
  },
  "dolce-gabbana": {
   "needsReview": true,
@@ -887,145 +587,29 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(ETRO),建议人工核对"
  },
- "fendi": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(FENDI),建议人工核对"
- },
  "ferragamo": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Ferragamo),建议人工核对"
  },
  "furla": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(FURLA),建议人工核对"
- },
- "giorgio-armani": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Giorgio Armani),建议人工核对"
+  "reviewNote": "Wikidata 总部为 博洛尼亚,数据里是 米兰"
  },
  "givenchy": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Givenchy),建议人工核对"
- },
- "gucci": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Gucci),建议人工核对"
- },
- "hermes": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hermès),建议人工核对"
- },
- "isseymiyake": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ISSEY MIYAKE),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1955,数据里是 1952"
  },
  "jeanpaulgaultier": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Jean Paul Gaultier),建议人工核对"
  },
- "jimmychoo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jimmy Choo),建议人工核对"
- },
- "jnby": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(JNBY),建议人工核对"
- },
- "katespade": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Kate Spade),建议人工核对"
- },
  "kenzo": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(KENZO),建议人工核对"
- },
- "lacoste": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lacoste),建议人工核对"
- },
- "loewe": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(LOEWE),建议人工核对"
- },
- "longchamp": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Longchamp),建议人工核对"
- },
- "louis-vuitton": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Louis Vuitton),建议人工核对"
- },
- "manoloblahnik": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Manolo Blahnik),建议人工核对"
- },
- "marni": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Marni),建议人工核对"
- },
- "max-mara": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Max Mara),建议人工核对"
- },
- "michaelkors": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Michael Kors),建议人工核对"
- },
- "miu-miu": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Miu Miu),建议人工核对"
- },
- "moncler": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Moncler),建议人工核对"
- },
- "moschino": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Moschino),建议人工核对"
- },
- "paulsmith": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Paul Smith),建议人工核对"
+  "reviewNote": "Wikidata 官网为 viva-la-knz.com,数据里是 kenzo.com"
  },
  "philippplein": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Philipp Plein),建议人工核对"
- },
- "prada": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Prada),建议人工核对"
- },
- "ralphlauren": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Ralph Lauren),建议人工核对"
- },
- "rickowens": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Rick Owens),建议人工核对"
- },
- "robertocavalli": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Roberto Cavalli),建议人工核对"
- },
- "rogervivier": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Roger Vivier),建议人工核对"
- },
- "saint-laurent": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Saint Laurent),建议人工核对"
- },
- "stellamccartney": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Stella McCartney),建议人工核对"
- },
- "stuartweitzman": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Stuart Weitzman),建议人工核对"
- },
- "thombrowne": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Thom Browne),建议人工核对"
+  "reviewNote": "Wikidata 官网为 philipp-plein.com,数据里是 philippplein.com"
  },
  "tods": {
   "needsReview": true,
@@ -1035,37 +619,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(TOM FORD),建议人工核对"
  },
- "tommy": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tommy Hilfiger),建议人工核对"
- },
- "toryburch": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tory Burch),建议人工核对"
- },
  "valentino": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Valentino),建议人工核对"
- },
- "versace": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Versace),建议人工核对"
- },
- "viviennewestwood": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Vivienne Westwood),建议人工核对"
- },
- "yohjiyamamoto": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Yohji Yamamoto),建议人工核对"
- },
- "zegna": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Zegna),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2003,数据里是 1960"
  },
  "baixiang": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Baixiang),建议人工核对"
+  "reviewNote": "Wikidata 国家为 Song dynasty,数据里是 中国"
  },
  "becheery": {
   "needsReview": true,
@@ -1073,23 +633,15 @@
  },
  "bestore": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(BESTORE),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "brightdairy": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bright Dairy),建议人工核对"
- },
- "burgerking": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Burger King),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1949,数据里是 1996"
  },
  "chacha": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chacha),建议人工核对"
- },
- "cocacola": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Coca-Cola),建议人工核对"
+  "reviewNote": "Wikidata 国家为 美国,数据里是 中国"
  },
  "dali": {
   "needsReview": true,
@@ -1097,7 +649,7 @@
  },
  "danone": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Danone),建议人工核对"
+  "reviewNote": "Wikidata 国家为 西班牙,数据里是 法国"
  },
  "dovechoc": {
   "needsReview": true,
@@ -1105,7 +657,7 @@
  },
  "ferrero": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Ferrero Rocher),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1982,数据里是 1946"
  },
  "genki": {
   "needsReview": true,
@@ -1113,11 +665,11 @@
  },
  "hagenDazs": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Häagen-Dazs),建议人工核对"
+  "reviewNote": "Wikidata 官网为 icecream.com,数据里是 haagen-dazs.com"
  },
  "haitian": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Haitian),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "hersheys": {
   "needsReview": true,
@@ -1125,31 +677,19 @@
  },
  "hsufuchi": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hsu Fu Chi),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "juewei": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Juewei),建议人工核对"
  },
- "kelloggs": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Kellogg's),建议人工核对"
- },
  "kfc": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(KFC),建议人工核对"
- },
- "laoganma": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lao Gan Ma),建议人工核对"
- },
- "masterkong": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Master Kong),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1930,数据里是 1952"
  },
  "mcdonalds": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(McDonald's),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1940,数据里是 1955"
  },
  "mengniu": {
   "needsReview": true,
@@ -1157,15 +697,11 @@
  },
  "mms": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(M&M's),建议人工核对"
- },
- "nestle": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nestlé),建议人工核对"
+  "reviewNote": "Wikidata 官网为 m-ms.jp,数据里是 mms.com"
  },
  "nfsq": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(NONGFU SPRING),建议人工核对"
+  "reviewNote": "Wikidata 总部为 西湖区,数据里是 杭州"
  },
  "oreo": {
   "needsReview": true,
@@ -1173,35 +709,23 @@
  },
  "orion": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Orion),建议人工核对"
+  "reviewNote": "Wikidata 国家为 日本,数据里是 韩国;Wikidata 总部为 大阪府,数据里是 首尔;Wikidata 官网为 orionstar.co.jp,数据里是 orionworld.com"
  },
  "pepsi": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Pepsi),建议人工核对"
- },
- "pizzahut": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Pizza Hut),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1893,数据里是 1898"
  },
  "quaker": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Quaker),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1774,数据里是 1877"
  },
  "shuanghui": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Shuanghui),建议人工核对"
- },
- "snickers": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SNICKERS),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1994,数据里是 1958;Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "subway": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Subway),建议人工核对"
- },
- "threesquirrels": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Three Squirrels),建议人工核对"
+  "reviewNote": "Wikidata 总部为 米尔福德,数据里是 康涅狄格州"
  },
  "unipresident": {
   "needsReview": true,
@@ -1211,29 +735,25 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Wahaha),建议人工核对"
  },
- "walls": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wall's),建议人工核对"
- },
  "wantwant": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Want Want),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1962,数据里是 1992;Wikidata 总部为 臺北市,数据里是 上海"
  },
  "weilong": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Weilong),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1999,数据里是 2001;Wikidata 官网为 weilongshipin.com,数据里是 weilongfood.com"
  },
  "whiterabbit": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(White Rabbit),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2011,数据里是 1959;Wikidata 国家为 Russia,数据里是 中国;Wikidata 总部为 莫斯科,数据里是 上海"
  },
  "wonglokat": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wong Lo Kat),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "yili": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Yili),建议人工核对"
+  "reviewNote": "Wikidata 国家为 Republic of the Congo,数据里是 中国"
  },
  "zhouheya": {
   "needsReview": true,
@@ -1243,25 +763,21 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Ariston Thermo),建议人工核对"
  },
+ "arrow": {
+  "needsReview": true,
+  "reviewNote": "Wikidata 国家为 英国,数据里是 中国"
+ },
  "bear": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Bear Electric),建议人工核对"
- },
- "bosch": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bosch),建议人工核对"
  },
  "buydeem": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Buydeem),建议人工核对"
  },
- "corning": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Corning),建议人工核对"
- },
  "daewoo": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(DAEWOO),建议人工核对"
+  "reviewNote": "Wikidata 官网为 web.archive.org,数据里是 daewoobr.com"
  },
  "derucci": {
   "needsReview": true,
@@ -1277,11 +793,7 @@
  },
  "electrolux": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Electrolux),建议人工核对"
- },
- "fissler": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(FISSLER),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1910,数据里是 1919"
  },
  "fotile": {
   "needsReview": true,
@@ -1289,23 +801,15 @@
  },
  "gree": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GREE),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2004,数据里是 1991;Wikidata 国家为 日本,数据里是 中国"
  },
  "haier": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Haier),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "hansgrohe": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(hansgrohe),建议人工核对"
- },
- "hisense": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hisense),建议人工核对"
- },
- "ikea": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(IKEA),建议人工核对"
  },
  "jomoo": {
   "needsReview": true,
@@ -1313,23 +817,15 @@
  },
  "joyoung": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Joyoung),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "kingkoil": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(King Koil),建议人工核对"
  },
- "kohler": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(KOHLER),建议人工核对"
- },
  "kuka": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(KUKA HOME),建议人工核对"
- },
- "lg": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(LG Electronics),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "locknlock": {
   "needsReview": true,
@@ -1337,79 +833,43 @@
  },
  "midea": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Midea),建议人工核对"
- },
- "miele": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MIELE),建议人工核对"
+  "reviewNote": "Wikidata 总部为 北滘镇,数据里是 佛山"
  },
  "moen": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(MOEN),建议人工核对"
  },
- "muji": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MUJI),建议人工核对"
- },
  "panasonic": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Panasonic),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1984,数据里是 1918;Wikidata 国家为 荷兰,数据里是 日本"
  },
  "robam": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(ROBAM),建议人工核对"
  },
- "roborock": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Roborock),建议人工核对"
- },
- "sealy": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Sealy),建议人工核对"
- },
- "serta": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Serta),建议人工核对"
- },
- "sharp": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 官网为 github.com,数据里是 sharp-global.com"
- },
  "siemens": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SIEMENS),建议人工核对"
- },
- "simmons": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Simmons),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1990,数据里是 1847;Wikidata 国家为 捷克,数据里是 德国"
  },
  "supor": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SUPOR),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1988,数据里是 1994"
  },
  "tcl": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(TCL),建议人工核对"
  },
- "thermos": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(THERMOS),建议人工核对"
- },
  "tiger": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TIGER),建议人工核对"
+  "reviewNote": "Wikidata 官网为 facilities.princeton.edu,数据里是 tiger-corporation.com"
  },
  "toshiba": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TOSHIBA),建议人工核对"
+  "reviewNote": "Wikidata 总部为 港區,数据里是 东京"
  },
  "toto": {
   "needsReview": true,
-  "reviewNote": "Wikidata 国家为 Belgium,数据里是 日本;Wikidata 官网为 uclouvain.be,数据里是 toto.com.cn"
- },
- "tupperware": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tupperware),建议人工核对"
+  "reviewNote": "Wikidata 未找到对应实体(TOTO),建议人工核对"
  },
  "vatti": {
   "needsReview": true,
@@ -1417,7 +877,7 @@
  },
  "whirlpool": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Whirlpool),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2006,数据里是 1911;Wikidata 国家为 日本,数据里是 美国;Wikidata 总部为 日本,数据里是 密歇根州本顿港"
  },
  "zojirushi": {
   "needsReview": true,
@@ -1429,55 +889,43 @@
  },
  "adidas": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(adidas),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1924,数据里是 1949"
  },
  "anta": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(ANTA),建议人工核对"
  },
- "arcteryx": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Arc'teryx),建议人工核对"
- },
  "arena": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(arena),建议人工核对"
+  "reviewNote": "Wikidata 国家为 瑞士,数据里是 意大利"
  },
  "asics": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ASICS),建议人工核对"
+  "reviewNote": "Wikidata 总部为 神戶市,数据里是 日本神户"
  },
  "blackdiamond": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Black Diamond),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1999,数据里是 1989;Wikidata 国家为 丹麦,数据里是 美国;Wikidata 官网为 kb.dk,数据里是 blackdiamondequipment.com"
  },
  "brooks": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Brooks),建议人工核对"
+  "reviewNote": "Wikidata 国家为 加拿大,数据里是 美国"
  },
  "burton": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(BURTON),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 美国"
  },
  "columbia": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Columbia),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1788,数据里是 1938"
  },
  "converse": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Converse),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1910,数据里是 1908"
  },
  "decathlon": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Decathlon),建议人工核对"
- },
- "descente": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(DESCENTE),建议人工核对"
- },
- "erke": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ERKE),建议人工核对"
+  "reviewNote": "Wikidata 国家为 香港,数据里是 法国;Wikidata 官网为 digital.lib.hkbu.edu.hk,数据里是 decathlon.com"
  },
  "fila": {
   "needsReview": true,
@@ -1486,10 +934,6 @@
  "garmin": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(GARMIN),建议人工核对"
- },
- "head": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(HEAD),建议人工核对"
  },
  "hoka": {
   "needsReview": true,
@@ -1507,49 +951,29 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(lululemon),建议人工核对"
  },
- "mammut": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 官网为 danieledesensi.github.io,数据里是 mammut.com"
- },
  "marmot": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Marmot),建议人工核对"
- },
- "merrell": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Merrell),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1974,数据里是 1971"
  },
  "mizuno": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MIZUNO),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1889,数据里是 1906"
  },
  "montbell": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Mont-bell),建议人工核对"
- },
- "newbalance": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(New Balance),建议人工核对"
+  "reviewNote": "Wikidata 总部为 立賣堀,数据里是 大阪"
  },
  "nike": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nike),建议人工核对"
- },
- "on": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(On),建议人工核对"
- },
- "patagonia": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Patagonia),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1949,数据里是 1964"
  },
  "peak": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(PEAK),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1973,数据里是 1989;Wikidata 国家为 英国,数据里是 中国;Wikidata 官网为 oldworldind.com,数据里是 peak.com"
  },
  "puma": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(PUMA),建议人工核对"
+  "reviewNote": "Wikidata 国家为 荷兰,数据里是 德国;Wikidata 总部为 鹿特丹,数据里是 德国黑措根奥拉赫"
  },
  "rockbros": {
   "needsReview": true,
@@ -1557,43 +981,27 @@
  },
  "salomon": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Salomon),建议人工核对"
- },
- "saucony": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Saucony),建议人工核对"
+  "reviewNote": "Wikidata 总部为 埃帕尼-梅泰西,数据里是 法国安纳西"
  },
  "snowpeak": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Snow Peak),建议人工核对"
- },
- "spalding": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Spalding),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1964,数据里是 1958"
  },
  "speedo": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Speedo),建议人工核对"
  },
- "thenorthface": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(The North Face),建议人工核对"
- },
  "toread": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Toread),建议人工核对"
  },
- "underarmour": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Under Armour),建议人工核对"
- },
  "vans": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Vans),建议人工核对"
+  "reviewNote": "Wikidata 总部为 科斯塔梅薩,数据里是 美国科斯塔梅萨"
  },
  "wilson": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Wilson),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1978,数据里是 1914;Wikidata 国家为 加拿大,数据里是 美国;Wikidata 官网为 ttc.ca,数据里是 wilson.com"
  },
  "xtep": {
   "needsReview": true,
@@ -1601,39 +1009,31 @@
  },
  "yonex": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(YONEX),建议人工核对"
+  "reviewNote": "Wikidata 总部为 文京區,数据里是 东京"
  },
  "acer": {
   "needsReview": true,
-  "reviewNote": "Wikidata 总部为 臺北市,数据里是 新北市"
- },
- "alienware": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Alienware),建议人工核对"
- },
- "amd": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(AMD),建议人工核对"
+  "reviewNote": "Wikidata 国家为 中华民国,数据里是 中国台湾"
  },
  "anker": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Anker),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "apple": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Apple),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1978,数据里是 1976;Wikidata 国家为 科索沃,数据里是 美国"
  },
  "asus": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ASUS),建议人工核对"
+  "reviewNote": "Wikidata 总部为 臺北市,数据里是 台北"
  },
  "bose": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Bose),建议人工核对"
+  "reviewNote": "Wikidata 国家为 波兰,数据里是 美国"
  },
  "canon": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Canon),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1950,数据里是 1937;Wikidata 官网为 biblioteca.fadu.uba.ar,数据里是 canon.com"
  },
  "dell": {
   "needsReview": true,
@@ -1641,31 +1041,19 @@
  },
  "dji": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(DJI),建议人工核对"
- },
- "edifier": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(EDIFIER),建议人工核对"
- },
- "fujifilm": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(FUJIFILM),建议人工核对"
- },
- "google": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 官网为 breakingcode.wordpress.com,数据里是 google.com"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 北京市,数据里是 深圳"
  },
  "gopro": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GoPro),建议人工核对"
+  "reviewNote": "Wikidata 总部为 聖马刁,数据里是 圣马特奥"
  },
  "hasselblad": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hasselblad),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1841,数据里是 1941"
  },
  "honor": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(HONOR),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "hp": {
   "needsReview": true,
@@ -1673,7 +1061,7 @@
  },
  "huawei": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(HUAWEI),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "iflytek": {
   "needsReview": true,
@@ -1683,37 +1071,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(imoo),建议人工核对"
  },
- "insta360": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Insta360),建议人工核对"
- },
- "intel": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Intel),建议人工核对"
- },
  "kingston": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Kingston),建议人工核对"
- },
- "leica": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Leica),建议人工核对"
- },
- "lenovo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Lenovo),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1673,数据里是 1987;Wikidata 国家为 加拿大,数据里是 美国"
  },
  "logitech": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Logitech),建议人工核对"
- },
- "meizu": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MEIZU),建议人工核对"
- },
- "microsoft": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Microsoft),建议人工核对"
+  "reviewNote": "Wikidata 国家为 美国,数据里是 瑞士"
  },
  "msi": {
   "needsReview": true,
@@ -1721,35 +1085,15 @@
  },
  "nikon": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nikon),建议人工核对"
- },
- "nintendo": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Nintendo),建议人工核对"
- },
- "nvidia": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(NVIDIA),建议人工核对"
+  "reviewNote": "Wikidata 总部为 港區,数据里是 东京"
  },
  "oneplus": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(OnePlus),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "oppo": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(OPPO),建议人工核对"
- },
- "qualcomm": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Qualcomm),建议人工核对"
- },
- "razer": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Razer),建议人工核对"
- },
- "realme": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(realme),建议人工核对"
  },
  "redmagic": {
   "needsReview": true,
@@ -1765,59 +1109,31 @@
  },
  "seagate": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Seagate),建议人工核对"
- },
- "sennheiser": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Sennheiser),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1929,数据里是 1979"
  },
  "sony": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(SONY),建议人工核对"
  },
- "tplink": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TP-Link),建议人工核对"
- },
  "ugreen": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(UGREEN),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2009,数据里是 2012;Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "vivo": {
   "needsReview": true,
-  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 Dongguan,数据里是 东莞"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "wd": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Western Digital),建议人工核对"
+  "reviewNote": "Wikidata 官网为 westerndigital.com,数据里是 wd.com"
  },
  "xgimi": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(XGIMI),建议人工核对"
  },
- "xiaomi": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Xiaomi),建议人工核对"
- },
  "zte": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(ZTE),建议人工核对"
- },
- "ap": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Audemars Piguet),建议人工核对"
- },
- "blancpain": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Blancpain),建议人工核对"
- },
- "boucheron": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Boucheron),建议人工核对"
- },
- "breguet": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Breguet),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国"
  },
  "bvlgari": {
   "needsReview": true,
@@ -1825,27 +1141,19 @@
  },
  "casio": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CASIO),建议人工核对"
- },
- "chaumet": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(CHAUMET),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1957,数据里是 1946;Wikidata 总部为 澀谷區,数据里是 东京"
  },
  "chopard": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chopard),建议人工核对"
- },
- "chowsangsang": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chow Sang Sang),建议人工核对"
+  "reviewNote": "Wikidata 总部为 梅兰,数据里是 日内瓦"
  },
  "chowtaifook": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Chow Tai Fook),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国香港"
  },
  "citizen": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Citizen),建议人工核对"
+  "reviewNote": "Wikidata 国家为 英国,数据里是 日本"
  },
  "darryring": {
   "needsReview": true,
@@ -1853,47 +1161,31 @@
  },
  "fiyta": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Fiyta),建议人工核对"
+  "reviewNote": "Wikidata 国家为 People's Republic of China,数据里是 中国;Wikidata 总部为 南山区,数据里是 深圳"
  },
  "franckmuller": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Franck Muller),建议人工核对"
- },
- "glashuette": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Glashütte Original),建议人工核对"
- },
- "gp": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Girard-Perregaux),建议人工核对"
+  "reviewNote": "Wikidata 总部为 让托,数据里是 日内瓦"
  },
  "graff": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(GRAFF),建议人工核对"
+  "reviewNote": "Wikidata 国家为 德国,数据里是 英国"
  },
  "hamilton": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Hamilton),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1827,数据里是 1892;Wikidata 国家为 美国,数据里是 瑞士;Wikidata 官网为 hamiltoncityhall.net,数据里是 hamiltonwatch.com"
  },
  "harrywinston": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Harry Winston),建议人工核对"
  },
- "hublot": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(HUBLOT),建议人工核对"
- },
  "iwc": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(IWC Schaffhausen),建议人工核对"
  },
- "jlc": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Jaeger-LeCoultre),建议人工核对"
- },
  "lange": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(A. Lange & Söhne),建议人工核对"
+  "reviewNote": "Wikidata 总部为 黑森林,数据里是 格拉苏蒂;Wikidata 官网为 alange-soehne.com,数据里是 langepart.com"
  },
  "laofengxiang": {
   "needsReview": true,
@@ -1903,17 +1195,13 @@
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Laomiao Gold),建议人工核对"
  },
- "longines": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Longines),建议人工核对"
- },
  "mido": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MIDO),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1970,数据里是 1918;Wikidata 国家为 意大利,数据里是 瑞士"
  },
  "mikimoto": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(MIKIMOTO),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 1899,数据里是 1893"
  },
  "oris": {
   "needsReview": true,
@@ -1921,19 +1209,15 @@
  },
  "pandora": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Pandora),建议人工核对"
+  "reviewNote": "Wikidata 记录成立于 2000,数据里是 1982;Wikidata 国家为 美国,数据里是 丹麦;Wikidata 总部为 奥克兰,数据里是 哥本哈根"
  },
  "patek": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(Patek Philippe),建议人工核对"
  },
- "piaget": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(PIAGET),建议人工核对"
- },
  "qeelin": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Qeelin),建议人工核对"
+  "reviewNote": "Wikidata 国家为 中华人民共和国,数据里是 中国香港"
  },
  "rado": {
   "needsReview": true,
@@ -1945,15 +1229,7 @@
  },
  "richardmille": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Richard Mille),建议人工核对"
- },
- "rolex": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Rolex),建议人工核对"
- },
- "rossini": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Rossini),建议人工核对"
+  "reviewNote": "Wikidata 总部为 莱布勒勒,数据里是 弗莱耶尔"
  },
  "seagull": {
   "needsReview": true,
@@ -1961,42 +1237,22 @@
  },
  "seiko": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SEIKO),建议人工核对"
- },
- "swarovski": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(SWAROVSKI),建议人工核对"
+  "reviewNote": "Wikidata 总部为 銀座,数据里是 东京"
  },
  "tagheuer": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TAG Heuer),建议人工核对"
+  "reviewNote": "Wikidata 总部为 比尔,数据里是 拉绍德封"
  },
  "tasaki": {
   "needsReview": true,
   "reviewNote": "Wikidata 未找到对应实体(TASAKI),建议人工核对"
  },
- "tiffany": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Tiffany & Co.),建议人工核对"
- },
- "tissot": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TISSOT),建议人工核对"
- },
  "tudor": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(TUDOR),建议人工核对"
- },
- "ulysse": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Ulysse Nardin),建议人工核对"
+  "reviewNote": "Wikidata 国家为 加拿大,数据里是 瑞士"
  },
  "vc": {
   "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Vacheron Constantin),建议人工核对"
- },
- "vca": {
-  "needsReview": true,
-  "reviewNote": "Wikidata 未找到对应实体(Van Cleef & Arpels),建议人工核对"
+  "reviewNote": "Wikidata 总部为 普朗莱乌特,数据里是 日内瓦"
  }
 }

@@ -1,6 +1,7 @@
 // Wikidata 数据体检(逐品牌直查,QLever 镜像;官方端点被墙时的可用通道)
 // 用法:node --use-system-ca tools/wikidata-check.mjs
-// - 缓存 data/wikidata-cache.json(断点续跑);产出 review-flags.json + review-report.json
+// - 缓存 data/wikidata-cache.json(断点续跑);比对逻辑改动后用缓存即可重算
+// - 产出 data/review-flags.json(供 build-data 挂 needsReview)+ data/review-report.json
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -9,10 +10,7 @@ const UA = 'ShipaiBrandpedia/1.0 (personal brand encyclopedia)';
 const ENDPOINT = 'https://qlever.dev/api/wikidata';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-const data = JSON.parse(readFileSync(join(ROOT, 'data', 'index.json'), 'utf8'));
-const CACHE_FILE = join(ROOT, 'data', 'wikidata-cache.json');
-const cache = existsSync(CACHE_FILE) ? JSON.parse(readFileSync(CACHE_FILE, 'utf8')) : {};
-
+// ---------- 基础工具 ----------
 const SKIP = new Set(['com', 'cn', 'net', 'org', 'co', 'www', 'jp', 'de', 'fr', 'it', 'us', 'uk', 'hk', 'tw', 'kr', 'group', 'global']);
 function hostOf(url) { try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return url; } }
 function cores(host) { return host.split('.').filter(p => p && !SKIP.has(p)); }
@@ -29,6 +27,10 @@ function titleCase(en) {
     return w[0].toUpperCase() + w.slice(1).toLowerCase();
   }).join(' ');
 }
+// 繁→简(城市/国家常用字)
+const T2S = { 蘭:'兰', 亞:'亚', 維:'维', 爾:'尔', 漢:'汉', 華:'华', 龍:'龙', 國:'国', 際:'际', 奧:'奥', 灣:'湾', 東:'东', 車:'车', 馬:'马', 達:'达', 羅:'罗', 納:'纳', 蘇:'苏', 縣:'县', 島:'岛', 內:'内', 貝:'贝', 萊:'莱', 錫:'锡', 頓:'顿', 茲:'兹', 舍:'舍', 爾:'尔' };
+const simp = s => String(s).replace(/[蘭亞維爾漢華龍國際奧灣東車馬達羅納蘇縣島內貝裏萊錫頓茲]/g, ch => T2S[ch] || ch);
+const EN_COUNTRY = { germany:'德国', sweden:'瑞典', denmark:'丹麦', italy:'意大利', france:'法国', 'united states':'美国', usa:'美国', 'united states of america':'美国', japan:'日本', switzerland:'瑞士', 'united kingdom':'英国', uk:'英国', 'south korea':'韩国', korea:'韩国', netherlands:'荷兰', spain:'西班牙', austria:'奥地利', finland:'芬兰', norway:'挪威', canada:'加拿大', australia:'澳大利亚', china:'中国', taiwan:'台湾', 'hong kong':'香港', india:'印度', mexico:'墨西哥', brazil:'巴西', thailand:'泰国', malaysia:'马来西亚', singapore:'新加坡', belgium:'比利时', ireland:'爱尔兰' };
 
 async function sparql(query, timeoutMs = 30000) {
   for (let attempt = 0; attempt < 4; attempt++) {
@@ -92,7 +94,13 @@ function pickBest(rows) {
   }
   return best;
 }
-function compare(b, wd) {
+function compare(b, wdRaw) {
+  let wd = { ...wdRaw };
+  if (wd.country && !/[\u4e00-\u9fff]/.test(wd.country)) {
+    wd.country = EN_COUNTRY[wd.country.toLowerCase()] || wd.country;
+  }
+  wd.country = simp(wd.country); wd.hq = simp(wd.hq);
+
   const diffs = [];
   if (b.founded && wd.founded && Math.abs(b.founded - wd.founded) > 1) {
     diffs.push(`Wikidata 记录成立于 ${wd.founded},数据里是 ${b.founded}`);
@@ -101,7 +109,7 @@ function compare(b, wd) {
     const a = b.country.replace(/国$/, ''), c = wd.country.replace(/国$/, '');
     if (!c.includes(a) && !a.includes(c)) diffs.push(`Wikidata 国家为 ${wd.country},数据里是 ${b.country}`);
   }
-  if (b.hq && wd.hq && !wd.hq.includes(b.hq) && !b.hq.includes(wd.hq)) {
+  if (b.hq && wd.hq && /[\u4e00-\u9fff]/.test(wd.hq) && !wd.hq.includes(b.hq) && !b.hq.includes(wd.hq)) {
     diffs.push(`Wikidata 总部为 ${wd.hq},数据里是 ${b.hq}`);
   }
   if (b.domain && wd.site && !domainMatch(b.domain, wd.site)) {
@@ -110,16 +118,17 @@ function compare(b, wd) {
   return diffs;
 }
 
-let notFound = 0, fieldDiff = 0, okN = 0, errors = 0;
-const flagged = {};
-const report = [];
+// ---------- 主流程 ----------
+const data = JSON.parse(readFileSync(join(ROOT, 'data', 'index.json'), 'utf8'));
+const CACHE_FILE = join(ROOT, 'data', 'wikidata-cache.json');
+const cache = existsSync(CACHE_FILE) ? JSON.parse(readFileSync(CACHE_FILE, 'utf8')) : {};
 
+// 1) 抓取循环(只补缓存缺口)
 const pending = data.brands.filter(b => !cache[b.id]);
 console.log(`待查 ${pending.length} 个品牌(缓存已有 ${data.brands.length - pending.length})`);
-
+let fetched = 0;
 for (const b of pending) {
   const orig = (b.nameEn || b.name).trim();
-  process.stdout.write(`${b.id} `);
   const variants = [orig];
   const tc = titleCase(orig);
   if (tc !== orig) variants.push(tc);
@@ -138,26 +147,40 @@ for (const b of pending) {
       await sleep(8000);
     }
   }
-  if (!rec) {
+  cache[b.id] = rec
+    ? { site: rec.site, founded: rec.founded, country: rec.country, hq: rec.hq, t: Date.now() }
+    : { qid: null, t: Date.now() };
+  fetched++;
+  const done = Object.keys(cache).length;
+  if (done % 20 === 0) {
+    writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 1));
+    console.log(`  抓取进度 ${done}/${data.brands.length}`);
+  }
+}
+if (fetched) writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 1));
+
+// 2) 统一比对(全量,基于缓存)
+let notFound = 0, fieldDiff = 0, okN = 0, errors = 0;
+const flagged = {};
+const report = [];
+for (const b of data.brands) {
+  const wd = cache[b.id];
+  if (!wd) {
+    flagged[b.id] = { needsReview: true, reviewNote: '尚未体检(网络未完成)' };
+    continue;
+  }
+  if (wd.qid === null) {
     notFound++;
     flagged[b.id] = { needsReview: true, reviewNote: 'Wikidata 未找到对应实体(' + (b.nameEn || b.name) + '),建议人工核对' };
     report.push({ id: b.id, name: b.name, note: flagged[b.id].reviewNote });
-    cache[b.id] = { qid: null, t: Date.now() };
     continue;
   }
-  const wd = { site: rec.site, founded: rec.founded, country: rec.country, hq: rec.hq, t: Date.now() };
-  cache[b.id] = wd;
   const diffs = compare(b, wd);
   if (diffs.length) {
     fieldDiff++;
     flagged[b.id] = { needsReview: true, reviewNote: diffs.join(';') };
-    report.push({ id: b.id, name: b.name, note: diffs.join(';') });
+    report.push({ id: b.id, name: b.name, qid: wd.qid, note: diffs.join(';') });
   } else okN++;
-  const done = notFound + fieldDiff + okN;
-  if (done % 20 === 0) {
-    writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 1));
-    console.log(`  进度 ${done}/${pending.length} · 一致 ${okN} 差异 ${fieldDiff} 未找到 ${notFound}`);
-  }
 }
 
 writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 1));
@@ -167,4 +190,4 @@ writeFileSync(join(ROOT, 'data', 'review-report.json'), JSON.stringify({
   total: data.brands.length, notFound, fieldDiff, ok: okN, errors,
   items: report,
 }, null, 1));
-console.log(`✔ 体检完成:一致 ${okN} / 字段差异 ${fieldDiff} / 未找到 ${notFound} / 查询错误 ${errors}`);
+console.log(`✔ 体检完成:一致 ${okN} / 字段差异 ${fieldDiff} / 未找到 ${notFound} / 错误 ${errors}`);
