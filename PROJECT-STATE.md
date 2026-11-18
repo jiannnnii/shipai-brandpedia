@@ -42,13 +42,13 @@ chowsangsang-promessa、gp-cats-eye、oris-bigcrown、tasaki-balance、sw-lowlan
 - 落盘文件:w5-done.json(watchjewel 复审)、f6-fold.json / f6-fnew.json(fashion 复审)。
 - beauty/sports 审查用同配方,判定落盘 data/audit/verdicts/b6-beauty.json、b6-sports.json(目标文件,新建)。
 
-## 待办队列(2026-11-19 深夜更新)
+## 待办队列(2026-11-19 收尾完成)
 1. ✅ watchjewel 重抓复审 —— 完成(w5-done.json)
 2. ✅ fashion 残余 + 重抓复审 —— 完成(f6-fold.json + f6-fnew.json)
 3. ✅ beauty 首审 —— 完成(b6-beauty.json)
 4. ✅ sports 首审 —— 完成(b6-sports.json)
-5. ⏳ 决策点:是否对 beauty/sports 的 mismatch(约 325 张)再跑一轮 fix-imgs 重抓+复审(此前 fashion 重抓 193 张仅 12 张 ok,产出比极低);或直接进收尾
-6. ⏳ 收尾:合并全量判定 → 删除所有"非 ok"图与 14 张毒图(宁缺毋滥回落字块)→ shrink → build-data → build-apk → adb 无线装机 → git push
+5. ✅ 收尾 —— 全量判定合并存 verdict-latest-all-20261119.json(779 条);删除 737 张非 ok/毒图;shrink(48.6MB/367文件);build-data(503品牌/2639产品);build-apk BUILD SUCCESSFUL;git push 完成(a07eb13..80a6f88)
+6. ⏳ adb 无线装机未完成:手机 192.168.137.75:5555 离线,APK 已就绪(android/app/build/outputs/apk/release/app-release.apk),手机上线后手动 `adb connect 192.168.137.75:5555` + `adb -s 192.168.137.75:5555 install -r ...` 即可
 7. ⏳ auto13 挑图落地复核(上一会话遗留)
 
 ## 图片审查管线(工具都在 tools/)
