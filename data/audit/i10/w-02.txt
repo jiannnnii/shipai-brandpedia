@@ -1,0 +1,10 @@
+franckmuller-colorskeletion | 法穆兰 彩色梦(Color Dreams,正装表) | 渐变彩盘+酒桶壳,法穆兰把配色玩成了 signature。 | data\img\franckmuller-colorskeletion.jpg
+glashuette-pano | 格拉苏蒂原创 Pano 偏心系列(Pano,正装表) | 非对称偏心盘面+大日历+动力储备,德系美学的现代名片。 | data\img\glashuette-pano.jpg
+glashuette-senator | 格拉苏蒂原创 议员系列(Senator,正装表) | 圆形正装的德式严谨,三针大日历是入门德系高定的经典选择。 | data\img\glashuette-senator.jpg
+glashuette-seventies | 格拉苏蒂原创 七十年代(Seventies,计时码表) | 电视形表壳+彩色渐变盘,把1970年代的复古风情戴回手腕。 | data\img\glashuette-seventies.jpg
+glashuette-spezialist | 格拉苏蒂原创 Spezialist(Spezialist,潜水表) | SeaQ 潜水表通过德标 DIN 8306,德系工装风的硬核新线。 | data\img\glashuette-spezialist.jpg
+gp-laureato | 芝柏 桂冠系列(Laureato,运动豪华表) | 1975年诞生的八角圈一体链,比皇家橡树低调,被藏家称作"宝藏钢表"。 | data\img\gp-laureato.jpg
+gp-1966 | 芝柏 1966系列(1966,正装表) | 以品牌拿下日内瓦表展大奖的年份命名,薄而雅的正装。 | data\img\gp-1966.jpg
+gp-cats-eye | 芝柏 猫眼系列(Cat's Eye,女表) | 椭圆猫眼造型专为女性设计,镶钻款在珠宝表里辨识度极高。 | data\img\gp-cats-eye.jpg
+graff-flames | 格拉夫 Flames 系列(Flames,首饰) | 渐变钻石如火焰升腾,以切工营造流动感的当代主打。 | data\img\graff-flames.jpg
+hamilton-ventura | 汉米尔顿 探险(Ventura,异形表) | 1957年世界首款电表,三角盾形壳,猫王同款,科幻感拉满。 | data\img\hamilton-ventura.jpg

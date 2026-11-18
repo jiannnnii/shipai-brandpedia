@@ -1,0 +1,952 @@
+[
+ {
+  "id": "alexandermcqueen-oversizedsneaker",
+  "verdict": "mismatch",
+  "note": "雕像场景无关"
+ },
+ {
+  "id": "alexandermcqueen-treadslick",
+  "verdict": "mismatch",
+  "note": "狮身人面像雕像"
+ },
+ {
+  "id": "alexandermcqueen-knuckle",
+  "verdict": "mismatch",
+  "note": "罗马尼亚邮票"
+ },
+ {
+  "id": "alexandermcqueen-skullscarf",
+  "verdict": "mismatch",
+  "note": "狮身人面像雕像"
+ },
+ {
+  "id": "alexandermcqueen-tailoring",
+  "verdict": "mismatch",
+  "note": "建筑喷泉景观"
+ },
+ {
+  "id": "alexandermcqueen-jackets",
+  "verdict": "mismatch",
+  "note": "骑马雕像非产品"
+ },
+ {
+  "id": "balenciaga-le-city",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "balenciaga-hourglass",
+  "verdict": "ok",
+  "note": "沙漏包实物陈列"
+ },
+ {
+  "id": "balenciaga-triple-s",
+  "verdict": "ok",
+  "note": "Triple S实物特写"
+ },
+ {
+  "id": "balenciaga-track",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "balenciaga-speed",
+  "verdict": "mismatch",
+  "note": "非袜子鞋,全身造型照"
+ },
+ {
+  "id": "bally-loafers",
+  "verdict": "logo",
+  "note": "门店招牌明星照"
+ },
+ {
+  "id": "bally-derbyshoes",
+  "verdict": "mismatch",
+  "note": "秀场皮草长靴"
+ },
+ {
+  "id": "bally-bags",
+  "verdict": "ok",
+  "note": "旅行手袋实拍"
+ },
+ {
+  "id": "bally-smallgoods",
+  "verdict": "mismatch",
+  "note": "背的是挎包非小皮具"
+ },
+ {
+  "id": "boss-suit",
+  "verdict": "ok",
+  "note": "西装主体清晰"
+ },
+ {
+  "id": "boss-shirt",
+  "verdict": "mismatch",
+  "note": "影院海报非衬衫"
+ },
+ {
+  "id": "boss-bottled",
+  "verdict": "mismatch",
+  "note": "服饰广告无香水"
+ },
+ {
+  "id": "boss-polo",
+  "verdict": "ok",
+  "note": "男士穿Polo可辨"
+ },
+ {
+  "id": "boss-accessories",
+  "verdict": "mismatch",
+  "note": "山景无关图"
+ },
+ {
+  "id": "boss-watch",
+  "verdict": "mismatch",
+  "note": "新闻横幅无产品"
+ },
+ {
+  "id": "bottega-veneta-arco",
+  "verdict": "mismatch",
+  "note": "卡通小狗图"
+ },
+ {
+  "id": "bottega-veneta-andiamo",
+  "verdict": "mismatch",
+  "note": "猫咪照片无关"
+ },
+ {
+  "id": "bottega-veneta-flash-flats",
+  "verdict": "mismatch",
+  "note": "动漫插画无关"
+ },
+ {
+  "id": "bb-1818suit",
+  "verdict": "mismatch",
+  "note": "Brooks品牌logo"
+ },
+ {
+  "id": "bb-goldenfleece",
+  "verdict": "mismatch",
+  "note": "错误品牌纯logo"
+ },
+ {
+  "id": "bb-cashmere",
+  "verdict": "mismatch",
+  "note": "跑步鞋无关品牌"
+ },
+ {
+  "id": "bc-cashmere-sweater",
+  "verdict": "mismatch",
+  "note": "角阀完全无关"
+ },
+ {
+  "id": "bc-cashmere-tshirt",
+  "verdict": "mismatch",
+  "note": "游戏截图无关"
+ },
+ {
+  "id": "celine-luggage",
+  "verdict": "mismatch",
+  "note": "服装广告非笑脸包"
+ },
+ {
+  "id": "celine-belt-bag",
+  "verdict": "logo",
+  "note": "仅品牌广告无包"
+ },
+ {
+  "id": "celine-ava",
+  "verdict": "mismatch",
+  "note": "图为16款手提包"
+ },
+ {
+  "id": "celine-16",
+  "verdict": "logo",
+  "note": "仅人像广告无包"
+ },
+ {
+  "id": "chanel-boy",
+  "verdict": "mismatch",
+  "note": "秀场成衣无包"
+ },
+ {
+  "id": "chanel-19",
+  "verdict": "mismatch",
+  "note": "包非19款"
+ },
+ {
+  "id": "chanel-coco-handle",
+  "verdict": "mismatch",
+  "note": "竹编化妆箱包,非Coco Handle"
+ },
+ {
+  "id": "chanel-chance",
+  "verdict": "mismatch",
+  "note": "香奈儿彩妆组合,非邂逅香水"
+ },
+ {
+  "id": "chloe-drew",
+  "verdict": "mismatch",
+  "note": "圣诞树挂饰,无关"
+ },
+ {
+  "id": "chloe-marcie",
+  "verdict": "mismatch",
+  "note": "猫头鹰飞鸟,无关"
+ },
+ {
+  "id": "chloe-fragrance",
+  "verdict": "mismatch",
+  "note": "绿叶风景,无关"
+ },
+ {
+  "id": "chloe-readytowear",
+  "verdict": "mismatch",
+  "note": "励志文字配图"
+ },
+ {
+  "id": "cl-sokate",
+  "verdict": "mismatch",
+  "note": "龙的绘画"
+ },
+ {
+  "id": "cl-pigallefollies",
+  "verdict": "mismatch",
+  "note": "女子人像非产品"
+ },
+ {
+  "id": "cl-iriza",
+  "verdict": "mismatch",
+  "note": "居酒屋场景"
+ },
+ {
+  "id": "cl-kate",
+  "verdict": "mismatch",
+  "note": "悬崖插画"
+ },
+ {
+  "id": "cdg-play",
+  "verdict": "mismatch",
+  "note": "乔丹NBA夺冠照"
+ },
+ {
+  "id": "cdg-hommeplus",
+  "verdict": "mismatch",
+  "note": "明星人像无关"
+ },
+ {
+  "id": "cdg-shirt",
+  "verdict": "mismatch",
+  "note": "奥林匹克日海报"
+ },
+ {
+  "id": "cdg-parfums",
+  "verdict": "mismatch",
+  "note": "真善忍徽章无关"
+ },
+ {
+  "id": "coach-tote",
+  "verdict": "mismatch",
+  "note": "广告图无产品"
+ },
+ {
+  "id": "coach-wallets",
+  "verdict": "mismatch",
+  "note": "是手袋非钱包"
+ },
+ {
+  "id": "coach-mensbags",
+  "verdict": "mismatch",
+  "note": "光伏房屋广告"
+ },
+ {
+  "id": "dz-dress",
+  "verdict": "mismatch",
+  "note": "清真寺照片"
+ },
+ {
+  "id": "dz-coat",
+  "verdict": "mismatch",
+  "note": "方位教学图"
+ },
+ {
+  "id": "dz-denim",
+  "verdict": "mismatch",
+  "note": "爆炸航拍图"
+ },
+ {
+  "id": "dior-lady-dior",
+  "verdict": "ok",
+  "note": "广告图戴妃包清晰"
+ },
+ {
+  "id": "dior-saddle",
+  "verdict": "ok",
+  "note": "马鞍包实物清晰"
+ },
+ {
+  "id": "dior-book-tote",
+  "verdict": "logo",
+  "note": "仅秀场DIOR标牌无包"
+ },
+ {
+  "id": "dior-30-montaigne",
+  "verdict": "mismatch",
+  "note": "图中为Caro非蒙田包"
+ },
+ {
+  "id": "dior-caro",
+  "verdict": "mismatch",
+  "note": "农田照片完全无关"
+ },
+ {
+  "id": "dolce-gabbana-devotion",
+  "verdict": "mismatch",
+  "note": "瓶身非手袋"
+ },
+ {
+  "id": "dolce-gabbana-light-blue",
+  "verdict": "mismatch",
+  "note": "弹钢琴无关图"
+ },
+ {
+  "id": "dolce-gabbana-crystal-flats",
+  "verdict": "mismatch",
+  "note": "雪山风景图"
+ },
+ {
+  "id": "dolce-gabbana-the-one",
+  "verdict": "mismatch",
+  "note": "烟花灯光装置"
+ },
+ {
+  "id": "etro-paisleyshirt",
+  "verdict": "mismatch",
+  "note": "卡通蘑菇屋"
+ },
+ {
+  "id": "etro-scarves",
+  "verdict": "mismatch",
+  "note": "古生物插图无关"
+ },
+ {
+  "id": "etro-ties",
+  "verdict": "mismatch",
+  "note": "武士游戏画面"
+ },
+ {
+  "id": "etro-readytowear",
+  "verdict": "mismatch",
+  "note": "风景照无关"
+ },
+ {
+  "id": "etro-fragrance",
+  "verdict": "mismatch",
+  "note": "人物照非香水"
+ },
+ {
+  "id": "fendi-by-the-way",
+  "verdict": "mismatch",
+  "note": "法棍包非ByTheWay"
+ },
+ {
+  "id": "furla-candy",
+  "verdict": "mismatch",
+  "note": "汽车密封条非包袋"
+ },
+ {
+  "id": "furla-net",
+  "verdict": "mismatch",
+  "note": "数据表格无关图"
+ },
+ {
+  "id": "furla-wallets",
+  "verdict": "mismatch",
+  "note": "儿童创意画无关"
+ },
+ {
+  "id": "furla-tote",
+  "verdict": "mismatch",
+  "note": "舞蹈表演剧照"
+ },
+ {
+  "id": "giorgio-armani-suit",
+  "verdict": "mismatch",
+  "note": "篮球运动员无关"
+ },
+ {
+  "id": "givenchy-antigona",
+  "verdict": "mismatch",
+  "note": "秀场模特穿衣服无包"
+ },
+ {
+  "id": "givenchy-gv3",
+  "verdict": "mismatch",
+  "note": "秀场成衣无该包"
+ },
+ {
+  "id": "givenchy-eden",
+  "verdict": "mismatch",
+  "note": "秀场服装无该包"
+ },
+ {
+  "id": "givenchy-voyou",
+  "verdict": "lowq",
+  "note": "包被手臂遮挡难辨认"
+ },
+ {
+  "id": "givenchy-linterdit",
+  "verdict": "mismatch",
+  "note": "秀场服装非香水"
+ },
+ {
+  "id": "gucci-marmont",
+  "verdict": "mismatch",
+  "note": "包小且非Marmont"
+ },
+ {
+  "id": "gucci-dionysus",
+  "verdict": "mismatch",
+  "note": "非酒神虎头扣"
+ },
+ {
+  "id": "gucci-horsebit-1955",
+  "verdict": "ok",
+  "note": "红色马衔扣包"
+ },
+ {
+  "id": "gucci-ophidia",
+  "verdict": "mismatch",
+  "note": "白色手提非Ophidia"
+ },
+ {
+  "id": "hermes-birkin",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "hermes-kelly",
+  "verdict": "mismatch",
+  "note": "是铂金包非凯莉"
+ },
+ {
+  "id": "hermes-constance",
+  "verdict": "mismatch",
+  "note": "是铂金包非康斯坦丝"
+ },
+ {
+  "id": "hermes-lindy",
+  "verdict": "mismatch",
+  "note": "是铂金包非琳迪"
+ },
+ {
+  "id": "hermes-carre-scarf",
+  "verdict": "mismatch",
+  "note": "是书籍非丝巾"
+ },
+ {
+  "id": "hermes-clic-h",
+  "verdict": "logo",
+  "note": "仅品牌标志无产品"
+ },
+ {
+  "id": "im-pleatsplease",
+  "verdict": "mismatch",
+  "note": "玫瑰花丛无关图"
+ },
+ {
+  "id": "im-me",
+  "verdict": "mismatch",
+  "note": "树叶露珠无关图"
+ },
+ {
+  "id": "im-mainline",
+  "verdict": "mismatch",
+  "note": "紫色孕妇裙不符"
+ },
+ {
+  "id": "jpg-lemale",
+  "verdict": "ok",
+  "note": "全家福含本款"
+ },
+ {
+  "id": "jpg-labelle",
+  "verdict": "mismatch",
+  "note": "古迹废墟无关图"
+ },
+ {
+  "id": "jc-romy",
+  "verdict": "mismatch",
+  "note": "海滩风景图"
+ },
+ {
+  "id": "jc-anouk",
+  "verdict": "mismatch",
+  "note": "元素周期表图"
+ },
+ {
+  "id": "jc-diamond",
+  "verdict": "mismatch",
+  "note": "物理课本页面"
+ },
+ {
+  "id": "jnby-dress",
+  "verdict": "mismatch",
+  "note": "红色外套非连衣裙"
+ },
+ {
+  "id": "jnby-coat",
+  "verdict": "ok",
+  "note": "黑色廓形西服外套"
+ },
+ {
+  "id": "jnby-knit",
+  "verdict": "mismatch",
+  "note": "童装走秀非针织衫"
+ },
+ {
+  "id": "jnby-shirt",
+  "verdict": "mismatch",
+  "note": "走秀外套非衬衫"
+ },
+ {
+  "id": "jnby-pants",
+  "verdict": "ok",
+  "note": "印花阔腿裤可辨"
+ },
+ {
+  "id": "katespade-handbags",
+  "verdict": "mismatch",
+  "note": "凯特王妃照片"
+ },
+ {
+  "id": "katespade-tote",
+  "verdict": "mismatch",
+  "note": "凯特王妃照片"
+ },
+ {
+  "id": "katespade-lifestyle",
+  "verdict": "mismatch",
+  "note": "人物照片非产品"
+ },
+ {
+  "id": "kenzo-tigertee",
+  "verdict": "logo",
+  "note": "仅品牌logo图"
+ },
+ {
+  "id": "kenzo-fragrance",
+  "verdict": "mismatch",
+  "note": "门店招牌非香水"
+ },
+ {
+  "id": "kenzo-sneakers",
+  "verdict": "mismatch",
+  "note": "模特穿外套非鞋"
+ },
+ {
+  "id": "kenzo-readytowear",
+  "verdict": "ok",
+  "note": "Kenzo衬衫成衣"
+ },
+ {
+  "id": "lacoste-slimpolo",
+  "verdict": "mismatch",
+  "note": "海浪无关图"
+ },
+ {
+  "id": "lacoste-carnaby",
+  "verdict": "mismatch",
+  "note": "儿童服装拼图"
+ },
+ {
+  "id": "lacoste-tshirt",
+  "verdict": "mismatch",
+  "note": "机器人无关图"
+ },
+ {
+  "id": "lacoste-l1212parfum",
+  "verdict": "mismatch",
+  "note": "香瓜无关图"
+ },
+ {
+  "id": "loewe-puzzle",
+  "verdict": "logo",
+  "note": "门店招牌非Puzzle包"
+ },
+ {
+  "id": "louis-vuitton-speedy",
+  "verdict": "mismatch",
+  "note": "特摄战队合影"
+ },
+ {
+  "id": "louis-vuitton-capucines",
+  "verdict": "mismatch",
+  "note": "五粮液白酒包装"
+ },
+ {
+  "id": "louis-vuitton-onthego",
+  "verdict": "mismatch",
+  "note": "向日葵照片"
+ },
+ {
+  "id": "louis-vuitton-twist",
+  "verdict": "mismatch",
+  "note": "荷花图库照"
+ },
+ {
+  "id": "louis-vuitton-petite-malle",
+  "verdict": "mismatch",
+  "note": "卡通插画非实物"
+ },
+ {
+  "id": "loewe-gate",
+  "verdict": "logo",
+  "note": "品牌包装盒无包"
+ },
+ {
+  "id": "longchamp-lepliage",
+  "verdict": "mismatch",
+  "note": "汽车软管无关"
+ },
+ {
+  "id": "longchamp-roseau",
+  "verdict": "mismatch",
+  "note": "加油站洗车卡广告"
+ },
+ {
+  "id": "longchamp-smallgoods",
+  "verdict": "mismatch",
+  "note": "直播平台logo图"
+ },
+ {
+  "id": "mb-hangisi",
+  "verdict": "mismatch",
+  "note": "图片是马"
+ },
+ {
+  "id": "mb-bb",
+  "verdict": "mismatch",
+  "note": "图片是马"
+ },
+ {
+  "id": "mb-chaos",
+  "verdict": "mismatch",
+  "note": "图片是马"
+ },
+ {
+  "id": "mb-carolyne",
+  "verdict": "mismatch",
+  "note": "图片是马"
+ },
+ {
+  "id": "max-mara-101801",
+  "verdict": "mismatch",
+  "note": "图片是人像非大衣"
+ },
+ {
+  "id": "max-mara-teddy",
+  "verdict": "mismatch",
+  "note": "人物照片无关"
+ },
+ {
+  "id": "max-mara-manuela",
+  "verdict": "mismatch",
+  "note": "动漫cosplay无关"
+ },
+ {
+  "id": "max-mara-rialto",
+  "verdict": "mismatch",
+  "note": "工业系统图无关"
+ },
+ {
+  "id": "michaelkors-jetset",
+  "verdict": "mismatch",
+  "note": "人物照片无关"
+ },
+ {
+  "id": "michaelkors-hamilton",
+  "verdict": "mismatch",
+  "note": "人物照片无关"
+ },
+ {
+  "id": "michaelkors-crossbody",
+  "verdict": "mismatch",
+  "note": "海岸风景图"
+ },
+ {
+  "id": "michaelkors-watches",
+  "verdict": "mismatch",
+  "note": "人物照片无关"
+ },
+ {
+  "id": "michaelkors-wallets",
+  "verdict": "mismatch",
+  "note": "电影海报无关"
+ },
+ {
+  "id": "michaelkors-sunglasses",
+  "verdict": "mismatch",
+  "note": "舞台照无关"
+ },
+ {
+  "id": "miu-miu-arcadie",
+  "verdict": "mismatch",
+  "note": "聊天截图无关"
+ },
+ {
+  "id": "moncler-accessories",
+  "verdict": "mismatch",
+  "note": "山水插画无关"
+ },
+ {
+  "id": "moncler-boots",
+  "verdict": "mismatch",
+  "note": "报纸版面无关"
+ },
+ {
+  "id": "moschino-teddytee",
+  "verdict": "mismatch",
+  "note": "城市湖景无关"
+ },
+ {
+  "id": "moncler-maya",
+  "verdict": "mismatch",
+  "note": "学历证书非产品"
+ },
+ {
+  "id": "moschino-teddybag",
+  "verdict": "mismatch",
+  "note": "高铁列车照片"
+ },
+ {
+  "id": "moschino-hoodies",
+  "verdict": "mismatch",
+  "note": "古装发髻梳妆图"
+ },
+ {
+  "id": "ps-stripe-knit",
+  "verdict": "mismatch",
+  "note": "石雕雕像照片"
+ },
+ {
+  "id": "ps-wallet",
+  "verdict": "mismatch",
+  "note": "电影PAUL海报"
+ },
+ {
+  "id": "ps-suit",
+  "verdict": "mismatch",
+  "note": "人物肖像非产品"
+ },
+ {
+  "id": "ps-shirt",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片"
+ },
+ {
+  "id": "ps-socks",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片"
+ },
+ {
+  "id": "pp-skull-tee",
+  "verdict": "mismatch",
+  "note": "文凭办证广告"
+ },
+ {
+  "id": "pp-jeans",
+  "verdict": "mismatch",
+  "note": "连环画封面"
+ },
+ {
+  "id": "prada-galleria",
+  "verdict": "logo",
+  "note": "门店橱窗招牌"
+ },
+ {
+  "id": "prada-re-edition-2005",
+  "verdict": "logo",
+  "note": "门店招牌非产品"
+ },
+ {
+  "id": "prada-cloudbust",
+  "verdict": "mismatch",
+  "note": "建筑照片无关"
+ },
+ {
+  "id": "ralphlauren-polo",
+  "verdict": "mismatch",
+  "note": "打铁花表演无关"
+ },
+ {
+  "id": "ralphlauren-oxfordshirt",
+  "verdict": "mismatch",
+  "note": "阿拉伯语书籍封面"
+ },
+ {
+  "id": "ralphlauren-knitwear",
+  "verdict": "mismatch",
+  "note": "动漫角色插画"
+ },
+ {
+  "id": "ralphlauren-accessories",
+  "verdict": "mismatch",
+  "note": "湖泊风景照"
+ },
+ {
+  "id": "ro-pods",
+  "verdict": "mismatch",
+  "note": "动画角色截图"
+ },
+ {
+  "id": "ro-drkshdw",
+  "verdict": "mismatch",
+  "note": "动画角色截图"
+ },
+ {
+  "id": "robertocavalli-denim",
+  "verdict": "mismatch",
+  "note": "审讯室照片"
+ },
+ {
+  "id": "robertocavalli-bags",
+  "verdict": "mismatch",
+  "note": "动漫人物插画"
+ },
+ {
+  "id": "robertocavalli-sunglasses",
+  "verdict": "mismatch",
+  "note": "央视新闻采访截图"
+ },
+ {
+  "id": "robertocavalli-menswear",
+  "verdict": "mismatch",
+  "note": "罗马斗兽场风景照"
+ },
+ {
+  "id": "rv-trompette",
+  "verdict": "mismatch",
+  "note": "Rogers音响品牌logo"
+ },
+ {
+  "id": "rv-vivrangers",
+  "verdict": "mismatch",
+  "note": "微信群聊截图"
+ },
+ {
+  "id": "rv-vivrun",
+  "verdict": "mismatch",
+  "note": "费德勒看画照片"
+ },
+ {
+  "id": "saint-laurent-niki",
+  "verdict": "mismatch",
+  "note": "圣徒彩绘玻璃非手袋"
+ },
+ {
+  "id": "saint-laurent-loulou",
+  "verdict": "mismatch",
+  "note": "圣徒彩绘玻璃非手袋"
+ },
+ {
+  "id": "saint-laurent-sac-de-jour",
+  "verdict": "mismatch",
+  "note": "教堂彩窗无关图"
+ },
+ {
+  "id": "stellamccartney-dresses",
+  "verdict": "mismatch",
+  "note": "数学答案页非裙装"
+ },
+ {
+  "id": "stellamccartney-knitwear",
+  "verdict": "mismatch",
+  "note": "国防部发言人照片"
+ },
+ {
+  "id": "stellamccartney-sunglasses",
+  "verdict": "mismatch",
+  "note": "AI机器人概念图"
+ },
+ {
+  "id": "toryburch-ella",
+  "verdict": "mismatch",
+  "note": "汽车零部件水管"
+ },
+ {
+  "id": "toryburch-fleming",
+  "verdict": "mismatch",
+  "note": "大象风景图"
+ },
+ {
+  "id": "toryburch-readytowear",
+  "verdict": "mismatch",
+  "note": "游戏壁纸图标"
+ },
+ {
+  "id": "valentino-rockstud",
+  "verdict": "mismatch",
+  "note": "主体是连衣裙,包太小"
+ },
+ {
+  "id": "valentino-roman-stud",
+  "verdict": "mismatch",
+  "note": "演讲现场无关图"
+ },
+ {
+  "id": "valentino-vltn-tee",
+  "verdict": "mismatch",
+  "note": "强光手电商品图"
+ },
+ {
+  "id": "versace-greca",
+  "verdict": "mismatch",
+  "note": "医疗MRI设备图"
+ },
+ {
+  "id": "versace-eros",
+  "verdict": "mismatch",
+  "note": "键盘分区示意图"
+ },
+ {
+  "id": "versace-dylan-blue",
+  "verdict": "mismatch",
+  "note": "舞台歌手非香水"
+ },
+ {
+  "id": "viviennewestwood-orbnecklace",
+  "verdict": "mismatch",
+  "note": "外交会面照"
+ },
+ {
+  "id": "yy-mainline",
+  "verdict": "mismatch",
+  "note": "屏幕展台非女装"
+ },
+ {
+  "id": "yy-pourhomme",
+  "verdict": "mismatch",
+  "note": "安全生产法展板"
+ },
+ {
+  "id": "yy-ys",
+  "verdict": "mismatch",
+  "note": "算法流程图"
+ },
+ {
+  "id": "yy-y3",
+  "verdict": "mismatch",
+  "note": "手抄报无关图"
+ },
+ {
+  "id": "zegna-oasi-cashmere",
+  "verdict": "mismatch",
+  "note": "奥特曼书页无关"
+ },
+ {
+  "id": "zegna-oasi-coat",
+  "verdict": "mismatch",
+  "note": "吊灯无关图"
+ }
+]

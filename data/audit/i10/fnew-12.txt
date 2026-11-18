@@ -1,0 +1,10 @@
+lacoste-slimpolo | 拉科斯特 修身版 Polo 衫(Slim Fit Polo,Polo 衫) | 在经典版型基础上收窄腰身与袖口,更贴合身形,颜色选择丰富,适合偏瘦或喜欢利落感的穿着者。 | data\img\lacoste-slimpolo.jpg
+lacoste-carnaby | 拉科斯特 Carnaby 运动鞋(Carnaby Sneaker,运动鞋) | 品牌最畅销的休闲板鞋,以简洁的皮革鞋身与鳄鱼小标点缀,复古百搭,男女同款,是品牌鞋履线的销量支柱。 | data\img\lacoste-carnaby.jpg
+lacoste-tshirt | 拉科斯特 圆领 T 恤(T-Shirt,T 恤) | 以纯棉平纹布制成,胸前小鳄鱼刺绣低调点缀,版型常规,颜色齐全,是入门品牌与日常穿搭的基础款。 | data\img\lacoste-tshirt.jpg
+lacoste-l1212parfum | 拉科斯特 L.12.12 香水(L.12.12 Parfums,香水) | 以标志性 Polo 衫命名的香氛系列,涵盖纯白、纯黑等多个版本,以清新木质与芳香调为主,价格亲民。 | data\img\lacoste-l1212parfum.jpg
+loewe-puzzle | 罗意威 Puzzle几何包(Puzzle,手袋) | 2015年推出的几何拼接手袋,由精确裁片折叠成正方体,可折叠平放,多种背法与丰富配色让它成为品牌代表作。 | data\img\loewe-puzzle.jpg
+loewe-gate | 罗意威 Gate马鞍包(Gate,手袋) | 2018年推出的复古马鞍包,正面打结皮带装饰,常出马毛拼色等艺术版本,是小巧精致的出片单品。 | data\img\loewe-gate.jpg
+longchamp-lepliage | 珑骧 Le Pliage 折叠包(Le Pliage,折叠包) | 标志性尼龙饺子包,折叠便携、轻若无物,从学生到明星人手一只的国民包袋。 | data\img\longchamp-lepliage.jpg
+longchamp-roseau | 珑骧 Roseau 竹节手袋(Roseau,手袋) | 以竹节式锁扣闻名的皮革手袋,线条简洁优雅,是品牌正装气质的代表系列。 | data\img\longchamp-roseau.jpg
+longchamp-smallgoods | 珑骧 小皮具(Small Leather Goods,小皮具) | 钱夹、卡包与护照夹做工精致,部分款式缀以格纹刺绣,轻巧实用便于随身。 | data\img\longchamp-smallgoods.jpg
+longchamp-readytowear | 珑骧 成衣与配饰(Ready-to-Wear & Accessories,服装) | 从羊绒围巾到印花连衣裙,延续马术与巴黎血统,让品牌生活方式更加完整。 | data\img\longchamp-readytowear.jpg

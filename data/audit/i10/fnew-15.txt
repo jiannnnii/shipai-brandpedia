@@ -1,0 +1,10 @@
+moncler-maya | 蒙克莱 Maya 羽绒服(Maya Down Jacket,羽绒服) | 亮面短款羽绒服的代表作,横格绗缝亮面设计经典耐看,是品牌的常年爆款。 | data\img\moncler-maya.jpg
+moncler-longdown | 蒙克莱 长款羽绒服(Long Down Coat,羽绒服) | 过膝长款版型御寒能力出众,收腰剪裁兼顾风度与温度,严寒城市街拍常见。 | data\img\moncler-longdown.jpg
+moncler-accessories | 蒙克莱 围巾与帽子(Accessories,配饰) | 羊绒围巾与毛线帽以品牌织带和徽标点缀,与羽绒服组成完整的冬季装备。 | data\img\moncler-accessories.jpg
+moncler-boots | 蒙克莱 靴子(Boots,鞋履) | 雪地靴与机车靴结合防水保暖科技,外观依旧时髦,适合冰雪天气出行。 | data\img\moncler-boots.jpg
+moschino-teddytee | 莫斯奇诺 泰迪熊T恤(Teddy T-shirt,T恤) | 戴墨镜的泰迪熊印花T恤是品牌最强符号,男女同款,趣味与时尚兼备。 | data\img\moschino-teddytee.jpg
+moschino-teddybag | 莫斯奇诺 泰迪熊手袋(Teddy Bag,手袋) | 以熊掌形状与熊头装饰打造的包袋,毛绒或皮质版本都极具话题度,吸睛利器。 | data\img\moschino-teddybag.jpg
+moschino-hoodies | 莫斯奇诺 卫衣(Sweatshirts,卫衣) | 大面积标语与玩偶印花的连帽卫衣,街头感十足,副线 Moschino Love 更为亲民。 | data\img\moschino-hoodies.jpg
+ps-stripe-knit | 保罗·史密斯 Artist Stripe 彩条针织(Artist Stripe Knitwear,针织衫) | 以品牌标志性的多色条纹织成,出现于毛衣、围巾与 T 恤上,是辨识度最高的品牌符号,英伦趣味十足。 | data\img\ps-stripe-knit.jpg
+ps-wallet | 保罗·史密斯 彩条钱包(Stripe Wallet,皮具) | 以平滑牛皮制成,翻开内衬或边缘饰以彩条,轻便实用,是男士入门品牌最经典的礼物单品。 | data\img\ps-wallet.jpg
+ps-suit | 保罗·史密斯 主线西装(Paul Smith Suit,西装) | 以英式剪裁为底,内衬常印有意趣图案或彩条,修身而不过分紧绷,是商务与场合着装中带个性的选择。 | data\img\ps-suit.jpg

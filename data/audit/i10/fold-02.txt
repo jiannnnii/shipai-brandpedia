@@ -1,0 +1,10 @@
+tods-wave | 托德斯 Wave莫卡辛鞋(Wave,乐福鞋) | 波浪形鞋底设计的莫卡辛鞋,在经典豆豆鞋基础上增强弹性与抓地力,商务休闲两相宜。 | data\img\tods-wave.jpg
+tods-loafer | 托德斯 经典乐福鞋(Loafers,乐福鞋) | 以优质小牛皮与手工缝线著称的乐福鞋,鞋型圆润轻盈,可与西装或牛仔裤无缝衔接,是品牌鞋履线另一主力。 | data\img\tods-loafer.jpg
+tomford-privateblend | 汤姆·福特 私人调配香水(Private Blend,香水) | 品牌高端香水线,乌木沉香、烟草香草等浓香闻名单圈粉无数,瓶身自带奢华气场,是送礼与自用的经典之选。 | data\img\tomford-privateblend.jpg
+tomford-lipcolor | 汤姆·福特 经典唇膏(Lip Color,彩妆) | 美妆线王牌单品,显色饱和、质地滋润,白管黑管外壳设计高级,堪称口红界的奢侈品标杆。 | data\img\tomford-lipcolor.jpg
+tomford-eyewear | 汤姆·福特 太阳镜(Eyewear,眼镜) | 与专业眼镜集团合作的眼镜线,大框猫眼等复古造型极具辨识度,是好莱坞红毯与街拍常见单品。 | data\img\tomford-eyewear.jpg
+tomford-handbags | 汤姆·福特 手袋(Handbags,手袋) | 以金属旋扣等标志性细节打造的晚宴包与通勤包,皮质考究、造型利落,常亮相红毯与时尚杂志封面。 | data\img\tomford-handbags.jpg
+tomford-menswear | 汤姆·福特 男装成衣(Menswear,男装成衣) | 从修身西装到红毯礼服,以极致剪裁塑造摩登绅士形象,意产面料与考究细节是商务精英的心头好。 | data\img\tomford-menswear.jpg
+tomford-womenswear | 汤姆·福特 女装成衣(Womenswear,女装成衣) | 2010年回归的女装线走隐秘奢华路线,丝绒、亮片与流苏展现华丽性感,高级晚装尤为出名。 | data\img\tomford-womenswear.jpg
+tommy-polo | 汤米·希尔费格 经典 Polo 衫(Classic Polo,Polo衫) | 领口袖口镶红白蓝织带的经典 Polo,胸前旗帜小标,版型利落,是品牌最热销的品类。 | data\img\tommy-polo.jpg
+tommy-tommyjeans | 汤米·希尔费格 Tommy Jeans 牛仔裤(Tommy Jeans Denim,牛仔裤) | 面向年轻线的复古牛仔系列,直筒与阔腿版型怀旧美式,标识刺绣辨识度高。 | data\img\tommy-tommyjeans.jpg

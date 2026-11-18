@@ -1,0 +1,10 @@
+head-helmets | 海德 滑雪头盔系列(Helmets,滑雪头盔) | HEAD 滑雪头盔以轻量壳体与运动型内衬著称,通风与保暖调节细致,竞技与大众款齐全,是雪场安全装备的主流选择之一。 | data\img\head-helmets.jpg
+head-tyrolia | 海德 TYROLIA 固定器(TYROLIA,滑雪固定器) | 历史悠久的奥地利双板固定器品牌,以坚固可靠著称,与 HEAD 雪板雪鞋同集团协同设计,是欧洲滑雪场租赁板与竞技板上的常见 | data\img\head-tyrolia.jpg
+hoka-clifton | HOKA Clifton(Clifton,缓震跑鞋) | HOKA最经典的日常慢跑鞋,轻量与厚缓震兼得,自2014年问世以来一直是品牌销量担当,适合绝大多数跑者。 | data\img\hoka-clifton.jpg
+hoka-bondi | HOKA Bondi(Bondi,顶级缓震跑鞋) | HOKA缓震极限的代表作,最厚实的中底带来云端般的脚感,是久站人群与大体重跑者的舒适之选。 | data\img\hoka-bondi.jpg
+hoka-speedgoat | HOKA Speedgoat(Speedgoat,越野跑鞋) | 以越野传奇卡尔·梅尔泽命名的经典越野跑鞋,Vibram大底抓地强悍,是山地越野赛场上的国民之选。 | data\img\hoka-speedgoat.jpg
+hoka-mach | HOKA Mach 系列(Mach,训练跑鞋) | 轻快灵活的速度训练鞋,均衡的泡棉调校兼顾节奏跑与日常训练,是HOKA阵营里的多面手。 | data\img\hoka-mach.jpg
+hoka-cielo-x1 | HOKA Cielo X1(Cielo X1,竞速碳板跑鞋) | HOKA的马拉松碳板旗舰,激进的摇椅造型与双碳板推进设计,代表品牌在竞技跑步领域的最高水平。 | data\img\hoka-cielo-x1.jpg
+hoka-arahi | HOKA Arahi(Arahi,支撑跑鞋) | 轻量化的支撑系跑鞋,J-Frame侧壁科技提供稳定引导,是厚底支撑鞋里的明星,扁平足跑者的热门选择。 | data\img\hoka-arahi.jpg
+kailas-fuga | 凯乐石 FUGA 越野跑鞋(FUGA,越野跑鞋) | 凯乐石的王牌越野跑鞋系列,防滑大底与缓震中底针对国内山野路况调校,是众多越野赛场上的常见战靴。 | data\img\kailas-fuga.jpg
+kailas-climbing-harness | 凯乐石 攀岩安全带(Climbing Harness,攀岩装备) | 覆盖休闲攀爬到大岩壁的多个系列,调校贴合、认证齐全,凯乐石也因此成为国内攀岩馆与登山学校的常见装备供应商。 | data\img\kailas-climbing-harness.jpg

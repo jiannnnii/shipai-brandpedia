@@ -1,0 +1,12 @@
+[
+  {"id": "kia-k3", "pick": ""},
+  {"id": "kia-seltos", "pick": ""},
+  {"id": "kia-sportage", "pick": "data\\img\\cand\\kia-sportage-2.jpg"},
+  {"id": "koenigsegg-agera", "pick": ""},
+  {"id": "koenigsegg-cc", "pick": ""},
+  {"id": "koenigsegg-gemera", "pick": ""},
+  {"id": "koenigsegg-regera", "pick": "data\\img\\cand\\koenigsegg-regera-2.jpg"},
+  {"id": "lamborghini-huracan", "pick": ""},
+  {"id": "landrover-evoque", "pick": ""},
+  {"id": "landrover-sport", "pick": ""}
+]

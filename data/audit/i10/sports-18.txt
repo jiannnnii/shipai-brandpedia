@@ -1,0 +1,10 @@
+speedo-fitness-swimsuit | 速比涛 健身泳衣系列(Fitness Swimsuit,健身泳衣) | 面向健身与度假场景的女式连体泳衣,剪裁修饰身形,兼具运动支撑与时尚设计,是速比涛大众线的主力品类。 | data\img\speedo-fitness-swimsuit.jpg
+thenorthface-1996-nuptse | 北面 1996 复古 Nuptse 羽绒服(1996 Retro Nuptse,羽绒服) | 1996年远征羽绒服的复刻,超大廓形与亮面尼龙质感,高蓬鹅绒填充保暖扎实,是北面最出圈的潮流单品,冬季街头随处可见。 | data\img\thenorthface-1996-nuptse.jpg
+thenorthface-1990-mountain-jacket | 北面 1990 Mountain Jacket(1990 Mountain Jacket,冲锋衣) | 1990年登山夹克的复刻经典,硬朗廓形与撞色配色成为街头文化符号,曾与Supreme等品牌长期联名。 | data\img\thenorthface-1990-mountain-jacket.jpg
+thenorthface-summit-series | 北面 Summit Series 顶级系列(Summit Series,专业户外服装) | 北面的专业极限产品线,为攀登、滑雪、越野精英打造,汇聚品牌最顶尖的面料与工艺,是户外硬核玩家的选择。 | data\img\thenorthface-summit-series.jpg
+thenorthface-futurelight | 北面 FUTURELIGHT 冲锋衣(FUTURELIGHT Shell,冲锋衣) | 2019年推出的透气防水科技面料系列,纳米级透气孔结构兼顾防水与呼吸性,是北面新一代硬壳的技术招牌。 | data\img\thenorthface-futurelight.jpg
+thenorthface-denali | 北面 Denali 抓绒衣(Denali,抓绒衣) | 1988年问世的经典抓绒外套,厚实耐磨、抗风保暖,曾伴随一代登山者远征,至今仍是秋冬层搭的主力。 | data\img\thenorthface-denali.jpg
+thenorthface-vectiv | 北面 VECTIV 跑鞋(VECTIV,越野跑鞋) | 北面的越野跑鞋科技平台,摇椅型中底加3D底板提升推进与稳定,问世后迅速在山野赛场站稳脚跟。 | data\img\thenorthface-vectiv.jpg
+thenorthface-borealis | 北面 Borealis 背包(Borealis,双肩背包) | 畅销多年的经典通勤双肩包,28升容量搭配FlexVent背负系统,减震肩带与丰富收纳深受学生与通勤族喜爱。 | data\img\thenorthface-borealis.jpg
+toread-3in1-jacket | 探路者 三合一冲锋衣(3-in-1 Jacket,三合一冲锋衣) | 探路者销量最大的品类,外层防水冲锋衣加可拆卸抓绒内胆,秋冬两穿、防风保暖,通勤登山两相宜。 | data\img\toread-3in1-jacket.jpg
+toread-down-jacket | 探路者 户外羽绒服(Down Jacket,羽绒服) | 主打保暖与防泼水的户外羽绒服,充绒量实在、版型日常,冬季通勤与轻户外场景性价比突出。 | data\img\toread-down-jacket.jpg

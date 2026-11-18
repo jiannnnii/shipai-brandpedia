@@ -1,0 +1,10 @@
+louis-vuitton-speedy | 路易威登 Speedy(Speedy,手袋) | 1932年问世的枕型手袋,因奥黛丽·赫本钟爱而走红,轻盈小巧却容量可观,老花款是全球最常见的LV手袋。 | data\img\louis-vuitton-speedy.jpg
+louis-vuitton-capucines | 路易威登 Capucines(Capucines,手袋) | 以品牌创业地卡皮西纳大街命名的旗舰手袋,小牛皮手工制作,LV字母饰扣可翻转隐藏,工艺对标顶级皮具。 | data\img\louis-vuitton-capucines.jpg
+louis-vuitton-onthego | 路易威登 Onthego(Onthego,托特包) | 2018年推出的大号托特,Giant Monogram大老花印花配双提手与可拆卸肩带,兼顾气场与实用性,是近年专柜主力款 | data\img\louis-vuitton-onthego.jpg
+louis-vuitton-twist | 路易威登 Twist(Twist,手袋) | 2015年推出的手袋系列,可旋转的LV字母锁扣与不同材质袋身组合,优雅兼具辨识度。 | data\img\louis-vuitton-twist.jpg
+louis-vuitton-petite-malle | 路易威登 小盒子包(Petite Malle,手袋) | 2014年推出的复古硬盒手袋,致敬品牌旅行硬箱工艺,内部羊皮衬里,是尼古拉·盖基埃时期最出圈的秀场款。 | data\img\louis-vuitton-petite-malle.jpg
+mb-hangisi | 马诺洛·布拉尼克 Hangisi 高跟鞋(Hangisi Pump,高跟鞋) | 以拜占庭珠宝为灵感的缎面高跟鞋,鞋面缀方形水晶宝扣,《欲望都市》中蓝色款令其成为全球求婚婚鞋的热门,是品牌最著名鞋型。 | data\img\mb-hangisi.jpg
+mb-bb | 马诺洛·布拉尼克 BB 高跟鞋(BB Pump,高跟鞋) | 以女星碧姬·芭铎命名的经典款,尖头细跟搭配鞋侧小方扣,线条简洁优雅,有多种跟高与材质,是日常通勤的热门选择。 | data\img\mb-bb.jpg
+mb-chaos | 马诺洛·布拉尼克 Chaos 高跟鞋(Chaos Pump,高跟鞋) | 鞋面装饰两枚错落排布的水晶扣,打破对称设计,名字源于这份「凌乱之美」,是品牌辨识度很高的晚装鞋型。 | data\img\mb-chaos.jpg
+mb-carolyne | 马诺洛·布拉尼克 Carolyne 高跟鞋(Carolyne Pump,高跟鞋) | 圆头低跟的经典款,鞋面以交叉细带与小扣装饰,跟高舒适易走,是品牌最早成名、历经多年仍是畅销款的鞋型之一。 | data\img\mb-carolyne.jpg
+max-mara-101801 | 麦丝玛拉 101801大衣(101801 Icon Coat,大衣) | 1981年设计的传世之作,宽大简约的直筒廓形四十余年不过时,以驼色最为经典,被品牌奉为Icon。 | data\img\max-mara-101801.jpg

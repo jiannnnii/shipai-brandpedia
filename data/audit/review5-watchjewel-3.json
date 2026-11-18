@@ -1,0 +1,209 @@
+[
+ {
+  "id": "tasaki-balance",
+  "brand": "塔思琦",
+  "name": "balance 系列",
+  "nameEn": "balance",
+  "type": "首饰",
+  "desc": "一根弧形金条与珍珠玩平衡,珍珠首饰里最像雕塑的存在。",
+  "file": "data\\img\\tasaki-balance.jpg"
+ },
+ {
+  "id": "tasaki-signature",
+  "brand": "塔思琦",
+  "name": "signature 项链",
+  "nameEn": "signature",
+  "type": "项链",
+  "desc": "渐变尺寸珍珠串链,日常穿的\"大女主\"气场款。",
+  "file": "data\\img\\tasaki-signature.jpg"
+ },
+ {
+  "id": "tasaki-atelier",
+  "brand": "塔思琦",
+  "name": "Atelier 高定",
+  "nameEn": "Atelier",
+  "type": "高级珠宝",
+  "desc": "神户工坊的孤品高级珠宝,南洋珠与彩色宝石的大胆实验场。",
+  "file": "data\\img\\tasaki-atelier.jpg"
+ },
+ {
+  "id": "tiffany-setting",
+  "brand": "蒂芙尼",
+  "name": "六爪订婚钻戒",
+  "nameEn": "The Tiffany Setting",
+  "type": "订婚戒指",
+  "desc": "1886年发明,六爪把钻石高高托起,是世界最著名的求婚戒指形制。",
+  "file": "data\\img\\tiffany-setting.jpg"
+ },
+ {
+  "id": "tiffany-tseries",
+  "brand": "蒂芙尼",
+  "name": "T 系列",
+  "nameEn": "Tiffany T",
+  "type": "首饰",
+  "desc": "极简字母T手镯与戒指,纽约摩登气质,当代入门首选。",
+  "file": "data\\img\\tiffany-tseries.jpg"
+ },
+ {
+  "id": "tiffany-keys",
+  "brand": "蒂芙尼",
+  "name": "钥匙系列",
+  "nameEn": "Tiffany Keys",
+  "type": "项链",
+  "desc": "把钥匙做成吊坠,开启人生新篇章的隐喻,曾经的销量神话。",
+  "file": "data\\img\\tiffany-keys.jpg"
+ },
+ {
+  "id": "tiffany-smile",
+  "brand": "蒂芙尼",
+  "name": "微笑项链",
+  "nameEn": "T Smile",
+  "type": "项链",
+  "desc": "一条微笑弧线的锁骨链,最畅销的蒂芙尼入门单品。",
+  "file": "data\\img\\tiffany-smile.jpg"
+ },
+ {
+  "id": "tiffany-return",
+  "brand": "蒂芙尼",
+  "name": "Return to Tiffany",
+  "nameEn": "Return to Tiffany",
+  "type": "首饰",
+  "desc": "刻着\"请归还蒂芙尼\"的铭牌系列,源自丢失吊牌的故事,年轻线经典。",
+  "file": "data\\img\\tiffany-return.jpg"
+ },
+ {
+  "id": "tissot-locator",
+  "brand": "天梭",
+  "name": "力洛克",
+  "nameEn": "Le Locle",
+  "type": "正装表",
+  "desc": "以品牌故乡命名,机刻纹盘面+罗马刻度,瑞士机械表第一课。",
+  "file": "data\\img\\tissot-locator.jpg"
+ },
+ {
+  "id": "tissot-prx",
+  "brand": "天梭",
+  "name": "PRX",
+  "nameEn": "PRX",
+  "type": "运动豪华表",
+  "desc": "1978年复古一体链设计复活,超薄Powermatic机芯,网红爆款。",
+  "file": "data\\img\\tissot-prx.jpg"
+ },
+ {
+  "id": "tissot-seastar",
+  "brand": "天梭",
+  "name": "海星",
+  "nameEn": "Seastar",
+  "type": "潜水表",
+  "desc": "300米潜水的瑞士认证入门,3000块买大厂潜水表的天花板。",
+  "file": "data\\img\\tissot-seastar.jpg"
+ },
+ {
+  "id": "tissot-chemindesindices",
+  "brand": "天梭",
+  "name": "卡森",
+  "nameEn": "Carson",
+  "type": "正装表",
+  "desc": "极简小三针,通勤正装不出错的稳妥之选。",
+  "file": "data\\img\\tissot-chemindesindices.jpg"
+ },
+ {
+  "id": "tudor-blackbay",
+  "brand": "帝舵",
+  "name": "碧湾",
+  "nameEn": "Black Bay",
+  "type": "潜水表",
+  "desc": "复活1958年古董水鬼血统,雪花针+大表冠,潜水复古的国民爆款。",
+  "file": "data\\img\\tudor-blackbay.jpg"
+ },
+ {
+  "id": "tudor-royal",
+  "brand": "帝舵",
+  "name": "皇家系列",
+  "nameEn": "Royal",
+  "type": "正装表",
+  "desc": "一体化表链的正装运动两相宜,典雅日常款。",
+  "file": "data\\img\\tudor-royal.jpg"
+ },
+ {
+  "id": "tudor-pelagos",
+  "brand": "帝舵",
+  "name": "领潜型",
+  "nameEn": "Pelagos",
+  "type": "潜水表",
+  "desc": "钛壳500米专业潜水,排氦阀+陶瓷圈,专业玩家心里的真神。",
+  "file": "data\\img\\tudor-pelagos.jpg"
+ },
+ {
+  "id": "ulysse-sonata",
+  "brand": "雅典表",
+  "name": "西敏寺钟声问表",
+  "nameEn": "Sonata",
+  "type": "复杂功能表",
+  "desc": "可自选报时旋律的问表,把教堂钟声装进腕间。",
+  "file": "data\\img\\ulysse-sonata.jpg"
+ },
+ {
+  "id": "ulysse-cloisonne",
+  "brand": "雅典表",
+  "name": "珐琅微绘",
+  "nameEn": "Cloisonné Enamel",
+  "type": "艺术表",
+  "desc": "掐丝珐琅表盘每枚需数百小时,世界地图、龙舟等题材件件孤品。",
+  "file": "data\\img\\ulysse-cloisonne.jpg"
+ },
+ {
+  "id": "vc-traditionnelle",
+  "brand": "江诗丹顿",
+  "name": "传袭系列",
+  "nameEn": "Traditionnelle",
+  "type": "复杂功能表",
+  "desc": "向日内瓦高级制表传统致敬,万年历、三问、陀飞轮应有尽有。",
+  "file": "data\\img\\vc-traditionnelle.jpg"
+ },
+ {
+  "id": "vc-metiers",
+  "brand": "江诗丹顿",
+  "name": "艺术大师系列",
+  "nameEn": "Métiers d'Art",
+  "type": "艺术表",
+  "desc": "珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。",
+  "file": "data\\img\\vc-metiers.jpg"
+ },
+ {
+  "id": "vca-alhambra",
+  "brand": "梵克雅宝",
+  "name": "Alhambra 四叶草",
+  "nameEn": "Alhambra",
+  "type": "项链",
+  "desc": "1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。",
+  "file": "data\\img\\vca-alhambra.jpg"
+ },
+ {
+  "id": "vca-frivole",
+  "brand": "梵克雅宝",
+  "name": "Frivole",
+  "nameEn": "Frivole",
+  "type": "首饰",
+  "desc": "八瓣花瓣镶钻如晨露绽放,近年最热的新系列。",
+  "file": "data\\img\\vca-frivole.jpg"
+ },
+ {
+  "id": "vca-perlee",
+  "brand": "梵克雅宝",
+  "name": "Perlé金珠",
+  "nameEn": "Perpée",
+  "type": "首饰",
+  "desc": "一颗颗金珠串起的低调系列,叠戴入门的优雅答案。",
+  "file": "data\\img\\vca-perlee.jpg"
+ },
+ {
+  "id": "vca-ballerina",
+  "brand": "梵克雅宝",
+  "name": "芭蕾舞者",
+  "nameEn": "Ballerina",
+  "type": "胸针",
+  "desc": "1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。",
+  "file": "data\\img\\vca-ballerina.jpg"
+ }
+]

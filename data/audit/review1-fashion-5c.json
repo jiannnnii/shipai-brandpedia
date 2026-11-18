@@ -1,0 +1,227 @@
+[
+ {
+  "id": "sw-highland",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Highland 过膝靴",
+  "nameEn": "Highland Boot",
+  "type": "长靴",
+  "desc": "全皮过膝长靴,鞋身以弹力皮革紧贴腿部,视觉上显著拉长腿部比例,是品牌与 5050 并列的招牌靴款。",
+  "file": "data\\img\\sw-highland.jpg"
+ },
+ {
+  "id": "sw-lowland",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Lowland 过膝靴",
+  "nameEn": "Lowland Boot",
+  "type": "长靴",
+  "desc": "比 Highland 更低的鞋跟设计,以平底或低跟呈现的过膝靴,兼顾舒适与显腿长,适合长时间行走的城市穿着。",
+  "file": "data\\img\\sw-lowland.jpg"
+ },
+ {
+  "id": "sw-nudistsong",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Nudistsong 一字带高跟鞋",
+  "nameEn": "Nudistsong Sandal",
+  "type": "高跟鞋",
+  "desc": "经典 Nudist 一字带凉鞋的传承款,细一字带与细高跟最大限度露出足背,营造「裸感」,是红毯与日常皆宜的经典凉鞋。",
+  "file": "data\\img\\sw-nudistsong.jpg"
+ },
+ {
+  "id": "sw-nearlynude",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Nearlynude 一字带高跟鞋",
+  "nameEn": "Nearlynude Sandal",
+  "type": "高跟鞋",
+  "desc": "以更纤细的鞋跟与简约的一字带设计,呈现轻盈的「近乎赤足」效果,跟高选择丰富,是夏季礼服与日常的热门款。",
+  "file": "data\\img\\sw-nearlynude.jpg"
+ },
+ {
+  "id": "tb-hoodie",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠连帽卫衣",
+  "nameEn": "4-Bar Hoodie",
+  "type": "连帽卫衣",
+  "desc": "胸前或手臂绣有品牌标志性的四道白杠,以重磅棉质毛圈布制成,版型方正偏短,是品牌最具辨识度的休闲单品。",
+  "file": "data\\img\\tb-hoodie.jpg"
+ },
+ {
+  "id": "tb-cardigan",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠针织开衫",
+  "nameEn": "4-Bar Cardigan",
+  "type": "开衫",
+  "desc": "以美利奴羊毛或马海毛织成,前襟与袖口点缀四道杠织带,学院气质浓厚,是秋冬叠穿的人气单品。",
+  "file": "data\\img\\tb-cardigan.jpg"
+ },
+ {
+  "id": "tb-trousers",
+  "brand": "桑姆·布郎尼",
+  "name": "灰色西裤",
+  "nameEn": "Grey Trousers",
+  "type": "裤装",
+  "desc": "与西装同源的灰色西裤,裤线笔挺、腰头偏高,裤脚微露脚踝,常配织带乐福鞋,是品牌男装日装的核心单品。",
+  "file": "data\\img\\tb-trousers.jpg"
+ },
+ {
+  "id": "tb-shorts",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠短裤",
+  "nameEn": "4-Bar Shorts",
+  "type": "短裤",
+  "desc": "以泡泡纱与法兰绒等面料制成的及膝以上短裤,侧边或后袋点缀四道杠,是品牌夏季最具话题度的单品。",
+  "file": "data\\img\\tb-shorts.jpg"
+ },
+ {
+  "id": "tods-gommino",
+  "brand": "托德斯",
+  "name": "豆豆鞋",
+  "nameEn": "Gommino",
+  "type": "莫卡辛鞋",
+  "desc": "1986年问世的品牌灵魂产品,鞋底与鞋跟缀满133颗橡胶小粒,软如手套般贴合,开车行走皆宜,是意式休闲的代名词。",
+  "file": "data\\img\\tods-gommino.jpg"
+ },
+ {
+  "id": "tods-t-timeless",
+  "brand": "托德斯",
+  "name": "T Timeless托特",
+  "nameEn": "T Timeless",
+  "type": "托特包",
+  "desc": "以品牌首字母T为金属标志的托特系列,帆布与皮革拼接,容量可观,价格在奢侈品牌中相对亲民。",
+  "file": "data\\img\\tods-t-timeless.jpg"
+ },
+ {
+  "id": "tods-wave",
+  "brand": "托德斯",
+  "name": "Wave莫卡辛鞋",
+  "nameEn": "Wave",
+  "type": "乐福鞋",
+  "desc": "波浪形鞋底设计的莫卡辛鞋,在经典豆豆鞋基础上增强弹性与抓地力,商务休闲两相宜。",
+  "file": "data\\img\\tods-wave.jpg"
+ },
+ {
+  "id": "tods-loafer",
+  "brand": "托德斯",
+  "name": "经典乐福鞋",
+  "nameEn": "Loafers",
+  "type": "乐福鞋",
+  "desc": "以优质小牛皮与手工缝线著称的乐福鞋,鞋型圆润轻盈,可与西装或牛仔裤无缝衔接,是品牌鞋履线另一主力。",
+  "file": "data\\img\\tods-loafer.jpg"
+ },
+ {
+  "id": "tomford-privateblend",
+  "brand": "汤姆·福特",
+  "name": "私人调配香水",
+  "nameEn": "Private Blend",
+  "type": "香水",
+  "desc": "品牌高端香水线,乌木沉香、烟草香草等浓香闻名单圈粉无数,瓶身自带奢华气场,是送礼与自用的经典之选。",
+  "file": "data\\img\\tomford-privateblend.jpg"
+ },
+ {
+  "id": "tomford-lipcolor",
+  "brand": "汤姆·福特",
+  "name": "经典唇膏",
+  "nameEn": "Lip Color",
+  "type": "彩妆",
+  "desc": "美妆线王牌单品,显色饱和、质地滋润,白管黑管外壳设计高级,堪称口红界的奢侈品标杆。",
+  "file": "data\\img\\tomford-lipcolor.jpg"
+ },
+ {
+  "id": "tomford-eyewear",
+  "brand": "汤姆·福特",
+  "name": "太阳镜",
+  "nameEn": "Eyewear",
+  "type": "眼镜",
+  "desc": "与专业眼镜集团合作的眼镜线,大框猫眼等复古造型极具辨识度,是好莱坞红毯与街拍常见单品。",
+  "file": "data\\img\\tomford-eyewear.jpg"
+ },
+ {
+  "id": "tomford-handbags",
+  "brand": "汤姆·福特",
+  "name": "手袋",
+  "nameEn": "Handbags",
+  "type": "手袋",
+  "desc": "以金属旋扣等标志性细节打造的晚宴包与通勤包,皮质考究、造型利落,常亮相红毯与时尚杂志封面。",
+  "file": "data\\img\\tomford-handbags.jpg"
+ },
+ {
+  "id": "tomford-menswear",
+  "brand": "汤姆·福特",
+  "name": "男装成衣",
+  "nameEn": "Menswear",
+  "type": "男装成衣",
+  "desc": "从修身西装到红毯礼服,以极致剪裁塑造摩登绅士形象,意产面料与考究细节是商务精英的心头好。",
+  "file": "data\\img\\tomford-menswear.jpg"
+ },
+ {
+  "id": "tomford-womenswear",
+  "brand": "汤姆·福特",
+  "name": "女装成衣",
+  "nameEn": "Womenswear",
+  "type": "女装成衣",
+  "desc": "2010年回归的女装线走隐秘奢华路线,丝绒、亮片与流苏展现华丽性感,高级晚装尤为出名。",
+  "file": "data\\img\\tomford-womenswear.jpg"
+ },
+ {
+  "id": "tommy-polo",
+  "brand": "汤米·希尔费格",
+  "name": "经典 Polo 衫",
+  "nameEn": "Classic Polo",
+  "type": "Polo衫",
+  "desc": "领口袖口镶红白蓝织带的经典 Polo,胸前旗帜小标,版型利落,是品牌最热销的品类。",
+  "file": "data\\img\\tommy-polo.jpg"
+ },
+ {
+  "id": "tommy-tommyjeans",
+  "brand": "汤米·希尔费格",
+  "name": "Tommy Jeans 牛仔裤",
+  "nameEn": "Tommy Jeans Denim",
+  "type": "牛仔裤",
+  "desc": "面向年轻线的复古牛仔系列,直筒与阔腿版型怀旧美式,标识刺绣辨识度高。",
+  "file": "data\\img\\tommy-tommyjeans.jpg"
+ },
+ {
+  "id": "tommy-hoodie",
+  "brand": "汤米·希尔费格",
+  "name": "卫衣与T恤",
+  "nameEn": "Sweatshirts & Tees",
+  "type": "卫衣",
+  "desc": "大标识印花的连帽卫衣与圆领T恤,秋冬内搭或运动出街皆宜,男女款齐全。",
+  "file": "data\\img\\tommy-hoodie.jpg"
+ },
+ {
+  "id": "tommy-shirts",
+  "brand": "汤米·希尔费格",
+  "name": "衬衫",
+  "nameEn": "Shirts",
+  "type": "衬衫",
+  "desc": "经典牛津纺与格纹衬衫,学院气质浓郁,商务与休闲场合都能轻松驾驭。",
+  "file": "data\\img\\tommy-shirts.jpg"
+ },
+ {
+  "id": "tommy-outerwear",
+  "brand": "汤米·希尔费格",
+  "name": "夹克外套",
+  "nameEn": "Jackets",
+  "type": "外套",
+  "desc": "从棒球夹克到羽绒马甲,延续红白蓝配色基因,是春秋换季的百搭之选。",
+  "file": "data\\img\\tommy-outerwear.jpg"
+ },
+ {
+  "id": "tommy-accessories",
+  "brand": "汤米·希尔费格",
+  "name": "配饰",
+  "nameEn": "Accessories",
+  "type": "配饰",
+  "desc": "涵盖腰带、钱包与腕表等日常配饰,旗帜元素随处可见,价格亲民适合成套入手。",
+  "file": "data\\img\\tommy-accessories.jpg"
+ },
+ {
+  "id": "toryburch-kira",
+  "brand": "托里·伯奇",
+  "name": "Kira 链条包",
+  "nameEn": "Kira Bag",
+  "type": "手袋",
+  "desc": "双 T 标识扣搭配链条肩带,小牛皮质感细腻,晚宴与日常切换自如的人气包款。",
+  "file": "data\\img\\toryburch-kira.jpg"
+ }
+]

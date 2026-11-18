@@ -1,0 +1,10 @@
+cerave-moisturizing-cream | 适乐肤 修护保湿润肤霜(大白罐)(Moisturizing Cream,保湿霜) | 含三种神经酰胺与MVE缓释技术的爆款保湿霜,大罐实惠,面部与全身均可使用,是干皮与敏感肌的性价比之选。 | data\img\cerave-moisturizing-cream.jpg
+cerave-sa-cleanser | 适乐肤 SA水杨酸洁面(SA Smoothing Cleanser,洁面) | 含水杨酸的温和洁面,帮助疏通毛孔、改善粗糙,面部身体两用,是刷酸入门的平价选择。 | data\img\cerave-sa-cleanser.jpg
+cerave-sa-cream | 适乐肤 SA水杨酸润肤乳(SA Smoothing Cream,身体乳) | 水杨酸加神经酰胺的身体乳,主打改善手臂腿部的粗糙颗粒、让肌肤平滑,滋润不黏腻,是鸡皮肤人群的口碑款。 | data\img\cerave-sa-cream.jpg
+clarins-double-serum | 娇韵诗 双萃精华(Double Serum,精华) | 娇韵诗招牌抗初老精华,水油双管设计,按压混合多种植物精萃后上脸,熬夜急救口碑极佳,是品牌最畅销的明星单品。 | data\img\clarins-double-serum.jpg
+clarins-v-shaping | 娇韵诗 V脸精华(V Shaping Facial Lift,精华) | 主打提拉紧致、改善轮廓与水肿感的植物精华,质地清爽,配合按摩手法使用效果更佳,是亚洲市场的人气单品。 | data\img\clarins-v-shaping.jpg
+clarins-extra-firming | 娇韵诗 弹簧霜(Extra-Firming,面霜) | 紧致抗老面霜,分日霜与晚霜,主打提拉紧致与平滑细纹,质地舒适,是娇韵诗面霜线的招牌。 | data\img\clarins-extra-firming.jpg
+clarins-hydra-essentiel | 娇韵诗 恒润奇肌保湿霜(Hydra-Essentiel,面霜) | 保湿线明星面霜,主打即时补水与长效锁水,质地清润,干皮与换季期的补水口碑良好。 | data\img\clarins-hydra-essentiel.jpg
+clarins-tonic-oil | 娇韵诗 天然调和身体护理油(Tonic Body Treatment Oil,身体油) | 百分百植物精萃调和的身体护理油,孕期按摩的经典选择,主打滋润紧实,是准妈妈人群中的知名单品。 | data\img\clarins-tonic-oil.jpg
+cle-de-peau-beaute-veil | 肌肤之钥 光凝润采妆前乳(长管隔离)(Radiant Correcting Essence Veil,妆前乳) | 被称为长管隔离的明星妆前乳,主打抚平毛孔、提升服帖与持妆度,自带润泽光泽感,是CPB最畅销的单品之一。 | data\img\cle-de-peau-beaute-veil.jpg
+cle-de-peau-beaute-the-serum | 肌肤之钥 晶致肌活精华露(The Serum,精华) | CPB全线升级后的旗舰精华,主打唤醒肌肤本源活力、焕现紧致光泽,质地轻盈渗透快,是品牌护肤线的门面。 | data\img\cle-de-peau-beaute-the-serum.jpg

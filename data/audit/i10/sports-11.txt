@@ -1,0 +1,10 @@
+mammut-barryvox | 猛犸象 Barryvox 雪崩信标(Barryvox,雪崩安全装备) | 全球野雪玩家信赖的雪崩搜救信标,搜索距离远、界面直观,与探杆雪铲构成雪地安全三件套,关键时刻能救命。 | data\img\mammut-barryvox.jpg
+marmot-rocklin | 土拨鼠 Rocklin 抓绒(Rocklin,抓绒衣) | 轻软的入门抓绒系列,聚酯纤维抓绒亲肤保暖,作中间层或日常外套都合适,价格实惠容易入手。 | data\img\marmot-rocklin.jpg
+merrell-moab | 迈乐 Moab 徒步鞋(Moab,徒步鞋) | 全球销量领先的经典徒步鞋,外底抓地扎实、鞋面包裹舒适,开箱即走无需磨合,是轻装徒步与旅行的国民鞋款。 | data\img\merrell-moab.jpg
+merrell-agility | 迈乐 Agility Peak 越野跑鞋(Agility Peak,越野跑鞋) | 山地越野跑旗舰,厚实中底缓冲长距离冲击,Vibram 外底抓地可靠,是超长距离越野赛事中的常见战靴。 | data\img\merrell-agility.jpg
+merrell-hiking-boots | 迈乐 中帮徒步靴(Hiking Boots,徒步靴) | 在 Moab 等经典鞋型基础上升级的中帮版本,增强脚踝支撑与防水性能,适合背负重装与复杂山地线路。 | data\img\merrell-hiking-boots.jpg
+merrell-vapor-glove | 迈乐 Vapor Glove 赤足鞋(Vapor Glove,赤足鞋) | 极简赤足训练鞋,鞋底超薄贴近地面,强化足部力量与本体感知,适合健身房训练与短距离自然跑。 | data\img\merrell-vapor-glove.jpg
+mizuno-wave-prophecy | 美津浓 Wave Prophecy 旗舰跑鞋(Wave Prophecy,缓震跑鞋) | 美津浓顶级缓震跑鞋,国内跑友昵称「预言」,全掌 Infinity Wave 波形结构提供独特的前后掌缓震,外观科幻、脚感 | data\img\mizuno-wave-prophecy.jpg
+mizuno-morelia | 美津浓 Morelia II 足球鞋(Morelia II,足球鞋) | 传奇袋鼠皮足球鞋,日本工匠缝制,触球感细腻、包裹柔软,被众多职业球员视为传世经典,数十年持续迭代不停。 | data\img\mizuno-morelia.jpg
+mizuno-global-elite | 美津浓 Global Elite 棒球手套(Global Elite,棒球手套) | 美津浓深耕百年的棒球装备代表,Global Elite 高端手套以优质牛皮手工成型,养护后愈发贴合手型,深受棒球爱好者与 | data\img\mizuno-global-elite.jpg
+mizuno-jpx | 美津浓 JPX 高尔夫铁杆(JPX,高尔夫球杆) | 美津浓高尔夫代表产品线,JPX 铁杆以锻造工艺与远距易打著称,手感扎实稳定,长期位居日系高尔夫铁杆畅销榜前列。 | data\img\mizuno-jpx.jpg

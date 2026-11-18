@@ -1,0 +1,10 @@
+puma-king | 彪马 King 系列(King,足球鞋) | 1968年问世的传奇足球鞋,贝利与马拉多纳都曾穿着它征战世界杯,袋鼠皮鞋面触感细腻,是足球史上最经典的鞋款之一。 | data\img\puma-king.jpg
+puma-mb | 彪马 MB 签名篮球鞋(MB Series,篮球鞋) | 拉梅洛·鲍尔的签名篮球鞋系列,天马行空的配色设计与出色的场地感,让重返篮球市场的PUMA重新站稳脚跟。 | data\img\puma-mb.jpg
+rockbros-sunglasses | 洛克兄弟 骑行眼镜(Cycling Sunglasses,骑行眼镜) | 偏光镜片防风防沙,镜腿防滑、重量轻,多种镜片颜色可选,价格友好,是骑行入门装备里人气最高的品类之一。 | data\img\rockbros-sunglasses.jpg
+rockbros-bike-bag | 洛克兄弟 骑行包系列(Bike Bags,骑行包) | 从车前包、鞍座包到驮包的完整收纳产品线,防水面料、快速拆装结构实用,是品牌起家的看家品类。 | data\img\rockbros-bike-bag.jpg
+rockbros-helmet | 洛克兄弟 骑行头盔(Cycling Helmets,头盔) | 通风孔设计与一体成型工艺兼顾,重量轻、包覆性好,多色可选,以安全与性价比赢得大量通勤与骑行用户。 | data\img\rockbros-helmet.jpg
+rockbros-phone-mount | 洛克兄弟 手机支架(Phone Mounts,手机支架) | 减震防抖的车把手机支架,安装稳固、单手取放方便,导航骑行更安全,是通勤党与长途骑友的实用配件。 | data\img\rockbros-phone-mount.jpg
+rockbros-pump | 洛克兄弟 便携打气筒(Mini Pumps,打气筒) | 小巧易携的便携打气筒,兼容美法式气嘴,带气压表款式可精准控压,是骑行随身工具包的必备单品。 | data\img\rockbros-pump.jpg
+salomon-xt-6 | 萨洛蒙 XT-6(XT-6,山系越野鞋) | 为超级越野跑打造的旗舰鞋型,Advanced系列凭雪白配色与未来感造型在潮流圈爆红,是Gorpcore风潮的头号单品。 | data\img\salomon-xt-6.jpg
+salomon-xt-4 | 萨洛蒙 XT-4(XT-4,山系越野鞋) | XT-6之前的旗舰越野鞋,高缓震长距离定位,复刻后的Advanced系列同样备受山系穿搭玩家追捧。 | data\img\salomon-xt-4.jpg
+salomon-speedcross | 萨洛蒙 Speedcross(Speedcross,越野跑鞋) | 全球最知名的越野跑鞋之一,深齿鞋底在泥地与松软路面抓地力惊人,迭代多代长盛不衰。 | data\img\salomon-speedcross.jpg

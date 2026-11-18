@@ -1,0 +1,27 @@
+[
+ {
+  "id": "vc-metiers",
+  "verdict": "mismatch",
+  "note": "图确为江诗丹顿腕表实物，但蓝盘月相万年历属Patrimony传承系列，并非艺术大师系列的珐琅彩绘/雕金艺术表，系列不符。"
+ },
+ {
+  "id": "vca-alhambra",
+  "verdict": "mismatch",
+  "note": "图是三张学校黑板报/期中考试主题的黑板报拼图截图，与梵克雅宝Alhambra四叶草项链毫无关系。"
+ },
+ {
+  "id": "vca-frivole",
+  "verdict": "mismatch",
+  "note": "图是手机备忘录关于PBC肝病诊断（AMA抗体、超声、MRCP等）的文字截图，与梵克雅宝Frivole花瓣首饰无关。"
+ },
+ {
+  "id": "vca-perlee",
+  "verdict": "mismatch",
+  "note": "图是两人对话、头顶问号的扁平风卡通插画（来自昵图网素材），与梵克雅宝Perlé金珠首饰无关。"
+ },
+ {
+  "id": "vca-ballerina",
+  "verdict": "mismatch",
+  "note": "图是原子力显微镜(AFM)的2D/3D形貌、DMT模量与粘附性检测图，与梵克雅宝芭蕾舞者钻石胸针无关。"
+ }
+]

@@ -1,0 +1,10 @@
+guerlain-shalimar | 娇兰 一千零一夜香水(Shalimar,香水) | 1925年问世的东方调传奇香水,以佛手柑开篇、香草收尾,灵感源于泰姬陵的爱情故事,是香水史上的里程碑之作。 | data\img\guerlain-shalimar.jpg
+guerlain-lprn | 娇兰 小黑裙香水(La Petite Robe Noire,香水) | 娇兰当代人气香,樱桃与杏仁的俏皮甜香,瓶身如经典小黑裙,年轻可人,适合日常佩戴。 | data\img\guerlain-lprn.jpg
+helena-rubinstein-age-recovery | 赫莲娜 黑绷带面霜(Re-Plasty Age Recovery,面霜) | 以高浓度玻色因为核心、灵感源自医美术后修护的晚霜,主打紧致修护、平滑细纹,因黑色包装得名黑绷带,是HR的招牌之作。 | data\img\helena-rubinstein-age-recovery.jpg
+helena-rubinstein-recovery-day | 赫莲娜 白绷带面霜(Re-Plasty Age Recovery Day Cream,面霜) | 绷带家族的日间版本,主打日间修护与紧致提亮,质地较黑绷带轻盈,与其搭配构成经典的日夜修护组合。 | data\img\helena-rubinstein-recovery-day.jpg
+helena-rubinstein-powercell | 赫莲娜 绿宝瓶精华(Powercell Skinmunity,精华) | 主打肌肤自愈力与强韧屏障的明星精华,绿色瓶身辨识度高,质地清爽好吸收,是HR入门与日常抗老的人气选择。 | data\img\helena-rubinstein-powercell.jpg
+helena-rubinstein-powercell-eye | 赫莲娜 绿宝瓶眼霜(Powercell Skinmunity Eye,眼霜) | 绿宝瓶家族眼霜,主打紧致眼周、改善细纹与倦容,质地轻盈易吸收,适合日常眼周抗初老。 | data\img\helena-rubinstein-powercell-eye.jpg
+helena-rubinstein-cellglow | 赫莲娜 至美琉光精华面霜(Prodigy Cellglow Cream,面霜) | HR至美琉光高端线面霜,主打焕现肌肤莹润光泽与紧致弹润,以集团尖端抗老科技打造,是品牌奢华线的重要组成。 | data\img\helena-rubinstein-cellglow.jpg
+jomalone-lime | 祖·玛珑 青柠罗勒与柑橘(Lime Basil & Mandarin,香水) | 1994年创业款,奠定品牌风格的灵魂香。 | data\img\jomalone-lime.jpg
+kerastase-mask | 卡诗 鱼子酱发膜(Masque Caviar,发膜) | 沙龙级深层修护,受损烫染的救赎。 | data\img\kerastase-mask.jpg
+kerastase-blond | 卡诗  BLONDE ABSOLU 漂发线(Blond Absolu,洗发水) | 专为漂金发设计,去黄固色。 | data\img\kerastase-blond.jpg

@@ -1,0 +1,10 @@
+la-prairie-luxe-eye | 莱珀妮 鱼子精华琼贵眼霜(Skin Caviar Luxe Eye Cream,眼霜) | 鱼子系列眼霜,主打紧致眼周、改善松弛与细纹,滋润而不厚重,延续系列一贯的奢华质感。 | data\img\la-prairie-luxe-eye.jpg
+la-prairie-white-caviar | 莱珀妮 白鱼子纯皙精华(White Caviar Illuminating Serum,精华) | 白鱼子系列核心精华,主打焕亮肤色与匀净透亮,并延续鱼子紧致科技,是品牌焕亮线的招牌。 | data\img\la-prairie-white-caviar.jpg
+la-prairie-night-elixir | 莱珀妮 铂金夜间焕活精华(Platinum Rare Cellular Night Elixir,精华) | 铂金系列高阶精华,主打夜间密集修护与紧致焕活,定价居于护肤品金字塔顶端,是品牌科技的巅峰表达。 | data\img\la-prairie-night-elixir.jpg
+la-roche-posay-cicaplast-b5 | 理肤泉 B5多效修复霜(Cicaplast Baume B5,修复霜) | 含泛醇与积雪草苷的万能修复霜,主打舒缓修复干燥粗糙与脆弱肌肤,大人小孩都能用,是家中常备的口碑药妆。 | data\img\la-roche-posay-cicaplast-b5.jpg
+la-roche-posay-uvmune-400 | 理肤泉 大哥大防晒(UVMune 400)(Anthelios UVMune 400,防晒) | 搭载麦色滤400滤剂的明星防晒,可防护长波UVA,肤感清润,防晒黑也防晒老,是防晒圈的现象级单品。 | data\img\la-roche-posay-uvmune-400.jpg
+la-roche-posay-hyalu-b5 | 理肤泉 玻尿酸B5修复精华(Hyalu B5,精华) | 含玻尿酸与泛醇的抗初老精华,主打饱满细纹、修护屏障,质地清爽好吸收,是理肤泉精华线的热销款。 | data\img\la-roche-posay-hyalu-b5.jpg
+lancome-genifique | 兰蔻 小黑瓶精华肌底液(Advanced Génifique,精华) | 兰蔻王牌肌底精华,以二裂酵母发酵精萃与轻盈质地著称,帮助维稳修护、细腻肤质,自2009年问世以来屡经升级,常年位居全球高 | data\img\lancome-genifique.jpg
+lancome-tonique-douceur | 兰蔻 清滢柔肤水(粉水)(Tonique Douceur,爽肤水) | 大名鼎鼎的兰蔻粉水,质地水润偏稠,主打保湿舒缓,适合干性与中性肤质,大容量装性价比突出,是无数人的兰蔻入门第一瓶。 | data\img\lancome-tonique-douceur.jpg
+lancome-teint-idole | 兰蔻 持妆轻透粉底液(Teint Idole Ultra Wear,粉底液) | 遮瑕力与持妆力俱佳的经典粉底,主打长时间持妆持色、不易暗沉,油皮与混油皮口碑稳固,色号覆盖广泛。 | data\img\lancome-teint-idole.jpg
+lancome-labsolu-rouge | 兰蔻 菁纯唇膏(L'Absolu Rouge,唇膏) | 兰蔻经典口红系列,膏体滋润显色,经典色号热度经久不衰,是专柜彩妆区的长青款。 | data\img\lancome-labsolu-rouge.jpg

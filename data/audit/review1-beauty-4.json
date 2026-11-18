@@ -1,0 +1,83 @@
+[
+ {
+  "id": "valmont-hydra3",
+  "brand": "法尔曼",
+  "name": "蜜润三重保湿霜",
+  "nameEn": "Hydra3 Regenetic Cream",
+  "type": "面霜",
+  "desc": "保湿线高阶面霜,主打多维度补水锁水、改善干燥细纹,滋润度更高,适合干性与熟龄肌肤。",
+  "file": "data\\img\\valmont-hydra3.jpg"
+ },
+ {
+  "id": "valmont-vline-cream",
+  "brand": "法尔曼",
+  "name": "V-Line紧致提拉面霜",
+  "nameEn": "V-Line Lifting Cream",
+  "type": "面霜",
+  "desc": "V-Line抗老线核心面霜,主打提拉紧致、重塑轮廓线条,质地丰润,适合关注轮廓松弛问题的熟龄肌肤。",
+  "file": "data\\img\\valmont-vline-cream.jpg"
+ },
+ {
+  "id": "vaseline-lip",
+  "brand": "凡士林",
+  "name": "润唇膏",
+  "nameEn": "Lip Therapy",
+  "type": "润唇膏",
+  "desc": "小铁罐 Rosy Lips,嘴唇干裂急救。",
+  "file": "data\\img\\vaseline-lip.jpg"
+ },
+ {
+  "id": "vaseline-lotion",
+  "brand": "凡士林",
+  "name": "身体乳",
+  "nameEn": "Intensive Care Lotion",
+  "type": "身体乳",
+  "desc": "燕麦修护大碗身体乳,冬天全身涂不心疼。",
+  "file": "data\\img\\vaseline-lotion.jpg"
+ },
+ {
+  "id": "vaseline-hand",
+  "brand": "凡士林",
+  "name": "护手霜",
+  "nameEn": "Hand Cream",
+  "type": "护手霜",
+  "desc": "速干不油腻,办公室常备。",
+  "file": "data\\img\\vaseline-hand.jpg"
+ },
+ {
+  "id": "winona-sunscreen",
+  "brand": "薇诺娜",
+  "name": "清透防晒乳",
+  "nameEn": "Sunscreen Milk",
+  "type": "防晒",
+  "desc": "敏感肌可用物化结合防晒,不闷痘。",
+  "file": "data\\img\\winona-sunscreen.jpg"
+ },
+ {
+  "id": "winona-serum",
+  "brand": "薇诺娜",
+  "name": "舒敏精华",
+  "nameEn": "Soothing Serum",
+  "type": "精华",
+  "desc": "青刺果+马齿苋,修复屏障的精华担当。",
+  "file": "data\\img\\winona-serum.jpg"
+ },
+ {
+  "id": "winona-cleanser",
+  "brand": "薇诺娜",
+  "name": "舒缓洁面乳",
+  "nameEn": "Gentle Cleanser",
+  "type": "洁面",
+  "desc": "氨基酸洁面,洗后不紧绷。",
+  "file": "data\\img\\winona-cleanser.jpg"
+ },
+ {
+  "id": "winona-mask",
+  "brand": "薇诺娜",
+  "name": "舒缓修护冻干面膜",
+  "nameEn": "Freeze-dried Mask",
+  "type": "面膜",
+  "desc": "冻干粉现调现用,医美术后也能用。",
+  "file": "data\\img\\winona-mask.jpg"
+ }
+]

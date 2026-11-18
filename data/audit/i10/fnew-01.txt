@@ -1,0 +1,10 @@
+alexandermcqueen-oversizedsneaker | 亚历山大·麦昆 Oversized 运动鞋(Oversized Sneaker,运动鞋) | 大圆头厚底小白鞋,夸张比例与后跟标识独树一帜,是时装运动鞋的代表作。 | data\img\alexandermcqueen-oversizedsneaker.jpg
+alexandermcqueen-treadslick | 亚历山大·麦昆 Tread Slick 系带靴(Tread Slick,靴子) | 超大锯齿底搭配系带鞋面,夸张轮廓极具存在感,延续品牌的先锋街头气质。 | data\img\alexandermcqueen-treadslick.jpg
+alexandermcqueen-knuckle | 亚历山大·麦昆 Knuckle 手拿包(Knuckle Clutch,手拿包) | 以指环五金为标志的晚宴手包,骷髅与宝石细节奢华暗黑,是红毯经典。 | data\img\alexandermcqueen-knuckle.jpg
+alexandermcqueen-skullscarf | 亚历山大·麦昆 骷髅丝巾(Skull Scarf,丝巾) | 丝质方巾上重复的骷髅印花是品牌符号,轻巧百搭,是入门首选的配饰单品。 | data\img\alexandermcqueen-skullscarf.jpg
+alexandermcqueen-tailoring | 亚历山大·麦昆 剪裁西装(Tailoring,西装) | 传承萨维尔街的英式剪裁功力,收腰廓形与戏剧细节兼具,红毯与秀场常客。 | data\img\alexandermcqueen-tailoring.jpg
+alexandermcqueen-jackets | 亚历山大·麦昆 皮衣与外套(Jackets & Outerwear,外套) | 机车皮衣、刺绣飞行夹克暗藏品牌意象,做工凌厉,是暗黑衣橱的核心单品。 | data\img\alexandermcqueen-jackets.jpg
+balenciaga-le-city | 巴黎世家 机车包(Le City,手袋) | 2001年问世的It Bag鼻祖,外露缝线与铆钉拉链带出慵懒酷感,曾横扫千禧年代街拍,近年复刻回归再度走红。 | data\img\balenciaga-le-city.jpg
+balenciaga-hourglass | 巴黎世家 沙漏包(Hourglass,手袋) | 2019年推出的沙漏曲线手袋,袋底外扩、上沿收窄,灵感呼应品牌高定剪裁,棱角分明极具辨识度。 | data\img\balenciaga-hourglass.jpg
+balenciaga-triple-s | 巴黎世家 Triple S老爹鞋(Triple S,运动鞋) | 2017年引爆全球的老爹鞋鼻祖,三层鞋底堆叠复古跑鞋元素,笨重感即时髦感,开创奢侈品牌厚底鞋风潮。 | data\img\balenciaga-triple-s.jpg
+balenciaga-track | 巴黎世家 Track运动鞋(Track,运动鞋) | 以机能网格与复杂拼接著称的运动鞋,分层结构科技感十足,与Triple S并列为品牌鞋履双雄。 | data\img\balenciaga-track.jpg

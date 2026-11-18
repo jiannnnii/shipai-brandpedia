@@ -1,0 +1,10 @@
+iwc-mark | 万国 马克系列(Mark,飞行员表) | 从1948年马克11延续至今的军表谱系,极简三针+软铁防磁。 | data\img\iwc-mark.jpg
+iwc-ingenieur | 万国 工程师系列(Ingenieur,运动豪华表) | 为科研人员设计的防磁表,尊达改款的一体式Genta美学低调硬核。 | data\img\iwc-ingenieur.jpg
+jlc-reverso | 积家 翻转系列(Reverso,正装表) | 1931年马球场诞生的装饰艺术经典,表盘可翻面,一表两戴。 | data\img\jlc-reverso.jpg
+jlc-mastercontrol | 积家 大师系列(Master Control,正装表) | 每枚机芯需通过"1000小时测试"方可出厂,可靠与优雅兼得。 | data\img\jlc-mastercontrol.jpg
+jlc-atmos | 积家 空气钟(Atmos,座钟) | 靠气温变化驱动的永动座钟,不用电池不上弦,房间里的一件传家宝。 | data\img\jlc-atmos.jpg
+lange-lange1 | 朗格 Lange 1(Lange 1,正装表) | 1994年王者归之作,偏心时盘+大日历+动力显示的非对称美学。 | data\img\lange-lange1.jpg
+laofengxiang-birdbracelet | 老凤祥 龙凤镯(Dragon & Phoenix Bangle,黄金手镯) | 婚嫁硬通货,浮雕龙凤的实心足金手镯,长辈最认的牌子之一。 | data\img\laofengxiang-birdbracelet.jpg
+laofengxiang-silver | 老凤祥 银器系列(Silver Craft,银饰) | 非遗银器细工,从长命锁到茶器,老字号的手艺底蕴。 | data\img\laofengxiang-silver.jpg
+laofengxiang-pearl | 老凤祥 珍珠系列(Pearl Collection,珍珠首饰) | 淡水珍珠为主,妈妈辈最喜欢的温润气质线。 | data\img\laofengxiang-pearl.jpg
+laomiao-lucky | 老庙黄金 好运系列(Lucky Collection,黄金首饰) | 福字、锦鲤、葫芦全好运符号,送礼自留都图个吉利。 | data\img\laomiao-lucky.jpg

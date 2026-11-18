@@ -1,0 +1,10 @@
+nike-airjordan1 | 耐克 Air Jordan 1(Air Jordan 1,篮球鞋) | 乔丹系列开山之作,黑红配色当年因违反NBA着装规定被罚款,反而封神。 | data\img\nike-airjordan1.jpg
+nike-pegasus | 耐克 飞马系列(Pegasus,跑鞋) | Run家常年更新的国民跑鞋,四十余代,日常慢跑的稳妥选择。 | data\img\nike-pegasus.jpg
+nike-dunk | 耐克 Dunk Low(Dunk Low,板鞋) | 1985年的大学篮球鞋,被SB滑板线与潮流圈双双复活,配色玩不停。 | data\img\nike-dunk.jpg
+on-cloud | 昂跑 Cloud 系列(Cloud,轻量跑鞋) | 昂跑的成名之作,镂空云朵大底轻软舒适,旋扣鞋带方便穿脱,是品牌最畅销的入门款,城市通勤与轻量运动两相宜。 | data\img\on-cloud.jpg
+on-cloudmonster | 昂跑 Cloudmonster(Cloudmonster,厚底跑鞋) | 昂跑最大胆的厚底缓震跑鞋,夸张的云朵大底带来澎湃脚感,2022年发布后成为长距离慢跑与通勤的明星产品。 | data\img\on-cloudmonster.jpg
+on-cloudsurfer | 昂跑 Cloudsurfer(Cloudsurfer,训练跑鞋) | 以CloudTec Phase新科技实现波浪式形变,过渡顺滑、脚感绵软,是昂跑新一代日常训练主力鞋款。 | data\img\on-cloudsurfer.jpg
+patagonia-down-sweater | 巴塔哥尼亚 Down Sweater 羽绒服(Down Sweater,羽绒服) | 品牌标志性轻量羽绒服,800蓬鹅绒加防撕裂壳面,轻暖兼备且结实耐穿,是户外羽绒服的经典范本。 | data\img\patagonia-down-sweater.jpg
+patagonia-retro-x | 巴塔哥尼亚 Retro-X 抓绒衣(Retro-X,抓绒衣) | 复古羊羔绒外观搭配防风膜内衬,厚实保暖又自带美式复古气质,是巴塔哥尼亚最具辨识度的抓绒经典。 | data\img\patagonia-retro-x.jpg
+patagonia-snap-t | 巴塔哥尼亚 Snap-T 抓绒(Snap-T,抓绒衣) | 1994年问世的经典套头抓绒,胸前双扣袋与撞色拼接辨识度极高,从攀岩圈火到街头,是品牌的潮流担当。 | data\img\patagonia-snap-t.jpg
+peak-taichi-running | 匹克 态极系列跑鞋(Taichi,缓震跑鞋) | 搭载态极自适科技中底,慢走柔软、快跑变硬的智能脚感一经推出便引发抢购,是国产品牌近年最具话题度的跑鞋系列。 | data\img\peak-taichi-running.jpg

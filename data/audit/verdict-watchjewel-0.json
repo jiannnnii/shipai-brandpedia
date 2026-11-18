@@ -1,0 +1,12 @@
+[
+ {"id":"ap-royaloak","verdict":"mismatch","note":"图片是双手比心的手势照片,与爱彼皇家橡树腕表完全无关"},
+ {"id":"ap-offshore","verdict":"mismatch","note":"图片是双手比心的手势照片,与爱彼皇家橡树离岸型完全无关"},
+ {"id":"ap-code1159","verdict":"mismatch","note":"图片是双手比心的手势照片,与爱彼CODE 11.59腕表完全无关"},
+ {"id":"ap-millenary","verdict":"mismatch","note":"图片是双手比心的手势照片,与爱彼千禧系列女表完全无关"},
+ {"id":"blancpain-fiftyfathoms","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝珀五十噚潜水表无关"},
+ {"id":"blancpain-villeret","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝珀维勒雷正装表无关"},
+ {"id":"blancpain-leman","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝珀雷蒙湖系列无关"},
+ {"id":"blancpain-carrousel","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝珀卡罗素系列无关"},
+ {"id":"boucheron-quatre","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝诗龙Quatre四环戒指无关"},
+ {"id":"boucheron-torse","verdict":"mismatch","note":"图片是黑底白色虚线十字的抽象占位图,与宝诗龙问号项链无关"}
+]

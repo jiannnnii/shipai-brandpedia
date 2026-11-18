@@ -1,0 +1,10 @@
+burberry-fragrance | 博柏利 香水(Fragrance,香水) | 以 My Burberry、Hero、Goddess 等为代表的香水线,英伦花园气息与摩登木质调并存,瓶身延续经典设计元 | data\img\burberry-fragrance.jpg
+cb-hoodie | 卡宾 潮流卫衣(Hoodie,卫衣) | 以品牌字标与涂鸦印花为特色,加绒与薄款覆盖不同季节,版型宽松舒适,是年轻客群的高频购买单品。 | data\img\cb-hoodie.jpg
+cb-pants | 卡宾 休闲裤装(Casual Pants,裤装) | 以修身锥形与工装版型为主,弹力面料保证活动度,细节处点缀品牌元素,是整体穿搭中实用度最高的品类。 | data\img\cb-pants.jpg
+cb-coat | 卡宾 潮流大衣(Trend Coat,大衣) | 以羊毛混纺与新型面料结合,廓形偏宽,融入国风盘扣或徽章刺绣,秋冬主打设计感与保暖并重。 | data\img\cb-coat.jpg
+calvinklein-underwear | 卡尔文·克雷恩 内衣系列(Underwear,内衣) | 腰间 CK 织标内裤与内衣是品牌招牌,棉质舒适、剪裁贴身,几乎是无人不识的经典。 | data\img\calvinklein-underwear.jpg
+calvinklein-jeans | 卡尔文·克雷恩 牛仔裤(Jeans,牛仔裤) | Calvin Klein Jeans 主打复古直筒与修身版型,后腰皮标极具辨识度,基础款耐穿百搭。 | data\img\calvinklein-jeans.jpg
+calvinklein-outerwear | 卡尔文·克雷恩 外套(Outerwear,外套) | 羽绒服、夹克与西装外套以简约廓形为主,黑白灰主色调,日常通勤好搭不出错。 | data\img\calvinklein-outerwear.jpg
+canadagoose-expedition | 加拿大鹅 Expedition 派克大衣(Expedition Parka,派克大衣) | 品牌最经典的重装派克,原为极地科考设计,充绒量高、防护全面,胸前徽标辨识度极高。 | data\img\canadagoose-expedition.jpg
+canadagoose-langford | 加拿大鹅 Langford 派克大衣(Langford Parka,派克大衣) | 都市通勤版派克大衣,剪裁比 Expedition 更利落,保暖与日常轻量取得平衡。 | data\img\canadagoose-langford.jpg
+canadagoose-chilliwack | 加拿大鹅 Chilliwack 飞行员夹克(Chilliwack Bomber,夹克) | 短款飞行员版型,毛领厚实、袖口罗纹收口,活动灵便,是短款御寒的人气之选。 | data\img\canadagoose-chilliwack.jpg

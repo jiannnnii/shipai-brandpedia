@@ -1,0 +1,10 @@
+schwarzkopf-styling | 施华蔻 造型喷雾(Styling Spray,造型) | 定型喷雾与发蜡,专业线下放。 | data\img\schwarzkopf-styling.jpg
+sergelutens-berlin | 芦丹氏 柏林少女(La Fille de Berlin,香水) | 带刺的红玫瑰,「每一根刺都是我的骄傲」。 | data\img\sergelutens-berlin.jpg
+sergelutens-lorpheline | 芦丹氏 孤女(L'Orpheline,香水) | 焚香与乳香的冷冽孤儿感。 | data\img\sergelutens-lorpheline.jpg
+shiseido-ultimune | 资生堂 红妍肌活精华露(红腰子)(Ultimune,精华) | 资生堂畅销全球的肌底精华,主打强韧肌肤抵御力,红色流线瓶身极具辨识度,十余年来多次升级,是亚洲专柜的人气打底精华。 | data\img\shiseido-ultimune.jpg
+shiseido-future-solution-cream | 资生堂 时光琉璃御藏面霜(Future Solution LX Total Regenerating Cream,面霜) | 资生堂殿堂级护肤线,主打极致修护与紧致,质地丰盈、仪式感十足,面向高端客群,是专柜金字塔尖的产品。 | data\img\shiseido-future-solution-cream.jpg
+shu-uemura-rouge-unlimited | 植村秀 无色限唇膏(Rouge Unlimited,唇膏) | 主打显色与滋润平衡的经典唇膏,色号从日常裸色到个性正红覆盖广泛,质地顺滑,是品牌彩妆线的常青款。 | data\img\shu-uemura-rouge-unlimited.jpg
+sisley-ecological-compound | 希思黎 全能乳液(Ecological Compound,乳液) | 希思黎最负盛名的镇店之作,以啤酒花、问荆、迷迭香、人参、积雪草五种植物精萃调和,主打保湿维稳、调理肌肤状态,数十年畅销不 | data\img\sisley-ecological-compound.jpg
+sisley-black-rose-cream | 希思黎 黑玫瑰焕采精华面霜(Black Rose Skin Infusion Cream,面霜) | 以黑玫瑰精萃为核心,丝绒质地一抹化水,主打焕亮与丰盈,为肌肤注入光泽,香气高级,是希思黎人气面霜。 | data\img\sisley-black-rose-cream.jpg
+sisley-black-rose-oil | 希思黎 黑玫瑰焕采精华油(Black Rose Precious Face Oil,精华油) | 轻盈油脂质地,滋养而不厚重,可用于夜间护理或妆前打底,赋予肌肤柔亮光泽,与黑玫瑰面霜同属人气系列。 | data\img\sisley-black-rose-oil.jpg
+sisley-toning-lotion | 希思黎 花香润肤水(Toning Lotion,化妆水) | 质地温和的爽肤水,主打二次清洁与柔软肌肤,淡淡花香带来愉悦的使用感,是希思黎基础护理的第一步。 | data\img\sisley-toning-lotion.jpg

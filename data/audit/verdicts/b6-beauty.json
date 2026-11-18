@@ -1,0 +1,792 @@
+[
+ {
+  "id": "acquadiparma-colonia",
+  "verdict": "mismatch",
+  "note": "图片是马桶"
+ },
+ {
+  "id": "acquadiparma-blu",
+  "verdict": "mismatch",
+  "note": "山湖风景图"
+ },
+ {
+  "id": "acquadiparma-candle",
+  "verdict": "mismatch",
+  "note": "日历壁纸"
+ },
+ {
+  "id": "acquadiparma-leather",
+  "verdict": "mismatch",
+  "note": "手抄报插画"
+ },
+ {
+  "id": "acquadiparma-bag",
+  "verdict": "mismatch",
+  "note": "一碗米线"
+ },
+ {
+  "id": "albion-skin-conditioner",
+  "verdict": "mismatch",
+  "note": "动漫人物无关"
+ },
+ {
+  "id": "albion-excia-oil",
+  "verdict": "mismatch",
+  "note": "天安门照片无关"
+ },
+ {
+  "id": "ateliercologne-orange",
+  "verdict": "mismatch",
+  "note": "调色网站截图无关"
+ },
+ {
+  "id": "ateliercologne-cedre",
+  "verdict": "mismatch",
+  "note": "寺庙照片无关"
+ },
+ {
+  "id": "ateliercologne-candle",
+  "verdict": "mismatch",
+  "note": "拼图古迹无关"
+ },
+ {
+  "id": "bobbi-brown-cleansing-oil",
+  "verdict": "mismatch",
+  "note": "战斗姿势素描图"
+ },
+ {
+  "id": "byredo-rose",
+  "verdict": "mismatch",
+  "note": "抗美援朝插画"
+ },
+ {
+  "id": "byredo-gypsy",
+  "verdict": "mismatch",
+  "note": "女生自拍照片"
+ },
+ {
+  "id": "byredo-blanche",
+  "verdict": "mismatch",
+  "note": "工厂车间设备"
+ },
+ {
+  "id": "byredo-makeup",
+  "verdict": "mismatch",
+  "note": "名片设计模板"
+ },
+ {
+  "id": "ateliercologne-gift",
+  "verdict": "mismatch",
+  "note": "手绘长征路线图"
+ },
+ {
+  "id": "bobbi-brown-vitamin-base",
+  "verdict": "mismatch",
+  "note": "电动蝶阀图纸"
+ },
+ {
+  "id": "bobbi-brown-highlighting-powder",
+  "verdict": "mismatch",
+  "note": "始祖鸟冲锋衣"
+ },
+ {
+  "id": "bobbi-brown-luxe-lip",
+  "verdict": "mismatch",
+  "note": "庭院建筑照"
+ },
+ {
+  "id": "bobbi-brown-long-wear-foundation",
+  "verdict": "mismatch",
+  "note": "熏蒸消毒证书"
+ },
+ {
+  "id": "cerave-moisturizing-cream",
+  "verdict": "mismatch",
+  "note": "山水风景图"
+ },
+ {
+  "id": "cerave-sa-cleanser",
+  "verdict": "mismatch",
+  "note": "戏曲人物照"
+ },
+ {
+  "id": "cerave-sa-cream",
+  "verdict": "mismatch",
+  "note": "日历风景图"
+ },
+ {
+  "id": "clarins-double-serum",
+  "verdict": "ok",
+  "note": "双萃精华瓶身清晰"
+ },
+ {
+  "id": "clarins-v-shaping",
+  "verdict": "mismatch",
+  "note": "误用双萃精华图"
+ },
+ {
+  "id": "clarins-extra-firming",
+  "verdict": "mismatch",
+  "note": "是Multi-Active双萃非弹簧霜"
+ },
+ {
+  "id": "clarins-hydra-essentiel",
+  "verdict": "mismatch",
+  "note": "双萃精华非保湿霜"
+ },
+ {
+  "id": "clarins-tonic-oil",
+  "verdict": "mismatch",
+  "note": "儿童跳绳图无关"
+ },
+ {
+  "id": "cle-de-peau-beaute-veil",
+  "verdict": "mismatch",
+  "note": "金字塔图无关"
+ },
+ {
+  "id": "cle-de-peau-beaute-the-serum",
+  "verdict": "mismatch",
+  "note": "人像照片无关"
+ },
+ {
+  "id": "cle-de-peau-beaute-emulsion-night",
+  "verdict": "mismatch",
+  "note": "应用商店截图"
+ },
+ {
+  "id": "curel-moisture-cream",
+  "verdict": "mismatch",
+  "note": "高达模型图片"
+ },
+ {
+  "id": "curel-moisture-lotion",
+  "verdict": "mismatch",
+  "note": "人像照片"
+ },
+ {
+  "id": "curel-moisture-emulsion",
+  "verdict": "mismatch",
+  "note": "deepseek标志"
+ },
+ {
+  "id": "curel-cleansing-foam",
+  "verdict": "mismatch",
+  "note": "薰衣草田风景"
+ },
+ {
+  "id": "curel-moisture-mask",
+  "verdict": "mismatch",
+  "note": "羊群养殖场照片"
+ },
+ {
+  "id": "decorte-moisture-liposome",
+  "verdict": "mismatch",
+  "note": "机械零件图纸"
+ },
+ {
+  "id": "decorte-aq-meliority-cleansing",
+  "verdict": "mismatch",
+  "note": "他克莫司药膏"
+ },
+ {
+  "id": "diptyque-tamdao",
+  "verdict": "mismatch",
+  "note": "头部肌肉解剖图"
+ },
+ {
+  "id": "diptyque-baies",
+  "verdict": "mismatch",
+  "note": "建筑施工图纸"
+ },
+ {
+  "id": "diptyque-figuier",
+  "verdict": "mismatch",
+  "note": "海湾风景照"
+ },
+ {
+  "id": "diptyque-cardiff",
+  "verdict": "mismatch",
+  "note": "动画截图"
+ },
+ {
+  "id": "dovebody-bar",
+  "verdict": "mismatch",
+  "note": "鸟类照片"
+ },
+ {
+  "id": "dovebody-deo",
+  "verdict": "mismatch",
+  "note": "电力设备图"
+ },
+ {
+  "id": "estee-lauder-advanced-night-repair",
+  "verdict": "mismatch",
+  "note": "电影海报"
+ },
+ {
+  "id": "estee-lauder-micro-essence",
+  "verdict": "mismatch",
+  "note": "人物照片无关"
+ },
+ {
+  "id": "estee-lauder-revitalizing-supreme",
+  "verdict": "mismatch",
+  "note": "网页截图无关"
+ },
+ {
+  "id": "estee-lauder-renutriv",
+  "verdict": "mismatch",
+  "note": "花卉图鉴无关"
+ },
+ {
+  "id": "estee-lauder-double-wear",
+  "verdict": "mismatch",
+  "note": "鹦鹉图鉴无关"
+ },
+ {
+  "id": "estee-lauder-pure-color-envy",
+  "verdict": "mismatch",
+  "note": "药品包装无关"
+ },
+ {
+  "id": "florasis-eyeshadow",
+  "verdict": "mismatch",
+  "note": "心电图无关图"
+ },
+ {
+  "id": "florasis-cushion",
+  "verdict": "mismatch",
+  "note": "电脑网络图"
+ },
+ {
+  "id": "fredericmalle-portrait",
+  "verdict": "mismatch",
+  "note": "水果配送海报"
+ },
+ {
+  "id": "fredericmalle-rose",
+  "verdict": "mismatch",
+  "note": "游戏插画"
+ },
+ {
+  "id": "fredericmalle-musc",
+  "verdict": "mismatch",
+  "note": "明星口红照片"
+ },
+ {
+  "id": "fredericmalle-candle",
+  "verdict": "mismatch",
+  "note": "博物馆内景"
+ },
+ {
+  "id": "freeplus-essence",
+  "verdict": "mismatch",
+  "note": "晾衣绳衣服"
+ },
+ {
+  "id": "guerlain-abeille-double-r",
+  "verdict": "mismatch",
+  "note": "海贼王动漫图"
+ },
+ {
+  "id": "guerlain-abeille-watery-oil",
+  "verdict": "mismatch",
+  "note": "派大星动画截图"
+ },
+ {
+  "id": "guerlain-orchidee-imperiale",
+  "verdict": "mismatch",
+  "note": "金钻粉底液非面霜"
+ },
+ {
+  "id": "guerlain-shalimar",
+  "verdict": "mismatch",
+  "note": "图为腿部枕垫广告"
+ },
+ {
+  "id": "guerlain-lprn",
+  "verdict": "mismatch",
+  "note": "图为经济周期图表"
+ },
+ {
+  "id": "helena-rubinstein-age-recovery",
+  "verdict": "mismatch",
+  "note": "多品合集无黑绷带"
+ },
+ {
+  "id": "helena-rubinstein-recovery-day",
+  "verdict": "mismatch",
+  "note": "图为黑绷带非日霜"
+ },
+ {
+  "id": "helena-rubinstein-powercell",
+  "verdict": "ok",
+  "note": "绿宝瓶精华清晰"
+ },
+ {
+  "id": "helena-rubinstein-powercell-eye",
+  "verdict": "lowq",
+  "note": "水印多品拼图"
+ },
+ {
+  "id": "helena-rubinstein-cellglow",
+  "verdict": "mismatch",
+  "note": "直播赠品海报"
+ },
+ {
+  "id": "jomalone-lime",
+  "verdict": "mismatch",
+  "note": "山水画无产品"
+ },
+ {
+  "id": "kerastase-mask",
+  "verdict": "mismatch",
+  "note": "动漫人物图"
+ },
+ {
+  "id": "kerastase-blond",
+  "verdict": "mismatch",
+  "note": "楼盘效果图"
+ },
+ {
+  "id": "kose-visee-lip",
+  "verdict": "mismatch",
+  "note": "海岛风景图"
+ },
+ {
+  "id": "la-mer-treatment-lotion",
+  "verdict": "mismatch",
+  "note": "动漫插画无关"
+ },
+ {
+  "id": "la-mer-lip-balm",
+  "verdict": "mismatch",
+  "note": "软件界面截图"
+ },
+ {
+  "id": "la-mer-renewal-oil",
+  "verdict": "mismatch",
+  "note": "会议现场照片"
+ },
+ {
+  "id": "la-prairie-luxe-cream",
+  "verdict": "mismatch",
+  "note": "网页模板截图"
+ },
+ {
+  "id": "kose-suncut",
+  "verdict": "mismatch",
+  "note": "面包板图无关"
+ },
+ {
+  "id": "kose-clear-turn",
+  "verdict": "mismatch",
+  "note": "星星素材无关"
+ },
+ {
+  "id": "kose-sekkisei",
+  "verdict": "mismatch",
+  "note": "音乐厅照片无关"
+ },
+ {
+  "id": "kerastase-genifique",
+  "verdict": "mismatch",
+  "note": "无人机机巢无关图"
+ },
+ {
+  "id": "la-prairie-luxe-eye",
+  "verdict": "mismatch",
+  "note": "影视App截图"
+ },
+ {
+  "id": "la-prairie-white-caviar",
+  "verdict": "mismatch",
+  "note": "数显千分尺"
+ },
+ {
+  "id": "la-prairie-night-elixir",
+  "verdict": "mismatch",
+  "note": "动漫插画"
+ },
+ {
+  "id": "la-roche-posay-cicaplast-b5",
+  "verdict": "mismatch",
+  "note": "历史黑白照片"
+ },
+ {
+  "id": "la-roche-posay-uvmune-400",
+  "verdict": "mismatch",
+  "note": "动漫角色图"
+ },
+ {
+  "id": "la-roche-posay-hyalu-b5",
+  "verdict": "mismatch",
+  "note": "技能大赛海报"
+ },
+ {
+  "id": "lancome-genifique",
+  "verdict": "ok",
+  "note": "小黑瓶精华清晰"
+ },
+ {
+  "id": "lancome-tonique-douceur",
+  "verdict": "mismatch",
+  "note": "疑似眼霜小黑瓶,非粉水"
+ },
+ {
+  "id": "lancome-teint-idole",
+  "verdict": "ok",
+  "note": "持妆粉底液清晰"
+ },
+ {
+  "id": "lancome-labsolu-rouge",
+  "verdict": "mismatch",
+  "note": "菁纯粉底霜,非唇膏"
+ },
+ {
+  "id": "lancome-la-vie-est-belle",
+  "verdict": "mismatch",
+  "note": "显示为小黑瓶精华"
+ },
+ {
+  "id": "lancome-genifique-eye",
+  "verdict": "mismatch",
+  "note": "显示为菁纯眼霜"
+ },
+ {
+  "id": "loreal-paris-youth-code",
+  "verdict": "mismatch",
+  "note": "机械零件无关图"
+ },
+ {
+  "id": "loreal-paris-ampoule-mask",
+  "verdict": "mismatch",
+  "note": "火车轮无关图"
+ },
+ {
+  "id": "loreal-paris-infallible",
+  "verdict": "logo",
+  "note": "仅品牌logo文字"
+ },
+ {
+  "id": "loreal-paris-uv-perfect",
+  "verdict": "mismatch",
+  "note": "同品牌其他产品广告"
+ },
+ {
+  "id": "mac-chili",
+  "verdict": "mismatch",
+  "note": "游戏地图截图"
+ },
+ {
+  "id": "mac-fixplus",
+  "verdict": "mismatch",
+  "note": "炸鸡海报"
+ },
+ {
+  "id": "mac-lipglass",
+  "verdict": "mismatch",
+  "note": "MBTI图鉴"
+ },
+ {
+  "id": "maxfactor-foundation",
+  "verdict": "mismatch",
+  "note": "汽车维修图"
+ },
+ {
+  "id": "maxfactor-mascara",
+  "verdict": "mismatch",
+  "note": "客厅装修图"
+ },
+ {
+  "id": "maxfactor-blush",
+  "verdict": "mismatch",
+  "note": "冷库水果筐"
+ },
+ {
+  "id": "maybelline-fitme",
+  "verdict": "mismatch",
+  "note": "火箭睫毛膏广告"
+ },
+ {
+  "id": "maybelline-superstay",
+  "verdict": "mismatch",
+  "note": "Fit Me粉底"
+ },
+ {
+  "id": "maybelline-eraser",
+  "verdict": "mismatch",
+  "note": "Dream Satin粉底"
+ },
+ {
+  "id": "maybelline-eyeliner",
+  "verdict": "mismatch",
+  "note": "同品牌但是Fit Me粉底液"
+ },
+ {
+  "id": "nars-orgasm",
+  "verdict": "mismatch",
+  "note": "建筑合影无关"
+ },
+ {
+  "id": "nars-radiant",
+  "verdict": "mismatch",
+  "note": "营销模型图无关"
+ },
+ {
+  "id": "nars-eyeshadow",
+  "verdict": "mismatch",
+  "note": "化学试剂无关"
+ },
+ {
+  "id": "nars-bronzer",
+  "verdict": "mismatch",
+  "note": "交通布局图无关"
+ },
+ {
+  "id": "neutrogena-sunscreen",
+  "verdict": "mismatch",
+  "note": "写真封面无关"
+ },
+ {
+  "id": "neutrogena-hand",
+  "verdict": "mismatch",
+  "note": "卷积示意图无关"
+ },
+ {
+  "id": "neutrogena-hydro",
+  "verdict": "mismatch",
+  "note": "海浪插画无关"
+ },
+ {
+  "id": "nivea-cream",
+  "verdict": "mismatch",
+  "note": "人像图标无关"
+ },
+ {
+  "id": "nivea-hand",
+  "verdict": "mismatch",
+  "note": "手机广告无关"
+ },
+ {
+  "id": "penhaligons-fox",
+  "verdict": "mismatch",
+  "note": "光盘行动海报"
+ },
+ {
+  "id": "penhaligons-hammam",
+  "verdict": "mismatch",
+  "note": "漫画教程书籍"
+ },
+ {
+  "id": "penhaligons-halfeti",
+  "verdict": "mismatch",
+  "note": "聚合物图表"
+ },
+ {
+  "id": "perfectdiary-animal",
+  "verdict": "mismatch",
+  "note": "完美世界游戏图"
+ },
+ {
+  "id": "perfectdiary-lip",
+  "verdict": "mismatch",
+  "note": "游戏截图无关"
+ },
+ {
+  "id": "perfectdiary-foundation",
+  "verdict": "mismatch",
+  "note": "完美世界游戏原画"
+ },
+ {
+  "id": "perfectdiary-blush",
+  "verdict": "mismatch",
+  "note": "完美世界游戏海报"
+ },
+ {
+  "id": "perfectdiary-eyebrow",
+  "verdict": "mismatch",
+  "note": "垃圾分类宣传海报"
+ },
+ {
+  "id": "proya-doubleantiox",
+  "verdict": "mismatch",
+  "note": "水漾肌密爽肤水"
+ },
+ {
+  "id": "proya-ruby",
+  "verdict": "mismatch",
+  "note": "美白胶原蛋白产品"
+ },
+ {
+  "id": "proya-energycream",
+  "verdict": "mismatch",
+  "note": "珀莱雅芯生白乳液非能量面霜"
+ },
+ {
+  "id": "proya-sunscreen",
+  "verdict": "mismatch",
+  "note": "风景图无产品"
+ },
+ {
+  "id": "proya-eye",
+  "verdict": "mismatch",
+  "note": "警察局标牌无关"
+ },
+ {
+  "id": "schwarzkopf-bubble",
+  "verdict": "mismatch",
+  "note": "卡通兔子画无关"
+ },
+ {
+  "id": "schwarzkopf-shampoo",
+  "verdict": "mismatch",
+  "note": "吉他谱无关"
+ },
+ {
+  "id": "schwarzkopf-styling",
+  "verdict": "mismatch",
+  "note": "车辆查询界面"
+ },
+ {
+  "id": "sergelutens-berlin",
+  "verdict": "mismatch",
+  "note": "客厅3D渲染图"
+ },
+ {
+  "id": "sergelutens-lorpheline",
+  "verdict": "mismatch",
+  "note": "地上草捆"
+ },
+ {
+  "id": "shiseido-ultimune",
+  "verdict": "mismatch",
+  "note": "学生系红领巾"
+ },
+ {
+  "id": "shiseido-future-solution-cream",
+  "verdict": "mismatch",
+  "note": "抽象线条背景"
+ },
+ {
+  "id": "shu-uemura-rouge-unlimited",
+  "verdict": "logo",
+  "note": "酒店门牌招牌"
+ },
+ {
+  "id": "sisley-ecological-compound",
+  "verdict": "mismatch",
+  "note": "石碑墙"
+ },
+ {
+  "id": "sisley-black-rose-cream",
+  "verdict": "mismatch",
+  "note": "黑色大衣"
+ },
+ {
+  "id": "sisley-black-rose-oil",
+  "verdict": "mismatch",
+  "note": "人像照片"
+ },
+ {
+  "id": "sisley-toning-lotion",
+  "verdict": "mismatch",
+  "note": "简谱图"
+ },
+ {
+  "id": "sk-ii-fte",
+  "verdict": "mismatch",
+  "note": "完全无关活动照片"
+ },
+ {
+  "id": "sk-ii-rna-cream",
+  "verdict": "mismatch",
+  "note": "电影海报无关"
+ },
+ {
+  "id": "sk-ii-genoptics-aura",
+  "verdict": "mismatch",
+  "note": "简谱无关"
+ },
+ {
+  "id": "sk-ii-ft-mask",
+  "verdict": "mismatch",
+  "note": "钢琴谱无关"
+ },
+ {
+  "id": "sk-ii-gentle-cleanser",
+  "verdict": "mismatch",
+  "note": "舞狮照片无关"
+ },
+ {
+  "id": "skinceuticals-ce-ferulic",
+  "verdict": "mismatch",
+  "note": "工业设备无关"
+ },
+ {
+  "id": "skinceuticals-hydrating-b5",
+  "verdict": "mismatch",
+  "note": "换热器原理图"
+ },
+ {
+  "id": "skinceuticals-age-interrupter",
+  "verdict": "mismatch",
+  "note": "游戏角色设计图"
+ },
+ {
+  "id": "valmont-prime-renewing",
+  "verdict": "mismatch",
+  "note": "电影票房表格"
+ },
+ {
+  "id": "valmont-prime-24h",
+  "verdict": "mismatch",
+  "note": "毕业插画无关"
+ },
+ {
+  "id": "valmont-hydra3",
+  "verdict": "mismatch",
+  "note": "吉他谱图片"
+ },
+ {
+  "id": "valmont-vline-cream",
+  "verdict": "mismatch",
+  "note": "方特logo图"
+ },
+ {
+  "id": "vaseline-lip",
+  "verdict": "mismatch",
+  "note": "数据中心机柜图"
+ },
+ {
+  "id": "vaseline-lotion",
+  "verdict": "mismatch",
+  "note": "世界地图图片"
+ },
+ {
+  "id": "vaseline-hand",
+  "verdict": "mismatch",
+  "note": "无关人像照片"
+ },
+ {
+  "id": "winona-sunscreen",
+  "verdict": "mismatch",
+  "note": "气象站设备场景"
+ },
+ {
+  "id": "winona-serum",
+  "verdict": "mismatch",
+  "note": "软件方法文档截图"
+ },
+ {
+  "id": "winona-cleanser",
+  "verdict": "mismatch",
+  "note": "中央空调设备"
+ },
+ {
+  "id": "winona-mask",
+  "verdict": "mismatch",
+  "note": "江西地形图"
+ }
+]

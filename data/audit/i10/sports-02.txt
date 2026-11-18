@@ -1,0 +1,10 @@
+anta-kt | 安踏 KT 系列篮球鞋(KT Series,篮球鞋) | 与 NBA 球星克莱·汤普森合作的签名篮球鞋,历经九代迭代,缓震扎实、实战耐磨,是国产签名鞋中口碑与销量兼具的系列。 | data\img\anta-kt.jpg
+anta-c202 | 安踏 C202 系列跑鞋(C202,竞速跑鞋) | 安踏碳板竞速跑鞋代表,面向马拉松比赛与高强度训练,中底回弹与推进力出色,助力大众跑者刷新个人最好成绩。 | data\img\anta-c202.jpg
+anta-hydrogen | 安踏 氢科技跑鞋(Hydrogen,轻量跑鞋) | 主打极致轻量的入门跑鞋,单只重量低至百克级,上脚几乎无负担,适合通勤、健走与轻松慢跑,价格亲民。 | data\img\anta-hydrogen.jpg
+anta-champions | 安踏 冠军系列(Champions,运动服饰) | 借势中国奥委会合作身份打造的运动时尚线,以「安踏冠军」为标识,含卫衣、T 恤与鞋款,奥运年热度尤高。 | data\img\anta-champions.jpg
+anta-kids | 安踏 安踏儿童(Anta Kids,童装) | 国内规模领先的儿童运动品牌,覆盖跑鞋、篮球鞋与运动服,以护足科技与分龄设计见长,是家长选购童鞋的热门选项。 | data\img\anta-kids.jpg
+anta-apparel | 安踏 综合运动服饰(Sportswear,运动服) | 覆盖健身、跑步与休闲场景的基础运动服系列,面料速干亲肤、版型宽松舒适,依托全国门店网络常年热销。 | data\img\anta-apparel.jpg
+arcteryx-alpha-sv | 始祖鸟 Alpha SV 冲锋衣(Alpha SV,硬壳冲锋衣) | 1998年问世的旗舰硬壳,GORE-TEX Pro面料与热压合无缝工艺的行业标杆,专为极限攀登而生,是始祖鸟的精神图腾。 | data\img\arcteryx-alpha-sv.jpg
+arcteryx-beta-lt | 始祖鸟 Beta LT 冲锋衣(Beta LT,硬壳冲锋衣) | 轻量通用型硬壳,兼顾防护与便携,城市通勤与山地徒步皆宜,是始祖鸟最畅销的冲锋衣系列之一。 | data\img\arcteryx-beta-lt.jpg
+arcteryx-atom | 始祖鸟 Atom 中间层(Atom,保暖中间层) | 经典的合成保暖中间层,弹力面料搭配Coreloft保暖棉,轻便透气、活动自如,是始祖鸟最日常的秋冬单品。 | data\img\arcteryx-atom.jpg
+arcteryx-cerium | 始祖鸟 Cerium 羽绒服(Cerium,羽绒服) | 850蓬鹅绒与轻量结构打造的羽绒服,压缩性好、保暖效率高,是始祖鸟冬季保暖线的代表作。 | data\img\arcteryx-cerium.jpg

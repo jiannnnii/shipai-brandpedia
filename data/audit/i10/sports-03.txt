@@ -1,0 +1,10 @@
+arcteryx-gamma | 始祖鸟 Gamma 软壳系列(Gamma,软壳外套) | 始祖鸟软壳代表作,耐磨弹力面料平衡防风与透气,攀登徒步皆有对应版型,是硬派户外风的衣橱主力。 | data\img\arcteryx-gamma.jpg
+arena-training-suit | 阿瑞娜 训练泳衣系列(Training Suit,训练泳衣) | 面向常年训练人群的泳装线,面料抗氯耐磨、版型包覆性好,价格比竞速线亲民,是俱乐部与泳队采购的大众之选。 | data\img\arena-training-suit.jpg
+arena-powerfin | 阿瑞娜 Powerfin 脚蹼(Powerfin,脚蹼) | 短款硅胶训练脚蹼,腿部发力反馈直接,帮助提升打腿效率与水感,是自由泳打腿训练的常用装备。 | data\img\arena-powerfin.jpg
+arena-cap | 阿瑞娜 硅胶泳帽(Silicone Cap,泳帽) | 高弹性硅胶泳帽,包裹服帖不易脱落,减少头发与氯水接触,颜色丰富,是泳包里的必备小件。 | data\img\arena-cap.jpg
+asics-gel-kayano | 亚瑟士 GEL-KAYANO(GEL-KAYANO,顶级缓震跑鞋) | 1993年问世的旗舰稳定缓震跑鞋,以设计师榧野俊一命名,大体重跑者的安心之选,至今已迭代三十余代,是亚瑟士的技术图腾。 | data\img\asics-gel-kayano.jpg
+asics-gt-2000 | 亚瑟士 GT-2000(GT-2000,支撑跑鞋) | 主力次顶级支撑跑鞋,为足内旋过度的跑者提供稳定引导,兼顾缓震与支撑,是马拉松备赛训练的可靠伙伴。 | data\img\asics-gt-2000.jpg
+asics-novablast | 亚瑟士 NOVABLAST(NOVABLAST,训练跑鞋) | 搭载FF BLAST泡棉的高弹训练鞋,蹦床般的回弹脚感自2020年发布即成网红,适合日常慢跑与节奏训练,颜值也在线。 | data\img\asics-novablast.jpg
+asics-metaspeed | 亚瑟士 METASPEED 系列(METASPEED,竞速碳板跑鞋) | 亚瑟士碳板竞速家族,按跑姿分为步频型Sky与步幅型Edge等版本分别调校,是亚洲跑者站上马拉松领奖台的常见战靴。 | data\img\asics-metaspeed.jpg
+asics-gel-1130 | 亚瑟士 GEL-1130(GEL-1130,复古跑鞋) | 2008年老鞋的复刻版本,银灰配色与简洁廓形在千禧风潮中翻红,日常通勤同样舒适,是亚瑟士潮流线的头号爆款。 | data\img\asics-gel-1130.jpg
+asics-gel-lyte-iii | 亚瑟士 GEL-LYTE III(GEL-LYTE III,复古跑鞋) | 1990年推出的经典复古跑鞋,分叉式鞋舌设计独树一帜,与潮流店铺联名无数,是亚瑟士潮流文化的起点。 | data\img\asics-gel-lyte-iii.jpg

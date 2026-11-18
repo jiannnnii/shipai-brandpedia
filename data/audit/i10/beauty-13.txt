@@ -1,0 +1,10 @@
+perfectdiary-foundation | 完美日记 薄透粉底液(Weightless Foundation,粉底) | 轻薄持妆的学生党底妆。 | data\img\perfectdiary-foundation.jpg
+perfectdiary-blush | 完美日记 马赛克腮红(Mosaic Blush,腮红) | 多色拼接腮红盘,一盘子打全脸。 | data\img\perfectdiary-blush.jpg
+perfectdiary-eyebrow | 完美日记 双头眉笔(Dual Brow Pencil,眉笔) | 极细笔头+眉刷,新手画眉第一支。 | data\img\perfectdiary-eyebrow.jpg
+proya-doubleantiox | 珀莱雅 双抗精华(Double Antioxidant Serum,精华) | 麦角硫因+虾青素双抗氧,「晚A」之外的另一条腿。 | data\img\proya-doubleantiox.jpg
+proya-ruby | 珀莱雅 红宝石精华(Ruby Serum,精华) | 六胜肽抗皱精华,「早C晚A」的A醇搭档。 | data\img\proya-ruby.jpg
+proya-energycream | 珀莱雅 能量面霜(Energy Cream,面霜) | A醇面霜的新手友好版本,建立耐受的好搭档。 | data\img\proya-energycream.jpg
+proya-sunscreen | 珀莱雅 羽感防晒(Feather Sunscreen,防晒) | 轻薄成膜不假白,国货防晒的口碑之作。 | data\img\proya-sunscreen.jpg
+proya-eye | 珀莱雅 红宝石眼霜(Ruby Eye Cream,眼霜) | 胜肽眼霜,熬夜党的细纹急救。 | data\img\proya-eye.jpg
+schwarzkopf-bubble | 施华蔻 泡泡染发乳(Bubble Color,染发剂) | 泡沫染发国民款,在家染发的第一支。 | data\img\schwarzkopf-bubble.jpg
+schwarzkopf-shampoo | 施华蔻 洗发水系列(Shampoo,洗发水) | 多效修护与控油蓬松线,德国洗护的日常。 | data\img\schwarzkopf-shampoo.jpg

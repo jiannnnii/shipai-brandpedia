@@ -1,0 +1,10 @@
+sk-ii-fte | SK-II 护肤精华露(神仙水)(Facial Treatment Essence,精华水) | 以90%以上Pitera™精萃为核心的传奇精华水,主打调理角质、平衡肤质、透亮肌肤,瓶身设计经典,是SK-II乃至亚洲护 | data\img\sk-ii-fte.jpg
+sk-ii-rna-cream | SK-II 肌源修护精华霜(大红瓶)(R.N.A. Power,面霜) | 主打紧致弹润的明星面霜,霜体柔润好推开,与神仙水搭配使用口碑尤佳,是SK-II护肤线的门面产品。 | data\img\sk-ii-rna-cream.jpg
+sk-ii-genoptics-aura | SK-II 环采钻白精华露(小灯泡)(GenOptics Aura Essence,精华) | SK-II焕亮线招牌,主打提亮肤色、淡化黯沉,与神仙水叠加使用是专柜经典组合,小灯泡的昵称深入人心。 | data\img\sk-ii-genoptics-aura.jpg
+sk-ii-ft-mask | SK-II 前男友面膜(Facial Treatment Mask,面膜) | 以高浓度Pitera™精华液浸润的单片面膜,敷后肌肤透亮饱满,因重要场合前一敷的急救口碑得名前男友面膜。 | data\img\sk-ii-ft-mask.jpg
+sk-ii-gentle-cleanser | SK-II 氨基酸洁面(Facial Treatment Gentle Cleanser,洁面) | 温和的氨基酸系洁面,绵密泡沫带走污垢的同时不破坏肌肤屏障,洗后柔润不紧绷,是SK-II护肤流程的第一步。 | data\img\sk-ii-gentle-cleanser.jpg
+skinceuticals-ce-ferulic | 修丽可 维生素CE阿魏酸精华(C E Ferulic,精华) | 抗氧化精华的全球标杆,以15%左旋维生素C、维生素E与阿魏酸的黄金配比著称,主打对抗自由基、提亮肤色、改善光老化。 | data\img\skinceuticals-ce-ferulic.jpg
+skinceuticals-hydrating-b5 | 修丽可 B5保湿精华(Hydrating B5,精华) | 以透明质酸与维生素B5为核心的保湿精华,质地清爽似水、水润易吸收,可叠加于任何护肤流程,是经典的补水打底款。 | data\img\skinceuticals-hydrating-b5.jpg
+skinceuticals-age-interrupter | 修丽可 AGE面霜(A.G.E. Interrupter,面霜) | 针对糖化引起的肌肤老化设计,主打改善粗糙松弛并提供深度滋润,适合熟龄与干性肌肤,是品牌抗老面霜线的招牌。 | data\img\skinceuticals-age-interrupter.jpg
+valmont-prime-renewing | 法尔曼 幸福面膜(Prime Renewing Mask,面膜) | 被称为幸福面膜的急救型面膜,短时即可让肌肤透亮细腻、倦容一扫而空,是亚洲高端美容圈层的现象级单品。 | data\img\valmont-prime-renewing.jpg
+valmont-prime-24h | 法尔曼 24小时面霜(Prime 24 Hours,面霜) | 主打全天候保湿的经典面霜,质地轻盈滋润,适合日常维稳,干皮四季可用,是Prime系列的口碑基础款。 | data\img\valmont-prime-24h.jpg

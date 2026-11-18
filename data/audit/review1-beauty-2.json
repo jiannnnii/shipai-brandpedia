@@ -1,0 +1,452 @@
+[
+ {
+  "id": "florasis-eyeshadow",
+  "brand": "花西子",
+  "name": "百鸟朝凤眼影盘",
+  "nameEn": "Phoenix Palette",
+  "type": "眼影",
+  "desc": "浮雕彩绘眼影,美到不舍得用。",
+  "file": "data\\img\\florasis-eyeshadow.jpg"
+ },
+ {
+  "id": "florasis-cushion",
+  "brand": "花西子",
+  "name": "玉容纱气垫",
+  "nameEn": "Cushion Foundation",
+  "type": "气垫",
+  "desc": "薄贴持妆的养肤气垫,东方妆感的代表。",
+  "file": "data\\img\\florasis-cushion.jpg"
+ },
+ {
+  "id": "fredericmalle-portrait",
+  "brand": "馥马尔",
+  "name": "窈窕如她",
+  "nameEn": "Portrait of a Lady",
+  "type": "香水",
+  "desc": "玫瑰+广藿香的浓墨重彩,现象级东方玫瑰。",
+  "file": "data\\img\\fredericmalle-portrait.jpg"
+ },
+ {
+  "id": "fredericmalle-rose",
+  "brand": "馥马尔",
+  "name": "一轮玫瑰",
+  "nameEn": "Une Rose",
+  "type": "香水",
+  "desc": "带着酒意与泥土的暗黑玫瑰。",
+  "file": "data\\img\\fredericmalle-rose.jpg"
+ },
+ {
+  "id": "fredericmalle-musc",
+  "brand": "馥马尔",
+  "name": "狂恋麝香",
+  "nameEn": "Musc Ravageur",
+  "type": "香水",
+  "desc": "传奇「枕边香」,皮肤般的性感麝香。",
+  "file": "data\\img\\fredericmalle-musc.jpg"
+ },
+ {
+  "id": "fredericmalle-candle",
+  "brand": "馥马尔",
+  "name": "香氛蜡烛",
+  "nameEn": "Candle",
+  "type": "香薰蜡烛",
+  "desc": "出版社同款香型的蜡烛版,书房气质。",
+  "file": "data\\img\\fredericmalle-candle.jpg"
+ },
+ {
+  "id": "freeplus-essence",
+  "brand": "芙丽芳丝",
+  "name": "保湿修护精华液",
+  "nameEn": "Essence",
+  "type": "精华",
+  "desc": "主打保湿与稳定肌肤状态的温和精华,质地清爽好推开,可与同系列水乳搭配,适合敏感肌日常打底。",
+  "file": "data\\img\\freeplus-essence.jpg"
+ },
+ {
+  "id": "guerlain-abeille-double-r",
+  "brand": "娇兰",
+  "name": "帝皇蜂姿双效修护精华",
+  "nameEn": "Abeille Royale Double R Serum",
+  "type": "精华",
+  "desc": "以法国黑蜂蜂蜜与蜂王浆精萃为核心,双管设计将焕亮与修护精华现用现调,主打紧致与细腻肤质,是娇兰护肤线的当家精华。",
+  "file": "data\\img\\guerlain-abeille-double-r.jpg"
+ },
+ {
+  "id": "guerlain-abeille-watery-oil",
+  "brand": "娇兰",
+  "name": "帝皇蜂姿修护复原蜜",
+  "nameEn": "Abeille Royale Youth Watery Oil",
+  "type": "精华油",
+  "desc": "质地介于精华与油之间的水质油,以黑蜂精萃为主,主打修护强韧,上脸清爽好吸收,可叠加于任意护肤流程,是娇兰的人气入门单品。",
+  "file": "data\\img\\guerlain-abeille-watery-oil.jpg"
+ },
+ {
+  "id": "guerlain-orchidee-imperiale",
+  "brand": "娇兰",
+  "name": "御廷兰花面霜",
+  "nameEn": "Orchidée Impériale",
+  "type": "面霜",
+  "desc": "娇兰顶级抗老线,以珍稀兰花精萃为核心,主打修护岁月痕迹,膏体丝滑、香气优雅,是专柜顶奢面霜的代表之一。",
+  "file": "data\\img\\guerlain-orchidee-imperiale.jpg"
+ },
+ {
+  "id": "guerlain-shalimar",
+  "brand": "娇兰",
+  "name": "一千零一夜香水",
+  "nameEn": "Shalimar",
+  "type": "香水",
+  "desc": "1925年问世的东方调传奇香水,以佛手柑开篇、香草收尾,灵感源于泰姬陵的爱情故事,是香水史上的里程碑之作。",
+  "file": "data\\img\\guerlain-shalimar.jpg"
+ },
+ {
+  "id": "guerlain-lprn",
+  "brand": "娇兰",
+  "name": "小黑裙香水",
+  "nameEn": "La Petite Robe Noire",
+  "type": "香水",
+  "desc": "娇兰当代人气香,樱桃与杏仁的俏皮甜香,瓶身如经典小黑裙,年轻可人,适合日常佩戴。",
+  "file": "data\\img\\guerlain-lprn.jpg"
+ },
+ {
+  "id": "helena-rubinstein-age-recovery",
+  "brand": "赫莲娜",
+  "name": "黑绷带面霜",
+  "nameEn": "Re-Plasty Age Recovery",
+  "type": "面霜",
+  "desc": "以高浓度玻色因为核心、灵感源自医美术后修护的晚霜,主打紧致修护、平滑细纹,因黑色包装得名黑绷带,是HR的招牌之作。",
+  "file": "data\\img\\helena-rubinstein-age-recovery.jpg"
+ },
+ {
+  "id": "helena-rubinstein-recovery-day",
+  "brand": "赫莲娜",
+  "name": "白绷带面霜",
+  "nameEn": "Re-Plasty Age Recovery Day Cream",
+  "type": "面霜",
+  "desc": "绷带家族的日间版本,主打日间修护与紧致提亮,质地较黑绷带轻盈,与其搭配构成经典的日夜修护组合。",
+  "file": "data\\img\\helena-rubinstein-recovery-day.jpg"
+ },
+ {
+  "id": "helena-rubinstein-powercell",
+  "brand": "赫莲娜",
+  "name": "绿宝瓶精华",
+  "nameEn": "Powercell Skinmunity",
+  "type": "精华",
+  "desc": "主打肌肤自愈力与强韧屏障的明星精华,绿色瓶身辨识度高,质地清爽好吸收,是HR入门与日常抗老的人气选择。",
+  "file": "data\\img\\helena-rubinstein-powercell.jpg"
+ },
+ {
+  "id": "helena-rubinstein-powercell-eye",
+  "brand": "赫莲娜",
+  "name": "绿宝瓶眼霜",
+  "nameEn": "Powercell Skinmunity Eye",
+  "type": "眼霜",
+  "desc": "绿宝瓶家族眼霜,主打紧致眼周、改善细纹与倦容,质地轻盈易吸收,适合日常眼周抗初老。",
+  "file": "data\\img\\helena-rubinstein-powercell-eye.jpg"
+ },
+ {
+  "id": "helena-rubinstein-cellglow",
+  "brand": "赫莲娜",
+  "name": "至美琉光精华面霜",
+  "nameEn": "Prodigy Cellglow Cream",
+  "type": "面霜",
+  "desc": "HR至美琉光高端线面霜,主打焕现肌肤莹润光泽与紧致弹润,以集团尖端抗老科技打造,是品牌奢华线的重要组成。",
+  "file": "data\\img\\helena-rubinstein-cellglow.jpg"
+ },
+ {
+  "id": "jomalone-lime",
+  "brand": "祖·玛珑",
+  "name": "青柠罗勒与柑橘",
+  "nameEn": "Lime Basil & Mandarin",
+  "type": "香水",
+  "desc": "1994年创业款,奠定品牌风格的灵魂香。",
+  "file": "data\\img\\jomalone-lime.jpg"
+ },
+ {
+  "id": "kerastase-mask",
+  "brand": "卡诗",
+  "name": "鱼子酱发膜",
+  "nameEn": "Masque Caviar",
+  "type": "发膜",
+  "desc": "沙龙级深层修护,受损烫染的救赎。",
+  "file": "data\\img\\kerastase-mask.jpg"
+ },
+ {
+  "id": "kerastase-blond",
+  "brand": "卡诗",
+  "name": " BLONDE ABSOLU 漂发线",
+  "nameEn": "Blond Absolu",
+  "type": "洗发水",
+  "desc": "专为漂金发设计,去黄固色。",
+  "file": "data\\img\\kerastase-blond.jpg"
+ },
+ {
+  "id": "kerastase-genifique",
+  "brand": "卡诗",
+  "name": "头皮精华",
+  "nameEn": "Initialiste",
+  "type": "头皮精华",
+  "desc": "把「精华」概念带入头皮,发根强韧。",
+  "file": "data\\img\\kerastase-genifique.jpg"
+ },
+ {
+  "id": "kose-softymo",
+  "brand": "高丝",
+  "name": "Softymo高速卸妆油",
+  "nameEn": "Softymo Speedy Cleansing Oil",
+  "type": "卸妆油",
+  "desc": "日本开架卸妆油的人气王,乳化迅速、清洁力强,冲水即净,大瓶平价,常年是日系平价卸妆的销量担当。",
+  "file": "data\\img\\kose-softymo.jpg"
+ },
+ {
+  "id": "kose-suncut",
+  "brand": "高丝",
+  "name": "SUNCUT防晒乳",
+  "nameEn": "SUNCUT",
+  "type": "防晒",
+  "desc": "高丝旗下高性价比防晒线,SPF50+高倍防护,质地清爽、部分版本带凉感,大容量适合户外与全身使用,常年位居日系防晒销量前",
+  "file": "data\\img\\kose-suncut.jpg"
+ },
+ {
+  "id": "kose-clear-turn",
+  "brand": "高丝",
+  "name": "Clear Turn精华面膜",
+  "nameEn": "Clear Turn",
+  "type": "面膜",
+  "desc": "高丝开架护肤线,以足量精华的面膜与管装精华著称,主打保湿提亮,平价大碗,是日本药妆的人气护肤品。",
+  "file": "data\\img\\kose-clear-turn.jpg"
+ },
+ {
+  "id": "kose-sekkisei",
+  "brand": "高丝",
+  "name": "雪肌精化妆水",
+  "nameEn": "SEKKISEI Lotion",
+  "type": "化妆水",
+  "desc": "以当归、薏仁等和汉植物萃取调和的传奇美白水,主打提亮肤色、改善黯沉,蓝白瓶身经典,自1985年问世以来畅销东亚。",
+  "file": "data\\img\\kose-sekkisei.jpg"
+ },
+ {
+  "id": "kose-visee-lip",
+  "brand": "高丝",
+  "name": "Visée唇膏",
+  "nameEn": "VISÉE",
+  "type": "唇膏",
+  "desc": "高丝旗下人气开架彩妆线,唇膏显色滋润,眼影与底妆同样受欢迎,设计精致,是日系妆容的常用品牌。",
+  "file": "data\\img\\kose-visee-lip.jpg"
+ },
+ {
+  "id": "la-mer-treatment-lotion",
+  "brand": "海蓝之谜",
+  "name": "修护精萃水",
+  "nameEn": "The Treatment Lotion",
+  "type": "精华水",
+  "desc": "护肤流程的第一步,以神奇活性精萃调理肌肤、为后续吸收打底,质地清透,兼具滋润与修护感。",
+  "file": "data\\img\\la-mer-treatment-lotion.jpg"
+ },
+ {
+  "id": "la-mer-lip-balm",
+  "brand": "海蓝之谜",
+  "name": "唇部修护膏",
+  "nameEn": "The Lip Balm",
+  "type": "唇膏",
+  "desc": "以品牌修护科技呵护干燥起皮的双唇,滋润修护力口碑极佳,是高端护唇的代表单品。",
+  "file": "data\\img\\la-mer-lip-balm.jpg"
+ },
+ {
+  "id": "la-mer-renewal-oil",
+  "brand": "海蓝之谜",
+  "name": "焕活精华油",
+  "nameEn": "The Renewal Oil",
+  "type": "精华油",
+  "desc": "将神奇活性精萃融入轻盈油质,滋润同时赋予光泽,可用于面部与局部多处滋养,是品牌油类单品的代表作。",
+  "file": "data\\img\\la-mer-renewal-oil.jpg"
+ },
+ {
+  "id": "la-prairie-luxe-cream",
+  "brand": "莱珀妮",
+  "name": "鱼子精华琼贵面霜",
+  "nameEn": "Skin Caviar Luxe Cream",
+  "type": "面霜",
+  "desc": "以鲟鱼子酱精萃为核心的招牌面霜,主打紧致提拉与奢华滋养,膏体细腻,是La Prairie最负盛名的单品之一。",
+  "file": "data\\img\\la-prairie-luxe-cream.jpg"
+ },
+ {
+  "id": "la-prairie-luxe-eye",
+  "brand": "莱珀妮",
+  "name": "鱼子精华琼贵眼霜",
+  "nameEn": "Skin Caviar Luxe Eye Cream",
+  "type": "眼霜",
+  "desc": "鱼子系列眼霜,主打紧致眼周、改善松弛与细纹,滋润而不厚重,延续系列一贯的奢华质感。",
+  "file": "data\\img\\la-prairie-luxe-eye.jpg"
+ },
+ {
+  "id": "la-prairie-white-caviar",
+  "brand": "莱珀妮",
+  "name": "白鱼子纯皙精华",
+  "nameEn": "White Caviar Illuminating Serum",
+  "type": "精华",
+  "desc": "白鱼子系列核心精华,主打焕亮肤色与匀净透亮,并延续鱼子紧致科技,是品牌焕亮线的招牌。",
+  "file": "data\\img\\la-prairie-white-caviar.jpg"
+ },
+ {
+  "id": "la-prairie-night-elixir",
+  "brand": "莱珀妮",
+  "name": "铂金夜间焕活精华",
+  "nameEn": "Platinum Rare Cellular Night Elixir",
+  "type": "精华",
+  "desc": "铂金系列高阶精华,主打夜间密集修护与紧致焕活,定价居于护肤品金字塔顶端,是品牌科技的巅峰表达。",
+  "file": "data\\img\\la-prairie-night-elixir.jpg"
+ },
+ {
+  "id": "la-roche-posay-cicaplast-b5",
+  "brand": "理肤泉",
+  "name": "B5多效修复霜",
+  "nameEn": "Cicaplast Baume B5",
+  "type": "修复霜",
+  "desc": "含泛醇与积雪草苷的万能修复霜,主打舒缓修复干燥粗糙与脆弱肌肤,大人小孩都能用,是家中常备的口碑药妆。",
+  "file": "data\\img\\la-roche-posay-cicaplast-b5.jpg"
+ },
+ {
+  "id": "la-roche-posay-uvmune-400",
+  "brand": "理肤泉",
+  "name": "大哥大防晒(UVMune 400)",
+  "nameEn": "Anthelios UVMune 400",
+  "type": "防晒",
+  "desc": "搭载麦色滤400滤剂的明星防晒,可防护长波UVA,肤感清润,防晒黑也防晒老,是防晒圈的现象级单品。",
+  "file": "data\\img\\la-roche-posay-uvmune-400.jpg"
+ },
+ {
+  "id": "la-roche-posay-hyalu-b5",
+  "brand": "理肤泉",
+  "name": "玻尿酸B5修复精华",
+  "nameEn": "Hyalu B5",
+  "type": "精华",
+  "desc": "含玻尿酸与泛醇的抗初老精华,主打饱满细纹、修护屏障,质地清爽好吸收,是理肤泉精华线的热销款。",
+  "file": "data\\img\\la-roche-posay-hyalu-b5.jpg"
+ },
+ {
+  "id": "lancome-genifique",
+  "brand": "兰蔻",
+  "name": "小黑瓶精华肌底液",
+  "nameEn": "Advanced Génifique",
+  "type": "精华",
+  "desc": "兰蔻王牌肌底精华,以二裂酵母发酵精萃与轻盈质地著称,帮助维稳修护、细腻肤质,自2009年问世以来屡经升级,常年位居全球高",
+  "file": "data\\img\\lancome-genifique.jpg"
+ },
+ {
+  "id": "lancome-tonique-douceur",
+  "brand": "兰蔻",
+  "name": "清滢柔肤水(粉水)",
+  "nameEn": "Tonique Douceur",
+  "type": "爽肤水",
+  "desc": "大名鼎鼎的兰蔻粉水,质地水润偏稠,主打保湿舒缓,适合干性与中性肤质,大容量装性价比突出,是无数人的兰蔻入门第一瓶。",
+  "file": "data\\img\\lancome-tonique-douceur.jpg"
+ },
+ {
+  "id": "lancome-teint-idole",
+  "brand": "兰蔻",
+  "name": "持妆轻透粉底液",
+  "nameEn": "Teint Idole Ultra Wear",
+  "type": "粉底液",
+  "desc": "遮瑕力与持妆力俱佳的经典粉底,主打长时间持妆持色、不易暗沉,油皮与混油皮口碑稳固,色号覆盖广泛。",
+  "file": "data\\img\\lancome-teint-idole.jpg"
+ },
+ {
+  "id": "lancome-labsolu-rouge",
+  "brand": "兰蔻",
+  "name": "菁纯唇膏",
+  "nameEn": "L'Absolu Rouge",
+  "type": "唇膏",
+  "desc": "兰蔻经典口红系列,膏体滋润显色,经典色号热度经久不衰,是专柜彩妆区的长青款。",
+  "file": "data\\img\\lancome-labsolu-rouge.jpg"
+ },
+ {
+  "id": "lancome-la-vie-est-belle",
+  "brand": "兰蔻",
+  "name": "珍爱香水",
+  "nameEn": "La Vie Est Belle",
+  "type": "香水",
+  "desc": "兰蔻现象级女香,以甜美美食调著称,瓶身取水晶微笑意象,自上市以来一直是全球女香畅销榜的常客。",
+  "file": "data\\img\\lancome-la-vie-est-belle.jpg"
+ },
+ {
+  "id": "lancome-genifique-eye",
+  "brand": "兰蔻",
+  "name": "小黑瓶眼霜",
+  "nameEn": "Advanced Génifique Eye Cream",
+  "type": "眼霜",
+  "desc": "小黑瓶家族的眼部版本,质地轻盈易推开,主打改善眼周细纹与倦容,是兰蔻眼部护理的人气之选。",
+  "file": "data\\img\\lancome-genifique-eye.jpg"
+ },
+ {
+  "id": "loreal-paris-youth-code",
+  "brand": "欧莱雅",
+  "name": "青春密码酵粹精华",
+  "nameEn": "Youth Code",
+  "type": "精华",
+  "desc": "被称为小黑瓶平替的国民精华,以酵母精粹为核心,主打细腻肌肤、帮助后续吸收,价格亲民,是电商精华类的长青爆款。",
+  "file": "data\\img\\loreal-paris-youth-code.jpg"
+ },
+ {
+  "id": "loreal-paris-ampoule-mask",
+  "brand": "欧莱雅",
+  "name": "复颜安瓶面膜",
+  "nameEn": "Revitalift Ampoule Mask",
+  "type": "面膜",
+  "desc": "以足量玻尿酸精华浸润的片状面膜,主打密集补水、敷后水润透亮,单片价格亲民,是平价面膜里的口碑爆款。",
+  "file": "data\\img\\loreal-paris-ampoule-mask.jpg"
+ },
+ {
+  "id": "loreal-paris-infallible",
+  "brand": "欧莱雅",
+  "name": "恒放溢彩持妆粉底液",
+  "nameEn": "Infallible 24H Fresh Wear",
+  "type": "粉底液",
+  "desc": "主打长时间持妆不脱妆的开架粉底,色号丰富、价格亲民、妆效自然,常年是大牌开架粉底的销量担当。",
+  "file": "data\\img\\loreal-paris-infallible.jpg"
+ },
+ {
+  "id": "loreal-paris-uv-perfect",
+  "brand": "欧莱雅",
+  "name": "小金管防晒乳",
+  "nameEn": "UV Perfect",
+  "type": "防晒",
+  "desc": "携集团防晒滤剂科技的大众防晒,SPF50+高倍防护、质地清润,价格亲民,是通勤日常的高性价比之选。",
+  "file": "data\\img\\loreal-paris-uv-perfect.jpg"
+ },
+ {
+  "id": "mac-chili",
+  "brand": "魅可",
+  "name": "子弹头 Chili 小辣椒",
+  "nameEn": "Matte Lipstick Chili",
+  "type": "口红",
+  "desc": "砖红显白的中文网络初代网红色。",
+  "file": "data\\img\\mac-chili.jpg"
+ },
+ {
+  "id": "mac-fixplus",
+  "brand": "魅可",
+  "name": "Fix+ 定妆喷雾",
+  "nameEn": "Prep + Prime Fix+",
+  "type": "定妆喷雾",
+  "desc": "化妆师后台万能喷雾,定妆提亮两相宜。",
+  "file": "data\\img\\mac-fixplus.jpg"
+ },
+ {
+  "id": "mac-lipglass",
+  "brand": "魅可",
+  "name": "Lipglass 唇彩",
+  "nameEn": "Lipglass",
+  "type": "唇彩",
+  "desc": "镜面玻璃唇的发明者,Y2K 妆容回归的宠儿。",
+  "file": "data\\img\\mac-lipglass.jpg"
+ },
+ {
+  "id": "maxfactor-foundation",
+  "brand": "蜜丝佛陀",
+  "name": "莹亮润泽粉底液",
+  "nameEn": "Miracle Touch",
+  "type": "粉底",
+  "desc": "奶油肌开架粉底,中国专柜的经典畅销。",
+  "file": "data\\img\\maxfactor-foundation.jpg"
+ }
+]

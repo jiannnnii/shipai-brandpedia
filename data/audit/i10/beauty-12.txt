@@ -1,0 +1,10 @@
+neutrogena-sunscreen | 露得清 清透防晒(Ultra Sheer,防晒) | Helioplex 稳定技术,轻薄高倍防晒。 | data\img\neutrogena-sunscreen.jpg
+neutrogena-hand | 露得清 挪威配方护手霜(Norwegian Formula,护手霜) | 高浓度甘油浓缩,一支顶一月。 | data\img\neutrogena-hand.jpg
+neutrogena-hydro | 露得清 水活保湿凝胶(Hydro Boost,保湿) | 玻尿酸啫喱质地,油皮保湿清爽款。 | data\img\neutrogena-hydro.jpg
+nivea-cream | 妮维雅 蓝罐润肤霜(NIVEA Creme,润肤霜) | 百年蓝罐,全家从头擦到脚的万能霜。 | data\img\nivea-cream.jpg
+nivea-hand | 妮维雅 护手霜(Hand Cream,护手霜) | 学生党人手一支的秋冬护手。 | data\img\nivea-hand.jpg
+penhaligons-fox | 潘海利根 狐狸兽首(露西尔)(The Tragedy of Lord George,香水) | 兽首系列的爆款主角,甜咸交织的贵族气。 | data\img\penhaligons-fox.jpg
+penhaligons-hammam | 潘海利根 土耳其浴场(Hammam Bouquet,香水) | 1872年的第一瓶香,玫瑰与香料的蒸汽浴室。 | data\img\penhaligons-hammam.jpg
+penhaligons-halfeti | 潘海利根 黑玫瑰海菲缇(Halfeti,香水) | 土耳其黑玫瑰,浓郁神秘的东方调。 | data\img\penhaligons-halfeti.jpg
+perfectdiary-animal | 完美日记 探险家动物眼影盘(Explorer Palette,眼影) | 小猪斑虎鳄鱼盘,国货眼影的现象级爆款。 | data\img\perfectdiary-animal.jpg
+perfectdiary-lip | 完美日记 名片唇釉(Name Card Lip,唇釉) | 名片造型的哑光唇釉,平价显白。 | data\img\perfectdiary-lip.jpg

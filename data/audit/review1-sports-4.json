@@ -1,0 +1,443 @@
+[
+ {
+  "id": "salomon-x-ultra",
+  "brand": "萨洛蒙",
+  "name": "X Ultra",
+  "nameEn": "X Ultra",
+  "type": "徒步鞋",
+  "desc": "畅销全球的徒步鞋系列,低帮轻便、防水与支撑兼备,适合多日徒步与日常山径行走,是入门户外玩家的首选之一。",
+  "file": "data\\img\\salomon-x-ultra.jpg"
+ },
+ {
+  "id": "salomon-xa-pro-3d",
+  "brand": "萨洛蒙",
+  "name": "XA PRO 3D",
+  "nameEn": "XA PRO 3D",
+  "type": "越野跑鞋",
+  "desc": "经典全能越野鞋,3D稳定框架与耐磨大底兼顾碎石与山地路况,结实耐用,深受重装徒步与越野玩家信赖。",
+  "file": "data\\img\\salomon-xa-pro-3d.jpg"
+ },
+ {
+  "id": "saucony-endorphin",
+  "brand": "索康尼",
+  "name": "Endorphin 系列",
+  "nameEn": "Endorphin",
+  "type": "碳板竞速跑鞋",
+  "desc": "家族式竞速矩阵,Pro为比赛日战靴、Speed为节奏训练鞋,PWRRUN PB泡棉加碳板,是近年公认性价比最高的碳板跑鞋",
+  "file": "data\\img\\saucony-endorphin.jpg"
+ },
+ {
+  "id": "saucony-triumph",
+  "brand": "索康尼",
+  "name": "Triumph 胜利",
+  "nameEn": "Triumph",
+  "type": "缓震训练跑鞋",
+  "desc": "旗舰缓震训练鞋,厚实软弹的PWRRUN+中底专为长距离慢跑打造,与支撑系Guide并称索康尼两大国民系列。",
+  "file": "data\\img\\saucony-triumph.jpg"
+ },
+ {
+  "id": "saucony-guide",
+  "brand": "索康尼",
+  "name": "Guide 指南",
+  "nameEn": "Guide",
+  "type": "支撑跑鞋",
+  "desc": "经典支撑系跑鞋,为扁平足与足内旋过度跑者提供稳定保护,缓震均衡、结实耐用,是入门支撑鞋的稳妥之选。",
+  "file": "data\\img\\saucony-guide.jpg"
+ },
+ {
+  "id": "saucony-kinvara",
+  "brand": "索康尼",
+  "name": "Kinvara 菁华",
+  "nameEn": "Kinvara",
+  "type": "轻量训练跑鞋",
+  "desc": "2010年开创的轻量训练鞋,首创4毫米低落差设计,轻快灵活,曾是无数跑者的第一双进阶跑鞋。",
+  "file": "data\\img\\saucony-kinvara.jpg"
+ },
+ {
+  "id": "saucony-ride",
+  "brand": "索康尼",
+  "name": "Ride",
+  "nameEn": "Ride",
+  "type": "缓震训练跑鞋",
+  "desc": "均衡耐用的日常训练跑鞋,缓震与支撑中规中矩、适应面广,是索康尼的销量基本盘,适合各水平跑者。",
+  "file": "data\\img\\saucony-ride.jpg"
+ },
+ {
+  "id": "saucony-shadow",
+  "brand": "索康尼",
+  "name": "Shadow 复古系列",
+  "nameEn": "Shadow",
+  "type": "复古跑鞋",
+  "desc": "1980年代经典跑鞋的复刻,绒面革拼接与灰蓝配色尽显美式复古,是索康尼进军潮流领域的代表鞋型。",
+  "file": "data\\img\\saucony-shadow.jpg"
+ },
+ {
+  "id": "snowpeak-amenity-dome",
+  "brand": "雪峰",
+  "name": "Amenity Dome 帐篷",
+  "nameEn": "Amenity Dome",
+  "type": "帐篷",
+  "desc": "雪峰长销三十余年的经典帐篷,抗风稳定、空间宽敞,长时间使用依然坚挺,是家庭露营与严酷环境的可靠庇护所。",
+  "file": "data\\img\\snowpeak-amenity-dome.jpg"
+ },
+ {
+  "id": "snowpeak-titanium-cookware",
+  "brand": "雪峰",
+  "name": "钛合金餐具",
+  "nameEn": "Titanium Cookware",
+  "type": "户外餐具",
+  "desc": "以纯钛打造的轻量餐具与锅具,重量极轻、导热适中且无金属异味,折叠收纳后几乎不占空间,是轻量露营标配。",
+  "file": "data\\img\\snowpeak-titanium-cookware.jpg"
+ },
+ {
+  "id": "snowpeak-lantern",
+  "brand": "雪峰",
+  "name": "露营灯系列",
+  "nameEn": "Lanterns",
+  "type": "露营灯",
+  "desc": "从汽灯到 LED 营灯的照明产品线,黄铜与不锈钢材质质感出众,暖光氛围绝佳,是雪峰美学的重要组成。",
+  "file": "data\\img\\snowpeak-lantern.jpg"
+ },
+ {
+  "id": "snowpeak-takibi-apparel",
+  "brand": "雪峰",
+  "name": "Takibi 服饰系列",
+  "nameEn": "Takibi Wear",
+  "type": "户外服饰",
+  "desc": "以篝火场景为灵感的户外服饰系列,面料厚实耐磨,版型日系宽松,兼顾营地活动与日常穿搭,深受山系穿搭爱好者喜爱。",
+  "file": "data\\img\\snowpeak-takibi-apparel.jpg"
+ },
+ {
+  "id": "spalding-nba-game-ball",
+  "brand": "斯伯丁",
+  "name": "NBA 比赛用球",
+  "nameEn": "NBA Game Ball",
+  "type": "篮球",
+  "desc": "1983 至 2021 年作为 NBA 官方比赛用球的经典篮球,PU 复刻版手感扎实,是无数中国篮球爱好者的第一颗「正式",
+  "file": "data\\img\\spalding-nba-game-ball.jpg"
+ },
+ {
+  "id": "spalding-tf-1000",
+  "brand": "斯伯丁",
+  "name": "TF-1000 篮球",
+  "nameEn": "TF-1000",
+  "type": "篮球",
+  "desc": "斯伯丁高阶训练比赛用球,内胆气密性与圆度表现出色,皮质耐磨防滑,广泛用于大学与半职业赛场,口碑经久不衰。",
+  "file": "data\\img\\spalding-tf-1000.jpg"
+ },
+ {
+  "id": "spalding-neverflat",
+  "brand": "斯伯丁",
+  "name": "NeverFlat 恒压篮球",
+  "nameEn": "NeverFlat",
+  "type": "篮球",
+  "desc": "采用恒压内胆科技,长时间使用不易漏气,免去频繁打气的烦恼,适合学校场馆与家庭长期使用,省心省力。",
+  "file": "data\\img\\spalding-neverflat.jpg"
+ },
+ {
+  "id": "spalding-portable-hoop",
+  "brand": "斯伯丁",
+  "name": "移动式篮架",
+  "nameEn": "Portable Hoop System",
+  "type": "篮架",
+  "desc": "家用与社区篮架产品,含可调节篮板、篮网与稳固底座,升降高度灵活,让后院与小区空地变身标准球场。",
+  "file": "data\\img\\spalding-portable-hoop.jpg"
+ },
+ {
+  "id": "spalding-rookie",
+  "brand": "斯伯丁",
+  "name": "儿童轻量篮球",
+  "nameEn": "Rookie Gear",
+  "type": "篮球",
+  "desc": "针对儿童设计的轻量小号篮球,降低重量与周长,孩子投篮更省力,帮助建立正确投篮动作,是入门训练的好帮手。",
+  "file": "data\\img\\spalding-rookie.jpg"
+ },
+ {
+  "id": "speedo-endurance-plus",
+  "brand": "速比涛",
+  "name": "Endurance+ 训练泳裤",
+  "nameEn": "Endurance+",
+  "type": "训练泳裤",
+  "desc": "采用 Endurance+ 抗氯面料,久泡泳池不易变形褪色,速干耐穿,是常年训练者与健身泳客最经典的选择。",
+  "file": "data\\img\\speedo-endurance-plus.jpg"
+ },
+ {
+  "id": "speedo-biofuse",
+  "brand": "速比涛",
+  "name": "Biofuse 泳镜",
+  "nameEn": "Biofuse",
+  "type": "泳镜",
+  "desc": "柔性镜框贴合面部轮廓,佩戴柔软不勒眼眶,防雾镜片视野清晰,是速比涛销量很高的日常训练泳镜系列。",
+  "file": "data\\img\\speedo-biofuse.jpg"
+ },
+ {
+  "id": "speedo-training-fin",
+  "brand": "速比涛",
+  "name": "训练脚蹼",
+  "nameEn": "Training Fin",
+  "type": "脚蹼",
+  "desc": "短款训练脚蹼,帮助改善打腿姿势、增强腿部力量,配合同系列手蹼与浮板可组成完整训练体系,是泳队常用教具。",
+  "file": "data\\img\\speedo-training-fin.jpg"
+ },
+ {
+  "id": "speedo-fitness-swimsuit",
+  "brand": "速比涛",
+  "name": "健身泳衣系列",
+  "nameEn": "Fitness Swimsuit",
+  "type": "健身泳衣",
+  "desc": "面向健身与度假场景的女式连体泳衣,剪裁修饰身形,兼具运动支撑与时尚设计,是速比涛大众线的主力品类。",
+  "file": "data\\img\\speedo-fitness-swimsuit.jpg"
+ },
+ {
+  "id": "thenorthface-1996-nuptse",
+  "brand": "北面",
+  "name": "1996 复古 Nuptse 羽绒服",
+  "nameEn": "1996 Retro Nuptse",
+  "type": "羽绒服",
+  "desc": "1996年远征羽绒服的复刻,超大廓形与亮面尼龙质感,高蓬鹅绒填充保暖扎实,是北面最出圈的潮流单品,冬季街头随处可见。",
+  "file": "data\\img\\thenorthface-1996-nuptse.jpg"
+ },
+ {
+  "id": "thenorthface-1990-mountain-jacket",
+  "brand": "北面",
+  "name": "1990 Mountain Jacket",
+  "nameEn": "1990 Mountain Jacket",
+  "type": "冲锋衣",
+  "desc": "1990年登山夹克的复刻经典,硬朗廓形与撞色配色成为街头文化符号,曾与Supreme等品牌长期联名。",
+  "file": "data\\img\\thenorthface-1990-mountain-jacket.jpg"
+ },
+ {
+  "id": "thenorthface-summit-series",
+  "brand": "北面",
+  "name": "Summit Series 顶级系列",
+  "nameEn": "Summit Series",
+  "type": "专业户外服装",
+  "desc": "北面的专业极限产品线,为攀登、滑雪、越野精英打造,汇聚品牌最顶尖的面料与工艺,是户外硬核玩家的选择。",
+  "file": "data\\img\\thenorthface-summit-series.jpg"
+ },
+ {
+  "id": "thenorthface-futurelight",
+  "brand": "北面",
+  "name": "FUTURELIGHT 冲锋衣",
+  "nameEn": "FUTURELIGHT Shell",
+  "type": "冲锋衣",
+  "desc": "2019年推出的透气防水科技面料系列,纳米级透气孔结构兼顾防水与呼吸性,是北面新一代硬壳的技术招牌。",
+  "file": "data\\img\\thenorthface-futurelight.jpg"
+ },
+ {
+  "id": "thenorthface-denali",
+  "brand": "北面",
+  "name": "Denali 抓绒衣",
+  "nameEn": "Denali",
+  "type": "抓绒衣",
+  "desc": "1988年问世的经典抓绒外套,厚实耐磨、抗风保暖,曾伴随一代登山者远征,至今仍是秋冬层搭的主力。",
+  "file": "data\\img\\thenorthface-denali.jpg"
+ },
+ {
+  "id": "thenorthface-vectiv",
+  "brand": "北面",
+  "name": "VECTIV 跑鞋",
+  "nameEn": "VECTIV",
+  "type": "越野跑鞋",
+  "desc": "北面的越野跑鞋科技平台,摇椅型中底加3D底板提升推进与稳定,问世后迅速在山野赛场站稳脚跟。",
+  "file": "data\\img\\thenorthface-vectiv.jpg"
+ },
+ {
+  "id": "thenorthface-borealis",
+  "brand": "北面",
+  "name": "Borealis 背包",
+  "nameEn": "Borealis",
+  "type": "双肩背包",
+  "desc": "畅销多年的经典通勤双肩包,28升容量搭配FlexVent背负系统,减震肩带与丰富收纳深受学生与通勤族喜爱。",
+  "file": "data\\img\\thenorthface-borealis.jpg"
+ },
+ {
+  "id": "toread-3in1-jacket",
+  "brand": "探路者",
+  "name": "三合一冲锋衣",
+  "nameEn": "3-in-1 Jacket",
+  "type": "三合一冲锋衣",
+  "desc": "探路者销量最大的品类,外层防水冲锋衣加可拆卸抓绒内胆,秋冬两穿、防风保暖,通勤登山两相宜。",
+  "file": "data\\img\\toread-3in1-jacket.jpg"
+ },
+ {
+  "id": "toread-down-jacket",
+  "brand": "探路者",
+  "name": "户外羽绒服",
+  "nameEn": "Down Jacket",
+  "type": "羽绒服",
+  "desc": "主打保暖与防泼水的户外羽绒服,充绒量实在、版型日常,冬季通勤与轻户外场景性价比突出。",
+  "file": "data\\img\\toread-down-jacket.jpg"
+ },
+ {
+  "id": "toread-hiking-shoes",
+  "brand": "探路者",
+  "name": "防水徒步鞋",
+  "nameEn": "Hiking Shoes",
+  "type": "徒步鞋",
+  "desc": "面向大众徒步场景的登山鞋,防水鞋面加耐磨大底,抓地稳健,适合郊野步道与轻装登山。",
+  "file": "data\\img\\toread-hiking-shoes.jpg"
+ },
+ {
+  "id": "toread-fleece",
+  "brand": "探路者",
+  "name": "抓绒衣",
+  "nameEn": "Fleece",
+  "type": "抓绒衣",
+  "desc": "轻盈保暖的抓绒外套,可作中间层也可单穿,价格亲民,是家庭露营与日常保暖的实惠之选。",
+  "file": "data\\img\\toread-fleece.jpg"
+ },
+ {
+  "id": "toread-quick-dry-tee",
+  "brand": "探路者",
+  "name": "速干T恤",
+  "nameEn": "Quick-Dry Tee",
+  "type": "速干衣",
+  "desc": "吸湿速干的功能T恤,透气轻量,徒步露营与夏日出行皆宜,是入门户外服饰的走量款式。",
+  "file": "data\\img\\toread-quick-dry-tee.jpg"
+ },
+ {
+  "id": "toread-backpack",
+  "brand": "探路者",
+  "name": "户外背包",
+  "nameEn": "Outdoor Backpack",
+  "type": "双肩背包",
+  "desc": "从一日徒步到多日露营的多容量背包线,背负系统与收纳分区实用,价格友好,适合户外新手。",
+  "file": "data\\img\\toread-backpack.jpg"
+ },
+ {
+  "id": "vans-old-skool",
+  "brand": "范斯",
+  "name": "Old Skool",
+  "nameEn": "Old Skool",
+  "type": "滑板鞋",
+  "desc": "Vans最具代表性的鞋型,首条皮革侧边条纹由创始人保罗随手画就,低帮鞋身百搭耐造,是滑板鞋的经典模板。",
+  "file": "data\\img\\vans-old-skool.jpg"
+ },
+ {
+  "id": "vans-authentic",
+  "brand": "范斯",
+  "name": "Authentic",
+  "nameEn": "Authentic",
+  "type": "滑板鞋",
+  "desc": "1966年的开山鞋型,最纯粹的低帮帆布硫化鞋,简单轻便、配色海量,是Vans精神的原点。",
+  "file": "data\\img\\vans-authentic.jpg"
+ },
+ {
+  "id": "vans-slip-on",
+  "brand": "范斯",
+  "name": "Slip-On 一脚蹬",
+  "nameEn": "Slip-On",
+  "type": "一脚蹬帆布鞋",
+  "desc": "1979年问世的免系带一脚蹬,红白棋盘格随1982年电影爆红,穿脱方便又自带慵懒街头气质。",
+  "file": "data\\img\\vans-slip-on.jpg"
+ },
+ {
+  "id": "vans-half-cab",
+  "brand": "范斯",
+  "name": "Half Cab",
+  "nameEn": "Half Cab",
+  "type": "滑板鞋",
+  "desc": "1992年为传奇滑手史蒂夫·卡巴莱罗改造的中帮鞋,砍掉高帮的Half Cab命名直白,是滑板鞋史上的殿堂设计。",
+  "file": "data\\img\\vans-half-cab.jpg"
+ },
+ {
+  "id": "wilson-pro-staff",
+  "brand": "威尔胜",
+  "name": "Pro Staff 网球拍",
+  "nameEn": "Pro Staff",
+  "type": "网球拍",
+  "desc": "威尔胜传奇职业拍系列,桑普拉斯与费德勒的成名武器,拍感扎实、控制精准,是进阶球员心中的殿堂级经典。",
+  "file": "data\\img\\wilson-pro-staff.jpg"
+ },
+ {
+  "id": "wilson-clash",
+  "brand": "威尔胜",
+  "name": "Clash 网球拍",
+  "nameEn": "Clash",
+  "type": "网球拍",
+  "desc": "威尔胜近年最热门的创新球拍,柔性碳纤维框架带来高弹性与高容错,底线对攻省力舒适,上市即成全球畅销款。",
+  "file": "data\\img\\wilson-clash.jpg"
+ },
+ {
+  "id": "wilson-a2000",
+  "brand": "威尔胜",
+  "name": "A2000 棒球手套",
+  "nameEn": "A2000",
+  "type": "棒球手套",
+  "desc": "威尔胜旗舰棒球手套,Pro Stock 皮革经久耐用,版型历经数十年打磨,是大联盟球员与业余强手广泛使用的高阶手套。",
+  "file": "data\\img\\wilson-a2000.jpg"
+ },
+ {
+  "id": "wilson-nfl-football",
+  "brand": "威尔胜",
+  "name": "NFL 比赛用球",
+  "nameEn": "The Duke",
+  "type": "美式橄榄球",
+  "desc": "自 1941 年起担任 NFL 官方比赛用球,The Duke 皮革橄榄球纹路清晰、握感扎实,是橄榄球运动当之无愧的标志",
+  "file": "data\\img\\wilson-nfl-football.jpg"
+ },
+ {
+  "id": "wilson-evolution",
+  "brand": "威尔胜",
+  "name": "Evolution 篮球",
+  "nameEn": "Evolution",
+  "type": "篮球",
+  "desc": "北美校园篮球的经典用球,超细纤维皮面吸湿防滑、弹跳一致性出色,室内训练手感一流,常年是美国高中赛场的热门选择。",
+  "file": "data\\img\\wilson-evolution.jpg"
+ },
+ {
+  "id": "xtep-160x",
+  "brand": "特步",
+  "name": "160X 系列跑鞋",
+  "nameEn": "160X",
+  "type": "竞速跑鞋",
+  "desc": "特步旗舰碳板竞速跑鞋,是中国精英马拉松选手的战靴,多位国家队选手穿着它刷新全国纪录,堪称国产碳板鞋的标杆之作。",
+  "file": "data\\img\\xtep-160x.jpg"
+ },
+ {
+  "id": "xtep-260",
+  "brand": "特步",
+  "name": "260 系列跑鞋",
+  "nameEn": "260",
+  "type": "训练跑鞋",
+  "desc": "160X 的训练搭档,缓震与支撑均衡,可胜任长距离慢跑与课表训练,价格亲民,是大众跑者的月跑量担当。",
+  "file": "data\\img\\xtep-260.jpg"
+ },
+ {
+  "id": "yonex-astrox",
+  "brand": "尤尼克斯",
+  "name": "天斧系列球拍",
+  "nameEn": "ASTROX",
+  "type": "羽毛球拍",
+  "desc": "尤尼克斯头重进攻型球拍代表,连续下压威力十足,天斧 99Pro 与 100ZZ 等型号被顶级单打选手广泛使用,是进攻型爱",
+  "file": "data\\img\\yonex-astrox.jpg"
+ },
+ {
+  "id": "yonex-nanoflare",
+  "brand": "尤尼克斯",
+  "name": "疾光系列球拍",
+  "nameEn": "NANOFLARE",
+  "type": "羽毛球拍",
+  "desc": "主打极速挥拍的破风框球拍,拍框切风阻力小,双打平抽挡优势明显,疾光 800Pro 是职业双打赛场最常见的球拍之一。",
+  "file": "data\\img\\yonex-nanoflare.jpg"
+ },
+ {
+  "id": "yonex-power-cushion",
+  "brand": "尤尼克斯",
+  "name": "Power Cushion 羽毛球鞋",
+  "nameEn": "Power Cushion",
+  "type": "羽毛球鞋",
+  "desc": "以招牌「Power Cushion」吸震回弹科技打造,配合防滑大底与侧向支撑,急停跳跃更安心,是羽毛球鞋领域的标杆产品。",
+  "file": "data\\img\\yonex-power-cushion.jpg"
+ },
+ {
+  "id": "yonex-aerosensa",
+  "brand": "尤尼克斯",
+  "name": "Aerosensa 比赛用球",
+  "nameEn": "Aerosensa",
+  "type": "羽毛球",
+  "desc": "鸭毛比赛用球,飞行稳定、耐打度好,是众多业余赛事的指定用球,按耐打程度分为 AS-9、AS-30 等多个型号。",
+  "file": "data\\img\\yonex-aerosensa.jpg"
+ }
+]

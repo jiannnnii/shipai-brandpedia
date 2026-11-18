@@ -1,0 +1,452 @@
+[
+ {
+  "id": "acquadiparma-colonia",
+  "brand": "帕尔玛之水",
+  "name": "经典古龙水",
+  "nameEn": "Colonia",
+  "type": "香水",
+  "desc": "1916年配方,西西里柑橘与英式薰衣草的绅士签名。",
+  "file": "data\\img\\acquadiparma-colonia.jpg"
+ },
+ {
+  "id": "acquadiparma-blu",
+  "brand": "帕尔玛之水",
+  "name": "蓝色地中海系列",
+  "nameEn": "Blu Mediterraneo",
+  "type": "香水",
+  "desc": "阿玛菲无花果等度假系列,地中海的阳光。",
+  "file": "data\\img\\acquadiparma-blu.jpg"
+ },
+ {
+  "id": "acquadiparma-candle",
+  "brand": "帕尔玛之水",
+  "name": "家居香薰",
+  "nameEn": "Home Fragrance",
+  "type": "香薰",
+  "desc": "黑黄配色的室内香氛,意式客厅。",
+  "file": "data\\img\\acquadiparma-candle.jpg"
+ },
+ {
+  "id": "acquadiparma-leather",
+  "brand": "帕尔玛之水",
+  "name": "皮革系列",
+  "nameEn": "Leather Collection",
+  "type": "香水",
+  "desc": "Colonia Leather 皮革线,西装革履的味道。",
+  "file": "data\\img\\acquadiparma-leather.jpg"
+ },
+ {
+  "id": "acquadiparma-bag",
+  "brand": "帕尔玛之水",
+  "name": "旅行香氛套装",
+  "nameEn": "Travel Set",
+  "type": "礼盒",
+  "desc": "黄标旅行喷雾套装,差旅绅士的标配。",
+  "file": "data\\img\\acquadiparma-bag.jpg"
+ },
+ {
+  "id": "albion-skin-conditioner",
+  "brand": "奥尔滨",
+  "name": "健康水",
+  "nameEn": "Skin Conditioner",
+  "type": "化妆水",
+  "desc": "以薏米萃取为核心调理成分的经典化妆水,主打改善粗糙、稳定肤质,知名度与回购率俱佳,是奥尔滨的招牌单品。",
+  "file": "data\\img\\albion-skin-conditioner.jpg"
+ },
+ {
+  "id": "albion-excia-oil",
+  "brand": "奥尔滨",
+  "name": "雅思焕白精华油",
+  "nameEn": "Excia Whitening Oil",
+  "type": "精华油",
+  "desc": "雅思(Excia)系列人气精华油,以轻盈油感滋养肌肤、改善干燥黯沉,秋冬干皮尤其喜爱,是高端线中口碑不错的单品。",
+  "file": "data\\img\\albion-excia-oil.jpg"
+ },
+ {
+  "id": "ateliercologne-orange",
+  "brand": "欧珑",
+  "name": "赤霞橘光",
+  "nameEn": "Orange Sanguine",
+  "type": "香水",
+  "desc": "血橙的阳光活力,元气少女标配。",
+  "file": "data\\img\\ateliercologne-orange.jpg"
+ },
+ {
+  "id": "ateliercologne-cedre",
+  "brand": "欧珑",
+  "name": "梦幻香柏",
+  "nameEn": "Cedre Atlas",
+  "type": "香水",
+  "desc": "雪松的干净温柔,「大男孩的床单味」。",
+  "file": "data\\img\\ateliercologne-cedre.jpg"
+ },
+ {
+  "id": "ateliercologne-candle",
+  "brand": "欧珑",
+  "name": "香氛蜡烛",
+  "nameEn": "Cologne Candle",
+  "type": "香薰蜡烛",
+  "desc": "同系列古龙香氛蜡烛,送礼体面。",
+  "file": "data\\img\\ateliercologne-candle.jpg"
+ },
+ {
+  "id": "ateliercologne-gift",
+  "brand": "欧珑",
+  "name": "刻字皮套礼盒",
+  "nameEn": "Engraved Gift Set",
+  "type": "礼盒",
+  "desc": "皮套刻字定制,情侣礼物的仪式感顶配。",
+  "file": "data\\img\\ateliercologne-gift.jpg"
+ },
+ {
+  "id": "bobbi-brown-vitamin-base",
+  "brand": "芭比波朗",
+  "name": "维他命妆前乳",
+  "nameEn": "Vitamin Enriched Face Base",
+  "type": "妆前乳",
+  "desc": "质地如霜的滋润型妆前乳,主打让后续底妆更服帖持久,干燥季节尤受欢迎,是品牌妆前保养的人气单品。",
+  "file": "data\\img\\bobbi-brown-vitamin-base.jpg"
+ },
+ {
+  "id": "bobbi-brown-highlighting-powder",
+  "brand": "芭比波朗",
+  "name": "五花肉高光盘",
+  "nameEn": "Highlighting Powder",
+  "type": "高光",
+  "desc": "因粉块纹理如五花肉得名的经典高光,粉质细腻、光泽自然,扫于颧骨与鼻梁即有健康光感,是高光品类的现象级单品。",
+  "file": "data\\img\\bobbi-brown-highlighting-powder.jpg"
+ },
+ {
+  "id": "bobbi-brown-luxe-lip",
+  "brand": "芭比波朗",
+  "name": "奢金唇膏",
+  "nameEn": "Luxe Lip Color",
+  "type": "唇膏",
+  "desc": "金管包装气派的旗舰口红,膏体顺滑显色,热门色号众多,滋润与哑光质地兼具。",
+  "file": "data\\img\\bobbi-brown-luxe-lip.jpg"
+ },
+ {
+  "id": "bobbi-brown-long-wear-foundation",
+  "brand": "芭比波朗",
+  "name": "清透持妆粉底液",
+  "nameEn": "Skin Long-Wear Weightless Foundation",
+  "type": "粉底液",
+  "desc": "主打清透与持妆兼得,长时间不脱妆、不泛油光,遮瑕力适中,是适合通勤场景的全天候持妆粉底。",
+  "file": "data\\img\\bobbi-brown-long-wear-foundation.jpg"
+ },
+ {
+  "id": "bobbi-brown-cleansing-oil",
+  "brand": "芭比波朗",
+  "name": "舒缓卸妆油",
+  "nameEn": "Soothing Cleansing Oil",
+  "type": "卸妆油",
+  "desc": "质地轻盈的温和卸妆油,乳化快、易冲净,卸妆同时舒缓肌肤,与品牌底妆产品搭配使用效果尤佳。",
+  "file": "data\\img\\bobbi-brown-cleansing-oil.jpg"
+ },
+ {
+  "id": "byredo-rose",
+  "brand": "百瑞德",
+  "name": "无人区玫瑰",
+  "nameEn": "Rose of No Man's Land",
+  "type": "香水",
+  "desc": "粉椒+玫瑰的疏离感,「香水的流量之王」。",
+  "file": "data\\img\\byredo-rose.jpg"
+ },
+ {
+  "id": "byredo-gypsy",
+  "brand": "百瑞德",
+  "name": "流浪者之歌",
+  "nameEn": "Gypsy Water",
+  "type": "香水",
+  "desc": "篝火松林与沙滩,自由浪游的北欧想象。",
+  "file": "data\\img\\byredo-gypsy.jpg"
+ },
+ {
+  "id": "byredo-blanche",
+  "brand": "百瑞德",
+  "name": "白色浪漫",
+  "nameEn": "Blanche",
+  "type": "香水",
+  "desc": "洗净的床单与白衣,纯净系顶配。",
+  "file": "data\\img\\byredo-blanche.jpg"
+ },
+ {
+  "id": "byredo-makeup",
+  "brand": "百瑞德",
+  "name": "彩妆系列",
+  "nameEn": "Color Cosmetics",
+  "type": "彩妆",
+  "desc": "北欧极简的口红眼影,收藏向彩妆。",
+  "file": "data\\img\\byredo-makeup.jpg"
+ },
+ {
+  "id": "cerave-moisturizing-cream",
+  "brand": "适乐肤",
+  "name": "修护保湿润肤霜(大白罐)",
+  "nameEn": "Moisturizing Cream",
+  "type": "保湿霜",
+  "desc": "含三种神经酰胺与MVE缓释技术的爆款保湿霜,大罐实惠,面部与全身均可使用,是干皮与敏感肌的性价比之选。",
+  "file": "data\\img\\cerave-moisturizing-cream.jpg"
+ },
+ {
+  "id": "cerave-sa-cleanser",
+  "brand": "适乐肤",
+  "name": "SA水杨酸洁面",
+  "nameEn": "SA Smoothing Cleanser",
+  "type": "洁面",
+  "desc": "含水杨酸的温和洁面,帮助疏通毛孔、改善粗糙,面部身体两用,是刷酸入门的平价选择。",
+  "file": "data\\img\\cerave-sa-cleanser.jpg"
+ },
+ {
+  "id": "cerave-sa-cream",
+  "brand": "适乐肤",
+  "name": "SA水杨酸润肤乳",
+  "nameEn": "SA Smoothing Cream",
+  "type": "身体乳",
+  "desc": "水杨酸加神经酰胺的身体乳,主打改善手臂腿部的粗糙颗粒、让肌肤平滑,滋润不黏腻,是鸡皮肤人群的口碑款。",
+  "file": "data\\img\\cerave-sa-cream.jpg"
+ },
+ {
+  "id": "clarins-double-serum",
+  "brand": "娇韵诗",
+  "name": "双萃精华",
+  "nameEn": "Double Serum",
+  "type": "精华",
+  "desc": "娇韵诗招牌抗初老精华,水油双管设计,按压混合多种植物精萃后上脸,熬夜急救口碑极佳,是品牌最畅销的明星单品。",
+  "file": "data\\img\\clarins-double-serum.jpg"
+ },
+ {
+  "id": "clarins-v-shaping",
+  "brand": "娇韵诗",
+  "name": "V脸精华",
+  "nameEn": "V Shaping Facial Lift",
+  "type": "精华",
+  "desc": "主打提拉紧致、改善轮廓与水肿感的植物精华,质地清爽,配合按摩手法使用效果更佳,是亚洲市场的人气单品。",
+  "file": "data\\img\\clarins-v-shaping.jpg"
+ },
+ {
+  "id": "clarins-extra-firming",
+  "brand": "娇韵诗",
+  "name": "弹簧霜",
+  "nameEn": "Extra-Firming",
+  "type": "面霜",
+  "desc": "紧致抗老面霜,分日霜与晚霜,主打提拉紧致与平滑细纹,质地舒适,是娇韵诗面霜线的招牌。",
+  "file": "data\\img\\clarins-extra-firming.jpg"
+ },
+ {
+  "id": "clarins-hydra-essentiel",
+  "brand": "娇韵诗",
+  "name": "恒润奇肌保湿霜",
+  "nameEn": "Hydra-Essentiel",
+  "type": "面霜",
+  "desc": "保湿线明星面霜,主打即时补水与长效锁水,质地清润,干皮与换季期的补水口碑良好。",
+  "file": "data\\img\\clarins-hydra-essentiel.jpg"
+ },
+ {
+  "id": "clarins-tonic-oil",
+  "brand": "娇韵诗",
+  "name": "天然调和身体护理油",
+  "nameEn": "Tonic Body Treatment Oil",
+  "type": "身体油",
+  "desc": "百分百植物精萃调和的身体护理油,孕期按摩的经典选择,主打滋润紧实,是准妈妈人群中的知名单品。",
+  "file": "data\\img\\clarins-tonic-oil.jpg"
+ },
+ {
+  "id": "cle-de-peau-beaute-veil",
+  "brand": "肌肤之钥",
+  "name": "光凝润采妆前乳(长管隔离)",
+  "nameEn": "Radiant Correcting Essence Veil",
+  "type": "妆前乳",
+  "desc": "被称为长管隔离的明星妆前乳,主打抚平毛孔、提升服帖与持妆度,自带润泽光泽感,是CPB最畅销的单品之一。",
+  "file": "data\\img\\cle-de-peau-beaute-veil.jpg"
+ },
+ {
+  "id": "cle-de-peau-beaute-the-serum",
+  "brand": "肌肤之钥",
+  "name": "晶致肌活精华露",
+  "nameEn": "The Serum",
+  "type": "精华",
+  "desc": "CPB全线升级后的旗舰精华,主打唤醒肌肤本源活力、焕现紧致光泽,质地轻盈渗透快,是品牌护肤线的门面。",
+  "file": "data\\img\\cle-de-peau-beaute-the-serum.jpg"
+ },
+ {
+  "id": "cle-de-peau-beaute-emulsion-night",
+  "brand": "肌肤之钥",
+  "name": "光采夜间修护乳液",
+  "nameEn": "Emulsion Night",
+  "type": "乳液",
+  "desc": "日夜乳组合中的夜间版本,主打夜间修护与滋养,配合化妆水使用是CPB经典护肤流程,晨间另有日间防护版本。",
+  "file": "data\\img\\cle-de-peau-beaute-emulsion-night.jpg"
+ },
+ {
+  "id": "curel-moisture-cream",
+  "brand": "珂润",
+  "name": "润浸保湿面霜",
+  "nameEn": "Intensive Moisture Cream",
+  "type": "面霜",
+  "desc": "珂润招牌面霜,含神经酰胺护理成分,主打修护干燥敏感的肌肤屏障,绵密霜体好推开,无香料无酒精,干敏皮回购率高。",
+  "file": "data\\img\\curel-moisture-cream.jpg"
+ },
+ {
+  "id": "curel-moisture-lotion",
+  "brand": "珂润",
+  "name": "润浸保湿化妆水",
+  "nameEn": "Intensive Moisture Lotion",
+  "type": "化妆水",
+  "desc": "按肤质与季节细分多档的温和化妆水,主打润浸保湿、柔软角质层,清爽或滋润可选,与面霜搭配是经典组合。",
+  "file": "data\\img\\curel-moisture-lotion.jpg"
+ },
+ {
+  "id": "curel-moisture-emulsion",
+  "brand": "珂润",
+  "name": "润浸保湿乳液",
+  "nameEn": "Intensive Moisture Emulsion",
+  "type": "乳液",
+  "desc": "温和滋润的配套乳液,帮助锁住水分、延续水润感,配方同样无香料无色素,敏感肌可安心使用。",
+  "file": "data\\img\\curel-moisture-emulsion.jpg"
+ },
+ {
+  "id": "curel-cleansing-foam",
+  "brand": "珂润",
+  "name": "润浸保湿洁颜泡沫",
+  "nameEn": "Intensive Moisture Cleansing Foam",
+  "type": "洁面",
+  "desc": "一压即出的绵密泡沫洁面,减少摩擦刺激、温和带走污垢,洗后不紧绷,是珂润基础护理的第一步。",
+  "file": "data\\img\\curel-cleansing-foam.jpg"
+ },
+ {
+  "id": "curel-moisture-mask",
+  "brand": "珂润",
+  "name": "润浸保湿面膜",
+  "nameEn": "Intensive Moisture Mask",
+  "type": "面膜",
+  "desc": "浸润保湿精华的温和面膜,敷后肌肤水润柔软、状态稳定,是干燥季节的急救之选。",
+  "file": "data\\img\\curel-moisture-mask.jpg"
+ },
+ {
+  "id": "decorte-moisture-liposome",
+  "brand": "黛珂",
+  "name": "保湿精华美容液(小紫瓶)",
+  "nameEn": "Moisture Liposome",
+  "type": "精华",
+  "desc": "以脂质体技术输送保湿成分的口碑精华,淡紫色瓶身辨识度高,层层渗透的滋润感适合干敏肌,曾屡获日本美妆大赏。",
+  "file": "data\\img\\decorte-moisture-liposome.jpg"
+ },
+ {
+  "id": "decorte-aq-meliority-cleansing",
+  "brand": "黛珂",
+  "name": "AQ Meliority精致洁面霜",
+  "nameEn": "AQ Meliority Cleansing Cream",
+  "type": "洁面",
+  "desc": "黛珂奢华护理线的洁面,膏体丰盈绵密,清洁力与温和度平衡出色,洗后柔嫩不紧绷,自带高端护理仪式感。",
+  "file": "data\\img\\decorte-aq-meliority-cleansing.jpg"
+ },
+ {
+  "id": "diptyque-tamdao",
+  "brand": "蒂普提克",
+  "name": "檀道",
+  "nameEn": "Tam Dao",
+  "type": "香水",
+  "desc": "干燥寺庙木香的禅意,中性香的殿堂级。",
+  "file": "data\\img\\diptyque-tamdao.jpg"
+ },
+ {
+  "id": "diptyque-baies",
+  "brand": "蒂普提克",
+  "name": "浆果香薰蜡烛",
+  "nameEn": "Baies Candle",
+  "type": "香薰蜡烛",
+  "desc": "全球销量第一的香薰蜡烛,黑醋栗叶与玫瑰。",
+  "file": "data\\img\\diptyque-baies.jpg"
+ },
+ {
+  "id": "diptyque-figuier",
+  "brand": "蒂普提克",
+  "name": "无花果蜡烛",
+  "nameEn": "Figuier Candle",
+  "type": "香薰蜡烛",
+  "desc": "地中海无花果树影,夏日午后的奶绿感。",
+  "file": "data\\img\\diptyque-figuier.jpg"
+ },
+ {
+  "id": "diptyque-cardiff",
+  "brand": "蒂普提克",
+  "name": "曼特淡香精",
+  "nameEn": "Eau de Parfum",
+  "type": "香水",
+  "desc": "EDP高浓度线,沙龙香的进阶玩法。",
+  "file": "data\\img\\diptyque-cardiff.jpg"
+ },
+ {
+  "id": "dovebody-bar",
+  "brand": "多芬",
+  "name": "经典香块",
+  "nameEn": "Beauty Bar",
+  "type": "香皂",
+  "desc": "1957年的起点,温和洁面皂的鼻祖。",
+  "file": "data\\img\\dovebody-bar.jpg"
+ },
+ {
+  "id": "dovebody-deo",
+  "brand": "多芬",
+  "name": "止汗走珠",
+  "nameEn": "Deodorant",
+  "type": "止汗露",
+  "desc": "48小时止汗,夏日通勤必备。",
+  "file": "data\\img\\dovebody-deo.jpg"
+ },
+ {
+  "id": "estee-lauder-advanced-night-repair",
+  "brand": "雅诗兰黛",
+  "name": "特润修护精华(小棕瓶)",
+  "nameEn": "Advanced Night Repair",
+  "type": "精华",
+  "desc": "雅诗兰黛的镇牌之宝,1982年问世,主打夜间修护与抗老,历经多代升级,棕瓶造型深入人心,是全球销量最高的精华之一。",
+  "file": "data\\img\\estee-lauder-advanced-night-repair.jpg"
+ },
+ {
+  "id": "estee-lauder-micro-essence",
+  "brand": "雅诗兰黛",
+  "name": "微精华原生液",
+  "nameEn": "Micro Essence",
+  "type": "精华水",
+  "desc": "雅诗兰黛的高端肌底精华水,以酵母精萃为核心,主打强韧屏障、细腻毛孔,质地清爽偏水感,是化妆水与精华之间的打底之选。",
+  "file": "data\\img\\estee-lauder-micro-essence.jpg"
+ },
+ {
+  "id": "estee-lauder-revitalizing-supreme",
+  "brand": "雅诗兰黛",
+  "name": "智妍多效精华面霜",
+  "nameEn": "Revitalizing Supreme+",
+  "type": "面霜",
+  "desc": "主打紧致塑颜与多效抗初老的面霜,质地丰润不黏腻,与智妍家族精华搭配使用口碑更佳,适合轻熟龄肌肤。",
+  "file": "data\\img\\estee-lauder-revitalizing-supreme.jpg"
+ },
+ {
+  "id": "estee-lauder-renutriv",
+  "brand": "雅诗兰黛",
+  "name": "白金级奢宠面霜",
+  "nameEn": "Re-Nutriv",
+  "type": "面霜",
+  "desc": "雅诗兰黛1956年开创的顶级奢华线,以珍稀成分与极致肤感著称,是集团奢华护肤的起点与标杆。",
+  "file": "data\\img\\estee-lauder-renutriv.jpg"
+ },
+ {
+  "id": "estee-lauder-double-wear",
+  "brand": "雅诗兰黛",
+  "name": "持妆粉底液(DW)",
+  "nameEn": "Double Wear",
+  "type": "粉底液",
+  "desc": "美妆界传奇粉底,以超长持妆、高遮瑕、不易脱妆著称,1997年上市至今仍是全球销量冠军级别的底妆产品。",
+  "file": "data\\img\\estee-lauder-double-wear.jpg"
+ },
+ {
+  "id": "estee-lauder-pure-color-envy",
+  "brand": "雅诗兰黛",
+  "name": "倾慕唇膏",
+  "nameEn": "Pure Color Envy",
+  "type": "唇膏",
+  "desc": "雅诗兰黛主力口红系列,显色饱满、妆效立体,哑光与滋润质地兼具,热门色号常年热销。",
+  "file": "data\\img\\estee-lauder-pure-color-envy.jpg"
+ }
+]

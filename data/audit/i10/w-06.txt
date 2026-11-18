@@ -1,0 +1,10 @@
+mikimoto-jewelrywatch | 御木本 珍珠珠宝表(Jewelry Watch,女表) | 珍珠母贝表盘+钻石刻度,把海洋的光戴在手腕上。 | data\img\mikimoto-jewelrywatch.jpg
+oris-aquis | 豪利时 Aquis 日历(Aquis Date,潜水表) | 300米潜水的独立厂扛把子,陶瓷圈+快调表链,工薪玩家的梦中情表。 | data\img\oris-aquis.jpg
+oris-bigcrown | 豪利时 大表冠(Big Crown ProPilot,飞行员表) | 1938年飞行员血统,大表冠戴手套也能调,复古军表气质。 | data\img\oris-bigcrown.jpg
+oris-divers65 | 豪利时 Divers Sixty-Five(Divers Sixty-Five,潜水表) | 复刻1965年古董潜水表,40mm复古尺寸+青铜做旧款,颜值能打。 | data\img\oris-divers65.jpg
+pandora-bracelet | 潘多拉 蛇骨链(Snake Chain Bracelet,手链) | 串珠系统的载体,银质蛇骨链是入门第一件。 | data\img\pandora-bracelet.jpg
+pandora-hearts | 潘多拉 心形系列(Hearts of Pandora,首饰) | 渐变珐琅爱心,送人不出错的经典符号。 | data\img\pandora-hearts.jpg
+pandora-labgrown | 潘多拉 培育钻系列(Lab-Grown Diamond,戒指) | 实验室培育钻石的平价化,让克拉自由提前到来。 | data\img\pandora-labgrown.jpg
+patek-aquanaut | 百达翡丽 手雷(Aquanaut,运动豪华表) | 俗称"手雷",橡胶表带的年轻化运动款,鹦鹉螺之后的又一爆款。 | data\img\patek-aquanaut.jpg
+piaget-altiplano | 伯爵 Altiplano(Altiplano,超薄正装表) | 超薄纪录收割机,2mm级机芯把"薄"做成了品牌哲学。 | data\img\piaget-altiplano.jpg
+piaget-possession | 伯爵 Possession(Possession,珠宝表) | 可旋转钻石圈的互动珠宝表,"转一转"成为把玩的仪式感。 | data\img\piaget-possession.jpg

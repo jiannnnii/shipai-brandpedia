@@ -1,0 +1,12 @@
+[
+ {"id":"ap-code1159","verdict":"mismatch","note":"图是地球与世界地标的卡通插画，与爱彼CODE 11.59腕表完全无关。"},
+ {"id":"boucheron-quatre","verdict":"mismatch","note":"图是一颗绿色宝石密镶的球形珠宝物件，并非Quatre四环戒指。"},
+ {"id":"boucheron-animals","verdict":"mismatch","note":"图是宝诗龙播客宣传海报，带大播放按钮，展示蓝宝石钻石手镯，非动物系列实物图。"},
+ {"id":"boucheron-serpentboheme","verdict":"mismatch","note":"图是黄衣模特人像广告照，颈间为双环钻石项圈，非Serpent Bohème蛇头水滴系列。"},
+ {"id":"bvlgari-bzero1","verdict":"mismatch","note":"图是宝格丽Serpenti Tubogas蛇形腕表，不是B.zero1弹簧螺旋戒指。"},
+ {"id":"bvlgari-diva","verdict":"mismatch","note":"图是海滩椰树度假风光照，与Diva's Dream首饰无关。"},
+ {"id":"bvlgari-octo","verdict":"mismatch","note":"图是宝格丽Diva's Dream风格扇形高级珠宝腕表，同品牌但明显不是Octo Finissimo超薄男表。"},
+ {"id":"bvlgari-bvlgari","verdict":"mismatch","note":"图是空气炸锅触控面板特写，与Bvlgari Bvlgari首饰完全无关。"},
+ {"id":"casio-babyg","verdict":"mismatch","note":"图是金色G-SHOCK方形全金属男表（带腕表之家水印），不是BABY-G女性系列。"},
+ {"id":"casio-edifice","verdict":"mismatch","note":"图是黑色G-SHOCK方形电子表防水广告图（带知乎水印），不是EDIFICE计时表。"}
+]

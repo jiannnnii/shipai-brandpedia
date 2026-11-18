@@ -1,0 +1,10 @@
+bd-trekking-poles | 黑钻 登山杖系列(Trekking Poles,登山杖) | Distance 系列碳纤维折叠杖重量轻、收纳短,减震与抓地表现扎实,是徒步与越野跑玩家信赖的选择。 | data\img\bd-trekking-poles.jpg
+bd-ice-tools | 黑钻 冰镐系列(Ice Tools,冰镐) | Cobra、Viper 等专业冰镐以挥击精度与可换配件著称,是混合攀登与干式攀登的利器,技术型攀登玩家的进阶装备。 | data\img\bd-ice-tools.jpg
+brooks-glycerin | 布鲁克斯 Glycerin(Glycerin,顶级缓震跑鞋) | 布鲁克斯的顶级缓震旗舰,厚实柔软的中底为大体重跑者与长距离慢跑提供豪华脚感,被跑友称为云朵跑鞋。 | data\img\brooks-glycerin.jpg
+brooks-adrenaline-gts | 布鲁克斯 Adrenaline GTS(Adrenaline GTS,支撑跑鞋) | 全球最畅销的支撑跑鞋之一,GTS意为「首选之鞋」,为足内旋过度跑者提供稳定引导,三十余代长盛不衰。 | data\img\brooks-adrenaline-gts.jpg
+brooks-hyperion | 布鲁克斯 Hyperion 竞速系列(Hyperion,竞速跑鞋) | 布鲁克斯的碳板竞速家族,Hyperion Elite为比赛日利器,轻量推进设计帮助跑者刷新个人最好成绩。 | data\img\brooks-hyperion.jpg
+brooks-launch | 布鲁克斯 Launch(Launch,轻量训练跑鞋) | 轻量灵活的入门训练鞋,性价比突出、脚感利落,适合节奏跑与速度课,是布鲁克斯的年轻化走量款式。 | data\img\brooks-launch.jpg
+brooks-cascadia | 布鲁克斯 Cascadia(Cascadia,越野跑鞋) | 2005年问世的经典越野跑鞋,以多地形适应与稳定防护设计著称,是山径越野爱好者的可靠伙伴。 | data\img\brooks-cascadia.jpg
+burton-custom | 伯顿 Custom 单板(Custom,单板) | 伯顿最经典的全面发展单板,延续数十代的招牌板型,弹力与稳定均衡,全山地形通吃,被滑手称为「永不犯错之板」。 | data\img\burton-custom.jpg
+burton-process | 伯顿 Process 单板(Process,单板) | 面向进阶滑手的公园与全山单板,滑行活泼、容错友好,配合认证木芯的弹性输出,是许多滑手人生第二块板的热门之选。 | data\img\burton-process.jpg
+burton-cartel | 伯顿 Cartel 固定器(Cartel,固定器) | 伯顿中高端固定器代表,响应直接、绑带包裹舒适,公园与全山滑行都能提供稳定的力量传输,是滑手口中的口碑机皇。 | data\img\burton-cartel.jpg

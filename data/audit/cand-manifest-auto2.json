@@ -1,0 +1,722 @@
+[
+ {
+  "id": "gwm-ora-good-cat",
+  "brand": "长城",
+  "name": "欧拉好猫",
+  "type": "小型车",
+  "desc": "复古美学纯电小车,以猫系命名与精致设计出圈,深受女性用户喜爱的城市代步座驾。",
+  "files": [
+   "data\\img\\cand\\gwm-ora-good-cat-1.jpg",
+   "data\\img\\cand\\gwm-ora-good-cat-2.jpg",
+   "data\\img\\cand\\gwm-ora-good-cat-3.jpg"
+  ]
+ },
+ {
+  "id": "honda-odyssey",
+  "brand": "本田",
+  "name": "奥德赛",
+  "type": "家用MPV",
+  "desc": "家用MPV标杆,2.0L混动,侧滑门加低地台,第三排可翻平形成「钓鱼凳」,奶爸车圈层文化浓厚。",
+  "files": [
+   "data\\img\\cand\\honda-odyssey-1.jpg",
+   "data\\img\\cand\\honda-odyssey-2.jpg",
+   "data\\img\\cand\\honda-odyssey-3.jpg"
+  ]
+ },
+ {
+  "id": "hongqi-e-hs9",
+  "brand": "红旗",
+  "name": "红旗E-HS9",
+  "type": "大型SUV",
+  "desc": "品牌纯电旗舰SUV,方正庄重的东方美学设计,双电机四驱,气场对标国际百万级豪华SUV。",
+  "files": [
+   "data\\img\\cand\\hongqi-e-hs9-1.jpg",
+   "data\\img\\cand\\hongqi-e-hs9-2.jpg",
+   "data\\img\\cand\\hongqi-e-hs9-3.jpg"
+  ]
+ },
+ {
+  "id": "hongqi-h9",
+  "brand": "红旗",
+  "name": "红旗H9",
+  "type": "中大型轿车",
+  "desc": "品牌旗舰行政轿车,高山飞瀑式格栅与庄重车身,2.0T/3.0T动力,国产行政豪华的代表作。",
+  "files": [
+   "data\\img\\cand\\hongqi-h9-1.jpg",
+   "data\\img\\cand\\hongqi-h9-2.jpg",
+   "data\\img\\cand\\hongqi-h9-3.jpg"
+  ]
+ },
+ {
+  "id": "hongqi-hq9",
+  "brand": "红旗",
+  "name": "红旗HQ9",
+  "type": "MPV",
+  "desc": "品牌首款豪华MPV,2.0T+48V轻混,礼宾级后排与国宾气场,高端商务接待的国产选择。",
+  "files": [
+   "data\\img\\cand\\hongqi-hq9-1.jpg",
+   "data\\img\\cand\\hongqi-hq9-2.jpg",
+   "data\\img\\cand\\hongqi-hq9-3.jpg"
+  ]
+ },
+ {
+  "id": "hongqi-hs5",
+  "brand": "红旗",
+  "name": "红旗HS5",
+  "type": "中型SUV",
+  "desc": "品牌走量SUV,2.0T动力与豪华配置下放,20万级国货豪华SUV的代表性选择。",
+  "files": [
+   "data\\img\\cand\\hongqi-hs5-1.jpg",
+   "data\\img\\cand\\hongqi-hs5-2.jpg",
+   "data\\img\\cand\\hongqi-hs5-3.jpg"
+  ]
+ },
+ {
+  "id": "hongqi-hs7",
+  "brand": "红旗",
+  "name": "红旗HS7",
+  "type": "中大型SUV",
+  "desc": "品牌中大型旗舰SUV,直瀑式格栅气场十足,空间宽敞,公务与家用市场的高端选择。",
+  "files": [
+   "data\\img\\cand\\hongqi-hs7-1.jpg",
+   "data\\img\\cand\\hongqi-hs7-2.jpg",
+   "data\\img\\cand\\hongqi-hs7-3.jpg"
+  ]
+ },
+ {
+  "id": "hyundai-ix35",
+  "brand": "现代",
+  "name": "ix35",
+  "type": "紧凑型SUV",
+  "desc": "紧凑型SUV,2.0L与1.4T动力,北京现代走量车型,以性价比与皮实耐用见长,常年活跃在12-16万区间。",
+  "files": [
+   "data\\img\\cand\\hyundai-ix35-1.jpg",
+   "data\\img\\cand\\hyundai-ix35-2.jpg",
+   "data\\img\\cand\\hyundai-ix35-3.jpg"
+  ]
+ },
+ {
+  "id": "hyundai-santafe",
+  "brand": "现代",
+  "name": "胜达",
+  "type": "中型SUV",
+  "desc": "中型七座SUV,2.0T配8AT,历代设计大气,主打家庭多座场景,是现代在华尺寸最大的国产SUV之一。",
+  "files": [
+   "data\\img\\cand\\hyundai-santafe-1.jpg",
+   "data\\img\\cand\\hyundai-santafe-2.jpg",
+   "data\\img\\cand\\hyundai-santafe-3.jpg"
+  ]
+ },
+ {
+  "id": "hyundai-sonata",
+  "brand": "现代",
+  "name": "索纳塔",
+  "type": "中型轿车",
+  "desc": "中型轿车,历代以设计革新著称,第十代流体雕塑2.0T配8AT,索八曾是当年最亲民的合资中级车之一。",
+  "files": [
+   "data\\img\\cand\\hyundai-sonata-1.jpg",
+   "data\\img\\cand\\hyundai-sonata-2.jpg",
+   "data\\img\\cand\\hyundai-sonata-3.jpg"
+  ]
+ },
+ {
+  "id": "hyundai-tucsonl",
+  "brand": "现代",
+  "name": "途胜L",
+  "type": "紧凑型SUV",
+  "desc": "第五代平台的紧凑SUV,1.5T配7DCT,轴距加长至2755mm,设计与空间进步明显,是现代SUV走量新旗舰。",
+  "files": [
+   "data\\img\\cand\\hyundai-tucsonl-1.jpg",
+   "data\\img\\cand\\hyundai-tucsonl-2.jpg",
+   "data\\img\\cand\\hyundai-tucsonl-3.jpg"
+  ]
+ },
+ {
+  "id": "im-motors-l6",
+  "brand": "智己",
+  "name": "智己L6",
+  "type": "中大型轿车",
+  "desc": "品牌走量智能轿跑,全球首搭灵蜥数字底盘,后轮转向灵活如小车,并推出光年固态电池版本。",
+  "files": [
+   "data\\img\\cand\\im-motors-l6-1.jpg",
+   "data\\img\\cand\\im-motors-l6-2.jpg",
+   "data\\img\\cand\\im-motors-l6-3.jpg"
+  ]
+ },
+ {
+  "id": "im-motors-ls6",
+  "brand": "智己",
+  "name": "智己LS6",
+  "type": "中大型SUV",
+  "desc": "品牌销量担当,准900V高压平台与激光雷达智驾,以20万级定价重塑中大型纯电SUV价值标准。",
+  "files": [
+   "data\\img\\cand\\im-motors-ls6-1.jpg",
+   "data\\img\\cand\\im-motors-ls6-2.jpg",
+   "data\\img\\cand\\im-motors-ls6-3.jpg"
+  ]
+ },
+ {
+  "id": "im-motors-ls7",
+  "brand": "智己",
+  "name": "智己LS7",
+  "type": "中大型SUV",
+  "desc": "品牌旗舰大五座SUV,超大面积穹顶玻璃座舱通透敞亮,空间与舒适取向,主打豪华居家体验。",
+  "files": [
+   "data\\img\\cand\\im-motors-ls7-1.jpg",
+   "data\\img\\cand\\im-motors-ls7-2.jpg",
+   "data\\img\\cand\\im-motors-ls7-3.jpg"
+  ]
+ },
+ {
+  "id": "infiniti-q50",
+  "brand": "英菲尼迪",
+  "name": "Q50L",
+  "type": "运动轿车",
+  "desc": "DAS线控转向的尝试者,运动弯道玩具。",
+  "files": [
+   "data\\img\\cand\\infiniti-q50-1.jpg",
+   "data\\img\\cand\\infiniti-q50-2.jpg",
+   "data\\img\\cand\\infiniti-q50-3.jpg"
+  ]
+ },
+ {
+  "id": "infiniti-qx60",
+  "brand": "英菲尼迪",
+  "name": "QX60",
+  "type": "中大型SUV",
+  "desc": "国产旗舰SUV,三排座家用豪华。",
+  "files": [
+   "data\\img\\cand\\infiniti-qx60-1.jpg",
+   "data\\img\\cand\\infiniti-qx60-2.jpg",
+   "data\\img\\cand\\infiniti-qx60-3.jpg"
+  ]
+ },
+ {
+  "id": "jaguar-ftype",
+  "brand": "捷豹",
+  "name": "I-PACE",
+  "type": "纯电SUV",
+  "desc": "2019年世界年度车,捷豹电动化的先声。",
+  "files": [
+   "data\\img\\cand\\jaguar-ftype-1.jpg",
+   "data\\img\\cand\\jaguar-ftype-2.jpg",
+   "data\\img\\cand\\jaguar-ftype-3.jpg"
+  ]
+ },
+ {
+  "id": "jaguar-xf",
+  "brand": "捷豹",
+  "name": "XF",
+  "type": "行政轿车",
+  "desc": "英伦行政的中坚,卷出优雅的性价比。",
+  "files": [
+   "data\\img\\cand\\jaguar-xf-1.jpg",
+   "data\\img\\cand\\jaguar-xf-2.jpg",
+   "data\\img\\cand\\jaguar-xf-3.jpg"
+  ]
+ },
+ {
+  "id": "jaguar-xj",
+  "brand": "捷豹",
+  "name": "XJ(经典)",
+  "type": "行政轿车",
+  "desc": "1968-2019的英伦行政旗舰,查尔斯王子的最爱。",
+  "files": [
+   "data\\img\\cand\\jaguar-xj-1.jpg",
+   "data\\img\\cand\\jaguar-xj-2.jpg",
+   "data\\img\\cand\\jaguar-xj-3.jpg"
+  ]
+ },
+ {
+  "id": "kia-ev5",
+  "brand": "起亚",
+  "name": "EV5",
+  "type": "纯电紧凑型SUV",
+  "desc": "起亚全球化纯电SUV,长续航版本可达700公里级,中国生产并返销海外,是起亚电动化的先锋之作。",
+  "files": [
+   "data\\img\\cand\\kia-ev5-1.jpg",
+   "data\\img\\cand\\kia-ev5-2.jpg",
+   "data\\img\\cand\\kia-ev5-3.jpg"
+  ]
+ },
+ {
+  "id": "kia-k3",
+  "brand": "起亚",
+  "name": "K3",
+  "type": "紧凑型轿车",
+  "desc": "紧凑型家轿,1.5L与1.4T动力,与伊兰特同平台,设计年轻,终端优惠后性价比突出,是起亚在华走量轿车。",
+  "files": [
+   "data\\img\\cand\\kia-k3-1.jpg",
+   "data\\img\\cand\\kia-k3-2.jpg",
+   "data\\img\\cand\\kia-k3-3.jpg"
+  ]
+ },
+ {
+  "id": "kia-seltos",
+  "brand": "起亚",
+  "name": "傲跑",
+  "type": "小型SUV",
+  "desc": "小型SUV,1.5L配CVT,设计时尚配置丰富,主打年轻人第一台车,油耗表现出色。",
+  "files": [
+   "data\\img\\cand\\kia-seltos-1.jpg",
+   "data\\img\\cand\\kia-seltos-2.jpg",
+   "data\\img\\cand\\kia-seltos-3.jpg"
+  ]
+ },
+ {
+  "id": "kia-sportage",
+  "brand": "起亚",
+  "name": "狮铂拓界",
+  "type": "紧凑型SUV",
+  "desc": "第五代Sportage,1.5T、2.0T与混动多动力可选,全球紧凑SUV鼻祖血统,是起亚在华SUV主力。",
+  "files": [
+   "data\\img\\cand\\kia-sportage-1.jpg",
+   "data\\img\\cand\\kia-sportage-2.jpg",
+   "data\\img\\cand\\kia-sportage-3.jpg"
+  ]
+ },
+ {
+  "id": "koenigsegg-agera",
+  "brand": "科尼塞克",
+  "name": "Agera RS",
+  "type": "限量超跑",
+  "desc": "447km/h量产极速纪录缔造者(2017)。",
+  "files": [
+   "data\\img\\cand\\koenigsegg-agera-1.jpg",
+   "data\\img\\cand\\koenigsegg-agera-2.jpg",
+   "data\\img\\cand\\koenigsegg-agera-3.jpg"
+  ]
+ },
+ {
+  "id": "koenigsegg-cc",
+  "brand": "科尼塞克",
+  "name": "CC8S / CCR(经典)",
+  "type": "经典超跑",
+  "desc": "梦开始的地方,CCR曾打破迈凯伦F1极速纪录。",
+  "files": [
+   "data\\img\\cand\\koenigsegg-cc-1.jpg",
+   "data\\img\\cand\\koenigsegg-cc-2.jpg",
+   "data\\img\\cand\\koenigsegg-cc-3.jpg"
+  ]
+ },
+ {
+  "id": "koenigsegg-gemera",
+  "brand": "科尼塞克",
+  "name": "Gemera",
+  "type": "四座超跑",
+  "desc": "四座Mega-GT,一家四口一起飞的幻想。",
+  "files": [
+   "data\\img\\cand\\koenigsegg-gemera-1.jpg",
+   "data\\img\\cand\\koenigsegg-gemera-2.jpg",
+   "data\\img\\cand\\koenigsegg-gemera-3.jpg"
+  ]
+ },
+ {
+  "id": "koenigsegg-regera",
+  "brand": "科尼塞克",
+  "name": "Regera",
+  "type": "混动超跑",
+  "desc": "无变速箱Direct Drive,1500匹混动幽灵。",
+  "files": [
+   "data\\img\\cand\\koenigsegg-regera-1.jpg",
+   "data\\img\\cand\\koenigsegg-regera-2.jpg",
+   "data\\img\\cand\\koenigsegg-regera-3.jpg"
+  ]
+ },
+ {
+  "id": "lamborghini-huracan",
+  "brand": "兰博基尼",
+  "name": "Huracán",
+  "type": "超跑",
+  "desc": "V10自然吸气的末代欢歌,STO为赛道而生。",
+  "files": [
+   "data\\img\\cand\\lamborghini-huracan-1.jpg",
+   "data\\img\\cand\\lamborghini-huracan-2.jpg",
+   "data\\img\\cand\\lamborghini-huracan-3.jpg"
+  ]
+ },
+ {
+  "id": "landrover-evoque",
+  "brand": "路虎",
+  "name": "揽胜极光",
+  "type": "紧凑SUV",
+  "desc": "2010年惊艳世界的 Coupe SUV 鼻祖。",
+  "files": [
+   "data\\img\\cand\\landrover-evoque-1.jpg",
+   "data\\img\\cand\\landrover-evoque-2.jpg",
+   "data\\img\\cand\\landrover-evoque-3.jpg"
+  ]
+ },
+ {
+  "id": "landrover-sport",
+  "brand": "路虎",
+  "name": "揽胜运动版",
+  "type": "运动SUV",
+  "desc": "曾爬上天门山999级台阶的运动揽胜。",
+  "files": [
+   "data\\img\\cand\\landrover-sport-1.jpg",
+   "data\\img\\cand\\landrover-sport-2.jpg",
+   "data\\img\\cand\\landrover-sport-3.jpg"
+  ]
+ },
+ {
+  "id": "lexus-lc",
+  "brand": "雷克萨斯",
+  "name": "LC",
+  "type": "GT轿跑",
+  "desc": "概念车直接量产的惊艳,5.0 V8自然吸气绝唱。",
+  "files": [
+   "data\\img\\cand\\lexus-lc-1.jpg",
+   "data\\img\\cand\\lexus-lc-2.jpg",
+   "data\\img\\cand\\lexus-lc-3.jpg"
+  ]
+ },
+ {
+  "id": "li-auto-l6",
+  "brand": "理想",
+  "name": "理想L6",
+  "type": "中型SUV",
+  "desc": "L系列五座入门款,增程双电机四驱,25万级家庭SUV热门之选,上市即成为品牌销量担当。",
+  "files": [
+   "data\\img\\cand\\li-auto-l6-1.jpg",
+   "data\\img\\cand\\li-auto-l6-2.jpg",
+   "data\\img\\cand\\li-auto-l6-3.jpg"
+  ]
+ },
+ {
+  "id": "li-auto-l7",
+  "brand": "理想",
+  "name": "理想L7",
+  "type": "中大型SUV",
+  "desc": "五座家庭旗舰SUV,魔毯空气悬架与后排娱乐屏,以移动的家的理念打造舒适乘坐体验。",
+  "files": [
+   "data\\img\\cand\\li-auto-l7-1.jpg",
+   "data\\img\\cand\\li-auto-l7-2.jpg",
+   "data\\img\\cand\\li-auto-l7-3.jpg"
+  ]
+ },
+ {
+  "id": "li-auto-l8",
+  "brand": "理想",
+  "name": "理想L8",
+  "type": "中大型SUV",
+  "desc": "六座家庭SUV中坚,空间与舒适配置拉满,智能辅助驾驶全系标配,三代同堂出行的热门选择。",
+  "files": [
+   "data\\img\\cand\\li-auto-l8-1.jpg",
+   "data\\img\\cand\\li-auto-l8-2.jpg",
+   "data\\img\\cand\\li-auto-l8-3.jpg"
+  ]
+ },
+ {
+  "id": "li-auto-l9",
+  "brand": "理想",
+  "name": "理想L9",
+  "type": "大型SUV",
+  "desc": "品牌旗舰全尺寸六座SUV,增程综合续航超1000公里,后舱娱乐屏与车载冰箱齐备,家庭旗舰标杆。",
+  "files": [
+   "data\\img\\cand\\li-auto-l9-1.jpg",
+   "data\\img\\cand\\li-auto-l9-2.jpg",
+   "data\\img\\cand\\li-auto-l9-3.jpg"
+  ]
+ },
+ {
+  "id": "li-auto-mega",
+  "brand": "理想",
+  "name": "理想MEGA",
+  "type": "MPV",
+  "desc": "品牌纯电旗舰MPV,风阻系数低至0.215,续航超700公里,造型前卫引发全民热议,探索纯电MPV上限。",
+  "files": [
+   "data\\img\\cand\\li-auto-mega-1.jpg",
+   "data\\img\\cand\\li-auto-mega-2.jpg",
+   "data\\img\\cand\\li-auto-mega-3.jpg"
+  ]
+ },
+ {
+  "id": "lincoln-aviator",
+  "brand": "林肯",
+  "name": "飞行家",
+  "type": "中大型SUV",
+  "desc": "3.0T V6+10AT,美式飞行的平顺。",
+  "files": [
+   "data\\img\\cand\\lincoln-aviator-1.jpg",
+   "data\\img\\cand\\lincoln-aviator-2.jpg",
+   "data\\img\\cand\\lincoln-aviator-3.jpg"
+  ]
+ },
+ {
+  "id": "lincoln-continental",
+  "brand": "林肯",
+  "name": "大陆(经典)",
+  "type": "旗舰轿车",
+  "desc": "1961年对开门 masterpiece,肯尼迪的座驾记忆。",
+  "files": [
+   "data\\img\\cand\\lincoln-continental-1.jpg",
+   "data\\img\\cand\\lincoln-continental-2.jpg",
+   "data\\img\\cand\\lincoln-continental-3.jpg"
+  ]
+ },
+ {
+  "id": "lincoln-navigator",
+  "brand": "林肯",
+  "name": "领航员",
+  "type": "全尺寸SUV",
+  "desc": "全尺寸美式巨兽,加长婚车的正统血统。",
+  "files": [
+   "data\\img\\cand\\lincoln-navigator-1.jpg",
+   "data\\img\\cand\\lincoln-navigator-2.jpg",
+   "data\\img\\cand\\lincoln-navigator-3.jpg"
+  ]
+ },
+ {
+  "id": "lynk-co-03",
+  "brand": "领克",
+  "name": "领克03",
+  "type": "紧凑型轿车",
+  "desc": "品牌运动轿车,领克03 TCR赛车曾问鼎WTCR世界冠军,03+性能版深受中国年轻玩家追捧。",
+  "files": [
+   "data\\img\\cand\\lynk-co-03-1.jpg",
+   "data\\img\\cand\\lynk-co-03-2.jpg",
+   "data\\img\\cand\\lynk-co-03-3.jpg"
+  ]
+ },
+ {
+  "id": "lynk-co-05",
+  "brand": "领克",
+  "name": "领克05",
+  "type": "紧凑型SUV",
+  "desc": "品牌轿跑SUV,溜背造型与运动化调校,05+搭载高功率2.0T,是个性玩家的进阶之选。",
+  "files": [
+   "data\\img\\cand\\lynk-co-05-1.jpg",
+   "data\\img\\cand\\lynk-co-05-2.jpg",
+   "data\\img\\cand\\lynk-co-05-3.jpg"
+  ]
+ },
+ {
+  "id": "lynk-co-06",
+  "brand": "领克",
+  "name": "领克06",
+  "type": "小型SUV",
+  "desc": "面向年轻人的入门SUV,BMA架构打造,潮流配色与精致细节,品牌年轻化的排头兵。",
+  "files": [
+   "data\\img\\cand\\lynk-co-06-1.jpg",
+   "data\\img\\cand\\lynk-co-06-2.jpg",
+   "data\\img\\cand\\lynk-co-06-3.jpg"
+  ]
+ },
+ {
+  "id": "lynk-co-08",
+  "brand": "领克",
+  "name": "领克08 EM-P",
+  "type": "中型SUV",
+  "desc": "EM-P电混旗舰SUV,性能与能耗兼备,哈曼卡顿音响与豪华座舱,品牌新能源时代的支柱车型。",
+  "files": [
+   "data\\img\\cand\\lynk-co-08-1.jpg",
+   "data\\img\\cand\\lynk-co-08-2.jpg",
+   "data\\img\\cand\\lynk-co-08-3.jpg"
+  ]
+ },
+ {
+  "id": "maserati-grecale",
+  "brand": "玛莎拉蒂",
+  "name": "Grecale",
+  "type": "中型SUV",
+  "desc": "以地中海风命名的年轻SUV,Folgore电动版并行。",
+  "files": [
+   "data\\img\\cand\\maserati-grecale-1.jpg",
+   "data\\img\\cand\\maserati-grecale-2.jpg",
+   "data\\img\\cand\\maserati-grecale-3.jpg"
+  ]
+ },
+ {
+  "id": "maserati-levante",
+  "brand": "玛莎拉蒂",
+  "name": "Levante",
+  "type": "豪华SUV",
+  "desc": "以季风命名的SUV,意式操控的跨界。",
+  "files": [
+   "data\\img\\cand\\maserati-levante-1.jpg",
+   "data\\img\\cand\\maserati-levante-2.jpg",
+   "data\\img\\cand\\maserati-levante-3.jpg"
+  ]
+ },
+ {
+  "id": "maserati-mc20",
+  "brand": "玛莎拉蒂",
+  "name": "MC20",
+  "type": "超跑",
+  "desc": "Nettuno海王V6的回归之作,蝶翼门+碳纤维舱。",
+  "files": [
+   "data\\img\\cand\\maserati-mc20-1.jpg",
+   "data\\img\\cand\\maserati-mc20-2.jpg",
+   "data\\img\\cand\\maserati-mc20-3.jpg"
+  ]
+ },
+ {
+  "id": "maybach-62",
+  "brand": "迈巴赫",
+  "name": "迈巴赫62(经典)",
+  "type": "旗舰轿车",
+  "desc": "2002-2012年的独立品牌时代旗舰,马云同款。",
+  "files": [
+   "data\\img\\cand\\maybach-62-1.jpg",
+   "data\\img\\cand\\maybach-62-2.jpg",
+   "data\\img\\cand\\maybach-62-3.jpg"
+  ]
+ },
+ {
+  "id": "maybach-eqs",
+  "brand": "迈巴赫",
+  "name": "迈巴赫EQS SUV",
+  "type": "纯电SUV",
+  "desc": "电动化时代的迈巴赫,静谧如图书馆。",
+  "files": [
+   "data\\img\\cand\\maybach-eqs-1.jpg",
+   "data\\img\\cand\\maybach-eqs-2.jpg",
+   "data\\img\\cand\\maybach-eqs-3.jpg"
+  ]
+ },
+ {
+  "id": "mazda-atenza",
+  "brand": "马自达",
+  "name": "阿特兹",
+  "type": "中型轿车",
+  "desc": "中型运动轿车,2.0L与2.5L自吸,魂动设计最纯粹的载体之一,操控口碑极佳,随一汽马自达并入长安马自达后停售。",
+  "files": [
+   "data\\img\\cand\\mazda-atenza-1.jpg",
+   "data\\img\\cand\\mazda-atenza-2.jpg",
+   "data\\img\\cand\\mazda-atenza-3.jpg"
+  ]
+ },
+ {
+  "id": "mazda-axela",
+  "brand": "马自达",
+  "name": "马自达3 昂克赛拉",
+  "type": "紧凑型轿车",
+  "desc": "「东瀛宝马」,以创驰蓝天底盘与精准转向见长,2.0L自吸配6AT平顺跟手,魂动红车漆是选装率之王。",
+  "files": [
+   "data\\img\\cand\\mazda-axela-1.jpg",
+   "data\\img\\cand\\mazda-axela-2.jpg",
+   "data\\img\\cand\\mazda-axela-3.jpg"
+  ]
+ },
+ {
+  "id": "mazda-cx5",
+  "brand": "马自达",
+  "name": "CX-5",
+  "type": "紧凑型SUV",
+  "desc": "全球畅销紧凑型SUV,2.0L与2.5L自吸配6AT,GVC Plus车身矢量控制,公路操控同级罕见,后推6MT手动版。",
+  "files": [
+   "data\\img\\cand\\mazda-cx5-1.jpg",
+   "data\\img\\cand\\mazda-cx5-2.jpg",
+   "data\\img\\cand\\mazda-cx5-3.jpg"
+  ]
+ },
+ {
+  "id": "mclaren-750s",
+  "brand": "迈凯伦",
+  "name": "750S",
+  "type": "超跑",
+  "desc": "720S进化版,碳纤维舱+液压悬挂的性能怪兽。",
+  "files": [
+   "data\\img\\cand\\mclaren-750s-1.jpg",
+   "data\\img\\cand\\mclaren-750s-2.jpg",
+   "data\\img\\cand\\mclaren-750s-3.jpg"
+  ]
+ },
+ {
+  "id": "mclaren-f1",
+  "brand": "迈凯伦",
+  "name": "McLaren F1(经典)",
+  "type": "神级超跑",
+  "desc": "1992-98年仅106台,中央座椅+金箔引擎舱,拍卖行之王。",
+  "files": [
+   "data\\img\\cand\\mclaren-f1-1.jpg",
+   "data\\img\\cand\\mclaren-f1-2.jpg",
+   "data\\img\\cand\\mclaren-f1-3.jpg"
+  ]
+ },
+ {
+  "id": "mclaren-gt",
+  "brand": "迈凯伦",
+  "name": "McLaren GT",
+  "type": "GT轿跑",
+  "desc": "能装行李箱的超跑GT,长途巡航版迈凯伦。",
+  "files": [
+   "data\\img\\cand\\mclaren-gt-1.jpg",
+   "data\\img\\cand\\mclaren-gt-2.jpg",
+   "data\\img\\cand\\mclaren-gt-3.jpg"
+  ]
+ },
+ {
+  "id": "mclaren-senna",
+  "brand": "迈凯伦",
+  "name": "Senna",
+  "type": "限量超跑",
+  "desc": "Ultimate 系列塞纳纪念款,为弯道而生的空气怪物。",
+  "files": [
+   "data\\img\\cand\\mclaren-senna-1.jpg",
+   "data\\img\\cand\\mclaren-senna-2.jpg",
+   "data\\img\\cand\\mclaren-senna-3.jpg"
+  ]
+ },
+ {
+  "id": "mercedesbenz-cclass",
+  "brand": "奔驰",
+  "name": "C级",
+  "type": "中型轿车",
+  "desc": "30万级豪华入门的标配答案,立标与AMG线双造型。",
+  "files": [
+   "data\\img\\cand\\mercedesbenz-cclass-1.jpg",
+   "data\\img\\cand\\mercedesbenz-cclass-2.jpg",
+   "data\\img\\cand\\mercedesbenz-cclass-3.jpg"
+  ]
+ },
+ {
+  "id": "mercedesbenz-eclass",
+  "brand": "奔驰",
+  "name": "E级",
+  "type": "行政轿车",
+  "desc": "行政级的中坚,「小S级」是国宴外的默认座驾。",
+  "files": [
+   "data\\img\\cand\\mercedesbenz-eclass-1.jpg",
+   "data\\img\\cand\\mercedesbenz-eclass-2.jpg",
+   "data\\img\\cand\\mercedesbenz-eclass-3.jpg"
+  ]
+ },
+ {
+  "id": "mercedesbenz-gclass",
+  "brand": "奔驰",
+  "name": "G级",
+  "type": "越野车",
+  "desc": "1979年至今的方盒子越野活化石,关门声都是理财产品。",
+  "files": [
+   "data\\img\\cand\\mercedesbenz-gclass-1.jpg",
+   "data\\img\\cand\\mercedesbenz-gclass-2.jpg",
+   "data\\img\\cand\\mercedesbenz-gclass-3.jpg"
+  ]
+ },
+ {
+  "id": "mercedesbenz-sclass",
+  "brand": "奔驰",
+  "name": "S级",
+  "type": "旗舰轿车",
+  "desc": "每一代S级都定义时代:空气悬挂、魔术车身、大屏全是最先。",
+  "files": [
+   "data\\img\\cand\\mercedesbenz-sclass-1.jpg",
+   "data\\img\\cand\\mercedesbenz-sclass-2.jpg",
+   "data\\img\\cand\\mercedesbenz-sclass-3.jpg"
+  ]
+ },
+ {
+  "id": "mitsubishi-asx",
+  "brand": "三菱",
+  "name": "劲炫",
+  "type": "紧凑型SUV",
+  "desc": "广汽三菱入门SUV,1.6L与2.0L自吸,皮实省油,终端优惠大,是三菱家用车的务实之选,已随品牌退市。",
+  "files": [
+   "data\\img\\cand\\mitsubishi-asx-1.jpg",
+   "data\\img\\cand\\mitsubishi-asx-2.jpg",
+   "data\\img\\cand\\mitsubishi-asx-3.jpg"
+  ]
+ }
+]

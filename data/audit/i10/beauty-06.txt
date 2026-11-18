@@ -1,0 +1,10 @@
+florasis-eyeshadow | 花西子 百鸟朝凤眼影盘(Phoenix Palette,眼影) | 浮雕彩绘眼影,美到不舍得用。 | data\img\florasis-eyeshadow.jpg
+florasis-cushion | 花西子 玉容纱气垫(Cushion Foundation,气垫) | 薄贴持妆的养肤气垫,东方妆感的代表。 | data\img\florasis-cushion.jpg
+fredericmalle-portrait | 馥马尔 窈窕如她(Portrait of a Lady,香水) | 玫瑰+广藿香的浓墨重彩,现象级东方玫瑰。 | data\img\fredericmalle-portrait.jpg
+fredericmalle-rose | 馥马尔 一轮玫瑰(Une Rose,香水) | 带着酒意与泥土的暗黑玫瑰。 | data\img\fredericmalle-rose.jpg
+fredericmalle-musc | 馥马尔 狂恋麝香(Musc Ravageur,香水) | 传奇「枕边香」,皮肤般的性感麝香。 | data\img\fredericmalle-musc.jpg
+fredericmalle-candle | 馥马尔 香氛蜡烛(Candle,香薰蜡烛) | 出版社同款香型的蜡烛版,书房气质。 | data\img\fredericmalle-candle.jpg
+freeplus-essence | 芙丽芳丝 保湿修护精华液(Essence,精华) | 主打保湿与稳定肌肤状态的温和精华,质地清爽好推开,可与同系列水乳搭配,适合敏感肌日常打底。 | data\img\freeplus-essence.jpg
+guerlain-abeille-double-r | 娇兰 帝皇蜂姿双效修护精华(Abeille Royale Double R Serum,精华) | 以法国黑蜂蜂蜜与蜂王浆精萃为核心,双管设计将焕亮与修护精华现用现调,主打紧致与细腻肤质,是娇兰护肤线的当家精华。 | data\img\guerlain-abeille-double-r.jpg
+guerlain-abeille-watery-oil | 娇兰 帝皇蜂姿修护复原蜜(Abeille Royale Youth Watery Oil,精华油) | 质地介于精华与油之间的水质油,以黑蜂精萃为主,主打修护强韧,上脸清爽好吸收,可叠加于任意护肤流程,是娇兰的人气入门单品。 | data\img\guerlain-abeille-watery-oil.jpg
+guerlain-orchidee-imperiale | 娇兰 御廷兰花面霜(Orchidée Impériale,面霜) | 娇兰顶级抗老线,以珍稀兰花精萃为核心,主打修护岁月痕迹,膏体丝滑、香气优雅,是专柜顶奢面霜的代表之一。 | data\img\guerlain-orchidee-imperiale.jpg

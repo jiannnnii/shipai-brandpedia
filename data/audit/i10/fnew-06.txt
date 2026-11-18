@@ -1,0 +1,10 @@
+coach-wallets | 蔻驰 钱包与小皮具(Wallets & Small Goods,小皮具) | 经典老花与皮革钱夹、卡包,做工精细价格适中,是品牌口碑最好的入门品类。 | data\img\coach-wallets.jpg
+coach-mensbags | 蔻驰 男士包袋(Men's Bags,男包) | 公文包、斜挎包与腰包兼具功能与质感,简约设计广受职场男士欢迎。 | data\img\coach-mensbags.jpg
+dz-dress | 地素 摩登连衣裙(Modern Dress,连衣裙) | 以收腰剪裁与流行色面料为主,兼顾约会与通勤场景,印花与纯色版本交替上新,是品牌销售占比最高的品类之一。 | data\img\dz-dress.jpg
+dz-coat | 地素 都市大衣(Urban Coat,大衣) | 以羊毛混纺面料制成,廓形利落,常见的燕麦色与黑白色系便于搭配,是品牌秋冬的引流主力。 | data\img\dz-coat.jpg
+dz-denim | 地素 牛仔裤装(Denim,裤装) | 以直筒与阔腿版型为主,水洗工艺与破洞设计跟随当季流行,弹力面料兼顾舒适度,是品牌日常搭配的下装主力。 | data\img\dz-denim.jpg
+dior-lady-dior | 迪奥 戴妃包(Lady Dior,手袋) | 1995年为戴安娜王妃定制而得名,藤格纹缝线配D.I.O.R.金属吊饰,是迪奥最具代表性的手袋,优雅与品位的象征。 | data\img\dior-lady-dior.jpg
+dior-saddle | 迪奥 马鞍包(Saddle Bag,手袋) | 1999年约翰·加利亚诺设计的异形马鞍轮廓,2018年复刻后再度爆红,磁扣翻盖配可选肩带,是千禧风回归的标志单品。 | data\img\dior-saddle.jpg
+dior-book-tote | 迪奥 Book Tote(Book Tote,托特包) | 玛丽亚·嘉茜娅·蔻丽2017年推出的方形托特,可满绣Dior字样图案,大容量直角廓形适合通勤旅行,刺绣工时长达数十小时。 | data\img\dior-book-tote.jpg
+dior-30-montaigne | 迪奥 蒙田包(30 Montaigne,手袋) | 以品牌总部蒙田大道30号命名的2019年包型,翻盖配CD字母扣,廓形挺括复古,是近年迪奥旗舰手袋。 | data\img\dior-30-montaigne.jpg
+dior-caro | 迪奥 Caro(Caro,手袋) | 2021年推出的链条手袋,藤格纹小牛皮配编织链条肩带,正面CD标志,风格年轻又延续品牌经典元素。 | data\img\dior-caro.jpg

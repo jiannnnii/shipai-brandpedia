@@ -1,0 +1,10 @@
+burton-jacket | 伯顿 雪服系列(Jackets,滑雪服) | 伯顿雪服以街头感设计著称,防风透湿面料、压胶工艺与充裕口袋设计兼顾功能与造型,是雪场出镜率最高的雪服之一。 | data\img\burton-jacket.jpg
+burton-wheelie | 伯顿 雪板包(Wheelie Gig Bag,雪板包) | 带轮雪板旅行袋,可容纳雪板、雪鞋与全套装备,内衬加厚保护板面,是长途滑雪旅行的标配收纳方案。 | data\img\burton-wheelie.jpg
+columbia-omni-heat | 哥伦比亚 Omni-Heat 热反射羽绒服(Omni-Heat Down,羽绒服) | 标志性的银色热反射内衬系列,通过反射人体热量提升保暖效率又足够轻量,冬季通勤与滑雪内层都好用。 | data\img\columbia-omni-heat.jpg
+columbia-newton-ridge | 哥伦比亚 Newton Ridge 徒步鞋(Newton Ridge,徒步鞋) | 畅销的入门防水徒步靴,轻量皮革鞋面配Omni-Grip大底,抓地稳健、性价比高,是轻徒步的常见选择。 | data\img\columbia-newton-ridge.jpg
+converse-chuck-taylor-all-star | 匡威 Chuck Taylor All Star(Chuck Taylor All Star,帆布鞋) | 1917年诞生、史上最畅销的运动鞋,帆布鞋面加硫化胶底的经典配方百年未变,简单到极致,却百搭了一个世纪。 | data\img\converse-chuck-taylor-all-star.jpg
+converse-chuck-70 | 匡威 Chuck 70(Chuck 70,帆布鞋) | 复刻1970年代工艺的高端线,加厚帆布、更软的鞋垫与高光泽鞋头,质感明显优于经典款,是匡威的口碑担当。 | data\img\converse-chuck-70.jpg
+converse-one-star | 匡威 One Star(One Star,帆布鞋) | 1974年推出的麂皮低帮鞋,单星Logo随性不羁,从90年代垃圾摇滚到滑板圈持续翻红,是匡威的潮流支线担当。 | data\img\converse-one-star.jpg
+converse-jack-purcell | 匡威 Jack Purcell 开口笑(Jack Purcell,帆布鞋) | 1935年为加拿大羽毛球冠军杰克·珀塞尔设计的「开口笑」鞋头,圆润优雅,是匡威阵营里斯文气质的代表。 | data\img\converse-jack-purcell.jpg
+converse-run-star-hike | 匡威 Run Star Hike(Run Star Hike,厚底帆布鞋) | 2020年走红的厚底增高帆布鞋,锯齿大底加夸张厚跟,显高效果一流,成为Z世代年轻人的心头好。 | data\img\converse-run-star-hike.jpg
+converse-weapon | 匡威 Weapon(Weapon,篮球鞋) | 1986年问世的经典篮球鞋,大鸟伯德与魔术师约翰逊史上首次同框代言,复刻后以皮质鞋面与复古气场征服街头。 | data\img\converse-weapon.jpg

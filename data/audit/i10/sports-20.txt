@@ -1,0 +1,9 @@
+wilson-a2000 | 威尔胜 A2000 棒球手套(A2000,棒球手套) | 威尔胜旗舰棒球手套,Pro Stock 皮革经久耐用,版型历经数十年打磨,是大联盟球员与业余强手广泛使用的高阶手套。 | data\img\wilson-a2000.jpg
+wilson-nfl-football | 威尔胜 NFL 比赛用球(The Duke,美式橄榄球) | 自 1941 年起担任 NFL 官方比赛用球,The Duke 皮革橄榄球纹路清晰、握感扎实,是橄榄球运动当之无愧的标志 | data\img\wilson-nfl-football.jpg
+wilson-evolution | 威尔胜 Evolution 篮球(Evolution,篮球) | 北美校园篮球的经典用球,超细纤维皮面吸湿防滑、弹跳一致性出色,室内训练手感一流,常年是美国高中赛场的热门选择。 | data\img\wilson-evolution.jpg
+xtep-160x | 特步 160X 系列跑鞋(160X,竞速跑鞋) | 特步旗舰碳板竞速跑鞋,是中国精英马拉松选手的战靴,多位国家队选手穿着它刷新全国纪录,堪称国产碳板鞋的标杆之作。 | data\img\xtep-160x.jpg
+xtep-260 | 特步 260 系列跑鞋(260,训练跑鞋) | 160X 的训练搭档,缓震与支撑均衡,可胜任长距离慢跑与课表训练,价格亲民,是大众跑者的月跑量担当。 | data\img\xtep-260.jpg
+yonex-astrox | 尤尼克斯 天斧系列球拍(ASTROX,羽毛球拍) | 尤尼克斯头重进攻型球拍代表,连续下压威力十足,天斧 99Pro 与 100ZZ 等型号被顶级单打选手广泛使用,是进攻型爱 | data\img\yonex-astrox.jpg
+yonex-nanoflare | 尤尼克斯 疾光系列球拍(NANOFLARE,羽毛球拍) | 主打极速挥拍的破风框球拍,拍框切风阻力小,双打平抽挡优势明显,疾光 800Pro 是职业双打赛场最常见的球拍之一。 | data\img\yonex-nanoflare.jpg
+yonex-power-cushion | 尤尼克斯 Power Cushion 羽毛球鞋(Power Cushion,羽毛球鞋) | 以招牌「Power Cushion」吸震回弹科技打造,配合防滑大底与侧向支撑,急停跳跃更安心,是羽毛球鞋领域的标杆产品。 | data\img\yonex-power-cushion.jpg
+yonex-aerosensa | 尤尼克斯 Aerosensa 比赛用球(Aerosensa,羽毛球) | 鸭毛比赛用球,飞行稳定、耐打度好,是众多业余赛事的指定用球,按耐打程度分为 AS-9、AS-30 等多个型号。 | data\img\yonex-aerosensa.jpg

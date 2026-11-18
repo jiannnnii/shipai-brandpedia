@@ -1,0 +1,4676 @@
+[
+ {
+  "id": "ap-royaloak",
+  "verdict": "mismatch",
+  "note": "图是夹绳上挂着写有I LOVE YOU的爱心卡片照片，与皇家橡树腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "ap-offshore",
+  "verdict": "mismatch",
+  "note": "图是“520为爱放价”情人节促销海报，与皇家橡树离岸型腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "ap-code1159",
+  "verdict": "mismatch",
+  "note": "图是地球仪与埃菲尔铁塔、自由女神像等地标建筑的卡通插画，与爱彼CODE 11.59腕表完全无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "ap-millenary",
+  "verdict": "mismatch",
+  "note": "图是穿粉色背带短裤的女孩拿牙刷的人像照片，与千禧系列女表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "blancpain-fiftyfathoms",
+  "verdict": "mismatch",
+  "note": "图是汉字“宝”的识字卡片，与宝珀五十噚潜水表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "blancpain-leman",
+  "verdict": "mismatch",
+  "note": "图是《死亡笔记》周边笔记本商品广告图，与雷蒙湖腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "boucheron-quatre",
+  "verdict": "mismatch",
+  "note": "图是一枚满镶绿色宝石的球形物件（似Contemplation系列），并非巴黎钉纹四环Quatre戒指",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "boucheron-animals",
+  "verdict": "mismatch",
+  "note": "图是宝诗龙播客视频封面，带播放按钮，展示的是蓝宝石钻石手镯，不是动物系列珠宝",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "boucheron-serpentboheme",
+  "verdict": "ok",
+  "note": "模特颈间佩戴双水滴蛇头纹样的Serpent Bohème钻石颈链，与描述相符",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "bvlgari-serpenti",
+  "verdict": "ok",
+  "note": "图为宝格丽Serpenti蛇形链珠宝腕表实拍，玫瑰金鳞片链带与钻石表圈清晰可辨。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "bvlgari-bzero1",
+  "verdict": "mismatch",
+  "note": "图是宝格丽Serpenti Seduttori蛇形腕表，不是B.zero1弹簧螺旋戒指",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "bvlgari-diva",
+  "verdict": "ok",
+  "note": "图为宝格丽表盘带BVLGARI字样的高级珠宝表，扇形马赛克元素与Diva's Dream系列相符",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "bvlgari-octo",
+  "verdict": "mismatch",
+  "note": "图里实际是一台空气炸锅的触控面板，显示温度180度和20分钟，与腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "bvlgari-bvlgari",
+  "verdict": "mismatch",
+  "note": "图里是热带海滩风景照（碧海白沙），与Bvlgari Bvlgari双环首饰无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "casio-gshock",
+  "verdict": "ok",
+  "note": "图为卡西欧G-SHOCK GA-110黑金配色实物照，表盘文字清晰，主体正确。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "casio-babyg",
+  "verdict": "mismatch",
+  "note": "图里是全金属方块G-SHOCK男款金表（带水印），不是BABY-G女性小表径系列",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "casio-edifice",
+  "verdict": "mismatch",
+  "note": "图里是黑色方形G-SHOCK潜水宣传图（带知乎水印），并非EDIFICE金属计时表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "casio-oceanus",
+  "verdict": "ok",
+  "note": "图为OCEANUS CASIO五电机波多贝罗款实物图，蓝宝石切圈高级线特征清晰",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chopard-happydiamonds",
+  "verdict": "mismatch",
+  "note": "图里是中文机械夹具设计书页（自动化夹具安装与夹紧方法），与快乐钻石无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chopard-millemiglia",
+  "verdict": "mismatch",
+  "note": "图里是\"长征\"红军主题红色宣传海报（摄图网素材），与腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chopard-imperial",
+  "verdict": "mismatch",
+  "note": "图里是戴蓝色手套的手捏微针贴片并布满优微生物水印，与Imperial女表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chowsangsang-charme",
+  "verdict": "mismatch",
+  "note": "图里是橙色背景的三个南瓜装饰照片（摄图网素材），与串珠无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chowsangsang-promessa",
+  "verdict": "mismatch",
+  "note": "图是复式楼室内装修效果图，与Promessa钻戒无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "chowsangsang-goldbean",
+  "verdict": "mismatch",
+  "note": "图是“异维A酸红霉素凝胶”药品包装盒，与金豆豆黄金产品无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "chowtaifook-marriage",
+  "verdict": "mismatch",
+  "note": "图为周大福门店内景（招牌与柜台），并非婚嫁三金产品实物",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "chowtaifook-transferbead",
+  "verdict": "ok",
+  "note": "图是周大福LINE FRIENDS联名红绳金珠转运珠手链实拍，与转运珠产品相符。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "chowtaifook-diamond",
+  "verdict": "mismatch",
+  "note": "图为周大福春启玫瑰序章足金玫瑰系列黄金饰促销横幅,无钻石镶嵌产品",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "citizen-ecodrive",
+  "verdict": "ok",
+  "note": "图为西铁城光动能蓝天使腕表白盘实物特写，表盘可见CITIZEN与ECO-DRIVE标识",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "darryring-loveletter",
+  "verdict": "mismatch",
+  "note": "图是一款RPG游戏的战斗截图（带九游水印），与DR求婚钻戒完全无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "darryring-validate",
+  "verdict": "mismatch",
+  "note": "图是一位女生在餐厅用餐的自拍照，与DR真爱验证服务无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "fiyta-spacemaster",
+  "verdict": "mismatch",
+  "note": "图为草地上秋日落叶的风景照，与飞亚达航天腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "fiyta-culture",
+  "verdict": "mismatch",
+  "note": "图为WABCO黑色滤清器（干燥罐）产品图，带上海钰金工贸水印",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "fiyta-laurel",
+  "verdict": "mismatch",
+  "note": "图为黑色背景上的红色螺旋图形，与正装腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "fiyta-sport",
+  "verdict": "mismatch",
+  "note": "图为禁酒劝餐题材的卡通插画，与运动腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "franckmuller-cintree",
+  "verdict": "mismatch",
+  "note": "图是客厅电视墙装修效果图，与法穆兰Cintrée Curvex酒桶形腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "franckmuller-vanguard",
+  "verdict": "mismatch",
+  "note": "图为新加坡香格里拉对话会上中国海军少将发言的新闻截图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "franckmuller-crazyhours",
+  "verdict": "mismatch",
+  "note": "图是工地泥泞道路照片，与Crazy Hours腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "franckmuller-colorskeletion",
+  "verdict": "mismatch",
+  "note": "图为一名绿衣女子的户外视频截图，与法穆兰腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "glashuette-pano",
+  "verdict": "mismatch",
+  "note": "图为树林中的白虎照片（带图库水印），与腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "glashuette-senator",
+  "verdict": "mismatch",
+  "note": "图为长发女子的自拍人像（带新欧洲水印），与腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "glashuette-seventies",
+  "verdict": "mismatch",
+  "note": "图为稻田里成熟水稻的照片（带搜狐号水印），与计时码表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "glashuette-spezialist",
+  "verdict": "mismatch",
+  "note": "图里是MLA文献引用格式指南的幻灯片拼贴插画,与手表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "gp-laureato",
+  "verdict": "mismatch",
+  "note": "图里是橙红色调的游戏场景截图(游戏机迷GAMEFUNS),与芝柏桂冠手表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "gp-1966",
+  "verdict": "mismatch",
+  "note": "图片是讲解ROE净资产收益率的财经知识信息图,与正装腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "gp-cats-eye",
+  "verdict": "mismatch",
+  "note": "图是高山草甸云雾风光照，与猫眼系列女表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "graff-lesedi",
+  "verdict": "mismatch",
+  "note": "图是“汉语查”文字查词图，与Lesedi La Rona钻石作品无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "graff-flames",
+  "verdict": "mismatch",
+  "note": "图为红发持枪动漫少女插画(标注CAISENA),与格拉夫Flames钻石首饰无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "graff-temptation",
+  "verdict": "mismatch",
+  "note": "图是三星堆黄金青铜面具文物照片，与Twin Row双排钻戒无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "hamilton-ventura",
+  "verdict": "mismatch",
+  "note": "图为SHALUO牌SX460发电机电压调节器电路板,与汉米尔顿Ventura腕表无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "hamilton-khaki",
+  "verdict": "mismatch",
+  "note": "图为即梦视频AI剪辑软件宣传图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "hamilton-jazzmaster",
+  "verdict": "mismatch",
+  "note": "图为水闸泄洪航拍风景照",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "hamilton-intra-matic",
+  "verdict": "mismatch",
+  "note": "图为摄图网水印稻穗特写",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "harrywinston-cluster",
+  "verdict": "mismatch",
+  "note": "图为带水印海水海滩风景照",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "harrywinston-hope",
+  "verdict": "mismatch",
+  "note": "图为昵享网水印水下海水波纹图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "harrywinston-opus",
+  "verdict": "mismatch",
+  "note": "图为摄图网水印海浪拍礁石风景照",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "harrywinston-premier",
+  "verdict": "mismatch",
+  "note": "图为昵享网水印大海波浪图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "hublot-classicfusion",
+  "verdict": "mismatch",
+  "note": "图为汽车空气悬挂压缩机泵体配件图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "hublot-spirit",
+  "verdict": "mismatch",
+  "note": "拳皇游戏人物立绘,与宇舶Spirit of Big Bang无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "hublot-mp",
+  "verdict": "mismatch",
+  "note": "图为IMAGER 5010三维激光扫描仪",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "iwc-bigpilot",
+  "verdict": "mismatch",
+  "note": "图为万国葡萄牙七日链白盘，非大飞行员",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "iwc-portugieser",
+  "verdict": "ok",
+  "note": "万国葡萄牙系列万年历金壳实拍,图对题",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "iwc-mark",
+  "verdict": "mismatch",
+  "note": "图为万国大飞行员7日链黑盘，非马克系列",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "iwc-ingenieur",
+  "verdict": "mismatch",
+  "note": "图为万国Aquatimer海洋时计金色计时表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "jlc-reverso",
+  "verdict": "mismatch",
+  "note": "图为积家约会系列圆形镶钻女表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "jlc-mastercontrol",
+  "verdict": "mismatch",
+  "note": "图为酒吧吧台洋酒瓶照片",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "jlc-duometre",
+  "verdict": "mismatch",
+  "note": "贝克曼CytoFLEX流式细胞仪产品图,与积家双翼无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "jlc-atmos",
+  "verdict": "mismatch",
+  "note": "图为GitHub仓库页面截图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "lange-lange1",
+  "verdict": "mismatch",
+  "note": "图为比亚迪闪充发布会舞台大屏",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laofengxiang-birdbracelet",
+  "verdict": "mismatch",
+  "note": "图为老挝国旗",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laofengxiang-silver",
+  "verdict": "mismatch",
+  "note": "图为老挝国旗",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laofengxiang-pearl",
+  "verdict": "mismatch",
+  "note": "图里是老挝国旗圆形图标,与珍珠首饰无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laomiao-lucky",
+  "verdict": "mismatch",
+  "note": "图里是wifi万能钥匙看密码的手机教程截图,与黄金首饰无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laomiao-zodiac",
+  "verdict": "mismatch",
+  "note": "红色遥控越野车玩具图,与老庙生肖金无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "laomiao-ancient",
+  "verdict": "mismatch",
+  "note": "图为信阳白茶车间摊晾茶青照片",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "laomiao-guochao",
+  "verdict": "mismatch",
+  "note": "图为CF论坛QQ签到助手软件界面",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "longines-master",
+  "verdict": "mismatch",
+  "note": "图为浪琴经典三针正装表，非名匠",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "longines-hydroconquest",
+  "verdict": "mismatch",
+  "note": "图为浪琴金壳黑盘正装表，非康卡斯",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "longines-spirit",
+  "verdict": "mismatch",
+  "note": "图为浪琴银盘三针正装表，非先行者",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "longines-equestrian",
+  "verdict": "mismatch",
+  "note": "图为浪琴银盘三针正装男表，非骑仕女表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "mido-barcellini",
+  "verdict": "mismatch",
+  "note": "绿色山地风景图,与美度贝伦赛丽无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "mido-oceanstar",
+  "verdict": "mismatch",
+  "note": "图为灰西装女士挥手致意照片",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "mikimoto-necklace",
+  "verdict": "mismatch",
+  "note": "图为模特珍珠项链与耳钉拼图，非经典串链",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "mikimoto-firstpearl",
+  "verdict": "mismatch",
+  "note": "图为淘宝商品页截图珍珠耳钉",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "mikimoto-pearlinmotion",
+  "verdict": "logo",
+  "note": "图为MIKIMOTO精品店店内实拍，无具体产品",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "mikimoto-jewelrywatch",
+  "verdict": "mismatch",
+  "note": "图为MIKIMOTO甜品店柜台展示",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "oris-aquis",
+  "verdict": "mismatch",
+  "note": "图为游戏Ragnarok Odyssey宣传图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "oris-bigcrown",
+  "verdict": "mismatch",
+  "note": "游戏角色3D渲染图,与豪利时大表冠无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "oris-divers65",
+  "verdict": "mismatch",
+  "note": "肺部健康插图,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "pandora-charms",
+  "verdict": "ok",
+  "note": "潘多拉串珠手链天猫双11官方促销图,图对题",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "pandora-bracelet",
+  "verdict": "ok",
+  "note": "串珠手链实物",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "pandora-hearts",
+  "verdict": "lowq",
+  "note": "多品广告拼图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "pandora-labgrown",
+  "verdict": "mismatch",
+  "note": "非培育钻戒指",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "patek-aquanaut",
+  "verdict": "mismatch",
+  "note": "是复杂款金表,非手雷",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "piaget-altiplano",
+  "verdict": "logo",
+  "note": "展览门头招牌",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "piaget-polo",
+  "verdict": "ok",
+  "note": "伯爵Polo系列表底机芯官方图,图对题",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "piaget-possession",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "piaget-limelight",
+  "verdict": "mismatch",
+  "note": "是镂空Polo表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "qeelin-wulu",
+  "verdict": "mismatch",
+  "note": "乐高幻影忍者积木图,与麒麟Wulu葫芦无关",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "qeelin-bobo",
+  "verdict": "mismatch",
+  "note": "毕业合影,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "qeelin-ruyi",
+  "verdict": "mismatch",
+  "note": "图是皇马球员（姆巴佩）比赛照片，与如意系列首饰无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "qeelin-linglong",
+  "verdict": "mismatch",
+  "note": "图是皮影戏大象工艺品，与玲珑系列首饰无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "rado-captaincook",
+  "verdict": "mismatch",
+  "note": "大学徽章,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "rado-truethinline",
+  "verdict": "mismatch",
+  "note": "图是夜晚的射电望远镜，与真薄系列腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "rado-centrix",
+  "verdict": "mismatch",
+  "note": "绘画班合影,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "rado-diastar",
+  "verdict": "mismatch",
+  "note": "英国国旗街景,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "raymondweil-freelancer",
+  "verdict": "mismatch",
+  "note": "图是红旗飘扬的照片，与Freelancer腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "raymondweil-maestro",
+  "verdict": "mismatch",
+  "note": "乒乓球运动员,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "richardmille-rm011",
+  "verdict": "mismatch",
+  "note": "长城剪影插画,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "richardmille-rm27",
+  "verdict": "mismatch",
+  "note": "人物自拍,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "richardmille-rm07",
+  "verdict": "mismatch",
+  "note": "毕业礼服照,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "richardmille-rm67",
+  "verdict": "mismatch",
+  "note": "农田井盖,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "rolex-submariner",
+  "verdict": "ok",
+  "note": "图为间金蓝圈Submariner潜航者实拍，表盘明确标注SUBMARINER，产品正确。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "rolex-daytona",
+  "verdict": "mismatch",
+  "note": "是Sky-Dweller",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "rolex-datejust",
+  "verdict": "mismatch",
+  "note": "是Day-Date",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "rolex-gmt",
+  "verdict": "mismatch",
+  "note": "网易logo,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seagull-st19",
+  "verdict": "mismatch",
+  "note": "沙漠海岸,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seagull-tourbillon",
+  "verdict": "mismatch",
+  "note": "海岛风景图,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seagull-d304",
+  "verdict": "mismatch",
+  "note": "海景图,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seagull-moonphase",
+  "verdict": "mismatch",
+  "note": "海岸航拍,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seiko-prospex",
+  "verdict": "mismatch",
+  "note": "扑克牌,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seiko-presage",
+  "verdict": "mismatch",
+  "note": "经络穴位图,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "seiko-astron",
+  "verdict": "mismatch",
+  "note": "医疗设备,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "swarovski-swan",
+  "verdict": "ok",
+  "note": "施华洛世奇天鹅造型水晶项链特写,符合天鹅系列",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "swarovski-heartbeat",
+  "verdict": "mismatch",
+  "note": "图是施华洛世奇广告大片（模特趴在巨型钻石上），人物海报而非跳动的心项链单品图。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "swarovski-millenia",
+  "verdict": "mismatch",
+  "note": "文凭广告图,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "swarovski-duo",
+  "verdict": "mismatch",
+  "note": "研究所大门,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tagheuer-carrera",
+  "verdict": "mismatch",
+  "note": "图是西门子NX三维建模软件的操作截图，与泰格豪雅卡莱拉无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "tagheuer-monaco",
+  "verdict": "mismatch",
+  "note": "奥特曼动画,无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tagheuer-aquaracer",
+  "verdict": "mismatch",
+  "note": "图为树木非手表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tagheuer-formula1",
+  "verdict": "mismatch",
+  "note": "斯柯达赛车非手表",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tasaki-balance",
+  "verdict": "mismatch",
+  "note": "图是草地上吐舌头的边境牧羊犬幼犬照片，与balance珍珠首饰无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "tasaki-signature",
+  "verdict": "mismatch",
+  "note": "动漫人物图无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tasaki-atelier",
+  "verdict": "mismatch",
+  "note": "人像风景无珠宝",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tiffany-setting",
+  "verdict": "logo",
+  "note": "蓝盒丝带无戒指",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tiffany-tseries",
+  "verdict": "mismatch",
+  "note": "钻石项链非T系",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tiffany-keys",
+  "verdict": "mismatch",
+  "note": "彩宝项链非钥匙",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tiffany-smile",
+  "verdict": "mismatch",
+  "note": "刻字戒指非项链",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tiffany-return",
+  "verdict": "mismatch",
+  "note": "T1手镯非铭牌",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tissot-locator",
+  "verdict": "mismatch",
+  "note": "酒桶形复古款非力洛克",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tissot-prx",
+  "verdict": "ok",
+  "note": "PRX蓝盘正确",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tissot-seastar",
+  "verdict": "logo",
+  "note": "仅品牌logo",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tissot-chemindesindices",
+  "verdict": "mismatch",
+  "note": "大峡谷风景图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tudor-blackbay",
+  "verdict": "mismatch",
+  "note": "拉斯维加斯夜景",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tudor-blackbaychrono",
+  "verdict": "mismatch",
+  "note": "图是端午节安康粽子插画海报，与碧湾计时腕表无关。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "tudor-royal",
+  "verdict": "mismatch",
+  "note": "沙滩排球赛图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "tudor-pelagos",
+  "verdict": "mismatch",
+  "note": "游戏社区网页",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "ulysse-sonata",
+  "verdict": "mismatch",
+  "note": "美腿写真无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "ulysse-cloisonne",
+  "verdict": "mismatch",
+  "note": "香料食材图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vc-overseas",
+  "verdict": "ok",
+  "note": "图为江诗丹顿纵横四海蓝盘钢链腕表实拍，表圈带马耳他十字暗纹，产品正确。",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "vc-patrimony",
+  "verdict": "ok",
+  "note": "江诗丹顿传承系列Patrimony官方产品图,完全对应",
+  "src": "verdict-latest-watchjewel.json"
+ },
+ {
+  "id": "vc-traditionnelle",
+  "verdict": "mismatch",
+  "note": "纵横四海非传袭",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vc-metiers",
+  "verdict": "mismatch",
+  "note": "达赖语录图无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vca-alhambra",
+  "verdict": "mismatch",
+  "note": "面包车露营图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vca-frivole",
+  "verdict": "mismatch",
+  "note": "白色厢式货车",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vca-perlee",
+  "verdict": "mismatch",
+  "note": "货车车队无关",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "vca-ballerina",
+  "verdict": "mismatch",
+  "note": "绿色面包车图",
+  "src": "w5-done.json"
+ },
+ {
+  "id": "alexandermcqueen-oversizedsneaker",
+  "verdict": "mismatch",
+  "note": "雕像场景无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "alexandermcqueen-treadslick",
+  "verdict": "mismatch",
+  "note": "狮身人面像雕像",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "alexandermcqueen-knuckle",
+  "verdict": "mismatch",
+  "note": "罗马尼亚邮票",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "alexandermcqueen-skullscarf",
+  "verdict": "mismatch",
+  "note": "狮身人面像雕像",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "alexandermcqueen-tailoring",
+  "verdict": "mismatch",
+  "note": "建筑喷泉景观",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "alexandermcqueen-jackets",
+  "verdict": "mismatch",
+  "note": "骑马雕像非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "balenciaga-le-city",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "balenciaga-hourglass",
+  "verdict": "ok",
+  "note": "沙漏包实物陈列",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "balenciaga-triple-s",
+  "verdict": "ok",
+  "note": "Triple S实物特写",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "balenciaga-track",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "balenciaga-speed",
+  "verdict": "mismatch",
+  "note": "非袜子鞋,全身造型照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bally-loafers",
+  "verdict": "logo",
+  "note": "门店招牌明星照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bally-derbyshoes",
+  "verdict": "mismatch",
+  "note": "秀场皮草长靴",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bally-bags",
+  "verdict": "ok",
+  "note": "旅行手袋实拍",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bally-smallgoods",
+  "verdict": "mismatch",
+  "note": "背的是挎包非小皮具",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-suit",
+  "verdict": "ok",
+  "note": "西装主体清晰",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-shirt",
+  "verdict": "mismatch",
+  "note": "影院海报非衬衫",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-bottled",
+  "verdict": "mismatch",
+  "note": "服饰广告无香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-polo",
+  "verdict": "ok",
+  "note": "男士穿Polo可辨",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-accessories",
+  "verdict": "mismatch",
+  "note": "山景无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "boss-watch",
+  "verdict": "mismatch",
+  "note": "新闻横幅无产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bottega-veneta-cassette",
+  "verdict": "mismatch",
+  "note": "图是六合彩号码走势图截图,与枕头包无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "bottega-veneta-arco",
+  "verdict": "mismatch",
+  "note": "卡通小狗图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bottega-veneta-andiamo",
+  "verdict": "mismatch",
+  "note": "猫咪照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bottega-veneta-flash-flats",
+  "verdict": "mismatch",
+  "note": "动漫插画无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bb-1818suit",
+  "verdict": "mismatch",
+  "note": "Brooks品牌logo",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bb-goldenfleece",
+  "verdict": "mismatch",
+  "note": "错误品牌纯logo",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bb-cashmere",
+  "verdict": "mismatch",
+  "note": "跑步鞋无关品牌",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bc-cashmere-sweater",
+  "verdict": "mismatch",
+  "note": "角阀完全无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "bc-cashmere-tshirt",
+  "verdict": "mismatch",
+  "note": "游戏截图无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "celine-luggage",
+  "verdict": "mismatch",
+  "note": "服装广告非笑脸包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "celine-belt-bag",
+  "verdict": "logo",
+  "note": "仅品牌广告无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "celine-ava",
+  "verdict": "mismatch",
+  "note": "图为16款手提包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "celine-16",
+  "verdict": "logo",
+  "note": "仅人像广告无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chanel-boy",
+  "verdict": "mismatch",
+  "note": "秀场成衣无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chanel-19",
+  "verdict": "mismatch",
+  "note": "包非19款",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chanel-coco-handle",
+  "verdict": "mismatch",
+  "note": "竹编化妆箱包,非Coco Handle",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chanel-chance",
+  "verdict": "mismatch",
+  "note": "香奈儿彩妆组合,非邂逅香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chloe-drew",
+  "verdict": "mismatch",
+  "note": "圣诞树挂饰,无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chloe-marcie",
+  "verdict": "mismatch",
+  "note": "猫头鹰飞鸟,无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chloe-faye",
+  "verdict": "mismatch",
+  "note": "图为房屋建筑结构轴测示意图，与Faye手袋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "chloe-woody",
+  "verdict": "mismatch",
+  "note": "图为乒乓球运动员樊振东比赛照（带人民日报客户端水印），与Woody托特包无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "chloe-fragrance",
+  "verdict": "mismatch",
+  "note": "绿叶风景,无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "chloe-readytowear",
+  "verdict": "mismatch",
+  "note": "励志文字配图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cl-sokate",
+  "verdict": "mismatch",
+  "note": "龙的绘画",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cl-pigallefollies",
+  "verdict": "mismatch",
+  "note": "女子人像非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cl-iriza",
+  "verdict": "mismatch",
+  "note": "居酒屋场景",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cl-kate",
+  "verdict": "mismatch",
+  "note": "悬崖插画",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cl-louisjunior",
+  "verdict": "mismatch",
+  "note": "图为图书馆建筑外景图库照片（带昵图网水印），与Louis Junior男士运动鞋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "cdg-play",
+  "verdict": "mismatch",
+  "note": "乔丹NBA夺冠照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cdg-hommeplus",
+  "verdict": "mismatch",
+  "note": "明星人像无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cdg-shirt",
+  "verdict": "mismatch",
+  "note": "奥林匹克日海报",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "cdg-parfums",
+  "verdict": "mismatch",
+  "note": "真善忍徽章无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "coach-tote",
+  "verdict": "mismatch",
+  "note": "广告图无产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "coach-wallets",
+  "verdict": "mismatch",
+  "note": "是手袋非钱包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "coach-mensbags",
+  "verdict": "mismatch",
+  "note": "光伏房屋广告",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dz-dress",
+  "verdict": "mismatch",
+  "note": "清真寺照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dz-coat",
+  "verdict": "mismatch",
+  "note": "方位教学图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dz-denim",
+  "verdict": "mismatch",
+  "note": "爆炸航拍图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dior-lady-dior",
+  "verdict": "ok",
+  "note": "广告图戴妃包清晰",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dior-saddle",
+  "verdict": "ok",
+  "note": "马鞍包实物清晰",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dior-book-tote",
+  "verdict": "logo",
+  "note": "仅秀场DIOR标牌无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dior-30-montaigne",
+  "verdict": "mismatch",
+  "note": "图中为Caro非蒙田包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dior-caro",
+  "verdict": "mismatch",
+  "note": "农田照片完全无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dolce-gabbana-sicily",
+  "verdict": "mismatch",
+  "note": "图为三只鸭子在水边的照片（带摄图网水印），与Sicily手袋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "dolce-gabbana-devotion",
+  "verdict": "mismatch",
+  "note": "瓶身非手袋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dolce-gabbana-light-blue",
+  "verdict": "mismatch",
+  "note": "弹钢琴无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dolce-gabbana-crystal-flats",
+  "verdict": "mismatch",
+  "note": "雪山风景图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "dolce-gabbana-the-one",
+  "verdict": "mismatch",
+  "note": "烟花灯光装置",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "etro-paisleyshirt",
+  "verdict": "mismatch",
+  "note": "卡通蘑菇屋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "etro-scarves",
+  "verdict": "mismatch",
+  "note": "古生物插图无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "etro-ties",
+  "verdict": "mismatch",
+  "note": "武士游戏画面",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "etro-bags",
+  "verdict": "mismatch",
+  "note": "图为紫色背景的“Sugar Ark”品牌logo图，与艾绰手袋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "etro-readytowear",
+  "verdict": "mismatch",
+  "note": "风景照无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "etro-fragrance",
+  "verdict": "mismatch",
+  "note": "人物照非香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "fendi-by-the-way",
+  "verdict": "mismatch",
+  "note": "法棍包非ByTheWay",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ferragamo-vara",
+  "verdict": "mismatch",
+  "note": "图为苗木基地盆栽灌木照片，与Vara蝴蝶结鞋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "ferragamo-varina",
+  "verdict": "mismatch",
+  "note": "图为黑底白色虚线交叉的几何图案图，与Varina芭蕾鞋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "ferragamo-signorina",
+  "verdict": "mismatch",
+  "note": "图为影视剧女演员回眸剧照，与Signorina香水无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "furla-1927",
+  "verdict": "mismatch",
+  "note": "图为农民在田间从卡车搬运苗木的劳动场景照片，与Furla 1927手袋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "furla-metropolis",
+  "verdict": "mismatch",
+  "note": "图片是薰衣草田日落风景照,与Metropolis手袋无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "furla-candy",
+  "verdict": "mismatch",
+  "note": "汽车密封条非包袋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "furla-net",
+  "verdict": "mismatch",
+  "note": "数据表格无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "furla-wallets",
+  "verdict": "mismatch",
+  "note": "儿童创意画无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "furla-tote",
+  "verdict": "mismatch",
+  "note": "舞蹈表演剧照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "giorgio-armani-suit",
+  "verdict": "mismatch",
+  "note": "篮球运动员无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "giorgio-armani-la-prima",
+  "verdict": "mismatch",
+  "note": "图片是NBA球员保罗·乔治持球比赛照,与La Prima手袋无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "giorgio-armani-acqua-di-gio",
+  "verdict": "mismatch",
+  "note": "图片是NBA球员保罗·乔治穿OKC雷霆队服的照片,与寄情香水无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "giorgio-armani-si",
+  "verdict": "mismatch",
+  "note": "图片是NBA球员保罗·乔治的球场照片,与挚爱香水无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "giorgio-armani-coat",
+  "verdict": "mismatch",
+  "note": "图片是NBA球员保罗·乔治身穿步行者队球衣的照片,与羊绒大衣无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "givenchy-antigona",
+  "verdict": "mismatch",
+  "note": "秀场模特穿衣服无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "givenchy-gv3",
+  "verdict": "mismatch",
+  "note": "秀场成衣无该包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "givenchy-eden",
+  "verdict": "mismatch",
+  "note": "秀场服装无该包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "givenchy-voyou",
+  "verdict": "lowq",
+  "note": "包被手臂遮挡难辨认",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "givenchy-le-rouge",
+  "verdict": "ok",
+  "note": "纪梵希官方美妆海报,画面中央可见Le Rouge口红产品本体,主体正确",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "givenchy-linterdit",
+  "verdict": "mismatch",
+  "note": "秀场服装非香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "gucci-marmont",
+  "verdict": "mismatch",
+  "note": "包小且非Marmont",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "gucci-dionysus",
+  "verdict": "mismatch",
+  "note": "非酒神虎头扣",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "gucci-horsebit-1955",
+  "verdict": "ok",
+  "note": "红色马衔扣包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "gucci-ophidia",
+  "verdict": "mismatch",
+  "note": "白色手提非Ophidia",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-birkin",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-kelly",
+  "verdict": "mismatch",
+  "note": "是铂金包非凯莉",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-constance",
+  "verdict": "mismatch",
+  "note": "是铂金包非康斯坦丝",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-lindy",
+  "verdict": "mismatch",
+  "note": "是铂金包非琳迪",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-carre-scarf",
+  "verdict": "mismatch",
+  "note": "是书籍非丝巾",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "hermes-clic-h",
+  "verdict": "logo",
+  "note": "仅品牌标志无产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "im-pleatsplease",
+  "verdict": "mismatch",
+  "note": "玫瑰花丛无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "im-me",
+  "verdict": "mismatch",
+  "note": "树叶露珠无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "im-mainline",
+  "verdict": "mismatch",
+  "note": "紫色孕妇裙不符",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jpg-lemale",
+  "verdict": "ok",
+  "note": "全家福含本款",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jpg-classique",
+  "verdict": "mismatch",
+  "note": "图片是游戏角色cosplay照片(冰雪主题装束),与Classique女士香水无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "jpg-labelle",
+  "verdict": "mismatch",
+  "note": "古迹废墟无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jc-romy",
+  "verdict": "mismatch",
+  "note": "海滩风景图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jc-anouk",
+  "verdict": "mismatch",
+  "note": "元素周期表图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jc-diamond",
+  "verdict": "mismatch",
+  "note": "物理课本页面",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jnby-dress",
+  "verdict": "mismatch",
+  "note": "红色外套非连衣裙",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jnby-coat",
+  "verdict": "ok",
+  "note": "黑色廓形西服外套",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jnby-knit",
+  "verdict": "mismatch",
+  "note": "童装走秀非针织衫",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jnby-shirt",
+  "verdict": "mismatch",
+  "note": "走秀外套非衬衫",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "jnby-pants",
+  "verdict": "ok",
+  "note": "印花阔腿裤可辨",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "katespade-handbags",
+  "verdict": "mismatch",
+  "note": "凯特王妃照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "katespade-tote",
+  "verdict": "mismatch",
+  "note": "凯特王妃照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "katespade-lifestyle",
+  "verdict": "mismatch",
+  "note": "人物照片非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "kenzo-tigertee",
+  "verdict": "logo",
+  "note": "仅品牌logo图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "kenzo-fragrance",
+  "verdict": "mismatch",
+  "note": "门店招牌非香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "kenzo-sneakers",
+  "verdict": "mismatch",
+  "note": "模特穿外套非鞋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "kenzo-readytowear",
+  "verdict": "ok",
+  "note": "Kenzo衬衫成衣",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "lacoste-slimpolo",
+  "verdict": "mismatch",
+  "note": "海浪无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "lacoste-carnaby",
+  "verdict": "mismatch",
+  "note": "儿童服装拼图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "lacoste-tshirt",
+  "verdict": "mismatch",
+  "note": "机器人无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "lacoste-l1212parfum",
+  "verdict": "mismatch",
+  "note": "香瓜无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "lacoste-knit",
+  "verdict": "mismatch",
+  "note": "图是动漫《海贼王》角色特拉法尔加·罗的截图，与针织开衫无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "loewe-puzzle",
+  "verdict": "logo",
+  "note": "门店招牌非Puzzle包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "loewe-gate",
+  "verdict": "logo",
+  "note": "品牌包装盒无包",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "longchamp-lepliage",
+  "verdict": "mismatch",
+  "note": "汽车软管无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "longchamp-roseau",
+  "verdict": "mismatch",
+  "note": "加油站洗车卡广告",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "longchamp-smallgoods",
+  "verdict": "mismatch",
+  "note": "直播平台logo图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "longchamp-readytowear",
+  "verdict": "mismatch",
+  "note": "图是中医古籍《金匮要略》书页，与成衣配饰无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "louis-vuitton-neverfull",
+  "verdict": "mismatch",
+  "note": "图是科研论文图表拼贴（脑机接口实验），与Neverfull托特包无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "louis-vuitton-speedy",
+  "verdict": "mismatch",
+  "note": "特摄战队合影",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "louis-vuitton-capucines",
+  "verdict": "mismatch",
+  "note": "五粮液白酒包装",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "louis-vuitton-onthego",
+  "verdict": "mismatch",
+  "note": "向日葵照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "louis-vuitton-twist",
+  "verdict": "mismatch",
+  "note": "荷花图库照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "louis-vuitton-petite-malle",
+  "verdict": "mismatch",
+  "note": "卡通插画非实物",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "mb-hangisi",
+  "verdict": "mismatch",
+  "note": "图片是马",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "mb-bb",
+  "verdict": "mismatch",
+  "note": "图片是马",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "mb-chaos",
+  "verdict": "mismatch",
+  "note": "图片是马",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "mb-carolyne",
+  "verdict": "mismatch",
+  "note": "图片是马",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "mb-maysale",
+  "verdict": "mismatch",
+  "note": "图是雪原上奔跑的白马，与Maysale穆勒鞋无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "mb-sedaraby",
+  "verdict": "mismatch",
+  "note": "图是三匹奔跑的骏马合成图，与Sedaraby d'Orsay鞋无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "max-mara-101801",
+  "verdict": "mismatch",
+  "note": "图片是人像非大衣",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "max-mara-teddy",
+  "verdict": "mismatch",
+  "note": "人物照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "max-mara-manuela",
+  "verdict": "mismatch",
+  "note": "动漫cosplay无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "max-mara-rialto",
+  "verdict": "mismatch",
+  "note": "工业系统图无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "max-mara-ludmilla",
+  "verdict": "mismatch",
+  "note": "图是木勺盛大麦米的食材图，与Ludmilla大衣无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "michaelkors-jetset",
+  "verdict": "mismatch",
+  "note": "人物照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "michaelkors-hamilton",
+  "verdict": "mismatch",
+  "note": "人物照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "michaelkors-crossbody",
+  "verdict": "mismatch",
+  "note": "海岸风景图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "michaelkors-watches",
+  "verdict": "mismatch",
+  "note": "人物照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "michaelkors-wallets",
+  "verdict": "mismatch",
+  "note": "电影海报无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "michaelkors-sunglasses",
+  "verdict": "mismatch",
+  "note": "舞台照无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "miu-miu-arcadie",
+  "verdict": "mismatch",
+  "note": "聊天截图无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moncler-maya",
+  "verdict": "mismatch",
+  "note": "学历证书非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moncler-grenoble",
+  "verdict": "mismatch",
+  "note": "图是留学申请系统填写英文信息的界面截图，与Grenoble滑雪系列无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "moncler-longdown",
+  "verdict": "mismatch",
+  "note": "图是热带海岛碧海沙滩风景照，与长款羽绒服无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "moncler-knitwear",
+  "verdict": "mismatch",
+  "note": "图是放大镜卡通插画素材，与针织衫无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "moncler-accessories",
+  "verdict": "mismatch",
+  "note": "山水插画无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moncler-boots",
+  "verdict": "mismatch",
+  "note": "报纸版面无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moschino-teddytee",
+  "verdict": "mismatch",
+  "note": "城市湖景无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moschino-teddybag",
+  "verdict": "mismatch",
+  "note": "高铁列车照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "moschino-hoodies",
+  "verdict": "mismatch",
+  "note": "古装发髻梳妆图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ps-stripe-knit",
+  "verdict": "mismatch",
+  "note": "石雕雕像照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ps-wallet",
+  "verdict": "mismatch",
+  "note": "电影PAUL海报",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ps-suit",
+  "verdict": "mismatch",
+  "note": "人物肖像非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ps-shirt",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ps-socks",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "pp-skull-tee",
+  "verdict": "mismatch",
+  "note": "文凭办证广告",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "pp-crystal-hoodie",
+  "verdict": "mismatch",
+  "note": "图是《新概念英语3》教材封面，与水钻卫衣无关",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "pp-jeans",
+  "verdict": "mismatch",
+  "note": "连环画封面",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "prada-galleria",
+  "verdict": "logo",
+  "note": "门店橱窗招牌",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "prada-re-edition-2005",
+  "verdict": "logo",
+  "note": "门店招牌非产品",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "prada-cloudbust",
+  "verdict": "mismatch",
+  "note": "建筑照片无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ralphlauren-polo",
+  "verdict": "mismatch",
+  "note": "打铁花表演无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ralphlauren-oxfordshirt",
+  "verdict": "mismatch",
+  "note": "阿拉伯语书籍封面",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ralphlauren-knitwear",
+  "verdict": "mismatch",
+  "note": "动漫角色插画",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ralphlauren-accessories",
+  "verdict": "mismatch",
+  "note": "湖泊风景照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ro-pods",
+  "verdict": "mismatch",
+  "note": "动画角色截图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "ro-drkshdw",
+  "verdict": "mismatch",
+  "note": "动画角色截图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "robertocavalli-denim",
+  "verdict": "mismatch",
+  "note": "审讯室照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "robertocavalli-bags",
+  "verdict": "mismatch",
+  "note": "动漫人物插画",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "robertocavalli-fragrance",
+  "verdict": "mismatch",
+  "note": "图为冬季积雪森林阳光风景照,与Roberto Cavalli香水无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "robertocavalli-sunglasses",
+  "verdict": "mismatch",
+  "note": "央视新闻采访截图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "robertocavalli-menswear",
+  "verdict": "mismatch",
+  "note": "罗马斗兽场风景照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "rv-trompette",
+  "verdict": "mismatch",
+  "note": "Rogers音响品牌logo",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "rv-vivrangers",
+  "verdict": "mismatch",
+  "note": "微信群聊截图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "rv-vivrun",
+  "verdict": "mismatch",
+  "note": "费德勒看画照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "saint-laurent-niki",
+  "verdict": "mismatch",
+  "note": "圣徒彩绘玻璃非手袋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "saint-laurent-loulou",
+  "verdict": "mismatch",
+  "note": "圣徒彩绘玻璃非手袋",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "saint-laurent-sac-de-jour",
+  "verdict": "mismatch",
+  "note": "教堂彩窗无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "stellamccartney-falabella",
+  "verdict": "mismatch",
+  "note": "图为考场内学生答题的现场照片,与Falabella链条包无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "stellamccartney-sneakers",
+  "verdict": "mismatch",
+  "note": "图为菲律宾航空(airphilexpress)飞机模型产品图,与运动鞋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "stellamccartney-dresses",
+  "verdict": "mismatch",
+  "note": "数学答案页非裙装",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "stellamccartney-knitwear",
+  "verdict": "mismatch",
+  "note": "国防部发言人照片",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "stellamccartney-sunglasses",
+  "verdict": "mismatch",
+  "note": "AI机器人概念图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "sw-5050",
+  "verdict": "mismatch",
+  "note": "图为游戏穿越火线武器皮肤(狂徒系列)拼图截图,与Stuart Weitzman 5050长靴无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "toryburch-ella",
+  "verdict": "mismatch",
+  "note": "汽车零部件水管",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "toryburch-fleming",
+  "verdict": "mismatch",
+  "note": "大象风景图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "toryburch-readytowear",
+  "verdict": "mismatch",
+  "note": "游戏壁纸图标",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "valentino-rockstud",
+  "verdict": "mismatch",
+  "note": "主体是连衣裙,包太小",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "valentino-roman-stud",
+  "verdict": "mismatch",
+  "note": "演讲现场无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "valentino-vlogo",
+  "verdict": "mismatch",
+  "note": "图片是一位白发女士佩戴金色圆环耳环的人像特写，不是VLOGO手袋产品图。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "valentino-loco",
+  "verdict": "mismatch",
+  "note": "图片是秀场模特穿白色连衣裙走秀的照片，主体为服装造型，不是Locò手袋产品图。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "valentino-vltn-tee",
+  "verdict": "mismatch",
+  "note": "强光手电商品图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "versace-la-medusa",
+  "verdict": "mismatch",
+  "note": "图片是两个卡通儿童穿学士服捧蛋糕的插画，与范思哲美杜莎包无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "versace-greca",
+  "verdict": "mismatch",
+  "note": "医疗MRI设备图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "versace-eros",
+  "verdict": "mismatch",
+  "note": "键盘分区示意图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "versace-dylan-blue",
+  "verdict": "mismatch",
+  "note": "舞台歌手非香水",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "viviennewestwood-orbnecklace",
+  "verdict": "mismatch",
+  "note": "外交会面照",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "viviennewestwood-orbearrings",
+  "verdict": "mismatch",
+  "note": "图片是冼夫人石雕像照片，与土星耳饰无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "viviennewestwood-pearlchoker",
+  "verdict": "mismatch",
+  "note": "图片是天合联盟（SkyTeam）涂装飞机照片，与珍珠颈链无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "yy-mainline",
+  "verdict": "mismatch",
+  "note": "屏幕展台非女装",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "yy-pourhomme",
+  "verdict": "mismatch",
+  "note": "安全生产法展板",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "yy-ys",
+  "verdict": "mismatch",
+  "note": "算法流程图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "yy-y3",
+  "verdict": "mismatch",
+  "note": "手抄报无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "zegna-triple-stitch",
+  "verdict": "mismatch",
+  "note": "图片是橙色秋日城市街景扁平插画，与Triple Stitch乐福鞋无关。",
+  "src": "verdict-latest-fashion-partial.json"
+ },
+ {
+  "id": "zegna-oasi-cashmere",
+  "verdict": "mismatch",
+  "note": "奥特曼书页无关",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "zegna-oasi-coat",
+  "verdict": "mismatch",
+  "note": "吊灯无关图",
+  "src": "f6-fnew.json"
+ },
+ {
+  "id": "tb-cardigan",
+  "verdict": "mismatch",
+  "note": "完全无关,水鸟图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tb-trousers",
+  "verdict": "mismatch",
+  "note": "完全无关,地图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tb-shorts",
+  "verdict": "mismatch",
+  "note": "完全无关,农机",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tods-gommino",
+  "verdict": "mismatch",
+  "note": "完全无关,静电带",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tods-t-timeless",
+  "verdict": "mismatch",
+  "note": "完全无关,水电站",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "sw-highland",
+  "verdict": "mismatch",
+  "note": "与产品无关的文字图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "sw-nudistsong",
+  "verdict": "mismatch",
+  "note": "儿童画兔子无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "sw-nearlynude",
+  "verdict": "mismatch",
+  "note": "特警训练照无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tb-hoodie",
+  "verdict": "mismatch",
+  "note": "风景插画非卫衣",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tods-wave",
+  "verdict": "mismatch",
+  "note": "宇航员训练图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tods-loafer",
+  "verdict": "mismatch",
+  "note": "河流航拍截图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-privateblend",
+  "verdict": "mismatch",
+  "note": "猫和老鼠剧照",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-lipcolor",
+  "verdict": "mismatch",
+  "note": "卡通汤姆猫",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-eyewear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠特写",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-handbags",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-menswear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tomford-womenswear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-polo",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-tommyjeans",
+  "verdict": "mismatch",
+  "note": "图书馆历史宣传页",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-hoodie",
+  "verdict": "mismatch",
+  "note": "停车场入口照片",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-shirts",
+  "verdict": "mismatch",
+  "note": "老电影剧照人物",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-outerwear",
+  "verdict": "mismatch",
+  "note": "迷你电脑主机",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "tommy-accessories",
+  "verdict": "mismatch",
+  "note": "草地蒲公英风景",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "toryburch-kira",
+  "verdict": "mismatch",
+  "note": "男士人像照片",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "bc-scarf",
+  "verdict": "mismatch",
+  "note": "天线宝宝图,非围巾",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "burberry-trenchcoat",
+  "verdict": "mismatch",
+  "note": "列车包厢内景,非风衣",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "burberry-coat",
+  "verdict": "mismatch",
+  "note": "人物肖像非大衣",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "burberry-tbbag",
+  "verdict": "mismatch",
+  "note": "WPS文档截图非包",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "burberry-fragrance",
+  "verdict": "mismatch",
+  "note": "人像非香水",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "cb-hoodie",
+  "verdict": "mismatch",
+  "note": "游戏截图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "cb-pants",
+  "verdict": "mismatch",
+  "note": "螳螂图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "cb-coat",
+  "verdict": "mismatch",
+  "note": "智利地图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "calvinklein-underwear",
+  "verdict": "mismatch",
+  "note": "拼豆图案",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "calvinklein-jeans",
+  "verdict": "mismatch",
+  "note": "火影村插画无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "calvinklein-outerwear",
+  "verdict": "mismatch",
+  "note": "博物馆文创周边",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "canadagoose-expedition",
+  "verdict": "mismatch",
+  "note": "山水风景照无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "canadagoose-langford",
+  "verdict": "mismatch",
+  "note": "专利线稿图无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "canadagoose-chilliwack",
+  "verdict": "mismatch",
+  "note": "生日派对布置无关",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "canadagoose-hybridge",
+  "verdict": "mismatch",
+  "note": "实验室仪器",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "canadagoose-freestyle",
+  "verdict": "mismatch",
+  "note": "儿童绘画图",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "celine-classic-box",
+  "verdict": "mismatch",
+  "note": "F1中国大奖赛海报,非手袋",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "celine-triomphe",
+  "verdict": "mismatch",
+  "note": "F1中国大奖赛海报,非手袋",
+  "src": "f6-fold.json"
+ },
+ {
+  "id": "acquadiparma-colonia",
+  "verdict": "mismatch",
+  "note": "图片是马桶",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "acquadiparma-blu",
+  "verdict": "mismatch",
+  "note": "山湖风景图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "acquadiparma-candle",
+  "verdict": "mismatch",
+  "note": "日历壁纸",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "acquadiparma-leather",
+  "verdict": "mismatch",
+  "note": "手抄报插画",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "acquadiparma-bag",
+  "verdict": "mismatch",
+  "note": "一碗米线",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "albion-skin-conditioner",
+  "verdict": "mismatch",
+  "note": "动漫人物无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "albion-excia-oil",
+  "verdict": "mismatch",
+  "note": "天安门照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "ateliercologne-orange",
+  "verdict": "mismatch",
+  "note": "调色网站截图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "ateliercologne-cedre",
+  "verdict": "mismatch",
+  "note": "寺庙照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "ateliercologne-candle",
+  "verdict": "mismatch",
+  "note": "拼图古迹无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "bobbi-brown-cleansing-oil",
+  "verdict": "mismatch",
+  "note": "战斗姿势素描图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "byredo-rose",
+  "verdict": "mismatch",
+  "note": "抗美援朝插画",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "byredo-gypsy",
+  "verdict": "mismatch",
+  "note": "女生自拍照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "byredo-blanche",
+  "verdict": "mismatch",
+  "note": "工厂车间设备",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "byredo-makeup",
+  "verdict": "mismatch",
+  "note": "名片设计模板",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "ateliercologne-gift",
+  "verdict": "mismatch",
+  "note": "手绘长征路线图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "bobbi-brown-vitamin-base",
+  "verdict": "mismatch",
+  "note": "电动蝶阀图纸",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "bobbi-brown-highlighting-powder",
+  "verdict": "mismatch",
+  "note": "始祖鸟冲锋衣",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "bobbi-brown-luxe-lip",
+  "verdict": "mismatch",
+  "note": "庭院建筑照",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "bobbi-brown-long-wear-foundation",
+  "verdict": "mismatch",
+  "note": "熏蒸消毒证书",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cerave-moisturizing-cream",
+  "verdict": "mismatch",
+  "note": "山水风景图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cerave-sa-cleanser",
+  "verdict": "mismatch",
+  "note": "戏曲人物照",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cerave-sa-cream",
+  "verdict": "mismatch",
+  "note": "日历风景图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "clarins-double-serum",
+  "verdict": "ok",
+  "note": "双萃精华瓶身清晰",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "clarins-v-shaping",
+  "verdict": "mismatch",
+  "note": "误用双萃精华图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "clarins-extra-firming",
+  "verdict": "mismatch",
+  "note": "是Multi-Active双萃非弹簧霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "clarins-hydra-essentiel",
+  "verdict": "mismatch",
+  "note": "双萃精华非保湿霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "clarins-tonic-oil",
+  "verdict": "mismatch",
+  "note": "儿童跳绳图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cle-de-peau-beaute-veil",
+  "verdict": "mismatch",
+  "note": "金字塔图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cle-de-peau-beaute-the-serum",
+  "verdict": "mismatch",
+  "note": "人像照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "cle-de-peau-beaute-emulsion-night",
+  "verdict": "mismatch",
+  "note": "应用商店截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "curel-moisture-cream",
+  "verdict": "mismatch",
+  "note": "高达模型图片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "curel-moisture-lotion",
+  "verdict": "mismatch",
+  "note": "人像照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "curel-moisture-emulsion",
+  "verdict": "mismatch",
+  "note": "deepseek标志",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "curel-cleansing-foam",
+  "verdict": "mismatch",
+  "note": "薰衣草田风景",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "curel-moisture-mask",
+  "verdict": "mismatch",
+  "note": "羊群养殖场照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "decorte-moisture-liposome",
+  "verdict": "mismatch",
+  "note": "机械零件图纸",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "decorte-aq-meliority-cleansing",
+  "verdict": "mismatch",
+  "note": "他克莫司药膏",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "diptyque-tamdao",
+  "verdict": "mismatch",
+  "note": "头部肌肉解剖图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "diptyque-baies",
+  "verdict": "mismatch",
+  "note": "建筑施工图纸",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "diptyque-figuier",
+  "verdict": "mismatch",
+  "note": "海湾风景照",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "diptyque-cardiff",
+  "verdict": "mismatch",
+  "note": "动画截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "dovebody-bar",
+  "verdict": "mismatch",
+  "note": "鸟类照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "dovebody-deo",
+  "verdict": "mismatch",
+  "note": "电力设备图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-advanced-night-repair",
+  "verdict": "mismatch",
+  "note": "电影海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-micro-essence",
+  "verdict": "mismatch",
+  "note": "人物照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-revitalizing-supreme",
+  "verdict": "mismatch",
+  "note": "网页截图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-renutriv",
+  "verdict": "mismatch",
+  "note": "花卉图鉴无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-double-wear",
+  "verdict": "mismatch",
+  "note": "鹦鹉图鉴无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "estee-lauder-pure-color-envy",
+  "verdict": "mismatch",
+  "note": "药品包装无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "florasis-eyeshadow",
+  "verdict": "mismatch",
+  "note": "心电图无关图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "florasis-cushion",
+  "verdict": "mismatch",
+  "note": "电脑网络图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "fredericmalle-portrait",
+  "verdict": "mismatch",
+  "note": "水果配送海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "fredericmalle-rose",
+  "verdict": "mismatch",
+  "note": "游戏插画",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "fredericmalle-musc",
+  "verdict": "mismatch",
+  "note": "明星口红照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "fredericmalle-candle",
+  "verdict": "mismatch",
+  "note": "博物馆内景",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "freeplus-essence",
+  "verdict": "mismatch",
+  "note": "晾衣绳衣服",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "guerlain-abeille-double-r",
+  "verdict": "mismatch",
+  "note": "海贼王动漫图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "guerlain-abeille-watery-oil",
+  "verdict": "mismatch",
+  "note": "派大星动画截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "guerlain-orchidee-imperiale",
+  "verdict": "mismatch",
+  "note": "金钻粉底液非面霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "guerlain-shalimar",
+  "verdict": "mismatch",
+  "note": "图为腿部枕垫广告",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "guerlain-lprn",
+  "verdict": "mismatch",
+  "note": "图为经济周期图表",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "helena-rubinstein-age-recovery",
+  "verdict": "mismatch",
+  "note": "多品合集无黑绷带",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "helena-rubinstein-recovery-day",
+  "verdict": "mismatch",
+  "note": "图为黑绷带非日霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "helena-rubinstein-powercell",
+  "verdict": "ok",
+  "note": "绿宝瓶精华清晰",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "helena-rubinstein-powercell-eye",
+  "verdict": "lowq",
+  "note": "水印多品拼图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "helena-rubinstein-cellglow",
+  "verdict": "mismatch",
+  "note": "直播赠品海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "jomalone-lime",
+  "verdict": "mismatch",
+  "note": "山水画无产品",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kerastase-mask",
+  "verdict": "mismatch",
+  "note": "动漫人物图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kerastase-blond",
+  "verdict": "mismatch",
+  "note": "楼盘效果图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kose-visee-lip",
+  "verdict": "mismatch",
+  "note": "海岛风景图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-mer-treatment-lotion",
+  "verdict": "mismatch",
+  "note": "动漫插画无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-mer-lip-balm",
+  "verdict": "mismatch",
+  "note": "软件界面截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-mer-renewal-oil",
+  "verdict": "mismatch",
+  "note": "会议现场照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-prairie-luxe-cream",
+  "verdict": "mismatch",
+  "note": "网页模板截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kose-suncut",
+  "verdict": "mismatch",
+  "note": "面包板图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kose-clear-turn",
+  "verdict": "mismatch",
+  "note": "星星素材无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kose-sekkisei",
+  "verdict": "mismatch",
+  "note": "音乐厅照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "kerastase-genifique",
+  "verdict": "mismatch",
+  "note": "无人机机巢无关图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-prairie-luxe-eye",
+  "verdict": "mismatch",
+  "note": "影视App截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-prairie-white-caviar",
+  "verdict": "mismatch",
+  "note": "数显千分尺",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-prairie-night-elixir",
+  "verdict": "mismatch",
+  "note": "动漫插画",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-roche-posay-cicaplast-b5",
+  "verdict": "mismatch",
+  "note": "历史黑白照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-roche-posay-uvmune-400",
+  "verdict": "mismatch",
+  "note": "动漫角色图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "la-roche-posay-hyalu-b5",
+  "verdict": "mismatch",
+  "note": "技能大赛海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-genifique",
+  "verdict": "ok",
+  "note": "小黑瓶精华清晰",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-tonique-douceur",
+  "verdict": "mismatch",
+  "note": "疑似眼霜小黑瓶,非粉水",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-teint-idole",
+  "verdict": "ok",
+  "note": "持妆粉底液清晰",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-labsolu-rouge",
+  "verdict": "mismatch",
+  "note": "菁纯粉底霜,非唇膏",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-la-vie-est-belle",
+  "verdict": "mismatch",
+  "note": "显示为小黑瓶精华",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "lancome-genifique-eye",
+  "verdict": "mismatch",
+  "note": "显示为菁纯眼霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "loreal-paris-youth-code",
+  "verdict": "mismatch",
+  "note": "机械零件无关图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "loreal-paris-ampoule-mask",
+  "verdict": "mismatch",
+  "note": "火车轮无关图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "loreal-paris-infallible",
+  "verdict": "logo",
+  "note": "仅品牌logo文字",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "loreal-paris-uv-perfect",
+  "verdict": "mismatch",
+  "note": "同品牌其他产品广告",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "mac-chili",
+  "verdict": "mismatch",
+  "note": "游戏地图截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "mac-fixplus",
+  "verdict": "mismatch",
+  "note": "炸鸡海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "mac-lipglass",
+  "verdict": "mismatch",
+  "note": "MBTI图鉴",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maxfactor-foundation",
+  "verdict": "mismatch",
+  "note": "汽车维修图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maxfactor-mascara",
+  "verdict": "mismatch",
+  "note": "客厅装修图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maxfactor-blush",
+  "verdict": "mismatch",
+  "note": "冷库水果筐",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maybelline-fitme",
+  "verdict": "mismatch",
+  "note": "火箭睫毛膏广告",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maybelline-superstay",
+  "verdict": "mismatch",
+  "note": "Fit Me粉底",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maybelline-eraser",
+  "verdict": "mismatch",
+  "note": "Dream Satin粉底",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "maybelline-eyeliner",
+  "verdict": "mismatch",
+  "note": "同品牌但是Fit Me粉底液",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nars-orgasm",
+  "verdict": "mismatch",
+  "note": "建筑合影无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nars-radiant",
+  "verdict": "mismatch",
+  "note": "营销模型图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nars-eyeshadow",
+  "verdict": "mismatch",
+  "note": "化学试剂无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nars-bronzer",
+  "verdict": "mismatch",
+  "note": "交通布局图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "neutrogena-sunscreen",
+  "verdict": "mismatch",
+  "note": "写真封面无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "neutrogena-hand",
+  "verdict": "mismatch",
+  "note": "卷积示意图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "neutrogena-hydro",
+  "verdict": "mismatch",
+  "note": "海浪插画无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nivea-cream",
+  "verdict": "mismatch",
+  "note": "人像图标无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "nivea-hand",
+  "verdict": "mismatch",
+  "note": "手机广告无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "penhaligons-fox",
+  "verdict": "mismatch",
+  "note": "光盘行动海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "penhaligons-hammam",
+  "verdict": "mismatch",
+  "note": "漫画教程书籍",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "penhaligons-halfeti",
+  "verdict": "mismatch",
+  "note": "聚合物图表",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "perfectdiary-animal",
+  "verdict": "mismatch",
+  "note": "完美世界游戏图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "perfectdiary-lip",
+  "verdict": "mismatch",
+  "note": "游戏截图无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "perfectdiary-foundation",
+  "verdict": "mismatch",
+  "note": "完美世界游戏原画",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "perfectdiary-blush",
+  "verdict": "mismatch",
+  "note": "完美世界游戏海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "perfectdiary-eyebrow",
+  "verdict": "mismatch",
+  "note": "垃圾分类宣传海报",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "proya-doubleantiox",
+  "verdict": "mismatch",
+  "note": "水漾肌密爽肤水",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "proya-ruby",
+  "verdict": "mismatch",
+  "note": "美白胶原蛋白产品",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "proya-energycream",
+  "verdict": "mismatch",
+  "note": "珀莱雅芯生白乳液非能量面霜",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "proya-sunscreen",
+  "verdict": "mismatch",
+  "note": "风景图无产品",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "proya-eye",
+  "verdict": "mismatch",
+  "note": "警察局标牌无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "schwarzkopf-bubble",
+  "verdict": "mismatch",
+  "note": "卡通兔子画无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "schwarzkopf-shampoo",
+  "verdict": "mismatch",
+  "note": "吉他谱无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "schwarzkopf-styling",
+  "verdict": "mismatch",
+  "note": "车辆查询界面",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sergelutens-berlin",
+  "verdict": "mismatch",
+  "note": "客厅3D渲染图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sergelutens-lorpheline",
+  "verdict": "mismatch",
+  "note": "地上草捆",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "shiseido-ultimune",
+  "verdict": "mismatch",
+  "note": "学生系红领巾",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "shiseido-future-solution-cream",
+  "verdict": "mismatch",
+  "note": "抽象线条背景",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "shu-uemura-rouge-unlimited",
+  "verdict": "logo",
+  "note": "酒店门牌招牌",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sisley-ecological-compound",
+  "verdict": "mismatch",
+  "note": "石碑墙",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sisley-black-rose-cream",
+  "verdict": "mismatch",
+  "note": "黑色大衣",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sisley-black-rose-oil",
+  "verdict": "mismatch",
+  "note": "人像照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sisley-toning-lotion",
+  "verdict": "mismatch",
+  "note": "简谱图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sk-ii-fte",
+  "verdict": "mismatch",
+  "note": "完全无关活动照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sk-ii-rna-cream",
+  "verdict": "mismatch",
+  "note": "电影海报无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sk-ii-genoptics-aura",
+  "verdict": "mismatch",
+  "note": "简谱无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sk-ii-ft-mask",
+  "verdict": "mismatch",
+  "note": "钢琴谱无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "sk-ii-gentle-cleanser",
+  "verdict": "mismatch",
+  "note": "舞狮照片无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "skinceuticals-ce-ferulic",
+  "verdict": "mismatch",
+  "note": "工业设备无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "skinceuticals-hydrating-b5",
+  "verdict": "mismatch",
+  "note": "换热器原理图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "skinceuticals-age-interrupter",
+  "verdict": "mismatch",
+  "note": "游戏角色设计图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "valmont-prime-renewing",
+  "verdict": "mismatch",
+  "note": "电影票房表格",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "valmont-prime-24h",
+  "verdict": "mismatch",
+  "note": "毕业插画无关",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "valmont-hydra3",
+  "verdict": "mismatch",
+  "note": "吉他谱图片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "valmont-vline-cream",
+  "verdict": "mismatch",
+  "note": "方特logo图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "vaseline-lip",
+  "verdict": "mismatch",
+  "note": "数据中心机柜图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "vaseline-lotion",
+  "verdict": "mismatch",
+  "note": "世界地图图片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "vaseline-hand",
+  "verdict": "mismatch",
+  "note": "无关人像照片",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "winona-sunscreen",
+  "verdict": "mismatch",
+  "note": "气象站设备场景",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "winona-serum",
+  "verdict": "mismatch",
+  "note": "软件方法文档截图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "winona-cleanser",
+  "verdict": "mismatch",
+  "note": "中央空调设备",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "winona-mask",
+  "verdict": "mismatch",
+  "note": "江西地形图",
+  "src": "b6-beauty.json"
+ },
+ {
+  "id": "adidas-superstar",
+  "verdict": "ok",
+  "note": "贝壳头板鞋清晰",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "adidas-samba",
+  "verdict": "mismatch",
+  "note": "广告海报无产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "adidas-gazelle",
+  "verdict": "mismatch",
+  "note": "服饰广告无鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "adidas-ultraboost",
+  "verdict": "mismatch",
+  "note": "复古慢跑鞋非UB",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "adidas-adizero",
+  "verdict": "mismatch",
+  "note": "海报鞋过小不辨",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "-apparel",
+  "verdict": "mismatch",
+  "note": "抽象PPT背景图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "-international",
+  "verdict": "mismatch",
+  "note": "农田收割机场景",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "adidas-stan-smith",
+  "verdict": "logo",
+  "note": "门店招牌非产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "-feiran",
+  "verdict": "mismatch",
+  "note": "卡通列车插画,无跑鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-kt",
+  "verdict": "mismatch",
+  "note": "CBA广告非KT鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-c202",
+  "verdict": "mismatch",
+  "note": "板鞋非C202跑鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-hydrogen",
+  "verdict": "logo",
+  "note": "仅品牌logo",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-champions",
+  "verdict": "ok",
+  "note": "安踏时尚服饰走秀",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-kids",
+  "verdict": "mismatch",
+  "note": "成人鞋非童装",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "anta-apparel",
+  "verdict": "logo",
+  "note": "安踏标志图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arcteryx-alpha-sv",
+  "verdict": "mismatch",
+  "note": "手写彩票纸",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arcteryx-beta-lt",
+  "verdict": "mismatch",
+  "note": "始祖鸟化石插画",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arcteryx-atom",
+  "verdict": "mismatch",
+  "note": "硬壳非中间层",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arcteryx-cerium",
+  "verdict": "logo",
+  "note": "品牌山景海报",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arcteryx-gamma",
+  "verdict": "ok",
+  "note": "始祖鸟外套可辨",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arena-training-suit",
+  "verdict": "mismatch",
+  "note": "虎鲸图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arena-powerfin",
+  "verdict": "mismatch",
+  "note": "历史人物画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "arena-cap",
+  "verdict": "mismatch",
+  "note": "海景图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-gel-kayano",
+  "verdict": "mismatch",
+  "note": "404占位图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-gt-2000",
+  "verdict": "mismatch",
+  "note": "山景与产品无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-novablast",
+  "verdict": "mismatch",
+  "note": "金币文物无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-metaspeed",
+  "verdict": "mismatch",
+  "note": "京都地图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-gel-1130",
+  "verdict": "mismatch",
+  "note": "游戏插画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "asics-gel-lyte-iii",
+  "verdict": "mismatch",
+  "note": "海上丝绸之路地图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "bd-trekking-poles",
+  "verdict": "mismatch",
+  "note": "海岸风景图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "bd-ice-tools",
+  "verdict": "mismatch",
+  "note": "表格图完全无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "brooks-glycerin",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "brooks-adrenaline-gts",
+  "verdict": "mismatch",
+  "note": "动漫画集无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "brooks-hyperion",
+  "verdict": "mismatch",
+  "note": "手抄报模板无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "brooks-launch",
+  "verdict": "mismatch",
+  "note": "表情包截图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "brooks-cascadia",
+  "verdict": "mismatch",
+  "note": "湖泊山景无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "burton-custom",
+  "verdict": "mismatch",
+  "note": "2024新年日历无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "burton-process",
+  "verdict": "mismatch",
+  "note": "紫色庄园风景无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "burton-cartel",
+  "verdict": "mismatch",
+  "note": "舞台民族表演无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "burton-jacket",
+  "verdict": "mismatch",
+  "note": "电动车广告图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "burton-wheelie",
+  "verdict": "mismatch",
+  "note": "作品集封面拼图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "columbia-omni-heat",
+  "verdict": "mismatch",
+  "note": "湖泊风景照",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "columbia-newton-ridge",
+  "verdict": "mismatch",
+  "note": "城市风光图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "converse-chuck-taylor-all-star",
+  "verdict": "mismatch",
+  "note": "是One Star非Chuck Taylor",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "converse-chuck-70",
+  "verdict": "ok",
+  "note": "1970s鞋款清晰",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "converse-one-star",
+  "verdict": "mismatch",
+  "note": "高帮非低帮麂皮",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "converse-jack-purcell",
+  "verdict": "mismatch",
+  "note": "一星鞋非开口笑",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "converse-run-star-hike",
+  "verdict": "mismatch",
+  "note": "PPT模板无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-quechua",
+  "verdict": "logo",
+  "note": "门店招牌非产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-kipsta",
+  "verdict": "logo",
+  "note": "门店招牌非产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-btwin",
+  "verdict": "logo",
+  "note": "门店招牌非产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-kalenji",
+  "verdict": "mismatch",
+  "note": "猫咪图片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-forclaz",
+  "verdict": "mismatch",
+  "note": "军训照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "decathlon-nabaiji",
+  "verdict": "mismatch",
+  "note": "药瓶图片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "descente-ski-wear",
+  "verdict": "mismatch",
+  "note": "茶杯图片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "descente-allterrain",
+  "verdict": "mismatch",
+  "note": "电阻元件图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "descente-running",
+  "verdict": "mismatch",
+  "note": "黄石公园风景",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "descente-training",
+  "verdict": "mismatch",
+  "note": "物流单据图片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "descente-kids",
+  "verdict": "mismatch",
+  "note": "原神角色海报,无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-qitan",
+  "verdict": "mismatch",
+  "note": "伍六七联名滑板鞋,非奇弹跑鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-walking",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-basketball",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-tshirt",
+  "verdict": "mismatch",
+  "note": "是奇弹跑鞋,非T恤",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-jacket",
+  "verdict": "mismatch",
+  "note": "走秀拼图非尔克",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "erke-kids",
+  "verdict": "logo",
+  "note": "仅品牌logo",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "fila-disruptor",
+  "verdict": "mismatch",
+  "note": "图标素材无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "fila-original-tennis",
+  "verdict": "mismatch",
+  "note": "体态科普图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "fila-ray",
+  "verdict": "mismatch",
+  "note": "中国地图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "fila-fleece-set",
+  "verdict": "mismatch",
+  "note": "动漫插画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "fila-kids",
+  "verdict": "mismatch",
+  "note": "山姆大叔海报无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "garmin-fenix",
+  "verdict": "mismatch",
+  "note": "活动合影无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "garmin-instinct",
+  "verdict": "mismatch",
+  "note": "游戏截图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "garmin-edge",
+  "verdict": "mismatch",
+  "note": "游戏角色无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "garmin-venu",
+  "verdict": "mismatch",
+  "note": "长城无关图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-speed",
+  "verdict": "mismatch",
+  "note": "鞭炮插画",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-radical",
+  "verdict": "mismatch",
+  "note": "麻将牌图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-skis",
+  "verdict": "mismatch",
+  "note": "雪山风景",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-penn",
+  "verdict": "mismatch",
+  "note": "LS电气公告",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-helmets",
+  "verdict": "mismatch",
+  "note": "电线载流量表格",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "head-tyrolia",
+  "verdict": "mismatch",
+  "note": "凯旋门风景照",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-clifton",
+  "verdict": "mismatch",
+  "note": "施耐庵塑像",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-bondi",
+  "verdict": "mismatch",
+  "note": "竹林风景照",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-speedgoat",
+  "verdict": "mismatch",
+  "note": "历史黑白照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-mach",
+  "verdict": "mismatch",
+  "note": "充电桩照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-cielo-x1",
+  "verdict": "mismatch",
+  "note": "樱花石桥风景",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "hoka-arahi",
+  "verdict": "mismatch",
+  "note": "游戏角色截图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "kailas-fuga",
+  "verdict": "mismatch",
+  "note": "游戏角色立绘",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "kailas-climbing-harness",
+  "verdict": "mismatch",
+  "note": "水池植物景观",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "kailas-shell-jacket",
+  "verdict": "mismatch",
+  "note": "游戏角色海报",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "kailas-hiking-boots",
+  "verdict": "mismatch",
+  "note": "游戏角色海报",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "kailas-backpack",
+  "verdict": "mismatch",
+  "note": "游戏角色截图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lining-chaoqing",
+  "verdict": "mismatch",
+  "note": "空白无内容",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lining-badfive",
+  "verdict": "mismatch",
+  "note": "数据表格图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lining-yushuai",
+  "verdict": "mismatch",
+  "note": "货轮照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lululemon-abc-pants",
+  "verdict": "mismatch",
+  "note": "城市夜景桥",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lululemon-scuba",
+  "verdict": "mismatch",
+  "note": "教育部发布会",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lululemon-define",
+  "verdict": "mismatch",
+  "note": "人物街拍无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "lululemon-yoga-mat",
+  "verdict": "mismatch",
+  "note": "展会logo招牌",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mammut-barryvox",
+  "verdict": "mismatch",
+  "note": "瑞士卷食品图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "marmot-rocklin",
+  "verdict": "mismatch",
+  "note": "泥土背景图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "merrell-moab",
+  "verdict": "mismatch",
+  "note": "木托管道垫木",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "merrell-agility",
+  "verdict": "mismatch",
+  "note": "摩擦力动画截图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "merrell-hiking-boots",
+  "verdict": "mismatch",
+  "note": "梅西足球照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "merrell-vapor-glove",
+  "verdict": "mismatch",
+  "note": "图为麻辣面食",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mizuno-wave-prophecy",
+  "verdict": "logo",
+  "note": "美津浓logo图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mizuno-morelia",
+  "verdict": "mismatch",
+  "note": "跑鞋非足球鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mizuno-global-elite",
+  "verdict": "logo",
+  "note": "美津浓logo图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mizuno-jpx",
+  "verdict": "mismatch",
+  "note": "鞋盒Wave Rider跑鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "newbalance-574",
+  "verdict": "mismatch",
+  "note": "动漫风景画",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "newbalance-530",
+  "verdict": "mismatch",
+  "note": "药品包装盒",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "newbalance-2002r",
+  "verdict": "mismatch",
+  "note": "斯诺克选手照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "newbalance-1906r",
+  "verdict": "mismatch",
+  "note": "卡通小马插画",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "nike-airforce1",
+  "verdict": "mismatch",
+  "note": "荧光绿跑步鞋非AF1",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "mizuno-wave-lightning",
+  "verdict": "mismatch",
+  "note": "跑鞋非排球鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "montbell-wind-shell",
+  "verdict": "mismatch",
+  "note": "游戏截图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "montbell-zeoline",
+  "verdict": "mismatch",
+  "note": "山景照片非产品",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "montbell-titanium-cookware",
+  "verdict": "mismatch",
+  "note": "图为黑色棍状物非钛餐具",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "nike-airjordan1",
+  "verdict": "logo",
+  "note": "飞人标志拼图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "nike-pegasus",
+  "verdict": "ok",
+  "note": "跑步上脚可辨",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "nike-dunk",
+  "verdict": "logo",
+  "note": "耐克标牌",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "on-cloud",
+  "verdict": "mismatch",
+  "note": "黑胶唱片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "on-cloudmonster",
+  "verdict": "mismatch",
+  "note": "饺子美食图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "on-cloudsurfer",
+  "verdict": "mismatch",
+  "note": "乐谱图片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "patagonia-down-sweater",
+  "verdict": "mismatch",
+  "note": "保健品瓶",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "patagonia-retro-x",
+  "verdict": "mismatch",
+  "note": "航天展台",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "patagonia-snap-t",
+  "verdict": "mismatch",
+  "note": "篮球运动员",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-taichi-running",
+  "verdict": "mismatch",
+  "note": "人物自拍",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-taichi-slippers",
+  "verdict": "mismatch",
+  "note": "恐怖剧照无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-tp9",
+  "verdict": "mismatch",
+  "note": "猫咪图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-dh",
+  "verdict": "mismatch",
+  "note": "人像写真无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-basketball",
+  "verdict": "mismatch",
+  "note": "动漫拼图无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "peak-sportswear",
+  "verdict": "mismatch",
+  "note": "人像写真无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-suede",
+  "verdict": "mismatch",
+  "note": "是足球钉鞋非Suede",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-rs-x",
+  "verdict": "mismatch",
+  "note": "白色中帮鞋非RS-X",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-palermo",
+  "verdict": "mismatch",
+  "note": "Basket款非Palermo",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-speedcat",
+  "verdict": "mismatch",
+  "note": "复古慢跑鞋非赛车鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-deviate-nitro",
+  "verdict": "ok",
+  "note": "NITRO竞速跑鞋实物",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-king",
+  "verdict": "mismatch",
+  "note": "跑鞋非King足球鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "puma-mb",
+  "verdict": "mismatch",
+  "note": "板鞋非MB篮球鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "rockbros-sunglasses",
+  "verdict": "mismatch",
+  "note": "机械图纸",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "rockbros-bike-bag",
+  "verdict": "mismatch",
+  "note": "吉他谱",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "rockbros-helmet",
+  "verdict": "mismatch",
+  "note": "风景照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "rockbros-phone-mount",
+  "verdict": "mismatch",
+  "note": "语文试卷截图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "rockbros-pump",
+  "verdict": "mismatch",
+  "note": "人物腹部照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "salomon-xt-6",
+  "verdict": "mismatch",
+  "note": "网球运动员照片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "salomon-xt-4",
+  "verdict": "mismatch",
+  "note": "DNA背景素材图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "salomon-speedcross",
+  "verdict": "mismatch",
+  "note": "风景绘画图片",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "salomon-x-ultra",
+  "verdict": "mismatch",
+  "note": "西湖风景照",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "salomon-xa-pro-3d",
+  "verdict": "mismatch",
+  "note": "防护服人员合影",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-endorphin",
+  "verdict": "mismatch",
+  "note": "中式屏风玄关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-triumph",
+  "verdict": "mismatch",
+  "note": "管道锈蚀特写",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-guide",
+  "verdict": "mismatch",
+  "note": "伍尔特羊角锤",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-kinvara",
+  "verdict": "mismatch",
+  "note": "奥迪汽车广告图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-ride",
+  "verdict": "mismatch",
+  "note": "地漏五金图纸",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "saucony-shadow",
+  "verdict": "mismatch",
+  "note": "电梯井道示意图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "snowpeak-amenity-dome",
+  "verdict": "mismatch",
+  "note": "影视截图拼图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "snowpeak-titanium-cookware",
+  "verdict": "mismatch",
+  "note": "桌面整理壁纸",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "snowpeak-lantern",
+  "verdict": "mismatch",
+  "note": "动漫风景画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "snowpeak-takibi-apparel",
+  "verdict": "mismatch",
+  "note": "2026年历无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "spalding-nba-game-ball",
+  "verdict": "mismatch",
+  "note": "AI生成物流仓库图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "spalding-tf-1000",
+  "verdict": "mismatch",
+  "note": "长征精神宣传海报",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "spalding-neverflat",
+  "verdict": "mismatch",
+  "note": "博物馆展厅效果图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "spalding-portable-hoop",
+  "verdict": "mismatch",
+  "note": "人脸特写无关图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "spalding-rookie",
+  "verdict": "mismatch",
+  "note": "动物照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "speedo-endurance-plus",
+  "verdict": "mismatch",
+  "note": "天安门照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "speedo-biofuse",
+  "verdict": "mismatch",
+  "note": "青蛙照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "speedo-training-fin",
+  "verdict": "mismatch",
+  "note": "人物自拍无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "speedo-fitness-swimsuit",
+  "verdict": "mismatch",
+  "note": "工业设备图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-1996-nuptse",
+  "verdict": "logo",
+  "note": "纯品牌logo图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-1990-mountain-jacket",
+  "verdict": "mismatch",
+  "note": "羽绒服非1990夹克",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-summit-series",
+  "verdict": "mismatch",
+  "note": "Nuptse营销海报",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-futurelight",
+  "verdict": "mismatch",
+  "note": "帐篷非冲锋衣",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-denali",
+  "verdict": "mismatch",
+  "note": "是羽绒服非抓绒",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-vectiv",
+  "verdict": "mismatch",
+  "note": "T恤帽子非跑鞋",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "thenorthface-borealis",
+  "verdict": "logo",
+  "note": "门店招牌",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-3in1-jacket",
+  "verdict": "mismatch",
+  "note": "动漫插画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-down-jacket",
+  "verdict": "mismatch",
+  "note": "白酒产品图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-hiking-shoes",
+  "verdict": "mismatch",
+  "note": "儿童赛跑卡通画",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-fleece",
+  "verdict": "mismatch",
+  "note": "炸药科研图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-quick-dry-tee",
+  "verdict": "mismatch",
+  "note": "山脉风景图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "toread-backpack",
+  "verdict": "mismatch",
+  "note": "物联网监测方案图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "vans-old-skool",
+  "verdict": "mismatch",
+  "note": "政府机关大门",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "vans-authentic",
+  "verdict": "mismatch",
+  "note": "光谱传感器图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "vans-slip-on",
+  "verdict": "mismatch",
+  "note": "茶叶溯源流程图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "vans-half-cab",
+  "verdict": "mismatch",
+  "note": "火山湖风景图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "wilson-pro-staff",
+  "verdict": "mismatch",
+  "note": "海岸灯塔风景图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "wilson-clash",
+  "verdict": "mismatch",
+  "note": "电子发票截图",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "wilson-a2000",
+  "verdict": "mismatch",
+  "note": "卡通图案无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "wilson-nfl-football",
+  "verdict": "mismatch",
+  "note": "姓名贴模板无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "wilson-evolution",
+  "verdict": "mismatch",
+  "note": "点心照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "xtep-160x",
+  "verdict": "mismatch",
+  "note": "鞋为2000KM 2.0",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "xtep-260",
+  "verdict": "mismatch",
+  "note": "鞋为160X 5.0 PRO",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "yonex-astrox",
+  "verdict": "mismatch",
+  "note": "手绘像素画无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "yonex-nanoflare",
+  "verdict": "mismatch",
+  "note": "黄铜球阀无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "yonex-power-cushion",
+  "verdict": "mismatch",
+  "note": "历史人物照片无关",
+  "src": "b6-sports.json"
+ },
+ {
+  "id": "yonex-aerosensa",
+  "verdict": "mismatch",
+  "note": "用餐女子无关",
+  "src": "b6-sports.json"
+ }
+]

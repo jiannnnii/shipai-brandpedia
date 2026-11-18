@@ -1,0 +1,10 @@
+furla-candy | 芙拉 Candy 果冻包(Candy Bag,果冻包) | 以果冻般透明橡胶材质打造的知名包款,糖果色彩与轻巧设计让它一度风靡全球。 | data\img\furla-candy.jpg
+furla-net | 芙拉 Net 手袋(Net Bag,手袋) | 立体网面设计的手袋系列,光影层次别致,搭配金属配件尽显意式俏皮。 | data\img\furla-net.jpg
+furla-wallets | 芙拉 钱包与小皮具(Small Leather Goods,小皮具) | 皮革钱夹与卡包延续品牌配色哲学,意大利工艺打底,价格亲民入门无压力。 | data\img\furla-wallets.jpg
+furla-tote | 芙拉 通勤托特包(Tote,托特包) | 大容量托特兼顾电脑收纳与日常造型,皮质挺括,是职场女性的实用之选。 | data\img\furla-tote.jpg
+giorgio-armani-suit | 乔治·阿玛尼 解构西装(Deconstructed Suit,西装) | 品牌灵魂产品,去衬垫软肩剪裁让西装如开衫般舒适,灰调面料与修身线条重塑了现代男装与职场女装。 | data\img\giorgio-armani-suit.jpg
+givenchy-antigona | 纪梵希 Antigona(Antigona,手袋) | 2010年推出的方形手袋,名字取自希腊悲剧人物,挺括廓形配大号拉链与三角底座,是品牌销量支柱。 | data\img\givenchy-antigona.jpg
+givenchy-gv3 | 纪梵希 GV3(GV3,手袋) | 致敬品牌1952年创立的GV3手袋,皮革拼接配金属G扣与翻盖设计,是克莱尔·怀特·凯勒时期的招牌款。 | data\img\givenchy-gv3.jpg
+givenchy-eden | 纪梵希 Eden(Eden,手袋) | 2020年前后推出的翻盖手袋,压花皮革与链条肩带组合,圆润轮廓优雅百搭,是近年品牌主力包型之一。 | data\img\givenchy-eden.jpg
+givenchy-voyou | 纪梵希 Voyou(Voyou,手袋) | 2022年推出的软质单肩包,弧形袋身随性慵懒,明星街拍频繁出镜,是近年人气款。 | data\img\givenchy-voyou.jpg
+givenchy-linterdit | 纪梵希 禁忌香水(L'Interdit,香水) | 1957年为奥黛丽·赫本量身打造、2018年重启的香水,白花与深色木质气息对撞,致敬赫本与纪梵希的传奇友谊。 | data\img\givenchy-linterdit.jpg

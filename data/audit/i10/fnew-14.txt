@@ -1,0 +1,10 @@
+max-mara-teddy | 麦丝玛拉 泰迪熊大衣(Teddy Bear Icon Coat,大衣) | 2013年问世的毛绒大衣,阿尔帕卡、羊毛与真丝混纺出小熊般的手感,oversize廓形保暖惊人,是明星出街的标志性战袍。 | data\img\max-mara-teddy.jpg
+max-mara-manuela | 麦丝玛拉 Manuela大衣(Manuela,大衣) | 经典驼色系带大衣,单排扣配同色腰带,驼色羊毛与驼绒混纺面料垂坠优雅,是职场女性衣橱的利器。 | data\img\max-mara-manuela.jpg
+max-mara-rialto | 麦丝玛拉 Rialto大衣(Rialto,大衣) | 2013年首季的泰迪系旗舰,面料更厚、廓形更大,如披一层云朵,常年一件难求。 | data\img\max-mara-rialto.jpg
+michaelkors-jetset | 迈克·高仕 Jet Set 托特包(Jet Set Tote,托特包) | 品牌标志性托特包,花押字印花与荔枝纹皮质版本众多,容量充足,通勤出差皆宜。 | data\img\michaelkors-jetset.jpg
+michaelkors-hamilton | 迈克·高仕 Hamilton 手袋(Hamilton Bag,手袋) | 以金属圆牌锁扣闻名的经典手袋,方正廓形优雅干练,是品牌早年成名作之一。 | data\img\michaelkors-hamilton.jpg
+michaelkors-crossbody | 迈克·高仕 小号斜挎包(Crossbody,斜挎包) | 轻巧的链条与皮革斜挎包,满足日常轻装出门,花押字与纯色选择丰富。 | data\img\michaelkors-crossbody.jpg
+michaelkors-watches | 迈克·高仕 腕表(Watches,腕表) | 水钻表圈与金属链带的时装表风格华丽,价格友好,曾是轻奢腕表的销量王。 | data\img\michaelkors-watches.jpg
+michaelkors-wallets | 迈克·高仕 钱包与小皮具(Wallets,小皮具) | 花押字长款钱夹与卡包人气居高不下,自用送礼两相宜,是入门轻奢的第一步。 | data\img\michaelkors-wallets.jpg
+michaelkors-sunglasses | 迈克·高仕 太阳镜(Sunglasses,眼镜) | 大框设计配品牌标识镜腿,风格华丽时髦,与手袋腕表组成成套的都市造型。 | data\img\michaelkors-sunglasses.jpg
+miu-miu-arcadie | 缪缪 Arcadie手袋(Arcadie,手袋) | 结构感翻盖手袋,马蹄形金属锁扣与漆面皮革,复古淑女气质,是品牌近年主打通勤包型。 | data\img\miu-miu-arcadie.jpg

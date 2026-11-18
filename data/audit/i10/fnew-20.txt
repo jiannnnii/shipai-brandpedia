@@ -1,0 +1,3 @@
+yy-y3 | 山本耀司 Y-3 运动系列(Y-3,运动系列) | 与阿迪达斯合作的运动时装线,以 Y-3 字标与黑色科技面料为标志,运动鞋与外套人气最高,是高端运动风格的代表。 | data\img\yy-y3.jpg
+zegna-oasi-cashmere | 杰尼亚 Oasi Cashmere羊绒衫(Oasi Cashmere,羊绒衫) | 品牌标志性羊绒系列,纤维源自可追溯供应链,手感软糯细腻,圆领与开衫形制丰富,是衣橱投资单品。 | data\img\zegna-oasi-cashmere.jpg
+zegna-oasi-coat | 杰尼亚 Oasi羊绒大衣(Cashmere Coat,大衣) | 以Oasi羊绒制成的经典男装大衣,重磅面料配极简剪裁,气场与保暖兼备,是冬季衣橱的终极投资。 | data\img\zegna-oasi-coat.jpg

@@ -1,0 +1,10 @@
+descente-kids | 迪桑特 儿童滑雪服(Kids Ski,童装) | 承袭成人滑雪服工艺的童装线,防风保暖性能到位,配色活泼,让家庭滑雪场景实现亲子同风格的穿搭。 | data\img\descente-kids.jpg
+erke-qitan | 鸿星尔克 奇弹跑鞋(Qitan,缓震跑鞋) | 鸿星尔克主打缓震科技跑鞋,中底回弹柔软、落地稳定,价格亲民,是品牌专业跑步线的代表作。 | data\img\erke-qitan.jpg
+erke-walking | 鸿星尔克 舒适健步鞋(Walking Shoes,健步鞋) | 面向日常通勤与健走的舒适鞋款,鞋底软弹防滑、鞋面轻透,穿脱方便,深受中老年消费者与家庭用户欢迎。 | data\img\erke-walking.jpg
+erke-basketball | 鸿星尔克 篮球鞋系列(Basketball Shoes,篮球鞋) | 覆盖实战与训练的篮球鞋产品线,缓震包裹配置扎实,价格多在两三百元,是预算有限的学生党常见选择。 | data\img\erke-basketball.jpg
+erke-tshirt | 鸿星尔克 运动T恤系列(Sports T-Shirts,运动T恤) | 基础款速干与纯棉 T 恤,透气吸汗、版型宽松,价格低至几十元,是品牌门店销量最大的品类之一。 | data\img\erke-tshirt.jpg
+erke-jacket | 鸿星尔克 运动外套系列(Jackets,运动外套) | 含夹克、卫衣与轻量冲锋衣的秋冬外套线,防风保暖、耐穿抗造,以极致性价比覆盖家庭全年所需。 | data\img\erke-jacket.jpg
+erke-kids | 鸿星尔克 儿童运动系列(Kids,童装) | 鸿星尔克童装线,涵盖童鞋与运动服,主打结实耐穿与亲肤面料,价格亲民,适合成长期孩子的日常运动。 | data\img\erke-kids.jpg
+fila-disruptor | 斐乐 Disruptor 老爹鞋(Disruptor,老爹鞋) | 斐乐最具标志性的复古厚底运动鞋,锯齿厚底与简洁鞋面让它成为老爹鞋风潮的开创者之一,常年位居潮流鞋畅销榜,男女同款百搭耐看 | data\img\fila-disruptor.jpg
+fila-original-tennis | 斐乐 Original Tennis 网球鞋(Original Tennis,网球鞋) | 复刻斐乐上世纪七十年代的经典网球鞋型,皮革鞋面搭配 F 框标识,兼顾运动血统与日常穿搭,是复古网球鞋爱好者的必收款式。 | data\img\fila-original-tennis.jpg
+fila-ray | 斐乐 Ray 复古跑鞋(Ray,复古跑鞋) | 以千禧年跑鞋为灵感打造,轻量网布鞋身与流线造型,上脚轻便舒适,是斐乐日常通勤与轻运动场景的畅销款式。 | data\img\fila-ray.jpg

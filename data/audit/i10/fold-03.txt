@@ -1,0 +1,10 @@
+tommy-hoodie | 汤米·希尔费格 卫衣与T恤(Sweatshirts & Tees,卫衣) | 大标识印花的连帽卫衣与圆领T恤,秋冬内搭或运动出街皆宜,男女款齐全。 | data\img\tommy-hoodie.jpg
+tommy-shirts | 汤米·希尔费格 衬衫(Shirts,衬衫) | 经典牛津纺与格纹衬衫,学院气质浓郁,商务与休闲场合都能轻松驾驭。 | data\img\tommy-shirts.jpg
+tommy-outerwear | 汤米·希尔费格 夹克外套(Jackets,外套) | 从棒球夹克到羽绒马甲,延续红白蓝配色基因,是春秋换季的百搭之选。 | data\img\tommy-outerwear.jpg
+tommy-accessories | 汤米·希尔费格 配饰(Accessories,配饰) | 涵盖腰带、钱包与腕表等日常配饰,旗帜元素随处可见,价格亲民适合成套入手。 | data\img\tommy-accessories.jpg
+toryburch-kira | 托里·伯奇 Kira 链条包(Kira Bag,手袋) | 双 T 标识扣搭配链条肩带,小牛皮质感细腻,晚宴与日常切换自如的人气包款。 | data\img\toryburch-kira.jpg
+bc-scarf | 布鲁内罗·库奇内利 羊绒围巾(Cashmere Scarf,围巾) | 采用加厚山羊绒织造,边缘手工收口,颜色以驼色、灰色等自然色调为主,规格宽大,保暖性与光泽感俱佳。 | data\img\bc-scarf.jpg
+burberry-trenchcoat | 博柏利 经典 Trench 风衣(Trench Coat,风衣) | 品牌灵魂单品,嘎巴甸面料防风防雨,双排扣、腰带领结细节考究,切尔西与肯辛顿版型最为热销。 | data\img\burberry-trenchcoat.jpg
+burberry-scarf | 博柏利 格纹羊绒围巾(Classic Cashmere Scarf,围巾) | 苏格兰织造的纯羊绒围巾,经典驼色格纹一眼即识,手感柔软保暖,是送礼首选的入门单品。 | data\img\burberry-scarf.jpg
+burberry-tbbag | 博柏利 TB 专属标识手袋(TB Bag,手袋) | 以创始人 Thomas Burberry 缩写打造的专属标识锁扣手袋,线条简约,兼具通勤与休闲多种场景。 | data\img\burberry-tbbag.jpg
+burberry-coat | 博柏利 格纹羊绒大衣(Cashmere Coat,大衣) | 冬季主打单品,羊绒或羊毛混纺质地,格纹内衬或撞色格纹设计,保暖与气场兼备。 | data\img\burberry-coat.jpg

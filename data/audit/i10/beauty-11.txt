@@ -1,0 +1,10 @@
+maxfactor-mascara | 蜜丝佛陀 浓密魅眼睫毛膏(False Lash Effect,睫毛膏) | 假睫毛效果的平价替代,刷头加密。 | data\img\maxfactor-mascara.jpg
+maxfactor-blush | 蜜丝佛陀 胭脂腮红(Cheek Blossom,腮红) | 自然红润的好气色,开架腮红的稳妥选择。 | data\img\maxfactor-blush.jpg
+maybelline-fitme | 美宝莲 Fit Me 粉底液(Fit Me Foundation,粉底) | 开架粉底的销量神话,色号齐全妆效自然。 | data\img\maybelline-fitme.jpg
+maybelline-superstay | 美宝莲 SuperStay 持久唇釉(SuperStay Vinyl Ink,唇釉) | 镜面漆光+超长持妆,吃喝不掉的网红。 | data\img\maybelline-superstay.jpg
+maybelline-eraser | 美宝莲 橡皮擦遮瑕(Instant Eraser,遮瑕) | 海绵头遮瑕的黑眼圈救星,欧美博主人手一支。 | data\img\maybelline-eraser.jpg
+maybelline-eyeliner | 美宝莲 小金笔眼线液(Hyper Precise,眼线) | 极细笔头新手友好,持久不晕。 | data\img\maybelline-eyeliner.jpg
+nars-orgasm | NARS 高潮腮红(Blush Orgasm,腮红) | 桃粉金闪的 universal 腮红,销量传奇。 | data\img\nars-orgasm.jpg
+nars-radiant | NARS 持久遮瑕液(Radiant Creamy Concealer,遮瑕) | 遮瑕界的标杆产品,滋润不卡纹。 | data\img\nars-radiant.jpg
+nars-eyeshadow | NARS 爱情灵药眼影(Cocoshade Palette,眼影) | 四色大地色盘,肿眼泡救星。 | data\img\nars-eyeshadow.jpg
+nars-bronzer | NARS 古铜修容饼(Laguna Bronzer,修容) | Laguna 古铜色是修容界的 universal 色。 | data\img\nars-bronzer.jpg

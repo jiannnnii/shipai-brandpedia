@@ -1,0 +1,10 @@
+ateliercologne-gift | 欧珑 刻字皮套礼盒(Engraved Gift Set,礼盒) | 皮套刻字定制,情侣礼物的仪式感顶配。 | data\img\ateliercologne-gift.jpg
+bobbi-brown-vitamin-base | 芭比波朗 维他命妆前乳(Vitamin Enriched Face Base,妆前乳) | 质地如霜的滋润型妆前乳,主打让后续底妆更服帖持久,干燥季节尤受欢迎,是品牌妆前保养的人气单品。 | data\img\bobbi-brown-vitamin-base.jpg
+bobbi-brown-highlighting-powder | 芭比波朗 五花肉高光盘(Highlighting Powder,高光) | 因粉块纹理如五花肉得名的经典高光,粉质细腻、光泽自然,扫于颧骨与鼻梁即有健康光感,是高光品类的现象级单品。 | data\img\bobbi-brown-highlighting-powder.jpg
+bobbi-brown-luxe-lip | 芭比波朗 奢金唇膏(Luxe Lip Color,唇膏) | 金管包装气派的旗舰口红,膏体顺滑显色,热门色号众多,滋润与哑光质地兼具。 | data\img\bobbi-brown-luxe-lip.jpg
+bobbi-brown-long-wear-foundation | 芭比波朗 清透持妆粉底液(Skin Long-Wear Weightless Foundation,粉底液) | 主打清透与持妆兼得,长时间不脱妆、不泛油光,遮瑕力适中,是适合通勤场景的全天候持妆粉底。 | data\img\bobbi-brown-long-wear-foundation.jpg
+bobbi-brown-cleansing-oil | 芭比波朗 舒缓卸妆油(Soothing Cleansing Oil,卸妆油) | 质地轻盈的温和卸妆油,乳化快、易冲净,卸妆同时舒缓肌肤,与品牌底妆产品搭配使用效果尤佳。 | data\img\bobbi-brown-cleansing-oil.jpg
+byredo-rose | 百瑞德 无人区玫瑰(Rose of No Man's Land,香水) | 粉椒+玫瑰的疏离感,「香水的流量之王」。 | data\img\byredo-rose.jpg
+byredo-gypsy | 百瑞德 流浪者之歌(Gypsy Water,香水) | 篝火松林与沙滩,自由浪游的北欧想象。 | data\img\byredo-gypsy.jpg
+byredo-blanche | 百瑞德 白色浪漫(Blanche,香水) | 洗净的床单与白衣,纯净系顶配。 | data\img\byredo-blanche.jpg
+byredo-makeup | 百瑞德 彩妆系列(Color Cosmetics,彩妆) | 北欧极简的口红眼影,收藏向彩妆。 | data\img\byredo-makeup.jpg

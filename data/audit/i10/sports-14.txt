@@ -1,0 +1,10 @@
+peak-taichi-slippers | 匹克 态极拖鞋(Taichi Slippers,拖鞋) | 态极科技的休闲衍生爆品,厚底软弹、上脚即陷,适合日常与运动后恢复穿着,长期位居国产拖鞋销量前列。 | data\img\peak-taichi-slippers.jpg
+peak-tp9 | 匹克 TP9 签名鞋(TP9,篮球鞋) | 与 NBA 传奇控卫托尼·帕克合作的签名鞋系列,以灵活启动与稳定支撑著称,历经多代迭代,实战口碑扎实。 | data\img\peak-tp9.jpg
+peak-dh | 匹克 霍华德系列篮球鞋(DH Series,篮球鞋) | 与 NBA 中锋德怀特·霍华德合作的中锋签名鞋,强调缓震保护与内线对抗,适合大体重球员,是匹克篮球线的代表产品。 | data\img\peak-dh.jpg
+peak-basketball | 匹克 匹克篮球(PEAK Basketball,篮球) | 匹克经典球类产品,手感与耐磨兼顾,覆盖室内外不同场景,以扎实品质与亲民价格成为校园与野球场的常见选择。 | data\img\peak-basketball.jpg
+peak-sportswear | 匹克 运动服饰系列(Sportswear,运动服) | 以态极科技为延伸的运动服装线,含速干上衣、卫衣与运动裤,设计年轻、价格亲民,是品牌门店的基础走量品类。 | data\img\peak-sportswear.jpg
+puma-suede | 彪马 Suede 经典麂皮板鞋(Suede,经典板鞋) | 1968年问世的麂皮运动鞋,同年奥运会上汤米·史密斯穿着它赤脚举拳的照片永载史册,此后也成为滑板与嘻哈文化的经典符号。 | data\img\puma-suede.jpg
+puma-rs-x | 彪马 RS-X(RS-X,复古跑鞋) | 复刻1980年代Running System缓震科技的复古跑鞋,夸张层叠造型与厚实中底深受潮流玩家喜爱,是千禧复古风格的 | data\img\puma-rs-x.jpg
+puma-palermo | 彪马 Palermo(Palermo,经典板鞋) | 诞生于1980年的麂皮复古训练鞋,因足球文化与英伦街头风潮翻红,简洁配色搭配经典造型,成为近年复古板鞋的热门。 | data\img\puma-palermo.jpg
+puma-speedcat | 彪马 Speedcat(Speedcat,复古赛车鞋) | 源自F1赛车运动的低趴薄底鞋,2024年借赛车风与纤薄鞋型潮流意外翻红,贴脚显腿长的版型让它成为现象级爆款。 | data\img\puma-speedcat.jpg
+puma-deviate-nitro | 彪马 Deviate Nitro(Deviate Nitro,竞速跑鞋) | 搭载氮气发泡Nitro中底与碳板的跑鞋系列,兼顾缓震与推进力,是PUMA重返专业跑步市场的诚意之作,训练比赛两相宜。 | data\img\puma-deviate-nitro.jpg

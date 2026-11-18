@@ -1,0 +1,9 @@
+valmont-hydra3 | 法尔曼 蜜润三重保湿霜(Hydra3 Regenetic Cream,面霜) | 保湿线高阶面霜,主打多维度补水锁水、改善干燥细纹,滋润度更高,适合干性与熟龄肌肤。 | data\img\valmont-hydra3.jpg
+valmont-vline-cream | 法尔曼 V-Line紧致提拉面霜(V-Line Lifting Cream,面霜) | V-Line抗老线核心面霜,主打提拉紧致、重塑轮廓线条,质地丰润,适合关注轮廓松弛问题的熟龄肌肤。 | data\img\valmont-vline-cream.jpg
+vaseline-lip | 凡士林 润唇膏(Lip Therapy,润唇膏) | 小铁罐 Rosy Lips,嘴唇干裂急救。 | data\img\vaseline-lip.jpg
+vaseline-lotion | 凡士林 身体乳(Intensive Care Lotion,身体乳) | 燕麦修护大碗身体乳,冬天全身涂不心疼。 | data\img\vaseline-lotion.jpg
+vaseline-hand | 凡士林 护手霜(Hand Cream,护手霜) | 速干不油腻,办公室常备。 | data\img\vaseline-hand.jpg
+winona-sunscreen | 薇诺娜 清透防晒乳(Sunscreen Milk,防晒) | 敏感肌可用物化结合防晒,不闷痘。 | data\img\winona-sunscreen.jpg
+winona-serum | 薇诺娜 舒敏精华(Soothing Serum,精华) | 青刺果+马齿苋,修复屏障的精华担当。 | data\img\winona-serum.jpg
+winona-cleanser | 薇诺娜 舒缓洁面乳(Gentle Cleanser,洁面) | 氨基酸洁面,洗后不紧绷。 | data\img\winona-cleanser.jpg
+winona-mask | 薇诺娜 舒缓修护冻干面膜(Freeze-dried Mask,面膜) | 冻干粉现调现用,医美术后也能用。 | data\img\winona-mask.jpg

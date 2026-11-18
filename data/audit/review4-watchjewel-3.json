@@ -1,0 +1,47 @@
+[
+ {
+  "id": "vc-metiers",
+  "brand": "江诗丹顿",
+  "name": "艺术大师系列",
+  "nameEn": "Métiers d'Art",
+  "type": "艺术表",
+  "desc": "珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。",
+  "file": "data\\img\\vc-metiers.jpg"
+ },
+ {
+  "id": "vca-alhambra",
+  "brand": "梵克雅宝",
+  "name": "Alhambra 四叶草",
+  "nameEn": "Alhambra",
+  "type": "项链",
+  "desc": "1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。",
+  "file": "data\\img\\vca-alhambra.jpg"
+ },
+ {
+  "id": "vca-frivole",
+  "brand": "梵克雅宝",
+  "name": "Frivole",
+  "nameEn": "Frivole",
+  "type": "首饰",
+  "desc": "八瓣花瓣镶钻如晨露绽放,近年最热的新系列。",
+  "file": "data\\img\\vca-frivole.jpg"
+ },
+ {
+  "id": "vca-perlee",
+  "brand": "梵克雅宝",
+  "name": "Perlé金珠",
+  "nameEn": "Perpée",
+  "type": "首饰",
+  "desc": "一颗颗金珠串起的低调系列,叠戴入门的优雅答案。",
+  "file": "data\\img\\vca-perlee.jpg"
+ },
+ {
+  "id": "vca-ballerina",
+  "brand": "梵克雅宝",
+  "name": "芭蕾舞者",
+  "nameEn": "Ballerina",
+  "type": "胸针",
+  "desc": "1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。",
+  "file": "data\\img\\vca-ballerina.jpg"
+ }
+]

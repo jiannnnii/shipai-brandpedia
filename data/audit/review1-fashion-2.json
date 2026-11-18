@@ -1,0 +1,452 @@
+[
+ {
+  "id": "celine-luggage",
+  "brand": "赛琳",
+  "name": "笑脸包",
+  "nameEn": "Luggage",
+  "type": "手袋",
+  "desc": "2010年推出的通勤托特,两侧拉链袋神似笑脸而得名,大容量与趣味造型兼备,曾是街拍时代最热通勤包。",
+  "file": "data\\img\\celine-luggage.jpg"
+ },
+ {
+  "id": "celine-belt-bag",
+  "brand": "赛琳",
+  "name": "鲶鱼包",
+  "nameEn": "Belt Bag",
+  "type": "手袋",
+  "desc": "以两条腰带式长肩带闻名的托特包,软廓形斜挎随性,2010年代与笑脸包并列赛琳双璧,近年再度回潮。",
+  "file": "data\\img\\celine-belt-bag.jpg"
+ },
+ {
+  "id": "celine-ava",
+  "brand": "赛琳",
+  "name": "Ava",
+  "nameEn": "Ava",
+  "type": "腋下包",
+  "desc": "复古月牙形腋下包,凯旋门五金点缀凯旋门帆布或光面牛皮,轻巧百搭,是年轻客群入门首选。",
+  "file": "data\\img\\celine-ava.jpg"
+ },
+ {
+  "id": "celine-16",
+  "brand": "赛琳",
+  "name": "16包",
+  "nameEn": "Bag 16",
+  "type": "手袋",
+  "desc": "以品牌首间工作室门牌号命名的旗舰手袋,2018年推出,翻盖方形结构、皮质细腻,做工对标高定级皮具。",
+  "file": "data\\img\\celine-16.jpg"
+ },
+ {
+  "id": "chanel-boy",
+  "brand": "香奈儿",
+  "name": "Le Boy",
+  "nameEn": "Boy Chanel",
+  "type": "手袋",
+  "desc": "2011年推出的中性风格手袋,硬朗方型轮廓配粗链条,名字致敬香奈儿一生挚爱卡柏男孩,深受年轻客群喜爱。",
+  "file": "data\\img\\chanel-boy.jpg"
+ },
+ {
+  "id": "chanel-19",
+  "brand": "香奈儿",
+  "name": "19手袋",
+  "nameEn": "Chanel 19",
+  "type": "手袋",
+  "desc": "2019年问世的当代旗舰包型,以品牌诞生年份的后两位命名,软糯袋身、混色链条与浮凸双C标识,推出即成爆款。",
+  "file": "data\\img\\chanel-19.jpg"
+ },
+ {
+  "id": "chanel-coco-handle",
+  "brand": "香奈儿",
+  "name": "Coco Handle",
+  "nameEn": "Coco Handle",
+  "type": "手袋",
+  "desc": "以创始人昵称命名的小方包,顶部皮革提手与菱格纹袋身相映,通勤优雅两相宜,常年专柜紧俏。",
+  "file": "data\\img\\chanel-coco-handle.jpg"
+ },
+ {
+  "id": "chanel-chance",
+  "brand": "香奈儿",
+  "name": "邂逅香水",
+  "nameEn": "Chance",
+  "type": "香水",
+  "desc": "2002年前后推出的圆形瓶身女士香水,以清新花果香调著称,是香奈儿美妆线最畅销的香水系列之一。",
+  "file": "data\\img\\chanel-chance.jpg"
+ },
+ {
+  "id": "chloe-drew",
+  "brand": "蔻依",
+  "name": "Drew 小猪包",
+  "nameEn": "Drew Bag",
+  "type": "手袋",
+  "desc": "2014年推出的圆弧鞍形包,金属链条与拼接设计温婉可人,当年红极一时的 it bag。",
+  "file": "data\\img\\chloe-drew.jpg"
+ },
+ {
+  "id": "chloe-marcie",
+  "brand": "蔻依",
+  "name": "Marcie 手袋",
+  "nameEn": "Marcie Bag",
+  "type": "手袋",
+  "desc": "以复古马鞍缝线与圆弧翻盖著称的长青系列,皮质柔软,法式气质浓郁。",
+  "file": "data\\img\\chloe-marcie.jpg"
+ },
+ {
+  "id": "chloe-faye",
+  "brand": "蔻依",
+  "name": "Faye 手袋",
+  "nameEn": "Faye Bag",
+  "type": "手袋",
+  "desc": "绒面与光面皮拼接、缀以圆形金属环,慵懒随性的设计让它成为街拍常客。",
+  "file": "data\\img\\chloe-faye.jpg"
+ },
+ {
+  "id": "chloe-woody",
+  "brand": "蔻依",
+  "name": "Woody 托特包",
+  "nameEn": "Woody Tote",
+  "type": "托特包",
+  "desc": "帆布皮革拼接的宽松托特,刺绣标识低调慵懒,日常通勤容量充足。",
+  "file": "data\\img\\chloe-woody.jpg"
+ },
+ {
+  "id": "chloe-fragrance",
+  "brand": "蔻依",
+  "name": "丝带香水",
+  "nameEn": "Chloé Eau de Parfum",
+  "type": "香水",
+  "desc": "瓶颈系着丝带的经典女香,玫瑰与牡丹花香优雅柔和,是入门女香的常年畅销款。",
+  "file": "data\\img\\chloe-fragrance.jpg"
+ },
+ {
+  "id": "chloe-readytowear",
+  "brand": "蔻依",
+  "name": "女装成衣",
+  "nameEn": "Ready-to-Wear",
+  "type": "服装",
+  "desc": "飘逸连衣裙、蕾丝衬衫与阔腿裤演绎法式浪漫,面料轻软,尽显波西米亚气质。",
+  "file": "data\\img\\chloe-readytowear.jpg"
+ },
+ {
+  "id": "cl-sokate",
+  "brand": "克里斯提·鲁布托",
+  "name": "So Kate 高跟鞋",
+  "nameEn": "So Kate Pump",
+  "type": "高跟鞋",
+  "desc": "120 毫米鞋跟搭配极细跟身与尖头造型,线条凌厉性感,是红毯与婚鞋场合的经典之选,黑色漆皮版本最为畅销。",
+  "file": "data\\img\\cl-sokate.jpg"
+ },
+ {
+  "id": "cl-pigallefollies",
+  "brand": "克里斯提·鲁布托",
+  "name": "Pigalle Follies 高跟鞋",
+  "nameEn": "Pigalle Follies Pump",
+  "type": "高跟鞋",
+  "desc": "经典 Pigalle 鞋型的升级版本,加深鞋口以拉长腿部线条,100 毫米跟高平衡优雅与舒适,是通勤与晚宴之间的百搭款。",
+  "file": "data\\img\\cl-pigallefollies.jpg"
+ },
+ {
+  "id": "cl-iriza",
+  "brand": "克里斯提·鲁布托",
+  "name": "Iriza 半空高跟鞋",
+  "nameEn": "Iriza Pump",
+  "type": "高跟鞋",
+  "desc": "d'Orsay 半镂空结构露出足弓曲线,结合尖头设计,视觉上更显脚型纤细,婚鞋与礼服场景人气极高。",
+  "file": "data\\img\\cl-iriza.jpg"
+ },
+ {
+  "id": "cl-kate",
+  "brand": "克里斯提·鲁布托",
+  "name": "Kate 高跟鞋",
+  "nameEn": "Kate Pump",
+  "type": "高跟鞋",
+  "desc": "85 毫米中跟的尖头红底鞋,重心适中更易驾驭,是品牌入门与通勤场景的热门选择,亦有平底版本可供选择。",
+  "file": "data\\img\\cl-kate.jpg"
+ },
+ {
+  "id": "cl-louisjunior",
+  "brand": "克里斯提·鲁布托",
+  "name": "Louis Junior 男士运动鞋",
+  "nameEn": "Louis Junior Sneaker",
+  "type": "运动鞋",
+  "desc": "男士系列的代表作,低帮板鞋造型搭配低调品牌字标与鞋底细节,皮质细腻,是明星日常穿搭中的高频单品。",
+  "file": "data\\img\\cl-louisjunior.jpg"
+ },
+ {
+  "id": "cdg-play",
+  "brand": "川久保玲",
+  "name": "PLAY 心形系列",
+  "nameEn": "CDG PLAY",
+  "type": "T恤/卫衣",
+  "desc": "以波兰插画师 Filip Pagowski 设计的红心大眼睛图案为标志,T 恤与卫衣是最受欢迎的单品,让先锋品牌拥有了大",
+  "file": "data\\img\\cdg-play.jpg"
+ },
+ {
+  "id": "cdg-hommeplus",
+  "brand": "川久保玲",
+  "name": "Homme Plus 男装",
+  "nameEn": "Homme Plus",
+  "type": "男装系列",
+  "desc": "品牌男装主线,以打破常规的西装剪裁与材质拼接闻名,延续品牌先锋语言,是男装周的高光系列。",
+  "file": "data\\img\\cdg-hommeplus.jpg"
+ },
+ {
+  "id": "cdg-shirt",
+  "brand": "川久保玲",
+  "name": "SHIRT 系列",
+  "nameEn": "CDG SHIRT",
+  "type": "衬衫",
+  "desc": "专注衬衫品类的副线,以波点、条纹与打破常规的印花图案为特色,面料与版型考究,是品牌价格与设计平衡的日常线。",
+  "file": "data\\img\\cdg-shirt.jpg"
+ },
+ {
+  "id": "cdg-parfums",
+  "brand": "川久保玲",
+  "name": "香水系列",
+  "nameEn": "CDG Parfums",
+  "type": "香水",
+  "desc": "1994 年起推出的香氛线,Odeur 53、Wonderwood 等以工业与木质元素入香,概念前卫,瓶身设计亦具收藏价",
+  "file": "data\\img\\cdg-parfums.jpg"
+ },
+ {
+  "id": "coach-tote",
+  "brand": "蔻驰",
+  "name": "托特包",
+  "nameEn": "Tote",
+  "type": "托特包",
+  "desc": "帆布与皮革结合的大容量托特,马车图案与老花托特常年畅销,上学通勤皆宜。",
+  "file": "data\\img\\coach-tote.jpg"
+ },
+ {
+  "id": "coach-wallets",
+  "brand": "蔻驰",
+  "name": "钱包与小皮具",
+  "nameEn": "Wallets & Small Goods",
+  "type": "小皮具",
+  "desc": "经典老花与皮革钱夹、卡包,做工精细价格适中,是品牌口碑最好的入门品类。",
+  "file": "data\\img\\coach-wallets.jpg"
+ },
+ {
+  "id": "coach-mensbags",
+  "brand": "蔻驰",
+  "name": "男士包袋",
+  "nameEn": "Men's Bags",
+  "type": "男包",
+  "desc": "公文包、斜挎包与腰包兼具功能与质感,简约设计广受职场男士欢迎。",
+  "file": "data\\img\\coach-mensbags.jpg"
+ },
+ {
+  "id": "dz-dress",
+  "brand": "地素",
+  "name": "摩登连衣裙",
+  "nameEn": "Modern Dress",
+  "type": "连衣裙",
+  "desc": "以收腰剪裁与流行色面料为主,兼顾约会与通勤场景,印花与纯色版本交替上新,是品牌销售占比最高的品类之一。",
+  "file": "data\\img\\dz-dress.jpg"
+ },
+ {
+  "id": "dz-coat",
+  "brand": "地素",
+  "name": "都市大衣",
+  "nameEn": "Urban Coat",
+  "type": "大衣",
+  "desc": "以羊毛混纺面料制成,廓形利落,常见的燕麦色与黑白色系便于搭配,是品牌秋冬的引流主力。",
+  "file": "data\\img\\dz-coat.jpg"
+ },
+ {
+  "id": "dz-denim",
+  "brand": "地素",
+  "name": "牛仔裤装",
+  "nameEn": "Denim",
+  "type": "裤装",
+  "desc": "以直筒与阔腿版型为主,水洗工艺与破洞设计跟随当季流行,弹力面料兼顾舒适度,是品牌日常搭配的下装主力。",
+  "file": "data\\img\\dz-denim.jpg"
+ },
+ {
+  "id": "dior-lady-dior",
+  "brand": "迪奥",
+  "name": "戴妃包",
+  "nameEn": "Lady Dior",
+  "type": "手袋",
+  "desc": "1995年为戴安娜王妃定制而得名,藤格纹缝线配D.I.O.R.金属吊饰,是迪奥最具代表性的手袋,优雅与品位的象征。",
+  "file": "data\\img\\dior-lady-dior.jpg"
+ },
+ {
+  "id": "dior-saddle",
+  "brand": "迪奥",
+  "name": "马鞍包",
+  "nameEn": "Saddle Bag",
+  "type": "手袋",
+  "desc": "1999年约翰·加利亚诺设计的异形马鞍轮廓,2018年复刻后再度爆红,磁扣翻盖配可选肩带,是千禧风回归的标志单品。",
+  "file": "data\\img\\dior-saddle.jpg"
+ },
+ {
+  "id": "dior-book-tote",
+  "brand": "迪奥",
+  "name": "Book Tote",
+  "nameEn": "Book Tote",
+  "type": "托特包",
+  "desc": "玛丽亚·嘉茜娅·蔻丽2017年推出的方形托特,可满绣Dior字样图案,大容量直角廓形适合通勤旅行,刺绣工时长达数十小时。",
+  "file": "data\\img\\dior-book-tote.jpg"
+ },
+ {
+  "id": "dior-30-montaigne",
+  "brand": "迪奥",
+  "name": "蒙田包",
+  "nameEn": "30 Montaigne",
+  "type": "手袋",
+  "desc": "以品牌总部蒙田大道30号命名的2019年包型,翻盖配CD字母扣,廓形挺括复古,是近年迪奥旗舰手袋。",
+  "file": "data\\img\\dior-30-montaigne.jpg"
+ },
+ {
+  "id": "dior-caro",
+  "brand": "迪奥",
+  "name": "Caro",
+  "nameEn": "Caro",
+  "type": "手袋",
+  "desc": "2021年推出的链条手袋,藤格纹小牛皮配编织链条肩带,正面CD标志,风格年轻又延续品牌经典元素。",
+  "file": "data\\img\\dior-caro.jpg"
+ },
+ {
+  "id": "dolce-gabbana-sicily",
+  "brand": "杜嘉班纳",
+  "name": "Sicily手袋",
+  "nameEn": "Sicily",
+  "type": "手袋",
+  "desc": "以西西里命名的方形手袋,金属D&G徽标与光面皮革,硬挺轮廓优雅百搭,是品牌包袋线常青款。",
+  "file": "data\\img\\dolce-gabbana-sicily.jpg"
+ },
+ {
+  "id": "dolce-gabbana-devotion",
+  "brand": "杜嘉班纳",
+  "name": "Devotion爱心包",
+  "nameEn": "Devotion",
+  "type": "手袋",
+  "desc": "以圣心元素为灵感的爱心手袋,水钻缀饰与皮革编织,西西里宗教美学加持,上市即成网红款。",
+  "file": "data\\img\\dolce-gabbana-devotion.jpg"
+ },
+ {
+  "id": "dolce-gabbana-light-blue",
+  "brand": "杜嘉班纳",
+  "name": "Light Blue香水",
+  "nameEn": "Light Blue",
+  "type": "香水",
+  "desc": "2001年推出的地中海风格香水,西西里柠檬与青苹果气息清新明快,长期位居全球最畅销香水之列。",
+  "file": "data\\img\\dolce-gabbana-light-blue.jpg"
+ },
+ {
+  "id": "dolce-gabbana-crystal-flats",
+  "brand": "杜嘉班纳",
+  "name": "水晶装饰平底鞋",
+  "nameEn": "Crystal Flats",
+  "type": "平底鞋",
+  "desc": "缀满水钻与珍珠的皮革平底鞋,华丽到近乎戏剧化,派对与婚礼场合人气极高,体现品牌极致装饰美学。",
+  "file": "data\\img\\dolce-gabbana-crystal-flats.jpg"
+ },
+ {
+  "id": "dolce-gabbana-the-one",
+  "brand": "杜嘉班纳",
+  "name": "The One香水",
+  "nameEn": "The One",
+  "type": "香水",
+  "desc": "2006年推出的东方花香调女香,琥珀与香料暖意浓郁,金盖瓶身优雅,是品牌另一支销量长红的女香。",
+  "file": "data\\img\\dolce-gabbana-the-one.jpg"
+ },
+ {
+  "id": "etro-paisleyshirt",
+  "brand": "艾绰",
+  "name": "佩斯利印花衬衫",
+  "nameEn": "Paisley Shirt",
+  "type": "衬衫",
+  "desc": "腰果花图案的真丝与棉质衬衫,色彩繁复却不失章法,是品牌最典型的单品。",
+  "file": "data\\img\\etro-paisleyshirt.jpg"
+ },
+ {
+  "id": "etro-scarves",
+  "brand": "艾绰",
+  "name": "羊绒围巾",
+  "nameEn": "Cashmere Scarves",
+  "type": "围巾",
+  "desc": "精纺羊绒印花围巾,纹样繁花似锦,触感细腻,冬季佩戴即成造型焦点。",
+  "file": "data\\img\\etro-scarves.jpg"
+ },
+ {
+  "id": "etro-ties",
+  "brand": "艾绰",
+  "name": "真丝领带",
+  "nameEn": "Silk Ties",
+  "type": "领带",
+  "desc": "品牌起家看家的领带工艺,真丝印花精致考究,是商务绅士的心头好。",
+  "file": "data\\img\\etro-ties.jpg"
+ },
+ {
+  "id": "etro-bags",
+  "brand": "艾绰",
+  "name": "手袋",
+  "nameEn": "Handbags",
+  "type": "手袋",
+  "desc": "Love Trotter 等系列把经典纹样融入包身,皮革拼接与刺绣细节尽显意式奢华。",
+  "file": "data\\img\\etro-bags.jpg"
+ },
+ {
+  "id": "etro-readytowear",
+  "brand": "艾绰",
+  "name": "成衣系列",
+  "nameEn": "Ready-to-Wear",
+  "type": "服装",
+  "desc": "提花外套、印花长裙与波西米亚廓形,浓烈色彩中透着游牧式的浪漫优雅。",
+  "file": "data\\img\\etro-readytowear.jpg"
+ },
+ {
+  "id": "etro-fragrance",
+  "brand": "艾绰",
+  "name": "香水",
+  "nameEn": "Fragrance",
+  "type": "香水",
+  "desc": "以香料之路为灵感的香氛系列,东方式辛香与木质调浓郁迷人,瓶身延续佩斯利纹样。",
+  "file": "data\\img\\etro-fragrance.jpg"
+ },
+ {
+  "id": "fendi-by-the-way",
+  "brand": "芬迪",
+  "name": "By The Way",
+  "nameEn": "By The Way",
+  "type": "手袋",
+  "desc": "长方形横向结构手袋,双拉链开合,手提肩背皆宜,罗马式低调优雅,是品牌常青通勤款。",
+  "file": "data\\img\\fendi-by-the-way.jpg"
+ },
+ {
+  "id": "ferragamo-vara",
+  "brand": "菲拉格慕",
+  "name": "Vara蝴蝶结鞋",
+  "nameEn": "Vara",
+  "type": "平底鞋",
+  "desc": "1978年问世的经典款,蝴蝶结与金属牌缀于圆头鞋面,舒适百搭,是品牌最深入人心的鞋履符号。",
+  "file": "data\\img\\ferragamo-vara.jpg"
+ },
+ {
+  "id": "ferragamo-varina",
+  "brand": "菲拉格慕",
+  "name": "Varina芭蕾鞋",
+  "nameEn": "Varina",
+  "type": "芭蕾鞋",
+  "desc": "Vara的芭蕾舞鞋版本,软底浅口配标志性蝴蝶结,皮质柔软亲肤,是优雅少女感的入门款。",
+  "file": "data\\img\\ferragamo-varina.jpg"
+ },
+ {
+  "id": "ferragamo-signorina",
+  "brand": "菲拉格慕",
+  "name": "Signorina香水",
+  "nameEn": "Signorina",
+  "type": "香水",
+  "desc": "2011年推出的少女感香水,意语意为年轻小姐,粉胡椒与焦糖奶油气息甜美俏皮,瓶身配标志蝴蝶结,是香水线招牌。",
+  "file": "data\\img\\ferragamo-signorina.jpg"
+ },
+ {
+  "id": "furla-1927",
+  "brand": "芙拉",
+  "name": "1927 手袋",
+  "nameEn": "Furla 1927",
+  "type": "手袋",
+  "desc": "以创立年份命名的招牌系列,拱形锁扣致敬历史档案,简洁百搭,通勤首选。",
+  "file": "data\\img\\furla-1927.jpg"
+ }
+]

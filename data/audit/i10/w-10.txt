@@ -1,0 +1,10 @@
+tiffany-keys | 蒂芙尼 钥匙系列(Tiffany Keys,项链) | 把钥匙做成吊坠,开启人生新篇章的隐喻,曾经的销量神话。 | data\img\tiffany-keys.jpg
+tiffany-smile | 蒂芙尼 微笑项链(T Smile,项链) | 一条微笑弧线的锁骨链,最畅销的蒂芙尼入门单品。 | data\img\tiffany-smile.jpg
+tiffany-return | 蒂芙尼 Return to Tiffany(Return to Tiffany,首饰) | 刻着"请归还蒂芙尼"的铭牌系列,源自丢失吊牌的故事,年轻线经典。 | data\img\tiffany-return.jpg
+tissot-locator | 天梭 力洛克(Le Locle,正装表) | 以品牌故乡命名,机刻纹盘面+罗马刻度,瑞士机械表第一课。 | data\img\tissot-locator.jpg
+tissot-prx | 天梭 PRX(PRX,运动豪华表) | 1978年复古一体链设计复活,超薄Powermatic机芯,网红爆款。 | data\img\tissot-prx.jpg
+tissot-seastar | 天梭 海星(Seastar,潜水表) | 300米潜水的瑞士认证入门,3000块买大厂潜水表的天花板。 | data\img\tissot-seastar.jpg
+tissot-chemindesindices | 天梭 卡森(Carson,正装表) | 极简小三针,通勤正装不出错的稳妥之选。 | data\img\tissot-chemindesindices.jpg
+tudor-blackbay | 帝舵 碧湾(Black Bay,潜水表) | 复活1958年古董水鬼血统,雪花针+大表冠,潜水复古的国民爆款。 | data\img\tudor-blackbay.jpg
+tudor-royal | 帝舵 皇家系列(Royal,正装表) | 一体化表链的正装运动两相宜,典雅日常款。 | data\img\tudor-royal.jpg
+tudor-pelagos | 帝舵 领潜型(Pelagos,潜水表) | 钛壳500米专业潜水,排氦阀+陶瓷圈,专业玩家心里的真神。 | data\img\tudor-pelagos.jpg

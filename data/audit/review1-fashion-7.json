@@ -1,0 +1,452 @@
+[
+ {
+  "id": "rv-boitedenuit",
+  "brand": "罗杰·维维亚",
+  "name": "Boîte de Nuit 手袋",
+  "nameEn": "Boîte de Nuit Bag",
+  "type": "手袋",
+  "desc": "以珠宝盒为灵感的硬盒手袋,金属锁扣与皮质包身,近年因明星街拍走红,小巧精致,是品牌配饰线的新晋招牌。",
+  "file": "data\\img\\rv-boitedenuit.jpg"
+ },
+ {
+  "id": "saint-laurent-niki",
+  "brand": "圣罗兰",
+  "name": "Niki",
+  "nameEn": "Niki",
+  "type": "手袋",
+  "desc": "褶皱做旧皮革配YSL字母扣的软质单肩包,链条与皮革双肩带,慵懒随性,是圣罗兰近年最热卖包型。",
+  "file": "data\\img\\saint-laurent-niki.jpg"
+ },
+ {
+  "id": "saint-laurent-loulou",
+  "brand": "圣罗兰",
+  "name": "Loulou",
+  "nameEn": "Loulou",
+  "type": "手袋",
+  "desc": "以圣罗兰缪斯露露·德·拉·法莱兹命名的绗缝手袋,柔软袋身配YSL金属扣,日常百搭,有多个尺寸。",
+  "file": "data\\img\\saint-laurent-loulou.jpg"
+ },
+ {
+  "id": "saint-laurent-le5a7",
+  "brand": "圣罗兰",
+  "name": "Le 5 à 7",
+  "nameEn": "Le 5 à 7",
+  "type": "腋下包",
+  "desc": "名字取自巴黎黄昏小酌时光的新月形Hobo包,2021年推出后成为明星街拍常客,光滑小牛皮软糯贴身。",
+  "file": "data\\img\\saint-laurent-le5a7.jpg"
+ },
+ {
+  "id": "saint-laurent-sac-de-jour",
+  "brand": "圣罗兰",
+  "name": "Sac de Jour",
+  "nameEn": "Sac de Jour",
+  "type": "手袋",
+  "desc": "2013年斯利曼推出的风琴式硬挺手袋,侧面束带细节,结构感强,被誉为YSL版铂金包,通勤气场之选。",
+  "file": "data\\img\\saint-laurent-sac-de-jour.jpg"
+ },
+ {
+  "id": "saint-laurent-kate",
+  "brand": "圣罗兰",
+  "name": "Kate",
+  "nameEn": "Kate",
+  "type": "手袋",
+  "desc": "流苏缀YSL标志的链条晚宴包,小巧精致,金色链条斜挎优雅,是红毯与派对手袋的常客。",
+  "file": "data\\img\\saint-laurent-kate.jpg"
+ },
+ {
+  "id": "saint-laurent-opyum",
+  "brand": "圣罗兰",
+  "name": "Opyum高跟鞋",
+  "nameEn": "Opyum",
+  "type": "高跟鞋",
+  "desc": "鞋跟嵌有YSL金属标志的经典高跟鞋,尖头细跟,把品牌Logo化作装饰,是红毯与派对的标志性鞋款。",
+  "file": "data\\img\\saint-laurent-opyum.jpg"
+ },
+ {
+  "id": "stellamccartney-falabella",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "Falabella 链条包",
+  "nameEn": "Falabella Bag",
+  "type": "手袋",
+  "desc": "以粗链条与仿麂皮材质打造的招牌包,无皮革却质感十足,是环保奢侈的经典符号。",
+  "file": "data\\img\\stellamccartney-falabella.jpg"
+ },
+ {
+  "id": "stellamccartney-tote",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "Logo 帆布托特",
+  "nameEn": "Logo Tote",
+  "type": "托特包",
+  "desc": "印有品牌字样的环保帆布托特,轻便大容量,日常通勤与出街皆宜。",
+  "file": "data\\img\\stellamccartney-tote.jpg"
+ },
+ {
+  "id": "stellamccartney-sneakers",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "运动鞋",
+  "nameEn": "Sneakers",
+  "type": "运动鞋",
+  "desc": "采用植物基与再生材料制成的运动鞋,厚底造型时髦,兼顾环保与设计感。",
+  "file": "data\\img\\stellamccartney-sneakers.jpg"
+ },
+ {
+  "id": "stellamccartney-dresses",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "连衣裙",
+  "nameEn": "Dresses",
+  "type": "连衣裙",
+  "desc": "从礼服到日常裙装,以雕塑感剪裁与女性化细节见长,红毯环保造型首选。",
+  "file": "data\\img\\stellamccartney-dresses.jpg"
+ },
+ {
+  "id": "stellamccartney-knitwear",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "针织衫",
+  "nameEn": "Knitwear",
+  "type": "针织衫",
+  "desc": "有机棉与再生纤维针织,趣味图案与经典款并存,摩登又可持续。",
+  "file": "data\\img\\stellamccartney-knitwear.jpg"
+ },
+ {
+  "id": "stellamccartney-sunglasses",
+  "brand": "斯特拉·麦卡特尼",
+  "name": "太阳镜",
+  "nameEn": "Eyewear",
+  "type": "眼镜",
+  "desc": "采用生物基醋酸纤维的镜架,复古造型搭配环保理念,低调且具辨识度。",
+  "file": "data\\img\\stellamccartney-sunglasses.jpg"
+ },
+ {
+  "id": "sw-5050",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "5050 长靴",
+  "nameEn": "5050 Boot",
+  "type": "长靴",
+  "desc": "以弹力织物与皮革各占一半而得名「5050」,过膝靴身贴合腿部曲线,穿脱方便,是品牌最经典、销量最高的鞋款。",
+  "file": "data\\img\\sw-5050.jpg"
+ },
+ {
+  "id": "sw-highland",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Highland 过膝靴",
+  "nameEn": "Highland Boot",
+  "type": "长靴",
+  "desc": "全皮过膝长靴,鞋身以弹力皮革紧贴腿部,视觉上显著拉长腿部比例,是品牌与 5050 并列的招牌靴款。",
+  "file": "data\\img\\sw-highland.jpg"
+ },
+ {
+  "id": "sw-lowland",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Lowland 过膝靴",
+  "nameEn": "Lowland Boot",
+  "type": "长靴",
+  "desc": "比 Highland 更低的鞋跟设计,以平底或低跟呈现的过膝靴,兼顾舒适与显腿长,适合长时间行走的城市穿着。",
+  "file": "data\\img\\sw-lowland.jpg"
+ },
+ {
+  "id": "sw-nudistsong",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Nudistsong 一字带高跟鞋",
+  "nameEn": "Nudistsong Sandal",
+  "type": "高跟鞋",
+  "desc": "经典 Nudist 一字带凉鞋的传承款,细一字带与细高跟最大限度露出足背,营造「裸感」,是红毯与日常皆宜的经典凉鞋。",
+  "file": "data\\img\\sw-nudistsong.jpg"
+ },
+ {
+  "id": "sw-nearlynude",
+  "brand": "斯图尔特·韦茨曼",
+  "name": "Nearlynude 一字带高跟鞋",
+  "nameEn": "Nearlynude Sandal",
+  "type": "高跟鞋",
+  "desc": "以更纤细的鞋跟与简约的一字带设计,呈现轻盈的「近乎赤足」效果,跟高选择丰富,是夏季礼服与日常的热门款。",
+  "file": "data\\img\\sw-nearlynude.jpg"
+ },
+ {
+  "id": "tb-hoodie",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠连帽卫衣",
+  "nameEn": "4-Bar Hoodie",
+  "type": "连帽卫衣",
+  "desc": "胸前或手臂绣有品牌标志性的四道白杠,以重磅棉质毛圈布制成,版型方正偏短,是品牌最具辨识度的休闲单品。",
+  "file": "data\\img\\tb-hoodie.jpg"
+ },
+ {
+  "id": "tb-suit",
+  "brand": "桑姆·布郎尼",
+  "name": "经典灰色西装",
+  "nameEn": "Classic Grey Suit",
+  "type": "西装",
+  "desc": "品牌立身之作,中等灰色斜纹面料搭配缩短的衣长与窄肩设计,裤装露出脚踝,颠覆传统西装比例,是设计师西装的教科书。",
+  "file": "data\\img\\tb-suit.jpg"
+ },
+ {
+  "id": "tb-cardigan",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠针织开衫",
+  "nameEn": "4-Bar Cardigan",
+  "type": "开衫",
+  "desc": "以美利奴羊毛或马海毛织成,前襟与袖口点缀四道杠织带,学院气质浓厚,是秋冬叠穿的人气单品。",
+  "file": "data\\img\\tb-cardigan.jpg"
+ },
+ {
+  "id": "tb-trousers",
+  "brand": "桑姆·布郎尼",
+  "name": "灰色西裤",
+  "nameEn": "Grey Trousers",
+  "type": "裤装",
+  "desc": "与西装同源的灰色西裤,裤线笔挺、腰头偏高,裤脚微露脚踝,常配织带乐福鞋,是品牌男装日装的核心单品。",
+  "file": "data\\img\\tb-trousers.jpg"
+ },
+ {
+  "id": "tb-shorts",
+  "brand": "桑姆·布郎尼",
+  "name": "四道杠短裤",
+  "nameEn": "4-Bar Shorts",
+  "type": "短裤",
+  "desc": "以泡泡纱与法兰绒等面料制成的及膝以上短裤,侧边或后袋点缀四道杠,是品牌夏季最具话题度的单品。",
+  "file": "data\\img\\tb-shorts.jpg"
+ },
+ {
+  "id": "tb-hectorbag",
+  "brand": "桑姆·布郎尼",
+  "name": "Hector 大象包",
+  "nameEn": "Hector Bag",
+  "type": "手袋",
+  "desc": "以设计师爱犬 Hector 命名的动物造型包袋,大象轮廓搭配皮革细节,趣味十足,是品牌配饰线的明星产品。",
+  "file": "data\\img\\tb-hectorbag.jpg"
+ },
+ {
+  "id": "tods-gommino",
+  "brand": "托德斯",
+  "name": "豆豆鞋",
+  "nameEn": "Gommino",
+  "type": "莫卡辛鞋",
+  "desc": "1986年问世的品牌灵魂产品,鞋底与鞋跟缀满133颗橡胶小粒,软如手套般贴合,开车行走皆宜,是意式休闲的代名词。",
+  "file": "data\\img\\tods-gommino.jpg"
+ },
+ {
+  "id": "tods-d-styling",
+  "brand": "托德斯",
+  "name": "D-Styling手袋",
+  "nameEn": "D-Styling",
+  "type": "手袋",
+  "desc": "因戴安娜王妃多次背用而闻名的D型手袋,方正简洁配翻盖开合,皮革手工缝制,低调实用的通勤经典。",
+  "file": "data\\img\\tods-d-styling.jpg"
+ },
+ {
+  "id": "tods-t-timeless",
+  "brand": "托德斯",
+  "name": "T Timeless托特",
+  "nameEn": "T Timeless",
+  "type": "托特包",
+  "desc": "以品牌首字母T为金属标志的托特系列,帆布与皮革拼接,容量可观,价格在奢侈品牌中相对亲民。",
+  "file": "data\\img\\tods-t-timeless.jpg"
+ },
+ {
+  "id": "tods-wave",
+  "brand": "托德斯",
+  "name": "Wave莫卡辛鞋",
+  "nameEn": "Wave",
+  "type": "乐福鞋",
+  "desc": "波浪形鞋底设计的莫卡辛鞋,在经典豆豆鞋基础上增强弹性与抓地力,商务休闲两相宜。",
+  "file": "data\\img\\tods-wave.jpg"
+ },
+ {
+  "id": "tods-loafer",
+  "brand": "托德斯",
+  "name": "经典乐福鞋",
+  "nameEn": "Loafers",
+  "type": "乐福鞋",
+  "desc": "以优质小牛皮与手工缝线著称的乐福鞋,鞋型圆润轻盈,可与西装或牛仔裤无缝衔接,是品牌鞋履线另一主力。",
+  "file": "data\\img\\tods-loafer.jpg"
+ },
+ {
+  "id": "tomford-privateblend",
+  "brand": "汤姆·福特",
+  "name": "私人调配香水",
+  "nameEn": "Private Blend",
+  "type": "香水",
+  "desc": "品牌高端香水线,乌木沉香、烟草香草等浓香闻名单圈粉无数,瓶身自带奢华气场,是送礼与自用的经典之选。",
+  "file": "data\\img\\tomford-privateblend.jpg"
+ },
+ {
+  "id": "tomford-lipcolor",
+  "brand": "汤姆·福特",
+  "name": "经典唇膏",
+  "nameEn": "Lip Color",
+  "type": "彩妆",
+  "desc": "美妆线王牌单品,显色饱和、质地滋润,白管黑管外壳设计高级,堪称口红界的奢侈品标杆。",
+  "file": "data\\img\\tomford-lipcolor.jpg"
+ },
+ {
+  "id": "tomford-eyewear",
+  "brand": "汤姆·福特",
+  "name": "太阳镜",
+  "nameEn": "Eyewear",
+  "type": "眼镜",
+  "desc": "与专业眼镜集团合作的眼镜线,大框猫眼等复古造型极具辨识度,是好莱坞红毯与街拍常见单品。",
+  "file": "data\\img\\tomford-eyewear.jpg"
+ },
+ {
+  "id": "tomford-handbags",
+  "brand": "汤姆·福特",
+  "name": "手袋",
+  "nameEn": "Handbags",
+  "type": "手袋",
+  "desc": "以金属旋扣等标志性细节打造的晚宴包与通勤包,皮质考究、造型利落,常亮相红毯与时尚杂志封面。",
+  "file": "data\\img\\tomford-handbags.jpg"
+ },
+ {
+  "id": "tomford-menswear",
+  "brand": "汤姆·福特",
+  "name": "男装成衣",
+  "nameEn": "Menswear",
+  "type": "男装成衣",
+  "desc": "从修身西装到红毯礼服,以极致剪裁塑造摩登绅士形象,意产面料与考究细节是商务精英的心头好。",
+  "file": "data\\img\\tomford-menswear.jpg"
+ },
+ {
+  "id": "tomford-womenswear",
+  "brand": "汤姆·福特",
+  "name": "女装成衣",
+  "nameEn": "Womenswear",
+  "type": "女装成衣",
+  "desc": "2010年回归的女装线走隐秘奢华路线,丝绒、亮片与流苏展现华丽性感,高级晚装尤为出名。",
+  "file": "data\\img\\tomford-womenswear.jpg"
+ },
+ {
+  "id": "tommy-polo",
+  "brand": "汤米·希尔费格",
+  "name": "经典 Polo 衫",
+  "nameEn": "Classic Polo",
+  "type": "Polo衫",
+  "desc": "领口袖口镶红白蓝织带的经典 Polo,胸前旗帜小标,版型利落,是品牌最热销的品类。",
+  "file": "data\\img\\tommy-polo.jpg"
+ },
+ {
+  "id": "tommy-tommyjeans",
+  "brand": "汤米·希尔费格",
+  "name": "Tommy Jeans 牛仔裤",
+  "nameEn": "Tommy Jeans Denim",
+  "type": "牛仔裤",
+  "desc": "面向年轻线的复古牛仔系列,直筒与阔腿版型怀旧美式,标识刺绣辨识度高。",
+  "file": "data\\img\\tommy-tommyjeans.jpg"
+ },
+ {
+  "id": "tommy-hoodie",
+  "brand": "汤米·希尔费格",
+  "name": "卫衣与T恤",
+  "nameEn": "Sweatshirts & Tees",
+  "type": "卫衣",
+  "desc": "大标识印花的连帽卫衣与圆领T恤,秋冬内搭或运动出街皆宜,男女款齐全。",
+  "file": "data\\img\\tommy-hoodie.jpg"
+ },
+ {
+  "id": "tommy-shirts",
+  "brand": "汤米·希尔费格",
+  "name": "衬衫",
+  "nameEn": "Shirts",
+  "type": "衬衫",
+  "desc": "经典牛津纺与格纹衬衫,学院气质浓郁,商务与休闲场合都能轻松驾驭。",
+  "file": "data\\img\\tommy-shirts.jpg"
+ },
+ {
+  "id": "tommy-outerwear",
+  "brand": "汤米·希尔费格",
+  "name": "夹克外套",
+  "nameEn": "Jackets",
+  "type": "外套",
+  "desc": "从棒球夹克到羽绒马甲,延续红白蓝配色基因,是春秋换季的百搭之选。",
+  "file": "data\\img\\tommy-outerwear.jpg"
+ },
+ {
+  "id": "tommy-accessories",
+  "brand": "汤米·希尔费格",
+  "name": "配饰",
+  "nameEn": "Accessories",
+  "type": "配饰",
+  "desc": "涵盖腰带、钱包与腕表等日常配饰,旗帜元素随处可见,价格亲民适合成套入手。",
+  "file": "data\\img\\tommy-accessories.jpg"
+ },
+ {
+  "id": "toryburch-kira",
+  "brand": "托里·伯奇",
+  "name": "Kira 链条包",
+  "nameEn": "Kira Bag",
+  "type": "手袋",
+  "desc": "双 T 标识扣搭配链条肩带,小牛皮质感细腻,晚宴与日常切换自如的人气包款。",
+  "file": "data\\img\\toryburch-kira.jpg"
+ },
+ {
+  "id": "toryburch-ella",
+  "brand": "托里·伯奇",
+  "name": "Ella 托特包",
+  "nameEn": "Ella Tote",
+  "type": "托特包",
+  "desc": "尼龙材质的大容量托特,轻便耐造、配色丰富,是入门品牌最热销的实用款。",
+  "file": "data\\img\\toryburch-ella.jpg"
+ },
+ {
+  "id": "toryburch-fleming",
+  "brand": "托里·伯奇",
+  "name": "Fleming 手袋",
+  "nameEn": "Fleming Bag",
+  "type": "手袋",
+  "desc": "绗缝软皮配双 T 旋转锁扣,肩背手提皆宜,兼具复古与优雅的招牌系列。",
+  "file": "data\\img\\toryburch-fleming.jpg"
+ },
+ {
+  "id": "toryburch-miller",
+  "brand": "托里·伯奇",
+  "name": "Miller 平底凉鞋",
+  "nameEn": "Miller Sandal",
+  "type": "凉鞋",
+  "desc": "双 T 金属标志点缀的平底凉鞋与芭蕾鞋,舒适百搭,一推出便成为爆款鞋履。",
+  "file": "data\\img\\toryburch-miller.jpg"
+ },
+ {
+  "id": "toryburch-jewelry",
+  "brand": "托里·伯奇",
+  "name": "首饰",
+  "nameEn": "Jewelry",
+  "type": "首饰",
+  "desc": "以双 T 标识、珍珠与仿旧金属打造的项链耳环,复古气质浓郁,可与包袋成套搭配。",
+  "file": "data\\img\\toryburch-jewelry.jpg"
+ },
+ {
+  "id": "toryburch-readytowear",
+  "brand": "托里·伯奇",
+  "name": "成衣系列",
+  "nameEn": "Ready-to-Wear",
+  "type": "服装",
+  "desc": "连衣裙、针织与外套延续波西米亚与度假气质,色彩明快,主打优雅易穿。",
+  "file": "data\\img\\toryburch-readytowear.jpg"
+ },
+ {
+  "id": "valentino-rockstud",
+  "brand": "华伦天奴",
+  "name": "铆钉包",
+  "nameEn": "Rockstud",
+  "type": "手袋",
+  "desc": "2010年推出的标志性系列,金字塔形金属铆钉点缀手袋、鞋履与配饰,把朋克元素优雅化,是品牌近十余年最成功的设计语言。",
+  "file": "data\\img\\valentino-rockstud.jpg"
+ },
+ {
+  "id": "valentino-roman-stud",
+  "brand": "华伦天奴",
+  "name": "大钉包",
+  "nameEn": "Roman Stud",
+  "type": "手袋",
+  "desc": "Rockstud的放大升级版,超大多面金属铆钉缀于柔软纳帕皮革,视觉冲击强烈,是近年红毯与街拍常客。",
+  "file": "data\\img\\valentino-roman-stud.jpg"
+ },
+ {
+  "id": "valentino-vlogo",
+  "brand": "华伦天奴",
+  "name": "VLOGO",
+  "nameEn": "VLOGO",
+  "type": "手袋",
+  "desc": "以V字金属徽标为视觉中心的手袋系列,链条或皮质肩带,尺寸齐全,直白又优雅的品牌宣言。",
+  "file": "data\\img\\valentino-vlogo.jpg"
+ }
+]

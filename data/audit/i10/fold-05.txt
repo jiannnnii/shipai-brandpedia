@@ -1,0 +1,5 @@
+canadagoose-hybridge | 加拿大鹅 HyBridge 轻量羽绒服(HyBridge,轻量羽绒服) | 弹性面料拼接羽绒的轻量系列,压缩收纳方便,适合秋冬城市与户外过渡穿着。 | data\img\canadagoose-hybridge.jpg
+canadagoose-freestyle | 加拿大鹅 Freestyle 马甲(Freestyle Vest,马甲) | 轻薄羽绒马甲,秋冬叠穿神器,男女同款配色丰富,与衬衫组成经典搭配。 | data\img\canadagoose-freestyle.jpg
+canadagoose-knitwear | 加拿大鹅 针织系列(Knitwear,针织衫) | 羊毛抓绒与针织单品延续极简设计,胸前小徽标低调,适合作为冬季内搭。 | data\img\canadagoose-knitwear.jpg
+celine-classic-box | 赛琳 豆腐包(Classic Box,手袋) | 菲比·菲罗时代封神的小方包,Box小牛皮配金属转扣,极简到没有多余装饰,是法式极简主义的图腾。 | data\img\celine-classic-box.jpg
+celine-triomphe | 赛琳 凯旋门包(Triomphe,手袋) | 致敬1970年代凯旋门锁链灵感的经典款,双C形凯旋门五金配光面牛皮,方正规整,是近年主力包型。 | data\img\celine-triomphe.jpg

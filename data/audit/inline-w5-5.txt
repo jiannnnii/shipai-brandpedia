@@ -1,0 +1,23 @@
+tasaki-balance | 塔思琦 balance 系列(balance,首饰) | 一根弧形金条与珍珠玩平衡,珍珠首饰里最像雕塑的存在。 | data\img\tasaki-balance.jpg
+tasaki-signature | 塔思琦 signature 项链(signature,项链) | 渐变尺寸珍珠串链,日常穿的"大女主"气场款。 | data\img\tasaki-signature.jpg
+tasaki-atelier | 塔思琦 Atelier 高定(Atelier,高级珠宝) | 神户工坊的孤品高级珠宝,南洋珠与彩色宝石的大胆实验场。 | data\img\tasaki-atelier.jpg
+tiffany-setting | 蒂芙尼 六爪订婚钻戒(The Tiffany Setting,订婚戒指) | 1886年发明,六爪把钻石高高托起,是世界最著名的求婚戒指形制。 | data\img\tiffany-setting.jpg
+tiffany-tseries | 蒂芙尼 T 系列(Tiffany T,首饰) | 极简字母T手镯与戒指,纽约摩登气质,当代入门首选。 | data\img\tiffany-tseries.jpg
+tiffany-keys | 蒂芙尼 钥匙系列(Tiffany Keys,项链) | 把钥匙做成吊坠,开启人生新篇章的隐喻,曾经的销量神话。 | data\img\tiffany-keys.jpg
+tiffany-smile | 蒂芙尼 微笑项链(T Smile,项链) | 一条微笑弧线的锁骨链,最畅销的蒂芙尼入门单品。 | data\img\tiffany-smile.jpg
+tiffany-return | 蒂芙尼 Return to Tiffany(Return to Tiffany,首饰) | 刻着"请归还蒂芙尼"的铭牌系列,源自丢失吊牌的故事,年轻线经典。 | data\img\tiffany-return.jpg
+tissot-locator | 天梭 力洛克(Le Locle,正装表) | 以品牌故乡命名,机刻纹盘面+罗马刻度,瑞士机械表第一课。 | data\img\tissot-locator.jpg
+tissot-prx | 天梭 PRX(PRX,运动豪华表) | 1978年复古一体链设计复活,超薄Powermatic机芯,网红爆款。 | data\img\tissot-prx.jpg
+tissot-seastar | 天梭 海星(Seastar,潜水表) | 300米潜水的瑞士认证入门,3000块买大厂潜水表的天花板。 | data\img\tissot-seastar.jpg
+tissot-chemindesindices | 天梭 卡森(Carson,正装表) | 极简小三针,通勤正装不出错的稳妥之选。 | data\img\tissot-chemindesindices.jpg
+tudor-blackbay | 帝舵 碧湾(Black Bay,潜水表) | 复活1958年古董水鬼血统,雪花针+大表冠,潜水复古的国民爆款。 | data\img\tudor-blackbay.jpg
+tudor-royal | 帝舵 皇家系列(Royal,正装表) | 一体化表链的正装运动两相宜,典雅日常款。 | data\img\tudor-royal.jpg
+tudor-pelagos | 帝舵 领潜型(Pelagos,潜水表) | 钛壳500米专业潜水,排氦阀+陶瓷圈,专业玩家心里的真神。 | data\img\tudor-pelagos.jpg
+ulysse-sonata | 雅典表 西敏寺钟声问表(Sonata,复杂功能表) | 可自选报时旋律的问表,把教堂钟声装进腕间。 | data\img\ulysse-sonata.jpg
+ulysse-cloisonne | 雅典表 珐琅微绘(Cloisonné Enamel,艺术表) | 掐丝珐琅表盘每枚需数百小时,世界地图、龙舟等题材件件孤品。 | data\img\ulysse-cloisonne.jpg
+vc-traditionnelle | 江诗丹顿 传袭系列(Traditionnelle,复杂功能表) | 向日内瓦高级制表传统致敬,万年历、三问、陀飞轮应有尽有。 | data\img\vc-traditionnelle.jpg
+vc-metiers | 江诗丹顿 艺术大师系列(Métiers d'Art,艺术表) | 珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。 | data\img\vc-metiers.jpg
+vca-alhambra | 梵克雅宝 Alhambra 四叶草(Alhambra,项链) | 1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。 | data\img\vca-alhambra.jpg
+vca-frivole | 梵克雅宝 Frivole(Frivole,首饰) | 八瓣花瓣镶钻如晨露绽放,近年最热的新系列。 | data\img\vca-frivole.jpg
+vca-perlee | 梵克雅宝 Perlé金珠(Perpée,首饰) | 一颗颗金珠串起的低调系列,叠戴入门的优雅答案。 | data\img\vca-perlee.jpg
+vca-ballerina | 梵克雅宝 芭蕾舞者(Ballerina,胸针) | 1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。 | data\img\vca-ballerina.jpg

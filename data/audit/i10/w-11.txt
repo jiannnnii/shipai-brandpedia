@@ -1,0 +1,8 @@
+ulysse-sonata | 雅典表 西敏寺钟声问表(Sonata,复杂功能表) | 可自选报时旋律的问表,把教堂钟声装进腕间。 | data\img\ulysse-sonata.jpg
+ulysse-cloisonne | 雅典表 珐琅微绘(Cloisonné Enamel,艺术表) | 掐丝珐琅表盘每枚需数百小时,世界地图、龙舟等题材件件孤品。 | data\img\ulysse-cloisonne.jpg
+vc-traditionnelle | 江诗丹顿 传袭系列(Traditionnelle,复杂功能表) | 向日内瓦高级制表传统致敬,万年历、三问、陀飞轮应有尽有。 | data\img\vc-traditionnelle.jpg
+vc-metiers | 江诗丹顿 艺术大师系列(Métiers d'Art,艺术表) | 珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。 | data\img\vc-metiers.jpg
+vca-alhambra | 梵克雅宝 Alhambra 四叶草(Alhambra,项链) | 1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。 | data\img\vca-alhambra.jpg
+vca-frivole | 梵克雅宝 Frivole(Frivole,首饰) | 八瓣花瓣镶钻如晨露绽放,近年最热的新系列。 | data\img\vca-frivole.jpg
+vca-perlee | 梵克雅宝 Perlé金珠(Perpée,首饰) | 一颗颗金珠串起的低调系列,叠戴入门的优雅答案。 | data\img\vca-perlee.jpg
+vca-ballerina | 梵克雅宝 芭蕾舞者(Ballerina,胸针) | 1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。 | data\img\vca-ballerina.jpg

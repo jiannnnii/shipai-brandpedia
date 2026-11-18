@@ -1,0 +1,10 @@
+sw-highland | 斯图尔特·韦茨曼 Highland 过膝靴(Highland Boot,长靴) | 全皮过膝长靴,鞋身以弹力皮革紧贴腿部,视觉上显著拉长腿部比例,是品牌与 5050 并列的招牌靴款。 | data\img\sw-highland.jpg
+sw-lowland | 斯图尔特·韦茨曼 Lowland 过膝靴(Lowland Boot,长靴) | 比 Highland 更低的鞋跟设计,以平底或低跟呈现的过膝靴,兼顾舒适与显腿长,适合长时间行走的城市穿着。 | data\img\sw-lowland.jpg
+sw-nudistsong | 斯图尔特·韦茨曼 Nudistsong 一字带高跟鞋(Nudistsong Sandal,高跟鞋) | 经典 Nudist 一字带凉鞋的传承款,细一字带与细高跟最大限度露出足背,营造「裸感」,是红毯与日常皆宜的经典凉鞋。 | data\img\sw-nudistsong.jpg
+sw-nearlynude | 斯图尔特·韦茨曼 Nearlynude 一字带高跟鞋(Nearlynude Sandal,高跟鞋) | 以更纤细的鞋跟与简约的一字带设计,呈现轻盈的「近乎赤足」效果,跟高选择丰富,是夏季礼服与日常的热门款。 | data\img\sw-nearlynude.jpg
+tb-hoodie | 桑姆·布郎尼 四道杠连帽卫衣(4-Bar Hoodie,连帽卫衣) | 胸前或手臂绣有品牌标志性的四道白杠,以重磅棉质毛圈布制成,版型方正偏短,是品牌最具辨识度的休闲单品。 | data\img\tb-hoodie.jpg
+tb-cardigan | 桑姆·布郎尼 四道杠针织开衫(4-Bar Cardigan,开衫) | 以美利奴羊毛或马海毛织成,前襟与袖口点缀四道杠织带,学院气质浓厚,是秋冬叠穿的人气单品。 | data\img\tb-cardigan.jpg
+tb-trousers | 桑姆·布郎尼 灰色西裤(Grey Trousers,裤装) | 与西装同源的灰色西裤,裤线笔挺、腰头偏高,裤脚微露脚踝,常配织带乐福鞋,是品牌男装日装的核心单品。 | data\img\tb-trousers.jpg
+tb-shorts | 桑姆·布郎尼 四道杠短裤(4-Bar Shorts,短裤) | 以泡泡纱与法兰绒等面料制成的及膝以上短裤,侧边或后袋点缀四道杠,是品牌夏季最具话题度的单品。 | data\img\tb-shorts.jpg
+tods-gommino | 托德斯 豆豆鞋(Gommino,莫卡辛鞋) | 1986年问世的品牌灵魂产品,鞋底与鞋跟缀满133颗橡胶小粒,软如手套般贴合,开车行走皆宜,是意式休闲的代名词。 | data\img\tods-gommino.jpg
+tods-t-timeless | 托德斯 T Timeless托特(T Timeless,托特包) | 以品牌首字母T为金属标志的托特系列,帆布与皮革拼接,容量可观,价格在奢侈品牌中相对亲民。 | data\img\tods-t-timeless.jpg

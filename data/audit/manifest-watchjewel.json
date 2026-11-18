@@ -1,0 +1,1406 @@
+[
+ {
+  "id": "ap-royaloak",
+  "brand": "爱彼",
+  "name": "皇家橡树",
+  "nameEn": "Royal Oak",
+  "type": "运动豪华表",
+  "desc": "1972年尊达神作,八角表圈+八颗螺钉+格栅盘面,精钢表定价超金表的革命者。",
+  "file": "data\\img\\ap-royaloak.jpg"
+ },
+ {
+  "id": "ap-offshore",
+  "brand": "爱彼",
+  "name": "皇家橡树离岸型",
+  "nameEn": "Royal Oak Offshore",
+  "type": "运动豪华表",
+  "desc": "1993年推出的放大加强版皇家橡树,更粗犷更运动,人称\"橡树王\"。",
+  "file": "data\\img\\ap-offshore.jpg"
+ },
+ {
+  "id": "ap-code1159",
+  "brand": "爱彼",
+  "name": "CODE 11.59",
+  "nameEn": "CODE 11.59",
+  "type": "正装表",
+  "desc": "2019年全新圆形正装系列,八边形中圈藏在圆形表壳内,工艺极繁。",
+  "file": "data\\img\\ap-code1159.jpg"
+ },
+ {
+  "id": "ap-millenary",
+  "brand": "爱彼",
+  "name": "千禧系列",
+  "nameEn": "Millenary",
+  "type": "女表",
+  "desc": "椭圆形表壳搭配偏心盘面,机芯结构一览无余的个性女表。",
+  "file": "data\\img\\ap-millenary.jpg"
+ },
+ {
+  "id": "blancpain-fiftyfathoms",
+  "brand": "宝珀",
+  "name": "五十噚",
+  "nameEn": "Fifty Fathoms",
+  "type": "潜水表",
+  "desc": "1953年诞生的现代潜水表鼻祖,军用血统+蓝宝石圈,潜水表的原教旨。",
+  "file": "data\\img\\blancpain-fiftyfathoms.jpg"
+ },
+ {
+  "id": "blancpain-leman",
+  "brand": "宝珀",
+  "name": "雷蒙湖",
+  "nameEn": "Léman",
+  "type": "复杂功能表",
+  "desc": "运动感与复杂功能并重,月相、陀飞轮、飞返计时皆有呈现。",
+  "file": "data\\img\\blancpain-leman.jpg"
+ },
+ {
+  "id": "boucheron-quatre",
+  "brand": "宝诗龙",
+  "name": "Quatre 四环",
+  "nameEn": "Quatre",
+  "type": "戒指",
+  "desc": "四种金质纹路叠成四环,Clou de Paris 巴黎钉纹辨识度极高。",
+  "file": "data\\img\\boucheron-quatre.jpg"
+ },
+ {
+  "id": "boucheron-animals",
+  "brand": "宝诗龙",
+  "name": "动物系列",
+  "nameEn": "Animaux",
+  "type": "高级珠宝",
+  "desc": "猎豹、蜂鸟、大象……宝石拼出动物园,旺多姆最俏皮的名物。",
+  "file": "data\\img\\boucheron-animals.jpg"
+ },
+ {
+  "id": "boucheron-serpentboheme",
+  "brand": "宝诗龙",
+  "name": "Serpent Bohème",
+  "nameEn": "Serpent Bohème",
+  "type": "首饰",
+  "desc": "1968年的水滴蛇头系列,低调复古,近年翻红的中生代经典。",
+  "file": "data\\img\\boucheron-serpentboheme.jpg"
+ },
+ {
+  "id": "bvlgari-serpenti",
+  "brand": "宝格丽",
+  "name": "Serpenti 蛇形",
+  "nameEn": "Serpenti",
+  "type": "珠宝腕表",
+  "desc": "缠绕手腕的灵蛇珐琅鳞片,珠宝与腕表的合体,红毯上最摄人的存在。",
+  "file": "data\\img\\bvlgari-serpenti.jpg"
+ },
+ {
+  "id": "bvlgari-bzero1",
+  "brand": "宝格丽",
+  "name": "B.zero1 戒指",
+  "nameEn": "B.zero1",
+  "type": "戒指",
+  "desc": "1999年问世的弹簧螺旋戒指,婚嫁与情侣对戒的当代热门。",
+  "file": "data\\img\\bvlgari-bzero1.jpg"
+ },
+ {
+  "id": "bvlgari-diva",
+  "brand": "宝格丽",
+  "name": "Diva's Dream",
+  "nameEn": "Diva's Dream",
+  "type": "首饰",
+  "desc": "扇形马赛克图案源自卡拉卡拉浴场,罗马美学的女性化表达。",
+  "file": "data\\img\\bvlgari-diva.jpg"
+ },
+ {
+  "id": "bvlgari-octo",
+  "brand": "宝格丽",
+  "name": "Octo Finissimo",
+  "nameEn": "Octo Finissimo",
+  "type": "超薄腕表",
+  "desc": "110面切面表壳+屡破世界超薄纪录,男表里的工程艺术品。",
+  "file": "data\\img\\bvlgari-octo.jpg"
+ },
+ {
+  "id": "bvlgari-bvlgari",
+  "brand": "宝格丽",
+  "name": "Bvlgari Bvlgari",
+  "nameEn": "Bvlgari Bvlgari",
+  "type": "首饰",
+  "desc": "双环 logo 刻字圈,1970年代罗马店面招牌的衍生经典。",
+  "file": "data\\img\\bvlgari-bvlgari.jpg"
+ },
+ {
+  "id": "casio-gshock",
+  "brand": "卡西欧",
+  "name": "G-SHOCK",
+  "nameEn": "G-SHOCK",
+  "type": "运动电子表",
+  "desc": "1983年至今的防摔神话,潮流联名从 streetwear 到奢侈品全覆盖。",
+  "file": "data\\img\\casio-gshock.jpg"
+ },
+ {
+  "id": "casio-babyg",
+  "brand": "卡西欧",
+  "name": "BABY-G",
+  "nameEn": "BABY-G",
+  "type": "运动电子表",
+  "desc": "G-SHOCK 的女性线,小表径+糖果配色,活泼抗造。",
+  "file": "data\\img\\casio-babyg.jpg"
+ },
+ {
+  "id": "casio-edifice",
+  "brand": "卡西欧",
+  "name": "EDIFICE",
+  "nameEn": "EDIFICE",
+  "type": "计时电子表",
+  "desc": "金属质感+赛车联名(红牛F1),商务运动的日系解法。",
+  "file": "data\\img\\casio-edifice.jpg"
+ },
+ {
+  "id": "casio-oceanus",
+  "brand": "卡西欧",
+  "name": "OCEANUS",
+  "nameEn": "OCEANUS",
+  "type": "光动能电波表",
+  "desc": "卡西欧的高端线:日本制蓝宝石+电波光动能,\"电子表里的贵公子\"。",
+  "file": "data\\img\\casio-oceanus.jpg"
+ },
+ {
+  "id": "chopard-happydiamonds",
+  "brand": "萧邦",
+  "name": "快乐钻石",
+  "nameEn": "Happy Diamonds",
+  "type": "珠宝表",
+  "desc": "1976年问世,滑动钻石在两层蓝宝石间自由流动,表界最浪漫的发明之一。",
+  "file": "data\\img\\chopard-happydiamonds.jpg"
+ },
+ {
+  "id": "chopard-millemiglia",
+  "brand": "萧邦",
+  "name": "Mille Miglia",
+  "nameEn": "Mille Miglia",
+  "type": "计时码表",
+  "desc": "意大利千英里复古赛官方计时,赛车美学+计时硬功的年货级系列。",
+  "file": "data\\img\\chopard-millemiglia.jpg"
+ },
+ {
+  "id": "chopard-imperial",
+  "brand": "萧邦",
+  "name": "Imperiale",
+  "nameEn": "Imperiale",
+  "type": "女表",
+  "desc": "罗马帝国美学的女式珠宝表,表冠如权杖,气派十足。",
+  "file": "data\\img\\chopard-imperial.jpg"
+ },
+ {
+  "id": "chowsangsang-charme",
+  "brand": "周生生",
+  "name": "Charme 串珠",
+  "nameEn": "Charme",
+  "type": "串珠",
+  "desc": "金珠+宝石自由搭配,周生生版的纪念收藏玩法。",
+  "file": "data\\img\\chowsangsang-charme.jpg"
+ },
+ {
+  "id": "chowsangsang-promessa",
+  "brand": "周生生",
+  "name": "Promessa 钻戒",
+  "nameEn": "Promessa",
+  "type": "钻戒",
+  "desc": "品牌婚嫁钻戒主力,经典四爪与扭臂款常年热卖。",
+  "file": "data\\img\\chowsangsang-promessa.jpg"
+ },
+ {
+  "id": "chowsangsang-goldbean",
+  "brand": "周生生",
+  "name": "金豆豆",
+  "nameEn": "Gold Bean",
+  "type": "黄金投资",
+  "desc": "一颗颗攒的小金豆,年轻人的\"储蓄式快乐\"。",
+  "file": "data\\img\\chowsangsang-goldbean.jpg"
+ },
+ {
+  "id": "chowtaifook-marriage",
+  "brand": "周大福",
+  "name": "婚嫁三金",
+  "nameEn": "Wedding Collection",
+  "type": "婚嫁金饰",
+  "desc": "龙凤镯、项链、戒指一套齐,华人婚礼的硬核仪式感。",
+  "file": "data\\img\\chowtaifook-marriage.jpg"
+ },
+ {
+  "id": "chowtaifook-transferbead",
+  "brand": "周大福",
+  "name": "转运珠",
+  "nameEn": "Lucky Bead",
+  "type": "转运珠",
+  "desc": "红绳一颗金珠,百元级的\"人生第一克金\"。",
+  "file": "data\\img\\chowtaifook-transferbead.jpg"
+ },
+ {
+  "id": "chowtaifook-diamond",
+  "brand": "周大福",
+  "name": "钻石系列",
+  "nameEn": "Diamond Collection",
+  "type": "钻饰",
+  "desc": "自营钻石镶嵌线,日常钻戒与项链的稳妥选择。",
+  "file": "data\\img\\chowtaifook-diamond.jpg"
+ },
+ {
+  "id": "citizen-ecodrive",
+  "brand": "西铁城",
+  "name": "光动能系列",
+  "nameEn": "Eco-Drive",
+  "type": "光动能表",
+  "desc": "光充电十年不换电池,通勤表的终极省心答案。",
+  "file": "data\\img\\citizen-ecodrive.jpg"
+ },
+ {
+  "id": "darryring-loveletter",
+  "brand": "DR",
+  "name": "LOVE LINE 系列",
+  "nameEn": "LOVE LINE",
+  "type": "求婚钻戒",
+  "desc": "戒臂如情书线条环绕,细节里藏着\"只此一枚\"的仪式感。",
+  "file": "data\\img\\darryring-loveletter.jpg"
+ },
+ {
+  "id": "darryring-validate",
+  "brand": "DR",
+  "name": "真爱验证服务",
+  "nameEn": "True Love Query",
+  "type": "品牌服务",
+  "desc": "官方可查\"购买记录\"的服务,既是浪漫也是话题制造机。",
+  "file": "data\\img\\darryring-validate.jpg"
+ },
+ {
+  "id": "fiyta-spacemaster",
+  "brand": "飞亚达",
+  "name": "航天系列",
+  "nameEn": "Space Series",
+  "type": "航天表",
+  "desc": "神舟同款技术下放,防磁抗震+大表冠,国产表的硬核浪漫。",
+  "file": "data\\img\\fiyta-spacemaster.jpg"
+ },
+ {
+  "id": "fiyta-culture",
+  "brand": "飞亚达",
+  "name": "大师文化系列",
+  "nameEn": "Culture Master",
+  "type": "国风表",
+  "desc": "敦煌、故宫联名,掐丝珐琅盘面的东方美学。",
+  "file": "data\\img\\fiyta-culture.jpg"
+ },
+ {
+  "id": "fiyta-laurel",
+  "brand": "飞亚达",
+  "name": "经典系列",
+  "nameEn": "Classic",
+  "type": "正装表",
+  "desc": "商务正装的稳妥之选,透底机械与石英齐备。",
+  "file": "data\\img\\fiyta-laurel.jpg"
+ },
+ {
+  "id": "fiyta-sport",
+  "brand": "飞亚达",
+  "name": "极限系列",
+  "nameEn": "Extreme",
+  "type": "运动表",
+  "desc": "登山、潜水向的专业线,登顶珠峰的实测背书。",
+  "file": "data\\img\\fiyta-sport.jpg"
+ },
+ {
+  "id": "franckmuller-cintree",
+  "brand": "法穆兰",
+  "name": "Cintrée Curvex",
+  "nameEn": "Cintrée Curvex",
+  "type": "正装表",
+  "desc": "品牌图腾级酒桶形表壳,弧面贴合手腕,阿拉伯数字刻度优雅复古。",
+  "file": "data\\img\\franckmuller-cintree.jpg"
+ },
+ {
+  "id": "franckmuller-vanguard",
+  "brand": "法穆兰",
+  "name": "Vanguard",
+  "nameEn": "Vanguard",
+  "type": "运动豪华表",
+  "desc": "更年轻更运动的现代酒桶,大表径+大胆配色,潮人浓度高。",
+  "file": "data\\img\\franckmuller-vanguard.jpg"
+ },
+ {
+  "id": "franckmuller-crazyhours",
+  "brand": "法穆兰",
+  "name": "Crazy Hours",
+  "nameEn": "Crazy Hours",
+  "type": "复杂功能表",
+  "desc": "表盘数字乱序排列,时针却精准跳跃到正确位置,机械界的幽默感。",
+  "file": "data\\img\\franckmuller-crazyhours.jpg"
+ },
+ {
+  "id": "franckmuller-colorskeletion",
+  "brand": "法穆兰",
+  "name": "彩色梦",
+  "nameEn": "Color Dreams",
+  "type": "正装表",
+  "desc": "渐变彩盘+酒桶壳,法穆兰把配色玩成了 signature。",
+  "file": "data\\img\\franckmuller-colorskeletion.jpg"
+ },
+ {
+  "id": "glashuette-pano",
+  "brand": "格拉苏蒂原创",
+  "name": "Pano 偏心系列",
+  "nameEn": "Pano",
+  "type": "正装表",
+  "desc": "非对称偏心盘面+大日历+动力储备,德系美学的现代名片。",
+  "file": "data\\img\\glashuette-pano.jpg"
+ },
+ {
+  "id": "glashuette-senator",
+  "brand": "格拉苏蒂原创",
+  "name": "议员系列",
+  "nameEn": "Senator",
+  "type": "正装表",
+  "desc": "圆形正装的德式严谨,三针大日历是入门德系高定的经典选择。",
+  "file": "data\\img\\glashuette-senator.jpg"
+ },
+ {
+  "id": "glashuette-seventies",
+  "brand": "格拉苏蒂原创",
+  "name": "七十年代",
+  "nameEn": "Seventies",
+  "type": "计时码表",
+  "desc": "电视形表壳+彩色渐变盘,把1970年代的复古风情戴回手腕。",
+  "file": "data\\img\\glashuette-seventies.jpg"
+ },
+ {
+  "id": "glashuette-spezialist",
+  "brand": "格拉苏蒂原创",
+  "name": "Spezialist",
+  "nameEn": "Spezialist",
+  "type": "潜水表",
+  "desc": "SeaQ 潜水表通过德标 DIN 8306,德系工装风的硬核新线。",
+  "file": "data\\img\\glashuette-spezialist.jpg"
+ },
+ {
+  "id": "gp-laureato",
+  "brand": "芝柏",
+  "name": "桂冠系列",
+  "nameEn": "Laureato",
+  "type": "运动豪华表",
+  "desc": "1975年诞生的八角圈一体链,比皇家橡树低调,被藏家称作\"宝藏钢表\"。",
+  "file": "data\\img\\gp-laureato.jpg"
+ },
+ {
+  "id": "gp-1966",
+  "brand": "芝柏",
+  "name": "1966系列",
+  "nameEn": "1966",
+  "type": "正装表",
+  "desc": "以品牌拿下日内瓦表展大奖的年份命名,薄而雅的正装。",
+  "file": "data\\img\\gp-1966.jpg"
+ },
+ {
+  "id": "gp-cats-eye",
+  "brand": "芝柏",
+  "name": "猫眼系列",
+  "nameEn": "Cat's Eye",
+  "type": "女表",
+  "desc": "椭圆猫眼造型专为女性设计,镶钻款在珠宝表里辨识度极高。",
+  "file": "data\\img\\gp-cats-eye.jpg"
+ },
+ {
+  "id": "graff-lesedi",
+  "brand": "格拉夫",
+  "name": "Lesedi La Rona",
+  "nameEn": "Lesedi La Rona",
+  "type": "高级珠宝",
+  "desc": "1109克拉史上第二大宝石级钻石,格拉夫买下后切割出的传世之作。",
+  "file": "data\\img\\graff-lesedi.jpg"
+ },
+ {
+  "id": "graff-flames",
+  "brand": "格拉夫",
+  "name": "Flames 系列",
+  "nameEn": "Flames",
+  "type": "首饰",
+  "desc": "渐变钻石如火焰升腾,以切工营造流动感的当代主打。",
+  "file": "data\\img\\graff-flames.jpg"
+ },
+ {
+  "id": "graff-temptation",
+  "brand": "格拉夫",
+  "name": "Twin_row 戒指",
+  "nameEn": "Twin Row",
+  "type": "戒指",
+  "desc": "双排密镶钻石戒指,婚嫁市场里的终极梦想款。",
+  "file": "data\\img\\graff-temptation.jpg"
+ },
+ {
+  "id": "hamilton-ventura",
+  "brand": "汉米尔顿",
+  "name": "探险",
+  "nameEn": "Ventura",
+  "type": "异形表",
+  "desc": "1957年世界首款电表,三角盾形壳,猫王同款,科幻感拉满。",
+  "file": "data\\img\\hamilton-ventura.jpg"
+ },
+ {
+  "id": "hamilton-khaki",
+  "brand": "汉米尔顿",
+  "name": "卡其野战",
+  "nameEn": "Khaki Field",
+  "type": "军表",
+  "desc": "纯正军表血统,小三针+夜光,工装复古的入门神表。",
+  "file": "data\\img\\hamilton-khaki.jpg"
+ },
+ {
+  "id": "hamilton-jazzmaster",
+  "brand": "汉米尔顿",
+  "name": "爵士大师",
+  "nameEn": "Jazzmaster",
+  "type": "正装表",
+  "desc": "品牌正装门面,大表径+透底,商务场合稳如老狗。",
+  "file": "data\\img\\hamilton-jazzmaster.jpg"
+ },
+ {
+  "id": "hamilton-intra-matic",
+  "brand": "汉米尔顿",
+  "name": "美国经典",
+  "nameEn": "Intra-Matic",
+  "type": "计时码表",
+  "desc": "复刻1968年熊猫计时,复古尺寸38mm,玩表老炮的心头好。",
+  "file": "data\\img\\hamilton-intra-matic.jpg"
+ },
+ {
+  "id": "harrywinston-cluster",
+  "brand": "海瑞·温斯顿",
+  "name": "Winston Cluster",
+  "nameEn": "Winston Cluster",
+  "type": "首饰",
+  "desc": "品牌招牌簇镶:大小钻石错落成花,金属几乎隐形。",
+  "file": "data\\img\\harrywinston-cluster.jpg"
+ },
+ {
+  "id": "harrywinston-hope",
+  "brand": "海瑞·温斯顿",
+  "name": "Hope 钻石复刻",
+  "nameEn": "Hope Diamond",
+  "type": "高级珠宝",
+  "desc": "45.52克拉传奇蓝钻的拥有者,品牌历史上最著名的一笔收藏。",
+  "file": "data\\img\\harrywinston-hope.jpg"
+ },
+ {
+  "id": "harrywinston-opus",
+  "brand": "海瑞·温斯顿",
+  "name": "Opus 系列",
+  "nameEn": "Opus",
+  "type": "复杂功能表",
+  "desc": "每年与一位独立制表天才合作的实验性腕表,表圈最狂想的系列之一。",
+  "file": "data\\img\\harrywinston-opus.jpg"
+ },
+ {
+  "id": "harrywinston-premier",
+  "brand": "海瑞·温斯顿",
+  "name": "Premier 女表",
+  "nameEn": "Premier",
+  "type": "女表",
+  "desc": "好莱坞黄金时代的复古表壳,表侧镶钻是标配。",
+  "file": "data\\img\\harrywinston-premier.jpg"
+ },
+ {
+  "id": "hublot-classicfusion",
+  "brand": "宇舶",
+  "name": "经典融合",
+  "nameEn": "Classic Fusion",
+  "type": "正装表",
+  "desc": "更纤薄更日常的入门线,金+橡胶的品牌哲学浓缩于此。",
+  "file": "data\\img\\hublot-classicfusion.jpg"
+ },
+ {
+  "id": "hublot-spirit",
+  "brand": "宇舶",
+  "name": "Spirit of Big Bang",
+  "nameEn": "Spirit of Big Bang",
+  "type": "计时码表",
+  "desc": "大爆炸的酒桶形变体,镂空机芯配陶瓷圈,年轻贵气。",
+  "file": "data\\img\\hublot-spirit.jpg"
+ },
+ {
+  "id": "hublot-mp",
+  "brand": "宇舶",
+  "name": "MP 系列",
+  "nameEn": "MP",
+  "type": "复杂功能表",
+  "desc": "实验室级复杂机构:多轴陀飞轮、11天动力,机械狂想曲。",
+  "file": "data\\img\\hublot-mp.jpg"
+ },
+ {
+  "id": "iwc-bigpilot",
+  "brand": "万国",
+  "name": "大飞行员",
+  "nameEn": "Big Pilot",
+  "type": "飞行员表",
+  "desc": "46mm大表径+锥形表冠+扇形动力显示,腕表界的\"猛男\"代表作。",
+  "file": "data\\img\\iwc-bigpilot.jpg"
+ },
+ {
+  "id": "iwc-portugieser",
+  "brand": "万国",
+  "name": "葡萄牙系列",
+  "nameEn": "Portugieser",
+  "type": "计时码表",
+  "desc": "1930年代为葡萄牙商人定制的精确航海表,葡计是最经典的入门豪华计时。",
+  "file": "data\\img\\iwc-portugieser.jpg"
+ },
+ {
+  "id": "iwc-mark",
+  "brand": "万国",
+  "name": "马克系列",
+  "nameEn": "Mark",
+  "type": "飞行员表",
+  "desc": "从1948年马克11延续至今的军表谱系,极简三针+软铁防磁。",
+  "file": "data\\img\\iwc-mark.jpg"
+ },
+ {
+  "id": "iwc-ingenieur",
+  "brand": "万国",
+  "name": "工程师系列",
+  "nameEn": "Ingenieur",
+  "type": "运动豪华表",
+  "desc": "为科研人员设计的防磁表,尊达改款的一体式Genta美学低调硬核。",
+  "file": "data\\img\\iwc-ingenieur.jpg"
+ },
+ {
+  "id": "jlc-reverso",
+  "brand": "积家",
+  "name": "翻转系列",
+  "nameEn": "Reverso",
+  "type": "正装表",
+  "desc": "1931年马球场诞生的装饰艺术经典,表盘可翻面,一表两戴。",
+  "file": "data\\img\\jlc-reverso.jpg"
+ },
+ {
+  "id": "jlc-mastercontrol",
+  "brand": "积家",
+  "name": "大师系列",
+  "nameEn": "Master Control",
+  "type": "正装表",
+  "desc": "每枚机芯需通过\"1000小时测试\"方可出厂,可靠与优雅兼得。",
+  "file": "data\\img\\jlc-mastercontrol.jpg"
+ },
+ {
+  "id": "jlc-duometre",
+  "brand": "积家",
+  "name": "双翼系列",
+  "nameEn": "Duomètre",
+  "type": "复杂功能表",
+  "desc": "双发条盒双走时轮的\"双翼\"机构,走时精度与复杂功能互不干扰。",
+  "file": "data\\img\\jlc-duometre.jpg"
+ },
+ {
+  "id": "jlc-atmos",
+  "brand": "积家",
+  "name": "空气钟",
+  "nameEn": "Atmos",
+  "type": "座钟",
+  "desc": "靠气温变化驱动的永动座钟,不用电池不上弦,房间里的一件传家宝。",
+  "file": "data\\img\\jlc-atmos.jpg"
+ },
+ {
+  "id": "lange-lange1",
+  "brand": "朗格",
+  "name": "Lange 1",
+  "nameEn": "Lange 1",
+  "type": "正装表",
+  "desc": "1994年王者归之作,偏心时盘+大日历+动力显示的非对称美学。",
+  "file": "data\\img\\lange-lange1.jpg"
+ },
+ {
+  "id": "laofengxiang-birdbracelet",
+  "brand": "老凤祥",
+  "name": "龙凤镯",
+  "nameEn": "Dragon & Phoenix Bangle",
+  "type": "黄金手镯",
+  "desc": "婚嫁硬通货,浮雕龙凤的实心足金手镯,长辈最认的牌子之一。",
+  "file": "data\\img\\laofengxiang-birdbracelet.jpg"
+ },
+ {
+  "id": "laofengxiang-silver",
+  "brand": "老凤祥",
+  "name": "银器系列",
+  "nameEn": "Silver Craft",
+  "type": "银饰",
+  "desc": "非遗银器细工,从长命锁到茶器,老字号的手艺底蕴。",
+  "file": "data\\img\\laofengxiang-silver.jpg"
+ },
+ {
+  "id": "laofengxiang-pearl",
+  "brand": "老凤祥",
+  "name": "珍珠系列",
+  "nameEn": "Pearl Collection",
+  "type": "珍珠首饰",
+  "desc": "淡水珍珠为主,妈妈辈最喜欢的温润气质线。",
+  "file": "data\\img\\laofengxiang-pearl.jpg"
+ },
+ {
+  "id": "laomiao-lucky",
+  "brand": "老庙黄金",
+  "name": "好运系列",
+  "nameEn": "Lucky Collection",
+  "type": "黄金首饰",
+  "desc": "福字、锦鲤、葫芦全好运符号,送礼自留都图个吉利。",
+  "file": "data\\img\\laomiao-lucky.jpg"
+ },
+ {
+  "id": "laomiao-zodiac",
+  "brand": "老庙黄金",
+  "name": "生肖系列",
+  "nameEn": "Zodiac",
+  "type": "黄金首饰",
+  "desc": "年年更新的生肖金,本命年的仪式感标配。",
+  "file": "data\\img\\laomiao-zodiac.jpg"
+ },
+ {
+  "id": "laomiao-ancient",
+  "brand": "老庙黄金",
+  "name": "古法金系列",
+  "nameEn": "Ancient Craft",
+  "type": "黄金手镯",
+  "desc": "哑光古法手镯,佛系厚重的手感,长辈缘极好。",
+  "file": "data\\img\\laomiao-ancient.jpg"
+ },
+ {
+  "id": "laomiao-guochao",
+  "brand": "老庙黄金",
+  "name": "国潮联名",
+  "nameEn": "China-chic",
+  "type": "黄金首饰",
+  "desc": "与博物馆、动漫的联名金饰,老字号的新流量。",
+  "file": "data\\img\\laomiao-guochao.jpg"
+ },
+ {
+  "id": "longines-master",
+  "brand": "浪琴",
+  "name": "名匠系列",
+  "nameEn": "Master Collection",
+  "type": "正装表",
+  "desc": "大日历+月相的古典正装,万元级正装表的绕不开选项。",
+  "file": "data\\img\\longines-master.jpg"
+ },
+ {
+  "id": "longines-hydroconquest",
+  "brand": "浪琴",
+  "name": "康卡斯",
+  "nameEn": "HydroConquest",
+  "type": "潜水表",
+  "desc": "300米潜水+陶瓷圈,\"穷人版水鬼\"的美誉来自实打实的品质。",
+  "file": "data\\img\\longines-hydroconquest.jpg"
+ },
+ {
+  "id": "longines-spirit",
+  "brand": "浪琴",
+  "name": "先行者",
+  "nameEn": "Spirit",
+  "type": "飞行员表",
+  "desc": "致敬航空年代的飞行员计时,五点位置双表冠,硬朗有故事。",
+  "file": "data\\img\\longines-spirit.jpg"
+ },
+ {
+  "id": "longines-equestrian",
+  "brand": "浪琴",
+  "name": "骑仕系列",
+  "nameEn": "Equestrian",
+  "type": "女表",
+  "desc": "马扣形表耳+马鞍纹表带,马术气质的女式优雅。",
+  "file": "data\\img\\longines-equestrian.jpg"
+ },
+ {
+  "id": "mido-barcellini",
+  "brand": "美度",
+  "name": "贝伦赛丽",
+  "nameEn": "Baroncelli",
+  "type": "正装表",
+  "desc": "酒桶形表壳致敬雷恩歌剧院,线条优雅,女款尤其动人。",
+  "file": "data\\img\\mido-barcellini.jpg"
+ },
+ {
+  "id": "mido-oceanstar",
+  "brand": "美度",
+  "name": "领航者",
+  "nameEn": "Ocean Star",
+  "type": "潜水表",
+  "desc": "200米潜水+快调表链,价格厚道的日常潜水线。",
+  "file": "data\\img\\mido-oceanstar.jpg"
+ },
+ {
+  "id": "mikimoto-necklace",
+  "brand": "御木本",
+  "name": "经典珍珠项链",
+  "nameEn": "Classic Pearl Necklace",
+  "type": "项链",
+  "desc": "万中选五的 akoya 珍珠串链,珍珠审美的终极标准答案。",
+  "file": "data\\img\\mikimoto-necklace.jpg"
+ },
+ {
+  "id": "mikimoto-firstpearl",
+  "brand": "御木本",
+  "name": "第一颗珍珠",
+  "nameEn": "First Pearl",
+  "type": "项链",
+  "desc": "单颗珍珠吊坠,入门御木本的仪式感之选。",
+  "file": "data\\img\\mikimoto-firstpearl.jpg"
+ },
+ {
+  "id": "mikimoto-pearlinmotion",
+  "brand": "御木本",
+  "name": "Pearl in Motion",
+  "nameEn": "Pearl in Motion",
+  "type": "首饰",
+  "desc": "珍珠与钻石共舞的当代系列,年轻化不老气。",
+  "file": "data\\img\\mikimoto-pearlinmotion.jpg"
+ },
+ {
+  "id": "mikimoto-jewelrywatch",
+  "brand": "御木本",
+  "name": "珍珠珠宝表",
+  "nameEn": "Jewelry Watch",
+  "type": "女表",
+  "desc": "珍珠母贝表盘+钻石刻度,把海洋的光戴在手腕上。",
+  "file": "data\\img\\mikimoto-jewelrywatch.jpg"
+ },
+ {
+  "id": "oris-aquis",
+  "brand": "豪利时",
+  "name": "Aquis 日历",
+  "nameEn": "Aquis Date",
+  "type": "潜水表",
+  "desc": "300米潜水的独立厂扛把子,陶瓷圈+快调表链,工薪玩家的梦中情表。",
+  "file": "data\\img\\oris-aquis.jpg"
+ },
+ {
+  "id": "oris-bigcrown",
+  "brand": "豪利时",
+  "name": "大表冠",
+  "nameEn": "Big Crown ProPilot",
+  "type": "飞行员表",
+  "desc": "1938年飞行员血统,大表冠戴手套也能调,复古军表气质。",
+  "file": "data\\img\\oris-bigcrown.jpg"
+ },
+ {
+  "id": "oris-divers65",
+  "brand": "豪利时",
+  "name": "Divers Sixty-Five",
+  "nameEn": "Divers Sixty-Five",
+  "type": "潜水表",
+  "desc": "复刻1965年古董潜水表,40mm复古尺寸+青铜做旧款,颜值能打。",
+  "file": "data\\img\\oris-divers65.jpg"
+ },
+ {
+  "id": "pandora-charms",
+  "brand": "潘多拉",
+  "name": "Charm 串珠",
+  "nameEn": "Moments Charms",
+  "type": "串珠",
+  "desc": "生日、旅行、宠物……每个纪念刻成一颗珠,手链就是人生相册。",
+  "file": "data\\img\\pandora-charms.jpg"
+ },
+ {
+  "id": "pandora-bracelet",
+  "brand": "潘多拉",
+  "name": "蛇骨链",
+  "nameEn": "Snake Chain Bracelet",
+  "type": "手链",
+  "desc": "串珠系统的载体,银质蛇骨链是入门第一件。",
+  "file": "data\\img\\pandora-bracelet.jpg"
+ },
+ {
+  "id": "pandora-hearts",
+  "brand": "潘多拉",
+  "name": "心形系列",
+  "nameEn": "Hearts of Pandora",
+  "type": "首饰",
+  "desc": "渐变珐琅爱心,送人不出错的经典符号。",
+  "file": "data\\img\\pandora-hearts.jpg"
+ },
+ {
+  "id": "pandora-labgrown",
+  "brand": "潘多拉",
+  "name": "培育钻系列",
+  "nameEn": "Lab-Grown Diamond",
+  "type": "戒指",
+  "desc": "实验室培育钻石的平价化,让克拉自由提前到来。",
+  "file": "data\\img\\pandora-labgrown.jpg"
+ },
+ {
+  "id": "patek-aquanaut",
+  "brand": "百达翡丽",
+  "name": "手雷",
+  "nameEn": "Aquanaut",
+  "type": "运动豪华表",
+  "desc": "俗称\"手雷\",橡胶表带的年轻化运动款,鹦鹉螺之后的又一爆款。",
+  "file": "data\\img\\patek-aquanaut.jpg"
+ },
+ {
+  "id": "piaget-altiplano",
+  "brand": "伯爵",
+  "name": "Altiplano",
+  "nameEn": "Altiplano",
+  "type": "超薄正装表",
+  "desc": "超薄纪录收割机,2mm级机芯把\"薄\"做成了品牌哲学。",
+  "file": "data\\img\\piaget-altiplano.jpg"
+ },
+ {
+  "id": "piaget-polo",
+  "brand": "伯爵",
+  "name": "Polo 系列",
+  "nameEn": "Polo",
+  "type": "运动豪华表",
+  "desc": "1979年的枕形圆圈美学,一体式表链的沙滩贵族。",
+  "file": "data\\img\\piaget-polo.jpg"
+ },
+ {
+  "id": "piaget-possession",
+  "brand": "伯爵",
+  "name": "Possession",
+  "nameEn": "Possession",
+  "type": "珠宝表",
+  "desc": "可旋转钻石圈的互动珠宝表,\"转一转\"成为把玩的仪式感。",
+  "file": "data\\img\\piaget-possession.jpg"
+ },
+ {
+  "id": "piaget-limelight",
+  "brand": "伯爵",
+  "name": "Limelight",
+  "nameEn": "Limelight Gala",
+  "type": "女表",
+  "desc": "不对称镶钻的 Gala 腰线,1970年代的派对精神复刻。",
+  "file": "data\\img\\piaget-limelight.jpg"
+ },
+ {
+  "id": "qeelin-wulu",
+  "brand": "麒麟珠宝",
+  "name": "Wulu 葫芦",
+  "nameEn": "Wulu",
+  "type": "项链",
+  "desc": "圆润葫芦镶钻,福禄双全的东方寓意,红毯出镜率最高的国风珠宝。",
+  "file": "data\\img\\qeelin-wulu.jpg"
+ },
+ {
+  "id": "qeelin-bobo",
+  "brand": "麒麟珠宝",
+  "name": "Bo Bo 熊猫",
+  "nameEn": "Bo Bo",
+  "type": "首饰",
+  "desc": "黑白钻石拼出熊猫,憨态可掬又有高级感,儿童节礼物天花板。",
+  "file": "data\\img\\qeelin-bobo.jpg"
+ },
+ {
+  "id": "qeelin-ruyi",
+  "brand": "麒麟珠宝",
+  "name": "如意系列",
+  "nameEn": "Ruyi",
+  "type": "首饰",
+  "desc": "如意云头曲线化作锁骨链与手镯,古典吉祥的现代化身。",
+  "file": "data\\img\\qeelin-ruyi.jpg"
+ },
+ {
+  "id": "qeelin-linglong",
+  "brand": "麒麟珠宝",
+  "name": "Ling Long 玲珑",
+  "nameEn": "Ling Long",
+  "type": "首饰",
+  "desc": "圆形窗棂镶钻,如月光洞窗,安静的东方浪漫。",
+  "file": "data\\img\\qeelin-linglong.jpg"
+ },
+ {
+  "id": "rado-captaincook",
+  "brand": "雷达",
+  "name": "库克船长",
+  "nameEn": "Captain Cook",
+  "type": "潜水表",
+  "desc": "复刻1962年潜水鼻祖,拱形玻璃+锚形秒针,复古潜水的颜值巅峰之一。",
+  "file": "data\\img\\rado-captaincook.jpg"
+ },
+ {
+  "id": "rado-truethinline",
+  "brand": "雷达",
+  "name": "真薄系列",
+  "nameEn": "True Thinline",
+  "type": "正装表",
+  "desc": "全陶瓷超薄,轻盈亲肤,极简主义者的通勤答案。",
+  "file": "data\\img\\rado-truethinline.jpg"
+ },
+ {
+  "id": "rado-centrix",
+  "brand": "雷达",
+  "name": "晶萃系列",
+  "nameEn": "Centrix",
+  "type": "正装表",
+  "desc": "一体陶瓷链+贝壳形表壳,男女通吃的优雅日常款。",
+  "file": "data\\img\\rado-centrix.jpg"
+ },
+ {
+  "id": "rado-diastar",
+  "brand": "雷达",
+  "name": "钻星系列",
+  "nameEn": "DiaStar Original",
+  "type": "复古表",
+  "desc": "1962年传奇再版,六边形钨钛合金壳,永不磨损宣言的活化石。",
+  "file": "data\\img\\rado-diastar.jpg"
+ },
+ {
+  "id": "raymondweil-freelancer",
+  "brand": "蕾蒙威",
+  "name": "Freelancer",
+  "nameEn": "Freelancer",
+  "type": "运动豪华表",
+  "desc": "镂空计时的主力系列,一体链+透底,万元级硬货。",
+  "file": "data\\img\\raymondweil-freelancer.jpg"
+ },
+ {
+  "id": "raymondweil-maestro",
+  "brand": "蕾蒙威",
+  "name": "Maestro",
+  "nameEn": "Maestro",
+  "type": "正装表",
+  "desc": "正装三针与月相,日内瓦血统的优雅日常。",
+  "file": "data\\img\\raymondweil-maestro.jpg"
+ },
+ {
+  "id": "richardmille-rm011",
+  "brand": "里查德米尔",
+  "name": "RM 011",
+  "nameEn": "RM 011",
+  "type": "计时码表",
+  "desc": "Felipe Massa 传奇酒桶计时,碳纤维表壳+飞返计时,品牌破圈之作。",
+  "file": "data\\img\\richardmille-rm011.jpg"
+ },
+ {
+  "id": "richardmille-rm27",
+  "brand": "里查德米尔",
+  "name": "RM 27-04",
+  "nameEn": "RM 27-04",
+  "type": "复杂功能表",
+  "desc": "为纳达尔打造,机芯像悬挂在网球拍弦上,抗压抗造到离谱。",
+  "file": "data\\img\\richardmille-rm27.jpg"
+ },
+ {
+  "id": "richardmille-rm07",
+  "brand": "里查德米尔",
+  "name": "RM 07",
+  "nameEn": "RM 07",
+  "type": "女表",
+  "desc": "女式酒桶,彩色宝石与镂空机芯并存的轻量奢华。",
+  "file": "data\\img\\richardmille-rm07.jpg"
+ },
+ {
+  "id": "richardmille-rm67",
+  "brand": "里查德米尔",
+  "name": "RM 67-02",
+  "nameEn": "RM 67-02",
+  "type": "运动豪华表",
+  "desc": "超薄运动款,仅重32克,田径运动员同款彩色涂装。",
+  "file": "data\\img\\richardmille-rm67.jpg"
+ },
+ {
+  "id": "rolex-submariner",
+  "brand": "劳力士",
+  "name": "潜航者型",
+  "nameEn": "Submariner",
+  "type": "潜水表",
+  "desc": "俗称\"水鬼\",现代潜水表的祖师爷,黑水鬼是无数人的第一块梦想表。",
+  "file": "data\\img\\rolex-submariner.jpg"
+ },
+ {
+  "id": "rolex-daytona",
+  "brand": "劳力士",
+  "name": "宇宙计型迪通拿",
+  "nameEn": "Cosmograph Daytona",
+  "type": "计时码表",
+  "desc": "为赛车计时而生,熊猫盘与陶瓷圈,二级市场加价之王。",
+  "file": "data\\img\\rolex-daytona.jpg"
+ },
+ {
+  "id": "rolex-datejust",
+  "brand": "劳力士",
+  "name": "日志型",
+  "nameEn": "Datejust",
+  "type": "正装表",
+  "desc": "1945年诞生的首款自动日历腕表,五珠链+三角坑纹圈,绅士标配。",
+  "file": "data\\img\\rolex-datejust.jpg"
+ },
+ {
+  "id": "rolex-gmt",
+  "brand": "劳力士",
+  "name": "格林尼治型II",
+  "nameEn": "GMT-Master II",
+  "type": "两地时",
+  "desc": "为泛美航空机长设计,双色可乐圈一眼辨识,差旅人士的浪漫。",
+  "file": "data\\img\\rolex-gmt.jpg"
+ },
+ {
+  "id": "seagull-st19",
+  "brand": "海鸥",
+  "name": "ST19 复刻1963",
+  "nameEn": "1963 Reissue",
+  "type": "手动机械表",
+  "desc": "复刻中国第一只航空计时码表,机芯美学与历史的双重情怀。",
+  "file": "data\\img\\seagull-st19.jpg"
+ },
+ {
+  "id": "seagull-tourbillon",
+  "brand": "海鸥",
+  "name": "陀飞轮系列",
+  "nameEn": "Tourbillon",
+  "type": "复杂功能表",
+  "desc": "万元级陀飞轮的全球独一份,复杂功能平价化的招牌。",
+  "file": "data\\img\\seagull-tourbillon.jpg"
+ },
+ {
+  "id": "seagull-d304",
+  "brand": "海鸥",
+  "name": "海洋系列",
+  "nameEn": "Ocean Star",
+  "type": "潜水表",
+  "desc": "200米潜水+自产机芯,国产潜水表的第一课。",
+  "file": "data\\img\\seagull-d304.jpg"
+ },
+ {
+  "id": "seagull-moonphase",
+  "brand": "海鸥",
+  "name": "月相系列",
+  "nameEn": "Moon Phase",
+  "type": "正装表",
+  "desc": "月相+日历的正装款,中式纹样盘面的诗意。",
+  "file": "data\\img\\seagull-moonphase.jpg"
+ },
+ {
+  "id": "seiko-prospex",
+  "brand": "精工",
+  "name": "Prospex 罐头",
+  "nameEn": "Prospex Turtle",
+  "type": "潜水表",
+  "desc": "1976年\"罐头\"潜水血统,200-1000米专业潜水,玩水人的信仰。",
+  "file": "data\\img\\seiko-prospex.jpg"
+ },
+ {
+  "id": "seiko-presage",
+  "brand": "精工",
+  "name": "Presage",
+  "nameEn": "Presage",
+  "type": "正装表",
+  "desc": "珐琅与和风纹样表盘,\"鸡尾酒时间\"盘面是万元内的美学高峰。",
+  "file": "data\\img\\seiko-presage.jpg"
+ },
+ {
+  "id": "seiko-astron",
+  "brand": "精工",
+  "name": "Astron GPS",
+  "nameEn": "Astron GPS Solar",
+  "type": "卫星对时表",
+  "desc": "致敬1969年石英鼻祖的GPS卫星对时太阳能表,走时与原子钟同步。",
+  "file": "data\\img\\seiko-astron.jpg"
+ },
+ {
+  "id": "swarovski-swan",
+  "brand": "施华洛世奇",
+  "name": "天鹅系列",
+  "nameEn": "Iconic Swan",
+  "type": "项链",
+  "desc": "品牌图腾天鹅镶满水晶,黑白双色天鹅是无数人的第一条\"轻珠宝\"。",
+  "file": "data\\img\\swarovski-swan.jpg"
+ },
+ {
+  "id": "swarovski-heartbeat",
+  "brand": "施华洛世奇",
+  "name": "跳动的心",
+  "nameEn": "Sparkling Dance",
+  "type": "项链",
+  "desc": "水晶在密镶弧内随动作滑动,像一颗会呼吸的心脏。",
+  "file": "data\\img\\swarovski-heartbeat.jpg"
+ },
+ {
+  "id": "swarovski-millenia",
+  "brand": "施华洛世奇",
+  "name": "Millenia",
+  "nameEn": "Millenia",
+  "type": "首饰",
+  "desc": "大颗彩宝切割水晶的时尚线,一克拉 visual 不输真钻的气场。",
+  "file": "data\\img\\swarovski-millenia.jpg"
+ },
+ {
+  "id": "swarovski-duo",
+  "brand": "施华洛世奇",
+  "name": "Duo 系列",
+  "nameEn": "Duo",
+  "type": "首饰",
+  "desc": "金属与水晶双元素交叠,极简通勤的低调光泽。",
+  "file": "data\\img\\swarovski-duo.jpg"
+ },
+ {
+  "id": "tagheuer-carrera",
+  "brand": "泰格豪雅",
+  "name": "卡莱拉",
+  "nameEn": "Carrera",
+  "type": "计时码表",
+  "desc": "1963年为泛美公路赛设计,计时界的常青树,熊猫盘风靡至今。",
+  "file": "data\\img\\tagheuer-carrera.jpg"
+ },
+ {
+  "id": "tagheuer-monaco",
+  "brand": "泰格豪雅",
+  "name": "摩纳哥",
+  "nameEn": "Monaco",
+  "type": "计时码表",
+  "desc": "1969年首款方形防水自动计时,麦昆同款,复古赛车的白月光。",
+  "file": "data\\img\\tagheuer-monaco.jpg"
+ },
+ {
+  "id": "tagheuer-aquaracer",
+  "brand": "泰格豪雅",
+  "name": "竞潜",
+  "nameEn": "Aquaracer",
+  "type": "潜水表",
+  "desc": "300米潜水的日常运动线,300米防水+夜光,实用派首选。",
+  "file": "data\\img\\tagheuer-aquaracer.jpg"
+ },
+ {
+  "id": "tagheuer-formula1",
+  "brand": "泰格豪雅",
+  "name": "F1 系列",
+  "nameEn": "Formula 1",
+  "type": "运动表",
+  "desc": "入门石英与机械并行,赛道涂装活泼,年轻人的第一块豪车表。",
+  "file": "data\\img\\tagheuer-formula1.jpg"
+ },
+ {
+  "id": "tasaki-balance",
+  "brand": "塔思琦",
+  "name": "balance 系列",
+  "nameEn": "balance",
+  "type": "首饰",
+  "desc": "一根弧形金条与珍珠玩平衡,珍珠首饰里最像雕塑的存在。",
+  "file": "data\\img\\tasaki-balance.jpg"
+ },
+ {
+  "id": "tasaki-signature",
+  "brand": "塔思琦",
+  "name": "signature 项链",
+  "nameEn": "signature",
+  "type": "项链",
+  "desc": "渐变尺寸珍珠串链,日常穿的\"大女主\"气场款。",
+  "file": "data\\img\\tasaki-signature.jpg"
+ },
+ {
+  "id": "tasaki-atelier",
+  "brand": "塔思琦",
+  "name": "Atelier 高定",
+  "nameEn": "Atelier",
+  "type": "高级珠宝",
+  "desc": "神户工坊的孤品高级珠宝,南洋珠与彩色宝石的大胆实验场。",
+  "file": "data\\img\\tasaki-atelier.jpg"
+ },
+ {
+  "id": "tiffany-setting",
+  "brand": "蒂芙尼",
+  "name": "六爪订婚钻戒",
+  "nameEn": "The Tiffany Setting",
+  "type": "订婚戒指",
+  "desc": "1886年发明,六爪把钻石高高托起,是世界最著名的求婚戒指形制。",
+  "file": "data\\img\\tiffany-setting.jpg"
+ },
+ {
+  "id": "tiffany-tseries",
+  "brand": "蒂芙尼",
+  "name": "T 系列",
+  "nameEn": "Tiffany T",
+  "type": "首饰",
+  "desc": "极简字母T手镯与戒指,纽约摩登气质,当代入门首选。",
+  "file": "data\\img\\tiffany-tseries.jpg"
+ },
+ {
+  "id": "tiffany-keys",
+  "brand": "蒂芙尼",
+  "name": "钥匙系列",
+  "nameEn": "Tiffany Keys",
+  "type": "项链",
+  "desc": "把钥匙做成吊坠,开启人生新篇章的隐喻,曾经的销量神话。",
+  "file": "data\\img\\tiffany-keys.jpg"
+ },
+ {
+  "id": "tiffany-smile",
+  "brand": "蒂芙尼",
+  "name": "微笑项链",
+  "nameEn": "T Smile",
+  "type": "项链",
+  "desc": "一条微笑弧线的锁骨链,最畅销的蒂芙尼入门单品。",
+  "file": "data\\img\\tiffany-smile.jpg"
+ },
+ {
+  "id": "tiffany-return",
+  "brand": "蒂芙尼",
+  "name": "Return to Tiffany",
+  "nameEn": "Return to Tiffany",
+  "type": "首饰",
+  "desc": "刻着\"请归还蒂芙尼\"的铭牌系列,源自丢失吊牌的故事,年轻线经典。",
+  "file": "data\\img\\tiffany-return.jpg"
+ },
+ {
+  "id": "tissot-locator",
+  "brand": "天梭",
+  "name": "力洛克",
+  "nameEn": "Le Locle",
+  "type": "正装表",
+  "desc": "以品牌故乡命名,机刻纹盘面+罗马刻度,瑞士机械表第一课。",
+  "file": "data\\img\\tissot-locator.jpg"
+ },
+ {
+  "id": "tissot-prx",
+  "brand": "天梭",
+  "name": "PRX",
+  "nameEn": "PRX",
+  "type": "运动豪华表",
+  "desc": "1978年复古一体链设计复活,超薄Powermatic机芯,网红爆款。",
+  "file": "data\\img\\tissot-prx.jpg"
+ },
+ {
+  "id": "tissot-seastar",
+  "brand": "天梭",
+  "name": "海星",
+  "nameEn": "Seastar",
+  "type": "潜水表",
+  "desc": "300米潜水的瑞士认证入门,3000块买大厂潜水表的天花板。",
+  "file": "data\\img\\tissot-seastar.jpg"
+ },
+ {
+  "id": "tissot-chemindesindices",
+  "brand": "天梭",
+  "name": "卡森",
+  "nameEn": "Carson",
+  "type": "正装表",
+  "desc": "极简小三针,通勤正装不出错的稳妥之选。",
+  "file": "data\\img\\tissot-chemindesindices.jpg"
+ },
+ {
+  "id": "tudor-blackbay",
+  "brand": "帝舵",
+  "name": "碧湾",
+  "nameEn": "Black Bay",
+  "type": "潜水表",
+  "desc": "复活1958年古董水鬼血统,雪花针+大表冠,潜水复古的国民爆款。",
+  "file": "data\\img\\tudor-blackbay.jpg"
+ },
+ {
+  "id": "tudor-blackbaychrono",
+  "brand": "帝舵",
+  "name": "碧湾计时",
+  "nameEn": "Black Bay Chrono",
+  "type": "计时码表",
+  "desc": "熊猫盘+赛车条纹,批发价享受\"小迪通拿\"的既视感。",
+  "file": "data\\img\\tudor-blackbaychrono.jpg"
+ },
+ {
+  "id": "tudor-royal",
+  "brand": "帝舵",
+  "name": "皇家系列",
+  "nameEn": "Royal",
+  "type": "正装表",
+  "desc": "一体化表链的正装运动两相宜,典雅日常款。",
+  "file": "data\\img\\tudor-royal.jpg"
+ },
+ {
+  "id": "tudor-pelagos",
+  "brand": "帝舵",
+  "name": "领潜型",
+  "nameEn": "Pelagos",
+  "type": "潜水表",
+  "desc": "钛壳500米专业潜水,排氦阀+陶瓷圈,专业玩家心里的真神。",
+  "file": "data\\img\\tudor-pelagos.jpg"
+ },
+ {
+  "id": "ulysse-sonata",
+  "brand": "雅典表",
+  "name": "西敏寺钟声问表",
+  "nameEn": "Sonata",
+  "type": "复杂功能表",
+  "desc": "可自选报时旋律的问表,把教堂钟声装进腕间。",
+  "file": "data\\img\\ulysse-sonata.jpg"
+ },
+ {
+  "id": "ulysse-cloisonne",
+  "brand": "雅典表",
+  "name": "珐琅微绘",
+  "nameEn": "Cloisonné Enamel",
+  "type": "艺术表",
+  "desc": "掐丝珐琅表盘每枚需数百小时,世界地图、龙舟等题材件件孤品。",
+  "file": "data\\img\\ulysse-cloisonne.jpg"
+ },
+ {
+  "id": "vc-overseas",
+  "brand": "江诗丹顿",
+  "name": "纵横四海",
+  "nameEn": "Overseas",
+  "type": "运动豪华表",
+  "desc": "江诗丹顿的豪华运动答案,马耳他十字暗纹表圈,快拆表带三合一。",
+  "file": "data\\img\\vc-overseas.jpg"
+ },
+ {
+  "id": "vc-patrimony",
+  "brand": "江诗丹顿",
+  "name": "传承系列",
+  "nameEn": "Patrimony",
+  "type": "正装表",
+  "desc": "极简美学的极致,超薄圆形表壳里藏着日内瓦制表的从容。",
+  "file": "data\\img\\vc-patrimony.jpg"
+ },
+ {
+  "id": "vc-traditionnelle",
+  "brand": "江诗丹顿",
+  "name": "传袭系列",
+  "nameEn": "Traditionnelle",
+  "type": "复杂功能表",
+  "desc": "向日内瓦高级制表传统致敬,万年历、三问、陀飞轮应有尽有。",
+  "file": "data\\img\\vc-traditionnelle.jpg"
+ },
+ {
+  "id": "vc-metiers",
+  "brand": "江诗丹顿",
+  "name": "艺术大师系列",
+  "nameEn": "Métiers d'Art",
+  "type": "艺术表",
+  "desc": "珐琅彩绘、大师级雕金,每年限量的艺术腕表,更像戴在腕上的美术馆。",
+  "file": "data\\img\\vc-metiers.jpg"
+ },
+ {
+  "id": "vca-alhambra",
+  "brand": "梵克雅宝",
+  "name": "Alhambra 四叶草",
+  "nameEn": "Alhambra",
+  "type": "项链",
+  "desc": "1968年问世的幸运四叶草,金珠边+黑玛瑙/白贝母,全球等待名单最长的小项链。",
+  "file": "data\\img\\vca-alhambra.jpg"
+ },
+ {
+  "id": "vca-frivole",
+  "brand": "梵克雅宝",
+  "name": "Frivole",
+  "nameEn": "Frivole",
+  "type": "首饰",
+  "desc": "八瓣花瓣镶钻如晨露绽放,近年最热的新系列。",
+  "file": "data\\img\\vca-frivole.jpg"
+ },
+ {
+  "id": "vca-perlee",
+  "brand": "梵克雅宝",
+  "name": "Perlé金珠",
+  "nameEn": "Perpée",
+  "type": "首饰",
+  "desc": "一颗颗金珠串起的低调系列,叠戴入门的优雅答案。",
+  "file": "data\\img\\vca-perlee.jpg"
+ },
+ {
+  "id": "vca-ballerina",
+  "brand": "梵克雅宝",
+  "name": "芭蕾舞者",
+  "nameEn": "Ballerina",
+  "type": "胸针",
+  "desc": "1940年代起舞至今的钻石舞者胸针,高级珠宝拍卖会的常胜将军。",
+  "file": "data\\img\\vca-ballerina.jpg"
+ }
+]

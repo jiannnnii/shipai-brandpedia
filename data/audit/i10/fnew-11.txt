@@ -1,0 +1,10 @@
+jnby-knit | 江南布衣 针织衫(Knitwear,针织衫) | 以羊毛、马海毛等混纺纱线织成,常以镂空与不规则纹理呈现肌理感,版型宽松,是品牌秋冬的高频单品。 | data\img\jnby-knit.jpg
+jnby-shirt | 江南布衣 设计感衬衫(Shirt,衬衫) | 在基础衬衫版型上加入不对称门襟、抽褶与拼料细节,棉麻面料居多,通勤与休闲皆宜,是春夏畅销款。 | data\img\jnby-shirt.jpg
+jnby-pants | 江南布衣 阔腿裤装(Wide-Leg Pants,裤装) | 以垂感面料与高腰阔腿版型为主,修饰腿型,与品牌外套搭配度高,是整体造型中实用度最高的单品之一。 | data\img\jnby-pants.jpg
+katespade-handbags | 凯特·丝蓓 经典手袋(Handbags,手袋) | Knott、Sam 等系列以流畅轮廓与精致五金取胜,桃心铆钉等彩蛋细节充满巧思。 | data\img\katespade-handbags.jpg
+katespade-tote | 凯特·丝蓓 托特包(Totes,托特包) | 大容量托特包印有品牌标语或彩绘图案,轻便能装,通勤上学的人气选择。 | data\img\katespade-tote.jpg
+katespade-lifestyle | 凯特·丝蓓 生活方式周边(Home & Lifestyle,生活杂货) | 从文具、马克杯到手机壳,把彩色图案带进日常小物,是品牌趣味美学的延伸。 | data\img\katespade-lifestyle.jpg
+kenzo-tigertee | 高田贤三 虎头T恤(Tiger T-shirt,T恤) | 虎头图案的短袖版本,面料厚实、版型宽松,是入门这个品牌的首选单品。 | data\img\kenzo-tigertee.jpg
+kenzo-fragrance | 高田贤三 香水(Fragrance,香水) | Flower by Kenzo 罂粟花香氛闻名遐迩,一枝花瓶身极具辨识度,清甜花香适合日常佩戴。 | data\img\kenzo-fragrance.jpg
+kenzo-sneakers | 高田贤三 运动鞋(Sneakers,鞋履) | 虎头元素点缀的板鞋与老爹鞋,设计活泼、配色大胆,与卫衣组成经典街头穿搭。 | data\img\kenzo-sneakers.jpg
+kenzo-readytowear | 高田贤三 成衣系列(Ready-to-Wear,服装) | 印花衬衫、针织与连衣裙延续创始人对色彩与花卉的热爱,东西混搭风格独树一帜。 | data\img\kenzo-readytowear.jpg

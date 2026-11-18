@@ -1,0 +1,10 @@
+acquadiparma-colonia | 帕尔玛之水 经典古龙水(Colonia,香水) | 1916年配方,西西里柑橘与英式薰衣草的绅士签名。 | data\img\acquadiparma-colonia.jpg
+acquadiparma-blu | 帕尔玛之水 蓝色地中海系列(Blu Mediterraneo,香水) | 阿玛菲无花果等度假系列,地中海的阳光。 | data\img\acquadiparma-blu.jpg
+acquadiparma-candle | 帕尔玛之水 家居香薰(Home Fragrance,香薰) | 黑黄配色的室内香氛,意式客厅。 | data\img\acquadiparma-candle.jpg
+acquadiparma-leather | 帕尔玛之水 皮革系列(Leather Collection,香水) | Colonia Leather 皮革线,西装革履的味道。 | data\img\acquadiparma-leather.jpg
+acquadiparma-bag | 帕尔玛之水 旅行香氛套装(Travel Set,礼盒) | 黄标旅行喷雾套装,差旅绅士的标配。 | data\img\acquadiparma-bag.jpg
+albion-skin-conditioner | 奥尔滨 健康水(Skin Conditioner,化妆水) | 以薏米萃取为核心调理成分的经典化妆水,主打改善粗糙、稳定肤质,知名度与回购率俱佳,是奥尔滨的招牌单品。 | data\img\albion-skin-conditioner.jpg
+albion-excia-oil | 奥尔滨 雅思焕白精华油(Excia Whitening Oil,精华油) | 雅思(Excia)系列人气精华油,以轻盈油感滋养肌肤、改善干燥黯沉,秋冬干皮尤其喜爱,是高端线中口碑不错的单品。 | data\img\albion-excia-oil.jpg
+ateliercologne-orange | 欧珑 赤霞橘光(Orange Sanguine,香水) | 血橙的阳光活力,元气少女标配。 | data\img\ateliercologne-orange.jpg
+ateliercologne-cedre | 欧珑 梦幻香柏(Cedre Atlas,香水) | 雪松的干净温柔,「大男孩的床单味」。 | data\img\ateliercologne-cedre.jpg
+ateliercologne-candle | 欧珑 香氛蜡烛(Cologne Candle,香薰蜡烛) | 同系列古龙香氛蜡烛,送礼体面。 | data\img\ateliercologne-candle.jpg

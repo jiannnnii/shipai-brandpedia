@@ -1,0 +1,10 @@
+dolce-gabbana-devotion | 杜嘉班纳 Devotion爱心包(Devotion,手袋) | 以圣心元素为灵感的爱心手袋,水钻缀饰与皮革编织,西西里宗教美学加持,上市即成网红款。 | data\img\dolce-gabbana-devotion.jpg
+dolce-gabbana-light-blue | 杜嘉班纳 Light Blue香水(Light Blue,香水) | 2001年推出的地中海风格香水,西西里柠檬与青苹果气息清新明快,长期位居全球最畅销香水之列。 | data\img\dolce-gabbana-light-blue.jpg
+dolce-gabbana-crystal-flats | 杜嘉班纳 水晶装饰平底鞋(Crystal Flats,平底鞋) | 缀满水钻与珍珠的皮革平底鞋,华丽到近乎戏剧化,派对与婚礼场合人气极高,体现品牌极致装饰美学。 | data\img\dolce-gabbana-crystal-flats.jpg
+dolce-gabbana-the-one | 杜嘉班纳 The One香水(The One,香水) | 2006年推出的东方花香调女香,琥珀与香料暖意浓郁,金盖瓶身优雅,是品牌另一支销量长红的女香。 | data\img\dolce-gabbana-the-one.jpg
+etro-paisleyshirt | 艾绰 佩斯利印花衬衫(Paisley Shirt,衬衫) | 腰果花图案的真丝与棉质衬衫,色彩繁复却不失章法,是品牌最典型的单品。 | data\img\etro-paisleyshirt.jpg
+etro-scarves | 艾绰 羊绒围巾(Cashmere Scarves,围巾) | 精纺羊绒印花围巾,纹样繁花似锦,触感细腻,冬季佩戴即成造型焦点。 | data\img\etro-scarves.jpg
+etro-ties | 艾绰 真丝领带(Silk Ties,领带) | 品牌起家看家的领带工艺,真丝印花精致考究,是商务绅士的心头好。 | data\img\etro-ties.jpg
+etro-readytowear | 艾绰 成衣系列(Ready-to-Wear,服装) | 提花外套、印花长裙与波西米亚廓形,浓烈色彩中透着游牧式的浪漫优雅。 | data\img\etro-readytowear.jpg
+etro-fragrance | 艾绰 香水(Fragrance,香水) | 以香料之路为灵感的香氛系列,东方式辛香与木质调浓郁迷人,瓶身延续佩斯利纹样。 | data\img\etro-fragrance.jpg
+fendi-by-the-way | 芬迪 By The Way(By The Way,手袋) | 长方形横向结构手袋,双拉链开合,手提肩背皆宜,罗马式低调优雅,是品牌常青通勤款。 | data\img\fendi-by-the-way.jpg

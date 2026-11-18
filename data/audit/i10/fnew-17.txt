@@ -1,0 +1,10 @@
+ralphlauren-accessories | 拉夫·劳伦 手袋与皮具(Handbags & Leather Goods,皮具) | 以骑手标识为点缀的手袋、腰带与钱夹,做工扎实,延续品牌的经典美式格调。 | data\img\ralphlauren-accessories.jpg
+ro-pods | 瑞克·欧文斯 Pods 收口裤(Pods Pants,裤装) | 裤腿如豆荚般蓬松收口的标志性裤型,弹力面料便于活动,搭配厚底鞋形成品牌标志性的比例感。 | data\img\ro-pods.jpg
+ro-drkshdw | 瑞克·欧文斯 DRKSHDW 副线(DRKSHDW,服装副线) | 2005 年推出的年轻副线,价格更亲民,延续暗黑美学,以基础卫衣、长袖与牛仔裤为主,是品牌受众最广的产品线。 | data\img\ro-drkshdw.jpg
+robertocavalli-denim | 罗伯特·卡沃利 牛仔裤(Denim,牛仔裤) | 曾在丹宁上印花开创先河,刺绣与破坏处理的牛仔裤是2000年代的潮流记忆。 | data\img\robertocavalli-denim.jpg
+robertocavalli-bags | 罗伯特·卡沃利 手袋(Handbags,手袋) | 以动物纹压花与金属装饰为特色的包袋,狂野中带着华丽,出街极具存在感。 | data\img\robertocavalli-bags.jpg
+robertocavalli-sunglasses | 罗伯特·卡沃利 太阳镜(Sunglasses,眼镜) | 华丽镜腿与动物元素装饰的眼镜线,风格张扬,与成衣一脉相承。 | data\img\robertocavalli-sunglasses.jpg
+robertocavalli-menswear | 罗伯特·卡沃利 男士成衣(Menswear,男装成衣) | 修身衬衫、皮夹克与西服释放意式雄性魅力,刺绣细节张扬又不失精致。 | data\img\robertocavalli-menswear.jpg
+rv-trompette | 罗杰·维维亚 Trompette 尖头高跟鞋(Trompette Pump,高跟鞋) | 尖头 d'Orsay 造型搭配品牌标志性的弧形逗号跟,线条流畅优雅,漆皮与绒面版本皆有,是晚宴场合的经典选择。 | data\img\rv-trompette.jpg
+rv-vivrangers | 罗杰·维维亚 Viv' Rangers 平底鞋(Viv' Rangers Flat,平底鞋) | 将方扣元素融入乐福鞋与芭蕾平底鞋,鞋型圆润百搭,通勤与休闲皆宜,是品牌入门价位的畅销鞋款。 | data\img\rv-vivrangers.jpg
+rv-vivrun | 罗杰·维维亚 Viv' Run 运动鞋(Viv' Run Sneaker,运动鞋) | 品牌的运动鞋系列,以复古慢跑鞋造型搭配方扣或钻饰细节,轻盈舒适,将运动风与优雅美学结合。 | data\img\rv-vivrun.jpg

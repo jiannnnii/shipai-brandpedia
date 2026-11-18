@@ -1,0 +1,92 @@
+[
+ {
+  "id": "calvinklein-jeans",
+  "brand": "卡尔文·克雷恩",
+  "name": "牛仔裤",
+  "nameEn": "Jeans",
+  "type": "牛仔裤",
+  "desc": "Calvin Klein Jeans 主打复古直筒与修身版型,后腰皮标极具辨识度,基础款耐穿百搭。",
+  "file": "data\\img\\calvinklein-jeans.jpg"
+ },
+ {
+  "id": "calvinklein-outerwear",
+  "brand": "卡尔文·克雷恩",
+  "name": "外套",
+  "nameEn": "Outerwear",
+  "type": "外套",
+  "desc": "羽绒服、夹克与西装外套以简约廓形为主,黑白灰主色调,日常通勤好搭不出错。",
+  "file": "data\\img\\calvinklein-outerwear.jpg"
+ },
+ {
+  "id": "canadagoose-expedition",
+  "brand": "加拿大鹅",
+  "name": "Expedition 派克大衣",
+  "nameEn": "Expedition Parka",
+  "type": "派克大衣",
+  "desc": "品牌最经典的重装派克,原为极地科考设计,充绒量高、防护全面,胸前徽标辨识度极高。",
+  "file": "data\\img\\canadagoose-expedition.jpg"
+ },
+ {
+  "id": "canadagoose-langford",
+  "brand": "加拿大鹅",
+  "name": "Langford 派克大衣",
+  "nameEn": "Langford Parka",
+  "type": "派克大衣",
+  "desc": "都市通勤版派克大衣,剪裁比 Expedition 更利落,保暖与日常轻量取得平衡。",
+  "file": "data\\img\\canadagoose-langford.jpg"
+ },
+ {
+  "id": "canadagoose-chilliwack",
+  "brand": "加拿大鹅",
+  "name": "Chilliwack 飞行员夹克",
+  "nameEn": "Chilliwack Bomber",
+  "type": "夹克",
+  "desc": "短款飞行员版型,毛领厚实、袖口罗纹收口,活动灵便,是短款御寒的人气之选。",
+  "file": "data\\img\\canadagoose-chilliwack.jpg"
+ },
+ {
+  "id": "canadagoose-hybridge",
+  "brand": "加拿大鹅",
+  "name": "HyBridge 轻量羽绒服",
+  "nameEn": "HyBridge",
+  "type": "轻量羽绒服",
+  "desc": "弹性面料拼接羽绒的轻量系列,压缩收纳方便,适合秋冬城市与户外过渡穿着。",
+  "file": "data\\img\\canadagoose-hybridge.jpg"
+ },
+ {
+  "id": "canadagoose-freestyle",
+  "brand": "加拿大鹅",
+  "name": "Freestyle 马甲",
+  "nameEn": "Freestyle Vest",
+  "type": "马甲",
+  "desc": "轻薄羽绒马甲,秋冬叠穿神器,男女同款配色丰富,与衬衫组成经典搭配。",
+  "file": "data\\img\\canadagoose-freestyle.jpg"
+ },
+ {
+  "id": "canadagoose-knitwear",
+  "brand": "加拿大鹅",
+  "name": "针织系列",
+  "nameEn": "Knitwear",
+  "type": "针织衫",
+  "desc": "羊毛抓绒与针织单品延续极简设计,胸前小徽标低调,适合作为冬季内搭。",
+  "file": "data\\img\\canadagoose-knitwear.jpg"
+ },
+ {
+  "id": "celine-classic-box",
+  "brand": "赛琳",
+  "name": "豆腐包",
+  "nameEn": "Classic Box",
+  "type": "手袋",
+  "desc": "菲比·菲罗时代封神的小方包,Box小牛皮配金属转扣,极简到没有多余装饰,是法式极简主义的图腾。",
+  "file": "data\\img\\celine-classic-box.jpg"
+ },
+ {
+  "id": "celine-triomphe",
+  "brand": "赛琳",
+  "name": "凯旋门包",
+  "nameEn": "Triomphe",
+  "type": "手袋",
+  "desc": "致敬1970年代凯旋门锁链灵感的经典款,双C形凯旋门五金配光面牛皮,方正规整,是近年主力包型。",
+  "file": "data\\img\\celine-triomphe.jpg"
+ }
+]

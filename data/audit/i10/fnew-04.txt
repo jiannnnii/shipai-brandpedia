@@ -1,0 +1,10 @@
+celine-belt-bag | 赛琳 鲶鱼包(Belt Bag,手袋) | 以两条腰带式长肩带闻名的托特包,软廓形斜挎随性,2010年代与笑脸包并列赛琳双璧,近年再度回潮。 | data\img\celine-belt-bag.jpg
+celine-ava | 赛琳 Ava(Ava,腋下包) | 复古月牙形腋下包,凯旋门五金点缀凯旋门帆布或光面牛皮,轻巧百搭,是年轻客群入门首选。 | data\img\celine-ava.jpg
+celine-16 | 赛琳 16包(Bag 16,手袋) | 以品牌首间工作室门牌号命名的旗舰手袋,2018年推出,翻盖方形结构、皮质细腻,做工对标高定级皮具。 | data\img\celine-16.jpg
+chanel-boy | 香奈儿 Le Boy(Boy Chanel,手袋) | 2011年推出的中性风格手袋,硬朗方型轮廓配粗链条,名字致敬香奈儿一生挚爱卡柏男孩,深受年轻客群喜爱。 | data\img\chanel-boy.jpg
+chanel-19 | 香奈儿 19手袋(Chanel 19,手袋) | 2019年问世的当代旗舰包型,以品牌诞生年份的后两位命名,软糯袋身、混色链条与浮凸双C标识,推出即成爆款。 | data\img\chanel-19.jpg
+chanel-coco-handle | 香奈儿 Coco Handle(Coco Handle,手袋) | 以创始人昵称命名的小方包,顶部皮革提手与菱格纹袋身相映,通勤优雅两相宜,常年专柜紧俏。 | data\img\chanel-coco-handle.jpg
+chanel-chance | 香奈儿 邂逅香水(Chance,香水) | 2002年前后推出的圆形瓶身女士香水,以清新花果香调著称,是香奈儿美妆线最畅销的香水系列之一。 | data\img\chanel-chance.jpg
+chloe-drew | 蔻依 Drew 小猪包(Drew Bag,手袋) | 2014年推出的圆弧鞍形包,金属链条与拼接设计温婉可人,当年红极一时的 it bag。 | data\img\chloe-drew.jpg
+chloe-marcie | 蔻依 Marcie 手袋(Marcie Bag,手袋) | 以复古马鞍缝线与圆弧翻盖著称的长青系列,皮质柔软,法式气质浓郁。 | data\img\chloe-marcie.jpg
+chloe-fragrance | 蔻依 丝带香水(Chloé Eau de Parfum,香水) | 瓶颈系着丝带的经典女香,玫瑰与牡丹花香优雅柔和,是入门女香的常年畅销款。 | data\img\chloe-fragrance.jpg

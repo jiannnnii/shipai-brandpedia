@@ -1,0 +1,227 @@
+[
+ {
+  "id": "valentino-loco",
+  "brand": "华伦天奴",
+  "name": "Locò",
+  "nameEn": "Locò",
+  "type": "手袋",
+  "desc": "2022年推出的复古运动风手袋,袋身印VLogo Signature,尼龙与皮革拼接,轻便时尚,是年轻线主力。",
+  "file": "data\\img\\valentino-loco.jpg"
+ },
+ {
+  "id": "valentino-rockstud-pump",
+  "brand": "华伦天奴",
+  "name": "铆钉高跟鞋",
+  "nameEn": "Rockstud Pump",
+  "type": "高跟鞋",
+  "desc": "鞋口缀金属铆钉的经典尖头高跟鞋,鞋跟高度多样,是红毯、婚礼与通勤的万能单品。",
+  "file": "data\\img\\valentino-rockstud-pump.jpg"
+ },
+ {
+  "id": "valentino-vltn-tee",
+  "brand": "华伦天奴",
+  "name": "VLTN印花T恤",
+  "nameEn": "VLTN T-shirt",
+  "type": "T恤",
+  "desc": "以品牌缩写VLTN为印花的棉质T恤,极简字母直击品牌态度,男女同款,是入门华伦天奴的人气单品。",
+  "file": "data\\img\\valentino-vltn-tee.jpg"
+ },
+ {
+  "id": "versace-la-medusa",
+  "brand": "范思哲",
+  "name": "美杜莎包",
+  "nameEn": "La Medusa",
+  "type": "手袋",
+  "desc": "以美杜莎头像金属牌为主角的手袋系列,致敬1990年代詹尼设计,软皮廓形轻便时髦,是品牌入门人气款。",
+  "file": "data\\img\\versace-la-medusa.jpg"
+ },
+ {
+  "id": "versace-virtus",
+  "brand": "范思哲",
+  "name": "Virtus手袋",
+  "nameEn": "Virtus",
+  "type": "手袋",
+  "desc": "2018年多纳泰拉推出的系列,大写V字母五金利落醒目,缀于袋身正面,结构挺括,是近年主力通勤包。",
+  "file": "data\\img\\versace-virtus.jpg"
+ },
+ {
+  "id": "versace-greca",
+  "brand": "范思哲",
+  "name": "希腊回纹包",
+  "nameEn": "Greca",
+  "type": "手袋",
+  "desc": "品牌标志性希腊回纹金属配件系列,链条包与托特形制丰富,回纹即品牌血脉中的古典基因。",
+  "file": "data\\img\\versace-greca.jpg"
+ },
+ {
+  "id": "versace-eros",
+  "brand": "范思哲",
+  "name": "Eros香水",
+  "nameEn": "Eros",
+  "type": "香水",
+  "desc": "2012年推出的男士香水,薄荷与香草的性感碰撞,回纹瓶身点缀美杜莎,长期畅销全球男香榜。",
+  "file": "data\\img\\versace-eros.jpg"
+ },
+ {
+  "id": "versace-dylan-blue",
+  "brand": "范思哲",
+  "name": "Dylan Blue香水",
+  "nameEn": "Dylan Blue",
+  "type": "香水",
+  "desc": "2016年推出的男女对香,蓝调瓶身配地中海气息,广告由一线男星出镜,是香水线销量支柱。",
+  "file": "data\\img\\versace-dylan-blue.jpg"
+ },
+ {
+  "id": "versace-barocco-shirt",
+  "brand": "范思哲",
+  "name": "Barocco印花衬衫",
+  "nameEn": "Barocco Shirt",
+  "type": "衬衫",
+  "desc": "以巴洛克卷草纹印花为标识的衬衫系列,真丝与弹力面料光泽华丽,是品牌最辨识度的成衣符号之一。",
+  "file": "data\\img\\versace-barocco-shirt.jpg"
+ },
+ {
+  "id": "viviennewestwood-orbnecklace",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "土星项链",
+  "nameEn": "Orb Necklace",
+  "type": "项链",
+  "desc": "三维土星造型的小巧吊坠,金属与仿珍珠组合,是品牌最具辨识度的招牌首饰。",
+  "file": "data\\img\\viviennewestwood-orbnecklace.jpg"
+ },
+ {
+  "id": "viviennewestwood-orbearrings",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "土星耳饰",
+  "nameEn": "Orb Earrings",
+  "type": "耳饰",
+  "desc": "土星元素的耳钉与耳坠,大小与配色选择丰富,日常与派对都好搭配。",
+  "file": "data\\img\\viviennewestwood-orbearrings.jpg"
+ },
+ {
+  "id": "viviennewestwood-pearlchoker",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "珍珠颈链",
+  "nameEn": "Pearl Choker",
+  "type": "颈链",
+  "desc": "复古宫廷风珍珠颈链,缀以土星吊坠,近年随千禧风潮重新翻红。",
+  "file": "data\\img\\viviennewestwood-pearlchoker.jpg"
+ },
+ {
+  "id": "viviennewestwood-tees",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "印花T恤",
+  "nameEn": "T-shirts",
+  "type": "T恤",
+  "desc": "印有品牌手写签名或土星图案的基础T恤,棉质舒适,是入门品牌的热门单品。",
+  "file": "data\\img\\viviennewestwood-tees.jpg"
+ },
+ {
+  "id": "viviennewestwood-bags",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "手袋",
+  "nameEn": "Bags",
+  "type": "手袋",
+  "desc": "格纹与土星锁扣的小方包、斜挎包人气居高不下,复古造型兼具趣味。",
+  "file": "data\\img\\viviennewestwood-bags.jpg"
+ },
+ {
+  "id": "viviennewestwood-scarves",
+  "brand": "薇薇安·韦斯特伍德",
+  "name": "围巾丝巾",
+  "nameEn": "Scarves",
+  "type": "围巾",
+  "desc": "格纹与印花丝巾延续英伦血脉,土星细节点缀,是秋冬搭配的调色单品。",
+  "file": "data\\img\\viviennewestwood-scarves.jpg"
+ },
+ {
+  "id": "yy-mainline",
+  "brand": "山本耀司",
+  "name": "主线女装",
+  "nameEn": "Yohji Yamamoto",
+  "type": "女装系列",
+  "desc": "品牌核心女装系列,以垂坠的黑色廓形、不对称下摆与精湛剪裁著称,面料肌理丰富,是暗黑美学的最高表达。",
+  "file": "data\\img\\yy-mainline.jpg"
+ },
+ {
+  "id": "yy-pourhomme",
+  "brand": "山本耀司",
+  "name": "Pour Homme 男装",
+  "nameEn": "Yohji Yamamoto Pour Homme",
+  "type": "男装系列",
+  "desc": "品牌男装主线,以宽肩长身的外套、层叠穿法与文字刺绣为特色,融合裁缝工艺与街头气质,深受全球时装爱好者追捧。",
+  "file": "data\\img\\yy-pourhomme.jpg"
+ },
+ {
+  "id": "yy-ys",
+  "brand": "山本耀司",
+  "name": "Y's 副线",
+  "nameEn": "Y's",
+  "type": "女装系列",
+  "desc": "1972 年诞生的品牌首个系列,延续黑色美学但更日常实穿,价格较主线亲民,是体验品牌剪裁功力的入门之选。",
+  "file": "data\\img\\yy-ys.jpg"
+ },
+ {
+  "id": "yy-y3",
+  "brand": "山本耀司",
+  "name": "Y-3 运动系列",
+  "nameEn": "Y-3",
+  "type": "运动系列",
+  "desc": "与阿迪达斯合作的运动时装线,以 Y-3 字标与黑色科技面料为标志,运动鞋与外套人气最高,是高端运动风格的代表。",
+  "file": "data\\img\\yy-y3.jpg"
+ },
+ {
+  "id": "yy-groundy",
+  "brand": "山本耀司",
+  "name": "Ground Y",
+  "nameEn": "Ground Y",
+  "type": "潮流副线",
+  "desc": "面向年轻客群的潮流副线,以街头文化为灵感,标志性 Y 字标卫衣与廓形外套价格友好,是品牌年轻化的重要一环。",
+  "file": "data\\img\\yy-groundy.jpg"
+ },
+ {
+  "id": "zegna-triple-stitch",
+  "brand": "杰尼亚",
+  "name": "Triple Stitch乐福鞋",
+  "nameEn": "Triple Stitch",
+  "type": "乐福鞋",
+  "desc": "2021年推出的弹性织面乐福鞋,一脚蹬设计配柔软鹿皮,可正式可休闲,是品牌近年最出圈的鞋款。",
+  "file": "data\\img\\zegna-triple-stitch.jpg"
+ },
+ {
+  "id": "zegna-oasi-cashmere",
+  "brand": "杰尼亚",
+  "name": "Oasi Cashmere羊绒衫",
+  "nameEn": "Oasi Cashmere",
+  "type": "羊绒衫",
+  "desc": "品牌标志性羊绒系列,纤维源自可追溯供应链,手感软糯细腻,圆领与开衫形制丰富,是衣橱投资单品。",
+  "file": "data\\img\\zegna-oasi-cashmere.jpg"
+ },
+ {
+  "id": "zegna-oasi-coat",
+  "brand": "杰尼亚",
+  "name": "Oasi羊绒大衣",
+  "nameEn": "Cashmere Coat",
+  "type": "大衣",
+  "desc": "以Oasi羊绒制成的经典男装大衣,重磅面料配极简剪裁,气场与保暖兼备,是冬季衣橱的终极投资。",
+  "file": "data\\img\\zegna-oasi-coat.jpg"
+ },
+ {
+  "id": "zegna-mtm",
+  "brand": "杰尼亚",
+  "name": "高级定制西装",
+  "nameEn": "Made to Measure",
+  "type": "定制西装",
+  "desc": "品牌招牌定制服务,全球门店量体,上百种面料可选,数周交付合身成衣,是政商人士的正装首选。",
+  "file": "data\\img\\zegna-mtm.jpg"
+ },
+ {
+  "id": "zegna-trofeo",
+  "brand": "杰尼亚",
+  "name": "Trofeo系列西装",
+  "nameEn": "Trofeo",
+  "type": "西装",
+  "desc": "以品牌研发的Trofeo羊毛面料制成的成衣西装,面料抗皱透气,版型现代利落,是男士商务衣橱的中坚单品。",
+  "file": "data\\img\\zegna-trofeo.jpg"
+ }
+]

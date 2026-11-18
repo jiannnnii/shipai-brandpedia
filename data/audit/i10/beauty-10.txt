@@ -1,0 +1,10 @@
+lancome-la-vie-est-belle | 兰蔻 珍爱香水(La Vie Est Belle,香水) | 兰蔻现象级女香,以甜美美食调著称,瓶身取水晶微笑意象,自上市以来一直是全球女香畅销榜的常客。 | data\img\lancome-la-vie-est-belle.jpg
+lancome-genifique-eye | 兰蔻 小黑瓶眼霜(Advanced Génifique Eye Cream,眼霜) | 小黑瓶家族的眼部版本,质地轻盈易推开,主打改善眼周细纹与倦容,是兰蔻眼部护理的人气之选。 | data\img\lancome-genifique-eye.jpg
+loreal-paris-youth-code | 欧莱雅 青春密码酵粹精华(Youth Code,精华) | 被称为小黑瓶平替的国民精华,以酵母精粹为核心,主打细腻肌肤、帮助后续吸收,价格亲民,是电商精华类的长青爆款。 | data\img\loreal-paris-youth-code.jpg
+loreal-paris-ampoule-mask | 欧莱雅 复颜安瓶面膜(Revitalift Ampoule Mask,面膜) | 以足量玻尿酸精华浸润的片状面膜,主打密集补水、敷后水润透亮,单片价格亲民,是平价面膜里的口碑爆款。 | data\img\loreal-paris-ampoule-mask.jpg
+loreal-paris-infallible | 欧莱雅 恒放溢彩持妆粉底液(Infallible 24H Fresh Wear,粉底液) | 主打长时间持妆不脱妆的开架粉底,色号丰富、价格亲民、妆效自然,常年是大牌开架粉底的销量担当。 | data\img\loreal-paris-infallible.jpg
+loreal-paris-uv-perfect | 欧莱雅 小金管防晒乳(UV Perfect,防晒) | 携集团防晒滤剂科技的大众防晒,SPF50+高倍防护、质地清润,价格亲民,是通勤日常的高性价比之选。 | data\img\loreal-paris-uv-perfect.jpg
+mac-chili | 魅可 子弹头 Chili 小辣椒(Matte Lipstick Chili,口红) | 砖红显白的中文网络初代网红色。 | data\img\mac-chili.jpg
+mac-fixplus | 魅可 Fix+ 定妆喷雾(Prep + Prime Fix+,定妆喷雾) | 化妆师后台万能喷雾,定妆提亮两相宜。 | data\img\mac-fixplus.jpg
+mac-lipglass | 魅可 Lipglass 唇彩(Lipglass,唇彩) | 镜面玻璃唇的发明者,Y2K 妆容回归的宠儿。 | data\img\mac-lipglass.jpg
+maxfactor-foundation | 蜜丝佛陀 莹亮润泽粉底液(Miracle Touch,粉底) | 奶油肌开架粉底,中国专柜的经典畅销。 | data\img\maxfactor-foundation.jpg

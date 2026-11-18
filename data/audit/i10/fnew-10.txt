@@ -1,0 +1,10 @@
+im-pleatsplease | 三宅一生 Pleats Please 褶皱系列(Pleats Please,女装系列) | 1993 年问世的经典褶皱线,聚酯面料经热压定型后可自由舒展,轻便抗皱、易于收纳,连衣裙与阔腿裤是最热门的品类。 | data\img\im-pleatsplease.jpg
+im-me | 三宅一生 me ISSEY MIYAKE(me ISSEY MIYAKE,女装系列) | 定位年轻的女装副线,以日常褶皱与弹性面料为主,价格较主线亲民,设计简洁实用,是入门品牌的理想选择。 | data\img\im-me.jpg
+im-mainline | 三宅一生 ISSEY MIYAKE 主线(ISSEY MIYAKE,女装系列) | 品牌核心系列,延续立体剪裁与新材料实验,每季以织物研究为主题,廓形前卫而实穿,代表日本设计的最高水准之一。 | data\img\im-mainline.jpg
+jpg-lemale | 高缇耶 Le Male 男士香水(Le Male,香水) | 1995 年推出的经典男香,以薰衣草与香草的组合造就性感东方调,水手服造型的躯干瓶身辨识度极高,是全球销量最高的男香之一 | data\img\jpg-lemale.jpg
+jpg-labelle | 高缇耶 La Belle 香水(La Belle,香水) | 以梨子与琥珀构成甜美果香调,裸色躯干瓶身延续品牌符号,定位性感迷人的现代女性,是品牌香水矩阵中的甜美担当。 | data\img\jpg-labelle.jpg
+jc-romy | 吉米·周 Romy 高跟鞋(Romy Pump,高跟鞋) | 圆润鞋头搭配流畅弧线的经典鞋型,提供 60 至 120 毫米多种跟高,漆皮与闪面材质选择丰富,是品牌销量最高的基础款之一 | data\img\jc-romy.jpg
+jc-anouk | 吉米·周 Anouk 高跟鞋(Anouk Pump,高跟鞋) | 120 毫米细跟搭配尖锐鞋头,鞋身线条利落,常见亮片与渐变闪面版本,是红毯造型的常客。 | data\img\jc-anouk.jpg
+jc-diamond | 吉米·周 Diamond 运动鞋(Diamond Sneaker,运动鞋) | 以钻石切面为灵感的几何厚底运动鞋,鞋底与鞋身由多边形拼接,辨识度极高,将晚装美学注入运动鞋设计。 | data\img\jc-diamond.jpg
+jnby-dress | 江南布衣 设计师连衣裙(Designer Dress,连衣裙) | 以不对称剪裁、褶皱与垂坠面料著称,版型松弛包容多种身形,设计语言克制而独特,是品牌最核心的品类。 | data\img\jnby-dress.jpg
+jnby-coat | 江南布衣 廓形外套(Oversized Coat,外套) | 以落肩加长廓形与面料肌理为特色,常见棉麻与羊毛混纺材质,兼顾保暖与造型感,是秋冬陈列的主角。 | data\img\jnby-coat.jpg

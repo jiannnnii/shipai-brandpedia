@@ -1,0 +1,92 @@
+[
+ {
+  "id": "bc-scarf",
+  "brand": "布鲁内罗·库奇内利",
+  "name": "羊绒围巾",
+  "nameEn": "Cashmere Scarf",
+  "type": "围巾",
+  "desc": "采用加厚山羊绒织造,边缘手工收口,颜色以驼色、灰色等自然色调为主,规格宽大,保暖性与光泽感俱佳。",
+  "file": "data\\img\\bc-scarf.jpg"
+ },
+ {
+  "id": "burberry-trenchcoat",
+  "brand": "博柏利",
+  "name": "经典 Trench 风衣",
+  "nameEn": "Trench Coat",
+  "type": "风衣",
+  "desc": "品牌灵魂单品,嘎巴甸面料防风防雨,双排扣、腰带领结细节考究,切尔西与肯辛顿版型最为热销。",
+  "file": "data\\img\\burberry-trenchcoat.jpg"
+ },
+ {
+  "id": "burberry-scarf",
+  "brand": "博柏利",
+  "name": "格纹羊绒围巾",
+  "nameEn": "Classic Cashmere Scarf",
+  "type": "围巾",
+  "desc": "苏格兰织造的纯羊绒围巾,经典驼色格纹一眼即识,手感柔软保暖,是送礼首选的入门单品。",
+  "file": "data\\img\\burberry-scarf.jpg"
+ },
+ {
+  "id": "burberry-tbbag",
+  "brand": "博柏利",
+  "name": "TB 专属标识手袋",
+  "nameEn": "TB Bag",
+  "type": "手袋",
+  "desc": "以创始人 Thomas Burberry 缩写打造的专属标识锁扣手袋,线条简约,兼具通勤与休闲多种场景。",
+  "file": "data\\img\\burberry-tbbag.jpg"
+ },
+ {
+  "id": "burberry-coat",
+  "brand": "博柏利",
+  "name": "格纹羊绒大衣",
+  "nameEn": "Cashmere Coat",
+  "type": "大衣",
+  "desc": "冬季主打单品,羊绒或羊毛混纺质地,格纹内衬或撞色格纹设计,保暖与气场兼备。",
+  "file": "data\\img\\burberry-coat.jpg"
+ },
+ {
+  "id": "burberry-fragrance",
+  "brand": "博柏利",
+  "name": "香水",
+  "nameEn": "Fragrance",
+  "type": "香水",
+  "desc": "以 My Burberry、Hero、Goddess 等为代表的香水线,英伦花园气息与摩登木质调并存,瓶身延续经典设计元",
+  "file": "data\\img\\burberry-fragrance.jpg"
+ },
+ {
+  "id": "cb-hoodie",
+  "brand": "卡宾",
+  "name": "潮流卫衣",
+  "nameEn": "Hoodie",
+  "type": "卫衣",
+  "desc": "以品牌字标与涂鸦印花为特色,加绒与薄款覆盖不同季节,版型宽松舒适,是年轻客群的高频购买单品。",
+  "file": "data\\img\\cb-hoodie.jpg"
+ },
+ {
+  "id": "cb-pants",
+  "brand": "卡宾",
+  "name": "休闲裤装",
+  "nameEn": "Casual Pants",
+  "type": "裤装",
+  "desc": "以修身锥形与工装版型为主,弹力面料保证活动度,细节处点缀品牌元素,是整体穿搭中实用度最高的品类。",
+  "file": "data\\img\\cb-pants.jpg"
+ },
+ {
+  "id": "cb-coat",
+  "brand": "卡宾",
+  "name": "潮流大衣",
+  "nameEn": "Trend Coat",
+  "type": "大衣",
+  "desc": "以羊毛混纺与新型面料结合,廓形偏宽,融入国风盘扣或徽章刺绣,秋冬主打设计感与保暖并重。",
+  "file": "data\\img\\cb-coat.jpg"
+ },
+ {
+  "id": "calvinklein-underwear",
+  "brand": "卡尔文·克雷恩",
+  "name": "内衣系列",
+  "nameEn": "Underwear",
+  "type": "内衣",
+  "desc": "腰间 CK 织标内裤与内衣是品牌招牌,棉质舒适、剪裁贴身,几乎是无人不识的经典。",
+  "file": "data\\img\\calvinklein-underwear.jpg"
+ }
+]

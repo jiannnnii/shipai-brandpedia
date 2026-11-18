@@ -1,0 +1,982 @@
+[
+ {
+  "id": "adidas-superstar",
+  "verdict": "ok",
+  "note": "贝壳头板鞋清晰"
+ },
+ {
+  "id": "adidas-samba",
+  "verdict": "mismatch",
+  "note": "广告海报无产品"
+ },
+ {
+  "id": "adidas-gazelle",
+  "verdict": "mismatch",
+  "note": "服饰广告无鞋"
+ },
+ {
+  "id": "adidas-ultraboost",
+  "verdict": "mismatch",
+  "note": "复古慢跑鞋非UB"
+ },
+ {
+  "id": "adidas-adizero",
+  "verdict": "mismatch",
+  "note": "海报鞋过小不辨"
+ },
+ {
+  "id": "-apparel",
+  "verdict": "mismatch",
+  "note": "抽象PPT背景图"
+ },
+ {
+  "id": "-international",
+  "verdict": "mismatch",
+  "note": "农田收割机场景"
+ },
+ {
+  "id": "adidas-stan-smith",
+  "verdict": "logo",
+  "note": "门店招牌非产品"
+ },
+ {
+  "id": "-feiran",
+  "verdict": "mismatch",
+  "note": "卡通列车插画,无跑鞋"
+ },
+ {
+  "id": "anta-kt",
+  "verdict": "mismatch",
+  "note": "CBA广告非KT鞋"
+ },
+ {
+  "id": "anta-c202",
+  "verdict": "mismatch",
+  "note": "板鞋非C202跑鞋"
+ },
+ {
+  "id": "anta-hydrogen",
+  "verdict": "logo",
+  "note": "仅品牌logo"
+ },
+ {
+  "id": "anta-champions",
+  "verdict": "ok",
+  "note": "安踏时尚服饰走秀"
+ },
+ {
+  "id": "anta-kids",
+  "verdict": "mismatch",
+  "note": "成人鞋非童装"
+ },
+ {
+  "id": "anta-apparel",
+  "verdict": "logo",
+  "note": "安踏标志图"
+ },
+ {
+  "id": "arcteryx-alpha-sv",
+  "verdict": "mismatch",
+  "note": "手写彩票纸"
+ },
+ {
+  "id": "arcteryx-beta-lt",
+  "verdict": "mismatch",
+  "note": "始祖鸟化石插画"
+ },
+ {
+  "id": "arcteryx-atom",
+  "verdict": "mismatch",
+  "note": "硬壳非中间层"
+ },
+ {
+  "id": "arcteryx-cerium",
+  "verdict": "logo",
+  "note": "品牌山景海报"
+ },
+ {
+  "id": "arcteryx-gamma",
+  "verdict": "ok",
+  "note": "始祖鸟外套可辨"
+ },
+ {
+  "id": "arena-training-suit",
+  "verdict": "mismatch",
+  "note": "虎鲸图无关"
+ },
+ {
+  "id": "arena-powerfin",
+  "verdict": "mismatch",
+  "note": "历史人物画无关"
+ },
+ {
+  "id": "arena-cap",
+  "verdict": "mismatch",
+  "note": "海景图无关"
+ },
+ {
+  "id": "asics-gel-kayano",
+  "verdict": "mismatch",
+  "note": "404占位图"
+ },
+ {
+  "id": "asics-gt-2000",
+  "verdict": "mismatch",
+  "note": "山景与产品无关"
+ },
+ {
+  "id": "asics-novablast",
+  "verdict": "mismatch",
+  "note": "金币文物无关"
+ },
+ {
+  "id": "asics-metaspeed",
+  "verdict": "mismatch",
+  "note": "京都地图无关"
+ },
+ {
+  "id": "asics-gel-1130",
+  "verdict": "mismatch",
+  "note": "游戏插画无关"
+ },
+ {
+  "id": "asics-gel-lyte-iii",
+  "verdict": "mismatch",
+  "note": "海上丝绸之路地图无关"
+ },
+ {
+  "id": "bd-trekking-poles",
+  "verdict": "mismatch",
+  "note": "海岸风景图无关"
+ },
+ {
+  "id": "bd-ice-tools",
+  "verdict": "mismatch",
+  "note": "表格图完全无关"
+ },
+ {
+  "id": "brooks-glycerin",
+  "verdict": "mismatch",
+  "note": "篮球运动员照片"
+ },
+ {
+  "id": "brooks-adrenaline-gts",
+  "verdict": "mismatch",
+  "note": "动漫画集无关"
+ },
+ {
+  "id": "brooks-hyperion",
+  "verdict": "mismatch",
+  "note": "手抄报模板无关"
+ },
+ {
+  "id": "brooks-launch",
+  "verdict": "mismatch",
+  "note": "表情包截图无关"
+ },
+ {
+  "id": "brooks-cascadia",
+  "verdict": "mismatch",
+  "note": "湖泊山景无关"
+ },
+ {
+  "id": "burton-custom",
+  "verdict": "mismatch",
+  "note": "2024新年日历无关"
+ },
+ {
+  "id": "burton-process",
+  "verdict": "mismatch",
+  "note": "紫色庄园风景无关"
+ },
+ {
+  "id": "burton-cartel",
+  "verdict": "mismatch",
+  "note": "舞台民族表演无关"
+ },
+ {
+  "id": "burton-jacket",
+  "verdict": "mismatch",
+  "note": "电动车广告图"
+ },
+ {
+  "id": "burton-wheelie",
+  "verdict": "mismatch",
+  "note": "作品集封面拼图"
+ },
+ {
+  "id": "columbia-omni-heat",
+  "verdict": "mismatch",
+  "note": "湖泊风景照"
+ },
+ {
+  "id": "columbia-newton-ridge",
+  "verdict": "mismatch",
+  "note": "城市风光图"
+ },
+ {
+  "id": "converse-chuck-taylor-all-star",
+  "verdict": "mismatch",
+  "note": "是One Star非Chuck Taylor"
+ },
+ {
+  "id": "converse-chuck-70",
+  "verdict": "ok",
+  "note": "1970s鞋款清晰"
+ },
+ {
+  "id": "converse-one-star",
+  "verdict": "mismatch",
+  "note": "高帮非低帮麂皮"
+ },
+ {
+  "id": "converse-jack-purcell",
+  "verdict": "mismatch",
+  "note": "一星鞋非开口笑"
+ },
+ {
+  "id": "converse-run-star-hike",
+  "verdict": "mismatch",
+  "note": "PPT模板无关"
+ },
+ {
+  "id": "decathlon-quechua",
+  "verdict": "logo",
+  "note": "门店招牌非产品"
+ },
+ {
+  "id": "decathlon-kipsta",
+  "verdict": "logo",
+  "note": "门店招牌非产品"
+ },
+ {
+  "id": "decathlon-btwin",
+  "verdict": "logo",
+  "note": "门店招牌非产品"
+ },
+ {
+  "id": "decathlon-kalenji",
+  "verdict": "mismatch",
+  "note": "猫咪图片无关"
+ },
+ {
+  "id": "decathlon-forclaz",
+  "verdict": "mismatch",
+  "note": "军训照片无关"
+ },
+ {
+  "id": "decathlon-nabaiji",
+  "verdict": "mismatch",
+  "note": "药瓶图片"
+ },
+ {
+  "id": "descente-ski-wear",
+  "verdict": "mismatch",
+  "note": "茶杯图片"
+ },
+ {
+  "id": "descente-allterrain",
+  "verdict": "mismatch",
+  "note": "电阻元件图"
+ },
+ {
+  "id": "descente-running",
+  "verdict": "mismatch",
+  "note": "黄石公园风景"
+ },
+ {
+  "id": "descente-training",
+  "verdict": "mismatch",
+  "note": "物流单据图片"
+ },
+ {
+  "id": "descente-kids",
+  "verdict": "mismatch",
+  "note": "原神角色海报,无关"
+ },
+ {
+  "id": "erke-qitan",
+  "verdict": "mismatch",
+  "note": "伍六七联名滑板鞋,非奇弹跑鞋"
+ },
+ {
+  "id": "erke-walking",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "erke-basketball",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "erke-tshirt",
+  "verdict": "mismatch",
+  "note": "是奇弹跑鞋,非T恤"
+ },
+ {
+  "id": "erke-jacket",
+  "verdict": "mismatch",
+  "note": "走秀拼图非尔克"
+ },
+ {
+  "id": "erke-kids",
+  "verdict": "logo",
+  "note": "仅品牌logo"
+ },
+ {
+  "id": "fila-disruptor",
+  "verdict": "mismatch",
+  "note": "图标素材无关"
+ },
+ {
+  "id": "fila-original-tennis",
+  "verdict": "mismatch",
+  "note": "体态科普图"
+ },
+ {
+  "id": "fila-ray",
+  "verdict": "mismatch",
+  "note": "中国地图无关"
+ },
+ {
+  "id": "fila-fleece-set",
+  "verdict": "mismatch",
+  "note": "动漫插画无关"
+ },
+ {
+  "id": "fila-kids",
+  "verdict": "mismatch",
+  "note": "山姆大叔海报无关"
+ },
+ {
+  "id": "garmin-fenix",
+  "verdict": "mismatch",
+  "note": "活动合影无关"
+ },
+ {
+  "id": "garmin-instinct",
+  "verdict": "mismatch",
+  "note": "游戏截图无关"
+ },
+ {
+  "id": "garmin-edge",
+  "verdict": "mismatch",
+  "note": "游戏角色无关"
+ },
+ {
+  "id": "garmin-venu",
+  "verdict": "mismatch",
+  "note": "长城无关图"
+ },
+ {
+  "id": "head-speed",
+  "verdict": "mismatch",
+  "note": "鞭炮插画"
+ },
+ {
+  "id": "head-radical",
+  "verdict": "mismatch",
+  "note": "麻将牌图"
+ },
+ {
+  "id": "head-skis",
+  "verdict": "mismatch",
+  "note": "雪山风景"
+ },
+ {
+  "id": "head-penn",
+  "verdict": "mismatch",
+  "note": "LS电气公告"
+ },
+ {
+  "id": "head-helmets",
+  "verdict": "mismatch",
+  "note": "电线载流量表格"
+ },
+ {
+  "id": "head-tyrolia",
+  "verdict": "mismatch",
+  "note": "凯旋门风景照"
+ },
+ {
+  "id": "hoka-clifton",
+  "verdict": "mismatch",
+  "note": "施耐庵塑像"
+ },
+ {
+  "id": "hoka-bondi",
+  "verdict": "mismatch",
+  "note": "竹林风景照"
+ },
+ {
+  "id": "hoka-speedgoat",
+  "verdict": "mismatch",
+  "note": "历史黑白照片"
+ },
+ {
+  "id": "hoka-mach",
+  "verdict": "mismatch",
+  "note": "充电桩照片"
+ },
+ {
+  "id": "hoka-cielo-x1",
+  "verdict": "mismatch",
+  "note": "樱花石桥风景"
+ },
+ {
+  "id": "hoka-arahi",
+  "verdict": "mismatch",
+  "note": "游戏角色截图"
+ },
+ {
+  "id": "kailas-fuga",
+  "verdict": "mismatch",
+  "note": "游戏角色立绘"
+ },
+ {
+  "id": "kailas-climbing-harness",
+  "verdict": "mismatch",
+  "note": "水池植物景观"
+ },
+ {
+  "id": "kailas-shell-jacket",
+  "verdict": "mismatch",
+  "note": "游戏角色海报"
+ },
+ {
+  "id": "kailas-hiking-boots",
+  "verdict": "mismatch",
+  "note": "游戏角色海报"
+ },
+ {
+  "id": "kailas-backpack",
+  "verdict": "mismatch",
+  "note": "游戏角色截图"
+ },
+ {
+  "id": "lining-chaoqing",
+  "verdict": "mismatch",
+  "note": "空白无内容"
+ },
+ {
+  "id": "lining-badfive",
+  "verdict": "mismatch",
+  "note": "数据表格图"
+ },
+ {
+  "id": "lining-yushuai",
+  "verdict": "mismatch",
+  "note": "货轮照片"
+ },
+ {
+  "id": "lululemon-abc-pants",
+  "verdict": "mismatch",
+  "note": "城市夜景桥"
+ },
+ {
+  "id": "lululemon-scuba",
+  "verdict": "mismatch",
+  "note": "教育部发布会"
+ },
+ {
+  "id": "lululemon-define",
+  "verdict": "mismatch",
+  "note": "人物街拍无关"
+ },
+ {
+  "id": "lululemon-yoga-mat",
+  "verdict": "mismatch",
+  "note": "展会logo招牌"
+ },
+ {
+  "id": "mammut-barryvox",
+  "verdict": "mismatch",
+  "note": "瑞士卷食品图"
+ },
+ {
+  "id": "marmot-rocklin",
+  "verdict": "mismatch",
+  "note": "泥土背景图"
+ },
+ {
+  "id": "merrell-moab",
+  "verdict": "mismatch",
+  "note": "木托管道垫木"
+ },
+ {
+  "id": "merrell-agility",
+  "verdict": "mismatch",
+  "note": "摩擦力动画截图"
+ },
+ {
+  "id": "merrell-hiking-boots",
+  "verdict": "mismatch",
+  "note": "梅西足球照片"
+ },
+ {
+  "id": "merrell-vapor-glove",
+  "verdict": "mismatch",
+  "note": "图为麻辣面食"
+ },
+ {
+  "id": "mizuno-wave-prophecy",
+  "verdict": "logo",
+  "note": "美津浓logo图"
+ },
+ {
+  "id": "mizuno-morelia",
+  "verdict": "mismatch",
+  "note": "跑鞋非足球鞋"
+ },
+ {
+  "id": "mizuno-global-elite",
+  "verdict": "logo",
+  "note": "美津浓logo图"
+ },
+ {
+  "id": "mizuno-jpx",
+  "verdict": "mismatch",
+  "note": "鞋盒Wave Rider跑鞋"
+ },
+ {
+  "id": "newbalance-574",
+  "verdict": "mismatch",
+  "note": "动漫风景画"
+ },
+ {
+  "id": "newbalance-530",
+  "verdict": "mismatch",
+  "note": "药品包装盒"
+ },
+ {
+  "id": "newbalance-2002r",
+  "verdict": "mismatch",
+  "note": "斯诺克选手照片"
+ },
+ {
+  "id": "newbalance-1906r",
+  "verdict": "mismatch",
+  "note": "卡通小马插画"
+ },
+ {
+  "id": "nike-airforce1",
+  "verdict": "mismatch",
+  "note": "荧光绿跑步鞋非AF1"
+ },
+ {
+  "id": "mizuno-wave-lightning",
+  "verdict": "mismatch",
+  "note": "跑鞋非排球鞋"
+ },
+ {
+  "id": "montbell-wind-shell",
+  "verdict": "mismatch",
+  "note": "游戏截图无关"
+ },
+ {
+  "id": "montbell-zeoline",
+  "verdict": "mismatch",
+  "note": "山景照片非产品"
+ },
+ {
+  "id": "montbell-titanium-cookware",
+  "verdict": "mismatch",
+  "note": "图为黑色棍状物非钛餐具"
+ },
+ {
+  "id": "nike-airjordan1",
+  "verdict": "logo",
+  "note": "飞人标志拼图"
+ },
+ {
+  "id": "nike-pegasus",
+  "verdict": "ok",
+  "note": "跑步上脚可辨"
+ },
+ {
+  "id": "nike-dunk",
+  "verdict": "logo",
+  "note": "耐克标牌"
+ },
+ {
+  "id": "on-cloud",
+  "verdict": "mismatch",
+  "note": "黑胶唱片无关"
+ },
+ {
+  "id": "on-cloudmonster",
+  "verdict": "mismatch",
+  "note": "饺子美食图"
+ },
+ {
+  "id": "on-cloudsurfer",
+  "verdict": "mismatch",
+  "note": "乐谱图片"
+ },
+ {
+  "id": "patagonia-down-sweater",
+  "verdict": "mismatch",
+  "note": "保健品瓶"
+ },
+ {
+  "id": "patagonia-retro-x",
+  "verdict": "mismatch",
+  "note": "航天展台"
+ },
+ {
+  "id": "patagonia-snap-t",
+  "verdict": "mismatch",
+  "note": "篮球运动员"
+ },
+ {
+  "id": "peak-taichi-running",
+  "verdict": "mismatch",
+  "note": "人物自拍"
+ },
+ {
+  "id": "peak-taichi-slippers",
+  "verdict": "mismatch",
+  "note": "恐怖剧照无关"
+ },
+ {
+  "id": "peak-tp9",
+  "verdict": "mismatch",
+  "note": "猫咪图无关"
+ },
+ {
+  "id": "peak-dh",
+  "verdict": "mismatch",
+  "note": "人像写真无关"
+ },
+ {
+  "id": "peak-basketball",
+  "verdict": "mismatch",
+  "note": "动漫拼图无关"
+ },
+ {
+  "id": "peak-sportswear",
+  "verdict": "mismatch",
+  "note": "人像写真无关"
+ },
+ {
+  "id": "puma-suede",
+  "verdict": "mismatch",
+  "note": "是足球钉鞋非Suede"
+ },
+ {
+  "id": "puma-rs-x",
+  "verdict": "mismatch",
+  "note": "白色中帮鞋非RS-X"
+ },
+ {
+  "id": "puma-palermo",
+  "verdict": "mismatch",
+  "note": "Basket款非Palermo"
+ },
+ {
+  "id": "puma-speedcat",
+  "verdict": "mismatch",
+  "note": "复古慢跑鞋非赛车鞋"
+ },
+ {
+  "id": "puma-deviate-nitro",
+  "verdict": "ok",
+  "note": "NITRO竞速跑鞋实物"
+ },
+ {
+  "id": "puma-king",
+  "verdict": "mismatch",
+  "note": "跑鞋非King足球鞋"
+ },
+ {
+  "id": "puma-mb",
+  "verdict": "mismatch",
+  "note": "板鞋非MB篮球鞋"
+ },
+ {
+  "id": "rockbros-sunglasses",
+  "verdict": "mismatch",
+  "note": "机械图纸"
+ },
+ {
+  "id": "rockbros-bike-bag",
+  "verdict": "mismatch",
+  "note": "吉他谱"
+ },
+ {
+  "id": "rockbros-helmet",
+  "verdict": "mismatch",
+  "note": "风景照片"
+ },
+ {
+  "id": "rockbros-phone-mount",
+  "verdict": "mismatch",
+  "note": "语文试卷截图"
+ },
+ {
+  "id": "rockbros-pump",
+  "verdict": "mismatch",
+  "note": "人物腹部照片"
+ },
+ {
+  "id": "salomon-xt-6",
+  "verdict": "mismatch",
+  "note": "网球运动员照片"
+ },
+ {
+  "id": "salomon-xt-4",
+  "verdict": "mismatch",
+  "note": "DNA背景素材图"
+ },
+ {
+  "id": "salomon-speedcross",
+  "verdict": "mismatch",
+  "note": "风景绘画图片"
+ },
+ {
+  "id": "salomon-x-ultra",
+  "verdict": "mismatch",
+  "note": "西湖风景照"
+ },
+ {
+  "id": "salomon-xa-pro-3d",
+  "verdict": "mismatch",
+  "note": "防护服人员合影"
+ },
+ {
+  "id": "saucony-endorphin",
+  "verdict": "mismatch",
+  "note": "中式屏风玄关"
+ },
+ {
+  "id": "saucony-triumph",
+  "verdict": "mismatch",
+  "note": "管道锈蚀特写"
+ },
+ {
+  "id": "saucony-guide",
+  "verdict": "mismatch",
+  "note": "伍尔特羊角锤"
+ },
+ {
+  "id": "saucony-kinvara",
+  "verdict": "mismatch",
+  "note": "奥迪汽车广告图"
+ },
+ {
+  "id": "saucony-ride",
+  "verdict": "mismatch",
+  "note": "地漏五金图纸"
+ },
+ {
+  "id": "saucony-shadow",
+  "verdict": "mismatch",
+  "note": "电梯井道示意图"
+ },
+ {
+  "id": "snowpeak-amenity-dome",
+  "verdict": "mismatch",
+  "note": "影视截图拼图"
+ },
+ {
+  "id": "snowpeak-titanium-cookware",
+  "verdict": "mismatch",
+  "note": "桌面整理壁纸"
+ },
+ {
+  "id": "snowpeak-lantern",
+  "verdict": "mismatch",
+  "note": "动漫风景画无关"
+ },
+ {
+  "id": "snowpeak-takibi-apparel",
+  "verdict": "mismatch",
+  "note": "2026年历无关"
+ },
+ {
+  "id": "spalding-nba-game-ball",
+  "verdict": "mismatch",
+  "note": "AI生成物流仓库图"
+ },
+ {
+  "id": "spalding-tf-1000",
+  "verdict": "mismatch",
+  "note": "长征精神宣传海报"
+ },
+ {
+  "id": "spalding-neverflat",
+  "verdict": "mismatch",
+  "note": "博物馆展厅效果图"
+ },
+ {
+  "id": "spalding-portable-hoop",
+  "verdict": "mismatch",
+  "note": "人脸特写无关图"
+ },
+ {
+  "id": "spalding-rookie",
+  "verdict": "mismatch",
+  "note": "动物照片无关"
+ },
+ {
+  "id": "speedo-endurance-plus",
+  "verdict": "mismatch",
+  "note": "天安门照片无关"
+ },
+ {
+  "id": "speedo-biofuse",
+  "verdict": "mismatch",
+  "note": "青蛙照片无关"
+ },
+ {
+  "id": "speedo-training-fin",
+  "verdict": "mismatch",
+  "note": "人物自拍无关"
+ },
+ {
+  "id": "speedo-fitness-swimsuit",
+  "verdict": "mismatch",
+  "note": "工业设备图"
+ },
+ {
+  "id": "thenorthface-1996-nuptse",
+  "verdict": "logo",
+  "note": "纯品牌logo图"
+ },
+ {
+  "id": "thenorthface-1990-mountain-jacket",
+  "verdict": "mismatch",
+  "note": "羽绒服非1990夹克"
+ },
+ {
+  "id": "thenorthface-summit-series",
+  "verdict": "mismatch",
+  "note": "Nuptse营销海报"
+ },
+ {
+  "id": "thenorthface-futurelight",
+  "verdict": "mismatch",
+  "note": "帐篷非冲锋衣"
+ },
+ {
+  "id": "thenorthface-denali",
+  "verdict": "mismatch",
+  "note": "是羽绒服非抓绒"
+ },
+ {
+  "id": "thenorthface-vectiv",
+  "verdict": "mismatch",
+  "note": "T恤帽子非跑鞋"
+ },
+ {
+  "id": "thenorthface-borealis",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "toread-3in1-jacket",
+  "verdict": "mismatch",
+  "note": "动漫插画无关"
+ },
+ {
+  "id": "toread-down-jacket",
+  "verdict": "mismatch",
+  "note": "白酒产品图"
+ },
+ {
+  "id": "toread-hiking-shoes",
+  "verdict": "mismatch",
+  "note": "儿童赛跑卡通画"
+ },
+ {
+  "id": "toread-fleece",
+  "verdict": "mismatch",
+  "note": "炸药科研图"
+ },
+ {
+  "id": "toread-quick-dry-tee",
+  "verdict": "mismatch",
+  "note": "山脉风景图"
+ },
+ {
+  "id": "toread-backpack",
+  "verdict": "mismatch",
+  "note": "物联网监测方案图"
+ },
+ {
+  "id": "vans-old-skool",
+  "verdict": "mismatch",
+  "note": "政府机关大门"
+ },
+ {
+  "id": "vans-authentic",
+  "verdict": "mismatch",
+  "note": "光谱传感器图"
+ },
+ {
+  "id": "vans-slip-on",
+  "verdict": "mismatch",
+  "note": "茶叶溯源流程图"
+ },
+ {
+  "id": "vans-half-cab",
+  "verdict": "mismatch",
+  "note": "火山湖风景图"
+ },
+ {
+  "id": "wilson-pro-staff",
+  "verdict": "mismatch",
+  "note": "海岸灯塔风景图"
+ },
+ {
+  "id": "wilson-clash",
+  "verdict": "mismatch",
+  "note": "电子发票截图"
+ },
+ {
+  "id": "wilson-a2000",
+  "verdict": "mismatch",
+  "note": "卡通图案无关"
+ },
+ {
+  "id": "wilson-nfl-football",
+  "verdict": "mismatch",
+  "note": "姓名贴模板无关"
+ },
+ {
+  "id": "wilson-evolution",
+  "verdict": "mismatch",
+  "note": "点心照片无关"
+ },
+ {
+  "id": "xtep-160x",
+  "verdict": "mismatch",
+  "note": "鞋为2000KM 2.0"
+ },
+ {
+  "id": "xtep-260",
+  "verdict": "mismatch",
+  "note": "鞋为160X 5.0 PRO"
+ },
+ {
+  "id": "yonex-astrox",
+  "verdict": "mismatch",
+  "note": "手绘像素画无关"
+ },
+ {
+  "id": "yonex-nanoflare",
+  "verdict": "mismatch",
+  "note": "黄铜球阀无关"
+ },
+ {
+  "id": "yonex-power-cushion",
+  "verdict": "mismatch",
+  "note": "历史人物照片无关"
+ },
+ {
+  "id": "yonex-aerosensa",
+  "verdict": "mismatch",
+  "note": "用餐女子无关"
+ }
+]

@@ -1,0 +1,10 @@
+kerastase-genifique | 卡诗 头皮精华(Initialiste,头皮精华) | 把「精华」概念带入头皮,发根强韧。 | data\img\kerastase-genifique.jpg
+kose-softymo | 高丝 Softymo高速卸妆油(Softymo Speedy Cleansing Oil,卸妆油) | 日本开架卸妆油的人气王,乳化迅速、清洁力强,冲水即净,大瓶平价,常年是日系平价卸妆的销量担当。 | data\img\kose-softymo.jpg
+kose-suncut | 高丝 SUNCUT防晒乳(SUNCUT,防晒) | 高丝旗下高性价比防晒线,SPF50+高倍防护,质地清爽、部分版本带凉感,大容量适合户外与全身使用,常年位居日系防晒销量前 | data\img\kose-suncut.jpg
+kose-clear-turn | 高丝 Clear Turn精华面膜(Clear Turn,面膜) | 高丝开架护肤线,以足量精华的面膜与管装精华著称,主打保湿提亮,平价大碗,是日本药妆的人气护肤品。 | data\img\kose-clear-turn.jpg
+kose-sekkisei | 高丝 雪肌精化妆水(SEKKISEI Lotion,化妆水) | 以当归、薏仁等和汉植物萃取调和的传奇美白水,主打提亮肤色、改善黯沉,蓝白瓶身经典,自1985年问世以来畅销东亚。 | data\img\kose-sekkisei.jpg
+kose-visee-lip | 高丝 Visée唇膏(VISÉE,唇膏) | 高丝旗下人气开架彩妆线,唇膏显色滋润,眼影与底妆同样受欢迎,设计精致,是日系妆容的常用品牌。 | data\img\kose-visee-lip.jpg
+la-mer-treatment-lotion | 海蓝之谜 修护精萃水(The Treatment Lotion,精华水) | 护肤流程的第一步,以神奇活性精萃调理肌肤、为后续吸收打底,质地清透,兼具滋润与修护感。 | data\img\la-mer-treatment-lotion.jpg
+la-mer-lip-balm | 海蓝之谜 唇部修护膏(The Lip Balm,唇膏) | 以品牌修护科技呵护干燥起皮的双唇,滋润修护力口碑极佳,是高端护唇的代表单品。 | data\img\la-mer-lip-balm.jpg
+la-mer-renewal-oil | 海蓝之谜 焕活精华油(The Renewal Oil,精华油) | 将神奇活性精萃融入轻盈油质,滋润同时赋予光泽,可用于面部与局部多处滋养,是品牌油类单品的代表作。 | data\img\la-mer-renewal-oil.jpg
+la-prairie-luxe-cream | 莱珀妮 鱼子精华琼贵面霜(Skin Caviar Luxe Cream,面霜) | 以鲟鱼子酱精萃为核心的招牌面霜,主打紧致提拉与奢华滋养,膏体细腻,是La Prairie最负盛名的单品之一。 | data\img\la-prairie-luxe-cream.jpg

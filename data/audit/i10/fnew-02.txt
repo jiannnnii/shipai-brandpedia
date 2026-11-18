@@ -1,0 +1,10 @@
+balenciaga-speed | 巴黎世家 袜子鞋(Speed Trainer,运动鞋) | 2016年推出的针织袜套运动鞋,鞋身印Balenciaga字样,轻便贴脚,是袜子鞋潮流的开创者。 | data\img\balenciaga-speed.jpg
+bally-loafers | 巴利 乐福鞋(Loafers,乐福鞋) | 品牌招牌鞋款,以柔软皮革与条纹细节著称,一脚蹬设计舒适百搭,男女款皆有。 | data\img\bally-loafers.jpg
+bally-derbyshoes | 巴利 正装皮鞋(Dress Shoes,皮鞋) | 德比鞋与牛津鞋采用意大利制革与缝制工艺,鞋楦舒适,商务正装的经典选择。 | data\img\bally-derbyshoes.jpg
+bally-bags | 巴利 手袋(Handbags,手袋) | 以利落线条与顶级皮革见长的包袋系列,低调中透着瑞士式的精致气质。 | data\img\bally-bags.jpg
+bally-smallgoods | 巴利 小皮具(Small Leather Goods,小皮具) | 钱夹、腰带与卡片夹以 B 字五金点缀,做工扎实,是品牌口碑的入门单品。 | data\img\bally-smallgoods.jpg
+boss-suit | 雨果博斯 商务西装(Business Suit,西装) | 以德式修身剪裁与精纺羊毛面料著称,提供修身至常规多种版型,商务场合穿着率极高,是品牌立身的核心品类。 | data\img\boss-suit.jpg
+boss-shirt | 雨果博斯 商务衬衫(Business Shirt,衬衫) | 以易打理的免烫棉布与合体剪裁为特色,领型与袖口细节规整,蓝白深色系为主,是职场衬衫的高性价比选择。 | data\img\boss-shirt.jpg
+boss-bottled | 雨果博斯 BOSS Bottled 香水(BOSS Bottled,香水) | 1998 年推出的品牌代表作,以苹果、肉桂与檀木构成温暖木质调,被赞「事业有成男士的味道」,常年位居全球男香畅销榜。 | data\img\boss-bottled.jpg
+boss-polo | 雨果博斯 Polo 衫(Polo Shirt,Polo 衫) | 以珠地棉制成,胸前绣有简洁的品牌字标,版型利落,是品牌夏季商务休闲场景的主力单品。 | data\img\boss-polo.jpg
+boss-accessories | 雨果博斯 皮带皮具(Leather Accessories,皮具) | 涵盖皮带、钱包与公事包,以压纹 logo 与金属牌为标识,牛皮材质耐用,是职场男士的实用配饰选择。 | data\img\boss-accessories.jpg

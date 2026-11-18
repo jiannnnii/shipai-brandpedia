@@ -1,0 +1,10 @@
+fila-fleece-set | 斐乐 运动卫衣套装(Fleece Set,卫衣套装) | 斐乐秋冬主力产品,含连帽卫衣与运动长裤,抓绒内里保暖亲肤,胸前 F 框 logo 辨识度极高,适合日常与运动多种场景。 | data\img\fila-fleece-set.jpg
+fila-kids | 斐乐 儿童运动系列(Kids Series,童装) | 面向儿童的运动鞋服线,延续成人款设计语言,鞋底防滑、面料亲肤,是中国高端童装运动市场的热门选择,支持亲子同款穿搭。 | data\img\fila-kids.jpg
+garmin-fenix | 佳明 fenix 系列(fenix,户外运动手表) | 旗舰户外运动手表,多频多星定位、离线地图与超长续航齐备,登山越野探险一表搞定,是户外圈公认的硬核装备。 | data\img\garmin-fenix.jpg
+garmin-instinct | 佳明 Instinct 系列(Instinct,户外手表) | 军规标准三防设计的户外腕表,续航动辄数周,功能直给、价格适中,是入门户外玩家的口碑之选。 | data\img\garmin-instinct.jpg
+garmin-edge | 佳明 Edge 系列(Edge,骑行码表) | 公路与山地骑行的主力码表,导航、功率训练与骑行数据生态完善,与车队俱乐部深度绑定,是专业骑手的标配。 | data\img\garmin-edge.jpg
+garmin-venu | 佳明 Venu 系列(Venu,健康智能手表) | 主打健康与日常智能的 AMOLED 屏手表,睡眠、血氧与身体电量监测齐全,兼顾运动功能与时尚外观,适合大众用户。 | data\img\garmin-venu.jpg
+head-speed | 海德 Speed 系列网球拍(Speed,网球拍) | 德约科维奇的战拍系列,以扎实控制与灵活手感著称,历经十余代迭代,是进阶球员最常考虑的职业级球拍之一。 | data\img\head-speed.jpg
+head-radical | 海德 Radical 系列网球拍(Radical,网球拍) | 因阿加西与穆雷而闻名的经典球拍系列,涂装个性鲜明,手感柔和、容错好,适合底线全能型球员。 | data\img\head-radical.jpg
+head-skis | 海德 高山滑雪板系列(Supershape Skis,滑雪板) | HEAD 高山雪板以稳定的高速性能著称,竞技大回转板与 Supershape 全山板广受欢迎,是世界杯赛场与机压雪道上的 | data\img\head-skis.jpg
+head-penn | 海德 PENN 网球(PENN,网球) | 深耕百年的美国网球品牌,长期担任澳大利亚网球公开赛官方用球,弹跳稳定、气密性好,是全球球场消耗量最大的网球品牌之一,现属 | data\img\head-penn.jpg

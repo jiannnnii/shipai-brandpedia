@@ -1,0 +1,597 @@
+[
+ {
+  "id": "ap-code1159",
+  "verdict": "mismatch",
+  "note": "图是地球仪与埃菲尔铁塔、自由女神像等地标建筑的卡通插画，与爱彼CODE 11.59腕表完全无关"
+ },
+ {
+  "id": "boucheron-quatre",
+  "verdict": "mismatch",
+  "note": "图是一枚满镶绿色宝石的球形物件（似Contemplation系列），并非巴黎钉纹四环Quatre戒指"
+ },
+ {
+  "id": "boucheron-animals",
+  "verdict": "mismatch",
+  "note": "图是宝诗龙播客视频封面，带播放按钮，展示的是蓝宝石钻石手镯，不是动物系列珠宝"
+ },
+ {
+  "id": "boucheron-serpentboheme",
+  "verdict": "ok",
+  "note": "模特颈间佩戴双水滴蛇头纹样的Serpent Bohème钻石颈链，与描述相符"
+ },
+ {
+  "id": "bvlgari-bzero1",
+  "verdict": "mismatch",
+  "note": "图是宝格丽Serpenti Seduttori蛇形腕表，不是B.zero1弹簧螺旋戒指"
+ },
+ {
+  "id": "bvlgari-diva",
+  "verdict": "ok",
+  "note": "图为宝格丽表盘带BVLGARI字样的高级珠宝表，扇形马赛克元素与Diva's Dream系列相符"
+ },
+ {
+  "id": "bvlgari-octo",
+  "verdict": "mismatch",
+  "note": "图里实际是一台空气炸锅的触控面板，显示温度180度和20分钟，与腕表无关"
+ },
+ {
+  "id": "bvlgari-bvlgari",
+  "verdict": "mismatch",
+  "note": "图里是热带海滩风景照（碧海白沙），与Bvlgari Bvlgari双环首饰无关"
+ },
+ {
+  "id": "casio-babyg",
+  "verdict": "mismatch",
+  "note": "图里是全金属方块G-SHOCK男款金表（带水印），不是BABY-G女性小表径系列"
+ },
+ {
+  "id": "casio-edifice",
+  "verdict": "mismatch",
+  "note": "图里是黑色方形G-SHOCK潜水宣传图（带知乎水印），并非EDIFICE金属计时表"
+ },
+ {
+  "id": "casio-oceanus",
+  "verdict": "ok",
+  "note": "图为OCEANUS CASIO五电机波多贝罗款实物图，蓝宝石切圈高级线特征清晰"
+ },
+ {
+  "id": "chopard-happydiamonds",
+  "verdict": "mismatch",
+  "note": "图里是中文机械夹具设计书页（自动化夹具安装与夹紧方法），与快乐钻石无关"
+ },
+ {
+  "id": "chopard-millemiglia",
+  "verdict": "mismatch",
+  "note": "图里是\"长征\"红军主题红色宣传海报（摄图网素材），与腕表无关"
+ },
+ {
+  "id": "chopard-imperial",
+  "verdict": "mismatch",
+  "note": "图里是戴蓝色手套的手捏微针贴片并布满优微生物水印，与Imperial女表无关"
+ },
+ {
+  "id": "chowsangsang-charme",
+  "verdict": "mismatch",
+  "note": "图里是橙色背景的三个南瓜装饰照片（摄图网素材），与串珠无关"
+ },
+ {
+  "id": "citizen-ecodrive",
+  "verdict": "ok",
+  "note": "图为西铁城光动能蓝天使腕表白盘实物特写，表盘可见CITIZEN与ECO-DRIVE标识"
+ },
+ {
+  "id": "darryring-loveletter",
+  "verdict": "mismatch",
+  "note": "图是一款RPG游戏的战斗截图（带九游水印），与DR求婚钻戒完全无关"
+ },
+ {
+  "id": "fiyta-spacemaster",
+  "verdict": "mismatch",
+  "note": "图为草地上秋日落叶的风景照，与飞亚达航天腕表无关"
+ },
+ {
+  "id": "fiyta-culture",
+  "verdict": "mismatch",
+  "note": "图为WABCO黑色滤清器（干燥罐）产品图，带上海钰金工贸水印"
+ },
+ {
+  "id": "fiyta-laurel",
+  "verdict": "mismatch",
+  "note": "图为黑色背景上的红色螺旋图形，与正装腕表无关"
+ },
+ {
+  "id": "fiyta-sport",
+  "verdict": "mismatch",
+  "note": "图为禁酒劝餐题材的卡通插画，与运动腕表无关"
+ },
+ {
+  "id": "franckmuller-vanguard",
+  "verdict": "mismatch",
+  "note": "图为新加坡香格里拉对话会上中国海军少将发言的新闻截图"
+ },
+ {
+  "id": "chowtaifook-marriage",
+  "verdict": "mismatch",
+  "note": "图为周大福门店内景（招牌与柜台），并非婚嫁三金产品实物"
+ },
+ {
+  "id": "franckmuller-colorskeletion",
+  "verdict": "mismatch",
+  "note": "图为一名绿衣女子的户外视频截图，与法穆兰腕表无关"
+ },
+ {
+  "id": "glashuette-pano",
+  "verdict": "mismatch",
+  "note": "图为树林中的白虎照片（带图库水印），与腕表无关"
+ },
+ {
+  "id": "glashuette-senator",
+  "verdict": "mismatch",
+  "note": "图为长发女子的自拍人像（带新欧洲水印），与腕表无关"
+ },
+ {
+  "id": "glashuette-seventies",
+  "verdict": "mismatch",
+  "note": "图为稻田里成熟水稻的照片（带搜狐号水印），与计时码表无关"
+ },
+ {
+  "id": "hamilton-khaki",
+  "verdict": "mismatch",
+  "note": "图为即梦视频AI剪辑软件宣传图"
+ },
+ {
+  "id": "hamilton-jazzmaster",
+  "verdict": "mismatch",
+  "note": "图为水闸泄洪航拍风景照"
+ },
+ {
+  "id": "hamilton-intra-matic",
+  "verdict": "mismatch",
+  "note": "图为摄图网水印稻穗特写"
+ },
+ {
+  "id": "harrywinston-cluster",
+  "verdict": "mismatch",
+  "note": "图为带水印海水海滩风景照"
+ },
+ {
+  "id": "harrywinston-hope",
+  "verdict": "mismatch",
+  "note": "图为昵享网水印水下海水波纹图"
+ },
+ {
+  "id": "harrywinston-opus",
+  "verdict": "mismatch",
+  "note": "图为摄图网水印海浪拍礁石风景照"
+ },
+ {
+  "id": "harrywinston-premier",
+  "verdict": "mismatch",
+  "note": "图为昵享网水印大海波浪图"
+ },
+ {
+  "id": "hublot-classicfusion",
+  "verdict": "mismatch",
+  "note": "图为汽车空气悬挂压缩机泵体配件图"
+ },
+ {
+  "id": "hublot-mp",
+  "verdict": "mismatch",
+  "note": "图为IMAGER 5010三维激光扫描仪"
+ },
+ {
+  "id": "iwc-bigpilot",
+  "verdict": "mismatch",
+  "note": "图为万国葡萄牙七日链白盘，非大飞行员"
+ },
+ {
+  "id": "iwc-mark",
+  "verdict": "mismatch",
+  "note": "图为万国大飞行员7日链黑盘，非马克系列"
+ },
+ {
+  "id": "iwc-ingenieur",
+  "verdict": "mismatch",
+  "note": "图为万国Aquatimer海洋时计金色计时表"
+ },
+ {
+  "id": "jlc-reverso",
+  "verdict": "mismatch",
+  "note": "图为积家约会系列圆形镶钻女表"
+ },
+ {
+  "id": "jlc-mastercontrol",
+  "verdict": "mismatch",
+  "note": "图为酒吧吧台洋酒瓶照片"
+ },
+ {
+  "id": "jlc-atmos",
+  "verdict": "mismatch",
+  "note": "图为GitHub仓库页面截图"
+ },
+ {
+  "id": "lange-lange1",
+  "verdict": "mismatch",
+  "note": "图为比亚迪闪充发布会舞台大屏"
+ },
+ {
+  "id": "laofengxiang-birdbracelet",
+  "verdict": "mismatch",
+  "note": "图为老挝国旗"
+ },
+ {
+  "id": "laofengxiang-silver",
+  "verdict": "mismatch",
+  "note": "图为老挝国旗"
+ },
+ {
+  "id": "laomiao-ancient",
+  "verdict": "mismatch",
+  "note": "图为信阳白茶车间摊晾茶青照片"
+ },
+ {
+  "id": "laomiao-guochao",
+  "verdict": "mismatch",
+  "note": "图为CF论坛QQ签到助手软件界面"
+ },
+ {
+  "id": "longines-master",
+  "verdict": "mismatch",
+  "note": "图为浪琴经典三针正装表，非名匠"
+ },
+ {
+  "id": "longines-hydroconquest",
+  "verdict": "mismatch",
+  "note": "图为浪琴金壳黑盘正装表，非康卡斯"
+ },
+ {
+  "id": "longines-spirit",
+  "verdict": "mismatch",
+  "note": "图为浪琴银盘三针正装表，非先行者"
+ },
+ {
+  "id": "longines-equestrian",
+  "verdict": "mismatch",
+  "note": "图为浪琴银盘三针正装男表，非骑仕女表"
+ },
+ {
+  "id": "mido-oceanstar",
+  "verdict": "mismatch",
+  "note": "图为灰西装女士挥手致意照片"
+ },
+ {
+  "id": "mikimoto-necklace",
+  "verdict": "mismatch",
+  "note": "图为模特珍珠项链与耳钉拼图，非经典串链"
+ },
+ {
+  "id": "mikimoto-firstpearl",
+  "verdict": "mismatch",
+  "note": "图为淘宝商品页截图珍珠耳钉"
+ },
+ {
+  "id": "mikimoto-pearlinmotion",
+  "verdict": "logo",
+  "note": "图为MIKIMOTO精品店店内实拍，无具体产品"
+ },
+ {
+  "id": "mikimoto-jewelrywatch",
+  "verdict": "mismatch",
+  "note": "图为MIKIMOTO甜品店柜台展示"
+ },
+ {
+  "id": "oris-aquis",
+  "verdict": "mismatch",
+  "note": "图为游戏Ragnarok Odyssey宣传图"
+ },
+ {
+  "id": "chowtaifook-diamond",
+  "verdict": "mismatch",
+  "note": "图为周大福春启玫瑰序章足金玫瑰系列黄金饰促销横幅,无钻石镶嵌产品"
+ },
+ {
+  "id": "glashuette-spezialist",
+  "verdict": "mismatch",
+  "note": "图里是MLA文献引用格式指南的幻灯片拼贴插画,与手表无关"
+ },
+ {
+  "id": "gp-laureato",
+  "verdict": "mismatch",
+  "note": "图里是橙红色调的游戏场景截图(游戏机迷GAMEFUNS),与芝柏桂冠手表无关"
+ },
+ {
+  "id": "gp-1966",
+  "verdict": "mismatch",
+  "note": "图片是讲解ROE净资产收益率的财经知识信息图,与正装腕表无关"
+ },
+ {
+  "id": "graff-flames",
+  "verdict": "mismatch",
+  "note": "图为红发持枪动漫少女插画(标注CAISENA),与格拉夫Flames钻石首饰无关"
+ },
+ {
+  "id": "hamilton-ventura",
+  "verdict": "mismatch",
+  "note": "图为SHALUO牌SX460发电机电压调节器电路板,与汉米尔顿Ventura腕表无关"
+ },
+ {
+  "id": "laofengxiang-pearl",
+  "verdict": "mismatch",
+  "note": "图里是老挝国旗圆形图标,与珍珠首饰无关"
+ },
+ {
+  "id": "laomiao-lucky",
+  "verdict": "mismatch",
+  "note": "图里是wifi万能钥匙看密码的手机教程截图,与黄金首饰无关"
+ },
+ {
+  "id": "oris-divers65",
+  "verdict": "mismatch",
+  "note": "肺部健康插图,无关"
+ },
+ {
+  "id": "pandora-bracelet",
+  "verdict": "ok",
+  "note": "串珠手链实物"
+ },
+ {
+  "id": "pandora-hearts",
+  "verdict": "lowq",
+  "note": "多品广告拼图"
+ },
+ {
+  "id": "pandora-labgrown",
+  "verdict": "mismatch",
+  "note": "非培育钻戒指"
+ },
+ {
+  "id": "patek-aquanaut",
+  "verdict": "mismatch",
+  "note": "是复杂款金表,非手雷"
+ },
+ {
+  "id": "piaget-altiplano",
+  "verdict": "logo",
+  "note": "展览门头招牌"
+ },
+ {
+  "id": "piaget-possession",
+  "verdict": "logo",
+  "note": "门店招牌"
+ },
+ {
+  "id": "piaget-limelight",
+  "verdict": "mismatch",
+  "note": "是镂空Polo表"
+ },
+ {
+  "id": "qeelin-bobo",
+  "verdict": "mismatch",
+  "note": "毕业合影,无关"
+ },
+ {
+  "id": "rado-captaincook",
+  "verdict": "mismatch",
+  "note": "大学徽章,无关"
+ },
+ {
+  "id": "rado-centrix",
+  "verdict": "mismatch",
+  "note": "绘画班合影,无关"
+ },
+ {
+  "id": "rado-diastar",
+  "verdict": "mismatch",
+  "note": "英国国旗街景,无关"
+ },
+ {
+  "id": "raymondweil-maestro",
+  "verdict": "mismatch",
+  "note": "乒乓球运动员,无关"
+ },
+ {
+  "id": "richardmille-rm011",
+  "verdict": "mismatch",
+  "note": "长城剪影插画,无关"
+ },
+ {
+  "id": "richardmille-rm27",
+  "verdict": "mismatch",
+  "note": "人物自拍,无关"
+ },
+ {
+  "id": "richardmille-rm07",
+  "verdict": "mismatch",
+  "note": "毕业礼服照,无关"
+ },
+ {
+  "id": "richardmille-rm67",
+  "verdict": "mismatch",
+  "note": "农田井盖,无关"
+ },
+ {
+  "id": "rolex-daytona",
+  "verdict": "mismatch",
+  "note": "是Sky-Dweller"
+ },
+ {
+  "id": "rolex-datejust",
+  "verdict": "mismatch",
+  "note": "是Day-Date"
+ },
+ {
+  "id": "rolex-gmt",
+  "verdict": "mismatch",
+  "note": "网易logo,无关"
+ },
+ {
+  "id": "seagull-st19",
+  "verdict": "mismatch",
+  "note": "沙漠海岸,无关"
+ },
+ {
+  "id": "seagull-tourbillon",
+  "verdict": "mismatch",
+  "note": "海岛风景图,无关"
+ },
+ {
+  "id": "seagull-d304",
+  "verdict": "mismatch",
+  "note": "海景图,无关"
+ },
+ {
+  "id": "seagull-moonphase",
+  "verdict": "mismatch",
+  "note": "海岸航拍,无关"
+ },
+ {
+  "id": "seiko-prospex",
+  "verdict": "mismatch",
+  "note": "扑克牌,无关"
+ },
+ {
+  "id": "seiko-presage",
+  "verdict": "mismatch",
+  "note": "经络穴位图,无关"
+ },
+ {
+  "id": "seiko-astron",
+  "verdict": "mismatch",
+  "note": "医疗设备,无关"
+ },
+ {
+  "id": "swarovski-millenia",
+  "verdict": "mismatch",
+  "note": "文凭广告图,无关"
+ },
+ {
+  "id": "swarovski-duo",
+  "verdict": "mismatch",
+  "note": "研究所大门,无关"
+ },
+ {
+  "id": "tagheuer-monaco",
+  "verdict": "mismatch",
+  "note": "奥特曼动画,无关"
+ },
+ {
+  "id": "tagheuer-aquaracer",
+  "verdict": "mismatch",
+  "note": "图为树木非手表"
+ },
+ {
+  "id": "tagheuer-formula1",
+  "verdict": "mismatch",
+  "note": "斯柯达赛车非手表"
+ },
+ {
+  "id": "tasaki-signature",
+  "verdict": "mismatch",
+  "note": "动漫人物图无关"
+ },
+ {
+  "id": "tasaki-atelier",
+  "verdict": "mismatch",
+  "note": "人像风景无珠宝"
+ },
+ {
+  "id": "tiffany-setting",
+  "verdict": "logo",
+  "note": "蓝盒丝带无戒指"
+ },
+ {
+  "id": "tiffany-tseries",
+  "verdict": "mismatch",
+  "note": "钻石项链非T系"
+ },
+ {
+  "id": "tiffany-keys",
+  "verdict": "mismatch",
+  "note": "彩宝项链非钥匙"
+ },
+ {
+  "id": "tiffany-smile",
+  "verdict": "mismatch",
+  "note": "刻字戒指非项链"
+ },
+ {
+  "id": "tiffany-return",
+  "verdict": "mismatch",
+  "note": "T1手镯非铭牌"
+ },
+ {
+  "id": "tissot-locator",
+  "verdict": "mismatch",
+  "note": "酒桶形复古款非力洛克"
+ },
+ {
+  "id": "tissot-prx",
+  "verdict": "ok",
+  "note": "PRX蓝盘正确"
+ },
+ {
+  "id": "tissot-seastar",
+  "verdict": "logo",
+  "note": "仅品牌logo"
+ },
+ {
+  "id": "tissot-chemindesindices",
+  "verdict": "mismatch",
+  "note": "大峡谷风景图"
+ },
+ {
+  "id": "tudor-blackbay",
+  "verdict": "mismatch",
+  "note": "拉斯维加斯夜景"
+ },
+ {
+  "id": "tudor-royal",
+  "verdict": "mismatch",
+  "note": "沙滩排球赛图"
+ },
+ {
+  "id": "tudor-pelagos",
+  "verdict": "mismatch",
+  "note": "游戏社区网页"
+ },
+ {
+  "id": "ulysse-sonata",
+  "verdict": "mismatch",
+  "note": "美腿写真无关"
+ },
+ {
+  "id": "ulysse-cloisonne",
+  "verdict": "mismatch",
+  "note": "香料食材图"
+ },
+ {
+  "id": "vc-traditionnelle",
+  "verdict": "mismatch",
+  "note": "纵横四海非传袭"
+ },
+ {
+  "id": "vc-metiers",
+  "verdict": "mismatch",
+  "note": "达赖语录图无关"
+ },
+ {
+  "id": "vca-alhambra",
+  "verdict": "mismatch",
+  "note": "面包车露营图"
+ },
+ {
+  "id": "vca-frivole",
+  "verdict": "mismatch",
+  "note": "白色厢式货车"
+ },
+ {
+  "id": "vca-perlee",
+  "verdict": "mismatch",
+  "note": "货车车队无关"
+ },
+ {
+  "id": "vca-ballerina",
+  "verdict": "mismatch",
+  "note": "绿色面包车图"
+ }
+]

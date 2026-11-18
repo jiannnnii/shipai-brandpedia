@@ -1,0 +1,10 @@
+swarovski-millenia | 施华洛世奇 Millenia(Millenia,首饰) | 大颗彩宝切割水晶的时尚线,一克拉 visual 不输真钻的气场。 | data\img\swarovski-millenia.jpg
+swarovski-duo | 施华洛世奇 Duo 系列(Duo,首饰) | 金属与水晶双元素交叠,极简通勤的低调光泽。 | data\img\swarovski-duo.jpg
+tagheuer-monaco | 泰格豪雅 摩纳哥(Monaco,计时码表) | 1969年首款方形防水自动计时,麦昆同款,复古赛车的白月光。 | data\img\tagheuer-monaco.jpg
+tagheuer-aquaracer | 泰格豪雅 竞潜(Aquaracer,潜水表) | 300米潜水的日常运动线,300米防水+夜光,实用派首选。 | data\img\tagheuer-aquaracer.jpg
+tagheuer-formula1 | 泰格豪雅 F1 系列(Formula 1,运动表) | 入门石英与机械并行,赛道涂装活泼,年轻人的第一块豪车表。 | data\img\tagheuer-formula1.jpg
+tasaki-balance | 塔思琦 balance 系列(balance,首饰) | 一根弧形金条与珍珠玩平衡,珍珠首饰里最像雕塑的存在。 | data\img\tasaki-balance.jpg
+tasaki-signature | 塔思琦 signature 项链(signature,项链) | 渐变尺寸珍珠串链,日常穿的"大女主"气场款。 | data\img\tasaki-signature.jpg
+tasaki-atelier | 塔思琦 Atelier 高定(Atelier,高级珠宝) | 神户工坊的孤品高级珠宝,南洋珠与彩色宝石的大胆实验场。 | data\img\tasaki-atelier.jpg
+tiffany-setting | 蒂芙尼 六爪订婚钻戒(The Tiffany Setting,订婚戒指) | 1886年发明,六爪把钻石高高托起,是世界最著名的求婚戒指形制。 | data\img\tiffany-setting.jpg
+tiffany-tseries | 蒂芙尼 T 系列(Tiffany T,首饰) | 极简字母T手镯与戒指,纽约摩登气质,当代入门首选。 | data\img\tiffany-tseries.jpg

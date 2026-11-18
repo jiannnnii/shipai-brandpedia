@@ -1,0 +1,10 @@
+boss-watch | 雨果博斯 腕表(Watches,腕表) | 由授权厂商生产的时尚腕表,以三针简约款与商务钢带为主,部分款式点缀品牌标识,定位配饰型腕表。 | data\img\boss-watch.jpg
+bottega-veneta-arco | 葆蝶家 Arco(Arco,手袋) | 2019年推出的拱形结构手袋,加宽编织皮条构成弧形底座,建筑感与工艺感兼具,是品牌高端旗舰包型。 | data\img\bottega-veneta-arco.jpg
+bottega-veneta-andiamo | 葆蝶家 Andiamo手袋(Andiamo,托特包) | 2023年推出的通勤托特,金属结扣点缀,挺括梯形廓形配编织细节,意语意为「我们走吧」,上市即成静奢通勤首选。 | data\img\bottega-veneta-andiamo.jpg
+bottega-veneta-flash-flats | 葆蝶家 编织平底鞋(Flash Flats,平底鞋) | Intrecciato编织皮革平底鞋,方头软底、皮革如袜般服帖,无标识却自带辨识度,是静奢穿搭的经典鞋履单品。 | data\img\bottega-veneta-flash-flats.jpg
+bb-1818suit | 布克兄弟 1818 系列西装(1818 Suit,西装) | 品牌最高规格的成衣西装系列,以全羊毛精纺面料与半麻衬工艺制作,提供 Madison 等经典版型,是美式商务西装的标杆。 | data\img\bb-1818suit.jpg
+bb-goldenfleece | 布克兄弟 Golden Fleece 金羊毛西装(Golden Fleece Suit,西装) | 以品牌金羊毛标志命名的顶配系列,采用更高级的面料与更精细的做工,是品牌工艺的最高代表。 | data\img\bb-goldenfleece.jpg
+bb-cashmere | 布克兄弟 羊绒针织衫(Cashmere Sweater,针织衫) | 以山羊绒纱线织成,圆领与 V 领为主,可单穿亦可与衬衫叠穿,是常春藤风格的标准配置。 | data\img\bb-cashmere.jpg
+bc-cashmere-sweater | 布鲁内罗·库奇内利 羊绒圆领针织衫(Cashmere Sweater,针织衫) | 以顶级山羊绒纱线制成,手感蓬松软糯,版型宽松利落,经典的圆领与罗纹细节,是品牌最基础也最具代表性的单品。 | data\img\bc-cashmere-sweater.jpg
+bc-cashmere-tshirt | 布鲁内罗·库奇内利 羊绒 T 恤(Cashmere T-Shirt,T 恤) | 以轻薄羊绒制成的基础款 T 恤,触感细腻,剪裁简约,常与牛仔裤或西裤搭配,是体验品牌质感的好选择。 | data\img\bc-cashmere-tshirt.jpg
+celine-luggage | 赛琳 笑脸包(Luggage,手袋) | 2010年推出的通勤托特,两侧拉链袋神似笑脸而得名,大容量与趣味造型兼备,曾是街拍时代最热通勤包。 | data\img\celine-luggage.jpg

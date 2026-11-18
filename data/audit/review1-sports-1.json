@@ -1,0 +1,452 @@
+[
+ {
+  "id": "361-feiran",
+  "brand": "361°",
+  "name": "飞燃系列跑鞋",
+  "nameEn": "Feiran",
+  "type": "竞速跑鞋",
+  "desc": "361° 旗舰碳板竞速跑鞋,中底推进与回弹表现出色,助力大众选手冲击马拉松个人最好成绩,是国产碳板鞋中的口碑之作。",
+  "file": "data\\img\\361-feiran.jpg"
+ },
+ {
+  "id": "361-training-shoes",
+  "brand": "361°",
+  "name": "综合训练鞋",
+  "nameEn": "Training Shoes",
+  "type": "训练鞋",
+  "desc": "面向健身房与日常运动的训练鞋系列,鞋底防滑稳定、鞋面包裹舒适,力量训练与轻有氧都能胜任。",
+  "file": "data\\img\\361-training-shoes.jpg"
+ },
+ {
+  "id": "361-apparel",
+  "brand": "361°",
+  "name": "运动服饰系列",
+  "nameEn": "Sportswear",
+  "type": "运动服",
+  "desc": "覆盖跑步、健身与休闲的运动服装基础线,速干 T 恤与卫衣常年热销,版型宽松、面料亲肤,适合全家选购。",
+  "file": "data\\img\\361-apparel.jpg"
+ },
+ {
+  "id": "361-international",
+  "brand": "361°",
+  "name": "国际线跑鞋",
+  "nameEn": "International Line",
+  "type": "跑鞋",
+  "desc": "由国际团队设计的海外产品线,设计语言更趋潮流简约,在海外跑步圈层积累口碑,部分款式国内亦可购入。",
+  "file": "data\\img\\361-international.jpg"
+ },
+ {
+  "id": "adidas-stan-smith",
+  "brand": "阿迪达斯",
+  "name": "Stan Smith",
+  "nameEn": "Stan Smith",
+  "type": "经典板鞋",
+  "desc": "原为1960年代的网球鞋,后以美国球王斯坦·史密斯命名,白色皮质搭配绿色后跟成为极简风格的永恒符号,史上最经典的小白鞋之",
+  "file": "data\\img\\adidas-stan-smith.jpg"
+ },
+ {
+  "id": "adidas-superstar",
+  "brand": "阿迪达斯",
+  "name": "Superstar 贝壳头",
+  "nameEn": "Superstar",
+  "type": "经典板鞋",
+  "desc": "1969年问世的皮革篮球鞋,橡胶贝壳头保护设计独树一帜,经嘻哈组合Run-DMC带火后成为街头文化标志,三条杠加贝壳头深",
+  "file": "data\\img\\adidas-superstar.jpg"
+ },
+ {
+  "id": "adidas-samba",
+  "brand": "阿迪达斯",
+  "name": "Samba",
+  "nameEn": "Samba",
+  "type": "经典板鞋",
+  "desc": "1950年为足球训练设计的室内足球鞋,T字鞋头搭配麂皮饰条,近年借助复古足球风潮成为全球最炙手可热的休闲鞋款之一。",
+  "file": "data\\img\\adidas-samba.jpg"
+ },
+ {
+  "id": "adidas-gazelle",
+  "brand": "阿迪达斯",
+  "name": "Gazelle",
+  "nameEn": "Gazelle",
+  "type": "经典板鞋",
+  "desc": "1968年推出的麂皮训练鞋,简洁三条杠与多样配色让它历经数十年仍在热销,是三叶草复古线的中坚力量。",
+  "file": "data\\img\\adidas-gazelle.jpg"
+ },
+ {
+  "id": "adidas-ultraboost",
+  "brand": "阿迪达斯",
+  "name": "Ultraboost",
+  "nameEn": "Ultraboost",
+  "type": "跑鞋",
+  "desc": "2015年问世的高端跑鞋系列,全掌Boost中底兼顾能量反馈与柔软脚感,一度被誉为最强跑鞋,也是通勤穿搭的热门选择。",
+  "file": "data\\img\\adidas-ultraboost.jpg"
+ },
+ {
+  "id": "adidas-adizero",
+  "brand": "阿迪达斯",
+  "name": "Adizero 系列",
+  "nameEn": "Adizero",
+  "type": "竞速跑鞋",
+  "desc": "轻量竞速跑鞋家族,Adios Pro系列搭载Energyrods碳纤推进杆,曾是女子马拉松世界纪录战靴,是精英选手竞速的",
+  "file": "data\\img\\adidas-adizero.jpg"
+ },
+ {
+  "id": "anta-kt",
+  "brand": "安踏",
+  "name": "KT 系列篮球鞋",
+  "nameEn": "KT Series",
+  "type": "篮球鞋",
+  "desc": "与 NBA 球星克莱·汤普森合作的签名篮球鞋,历经九代迭代,缓震扎实、实战耐磨,是国产签名鞋中口碑与销量兼具的系列。",
+  "file": "data\\img\\anta-kt.jpg"
+ },
+ {
+  "id": "anta-c202",
+  "brand": "安踏",
+  "name": "C202 系列跑鞋",
+  "nameEn": "C202",
+  "type": "竞速跑鞋",
+  "desc": "安踏碳板竞速跑鞋代表,面向马拉松比赛与高强度训练,中底回弹与推进力出色,助力大众跑者刷新个人最好成绩。",
+  "file": "data\\img\\anta-c202.jpg"
+ },
+ {
+  "id": "anta-hydrogen",
+  "brand": "安踏",
+  "name": "氢科技跑鞋",
+  "nameEn": "Hydrogen",
+  "type": "轻量跑鞋",
+  "desc": "主打极致轻量的入门跑鞋,单只重量低至百克级,上脚几乎无负担,适合通勤、健走与轻松慢跑,价格亲民。",
+  "file": "data\\img\\anta-hydrogen.jpg"
+ },
+ {
+  "id": "anta-champions",
+  "brand": "安踏",
+  "name": "冠军系列",
+  "nameEn": "Champions",
+  "type": "运动服饰",
+  "desc": "借势中国奥委会合作身份打造的运动时尚线,以「安踏冠军」为标识,含卫衣、T 恤与鞋款,奥运年热度尤高。",
+  "file": "data\\img\\anta-champions.jpg"
+ },
+ {
+  "id": "anta-kids",
+  "brand": "安踏",
+  "name": "安踏儿童",
+  "nameEn": "Anta Kids",
+  "type": "童装",
+  "desc": "国内规模领先的儿童运动品牌,覆盖跑鞋、篮球鞋与运动服,以护足科技与分龄设计见长,是家长选购童鞋的热门选项。",
+  "file": "data\\img\\anta-kids.jpg"
+ },
+ {
+  "id": "anta-apparel",
+  "brand": "安踏",
+  "name": "综合运动服饰",
+  "nameEn": "Sportswear",
+  "type": "运动服",
+  "desc": "覆盖健身、跑步与休闲场景的基础运动服系列,面料速干亲肤、版型宽松舒适,依托全国门店网络常年热销。",
+  "file": "data\\img\\anta-apparel.jpg"
+ },
+ {
+  "id": "arcteryx-alpha-sv",
+  "brand": "始祖鸟",
+  "name": "Alpha SV 冲锋衣",
+  "nameEn": "Alpha SV",
+  "type": "硬壳冲锋衣",
+  "desc": "1998年问世的旗舰硬壳,GORE-TEX Pro面料与热压合无缝工艺的行业标杆,专为极限攀登而生,是始祖鸟的精神图腾。",
+  "file": "data\\img\\arcteryx-alpha-sv.jpg"
+ },
+ {
+  "id": "arcteryx-beta-lt",
+  "brand": "始祖鸟",
+  "name": "Beta LT 冲锋衣",
+  "nameEn": "Beta LT",
+  "type": "硬壳冲锋衣",
+  "desc": "轻量通用型硬壳,兼顾防护与便携,城市通勤与山地徒步皆宜,是始祖鸟最畅销的冲锋衣系列之一。",
+  "file": "data\\img\\arcteryx-beta-lt.jpg"
+ },
+ {
+  "id": "arcteryx-atom",
+  "brand": "始祖鸟",
+  "name": "Atom 中间层",
+  "nameEn": "Atom",
+  "type": "保暖中间层",
+  "desc": "经典的合成保暖中间层,弹力面料搭配Coreloft保暖棉,轻便透气、活动自如,是始祖鸟最日常的秋冬单品。",
+  "file": "data\\img\\arcteryx-atom.jpg"
+ },
+ {
+  "id": "arcteryx-cerium",
+  "brand": "始祖鸟",
+  "name": "Cerium 羽绒服",
+  "nameEn": "Cerium",
+  "type": "羽绒服",
+  "desc": "850蓬鹅绒与轻量结构打造的羽绒服,压缩性好、保暖效率高,是始祖鸟冬季保暖线的代表作。",
+  "file": "data\\img\\arcteryx-cerium.jpg"
+ },
+ {
+  "id": "arcteryx-gamma",
+  "brand": "始祖鸟",
+  "name": "Gamma 软壳系列",
+  "nameEn": "Gamma",
+  "type": "软壳外套",
+  "desc": "始祖鸟软壳代表作,耐磨弹力面料平衡防风与透气,攀登徒步皆有对应版型,是硬派户外风的衣橱主力。",
+  "file": "data\\img\\arcteryx-gamma.jpg"
+ },
+ {
+  "id": "arena-training-suit",
+  "brand": "阿瑞娜",
+  "name": "训练泳衣系列",
+  "nameEn": "Training Suit",
+  "type": "训练泳衣",
+  "desc": "面向常年训练人群的泳装线,面料抗氯耐磨、版型包覆性好,价格比竞速线亲民,是俱乐部与泳队采购的大众之选。",
+  "file": "data\\img\\arena-training-suit.jpg"
+ },
+ {
+  "id": "arena-powerfin",
+  "brand": "阿瑞娜",
+  "name": "Powerfin 脚蹼",
+  "nameEn": "Powerfin",
+  "type": "脚蹼",
+  "desc": "短款硅胶训练脚蹼,腿部发力反馈直接,帮助提升打腿效率与水感,是自由泳打腿训练的常用装备。",
+  "file": "data\\img\\arena-powerfin.jpg"
+ },
+ {
+  "id": "arena-cap",
+  "brand": "阿瑞娜",
+  "name": "硅胶泳帽",
+  "nameEn": "Silicone Cap",
+  "type": "泳帽",
+  "desc": "高弹性硅胶泳帽,包裹服帖不易脱落,减少头发与氯水接触,颜色丰富,是泳包里的必备小件。",
+  "file": "data\\img\\arena-cap.jpg"
+ },
+ {
+  "id": "asics-gel-kayano",
+  "brand": "亚瑟士",
+  "name": "GEL-KAYANO",
+  "nameEn": "GEL-KAYANO",
+  "type": "顶级缓震跑鞋",
+  "desc": "1993年问世的旗舰稳定缓震跑鞋,以设计师榧野俊一命名,大体重跑者的安心之选,至今已迭代三十余代,是亚瑟士的技术图腾。",
+  "file": "data\\img\\asics-gel-kayano.jpg"
+ },
+ {
+  "id": "asics-gt-2000",
+  "brand": "亚瑟士",
+  "name": "GT-2000",
+  "nameEn": "GT-2000",
+  "type": "支撑跑鞋",
+  "desc": "主力次顶级支撑跑鞋,为足内旋过度的跑者提供稳定引导,兼顾缓震与支撑,是马拉松备赛训练的可靠伙伴。",
+  "file": "data\\img\\asics-gt-2000.jpg"
+ },
+ {
+  "id": "asics-novablast",
+  "brand": "亚瑟士",
+  "name": "NOVABLAST",
+  "nameEn": "NOVABLAST",
+  "type": "训练跑鞋",
+  "desc": "搭载FF BLAST泡棉的高弹训练鞋,蹦床般的回弹脚感自2020年发布即成网红,适合日常慢跑与节奏训练,颜值也在线。",
+  "file": "data\\img\\asics-novablast.jpg"
+ },
+ {
+  "id": "asics-metaspeed",
+  "brand": "亚瑟士",
+  "name": "METASPEED 系列",
+  "nameEn": "METASPEED",
+  "type": "竞速碳板跑鞋",
+  "desc": "亚瑟士碳板竞速家族,按跑姿分为步频型Sky与步幅型Edge等版本分别调校,是亚洲跑者站上马拉松领奖台的常见战靴。",
+  "file": "data\\img\\asics-metaspeed.jpg"
+ },
+ {
+  "id": "asics-gel-1130",
+  "brand": "亚瑟士",
+  "name": "GEL-1130",
+  "nameEn": "GEL-1130",
+  "type": "复古跑鞋",
+  "desc": "2008年老鞋的复刻版本,银灰配色与简洁廓形在千禧风潮中翻红,日常通勤同样舒适,是亚瑟士潮流线的头号爆款。",
+  "file": "data\\img\\asics-gel-1130.jpg"
+ },
+ {
+  "id": "asics-gel-lyte-iii",
+  "brand": "亚瑟士",
+  "name": "GEL-LYTE III",
+  "nameEn": "GEL-LYTE III",
+  "type": "复古跑鞋",
+  "desc": "1990年推出的经典复古跑鞋,分叉式鞋舌设计独树一帜,与潮流店铺联名无数,是亚瑟士潮流文化的起点。",
+  "file": "data\\img\\asics-gel-lyte-iii.jpg"
+ },
+ {
+  "id": "bd-trekking-poles",
+  "brand": "黑钻",
+  "name": "登山杖系列",
+  "nameEn": "Trekking Poles",
+  "type": "登山杖",
+  "desc": "Distance 系列碳纤维折叠杖重量轻、收纳短,减震与抓地表现扎实,是徒步与越野跑玩家信赖的选择。",
+  "file": "data\\img\\bd-trekking-poles.jpg"
+ },
+ {
+  "id": "bd-ice-tools",
+  "brand": "黑钻",
+  "name": "冰镐系列",
+  "nameEn": "Ice Tools",
+  "type": "冰镐",
+  "desc": "Cobra、Viper 等专业冰镐以挥击精度与可换配件著称,是混合攀登与干式攀登的利器,技术型攀登玩家的进阶装备。",
+  "file": "data\\img\\bd-ice-tools.jpg"
+ },
+ {
+  "id": "brooks-glycerin",
+  "brand": "布鲁克斯",
+  "name": "Glycerin",
+  "nameEn": "Glycerin",
+  "type": "顶级缓震跑鞋",
+  "desc": "布鲁克斯的顶级缓震旗舰,厚实柔软的中底为大体重跑者与长距离慢跑提供豪华脚感,被跑友称为云朵跑鞋。",
+  "file": "data\\img\\brooks-glycerin.jpg"
+ },
+ {
+  "id": "brooks-adrenaline-gts",
+  "brand": "布鲁克斯",
+  "name": "Adrenaline GTS",
+  "nameEn": "Adrenaline GTS",
+  "type": "支撑跑鞋",
+  "desc": "全球最畅销的支撑跑鞋之一,GTS意为「首选之鞋」,为足内旋过度跑者提供稳定引导,三十余代长盛不衰。",
+  "file": "data\\img\\brooks-adrenaline-gts.jpg"
+ },
+ {
+  "id": "brooks-hyperion",
+  "brand": "布鲁克斯",
+  "name": "Hyperion 竞速系列",
+  "nameEn": "Hyperion",
+  "type": "竞速跑鞋",
+  "desc": "布鲁克斯的碳板竞速家族,Hyperion Elite为比赛日利器,轻量推进设计帮助跑者刷新个人最好成绩。",
+  "file": "data\\img\\brooks-hyperion.jpg"
+ },
+ {
+  "id": "brooks-launch",
+  "brand": "布鲁克斯",
+  "name": "Launch",
+  "nameEn": "Launch",
+  "type": "轻量训练跑鞋",
+  "desc": "轻量灵活的入门训练鞋,性价比突出、脚感利落,适合节奏跑与速度课,是布鲁克斯的年轻化走量款式。",
+  "file": "data\\img\\brooks-launch.jpg"
+ },
+ {
+  "id": "brooks-cascadia",
+  "brand": "布鲁克斯",
+  "name": "Cascadia",
+  "nameEn": "Cascadia",
+  "type": "越野跑鞋",
+  "desc": "2005年问世的经典越野跑鞋,以多地形适应与稳定防护设计著称,是山径越野爱好者的可靠伙伴。",
+  "file": "data\\img\\brooks-cascadia.jpg"
+ },
+ {
+  "id": "burton-custom",
+  "brand": "伯顿",
+  "name": "Custom 单板",
+  "nameEn": "Custom",
+  "type": "单板",
+  "desc": "伯顿最经典的全面发展单板,延续数十代的招牌板型,弹力与稳定均衡,全山地形通吃,被滑手称为「永不犯错之板」。",
+  "file": "data\\img\\burton-custom.jpg"
+ },
+ {
+  "id": "burton-process",
+  "brand": "伯顿",
+  "name": "Process 单板",
+  "nameEn": "Process",
+  "type": "单板",
+  "desc": "面向进阶滑手的公园与全山单板,滑行活泼、容错友好,配合认证木芯的弹性输出,是许多滑手人生第二块板的热门之选。",
+  "file": "data\\img\\burton-process.jpg"
+ },
+ {
+  "id": "burton-cartel",
+  "brand": "伯顿",
+  "name": "Cartel 固定器",
+  "nameEn": "Cartel",
+  "type": "固定器",
+  "desc": "伯顿中高端固定器代表,响应直接、绑带包裹舒适,公园与全山滑行都能提供稳定的力量传输,是滑手口中的口碑机皇。",
+  "file": "data\\img\\burton-cartel.jpg"
+ },
+ {
+  "id": "burton-jacket",
+  "brand": "伯顿",
+  "name": "雪服系列",
+  "nameEn": "Jackets",
+  "type": "滑雪服",
+  "desc": "伯顿雪服以街头感设计著称,防风透湿面料、压胶工艺与充裕口袋设计兼顾功能与造型,是雪场出镜率最高的雪服之一。",
+  "file": "data\\img\\burton-jacket.jpg"
+ },
+ {
+  "id": "burton-wheelie",
+  "brand": "伯顿",
+  "name": "雪板包",
+  "nameEn": "Wheelie Gig Bag",
+  "type": "雪板包",
+  "desc": "带轮雪板旅行袋,可容纳雪板、雪鞋与全套装备,内衬加厚保护板面,是长途滑雪旅行的标配收纳方案。",
+  "file": "data\\img\\burton-wheelie.jpg"
+ },
+ {
+  "id": "columbia-omni-heat",
+  "brand": "哥伦比亚",
+  "name": "Omni-Heat 热反射羽绒服",
+  "nameEn": "Omni-Heat Down",
+  "type": "羽绒服",
+  "desc": "标志性的银色热反射内衬系列,通过反射人体热量提升保暖效率又足够轻量,冬季通勤与滑雪内层都好用。",
+  "file": "data\\img\\columbia-omni-heat.jpg"
+ },
+ {
+  "id": "columbia-newton-ridge",
+  "brand": "哥伦比亚",
+  "name": "Newton Ridge 徒步鞋",
+  "nameEn": "Newton Ridge",
+  "type": "徒步鞋",
+  "desc": "畅销的入门防水徒步靴,轻量皮革鞋面配Omni-Grip大底,抓地稳健、性价比高,是轻徒步的常见选择。",
+  "file": "data\\img\\columbia-newton-ridge.jpg"
+ },
+ {
+  "id": "converse-chuck-taylor-all-star",
+  "brand": "匡威",
+  "name": "Chuck Taylor All Star",
+  "nameEn": "Chuck Taylor All Star",
+  "type": "帆布鞋",
+  "desc": "1917年诞生、史上最畅销的运动鞋,帆布鞋面加硫化胶底的经典配方百年未变,简单到极致,却百搭了一个世纪。",
+  "file": "data\\img\\converse-chuck-taylor-all-star.jpg"
+ },
+ {
+  "id": "converse-chuck-70",
+  "brand": "匡威",
+  "name": "Chuck 70",
+  "nameEn": "Chuck 70",
+  "type": "帆布鞋",
+  "desc": "复刻1970年代工艺的高端线,加厚帆布、更软的鞋垫与高光泽鞋头,质感明显优于经典款,是匡威的口碑担当。",
+  "file": "data\\img\\converse-chuck-70.jpg"
+ },
+ {
+  "id": "converse-one-star",
+  "brand": "匡威",
+  "name": "One Star",
+  "nameEn": "One Star",
+  "type": "帆布鞋",
+  "desc": "1974年推出的麂皮低帮鞋,单星Logo随性不羁,从90年代垃圾摇滚到滑板圈持续翻红,是匡威的潮流支线担当。",
+  "file": "data\\img\\converse-one-star.jpg"
+ },
+ {
+  "id": "converse-jack-purcell",
+  "brand": "匡威",
+  "name": "Jack Purcell 开口笑",
+  "nameEn": "Jack Purcell",
+  "type": "帆布鞋",
+  "desc": "1935年为加拿大羽毛球冠军杰克·珀塞尔设计的「开口笑」鞋头,圆润优雅,是匡威阵营里斯文气质的代表。",
+  "file": "data\\img\\converse-jack-purcell.jpg"
+ },
+ {
+  "id": "converse-run-star-hike",
+  "brand": "匡威",
+  "name": "Run Star Hike",
+  "nameEn": "Run Star Hike",
+  "type": "厚底帆布鞋",
+  "desc": "2020年走红的厚底增高帆布鞋,锯齿大底加夸张厚跟,显高效果一流,成为Z世代年轻人的心头好。",
+  "file": "data\\img\\converse-run-star-hike.jpg"
+ },
+ {
+  "id": "converse-weapon",
+  "brand": "匡威",
+  "name": "Weapon",
+  "nameEn": "Weapon",
+  "type": "篮球鞋",
+  "desc": "1986年问世的经典篮球鞋,大鸟伯德与魔术师约翰逊史上首次同框代言,复刻后以皮质鞋面与复古气场征服街头。",
+  "file": "data\\img\\converse-weapon.jpg"
+ }
+]

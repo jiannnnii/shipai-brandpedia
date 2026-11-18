@@ -1,0 +1,452 @@
+[
+ {
+  "id": "furla-metropolis",
+  "brand": "芙拉",
+  "name": "Metropolis 系列",
+  "nameEn": "Metropolis",
+  "type": "手袋",
+  "desc": "迷你贝壳形斜挎包,造型精致小巧,配色丰富,曾是街拍出镜率极高的爆款。",
+  "file": "data\\img\\furla-metropolis.jpg"
+ },
+ {
+  "id": "furla-candy",
+  "brand": "芙拉",
+  "name": "Candy 果冻包",
+  "nameEn": "Candy Bag",
+  "type": "果冻包",
+  "desc": "以果冻般透明橡胶材质打造的知名包款,糖果色彩与轻巧设计让它一度风靡全球。",
+  "file": "data\\img\\furla-candy.jpg"
+ },
+ {
+  "id": "furla-net",
+  "brand": "芙拉",
+  "name": "Net 手袋",
+  "nameEn": "Net Bag",
+  "type": "手袋",
+  "desc": "立体网面设计的手袋系列,光影层次别致,搭配金属配件尽显意式俏皮。",
+  "file": "data\\img\\furla-net.jpg"
+ },
+ {
+  "id": "furla-wallets",
+  "brand": "芙拉",
+  "name": "钱包与小皮具",
+  "nameEn": "Small Leather Goods",
+  "type": "小皮具",
+  "desc": "皮革钱夹与卡包延续品牌配色哲学,意大利工艺打底,价格亲民入门无压力。",
+  "file": "data\\img\\furla-wallets.jpg"
+ },
+ {
+  "id": "furla-tote",
+  "brand": "芙拉",
+  "name": "通勤托特包",
+  "nameEn": "Tote",
+  "type": "托特包",
+  "desc": "大容量托特兼顾电脑收纳与日常造型,皮质挺括,是职场女性的实用之选。",
+  "file": "data\\img\\furla-tote.jpg"
+ },
+ {
+  "id": "giorgio-armani-suit",
+  "brand": "乔治·阿玛尼",
+  "name": "解构西装",
+  "nameEn": "Deconstructed Suit",
+  "type": "西装",
+  "desc": "品牌灵魂产品,去衬垫软肩剪裁让西装如开衫般舒适,灰调面料与修身线条重塑了现代男装与职场女装。",
+  "file": "data\\img\\giorgio-armani-suit.jpg"
+ },
+ {
+  "id": "giorgio-armani-la-prima",
+  "brand": "乔治·阿玛尼",
+  "name": "La Prima手袋",
+  "nameEn": "La Prima",
+  "type": "手袋",
+  "desc": "2019年复刻的经典档案系列,皮质柔软、线条简约,配品牌金属铭牌,低调务实。",
+  "file": "data\\img\\giorgio-armani-la-prima.jpg"
+ },
+ {
+  "id": "giorgio-armani-acqua-di-gio",
+  "brand": "乔治·阿玛尼",
+  "name": "寄情男士香水",
+  "nameEn": "Acqua di Giò",
+  "type": "香水",
+  "desc": "1996年推出的全球畅销男士香水,地中海海洋气息配柑橘调,蓝色瓶身如爱奥尼亚海,长期占据全球男香销量榜前列。",
+  "file": "data\\img\\giorgio-armani-acqua-di-gio.jpg"
+ },
+ {
+  "id": "giorgio-armani-si",
+  "brand": "乔治·阿玛尼",
+  "name": "挚爱香水",
+  "nameEn": "Sì",
+  "type": "香水",
+  "desc": "2013年推出的女士香水,黑加仑与玫瑰的馥郁花果调,由凯特·布兰切特代言,是女香线旗舰。",
+  "file": "data\\img\\giorgio-armani-si.jpg"
+ },
+ {
+  "id": "giorgio-armani-coat",
+  "brand": "乔治·阿玛尼",
+  "name": "羊绒大衣",
+  "nameEn": "Cashmere Coat",
+  "type": "大衣",
+  "desc": "以顶级羊绒与流线剪裁著称的大衣系列,色彩以米灰驼等中性调为主,松弛的优雅深受商务人士喜爱。",
+  "file": "data\\img\\giorgio-armani-coat.jpg"
+ },
+ {
+  "id": "givenchy-antigona",
+  "brand": "纪梵希",
+  "name": "Antigona",
+  "nameEn": "Antigona",
+  "type": "手袋",
+  "desc": "2010年推出的方形手袋,名字取自希腊悲剧人物,挺括廓形配大号拉链与三角底座,是品牌销量支柱。",
+  "file": "data\\img\\givenchy-antigona.jpg"
+ },
+ {
+  "id": "givenchy-gv3",
+  "brand": "纪梵希",
+  "name": "GV3",
+  "nameEn": "GV3",
+  "type": "手袋",
+  "desc": "致敬品牌1952年创立的GV3手袋,皮革拼接配金属G扣与翻盖设计,是克莱尔·怀特·凯勒时期的招牌款。",
+  "file": "data\\img\\givenchy-gv3.jpg"
+ },
+ {
+  "id": "givenchy-eden",
+  "brand": "纪梵希",
+  "name": "Eden",
+  "nameEn": "Eden",
+  "type": "手袋",
+  "desc": "2020年前后推出的翻盖手袋,压花皮革与链条肩带组合,圆润轮廓优雅百搭,是近年品牌主力包型之一。",
+  "file": "data\\img\\givenchy-eden.jpg"
+ },
+ {
+  "id": "givenchy-voyou",
+  "brand": "纪梵希",
+  "name": "Voyou",
+  "nameEn": "Voyou",
+  "type": "手袋",
+  "desc": "2022年推出的软质单肩包,弧形袋身随性慵懒,明星街拍频繁出镜,是近年人气款。",
+  "file": "data\\img\\givenchy-voyou.jpg"
+ },
+ {
+  "id": "givenchy-le-rouge",
+  "brand": "纪梵希",
+  "name": "小羊皮口红",
+  "nameEn": "Le Rouge",
+  "type": "口红",
+  "desc": "以小羊皮包裹的哑光口红,黑色皮质外壳辨识度极高,306等色号经典,是美妆线招牌产品。",
+  "file": "data\\img\\givenchy-le-rouge.jpg"
+ },
+ {
+  "id": "givenchy-linterdit",
+  "brand": "纪梵希",
+  "name": "禁忌香水",
+  "nameEn": "L'Interdit",
+  "type": "香水",
+  "desc": "1957年为奥黛丽·赫本量身打造、2018年重启的香水,白花与深色木质气息对撞,致敬赫本与纪梵希的传奇友谊。",
+  "file": "data\\img\\givenchy-linterdit.jpg"
+ },
+ {
+  "id": "gucci-marmont",
+  "brand": "古驰",
+  "name": "GG Marmont",
+  "nameEn": "GG Marmont",
+  "type": "手袋",
+  "desc": "2016年推出的绗缝手袋系列,翻盖配做旧双G螺丝扣,天鹅绒与多种皮革材质可选,是近年古驰最畅销的包型。",
+  "file": "data\\img\\gucci-marmont.jpg"
+ },
+ {
+  "id": "gucci-dionysus",
+  "brand": "古驰",
+  "name": "酒神包",
+  "nameEn": "Dionysus",
+  "type": "手袋",
+  "desc": "2015年米歇尔首秀主打款,虎头马刺扣灵感来自希腊酒神传说,天鹅绒与提花版本屡成秀场焦点。",
+  "file": "data\\img\\gucci-dionysus.jpg"
+ },
+ {
+  "id": "gucci-horsebit-1955",
+  "brand": "古驰",
+  "name": "Horsebit 1955",
+  "nameEn": "Horsebit 1955",
+  "type": "手袋",
+  "desc": "以1955年问世的马衔扣元素命名,马鞍包型配双G帆布与皮革拼接,把半个多世纪前的经典在2020年复活。",
+  "file": "data\\img\\gucci-horsebit-1955.jpg"
+ },
+ {
+  "id": "gucci-ophidia",
+  "brand": "古驰",
+  "name": "Ophidia",
+  "nameEn": "Ophidia",
+  "type": "手袋",
+  "desc": "2018年推出的老花复兴系列,GG Supreme帆布配红绿织带与双G徽标,托特、肩包等形制丰富,价格相对亲民。",
+  "file": "data\\img\\gucci-ophidia.jpg"
+ },
+ {
+  "id": "hermes-birkin",
+  "brand": "爱马仕",
+  "name": "铂金包",
+  "nameEn": "Birkin",
+  "type": "手袋",
+  "desc": "以英国演员简·柏金命名的传奇手袋,1984年问世,采用Togo、Clemence等优质皮料由工匠手工缝制,专柜长期一包难",
+  "file": "data\\img\\hermes-birkin.jpg"
+ },
+ {
+  "id": "hermes-kelly",
+  "brand": "爱马仕",
+  "name": "凯莉包",
+  "nameEn": "Kelly",
+  "type": "手袋",
+  "desc": "1956年因摩纳哥王妃格蕾丝·凯莉使用而得名的单手柄手袋,轮廓硬挺、工艺繁复,包身需手工缝线包边,是爱马仕优雅风格的代名",
+  "file": "data\\img\\hermes-kelly.jpg"
+ },
+ {
+  "id": "hermes-constance",
+  "brand": "爱马仕",
+  "name": "康斯坦丝包",
+  "nameEn": "Constance",
+  "type": "手袋",
+  "desc": "1969年推出的小巧方形手袋,标志性大号H金属锁扣辨识度极高,肩背手提皆宜,是爱马仕最难买的热门包型之一。",
+  "file": "data\\img\\hermes-constance.jpg"
+ },
+ {
+  "id": "hermes-lindy",
+  "brand": "爱马仕",
+  "name": "琳迪包",
+  "nameEn": "Lindy",
+  "type": "手袋",
+  "desc": "2007年问世的休闲手袋,袋身柔软随性,宽肩带便于斜挎,兼具容量与舒适度,是近年爱马仕入门的热门之选。",
+  "file": "data\\img\\hermes-lindy.jpg"
+ },
+ {
+  "id": "hermes-carre-scarf",
+  "brand": "爱马仕",
+  "name": "爱马仕丝巾",
+  "nameEn": "Carré 90",
+  "type": "丝巾",
+  "desc": "1937年为致敬品牌推出的90厘米方巾,由艺术家设计、里昂工坊织造,题材涵盖马术、艺术与旅行,被誉为可以佩戴的艺术品。",
+  "file": "data\\img\\hermes-carre-scarf.jpg"
+ },
+ {
+  "id": "hermes-clic-h",
+  "brand": "爱马仕",
+  "name": "Clic H手镯",
+  "nameEn": "Clic H",
+  "type": "首饰",
+  "desc": "以标志性H字母为主题的珐琅手镯,色彩丰富、价格相对亲民,是入门爱马仕最经典的小件配饰。",
+  "file": "data\\img\\hermes-clic-h.jpg"
+ },
+ {
+  "id": "im-pleatsplease",
+  "brand": "三宅一生",
+  "name": "Pleats Please 褶皱系列",
+  "nameEn": "Pleats Please",
+  "type": "女装系列",
+  "desc": "1993 年问世的经典褶皱线,聚酯面料经热压定型后可自由舒展,轻便抗皱、易于收纳,连衣裙与阔腿裤是最热门的品类。",
+  "file": "data\\img\\im-pleatsplease.jpg"
+ },
+ {
+  "id": "im-me",
+  "brand": "三宅一生",
+  "name": "me ISSEY MIYAKE",
+  "nameEn": "me ISSEY MIYAKE",
+  "type": "女装系列",
+  "desc": "定位年轻的女装副线,以日常褶皱与弹性面料为主,价格较主线亲民,设计简洁实用,是入门品牌的理想选择。",
+  "file": "data\\img\\im-me.jpg"
+ },
+ {
+  "id": "im-mainline",
+  "brand": "三宅一生",
+  "name": "ISSEY MIYAKE 主线",
+  "nameEn": "ISSEY MIYAKE",
+  "type": "女装系列",
+  "desc": "品牌核心系列,延续立体剪裁与新材料实验,每季以织物研究为主题,廓形前卫而实穿,代表日本设计的最高水准之一。",
+  "file": "data\\img\\im-mainline.jpg"
+ },
+ {
+  "id": "jpg-lemale",
+  "brand": "高缇耶",
+  "name": "Le Male 男士香水",
+  "nameEn": "Le Male",
+  "type": "香水",
+  "desc": "1995 年推出的经典男香,以薰衣草与香草的组合造就性感东方调,水手服造型的躯干瓶身辨识度极高,是全球销量最高的男香之一",
+  "file": "data\\img\\jpg-lemale.jpg"
+ },
+ {
+  "id": "jpg-classique",
+  "brand": "高缇耶",
+  "name": "Classique 女士香水",
+  "nameEn": "Classique",
+  "type": "香水",
+  "desc": "1993 年问世的品牌首支香水,以橙花与香草构成性感花香调,锥形胸衣瓶身致敬品牌符号,是 90 年代的标志性女香。",
+  "file": "data\\img\\jpg-classique.jpg"
+ },
+ {
+  "id": "jpg-labelle",
+  "brand": "高缇耶",
+  "name": "La Belle 香水",
+  "nameEn": "La Belle",
+  "type": "香水",
+  "desc": "以梨子与琥珀构成甜美果香调,裸色躯干瓶身延续品牌符号,定位性感迷人的现代女性,是品牌香水矩阵中的甜美担当。",
+  "file": "data\\img\\jpg-labelle.jpg"
+ },
+ {
+  "id": "jc-romy",
+  "brand": "吉米·周",
+  "name": "Romy 高跟鞋",
+  "nameEn": "Romy Pump",
+  "type": "高跟鞋",
+  "desc": "圆润鞋头搭配流畅弧线的经典鞋型,提供 60 至 120 毫米多种跟高,漆皮与闪面材质选择丰富,是品牌销量最高的基础款之一",
+  "file": "data\\img\\jc-romy.jpg"
+ },
+ {
+  "id": "jc-anouk",
+  "brand": "吉米·周",
+  "name": "Anouk 高跟鞋",
+  "nameEn": "Anouk Pump",
+  "type": "高跟鞋",
+  "desc": "120 毫米细跟搭配尖锐鞋头,鞋身线条利落,常见亮片与渐变闪面版本,是红毯造型的常客。",
+  "file": "data\\img\\jc-anouk.jpg"
+ },
+ {
+  "id": "jc-diamond",
+  "brand": "吉米·周",
+  "name": "Diamond 运动鞋",
+  "nameEn": "Diamond Sneaker",
+  "type": "运动鞋",
+  "desc": "以钻石切面为灵感的几何厚底运动鞋,鞋底与鞋身由多边形拼接,辨识度极高,将晚装美学注入运动鞋设计。",
+  "file": "data\\img\\jc-diamond.jpg"
+ },
+ {
+  "id": "jnby-dress",
+  "brand": "江南布衣",
+  "name": "设计师连衣裙",
+  "nameEn": "Designer Dress",
+  "type": "连衣裙",
+  "desc": "以不对称剪裁、褶皱与垂坠面料著称,版型松弛包容多种身形,设计语言克制而独特,是品牌最核心的品类。",
+  "file": "data\\img\\jnby-dress.jpg"
+ },
+ {
+  "id": "jnby-coat",
+  "brand": "江南布衣",
+  "name": "廓形外套",
+  "nameEn": "Oversized Coat",
+  "type": "外套",
+  "desc": "以落肩加长廓形与面料肌理为特色,常见棉麻与羊毛混纺材质,兼顾保暖与造型感,是秋冬陈列的主角。",
+  "file": "data\\img\\jnby-coat.jpg"
+ },
+ {
+  "id": "jnby-knit",
+  "brand": "江南布衣",
+  "name": "针织衫",
+  "nameEn": "Knitwear",
+  "type": "针织衫",
+  "desc": "以羊毛、马海毛等混纺纱线织成,常以镂空与不规则纹理呈现肌理感,版型宽松,是品牌秋冬的高频单品。",
+  "file": "data\\img\\jnby-knit.jpg"
+ },
+ {
+  "id": "jnby-shirt",
+  "brand": "江南布衣",
+  "name": "设计感衬衫",
+  "nameEn": "Shirt",
+  "type": "衬衫",
+  "desc": "在基础衬衫版型上加入不对称门襟、抽褶与拼料细节,棉麻面料居多,通勤与休闲皆宜,是春夏畅销款。",
+  "file": "data\\img\\jnby-shirt.jpg"
+ },
+ {
+  "id": "jnby-pants",
+  "brand": "江南布衣",
+  "name": "阔腿裤装",
+  "nameEn": "Wide-Leg Pants",
+  "type": "裤装",
+  "desc": "以垂感面料与高腰阔腿版型为主,修饰腿型,与品牌外套搭配度高,是整体造型中实用度最高的单品之一。",
+  "file": "data\\img\\jnby-pants.jpg"
+ },
+ {
+  "id": "katespade-handbags",
+  "brand": "凯特·丝蓓",
+  "name": "经典手袋",
+  "nameEn": "Handbags",
+  "type": "手袋",
+  "desc": "Knott、Sam 等系列以流畅轮廓与精致五金取胜,桃心铆钉等彩蛋细节充满巧思。",
+  "file": "data\\img\\katespade-handbags.jpg"
+ },
+ {
+  "id": "katespade-tote",
+  "brand": "凯特·丝蓓",
+  "name": "托特包",
+  "nameEn": "Totes",
+  "type": "托特包",
+  "desc": "大容量托特包印有品牌标语或彩绘图案,轻便能装,通勤上学的人气选择。",
+  "file": "data\\img\\katespade-tote.jpg"
+ },
+ {
+  "id": "katespade-lifestyle",
+  "brand": "凯特·丝蓓",
+  "name": "生活方式周边",
+  "nameEn": "Home & Lifestyle",
+  "type": "生活杂货",
+  "desc": "从文具、马克杯到手机壳,把彩色图案带进日常小物,是品牌趣味美学的延伸。",
+  "file": "data\\img\\katespade-lifestyle.jpg"
+ },
+ {
+  "id": "kenzo-tigertee",
+  "brand": "高田贤三",
+  "name": "虎头T恤",
+  "nameEn": "Tiger T-shirt",
+  "type": "T恤",
+  "desc": "虎头图案的短袖版本,面料厚实、版型宽松,是入门这个品牌的首选单品。",
+  "file": "data\\img\\kenzo-tigertee.jpg"
+ },
+ {
+  "id": "kenzo-fragrance",
+  "brand": "高田贤三",
+  "name": "香水",
+  "nameEn": "Fragrance",
+  "type": "香水",
+  "desc": "Flower by Kenzo 罂粟花香氛闻名遐迩,一枝花瓶身极具辨识度,清甜花香适合日常佩戴。",
+  "file": "data\\img\\kenzo-fragrance.jpg"
+ },
+ {
+  "id": "kenzo-sneakers",
+  "brand": "高田贤三",
+  "name": "运动鞋",
+  "nameEn": "Sneakers",
+  "type": "鞋履",
+  "desc": "虎头元素点缀的板鞋与老爹鞋,设计活泼、配色大胆,与卫衣组成经典街头穿搭。",
+  "file": "data\\img\\kenzo-sneakers.jpg"
+ },
+ {
+  "id": "kenzo-readytowear",
+  "brand": "高田贤三",
+  "name": "成衣系列",
+  "nameEn": "Ready-to-Wear",
+  "type": "服装",
+  "desc": "印花衬衫、针织与连衣裙延续创始人对色彩与花卉的热爱,东西混搭风格独树一帜。",
+  "file": "data\\img\\kenzo-readytowear.jpg"
+ },
+ {
+  "id": "lacoste-slimpolo",
+  "brand": "拉科斯特",
+  "name": "修身版 Polo 衫",
+  "nameEn": "Slim Fit Polo",
+  "type": "Polo 衫",
+  "desc": "在经典版型基础上收窄腰身与袖口,更贴合身形,颜色选择丰富,适合偏瘦或喜欢利落感的穿着者。",
+  "file": "data\\img\\lacoste-slimpolo.jpg"
+ },
+ {
+  "id": "lacoste-carnaby",
+  "brand": "拉科斯特",
+  "name": "Carnaby 运动鞋",
+  "nameEn": "Carnaby Sneaker",
+  "type": "运动鞋",
+  "desc": "品牌最畅销的休闲板鞋,以简洁的皮革鞋身与鳄鱼小标点缀,复古百搭,男女同款,是品牌鞋履线的销量支柱。",
+  "file": "data\\img\\lacoste-carnaby.jpg"
+ },
+ {
+  "id": "lacoste-tshirt",
+  "brand": "拉科斯特",
+  "name": "圆领 T 恤",
+  "nameEn": "T-Shirt",
+  "type": "T 恤",
+  "desc": "以纯棉平纹布制成,胸前小鳄鱼刺绣低调点缀,版型常规,颜色齐全,是入门品牌与日常穿搭的基础款。",
+  "file": "data\\img\\lacoste-tshirt.jpg"
+ }
+]

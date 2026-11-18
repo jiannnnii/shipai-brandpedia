@@ -1,0 +1,252 @@
+[
+ {
+  "id": "celine-luggage",
+  "verdict": "mismatch",
+  "note": "图为一间会议室里多人开会的新闻照片，与赛琳笑脸包完全无关。"
+ },
+ {
+  "id": "celine-belt-bag",
+  "verdict": "mismatch",
+  "note": "图为华为智选SF5蓝色汽车在展厅的实拍，与鲶鱼包无关。"
+ },
+ {
+  "id": "celine-ava",
+  "verdict": "mismatch",
+  "note": "图为赛车场赛道与看台的风景图，与Ava腋下包无关。"
+ },
+ {
+  "id": "celine-16",
+  "verdict": "mismatch",
+  "note": "图为F1中国大奖赛上海赛道看台全景，与16包无关。"
+ },
+ {
+  "id": "chanel-boy",
+  "verdict": "mismatch",
+  "note": "图为埃及金字塔和狮身人面像风景照，与Le Boy手袋无关。"
+ },
+ {
+  "id": "chanel-19",
+  "verdict": "mismatch",
+  "note": "图为百家号平台的蓝色logo图，与香奈儿19手袋毫无关系。"
+ },
+ {
+  "id": "chanel-coco-handle",
+  "verdict": "mismatch",
+  "note": "图为八仙过海神话人物绘画，与Coco Handle手袋无关。"
+ },
+ {
+  "id": "chanel-chance",
+  "verdict": "mismatch",
+  "note": "图为一位穿黑裙撑黑伞的舞者抠图素材，与邂逅香水无关。"
+ },
+ {
+  "id": "chloe-drew",
+  "verdict": "mismatch",
+  "note": "图为一幅大胡子男士（恩格斯）油画肖像，与小猪包无关。"
+ },
+ {
+  "id": "chloe-marcie",
+  "verdict": "mismatch",
+  "note": "图为男艺人穿印花衬衫的街拍人物照，不是Marcie手袋产品图。"
+ },
+ {
+  "id": "chloe-faye",
+  "verdict": "mismatch",
+  "note": "图为房屋建筑结构轴测示意图，与Faye手袋无关。"
+ },
+ {
+  "id": "chloe-woody",
+  "verdict": "mismatch",
+  "note": "图为乒乓球运动员樊振东比赛照（带人民日报客户端水印），与Woody托特包无关。"
+ },
+ {
+  "id": "chloe-fragrance",
+  "verdict": "mismatch",
+  "note": "图为87版红楼梦剧照，众女子在花园中赏花，与丝带香水无关。"
+ },
+ {
+  "id": "chloe-readytowear",
+  "verdict": "mismatch",
+  "note": "图为恐怖奶奶题材手机游戏截图，配文“老师气得耳朵直冒烟”，与成衣无关。"
+ },
+ {
+  "id": "cl-sokate",
+  "verdict": "mismatch",
+  "note": "图为中华人民共和国地图插画，与So Kate高跟鞋无关。"
+ },
+ {
+  "id": "cl-pigallefollies",
+  "verdict": "mismatch",
+  "note": "图为电影《雾都孤儿 Oliver Twist》海报，与Pigalle Follies高跟鞋无关。"
+ },
+ {
+  "id": "cl-iriza",
+  "verdict": "mismatch",
+  "note": "图为APKPure网站下载微信APK的网页截图，与Iriza高跟鞋无关。"
+ },
+ {
+  "id": "cl-kate",
+  "verdict": "mismatch",
+  "note": "图为仓库货架实拍照片，与Kate高跟鞋无关。"
+ },
+ {
+  "id": "cl-louisjunior",
+  "verdict": "mismatch",
+  "note": "图为图书馆建筑外景图库照片（带昵图网水印），与Louis Junior男士运动鞋无关。"
+ },
+ {
+  "id": "cdg-play",
+  "verdict": "mismatch",
+  "note": "图为亚马逊中国App更换国家设置的教程截图（拼图），与CDG PLAY心形系列无关。"
+ },
+ {
+  "id": "cdg-hommeplus",
+  "verdict": "mismatch",
+  "note": "图为电影公映许可证的视频播放器截图，与Homme Plus男装无关。"
+ },
+ {
+  "id": "cdg-shirt",
+  "verdict": "mismatch",
+  "note": "图为演播厅舞台灯光效果图（带让提网水印），与SHIRT系列衬衫无关。"
+ },
+ {
+  "id": "cdg-parfums",
+  "verdict": "mismatch",
+  "note": "图为自来水发黄浑浊原因的科普图文（生活小技能账号水印），与CDG香水无关。"
+ },
+ {
+  "id": "coach-tote",
+  "verdict": "mismatch",
+  "note": "图为一张安徽增值税专用发票照片，与蔻驰托特包无关。"
+ },
+ {
+  "id": "coach-wallets",
+  "verdict": "mismatch",
+  "note": "图为户外红色帐篷前学生排队参加活动的照片，与蔻驰钱包小皮具无关。"
+ },
+ {
+  "id": "coach-mensbags",
+  "verdict": "mismatch",
+  "note": "图为玻璃钢储罐等工业设备照片（带shenbao标志），与男士包袋无关。"
+ },
+ {
+  "id": "dz-dress",
+  "verdict": "mismatch",
+  "note": "图为妈妈怀抱孩子的爱国主题插画（五星红旗元素），与地素连衣裙无关。"
+ },
+ {
+  "id": "dz-coat",
+  "verdict": "mismatch",
+  "note": "图为中医药书籍《金匮要略》的封面，与都市大衣无关。"
+ },
+ {
+  "id": "dz-denim",
+  "verdict": "mismatch",
+  "note": "图为盐酸舍曲林片药品包装盒，与牛仔裤装无关。"
+ },
+ {
+  "id": "dior-lady-dior",
+  "verdict": "mismatch",
+  "note": "图为肺炎球菌的显微镜彩色图像，与戴妃包无关。"
+ },
+ {
+  "id": "dior-saddle",
+  "verdict": "mismatch",
+  "note": "图为影视剧女演员剧照，与迪奥马鞍包无关。"
+ },
+ {
+  "id": "dior-book-tote",
+  "verdict": "mismatch",
+  "note": "图为深色织物上的民族风刺绣纹样特写，与Book Tote手袋无关。"
+ },
+ {
+  "id": "dior-30-montaigne",
+  "verdict": "mismatch",
+  "note": "图为男士站在大陆轮胎Continental黄色招牌前的合影，与蒙田包无关。"
+ },
+ {
+  "id": "dior-caro",
+  "verdict": "mismatch",
+  "note": "图为美式风格客厅室内装修效果图，与Caro链条包无关。"
+ },
+ {
+  "id": "dolce-gabbana-sicily",
+  "verdict": "mismatch",
+  "note": "图为三只鸭子在水边的照片（带摄图网水印），与Sicily手袋无关。"
+ },
+ {
+  "id": "dolce-gabbana-devotion",
+  "verdict": "mismatch",
+  "note": "图为中央民族大学中英文成绩单截图（带知乎水印），与Devotion爱心包无关。"
+ },
+ {
+  "id": "dolce-gabbana-light-blue",
+  "verdict": "mismatch",
+  "note": "图为OpenPortal认证系统钉钉企业微信设置界面截图（带CSDN水印），与Light Blue香水无关。"
+ },
+ {
+  "id": "dolce-gabbana-crystal-flats",
+  "verdict": "mismatch",
+  "note": "图为秋季金黄色银杏树林风景照，与水晶装饰平底鞋无关。"
+ },
+ {
+  "id": "dolce-gabbana-the-one",
+  "verdict": "mismatch",
+  "note": "图为武汉地铁12号线线路示意图，与The One香水无关。"
+ },
+ {
+  "id": "etro-paisleyshirt",
+  "verdict": "mismatch",
+  "note": "图为绿色山林风景照，与佩斯利印花衬衫无关。"
+ },
+ {
+  "id": "etro-scarves",
+  "verdict": "mismatch",
+  "note": "图为咸宁城区地图（带逛网水印），与羊绒围巾无关。"
+ },
+ {
+  "id": "etro-ties",
+  "verdict": "mismatch",
+  "note": "图为影视剧脚部特写四格拼图截图，与真丝领带无关。"
+ },
+ {
+  "id": "etro-bags",
+  "verdict": "mismatch",
+  "note": "图为紫色背景的“Sugar Ark”品牌logo图，与艾绰手袋无关。"
+ },
+ {
+  "id": "etro-readytowear",
+  "verdict": "mismatch",
+  "note": "图为无锡鼋头渚樱花与帆船风景照，与成衣系列无关。"
+ },
+ {
+  "id": "etro-fragrance",
+  "verdict": "mismatch",
+  "note": "图为商丘古城城门楼照片，与香水无关。"
+ },
+ {
+  "id": "fendi-by-the-way",
+  "verdict": "mismatch",
+  "note": "图为稻水象甲昆虫趴在叶片上的微距照片，与By The Way手袋无关。"
+ },
+ {
+  "id": "ferragamo-vara",
+  "verdict": "mismatch",
+  "note": "图为苗木基地盆栽灌木照片，与Vara蝴蝶结鞋无关。"
+ },
+ {
+  "id": "ferragamo-varina",
+  "verdict": "mismatch",
+  "note": "图为黑底白色虚线交叉的几何图案图，与Varina芭蕾鞋无关。"
+ },
+ {
+  "id": "ferragamo-signorina",
+  "verdict": "mismatch",
+  "note": "图为影视剧女演员回眸剧照，与Signorina香水无关。"
+ },
+ {
+  "id": "furla-1927",
+  "verdict": "mismatch",
+  "note": "图为农民在田间从卡车搬运苗木的劳动场景照片，与Furla 1927手袋无关。"
+ }
+]

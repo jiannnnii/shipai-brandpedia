@@ -1,0 +1,12 @@
+[
+ {"id":"lange-lange1","verdict":"mismatch","note":"图是比亚迪闪充技术发布会现场照片,与朗格Lange 1腕表完全无关"},
+ {"id":"laofengxiang-birdbracelet","verdict":"mismatch","note":"图是老挝国旗飘扬照片,不是龙凤金镯"},
+ {"id":"laofengxiang-silver","verdict":"mismatch","note":"图是老挝国旗照片,与老凤祥银器无关"},
+ {"id":"laofengxiang-pearl","verdict":"mismatch","note":"图是老挝国旗圆形图标,不是珍珠首饰"},
+ {"id":"laomiao-lucky","verdict":"mismatch","note":"图是'wifi万能钥匙如何看密码'的手机教程截图,与黄金首饰无关"},
+ {"id":"laomiao-ancient","verdict":"mismatch","note":"图是信阳白茶生产车间晾晒茶叶的照片,不是古法金手镯"},
+ {"id":"laomiao-guochao","verdict":"mismatch","note":"图是一个QQ批量签到辅助软件的界面截图,与国潮金饰无关"},
+ {"id":"longines-master","verdict":"ok","note":"金色表壳灰盘浪琴正装自动表,品牌与正装表定位相符,主体清晰可辨"},
+ {"id":"longines-hydroconquest","verdict":"mismatch","note":"图是浪琴玫瑰金黑盘正装表特写,不是康卡斯潜水表,表款风格完全不符"},
+ {"id":"longines-spirit","verdict":"mismatch","note":"图是浪琴银盘蓝针正装表,不是先行者飞行员计时表"}
+]

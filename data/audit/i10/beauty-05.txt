@@ -1,0 +1,10 @@
+diptyque-figuier | 蒂普提克 无花果蜡烛(Figuier Candle,香薰蜡烛) | 地中海无花果树影,夏日午后的奶绿感。 | data\img\diptyque-figuier.jpg
+diptyque-cardiff | 蒂普提克 曼特淡香精(Eau de Parfum,香水) | EDP高浓度线,沙龙香的进阶玩法。 | data\img\diptyque-cardiff.jpg
+dovebody-bar | 多芬 经典香块(Beauty Bar,香皂) | 1957年的起点,温和洁面皂的鼻祖。 | data\img\dovebody-bar.jpg
+dovebody-deo | 多芬 止汗走珠(Deodorant,止汗露) | 48小时止汗,夏日通勤必备。 | data\img\dovebody-deo.jpg
+estee-lauder-advanced-night-repair | 雅诗兰黛 特润修护精华(小棕瓶)(Advanced Night Repair,精华) | 雅诗兰黛的镇牌之宝,1982年问世,主打夜间修护与抗老,历经多代升级,棕瓶造型深入人心,是全球销量最高的精华之一。 | data\img\estee-lauder-advanced-night-repair.jpg
+estee-lauder-micro-essence | 雅诗兰黛 微精华原生液(Micro Essence,精华水) | 雅诗兰黛的高端肌底精华水,以酵母精萃为核心,主打强韧屏障、细腻毛孔,质地清爽偏水感,是化妆水与精华之间的打底之选。 | data\img\estee-lauder-micro-essence.jpg
+estee-lauder-revitalizing-supreme | 雅诗兰黛 智妍多效精华面霜(Revitalizing Supreme+,面霜) | 主打紧致塑颜与多效抗初老的面霜,质地丰润不黏腻,与智妍家族精华搭配使用口碑更佳,适合轻熟龄肌肤。 | data\img\estee-lauder-revitalizing-supreme.jpg
+estee-lauder-renutriv | 雅诗兰黛 白金级奢宠面霜(Re-Nutriv,面霜) | 雅诗兰黛1956年开创的顶级奢华线,以珍稀成分与极致肤感著称,是集团奢华护肤的起点与标杆。 | data\img\estee-lauder-renutriv.jpg
+estee-lauder-double-wear | 雅诗兰黛 持妆粉底液(DW)(Double Wear,粉底液) | 美妆界传奇粉底,以超长持妆、高遮瑕、不易脱妆著称,1997年上市至今仍是全球销量冠军级别的底妆产品。 | data\img\estee-lauder-double-wear.jpg
+estee-lauder-pure-color-envy | 雅诗兰黛 倾慕唇膏(Pure Color Envy,唇膏) | 雅诗兰黛主力口红系列,显色饱满、妆效立体,哑光与滋润质地兼具,热门色号常年热销。 | data\img\estee-lauder-pure-color-envy.jpg

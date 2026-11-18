@@ -1,0 +1,10 @@
+chloe-readytowear | 蔻依 女装成衣(Ready-to-Wear,服装) | 飘逸连衣裙、蕾丝衬衫与阔腿裤演绎法式浪漫,面料轻软,尽显波西米亚气质。 | data\img\chloe-readytowear.jpg
+cl-sokate | 克里斯提·鲁布托 So Kate 高跟鞋(So Kate Pump,高跟鞋) | 120 毫米鞋跟搭配极细跟身与尖头造型,线条凌厉性感,是红毯与婚鞋场合的经典之选,黑色漆皮版本最为畅销。 | data\img\cl-sokate.jpg
+cl-pigallefollies | 克里斯提·鲁布托 Pigalle Follies 高跟鞋(Pigalle Follies Pump,高跟鞋) | 经典 Pigalle 鞋型的升级版本,加深鞋口以拉长腿部线条,100 毫米跟高平衡优雅与舒适,是通勤与晚宴之间的百搭款。 | data\img\cl-pigallefollies.jpg
+cl-iriza | 克里斯提·鲁布托 Iriza 半空高跟鞋(Iriza Pump,高跟鞋) | d'Orsay 半镂空结构露出足弓曲线,结合尖头设计,视觉上更显脚型纤细,婚鞋与礼服场景人气极高。 | data\img\cl-iriza.jpg
+cl-kate | 克里斯提·鲁布托 Kate 高跟鞋(Kate Pump,高跟鞋) | 85 毫米中跟的尖头红底鞋,重心适中更易驾驭,是品牌入门与通勤场景的热门选择,亦有平底版本可供选择。 | data\img\cl-kate.jpg
+cdg-play | 川久保玲 PLAY 心形系列(CDG PLAY,T恤/卫衣) | 以波兰插画师 Filip Pagowski 设计的红心大眼睛图案为标志,T 恤与卫衣是最受欢迎的单品,让先锋品牌拥有了大 | data\img\cdg-play.jpg
+cdg-hommeplus | 川久保玲 Homme Plus 男装(Homme Plus,男装系列) | 品牌男装主线,以打破常规的西装剪裁与材质拼接闻名,延续品牌先锋语言,是男装周的高光系列。 | data\img\cdg-hommeplus.jpg
+cdg-shirt | 川久保玲 SHIRT 系列(CDG SHIRT,衬衫) | 专注衬衫品类的副线,以波点、条纹与打破常规的印花图案为特色,面料与版型考究,是品牌价格与设计平衡的日常线。 | data\img\cdg-shirt.jpg
+cdg-parfums | 川久保玲 香水系列(CDG Parfums,香水) | 1994 年起推出的香氛线,Odeur 53、Wonderwood 等以工业与木质元素入香,概念前卫,瓶身设计亦具收藏价 | data\img\cdg-parfums.jpg
+coach-tote | 蔻驰 托特包(Tote,托特包) | 帆布与皮革结合的大容量托特,马车图案与老花托特常年畅销,上学通勤皆宜。 | data\img\coach-tote.jpg

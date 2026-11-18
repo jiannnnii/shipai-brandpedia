@@ -1,0 +1,212 @@
+[
+ {
+  "id": "tb-cardigan",
+  "verdict": "mismatch",
+  "note": "完全无关,水鸟图"
+ },
+ {
+  "id": "tb-trousers",
+  "verdict": "mismatch",
+  "note": "完全无关,地图"
+ },
+ {
+  "id": "tb-shorts",
+  "verdict": "mismatch",
+  "note": "完全无关,农机"
+ },
+ {
+  "id": "tods-gommino",
+  "verdict": "mismatch",
+  "note": "完全无关,静电带"
+ },
+ {
+  "id": "tods-t-timeless",
+  "verdict": "mismatch",
+  "note": "完全无关,水电站"
+ },
+ {
+  "id": "sw-highland",
+  "verdict": "mismatch",
+  "note": "与产品无关的文字图"
+ },
+ {
+  "id": "sw-nudistsong",
+  "verdict": "mismatch",
+  "note": "儿童画兔子无关"
+ },
+ {
+  "id": "sw-nearlynude",
+  "verdict": "mismatch",
+  "note": "特警训练照无关"
+ },
+ {
+  "id": "tb-hoodie",
+  "verdict": "mismatch",
+  "note": "风景插画非卫衣"
+ },
+ {
+  "id": "tods-wave",
+  "verdict": "mismatch",
+  "note": "宇航员训练图"
+ },
+ {
+  "id": "tods-loafer",
+  "verdict": "mismatch",
+  "note": "河流航拍截图"
+ },
+ {
+  "id": "tomford-privateblend",
+  "verdict": "mismatch",
+  "note": "猫和老鼠剧照"
+ },
+ {
+  "id": "tomford-lipcolor",
+  "verdict": "mismatch",
+  "note": "卡通汤姆猫"
+ },
+ {
+  "id": "tomford-eyewear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠特写"
+ },
+ {
+  "id": "tomford-handbags",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图"
+ },
+ {
+  "id": "tomford-menswear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图"
+ },
+ {
+  "id": "tomford-womenswear",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图"
+ },
+ {
+  "id": "tommy-polo",
+  "verdict": "mismatch",
+  "note": "猫和老鼠卡通图"
+ },
+ {
+  "id": "tommy-tommyjeans",
+  "verdict": "mismatch",
+  "note": "图书馆历史宣传页"
+ },
+ {
+  "id": "tommy-hoodie",
+  "verdict": "mismatch",
+  "note": "停车场入口照片"
+ },
+ {
+  "id": "tommy-shirts",
+  "verdict": "mismatch",
+  "note": "老电影剧照人物"
+ },
+ {
+  "id": "tommy-outerwear",
+  "verdict": "mismatch",
+  "note": "迷你电脑主机"
+ },
+ {
+  "id": "tommy-accessories",
+  "verdict": "mismatch",
+  "note": "草地蒲公英风景"
+ },
+ {
+  "id": "toryburch-kira",
+  "verdict": "mismatch",
+  "note": "男士人像照片"
+ },
+ {
+  "id": "bc-scarf",
+  "verdict": "mismatch",
+  "note": "天线宝宝图,非围巾"
+ },
+ {
+  "id": "burberry-trenchcoat",
+  "verdict": "mismatch",
+  "note": "列车包厢内景,非风衣"
+ },
+ {
+  "id": "burberry-coat",
+  "verdict": "mismatch",
+  "note": "人物肖像非大衣"
+ },
+ {
+  "id": "burberry-tbbag",
+  "verdict": "mismatch",
+  "note": "WPS文档截图非包"
+ },
+ {
+  "id": "burberry-fragrance",
+  "verdict": "mismatch",
+  "note": "人像非香水"
+ },
+ {
+  "id": "cb-hoodie",
+  "verdict": "mismatch",
+  "note": "游戏截图"
+ },
+ {
+  "id": "cb-pants",
+  "verdict": "mismatch",
+  "note": "螳螂图"
+ },
+ {
+  "id": "cb-coat",
+  "verdict": "mismatch",
+  "note": "智利地图"
+ },
+ {
+  "id": "calvinklein-underwear",
+  "verdict": "mismatch",
+  "note": "拼豆图案"
+ },
+ {
+  "id": "calvinklein-jeans",
+  "verdict": "mismatch",
+  "note": "火影村插画无关"
+ },
+ {
+  "id": "calvinklein-outerwear",
+  "verdict": "mismatch",
+  "note": "博物馆文创周边"
+ },
+ {
+  "id": "canadagoose-expedition",
+  "verdict": "mismatch",
+  "note": "山水风景照无关"
+ },
+ {
+  "id": "canadagoose-langford",
+  "verdict": "mismatch",
+  "note": "专利线稿图无关"
+ },
+ {
+  "id": "canadagoose-chilliwack",
+  "verdict": "mismatch",
+  "note": "生日派对布置无关"
+ },
+ {
+  "id": "canadagoose-hybridge",
+  "verdict": "mismatch",
+  "note": "实验室仪器"
+ },
+ {
+  "id": "canadagoose-freestyle",
+  "verdict": "mismatch",
+  "note": "儿童绘画图"
+ },
+ {
+  "id": "celine-classic-box",
+  "verdict": "mismatch",
+  "note": "F1中国大奖赛海报,非手袋"
+ },
+ {
+  "id": "celine-triomphe",
+  "verdict": "mismatch",
+  "note": "F1中国大奖赛海报,非手袋"
+ }
+]

@@ -1,0 +1,10 @@
+decathlon-quechua | 迪卡侬 Quechua 露营线(Quechua,露营装备) | 迪卡侬旗下露营徒步品牌,2 Seconds秒开帐篷与充气床垫口碑经典,把家庭露营的门槛降到了极低。 | data\img\decathlon-quechua.jpg
+decathlon-kipsta | 迪卡侬 Kipsta 球类运动线(Kipsta,球类装备) | 足球、篮球等球类运动品牌线,从儿童训练球到专业护具一应俱全,是学校体育与社区运动的常见伙伴。 | data\img\decathlon-kipsta.jpg
+decathlon-btwin | 迪卡侬 B'Twin 骑行线(B'Twin,自行车) | 迪卡侬自行车品牌线,儿童车、通勤车与入门公路山地车性价比极高,是全球销量最大的自行车品牌之一。 | data\img\decathlon-btwin.jpg
+decathlon-kalenji | 迪卡侬 Kalenji 跑步线(Kalenji,跑步装备) | 大众跑步品牌线,慢跑鞋、速干服饰价格亲民,是无数人人生第一双跑鞋与第一套运动服的来源。 | data\img\decathlon-kalenji.jpg
+decathlon-forclaz | 迪卡侬 Forclaz 登山线(Forclaz,徒步装备) | 登山徒步品牌线,重装背包、羽绒服与速干衣兼顾性能与价格,是长线徒步的高性价比方案。 | data\img\decathlon-forclaz.jpg
+decathlon-nabaiji | 迪卡侬 Nabaiji 游泳线(Nabaiji,游泳装备) | 游泳运动品牌线,泳镜泳帽泳衣质量稳定、价格低廉,是青少年学游泳与日常泳训的普及之选。 | data\img\decathlon-nabaiji.jpg
+descente-ski-wear | 迪桑特 滑雪服系列(Ski Wear,滑雪服) | 品牌起家的看家本领,滑雪夹克与雪裤以专业剪裁、防风透湿面料与利落配色著称,是雪场上辨识度极高的高端雪服。 | data\img\descente-ski-wear.jpg
+descente-allterrain | 迪桑特 ALLTERRAIN 系列(ALLTERRAIN,高端运动服) | 高端城市机能线,融合运动科技与都市设计,含夹克、长裤与配件,主打全天候穿着,是迪桑特品牌调性的代表系列。 | data\img\descente-allterrain.jpg
+descente-running | 迪桑特 跑步系列(Running,跑步服饰) | 轻量透气的跑步服装线,含速干 T 恤、跑步短裤与压缩装备,剪裁贴合亚洲身形,支持长距离训练的舒适体验。 | data\img\descente-running.jpg
+descente-training | 迪桑特 综合训练系列(Training,训练服饰) | 面向健身房与日常运动的基础款系列,面料弹力舒适、设计简洁,单穿内搭皆宜,是品牌走量的大众品类。 | data\img\descente-training.jpg

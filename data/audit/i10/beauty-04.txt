@@ -1,0 +1,10 @@
+cle-de-peau-beaute-emulsion-night | 肌肤之钥 光采夜间修护乳液(Emulsion Night,乳液) | 日夜乳组合中的夜间版本,主打夜间修护与滋养,配合化妆水使用是CPB经典护肤流程,晨间另有日间防护版本。 | data\img\cle-de-peau-beaute-emulsion-night.jpg
+curel-moisture-cream | 珂润 润浸保湿面霜(Intensive Moisture Cream,面霜) | 珂润招牌面霜,含神经酰胺护理成分,主打修护干燥敏感的肌肤屏障,绵密霜体好推开,无香料无酒精,干敏皮回购率高。 | data\img\curel-moisture-cream.jpg
+curel-moisture-lotion | 珂润 润浸保湿化妆水(Intensive Moisture Lotion,化妆水) | 按肤质与季节细分多档的温和化妆水,主打润浸保湿、柔软角质层,清爽或滋润可选,与面霜搭配是经典组合。 | data\img\curel-moisture-lotion.jpg
+curel-moisture-emulsion | 珂润 润浸保湿乳液(Intensive Moisture Emulsion,乳液) | 温和滋润的配套乳液,帮助锁住水分、延续水润感,配方同样无香料无色素,敏感肌可安心使用。 | data\img\curel-moisture-emulsion.jpg
+curel-cleansing-foam | 珂润 润浸保湿洁颜泡沫(Intensive Moisture Cleansing Foam,洁面) | 一压即出的绵密泡沫洁面,减少摩擦刺激、温和带走污垢,洗后不紧绷,是珂润基础护理的第一步。 | data\img\curel-cleansing-foam.jpg
+curel-moisture-mask | 珂润 润浸保湿面膜(Intensive Moisture Mask,面膜) | 浸润保湿精华的温和面膜,敷后肌肤水润柔软、状态稳定,是干燥季节的急救之选。 | data\img\curel-moisture-mask.jpg
+decorte-moisture-liposome | 黛珂 保湿精华美容液(小紫瓶)(Moisture Liposome,精华) | 以脂质体技术输送保湿成分的口碑精华,淡紫色瓶身辨识度高,层层渗透的滋润感适合干敏肌,曾屡获日本美妆大赏。 | data\img\decorte-moisture-liposome.jpg
+decorte-aq-meliority-cleansing | 黛珂 AQ Meliority精致洁面霜(AQ Meliority Cleansing Cream,洁面) | 黛珂奢华护理线的洁面,膏体丰盈绵密,清洁力与温和度平衡出色,洗后柔嫩不紧绷,自带高端护理仪式感。 | data\img\decorte-aq-meliority-cleansing.jpg
+diptyque-tamdao | 蒂普提克 檀道(Tam Dao,香水) | 干燥寺庙木香的禅意,中性香的殿堂级。 | data\img\diptyque-tamdao.jpg
+diptyque-baies | 蒂普提克 浆果香薰蜡烛(Baies Candle,香薰蜡烛) | 全球销量第一的香薰蜡烛,黑醋栗叶与玫瑰。 | data\img\diptyque-baies.jpg

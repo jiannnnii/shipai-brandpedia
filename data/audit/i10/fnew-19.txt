@@ -1,0 +1,10 @@
+valentino-rockstud | 华伦天奴 铆钉包(Rockstud,手袋) | 2010年推出的标志性系列,金字塔形金属铆钉点缀手袋、鞋履与配饰,把朋克元素优雅化,是品牌近十余年最成功的设计语言。 | data\img\valentino-rockstud.jpg
+valentino-roman-stud | 华伦天奴 大钉包(Roman Stud,手袋) | Rockstud的放大升级版,超大多面金属铆钉缀于柔软纳帕皮革,视觉冲击强烈,是近年红毯与街拍常客。 | data\img\valentino-roman-stud.jpg
+valentino-vltn-tee | 华伦天奴 VLTN印花T恤(VLTN T-shirt,T恤) | 以品牌缩写VLTN为印花的棉质T恤,极简字母直击品牌态度,男女同款,是入门华伦天奴的人气单品。 | data\img\valentino-vltn-tee.jpg
+versace-greca | 范思哲 希腊回纹包(Greca,手袋) | 品牌标志性希腊回纹金属配件系列,链条包与托特形制丰富,回纹即品牌血脉中的古典基因。 | data\img\versace-greca.jpg
+versace-eros | 范思哲 Eros香水(Eros,香水) | 2012年推出的男士香水,薄荷与香草的性感碰撞,回纹瓶身点缀美杜莎,长期畅销全球男香榜。 | data\img\versace-eros.jpg
+versace-dylan-blue | 范思哲 Dylan Blue香水(Dylan Blue,香水) | 2016年推出的男女对香,蓝调瓶身配地中海气息,广告由一线男星出镜,是香水线销量支柱。 | data\img\versace-dylan-blue.jpg
+viviennewestwood-orbnecklace | 薇薇安·韦斯特伍德 土星项链(Orb Necklace,项链) | 三维土星造型的小巧吊坠,金属与仿珍珠组合,是品牌最具辨识度的招牌首饰。 | data\img\viviennewestwood-orbnecklace.jpg
+yy-mainline | 山本耀司 主线女装(Yohji Yamamoto,女装系列) | 品牌核心女装系列,以垂坠的黑色廓形、不对称下摆与精湛剪裁著称,面料肌理丰富,是暗黑美学的最高表达。 | data\img\yy-mainline.jpg
+yy-pourhomme | 山本耀司 Pour Homme 男装(Yohji Yamamoto Pour Homme,男装系列) | 品牌男装主线,以宽肩长身的外套、层叠穿法与文字刺绣为特色,融合裁缝工艺与街头气质,深受全球时装爱好者追捧。 | data\img\yy-pourhomme.jpg
+yy-ys | 山本耀司 Y's 副线(Y's,女装系列) | 1972 年诞生的品牌首个系列,延续黑色美学但更日常实穿,价格较主线亲民,是体验品牌剪裁功力的入门之选。 | data\img\yy-ys.jpg

@@ -1,0 +1,10 @@
+ps-shirt | 保罗·史密斯 男士衬衫(Men's Shirt,衬衫) | 以埃及棉等优质面料制成,版型利落,袖口内衬与彩条撞色是隐藏彩蛋,是品牌销量最稳定的品类之一。 | data\img\ps-shirt.jpg
+ps-socks | 保罗·史密斯 条纹袜子(Stripe Socks,袜子) | 以彩条与波点图案为特色的小件配饰,棉质舒适,价格低廉,是全球门店最受欢迎的入门单品之一。 | data\img\ps-socks.jpg
+pp-skull-tee | 菲利普·普莱因 骷髅印花 T 恤(Skull T-Shirt,T 恤) | 以品牌标志性的骷髅图案与水钻刺绣为特征,棉质面料厚实,版型偏大,是品牌最基础也最具辨识度的单品。 | data\img\pp-skull-tee.jpg
+pp-jeans | 菲利普·普莱因 牛仔裤(Jeans,裤装) | 以破洞、泼墨与铆钉装饰著称,弹力丹宁面料包裹感强,后袋刺绣品牌徽标,是品牌起家的核心品类之一。 | data\img\pp-jeans.jpg
+prada-galleria | 普拉达 杀手包(Galleria,手袋) | 以米兰埃马努埃莱二世长廊命名的Saffiano十字纹皮手袋,双提手配三角形徽章,因电影《碟中谍》走红而被称作杀手包,是通 | data\img\prada-galleria.jpg
+prada-re-edition-2005 | 普拉达 Re-Edition 2005(Re-Edition 2005,手袋) | 复刻2005年尼龙腋下包,Re-Nylon再生尼龙材质配编织肩带,轻便耐用,是Z世代最爱的Prada入门款。 | data\img\prada-re-edition-2005.jpg
+prada-cloudbust | 普拉达 Cloudbust运动鞋(Cloudbust,运动鞋) | 三角徽章点缀的轻量运动鞋,网面与皮革拼接,造型简洁易搭,是Prada鞋履线近年主力。 | data\img\prada-cloudbust.jpg
+ralphlauren-polo | 拉夫·劳伦 经典 Polo 衫(Classic Polo Shirt,Polo衫) | 1972年诞生的网眼 Polo 衫,左胸骑手刺绣标志,颜色选择极多,是美式休闲风的基石单品。 | data\img\ralphlauren-polo.jpg
+ralphlauren-oxfordshirt | 拉夫·劳伦 牛津纺衬衫(Oxford Shirt,衬衫) | 小马标牛津衬衫,布料挺括耐穿,正装休闲两相宜,是学院风的必修单品。 | data\img\ralphlauren-oxfordshirt.jpg
+ralphlauren-knitwear | 拉夫·劳伦 针织衫(Knitwear,针织衫) | 羊毛羊绒材质的圆领与开衫,以经典配色与复古图案见长,秋冬叠穿的利器。 | data\img\ralphlauren-knitwear.jpg

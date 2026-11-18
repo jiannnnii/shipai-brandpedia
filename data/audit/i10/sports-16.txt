@@ -1,0 +1,10 @@
+salomon-x-ultra | 萨洛蒙 X Ultra(X Ultra,徒步鞋) | 畅销全球的徒步鞋系列,低帮轻便、防水与支撑兼备,适合多日徒步与日常山径行走,是入门户外玩家的首选之一。 | data\img\salomon-x-ultra.jpg
+salomon-xa-pro-3d | 萨洛蒙 XA PRO 3D(XA PRO 3D,越野跑鞋) | 经典全能越野鞋,3D稳定框架与耐磨大底兼顾碎石与山地路况,结实耐用,深受重装徒步与越野玩家信赖。 | data\img\salomon-xa-pro-3d.jpg
+saucony-endorphin | 索康尼 Endorphin 系列(Endorphin,碳板竞速跑鞋) | 家族式竞速矩阵,Pro为比赛日战靴、Speed为节奏训练鞋,PWRRUN PB泡棉加碳板,是近年公认性价比最高的碳板跑鞋 | data\img\saucony-endorphin.jpg
+saucony-triumph | 索康尼 Triumph 胜利(Triumph,缓震训练跑鞋) | 旗舰缓震训练鞋,厚实软弹的PWRRUN+中底专为长距离慢跑打造,与支撑系Guide并称索康尼两大国民系列。 | data\img\saucony-triumph.jpg
+saucony-guide | 索康尼 Guide 指南(Guide,支撑跑鞋) | 经典支撑系跑鞋,为扁平足与足内旋过度跑者提供稳定保护,缓震均衡、结实耐用,是入门支撑鞋的稳妥之选。 | data\img\saucony-guide.jpg
+saucony-kinvara | 索康尼 Kinvara 菁华(Kinvara,轻量训练跑鞋) | 2010年开创的轻量训练鞋,首创4毫米低落差设计,轻快灵活,曾是无数跑者的第一双进阶跑鞋。 | data\img\saucony-kinvara.jpg
+saucony-ride | 索康尼 Ride(Ride,缓震训练跑鞋) | 均衡耐用的日常训练跑鞋,缓震与支撑中规中矩、适应面广,是索康尼的销量基本盘,适合各水平跑者。 | data\img\saucony-ride.jpg
+saucony-shadow | 索康尼 Shadow 复古系列(Shadow,复古跑鞋) | 1980年代经典跑鞋的复刻,绒面革拼接与灰蓝配色尽显美式复古,是索康尼进军潮流领域的代表鞋型。 | data\img\saucony-shadow.jpg
+snowpeak-amenity-dome | 雪峰 Amenity Dome 帐篷(Amenity Dome,帐篷) | 雪峰长销三十余年的经典帐篷,抗风稳定、空间宽敞,长时间使用依然坚挺,是家庭露营与严酷环境的可靠庇护所。 | data\img\snowpeak-amenity-dome.jpg
+snowpeak-titanium-cookware | 雪峰 钛合金餐具(Titanium Cookware,户外餐具) | 以纯钛打造的轻量餐具与锅具,重量极轻、导热适中且无金属异味,折叠收纳后几乎不占空间,是轻量露营标配。 | data\img\snowpeak-titanium-cookware.jpg

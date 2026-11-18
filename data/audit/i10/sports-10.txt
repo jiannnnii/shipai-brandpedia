@@ -1,0 +1,10 @@
+kailas-shell-jacket | 凯乐石 GORE-TEX 硬壳冲锋衣(Gore-Tex Shell Jacket,硬壳冲锋衣) | 采用GORE-TEX等国际面料的专业冲锋衣,压胶工艺扎实,历经高海拔与暴风雪检验,是国产硬壳的代表之一。 | data\img\kailas-shell-jacket.jpg
+kailas-hiking-boots | 凯乐石 登山徒步鞋(Hiking Boots,登山鞋) | 面向长线徒步与雪山攀登的登山鞋线,防水耐磨、支撑到位,高帮款在碎石与雪线地形表现稳健。 | data\img\kailas-hiking-boots.jpg
+kailas-backpack | 凯乐石 登山背包(Climbing Backpack,户外背包) | 从一日线到重装长线的背包系列,背负与挂载系统为攀登场景优化,性价比在国内品牌中颇受认可。 | data\img\kailas-backpack.jpg
+lining-chaoqing | 李宁 超轻系列跑鞋(Super Light,轻量跑鞋) | 延续二十余代的国民轻量跑鞋,单只鞋重控制出色、透气网面舒适,性价比高,是学生与日常慢跑人群的口碑之选。 | data\img\lining-chaoqing.jpg
+lining-badfive | 李宁 反伍 BADFIVE(BADFIVE,街头篮球鞋) | 街头实战篮球鞋系列,强调耐磨抗造与场地通用性,价格亲民配置扎实,是野球场出镜率很高的国产实战鞋。 | data\img\lining-badfive.jpg
+lining-yushuai | 李宁 驭帅系列篮球鞋(Yushuai,篮球鞋) | 李宁长青团队款篮球鞋,历经十余代迭代,缓震与包裹均衡稳定,长期活跃于 CBA 赛场,是锋线与内线信赖的实战鞋。 | data\img\lining-yushuai.jpg
+lululemon-abc-pants | 露露柠檬 ABC 男裤(ABC Pants,休闲长裤) | 男士明星长裤,四向弹力面料结合正装剪裁,坐卧蹲起皆自如,是lululemon男装线的招牌爆款。 | data\img\lululemon-abc-pants.jpg
+lululemon-scuba | 露露柠檬 Scuba 连帽衫(Scuba Hoodie,卫衣) | 厚实绵软的经典连帽卫衣,宽松廓形自带慵懒感,是品牌秋冬最热销的休闲单品,热门配色常年断货。 | data\img\lululemon-scuba.jpg
+lululemon-define | 露露柠檬 Define 夹克(Define Jacket,运动夹克) | 修身显瘦的弹力运动夹克,收腰剪裁勾勒线条,从瑜伽课穿到咖啡馆,是品牌女装的百搭名片。 | data\img\lululemon-define.jpg
+lululemon-yoga-mat | 露露柠檬 The Mat 瑜伽垫(The Mat,瑜伽垫) | 天然橡胶瑜伽垫,防滑吸汗、厚薄适中,配套的社区瑜伽课让品牌体验深入人心,是瑜伽爱好者的升级之选。 | data\img\lululemon-yoga-mat.jpg

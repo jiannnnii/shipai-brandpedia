@@ -1,0 +1,10 @@
+gucci-marmont | 古驰 GG Marmont(GG Marmont,手袋) | 2016年推出的绗缝手袋系列,翻盖配做旧双G螺丝扣,天鹅绒与多种皮革材质可选,是近年古驰最畅销的包型。 | data\img\gucci-marmont.jpg
+gucci-dionysus | 古驰 酒神包(Dionysus,手袋) | 2015年米歇尔首秀主打款,虎头马刺扣灵感来自希腊酒神传说,天鹅绒与提花版本屡成秀场焦点。 | data\img\gucci-dionysus.jpg
+gucci-horsebit-1955 | 古驰 Horsebit 1955(Horsebit 1955,手袋) | 以1955年问世的马衔扣元素命名,马鞍包型配双G帆布与皮革拼接,把半个多世纪前的经典在2020年复活。 | data\img\gucci-horsebit-1955.jpg
+gucci-ophidia | 古驰 Ophidia(Ophidia,手袋) | 2018年推出的老花复兴系列,GG Supreme帆布配红绿织带与双G徽标,托特、肩包等形制丰富,价格相对亲民。 | data\img\gucci-ophidia.jpg
+hermes-birkin | 爱马仕 铂金包(Birkin,手袋) | 以英国演员简·柏金命名的传奇手袋,1984年问世,采用Togo、Clemence等优质皮料由工匠手工缝制,专柜长期一包难 | data\img\hermes-birkin.jpg
+hermes-kelly | 爱马仕 凯莉包(Kelly,手袋) | 1956年因摩纳哥王妃格蕾丝·凯莉使用而得名的单手柄手袋,轮廓硬挺、工艺繁复,包身需手工缝线包边,是爱马仕优雅风格的代名 | data\img\hermes-kelly.jpg
+hermes-constance | 爱马仕 康斯坦丝包(Constance,手袋) | 1969年推出的小巧方形手袋,标志性大号H金属锁扣辨识度极高,肩背手提皆宜,是爱马仕最难买的热门包型之一。 | data\img\hermes-constance.jpg
+hermes-lindy | 爱马仕 琳迪包(Lindy,手袋) | 2007年问世的休闲手袋,袋身柔软随性,宽肩带便于斜挎,兼具容量与舒适度,是近年爱马仕入门的热门之选。 | data\img\hermes-lindy.jpg
+hermes-carre-scarf | 爱马仕 爱马仕丝巾(Carré 90,丝巾) | 1937年为致敬品牌推出的90厘米方巾,由艺术家设计、里昂工坊织造,题材涵盖马术、艺术与旅行,被誉为可以佩戴的艺术品。 | data\img\hermes-carre-scarf.jpg
+hermes-clic-h | 爱马仕 Clic H手镯(Clic H,首饰) | 以标志性H字母为主题的珐琅手镯,色彩丰富、价格相对亲民,是入门爱马仕最经典的小件配饰。 | data\img\hermes-clic-h.jpg

@@ -1,0 +1,25 @@
+lange-lange1 | 朗格 Lange 1(Lange 1,正装表) | 1994年王者归之作,偏心时盘+大日历+动力显示的非对称美学。 | data\img\lange-lange1.jpg
+laofengxiang-birdbracelet | 老凤祥 龙凤镯(Dragon & Phoenix Bangle,黄金手镯) | 婚嫁硬通货,浮雕龙凤的实心足金手镯,长辈最认的牌子之一。 | data\img\laofengxiang-birdbracelet.jpg
+laofengxiang-silver | 老凤祥 银器系列(Silver Craft,银饰) | 非遗银器细工,从长命锁到茶器,老字号的手艺底蕴。 | data\img\laofengxiang-silver.jpg
+laofengxiang-pearl | 老凤祥 珍珠系列(Pearl Collection,珍珠首饰) | 淡水珍珠为主,妈妈辈最喜欢的温润气质线。 | data\img\laofengxiang-pearl.jpg
+laomiao-lucky | 老庙黄金 好运系列(Lucky Collection,黄金首饰) | 福字、锦鲤、葫芦全好运符号,送礼自留都图个吉利。 | data\img\laomiao-lucky.jpg
+laomiao-ancient | 老庙黄金 古法金系列(Ancient Craft,黄金手镯) | 哑光古法手镯,佛系厚重的手感,长辈缘极好。 | data\img\laomiao-ancient.jpg
+laomiao-guochao | 老庙黄金 国潮联名(China-chic,黄金首饰) | 与博物馆、动漫的联名金饰,老字号的新流量。 | data\img\laomiao-guochao.jpg
+longines-master | 浪琴 名匠系列(Master Collection,正装表) | 大日历+月相的古典正装,万元级正装表的绕不开选项。 | data\img\longines-master.jpg
+longines-hydroconquest | 浪琴 康卡斯(HydroConquest,潜水表) | 300米潜水+陶瓷圈,"穷人版水鬼"的美誉来自实打实的品质。 | data\img\longines-hydroconquest.jpg
+longines-spirit | 浪琴 先行者(Spirit,飞行员表) | 致敬航空年代的飞行员计时,五点位置双表冠,硬朗有故事。 | data\img\longines-spirit.jpg
+longines-equestrian | 浪琴 骑仕系列(Equestrian,女表) | 马扣形表耳+马鞍纹表带,马术气质的女式优雅。 | data\img\longines-equestrian.jpg
+mido-oceanstar | 美度 领航者(Ocean Star,潜水表) | 200米潜水+快调表链,价格厚道的日常潜水线。 | data\img\mido-oceanstar.jpg
+mikimoto-necklace | 御木本 经典珍珠项链(Classic Pearl Necklace,项链) | 万中选五的 akoya 珍珠串链,珍珠审美的终极标准答案。 | data\img\mikimoto-necklace.jpg
+mikimoto-firstpearl | 御木本 第一颗珍珠(First Pearl,项链) | 单颗珍珠吊坠,入门御木本的仪式感之选。 | data\img\mikimoto-firstpearl.jpg
+mikimoto-pearlinmotion | 御木本 Pearl in Motion(Pearl in Motion,首饰) | 珍珠与钻石共舞的当代系列,年轻化不老气。 | data\img\mikimoto-pearlinmotion.jpg
+mikimoto-jewelrywatch | 御木本 珍珠珠宝表(Jewelry Watch,女表) | 珍珠母贝表盘+钻石刻度,把海洋的光戴在手腕上。 | data\img\mikimoto-jewelrywatch.jpg
+oris-aquis | 豪利时 Aquis 日历(Aquis Date,潜水表) | 300米潜水的独立厂扛把子,陶瓷圈+快调表链,工薪玩家的梦中情表。 | data\img\oris-aquis.jpg
+oris-bigcrown | 豪利时 大表冠(Big Crown ProPilot,飞行员表) | 1938年飞行员血统,大表冠戴手套也能调,复古军表气质。 | data\img\oris-bigcrown.jpg
+oris-divers65 | 豪利时 Divers Sixty-Five(Divers Sixty-Five,潜水表) | 复刻1965年古董潜水表,40mm复古尺寸+青铜做旧款,颜值能打。 | data\img\oris-divers65.jpg
+pandora-bracelet | 潘多拉 蛇骨链(Snake Chain Bracelet,手链) | 串珠系统的载体,银质蛇骨链是入门第一件。 | data\img\pandora-bracelet.jpg
+pandora-hearts | 潘多拉 心形系列(Hearts of Pandora,首饰) | 渐变珐琅爱心,送人不出错的经典符号。 | data\img\pandora-hearts.jpg
+pandora-labgrown | 潘多拉 培育钻系列(Lab-Grown Diamond,戒指) | 实验室培育钻石的平价化,让克拉自由提前到来。 | data\img\pandora-labgrown.jpg
+patek-aquanaut | 百达翡丽 手雷(Aquanaut,运动豪华表) | 俗称"手雷",橡胶表带的年轻化运动款,鹦鹉螺之后的又一爆款。 | data\img\patek-aquanaut.jpg
+piaget-altiplano | 伯爵 Altiplano(Altiplano,超薄正装表) | 超薄纪录收割机,2mm级机芯把"薄"做成了品牌哲学。 | data\img\piaget-altiplano.jpg
+piaget-possession | 伯爵 Possession(Possession,珠宝表) | 可旋转钻石圈的互动珠宝表,"转一转"成为把玩的仪式感。 | data\img\piaget-possession.jpg

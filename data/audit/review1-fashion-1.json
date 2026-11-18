@@ -1,0 +1,452 @@
+[
+ {
+  "id": "alexandermcqueen-oversizedsneaker",
+  "brand": "亚历山大·麦昆",
+  "name": "Oversized 运动鞋",
+  "nameEn": "Oversized Sneaker",
+  "type": "运动鞋",
+  "desc": "大圆头厚底小白鞋,夸张比例与后跟标识独树一帜,是时装运动鞋的代表作。",
+  "file": "data\\img\\alexandermcqueen-oversizedsneaker.jpg"
+ },
+ {
+  "id": "alexandermcqueen-treadslick",
+  "brand": "亚历山大·麦昆",
+  "name": "Tread Slick 系带靴",
+  "nameEn": "Tread Slick",
+  "type": "靴子",
+  "desc": "超大锯齿底搭配系带鞋面,夸张轮廓极具存在感,延续品牌的先锋街头气质。",
+  "file": "data\\img\\alexandermcqueen-treadslick.jpg"
+ },
+ {
+  "id": "alexandermcqueen-knuckle",
+  "brand": "亚历山大·麦昆",
+  "name": "Knuckle 手拿包",
+  "nameEn": "Knuckle Clutch",
+  "type": "手拿包",
+  "desc": "以指环五金为标志的晚宴手包,骷髅与宝石细节奢华暗黑,是红毯经典。",
+  "file": "data\\img\\alexandermcqueen-knuckle.jpg"
+ },
+ {
+  "id": "alexandermcqueen-skullscarf",
+  "brand": "亚历山大·麦昆",
+  "name": "骷髅丝巾",
+  "nameEn": "Skull Scarf",
+  "type": "丝巾",
+  "desc": "丝质方巾上重复的骷髅印花是品牌符号,轻巧百搭,是入门首选的配饰单品。",
+  "file": "data\\img\\alexandermcqueen-skullscarf.jpg"
+ },
+ {
+  "id": "alexandermcqueen-tailoring",
+  "brand": "亚历山大·麦昆",
+  "name": "剪裁西装",
+  "nameEn": "Tailoring",
+  "type": "西装",
+  "desc": "传承萨维尔街的英式剪裁功力,收腰廓形与戏剧细节兼具,红毯与秀场常客。",
+  "file": "data\\img\\alexandermcqueen-tailoring.jpg"
+ },
+ {
+  "id": "alexandermcqueen-jackets",
+  "brand": "亚历山大·麦昆",
+  "name": "皮衣与外套",
+  "nameEn": "Jackets & Outerwear",
+  "type": "外套",
+  "desc": "机车皮衣、刺绣飞行夹克暗藏品牌意象,做工凌厉,是暗黑衣橱的核心单品。",
+  "file": "data\\img\\alexandermcqueen-jackets.jpg"
+ },
+ {
+  "id": "balenciaga-le-city",
+  "brand": "巴黎世家",
+  "name": "机车包",
+  "nameEn": "Le City",
+  "type": "手袋",
+  "desc": "2001年问世的It Bag鼻祖,外露缝线与铆钉拉链带出慵懒酷感,曾横扫千禧年代街拍,近年复刻回归再度走红。",
+  "file": "data\\img\\balenciaga-le-city.jpg"
+ },
+ {
+  "id": "balenciaga-hourglass",
+  "brand": "巴黎世家",
+  "name": "沙漏包",
+  "nameEn": "Hourglass",
+  "type": "手袋",
+  "desc": "2019年推出的沙漏曲线手袋,袋底外扩、上沿收窄,灵感呼应品牌高定剪裁,棱角分明极具辨识度。",
+  "file": "data\\img\\balenciaga-hourglass.jpg"
+ },
+ {
+  "id": "balenciaga-triple-s",
+  "brand": "巴黎世家",
+  "name": "Triple S老爹鞋",
+  "nameEn": "Triple S",
+  "type": "运动鞋",
+  "desc": "2017年引爆全球的老爹鞋鼻祖,三层鞋底堆叠复古跑鞋元素,笨重感即时髦感,开创奢侈品牌厚底鞋风潮。",
+  "file": "data\\img\\balenciaga-triple-s.jpg"
+ },
+ {
+  "id": "balenciaga-track",
+  "brand": "巴黎世家",
+  "name": "Track运动鞋",
+  "nameEn": "Track",
+  "type": "运动鞋",
+  "desc": "以机能网格与复杂拼接著称的运动鞋,分层结构科技感十足,与Triple S并列为品牌鞋履双雄。",
+  "file": "data\\img\\balenciaga-track.jpg"
+ },
+ {
+  "id": "balenciaga-speed",
+  "brand": "巴黎世家",
+  "name": "袜子鞋",
+  "nameEn": "Speed Trainer",
+  "type": "运动鞋",
+  "desc": "2016年推出的针织袜套运动鞋,鞋身印Balenciaga字样,轻便贴脚,是袜子鞋潮流的开创者。",
+  "file": "data\\img\\balenciaga-speed.jpg"
+ },
+ {
+  "id": "bally-loafers",
+  "brand": "巴利",
+  "name": "乐福鞋",
+  "nameEn": "Loafers",
+  "type": "乐福鞋",
+  "desc": "品牌招牌鞋款,以柔软皮革与条纹细节著称,一脚蹬设计舒适百搭,男女款皆有。",
+  "file": "data\\img\\bally-loafers.jpg"
+ },
+ {
+  "id": "bally-derbyshoes",
+  "brand": "巴利",
+  "name": "正装皮鞋",
+  "nameEn": "Dress Shoes",
+  "type": "皮鞋",
+  "desc": "德比鞋与牛津鞋采用意大利制革与缝制工艺,鞋楦舒适,商务正装的经典选择。",
+  "file": "data\\img\\bally-derbyshoes.jpg"
+ },
+ {
+  "id": "bally-bags",
+  "brand": "巴利",
+  "name": "手袋",
+  "nameEn": "Handbags",
+  "type": "手袋",
+  "desc": "以利落线条与顶级皮革见长的包袋系列,低调中透着瑞士式的精致气质。",
+  "file": "data\\img\\bally-bags.jpg"
+ },
+ {
+  "id": "bally-smallgoods",
+  "brand": "巴利",
+  "name": "小皮具",
+  "nameEn": "Small Leather Goods",
+  "type": "小皮具",
+  "desc": "钱夹、腰带与卡片夹以 B 字五金点缀,做工扎实,是品牌口碑的入门单品。",
+  "file": "data\\img\\bally-smallgoods.jpg"
+ },
+ {
+  "id": "boss-suit",
+  "brand": "雨果博斯",
+  "name": "商务西装",
+  "nameEn": "Business Suit",
+  "type": "西装",
+  "desc": "以德式修身剪裁与精纺羊毛面料著称,提供修身至常规多种版型,商务场合穿着率极高,是品牌立身的核心品类。",
+  "file": "data\\img\\boss-suit.jpg"
+ },
+ {
+  "id": "boss-shirt",
+  "brand": "雨果博斯",
+  "name": "商务衬衫",
+  "nameEn": "Business Shirt",
+  "type": "衬衫",
+  "desc": "以易打理的免烫棉布与合体剪裁为特色,领型与袖口细节规整,蓝白深色系为主,是职场衬衫的高性价比选择。",
+  "file": "data\\img\\boss-shirt.jpg"
+ },
+ {
+  "id": "boss-bottled",
+  "brand": "雨果博斯",
+  "name": "BOSS Bottled 香水",
+  "nameEn": "BOSS Bottled",
+  "type": "香水",
+  "desc": "1998 年推出的品牌代表作,以苹果、肉桂与檀木构成温暖木质调,被赞「事业有成男士的味道」,常年位居全球男香畅销榜。",
+  "file": "data\\img\\boss-bottled.jpg"
+ },
+ {
+  "id": "boss-polo",
+  "brand": "雨果博斯",
+  "name": "Polo 衫",
+  "nameEn": "Polo Shirt",
+  "type": "Polo 衫",
+  "desc": "以珠地棉制成,胸前绣有简洁的品牌字标,版型利落,是品牌夏季商务休闲场景的主力单品。",
+  "file": "data\\img\\boss-polo.jpg"
+ },
+ {
+  "id": "boss-accessories",
+  "brand": "雨果博斯",
+  "name": "皮带皮具",
+  "nameEn": "Leather Accessories",
+  "type": "皮具",
+  "desc": "涵盖皮带、钱包与公事包,以压纹 logo 与金属牌为标识,牛皮材质耐用,是职场男士的实用配饰选择。",
+  "file": "data\\img\\boss-accessories.jpg"
+ },
+ {
+  "id": "boss-watch",
+  "brand": "雨果博斯",
+  "name": "腕表",
+  "nameEn": "Watches",
+  "type": "腕表",
+  "desc": "由授权厂商生产的时尚腕表,以三针简约款与商务钢带为主,部分款式点缀品牌标识,定位配饰型腕表。",
+  "file": "data\\img\\boss-watch.jpg"
+ },
+ {
+  "id": "bottega-veneta-cassette",
+  "brand": "葆蝶家",
+  "name": "枕头包",
+  "nameEn": "Cassette",
+  "type": "手袋",
+  "desc": "加宽Intrecciato编织呈现枕头般软弹质感,矩形轮廓配可拆卸肩带,是丹尼尔·李时期现象级包型。",
+  "file": "data\\img\\bottega-veneta-cassette.jpg"
+ },
+ {
+  "id": "bottega-veneta-arco",
+  "brand": "葆蝶家",
+  "name": "Arco",
+  "nameEn": "Arco",
+  "type": "手袋",
+  "desc": "2019年推出的拱形结构手袋,加宽编织皮条构成弧形底座,建筑感与工艺感兼具,是品牌高端旗舰包型。",
+  "file": "data\\img\\bottega-veneta-arco.jpg"
+ },
+ {
+  "id": "bottega-veneta-andiamo",
+  "brand": "葆蝶家",
+  "name": "Andiamo手袋",
+  "nameEn": "Andiamo",
+  "type": "托特包",
+  "desc": "2023年推出的通勤托特,金属结扣点缀,挺括梯形廓形配编织细节,意语意为「我们走吧」,上市即成静奢通勤首选。",
+  "file": "data\\img\\bottega-veneta-andiamo.jpg"
+ },
+ {
+  "id": "bottega-veneta-flash-flats",
+  "brand": "葆蝶家",
+  "name": "编织平底鞋",
+  "nameEn": "Flash Flats",
+  "type": "平底鞋",
+  "desc": "Intrecciato编织皮革平底鞋,方头软底、皮革如袜般服帖,无标识却自带辨识度,是静奢穿搭的经典鞋履单品。",
+  "file": "data\\img\\bottega-veneta-flash-flats.jpg"
+ },
+ {
+  "id": "bb-1818suit",
+  "brand": "布克兄弟",
+  "name": "1818 系列西装",
+  "nameEn": "1818 Suit",
+  "type": "西装",
+  "desc": "品牌最高规格的成衣西装系列,以全羊毛精纺面料与半麻衬工艺制作,提供 Madison 等经典版型,是美式商务西装的标杆。",
+  "file": "data\\img\\bb-1818suit.jpg"
+ },
+ {
+  "id": "bb-goldenfleece",
+  "brand": "布克兄弟",
+  "name": "Golden Fleece 金羊毛西装",
+  "nameEn": "Golden Fleece Suit",
+  "type": "西装",
+  "desc": "以品牌金羊毛标志命名的顶配系列,采用更高级的面料与更精细的做工,是品牌工艺的最高代表。",
+  "file": "data\\img\\bb-goldenfleece.jpg"
+ },
+ {
+  "id": "bb-cashmere",
+  "brand": "布克兄弟",
+  "name": "羊绒针织衫",
+  "nameEn": "Cashmere Sweater",
+  "type": "针织衫",
+  "desc": "以山羊绒纱线织成,圆领与 V 领为主,可单穿亦可与衬衫叠穿,是常春藤风格的标准配置。",
+  "file": "data\\img\\bb-cashmere.jpg"
+ },
+ {
+  "id": "bc-cashmere-sweater",
+  "brand": "布鲁内罗·库奇内利",
+  "name": "羊绒圆领针织衫",
+  "nameEn": "Cashmere Sweater",
+  "type": "针织衫",
+  "desc": "以顶级山羊绒纱线制成,手感蓬松软糯,版型宽松利落,经典的圆领与罗纹细节,是品牌最基础也最具代表性的单品。",
+  "file": "data\\img\\bc-cashmere-sweater.jpg"
+ },
+ {
+  "id": "bc-cashmere-tshirt",
+  "brand": "布鲁内罗·库奇内利",
+  "name": "羊绒 T 恤",
+  "nameEn": "Cashmere T-Shirt",
+  "type": "T 恤",
+  "desc": "以轻薄羊绒制成的基础款 T 恤,触感细腻,剪裁简约,常与牛仔裤或西裤搭配,是体验品牌质感的好选择。",
+  "file": "data\\img\\bc-cashmere-tshirt.jpg"
+ },
+ {
+  "id": "bc-scarf",
+  "brand": "布鲁内罗·库奇内利",
+  "name": "羊绒围巾",
+  "nameEn": "Cashmere Scarf",
+  "type": "围巾",
+  "desc": "采用加厚山羊绒织造,边缘手工收口,颜色以驼色、灰色等自然色调为主,规格宽大,保暖性与光泽感俱佳。",
+  "file": "data\\img\\bc-scarf.jpg"
+ },
+ {
+  "id": "burberry-trenchcoat",
+  "brand": "博柏利",
+  "name": "经典 Trench 风衣",
+  "nameEn": "Trench Coat",
+  "type": "风衣",
+  "desc": "品牌灵魂单品,嘎巴甸面料防风防雨,双排扣、腰带领结细节考究,切尔西与肯辛顿版型最为热销。",
+  "file": "data\\img\\burberry-trenchcoat.jpg"
+ },
+ {
+  "id": "burberry-scarf",
+  "brand": "博柏利",
+  "name": "格纹羊绒围巾",
+  "nameEn": "Classic Cashmere Scarf",
+  "type": "围巾",
+  "desc": "苏格兰织造的纯羊绒围巾,经典驼色格纹一眼即识,手感柔软保暖,是送礼首选的入门单品。",
+  "file": "data\\img\\burberry-scarf.jpg"
+ },
+ {
+  "id": "burberry-tbbag",
+  "brand": "博柏利",
+  "name": "TB 专属标识手袋",
+  "nameEn": "TB Bag",
+  "type": "手袋",
+  "desc": "以创始人 Thomas Burberry 缩写打造的专属标识锁扣手袋,线条简约,兼具通勤与休闲多种场景。",
+  "file": "data\\img\\burberry-tbbag.jpg"
+ },
+ {
+  "id": "burberry-coat",
+  "brand": "博柏利",
+  "name": "格纹羊绒大衣",
+  "nameEn": "Cashmere Coat",
+  "type": "大衣",
+  "desc": "冬季主打单品,羊绒或羊毛混纺质地,格纹内衬或撞色格纹设计,保暖与气场兼备。",
+  "file": "data\\img\\burberry-coat.jpg"
+ },
+ {
+  "id": "burberry-fragrance",
+  "brand": "博柏利",
+  "name": "香水",
+  "nameEn": "Fragrance",
+  "type": "香水",
+  "desc": "以 My Burberry、Hero、Goddess 等为代表的香水线,英伦花园气息与摩登木质调并存,瓶身延续经典设计元",
+  "file": "data\\img\\burberry-fragrance.jpg"
+ },
+ {
+  "id": "cb-hoodie",
+  "brand": "卡宾",
+  "name": "潮流卫衣",
+  "nameEn": "Hoodie",
+  "type": "卫衣",
+  "desc": "以品牌字标与涂鸦印花为特色,加绒与薄款覆盖不同季节,版型宽松舒适,是年轻客群的高频购买单品。",
+  "file": "data\\img\\cb-hoodie.jpg"
+ },
+ {
+  "id": "cb-pants",
+  "brand": "卡宾",
+  "name": "休闲裤装",
+  "nameEn": "Casual Pants",
+  "type": "裤装",
+  "desc": "以修身锥形与工装版型为主,弹力面料保证活动度,细节处点缀品牌元素,是整体穿搭中实用度最高的品类。",
+  "file": "data\\img\\cb-pants.jpg"
+ },
+ {
+  "id": "cb-coat",
+  "brand": "卡宾",
+  "name": "潮流大衣",
+  "nameEn": "Trend Coat",
+  "type": "大衣",
+  "desc": "以羊毛混纺与新型面料结合,廓形偏宽,融入国风盘扣或徽章刺绣,秋冬主打设计感与保暖并重。",
+  "file": "data\\img\\cb-coat.jpg"
+ },
+ {
+  "id": "calvinklein-underwear",
+  "brand": "卡尔文·克雷恩",
+  "name": "内衣系列",
+  "nameEn": "Underwear",
+  "type": "内衣",
+  "desc": "腰间 CK 织标内裤与内衣是品牌招牌,棉质舒适、剪裁贴身,几乎是无人不识的经典。",
+  "file": "data\\img\\calvinklein-underwear.jpg"
+ },
+ {
+  "id": "calvinklein-jeans",
+  "brand": "卡尔文·克雷恩",
+  "name": "牛仔裤",
+  "nameEn": "Jeans",
+  "type": "牛仔裤",
+  "desc": "Calvin Klein Jeans 主打复古直筒与修身版型,后腰皮标极具辨识度,基础款耐穿百搭。",
+  "file": "data\\img\\calvinklein-jeans.jpg"
+ },
+ {
+  "id": "calvinklein-outerwear",
+  "brand": "卡尔文·克雷恩",
+  "name": "外套",
+  "nameEn": "Outerwear",
+  "type": "外套",
+  "desc": "羽绒服、夹克与西装外套以简约廓形为主,黑白灰主色调,日常通勤好搭不出错。",
+  "file": "data\\img\\calvinklein-outerwear.jpg"
+ },
+ {
+  "id": "canadagoose-expedition",
+  "brand": "加拿大鹅",
+  "name": "Expedition 派克大衣",
+  "nameEn": "Expedition Parka",
+  "type": "派克大衣",
+  "desc": "品牌最经典的重装派克,原为极地科考设计,充绒量高、防护全面,胸前徽标辨识度极高。",
+  "file": "data\\img\\canadagoose-expedition.jpg"
+ },
+ {
+  "id": "canadagoose-langford",
+  "brand": "加拿大鹅",
+  "name": "Langford 派克大衣",
+  "nameEn": "Langford Parka",
+  "type": "派克大衣",
+  "desc": "都市通勤版派克大衣,剪裁比 Expedition 更利落,保暖与日常轻量取得平衡。",
+  "file": "data\\img\\canadagoose-langford.jpg"
+ },
+ {
+  "id": "canadagoose-chilliwack",
+  "brand": "加拿大鹅",
+  "name": "Chilliwack 飞行员夹克",
+  "nameEn": "Chilliwack Bomber",
+  "type": "夹克",
+  "desc": "短款飞行员版型,毛领厚实、袖口罗纹收口,活动灵便,是短款御寒的人气之选。",
+  "file": "data\\img\\canadagoose-chilliwack.jpg"
+ },
+ {
+  "id": "canadagoose-hybridge",
+  "brand": "加拿大鹅",
+  "name": "HyBridge 轻量羽绒服",
+  "nameEn": "HyBridge",
+  "type": "轻量羽绒服",
+  "desc": "弹性面料拼接羽绒的轻量系列,压缩收纳方便,适合秋冬城市与户外过渡穿着。",
+  "file": "data\\img\\canadagoose-hybridge.jpg"
+ },
+ {
+  "id": "canadagoose-freestyle",
+  "brand": "加拿大鹅",
+  "name": "Freestyle 马甲",
+  "nameEn": "Freestyle Vest",
+  "type": "马甲",
+  "desc": "轻薄羽绒马甲,秋冬叠穿神器,男女同款配色丰富,与衬衫组成经典搭配。",
+  "file": "data\\img\\canadagoose-freestyle.jpg"
+ },
+ {
+  "id": "canadagoose-knitwear",
+  "brand": "加拿大鹅",
+  "name": "针织系列",
+  "nameEn": "Knitwear",
+  "type": "针织衫",
+  "desc": "羊毛抓绒与针织单品延续极简设计,胸前小徽标低调,适合作为冬季内搭。",
+  "file": "data\\img\\canadagoose-knitwear.jpg"
+ },
+ {
+  "id": "celine-classic-box",
+  "brand": "赛琳",
+  "name": "豆腐包",
+  "nameEn": "Classic Box",
+  "type": "手袋",
+  "desc": "菲比·菲罗时代封神的小方包,Box小牛皮配金属转扣,极简到没有多余装饰,是法式极简主义的图腾。",
+  "file": "data\\img\\celine-classic-box.jpg"
+ },
+ {
+  "id": "celine-triomphe",
+  "brand": "赛琳",
+  "name": "凯旋门包",
+  "nameEn": "Triomphe",
+  "type": "手袋",
+  "desc": "致敬1970年代凯旋门锁链灵感的经典款,双C形凯旋门五金配光面牛皮,方正规整,是近年主力包型。",
+  "file": "data\\img\\celine-triomphe.jpg"
+ }
+]

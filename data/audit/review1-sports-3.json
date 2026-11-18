@@ -1,0 +1,452 @@
+[
+ {
+  "id": "mammut-barryvox",
+  "brand": "猛犸象",
+  "name": "Barryvox 雪崩信标",
+  "nameEn": "Barryvox",
+  "type": "雪崩安全装备",
+  "desc": "全球野雪玩家信赖的雪崩搜救信标,搜索距离远、界面直观,与探杆雪铲构成雪地安全三件套,关键时刻能救命。",
+  "file": "data\\img\\mammut-barryvox.jpg"
+ },
+ {
+  "id": "marmot-rocklin",
+  "brand": "土拨鼠",
+  "name": "Rocklin 抓绒",
+  "nameEn": "Rocklin",
+  "type": "抓绒衣",
+  "desc": "轻软的入门抓绒系列,聚酯纤维抓绒亲肤保暖,作中间层或日常外套都合适,价格实惠容易入手。",
+  "file": "data\\img\\marmot-rocklin.jpg"
+ },
+ {
+  "id": "merrell-moab",
+  "brand": "迈乐",
+  "name": "Moab 徒步鞋",
+  "nameEn": "Moab",
+  "type": "徒步鞋",
+  "desc": "全球销量领先的经典徒步鞋,外底抓地扎实、鞋面包裹舒适,开箱即走无需磨合,是轻装徒步与旅行的国民鞋款。",
+  "file": "data\\img\\merrell-moab.jpg"
+ },
+ {
+  "id": "merrell-agility",
+  "brand": "迈乐",
+  "name": "Agility Peak 越野跑鞋",
+  "nameEn": "Agility Peak",
+  "type": "越野跑鞋",
+  "desc": "山地越野跑旗舰,厚实中底缓冲长距离冲击,Vibram 外底抓地可靠,是超长距离越野赛事中的常见战靴。",
+  "file": "data\\img\\merrell-agility.jpg"
+ },
+ {
+  "id": "merrell-hiking-boots",
+  "brand": "迈乐",
+  "name": "中帮徒步靴",
+  "nameEn": "Hiking Boots",
+  "type": "徒步靴",
+  "desc": "在 Moab 等经典鞋型基础上升级的中帮版本,增强脚踝支撑与防水性能,适合背负重装与复杂山地线路。",
+  "file": "data\\img\\merrell-hiking-boots.jpg"
+ },
+ {
+  "id": "merrell-vapor-glove",
+  "brand": "迈乐",
+  "name": "Vapor Glove 赤足鞋",
+  "nameEn": "Vapor Glove",
+  "type": "赤足鞋",
+  "desc": "极简赤足训练鞋,鞋底超薄贴近地面,强化足部力量与本体感知,适合健身房训练与短距离自然跑。",
+  "file": "data\\img\\merrell-vapor-glove.jpg"
+ },
+ {
+  "id": "mizuno-wave-prophecy",
+  "brand": "美津浓",
+  "name": "Wave Prophecy 旗舰跑鞋",
+  "nameEn": "Wave Prophecy",
+  "type": "缓震跑鞋",
+  "desc": "美津浓顶级缓震跑鞋,国内跑友昵称「预言」,全掌 Infinity Wave 波形结构提供独特的前后掌缓震,外观科幻、脚感",
+  "file": "data\\img\\mizuno-wave-prophecy.jpg"
+ },
+ {
+  "id": "mizuno-morelia",
+  "brand": "美津浓",
+  "name": "Morelia II 足球鞋",
+  "nameEn": "Morelia II",
+  "type": "足球鞋",
+  "desc": "传奇袋鼠皮足球鞋,日本工匠缝制,触球感细腻、包裹柔软,被众多职业球员视为传世经典,数十年持续迭代不停。",
+  "file": "data\\img\\mizuno-morelia.jpg"
+ },
+ {
+  "id": "mizuno-global-elite",
+  "brand": "美津浓",
+  "name": "Global Elite 棒球手套",
+  "nameEn": "Global Elite",
+  "type": "棒球手套",
+  "desc": "美津浓深耕百年的棒球装备代表,Global Elite 高端手套以优质牛皮手工成型,养护后愈发贴合手型,深受棒球爱好者与",
+  "file": "data\\img\\mizuno-global-elite.jpg"
+ },
+ {
+  "id": "mizuno-jpx",
+  "brand": "美津浓",
+  "name": "JPX 高尔夫铁杆",
+  "nameEn": "JPX",
+  "type": "高尔夫球杆",
+  "desc": "美津浓高尔夫代表产品线,JPX 铁杆以锻造工艺与远距易打著称,手感扎实稳定,长期位居日系高尔夫铁杆畅销榜前列。",
+  "file": "data\\img\\mizuno-jpx.jpg"
+ },
+ {
+  "id": "mizuno-wave-lightning",
+  "brand": "美津浓",
+  "name": "Wave Lightning 排球鞋",
+  "nameEn": "Wave Lightning",
+  "type": "排球鞋",
+  "desc": "美津浓专业排球鞋,轻量灵活、急停启动表现出色,长期服务职业排坛,也是室内排球与气排球爱好者认可度极高的经典系列。",
+  "file": "data\\img\\mizuno-wave-lightning.jpg"
+ },
+ {
+  "id": "montbell-wind-shell",
+  "brand": "蒙贝尔",
+  "name": "风壳 Wind Shell",
+  "nameEn": "Wind Shell",
+  "type": "防风外套",
+  "desc": "超轻量防风外套,收纳后仅水瓶大小,防风透气性能均衡,是徒步越野跑包里「常备不穿」的安心单品。",
+  "file": "data\\img\\montbell-wind-shell.jpg"
+ },
+ {
+  "id": "montbell-zeoline",
+  "brand": "蒙贝尔",
+  "name": "Zeo-Line 保暖内衣",
+  "nameEn": "Zeo-Line",
+  "type": "保暖内衣",
+  "desc": "蒙贝尔自研的保暖排汗内衣科技,贴身柔软、速干保暖,是秋冬登山徒步的经典打底,性价比远超同类国际品牌。",
+  "file": "data\\img\\montbell-zeoline.jpg"
+ },
+ {
+  "id": "montbell-titanium-cookware",
+  "brand": "蒙贝尔",
+  "name": "钛水壶餐具",
+  "nameEn": "Titanium Cookware",
+  "type": "户外餐具",
+  "desc": "纯钛材质的轻量水壶、碗盘与餐具,坚固无异味、传热快,重量极轻,是日本山友背包里的传统项目。",
+  "file": "data\\img\\montbell-titanium-cookware.jpg"
+ },
+ {
+  "id": "montbell-tent",
+  "brand": "蒙贝尔",
+  "name": "隧道帐篷",
+  "nameEn": "Tunnel Tents",
+  "type": "帐篷",
+  "desc": "蒙贝尔轻量隧道帐与圆顶帐系列,抗风性与空间利用出色,自重控制在同级较低水平,是重装露营的可靠选择。",
+  "file": "data\\img\\montbell-tent.jpg"
+ },
+ {
+  "id": "newbalance-574",
+  "brand": "纽巴伦",
+  "name": "574",
+  "nameEn": "574",
+  "type": "复古跑鞋",
+  "desc": "1988年推出的入门经典,麂皮与网面拼接的耐用设计加上百搭造型,让574成为NB销量最大的国民鞋型之一,常年不衰。",
+  "file": "data\\img\\newbalance-574.jpg"
+ },
+ {
+  "id": "newbalance-530",
+  "brand": "纽巴伦",
+  "name": "530",
+  "nameEn": "530",
+  "type": "复古跑鞋",
+  "desc": "1992年问世的千禧年风格跑鞋,纤薄复古廓形与银灰配色在社交媒体走红,轻便好穿,成为年轻女生的热门日常鞋。",
+  "file": "data\\img\\newbalance-530.jpg"
+ },
+ {
+  "id": "newbalance-2002r",
+  "brand": "纽巴伦",
+  "name": "2002R",
+  "nameEn": "2002R",
+  "type": "复古跑鞋",
+  "desc": "复刻自2002年顶级缓震跑鞋,搭载ABZORB中底,机能感廓形与元祖灰配色兼具复古与质感,是NB近年的人气系列。",
+  "file": "data\\img\\newbalance-2002r.jpg"
+ },
+ {
+  "id": "newbalance-1906r",
+  "brand": "纽巴伦",
+  "name": "1906R",
+  "nameEn": "1906R",
+  "type": "复古跑鞋",
+  "desc": "复刻自2009年的跑鞋,金属银配色与层叠科技感中底辨识度极高,在潮流圈热度居高不下,男女同款皆宜。",
+  "file": "data\\img\\newbalance-1906r.jpg"
+ },
+ {
+  "id": "nike-airforce1",
+  "brand": "耐克",
+  "name": "Air Force 1",
+  "nameEn": "Air Force 1",
+  "type": "板鞋",
+  "desc": "1982年诞生的首双搭载Air气垫的篮球鞋,如今是全球销量最高的白色板鞋。",
+  "file": "data\\img\\nike-airforce1.jpg"
+ },
+ {
+  "id": "nike-airjordan1",
+  "brand": "耐克",
+  "name": "Air Jordan 1",
+  "nameEn": "Air Jordan 1",
+  "type": "篮球鞋",
+  "desc": "乔丹系列开山之作,黑红配色当年因违反NBA着装规定被罚款,反而封神。",
+  "file": "data\\img\\nike-airjordan1.jpg"
+ },
+ {
+  "id": "nike-pegasus",
+  "brand": "耐克",
+  "name": "飞马系列",
+  "nameEn": "Pegasus",
+  "type": "跑鞋",
+  "desc": "Run家常年更新的国民跑鞋,四十余代,日常慢跑的稳妥选择。",
+  "file": "data\\img\\nike-pegasus.jpg"
+ },
+ {
+  "id": "nike-dunk",
+  "brand": "耐克",
+  "name": "Dunk Low",
+  "nameEn": "Dunk Low",
+  "type": "板鞋",
+  "desc": "1985年的大学篮球鞋,被SB滑板线与潮流圈双双复活,配色玩不停。",
+  "file": "data\\img\\nike-dunk.jpg"
+ },
+ {
+  "id": "on-cloud",
+  "brand": "昂跑",
+  "name": "Cloud 系列",
+  "nameEn": "Cloud",
+  "type": "轻量跑鞋",
+  "desc": "昂跑的成名之作,镂空云朵大底轻软舒适,旋扣鞋带方便穿脱,是品牌最畅销的入门款,城市通勤与轻量运动两相宜。",
+  "file": "data\\img\\on-cloud.jpg"
+ },
+ {
+  "id": "on-cloudmonster",
+  "brand": "昂跑",
+  "name": "Cloudmonster",
+  "nameEn": "Cloudmonster",
+  "type": "厚底跑鞋",
+  "desc": "昂跑最大胆的厚底缓震跑鞋,夸张的云朵大底带来澎湃脚感,2022年发布后成为长距离慢跑与通勤的明星产品。",
+  "file": "data\\img\\on-cloudmonster.jpg"
+ },
+ {
+  "id": "on-cloudsurfer",
+  "brand": "昂跑",
+  "name": "Cloudsurfer",
+  "nameEn": "Cloudsurfer",
+  "type": "训练跑鞋",
+  "desc": "以CloudTec Phase新科技实现波浪式形变,过渡顺滑、脚感绵软,是昂跑新一代日常训练主力鞋款。",
+  "file": "data\\img\\on-cloudsurfer.jpg"
+ },
+ {
+  "id": "patagonia-down-sweater",
+  "brand": "巴塔哥尼亚",
+  "name": "Down Sweater 羽绒服",
+  "nameEn": "Down Sweater",
+  "type": "羽绒服",
+  "desc": "品牌标志性轻量羽绒服,800蓬鹅绒加防撕裂壳面,轻暖兼备且结实耐穿,是户外羽绒服的经典范本。",
+  "file": "data\\img\\patagonia-down-sweater.jpg"
+ },
+ {
+  "id": "patagonia-retro-x",
+  "brand": "巴塔哥尼亚",
+  "name": "Retro-X 抓绒衣",
+  "nameEn": "Retro-X",
+  "type": "抓绒衣",
+  "desc": "复古羊羔绒外观搭配防风膜内衬,厚实保暖又自带美式复古气质,是巴塔哥尼亚最具辨识度的抓绒经典。",
+  "file": "data\\img\\patagonia-retro-x.jpg"
+ },
+ {
+  "id": "patagonia-snap-t",
+  "brand": "巴塔哥尼亚",
+  "name": "Snap-T 抓绒",
+  "nameEn": "Snap-T",
+  "type": "抓绒衣",
+  "desc": "1994年问世的经典套头抓绒,胸前双扣袋与撞色拼接辨识度极高,从攀岩圈火到街头,是品牌的潮流担当。",
+  "file": "data\\img\\patagonia-snap-t.jpg"
+ },
+ {
+  "id": "peak-taichi-running",
+  "brand": "匹克",
+  "name": "态极系列跑鞋",
+  "nameEn": "Taichi",
+  "type": "缓震跑鞋",
+  "desc": "搭载态极自适科技中底,慢走柔软、快跑变硬的智能脚感一经推出便引发抢购,是国产品牌近年最具话题度的跑鞋系列。",
+  "file": "data\\img\\peak-taichi-running.jpg"
+ },
+ {
+  "id": "peak-taichi-slippers",
+  "brand": "匹克",
+  "name": "态极拖鞋",
+  "nameEn": "Taichi Slippers",
+  "type": "拖鞋",
+  "desc": "态极科技的休闲衍生爆品,厚底软弹、上脚即陷,适合日常与运动后恢复穿着,长期位居国产拖鞋销量前列。",
+  "file": "data\\img\\peak-taichi-slippers.jpg"
+ },
+ {
+  "id": "peak-tp9",
+  "brand": "匹克",
+  "name": "TP9 签名鞋",
+  "nameEn": "TP9",
+  "type": "篮球鞋",
+  "desc": "与 NBA 传奇控卫托尼·帕克合作的签名鞋系列,以灵活启动与稳定支撑著称,历经多代迭代,实战口碑扎实。",
+  "file": "data\\img\\peak-tp9.jpg"
+ },
+ {
+  "id": "peak-dh",
+  "brand": "匹克",
+  "name": "霍华德系列篮球鞋",
+  "nameEn": "DH Series",
+  "type": "篮球鞋",
+  "desc": "与 NBA 中锋德怀特·霍华德合作的中锋签名鞋,强调缓震保护与内线对抗,适合大体重球员,是匹克篮球线的代表产品。",
+  "file": "data\\img\\peak-dh.jpg"
+ },
+ {
+  "id": "peak-basketball",
+  "brand": "匹克",
+  "name": "匹克篮球",
+  "nameEn": "PEAK Basketball",
+  "type": "篮球",
+  "desc": "匹克经典球类产品,手感与耐磨兼顾,覆盖室内外不同场景,以扎实品质与亲民价格成为校园与野球场的常见选择。",
+  "file": "data\\img\\peak-basketball.jpg"
+ },
+ {
+  "id": "peak-sportswear",
+  "brand": "匹克",
+  "name": "运动服饰系列",
+  "nameEn": "Sportswear",
+  "type": "运动服",
+  "desc": "以态极科技为延伸的运动服装线,含速干上衣、卫衣与运动裤,设计年轻、价格亲民,是品牌门店的基础走量品类。",
+  "file": "data\\img\\peak-sportswear.jpg"
+ },
+ {
+  "id": "puma-suede",
+  "brand": "彪马",
+  "name": "Suede 经典麂皮板鞋",
+  "nameEn": "Suede",
+  "type": "经典板鞋",
+  "desc": "1968年问世的麂皮运动鞋,同年奥运会上汤米·史密斯穿着它赤脚举拳的照片永载史册,此后也成为滑板与嘻哈文化的经典符号。",
+  "file": "data\\img\\puma-suede.jpg"
+ },
+ {
+  "id": "puma-rs-x",
+  "brand": "彪马",
+  "name": "RS-X",
+  "nameEn": "RS-X",
+  "type": "复古跑鞋",
+  "desc": "复刻1980年代Running System缓震科技的复古跑鞋,夸张层叠造型与厚实中底深受潮流玩家喜爱,是千禧复古风格的",
+  "file": "data\\img\\puma-rs-x.jpg"
+ },
+ {
+  "id": "puma-palermo",
+  "brand": "彪马",
+  "name": "Palermo",
+  "nameEn": "Palermo",
+  "type": "经典板鞋",
+  "desc": "诞生于1980年的麂皮复古训练鞋,因足球文化与英伦街头风潮翻红,简洁配色搭配经典造型,成为近年复古板鞋的热门。",
+  "file": "data\\img\\puma-palermo.jpg"
+ },
+ {
+  "id": "puma-speedcat",
+  "brand": "彪马",
+  "name": "Speedcat",
+  "nameEn": "Speedcat",
+  "type": "复古赛车鞋",
+  "desc": "源自F1赛车运动的低趴薄底鞋,2024年借赛车风与纤薄鞋型潮流意外翻红,贴脚显腿长的版型让它成为现象级爆款。",
+  "file": "data\\img\\puma-speedcat.jpg"
+ },
+ {
+  "id": "puma-deviate-nitro",
+  "brand": "彪马",
+  "name": "Deviate Nitro",
+  "nameEn": "Deviate Nitro",
+  "type": "竞速跑鞋",
+  "desc": "搭载氮气发泡Nitro中底与碳板的跑鞋系列,兼顾缓震与推进力,是PUMA重返专业跑步市场的诚意之作,训练比赛两相宜。",
+  "file": "data\\img\\puma-deviate-nitro.jpg"
+ },
+ {
+  "id": "puma-king",
+  "brand": "彪马",
+  "name": "King 系列",
+  "nameEn": "King",
+  "type": "足球鞋",
+  "desc": "1968年问世的传奇足球鞋,贝利与马拉多纳都曾穿着它征战世界杯,袋鼠皮鞋面触感细腻,是足球史上最经典的鞋款之一。",
+  "file": "data\\img\\puma-king.jpg"
+ },
+ {
+  "id": "puma-mb",
+  "brand": "彪马",
+  "name": "MB 签名篮球鞋",
+  "nameEn": "MB Series",
+  "type": "篮球鞋",
+  "desc": "拉梅洛·鲍尔的签名篮球鞋系列,天马行空的配色设计与出色的场地感,让重返篮球市场的PUMA重新站稳脚跟。",
+  "file": "data\\img\\puma-mb.jpg"
+ },
+ {
+  "id": "rockbros-sunglasses",
+  "brand": "洛克兄弟",
+  "name": "骑行眼镜",
+  "nameEn": "Cycling Sunglasses",
+  "type": "骑行眼镜",
+  "desc": "偏光镜片防风防沙,镜腿防滑、重量轻,多种镜片颜色可选,价格友好,是骑行入门装备里人气最高的品类之一。",
+  "file": "data\\img\\rockbros-sunglasses.jpg"
+ },
+ {
+  "id": "rockbros-bike-bag",
+  "brand": "洛克兄弟",
+  "name": "骑行包系列",
+  "nameEn": "Bike Bags",
+  "type": "骑行包",
+  "desc": "从车前包、鞍座包到驮包的完整收纳产品线,防水面料、快速拆装结构实用,是品牌起家的看家品类。",
+  "file": "data\\img\\rockbros-bike-bag.jpg"
+ },
+ {
+  "id": "rockbros-helmet",
+  "brand": "洛克兄弟",
+  "name": "骑行头盔",
+  "nameEn": "Cycling Helmets",
+  "type": "头盔",
+  "desc": "通风孔设计与一体成型工艺兼顾,重量轻、包覆性好,多色可选,以安全与性价比赢得大量通勤与骑行用户。",
+  "file": "data\\img\\rockbros-helmet.jpg"
+ },
+ {
+  "id": "rockbros-phone-mount",
+  "brand": "洛克兄弟",
+  "name": "手机支架",
+  "nameEn": "Phone Mounts",
+  "type": "手机支架",
+  "desc": "减震防抖的车把手机支架,安装稳固、单手取放方便,导航骑行更安全,是通勤党与长途骑友的实用配件。",
+  "file": "data\\img\\rockbros-phone-mount.jpg"
+ },
+ {
+  "id": "rockbros-pump",
+  "brand": "洛克兄弟",
+  "name": "便携打气筒",
+  "nameEn": "Mini Pumps",
+  "type": "打气筒",
+  "desc": "小巧易携的便携打气筒,兼容美法式气嘴,带气压表款式可精准控压,是骑行随身工具包的必备单品。",
+  "file": "data\\img\\rockbros-pump.jpg"
+ },
+ {
+  "id": "salomon-xt-6",
+  "brand": "萨洛蒙",
+  "name": "XT-6",
+  "nameEn": "XT-6",
+  "type": "山系越野鞋",
+  "desc": "为超级越野跑打造的旗舰鞋型,Advanced系列凭雪白配色与未来感造型在潮流圈爆红,是Gorpcore风潮的头号单品。",
+  "file": "data\\img\\salomon-xt-6.jpg"
+ },
+ {
+  "id": "salomon-xt-4",
+  "brand": "萨洛蒙",
+  "name": "XT-4",
+  "nameEn": "XT-4",
+  "type": "山系越野鞋",
+  "desc": "XT-6之前的旗舰越野鞋,高缓震长距离定位,复刻后的Advanced系列同样备受山系穿搭玩家追捧。",
+  "file": "data\\img\\salomon-xt-4.jpg"
+ },
+ {
+  "id": "salomon-speedcross",
+  "brand": "萨洛蒙",
+  "name": "Speedcross",
+  "nameEn": "Speedcross",
+  "type": "越野跑鞋",
+  "desc": "全球最知名的越野跑鞋之一,深齿鞋底在泥地与松软路面抓地力惊人,迭代多代长盛不衰。",
+  "file": "data\\img\\salomon-speedcross.jpg"
+ }
+]
