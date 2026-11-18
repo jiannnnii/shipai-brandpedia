@@ -80,3 +80,25 @@ chowsangsang-promessa、gp-cats-eye、oris-bigcrown、tasaki-balance、sw-lowlan
 任务:审查 data\audit\{清单}.json 里列出的 N 个产品条目对应的图片是否正确。这是"{品类}"品类。清单每条含 id、brand、name、nameEn、type、desc、file。
 对每一条:1) 用 Read 读取项目根下的 file 指向的图片(绝对路径);2) 对照 name/nameEn/desc 判断,verdict 四选一小写:"ok"=该产品实物照片主体正确可辨认 / "logo"=品牌logo文字标门店招牌 / "mismatch"=与该产品无关(含同品牌但不是该条目产品) / "lowq"=产品对但过小模糊大水印拼图;3) 中文 note 一句说清错图里实际是什么。
 输出:JSON 数组写到 data\audit\{输出}.json,格式 [{"id":"...","verdict":"...","note":"..."},...]。每审完 10 张覆盖写入一次防崩溃。全部审完,完成后回复一行统计。
+
+## 扩充计划 v2(2026-11-19 深夜制定,目标:覆盖方方面面的百科 + 图全对 + 体验一流)
+
+### Phase A 内容充实(进行中)
+- 全量 2639 产品描述扩写:34字 → 80-150字(定位/特点工艺/适用场景/文化地位),子代理纯文本批处理(50条/批),主会话落盘回 data/src。
+- 验收:build-data 后抽检,描述平均 ≥80 字。
+
+### Phase B 覆盖扩充
+- 每品类新增品牌(目标总量 650-750 品牌),每品牌 3-5 个代表产品,含完整字段(name/nameEn/domain/country/founded/hq/tier/sub/tags/slogan/desc/story)。
+- 由子代理按品类生成 → 校验(不与现有 id 重复、字段齐全)→ 写入 data/src/brands.<cat>.9x.json → build-data。
+
+### Phase C 图片正确(最长战线)
+- 对所有无图产品(扩充后 ~2700+)跑"候选制"取图:每产品抓 2-3 个候选,子代理"选出正确一张或判无"代替单图判对错(产出比远高于旧单图模式)。
+- 只有 ok 的才落 data/img/,宁缺毋滥。
+
+### Phase D 体验打磨
+- 搜索增强:命中 sub/slogan/story;品类页加定位(tier)筛选。
+- 产品页:扩写描述排版、同价位看看横滑、品牌信息更立体。
+- 首页:收集进度提示。
+- 每阶段完成:build-data → build-apk → git push。
+
+### 执行顺序:A → D(先小改)→ B → C(长战线)→ 终打包

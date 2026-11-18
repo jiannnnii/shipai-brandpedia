@@ -1,1863 +1,3551 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "fila",
+   "name": "斐乐",
+   "nameEn": "FILA",
+   "domain": "fila.com",
+   "categoryId": "sports",
+   "country": "意大利",
+   "founded": 1911,
+   "hq": "比耶拉",
+   "tier": "中高端",
+   "sub": "综合运动",
+   "tags": [
+    "运动时尚",
+    "网球",
+    "复古潮流"
+   ],
+   "slogan": "",
+   "desc": "斐乐是 1911 年创立于意大利比耶拉的运动品牌,以高级针织运动服起家,后以网球、高尔夫等专业运动服饰闻名。现由安踏集团运营中国市场,是高端运动时尚的代表性品牌。",
+   "story": "1911 年,FILA 兄弟在意大利纺织小镇比耶拉创立同名品牌,以精工针织品起家。二十世纪七十年代,品牌转向运动领域,凭借标志性的 F 框 logo 与意式美学,成为网球场上最优雅的身影,瑞典球王比约·博格曾多次穿着斐乐夺得温网冠军。\n进入二十一世纪后,斐乐经历多轮股权变更,2009 年安踏集团取得其中国经营权,将品牌重新定位为高端运动时尚。凭借复古老爹鞋与时装级设计,斐乐在中国高端商场快速扩张,销售额多年位居中国高端运动品牌前列。",
+   "products": [
     {
-      "id": "fila",
-      "name": "斐乐",
-      "nameEn": "FILA",
-      "domain": "fila.com",
-      "categoryId": "sports",
-      "country": "意大利",
-      "founded": 1911,
-      "hq": "比耶拉",
-      "tier": "中高端",
-      "sub": "综合运动",
-      "tags": ["运动时尚", "网球", "复古潮流"],
-      "slogan": "",
-      "desc": "斐乐是 1911 年创立于意大利比耶拉的运动品牌,以高级针织运动服起家,后以网球、高尔夫等专业运动服饰闻名。现由安踏集团运营中国市场,是高端运动时尚的代表性品牌。",
-      "story": "1911 年,FILA 兄弟在意大利纺织小镇比耶拉创立同名品牌,以精工针织品起家。二十世纪七十年代,品牌转向运动领域,凭借标志性的 F 框 logo 与意式美学,成为网球场上最优雅的身影,瑞典球王比约·博格曾多次穿着斐乐夺得温网冠军。\n进入二十一世纪后,斐乐经历多轮股权变更,2009 年安踏集团取得其中国经营权,将品牌重新定位为高端运动时尚。凭借复古老爹鞋与时装级设计,斐乐在中国高端商场快速扩张,销售额多年位居中国高端运动品牌前列。",
-      "products": [
-        {
-          "id": "fila-disruptor",
-          "name": "Disruptor 老爹鞋",
-          "nameEn": "Disruptor",
-          "type": "老爹鞋",
-          "price": { "min": 500, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "斐乐最具标志性的复古厚底运动鞋,锯齿厚底与简洁鞋面让它成为老爹鞋风潮的开创者之一,常年位居潮流鞋畅销榜,男女同款百搭耐看。",
-          "highlights": ["锯齿厚底", "复古廓形", "潮流百搭"],
-          "tags": ["复古", "潮流"],
-          "image": null
-        },
-        {
-          "id": "fila-original-tennis",
-          "name": "Original Tennis 网球鞋",
-          "nameEn": "Original Tennis",
-          "type": "网球鞋",
-          "price": { "min": 400, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "复刻斐乐上世纪七十年代的经典网球鞋型,皮革鞋面搭配 F 框标识,兼顾运动血统与日常穿搭,是复古网球鞋爱好者的必收款式。",
-          "highlights": ["皮革鞋面", "F框标识", "复古网球风"],
-          "tags": ["复古", "休闲"],
-          "image": null
-        },
-        {
-          "id": "fila-ray",
-          "name": "Ray 复古跑鞋",
-          "nameEn": "Ray",
-          "type": "复古跑鞋",
-          "price": { "min": 300, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以千禧年跑鞋为灵感打造,轻量网布鞋身与流线造型,上脚轻便舒适,是斐乐日常通勤与轻运动场景的畅销款式。",
-          "highlights": ["轻量网布", "千禧复古", "通勤舒适"],
-          "tags": ["复古", "日常"],
-          "image": null
-        },
-        {
-          "id": "fila-tennis-apparel",
-          "name": "网球服系列",
-          "nameEn": "Tennis Apparel",
-          "type": "运动服",
-          "price": { "min": 200, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "源自专业网球赛场的服饰系列,涵盖 Polo 衫、网球裙与套装,剪裁利落、面料透气挺括,是斐乐优雅运动风格的代表作。",
-          "highlights": ["专业剪裁", "透气面料", "优雅风格"],
-          "tags": ["网球", "服饰"],
-          "image": null
-        },
-        {
-          "id": "fila-fleece-set",
-          "name": "运动卫衣套装",
-          "nameEn": "Fleece Set",
-          "type": "卫衣套装",
-          "price": { "min": 300, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "斐乐秋冬主力产品,含连帽卫衣与运动长裤,抓绒内里保暖亲肤,胸前 F 框 logo 辨识度极高,适合日常与运动多种场景。",
-          "highlights": ["抓绒保暖", "连帽设计", "情侣同款"],
-          "tags": ["秋冬", "日常"],
-          "image": null
-        },
-        {
-          "id": "fila-kids",
-          "name": "儿童运动系列",
-          "nameEn": "Kids Series",
-          "type": "童装",
-          "price": { "min": 200, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向儿童的运动鞋服线,延续成人款设计语言,鞋底防滑、面料亲肤,是中国高端童装运动市场的热门选择,支持亲子同款穿搭。",
-          "highlights": ["迷你F框", "防滑鞋底", "亲子同款"],
-          "tags": ["童装", "高端"],
-          "image": null
-        }
-      ]
+     "id": "fila-disruptor",
+     "name": "Disruptor 老爹鞋",
+     "nameEn": "Disruptor",
+     "type": "老爹鞋",
+     "price": {
+      "min": 500,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Disruptor 是斐乐最具标志性的复古厚底老爹鞋。锯齿形厚底搭配简洁鞋面,廓形夸张复古,上脚显高且百搭耐看,男女同款。适合日常街头穿搭、潮流动辄搭配及追求复古风格的年轻人群。作为老爹鞋风潮的开创者之一,Disruptor 常年位居潮流鞋畅销榜,是斐乐复兴历程中最具文化影响力的单品,也曾引发全网厚底鞋模仿热潮。",
+     "highlights": [
+      "锯齿厚底",
+      "复古廓形",
+      "潮流百搭"
+     ],
+     "tags": [
+      "复古",
+      "潮流"
+     ],
+     "image": null
     },
     {
-      "id": "mizuno",
-      "name": "美津浓",
-      "nameEn": "MIZUNO",
-      "domain": "mizuno.com",
-      "categoryId": "sports",
-      "country": "日本",
-      "founded": 1906,
-      "hq": "大阪",
-      "tier": "中高端",
-      "sub": "综合运动",
-      "tags": ["跑鞋", "棒球", "高尔夫", "日系精工"],
-      "slogan": "Never Settle",
-      "desc": "美津浓 1906 年创立于日本大阪,以棒球、跑鞋与高尔夫装备闻名,自研机械缓震 Wave 科技独树一帜,是深受专业运动员信赖的百年综合运动品牌。",
-      "story": "1906 年,水野利八兄弟在大阪创立美津浓,从棒球队服与手套做起,逐步将产品线拓展至跑鞋、足球、排球、高尔夫等几乎所有主流运动项目,百余年来为无数奥运冠军与职业选手提供装备。\n美津浓以日式精工著称:跑鞋采用机械缓震 Wave 平板科技,稳定耐用独树一帜;高端足球鞋与棒球手套坚持日本工厂手工制作。它不做夸张营销,却凭专业口碑成为运动员心中的「匠人品牌」。",
-      "products": [
-        {
-          "id": "mizuno-wave-rider",
-          "name": "Wave Rider 缓震跑鞋",
-          "nameEn": "Wave Rider",
-          "type": "缓震跑鞋",
-          "price": { "min": 700, "max": 1200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "美津浓最经典的次顶级缓震跑鞋,Wave 机械缓震板带来扎实落地反馈,支撑性与耐用度出色,是长距离慢跑爱好者信赖的常青款。",
-          "highlights": ["Wave机械缓震", "稳定支撑", "经久耐用"],
-          "tags": ["跑鞋", "专业"],
-          "image": null
-        },
-        {
-          "id": "mizuno-wave-prophecy",
-          "name": "Wave Prophecy 旗舰跑鞋",
-          "nameEn": "Wave Prophecy",
-          "type": "缓震跑鞋",
-          "price": { "min": 1500, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "美津浓顶级缓震跑鞋,国内跑友昵称「预言」,全掌 Infinity Wave 波形结构提供独特的前后掌缓震,外观科幻、脚感扎实。",
-          "highlights": ["全掌Wave", "顶级缓震", "科幻造型"],
-          "tags": ["跑鞋", "旗舰"],
-          "image": null
-        },
-        {
-          "id": "mizuno-morelia",
-          "name": "Morelia II 足球鞋",
-          "nameEn": "Morelia II",
-          "type": "足球鞋",
-          "price": { "min": 800, "max": 1600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "传奇袋鼠皮足球鞋,日本工匠缝制,触球感细腻、包裹柔软,被众多职业球员视为传世经典,数十年持续迭代不停。",
-          "highlights": ["袋鼠皮鞋面", "日本手工", "传世经典"],
-          "tags": ["足球", "专业"],
-          "image": null
-        },
-        {
-          "id": "mizuno-global-elite",
-          "name": "Global Elite 棒球手套",
-          "nameEn": "Global Elite",
-          "type": "棒球手套",
-          "price": { "min": 1000, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "美津浓深耕百年的棒球装备代表,Global Elite 高端手套以优质牛皮手工成型,养护后愈发贴合手型,深受棒球爱好者与职业选手青睐。",
-          "highlights": ["牛皮材质", "手工成型", "职业青睐"],
-          "tags": ["棒球", "专业"],
-          "image": null
-        },
-        {
-          "id": "mizuno-jpx",
-          "name": "JPX 高尔夫铁杆",
-          "nameEn": "JPX",
-          "type": "高尔夫球杆",
-          "price": { "min": 8000, "max": 18000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "美津浓高尔夫代表产品线,JPX 铁杆以锻造工艺与远距易打著称,手感扎实稳定,长期位居日系高尔夫铁杆畅销榜前列。",
-          "highlights": ["锻造工艺", "易打远距", "日系手感"],
-          "tags": ["高尔夫", "专业"],
-          "image": null
-        },
-        {
-          "id": "mizuno-wave-lightning",
-          "name": "Wave Lightning 排球鞋",
-          "nameEn": "Wave Lightning",
-          "type": "排球鞋",
-          "price": { "min": 500, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "美津浓专业排球鞋,轻量灵活、急停启动表现出色,长期服务职业排坛,也是室内排球与气排球爱好者认可度极高的经典系列。",
-          "highlights": ["轻量灵活", "快速启动", "专业排球"],
-          "tags": ["排球", "专业"],
-          "image": null
-        }
-      ]
+     "id": "fila-original-tennis",
+     "name": "Original Tennis 网球鞋",
+     "nameEn": "Original Tennis",
+     "type": "网球鞋",
+     "price": {
+      "min": 400,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Original Tennis 是斐乐复刻上世纪七十年代经典网球鞋型打造的复古网球鞋。皮革鞋面质感细腻,鞋侧标志性 F 框标识醒目,设计延续品牌优雅的运动血统。适合复古运动风穿搭、日常通勤及网球鞋爱好者收藏,男女皆宜。作为斐乐网球黄金年代的产物,它兼顾运动基因与时尚属性,是复古网球鞋爱好者必收的经典款式。",
+     "highlights": [
+      "皮革鞋面",
+      "F框标识",
+      "复古网球风"
+     ],
+     "tags": [
+      "复古",
+      "休闲"
+     ],
+     "image": null
     },
     {
-      "id": "yonex",
-      "name": "尤尼克斯",
-      "nameEn": "YONEX",
-      "domain": "yonex.com",
-      "categoryId": "sports",
-      "country": "日本",
-      "founded": 1946,
-      "hq": "东京",
-      "tier": "中高端",
-      "sub": "球类",
-      "tags": ["羽毛球", "网球", "专业装备"],
-      "slogan": "",
-      "desc": "尤尼克斯 1946 年创立于日本,是全球羽毛球装备第一品牌,球拍、球线与球鞋被职业选手广泛使用,业务同样覆盖网球与高尔夫领域。",
-      "story": "1946 年,米山稔在新潟县创立尤尼克斯前身,从木制羽毛球拍起家。品牌以材料革新不断突破,率先将铝合金、碳纤维引入球拍制造,推动羽毛球运动进入碳素时代,逐步成长为全球羽毛球装备的第一品牌。\n从林丹、李宗伟到安赛龙,历代羽坛名将都曾使用尤尼克斯装备征战赛场;网球领域的 VCORE、EZONE 与高尔夫球杆同样拥有大满贯冠军背书。今天,从世界大赛到社区球馆,「YY」都是羽网爱好者绕不开的名字。",
-      "products": [
-        {
-          "id": "yonex-astrox",
-          "name": "天斧系列球拍",
-          "nameEn": "ASTROX",
-          "type": "羽毛球拍",
-          "price": { "min": 800, "max": 1800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "尤尼克斯头重进攻型球拍代表,连续下压威力十足,天斧 99Pro 与 100ZZ 等型号被顶级单打选手广泛使用,是进攻型爱好者的信仰之拍。",
-          "highlights": ["头重进攻", "连续下压", "单打利器"],
-          "tags": ["羽毛球", "进攻"],
-          "image": null
-        },
-        {
-          "id": "yonex-nanoflare",
-          "name": "疾光系列球拍",
-          "nameEn": "NANOFLARE",
-          "type": "羽毛球拍",
-          "price": { "min": 800, "max": 1800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "主打极速挥拍的破风框球拍,拍框切风阻力小,双打平抽挡优势明显,疾光 800Pro 是职业双打赛场最常见的球拍之一。",
-          "highlights": ["破风拍框", "挥速极快", "双打神器"],
-          "tags": ["羽毛球", "速度"],
-          "image": null
-        },
-        {
-          "id": "yonex-vcore",
-          "name": "VCORE 网球拍",
-          "nameEn": "VCORE",
-          "type": "网球拍",
-          "price": { "min": 1000, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "主打旋转的网球拍系列,特殊拍框截面增强上旋效果,职业选手西冈良仁等长期使用,适合追求强烈上旋的进阶球友。",
-          "highlights": ["旋转增强", "职业使用", "上旋利器"],
-          "tags": ["网球", "旋转"],
-          "image": null
-        },
-        {
-          "id": "yonex-power-cushion",
-          "name": "Power Cushion 羽毛球鞋",
-          "nameEn": "Power Cushion",
-          "type": "羽毛球鞋",
-          "price": { "min": 400, "max": 900, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以招牌「Power Cushion」吸震回弹科技打造,配合防滑大底与侧向支撑,急停跳跃更安心,是羽毛球鞋领域的标杆产品。",
-          "highlights": ["吸震回弹", "侧向支撑", "防滑大底"],
-          "tags": ["羽毛球", "装备"],
-          "image": null
-        },
-        {
-          "id": "yonex-bg80",
-          "name": "BG-80 羽毛球线",
-          "nameEn": "BG-80",
-          "type": "羽毛球线",
-          "price": { "min": 40, "max": 80, "currency": "CNY", "label": "零售参考价" },
-          "desc": "经典高反弹羽毛球线,击球反馈清晰、弹性出色,是无数球友的第一条线,长年畅销全球,新手与进阶玩家通吃。",
-          "highlights": ["高反弹", "手感清晰", "经典畅销"],
-          "tags": ["羽毛球", "耗材"],
-          "image": null
-        },
-        {
-          "id": "yonex-aerosensa",
-          "name": "Aerosensa 比赛用球",
-          "nameEn": "Aerosensa",
-          "type": "羽毛球",
-          "price": { "min": 100, "max": 200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "鸭毛比赛用球,飞行稳定、耐打度好,是众多业余赛事的指定用球,按耐打程度分为 AS-9、AS-30 等多个型号。",
-          "highlights": ["鸭毛球头", "飞行稳定", "赛事指定"],
-          "tags": ["羽毛球", "耗材"],
-          "image": null
-        }
-      ]
+     "id": "fila-ray",
+     "name": "Ray 复古跑鞋",
+     "nameEn": "Ray",
+     "type": "复古跑鞋",
+     "price": {
+      "min": 300,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Ray 是斐乐以千禧年跑鞋为灵感打造的复古跑鞋。轻量网布鞋身搭配流线造型,视觉轻盈复古,上脚轻便舒适,缓震表现满足日常所需。适合日常通勤、轻运动场景及喜欢 Y2K 复古风格的年轻消费者。作为斐乐鞋服矩阵中的畅销款式,Ray 以舒适百搭的口碑承担着品牌日常款的主力角色,深受通勤族与学生群体欢迎。",
+     "highlights": [
+      "轻量网布",
+      "千禧复古",
+      "通勤舒适"
+     ],
+     "tags": [
+      "复古",
+      "日常"
+     ],
+     "image": null
     },
     {
-      "id": "wilson",
-      "name": "威尔胜",
-      "nameEn": "Wilson",
-      "domain": "wilson.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1914,
-      "hq": "芝加哥",
-      "tier": "中高端",
-      "sub": "球类",
-      "tags": ["网球", "篮球", "棒球", "美式橄榄球"],
-      "slogan": "",
-      "desc": "威尔胜 1914 年创立于美国芝加哥,是全球最大的球类运动品牌之一,网球拍、篮球、棒球手套与橄榄球装备畅销世界,费德勒的经典战拍即出自威尔胜。",
-      "story": "1914 年,威尔胜在美国芝加哥起家,很快以高质量的棒球与橄榄球装备站稳脚跟。此后品牌深耕网球,Pro Staff 系列陪伴桑普拉斯与费德勒缔造传奇,成为网球史上最具声望的球拍家族之一。\n如今威尔胜是 Amer Sports 集团旗下核心品牌,长期担任 NFL 官方用球与美国网球公开赛官方用球,产品覆盖网球、篮球、棒球、橄榄球与高尔夫。从职业赛场到社区球场,W 字标是世界通用的运动符号。",
-      "products": [
-        {
-          "id": "wilson-pro-staff",
-          "name": "Pro Staff 网球拍",
-          "nameEn": "Pro Staff",
-          "type": "网球拍",
-          "price": { "min": 1200, "max": 2800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "威尔胜传奇职业拍系列,桑普拉斯与费德勒的成名武器,拍感扎实、控制精准,是进阶球员心中的殿堂级经典。",
-          "highlights": ["费德勒同款", "控制精准", "殿堂经典"],
-          "tags": ["网球", "专业"],
-          "image": null
-        },
-        {
-          "id": "wilson-clash",
-          "name": "Clash 网球拍",
-          "nameEn": "Clash",
-          "type": "网球拍",
-          "price": { "min": 1200, "max": 2600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "威尔胜近年最热门的创新球拍,柔性碳纤维框架带来高弹性与高容错,底线对攻省力舒适,上市即成全球畅销款。",
-          "highlights": ["柔性框架", "高容错", "省力舒适"],
-          "tags": ["网球", "创新"],
-          "image": null
-        },
-        {
-          "id": "wilson-a2000",
-          "name": "A2000 棒球手套",
-          "nameEn": "A2000",
-          "type": "棒球手套",
-          "price": { "min": 1000, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "威尔胜旗舰棒球手套,Pro Stock 皮革经久耐用,版型历经数十年打磨,是大联盟球员与业余强手广泛使用的高阶手套。",
-          "highlights": ["ProStock皮革", "大联盟使用", "久经考验"],
-          "tags": ["棒球", "专业"],
-          "image": null
-        },
-        {
-          "id": "wilson-nfl-football",
-          "name": "NFL 比赛用球",
-          "nameEn": "The Duke",
-          "type": "美式橄榄球",
-          "price": { "min": 200, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "自 1941 年起担任 NFL 官方比赛用球,The Duke 皮革橄榄球纹路清晰、握感扎实,是橄榄球运动当之无愧的标志单品。",
-          "highlights": ["NFL官方用球", "皮革握感", "收藏经典"],
-          "tags": ["橄榄球", "收藏"],
-          "image": null
-        },
-        {
-          "id": "wilson-evolution",
-          "name": "Evolution 篮球",
-          "nameEn": "Evolution",
-          "type": "篮球",
-          "price": { "min": 200, "max": 450, "currency": "CNY", "label": "零售参考价" },
-          "desc": "北美校园篮球的经典用球,超细纤维皮面吸湿防滑、弹跳一致性出色,室内训练手感一流,常年是美国高中赛场的热门选择。",
-          "highlights": ["超细纤维", "吸湿防滑", "室内训练"],
-          "tags": ["篮球", "校园"],
-          "image": null
-        },
-        {
-          "id": "wilson-avp",
-          "name": "AVP 沙滩排球",
-          "nameEn": "AVP",
-          "type": "沙滩排球",
-          "price": { "min": 200, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与美国职业沙滩排球巡回赛 AVP 联合开发的官方用球,防水外皮手感柔软,是沙滩排球爱好者最熟悉的标准用球。",
-          "highlights": ["AVP官方", "防水外皮", "柔软手感"],
-          "tags": ["排球", "沙滩"],
-          "image": null
-        }
-      ]
+     "id": "fila-tennis-apparel",
+     "name": "网球服系列",
+     "nameEn": "Tennis Apparel",
+     "type": "运动服",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "网球服系列是斐乐源自专业网球赛场的经典服饰线,涵盖 Polo 衫、网球裙与运动套装。剪裁利落修身,面料透气挺括,设计延续品牌与网球运动半个多世纪的渊源,风格优雅大方。适合网球运动、日常通勤及轻运动休闲场景,深受注重气质的消费者喜爱。作为斐乐优雅运动风格的代表作,该系列承载了品牌最正统的体育基因。",
+     "highlights": [
+      "专业剪裁",
+      "透气面料",
+      "优雅风格"
+     ],
+     "tags": [
+      "网球",
+      "服饰"
+     ],
+     "image": null
     },
     {
-      "id": "spalding",
-      "name": "斯伯丁",
-      "nameEn": "Spalding",
-      "domain": "spalding.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1876,
-      "hq": "鲍灵格林",
-      "tier": "大众",
-      "sub": "球类",
-      "tags": ["篮球", "篮架", "器材"],
-      "slogan": "",
-      "desc": "斯伯丁 1876 年创立于美国,由棒球名将斯伯丁创办,是全球篮球器材的代名词,曾长期作为 NBA 官方比赛用球,篮架与训练装备同样畅销全球。",
-      "story": "1876 年,退役棒球投手阿尔伯特·斯伯丁在芝加哥创立同名公司,以标准化棒球与运动器材起家,迅速成为北美运动装备巨头。1983 年起,斯伯丁成为 NBA 官方比赛用球,伴随乔丹等巨星让品牌红遍全球。\n2021 年 NBA 用球合约花落威尔胜后,斯伯丁依旧是全球销量领先的篮球品牌,TF 训练球、街球、篮架与儿童装备覆盖从校园到职业的各级场景。在中国,它更是几代人篮球记忆里最熟悉的品牌。",
-      "products": [
-        {
-          "id": "spalding-nba-game-ball",
-          "name": "NBA 比赛用球",
-          "nameEn": "NBA Game Ball",
-          "type": "篮球",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "1983 至 2021 年作为 NBA 官方比赛用球的经典篮球,PU 复刻版手感扎实,是无数中国篮球爱好者的第一颗「正式用球」。",
-          "highlights": ["NBA官方用球", "经典复刻", "手感扎实"],
-          "tags": ["篮球", "经典"],
-          "image": null
-        },
-        {
-          "id": "spalding-tf-1000",
-          "name": "TF-1000 篮球",
-          "nameEn": "TF-1000",
-          "type": "篮球",
-          "price": { "min": 200, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "斯伯丁高阶训练比赛用球,内胆气密性与圆度表现出色,皮质耐磨防滑,广泛用于大学与半职业赛场,口碑经久不衰。",
-          "highlights": ["气密内胆", "圆度精准", "耐磨防滑"],
-          "tags": ["篮球", "训练"],
-          "image": null
-        },
-        {
-          "id": "spalding-street",
-          "name": "STREET 街头篮球",
-          "nameEn": "STREET",
-          "type": "篮球",
-          "price": { "min": 80, "max": 200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "斯伯丁最亲民的街头篮球系列,外皮粗犷耐磨,适应水泥地与塑胶地,价格平实,是野球场出镜率极高的经典型号。",
-          "highlights": ["耐磨外皮", "野球常客", "价格平实"],
-          "tags": ["篮球", "街头"],
-          "image": null
-        },
-        {
-          "id": "spalding-neverflat",
-          "name": "NeverFlat 恒压篮球",
-          "nameEn": "NeverFlat",
-          "type": "篮球",
-          "price": { "min": 200, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "采用恒压内胆科技,长时间使用不易漏气,免去频繁打气的烦恼,适合学校场馆与家庭长期使用,省心省力。",
-          "highlights": ["恒压科技", "长效保气", "免维护"],
-          "tags": ["篮球", "科技"],
-          "image": null
-        },
-        {
-          "id": "spalding-portable-hoop",
-          "name": "移动式篮架",
-          "nameEn": "Portable Hoop System",
-          "type": "篮架",
-          "price": { "min": 500, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "家用与社区篮架产品,含可调节篮板、篮网与稳固底座,升降高度灵活,让后院与小区空地变身标准球场。",
-          "highlights": ["高度可调", "底座稳固", "家用标准"],
-          "tags": ["篮球", "器材"],
-          "image": null
-        },
-        {
-          "id": "spalding-rookie",
-          "name": "儿童轻量篮球",
-          "nameEn": "Rookie Gear",
-          "type": "篮球",
-          "price": { "min": 80, "max": 200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "针对儿童设计的轻量小号篮球,降低重量与周长,孩子投篮更省力,帮助建立正确投篮动作,是入门训练的好帮手。",
-          "highlights": ["轻量设计", "小号尺寸", "入门友好"],
-          "tags": ["篮球", "儿童"],
-          "image": null
-        }
-      ]
+     "id": "fila-fleece-set",
+     "name": "运动卫衣套装",
+     "nameEn": "Fleece Set",
+     "type": "卫衣套装",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "运动卫衣套装是斐乐秋冬主力产品,包含连帽卫衣与运动长裤。抓绒内里保暖亲肤,连帽设计休闲有型,胸前 F 框 logo 辨识度极高,套装搭配省心。适合秋冬日常穿着、运动训练及情侣、亲子同款穿搭场景。作为斐乐服饰线中走量最大的品类之一,该系列兼顾保暖功能与潮流外观,是品牌秋冬零售的重要支柱。",
+     "highlights": [
+      "抓绒保暖",
+      "连帽设计",
+      "情侣同款"
+     ],
+     "tags": [
+      "秋冬",
+      "日常"
+     ],
+     "image": null
     },
     {
-      "id": "speedo",
-      "name": "速比涛",
-      "nameEn": "Speedo",
-      "domain": "speedo.com",
-      "categoryId": "sports",
-      "country": "澳大利亚",
-      "founded": 1914,
-      "hq": "悉尼",
-      "tier": "中高端",
-      "sub": "综合运动",
-      "tags": ["游泳", "竞速", "泳装"],
-      "slogan": "",
-      "desc": "速比涛 1914 年创立于澳大利亚悉尼,是全球最著名的游泳品牌,LZR 竞速泳衣曾掀起世界纪录狂潮,产品覆盖泳装、泳镜与训练装备。",
-      "story": "1914 年,苏格兰移民麦克雷在悉尼创办服装工坊,1928 年「Speedo」品牌正式诞生,以贴合身体的竞赛泳衣颠覆传统。2000 年前后推出的 Fastskin 鲨鱼皮泳衣掀起泳坛纪录井喷,开启了竞速泳衣的科技竞赛。\n如今速比涛隶属英国 Pentland 集团,总部位于英国诺丁汉,仍是多支国家队与职业选手的选择;同时以抗氯耐穿的 Endurance+ 训练泳装与时尚泳衣走进大众泳池,长期保持全球游泳市场占有率领先地位。",
-      "products": [
-        {
-          "id": "speedo-fastskin",
-          "name": "Fastskin 竞速泳衣",
-          "nameEn": "Fastskin",
-          "type": "竞速泳衣",
-          "price": { "min": 800, "max": 3500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "源自鲨鱼皮技术的竞速泳衣系列,压缩面料有效降低水中阻力,是职业选手冲击纪录的利器,分标准版与更高压的专业版本。",
-          "highlights": ["低阻面料", "肌肉压缩", "赛场利器"],
-          "tags": ["游泳", "竞速"],
-          "image": null
-        },
-        {
-          "id": "speedo-endurance-plus",
-          "name": "Endurance+ 训练泳裤",
-          "nameEn": "Endurance+",
-          "type": "训练泳裤",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "采用 Endurance+ 抗氯面料,久泡泳池不易变形褪色,速干耐穿,是常年训练者与健身泳客最经典的选择。",
-          "highlights": ["抗氯面料", "速干耐用", "训练首选"],
-          "tags": ["游泳", "训练"],
-          "image": null
-        },
-        {
-          "id": "speedo-biofuse",
-          "name": "Biofuse 泳镜",
-          "nameEn": "Biofuse",
-          "type": "泳镜",
-          "price": { "min": 150, "max": 350, "currency": "CNY", "label": "零售参考价" },
-          "desc": "柔性镜框贴合面部轮廓,佩戴柔软不勒眼眶,防雾镜片视野清晰,是速比涛销量很高的日常训练泳镜系列。",
-          "highlights": ["柔韧镜框", "防雾清晰", "佩戴舒适"],
-          "tags": ["游泳", "装备"],
-          "image": null
-        },
-        {
-          "id": "speedo-training-fin",
-          "name": "训练脚蹼",
-          "nameEn": "Training Fin",
-          "type": "脚蹼",
-          "price": { "min": 150, "max": 300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "短款训练脚蹼,帮助改善打腿姿势、增强腿部力量,配合同系列手蹼与浮板可组成完整训练体系,是泳队常用教具。",
-          "highlights": ["短款设计", "强化打腿", "队训常用"],
-          "tags": ["游泳", "训练"],
-          "image": null
-        },
-        {
-          "id": "speedo-kids",
-          "name": "儿童泳装系列",
-          "nameEn": "Kids Swimwear",
-          "type": "儿童泳装",
-          "price": { "min": 100, "max": 300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向儿童学游泳与戏水的装备线,含防晒泳衣与泳帽泳镜套装,面料亲肤抗氯,设计活泼,深受家长欢迎。",
-          "highlights": ["防晒面料", "亲肤抗氯", "启蒙套装"],
-          "tags": ["游泳", "儿童"],
-          "image": null
-        },
-        {
-          "id": "speedo-fitness-swimsuit",
-          "name": "健身泳衣系列",
-          "nameEn": "Fitness Swimsuit",
-          "type": "健身泳衣",
-          "price": { "min": 200, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向健身与度假场景的女式连体泳衣,剪裁修饰身形,兼具运动支撑与时尚设计,是速比涛大众线的主力品类。",
-          "highlights": ["修身剪裁", "运动支撑", "时尚设计"],
-          "tags": ["游泳", "时尚"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "arena",
-      "name": "阿瑞娜",
-      "nameEn": "arena",
-      "domain": "arena.it",
-      "categoryId": "sports",
-      "country": "意大利",
-      "founded": 1973,
-      "hq": "托伦蒂诺",
-      "tier": "中高端",
-      "sub": "综合运动",
-      "tags": ["游泳", "竞速", "泳装"],
-      "slogan": "",
-      "desc": "arena 1973 年创立,出身阿迪达斯创始人家族,是全球三大泳装品牌之一,Powerskin 竞速泳衣与训练泳装在职业泳坛和大众泳池都有极高的占有率。",
-      "story": "1972 年慕尼黑奥运会,美国泳将马克·斯皮茨狂揽七金,却只能穿着剪掉标签的普通泳裤领奖。阿迪达斯创始人之子霍斯特·达斯勒由此看到专业泳装的空白,于 1973 年创立竞技泳装品牌 arena。\n此后 arena 经历多次易主,现由意大利公司运营,总部设在托伦蒂诺。Powerskin 竞速泳衣长年活跃于奥运与世锦赛领奖台,训练泳装则以高性价比深受泳队欢迎,是泳池里与速比涛分庭抗礼的重量级品牌。",
-      "products": [
-        {
-          "id": "arena-powerskin",
-          "name": "Powerskin 竞速泳衣",
-          "nameEn": "Powerskin",
-          "type": "竞速泳衣",
-          "price": { "min": 800, "max": 3500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "arena 旗舰竞速泳衣系列,Carbon 碳纤维压缩面料在高强度比赛中提供支撑与低阻,是奥运与世锦赛领奖台上的常客。",
-          "highlights": ["碳纤压缩", "低阻贴身", "领奖台常客"],
-          "tags": ["游泳", "竞速"],
-          "image": null
-        },
-        {
-          "id": "arena-training-suit",
-          "name": "训练泳衣系列",
-          "nameEn": "Training Suit",
-          "type": "训练泳衣",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向常年训练人群的泳装线,面料抗氯耐磨、版型包覆性好,价格比竞速线亲民,是俱乐部与泳队采购的大众之选。",
-          "highlights": ["抗氯耐磨", "版型包覆", "泳队常用"],
-          "tags": ["游泳", "训练"],
-          "image": null
-        },
-        {
-          "id": "arena-cobra",
-          "name": "Cobra 泳镜",
-          "nameEn": "Cobra",
-          "type": "泳镜",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "arena 人气泳镜系列,超薄大镜片带来广角视野,镜框贴合面部降低水阻,防雾持久,竞赛与训练场景都有对应型号。",
-          "highlights": ["广角视野", "低阻贴合", "持久防雾"],
-          "tags": ["游泳", "装备"],
-          "image": null
-        },
-        {
-          "id": "arena-powerfin",
-          "name": "Powerfin 脚蹼",
-          "nameEn": "Powerfin",
-          "type": "脚蹼",
-          "price": { "min": 150, "max": 350, "currency": "CNY", "label": "零售参考价" },
-          "desc": "短款硅胶训练脚蹼,腿部发力反馈直接,帮助提升打腿效率与水感,是自由泳打腿训练的常用装备。",
-          "highlights": ["硅胶短蹼", "提升水感", "打腿训练"],
-          "tags": ["游泳", "训练"],
-          "image": null
-        },
-        {
-          "id": "arena-cap",
-          "name": "硅胶泳帽",
-          "nameEn": "Silicone Cap",
-          "type": "泳帽",
-          "price": { "min": 30, "max": 100, "currency": "CNY", "label": "零售参考价" },
-          "desc": "高弹性硅胶泳帽,包裹服帖不易脱落,减少头发与氯水接触,颜色丰富,是泳包里的必备小件。",
-          "highlights": ["高弹硅胶", "服帖防脱", "经典必备"],
-          "tags": ["游泳", "装备"],
-          "image": null
-        },
-        {
-          "id": "arena-fastpack",
-          "name": "Fastpack 背包",
-          "nameEn": "Fastpack",
-          "type": "泳包",
-          "price": { "min": 200, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "大容量水陆两用背包,干湿分离仓放置泳装泳镜,耐磨网布透气快干,是泳训出行最受欢迎的收纳装备之一。",
-          "highlights": ["干湿分离", "大容量", "透气耐磨"],
-          "tags": ["游泳", "收纳"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "descente",
-      "name": "迪桑特",
-      "nameEn": "DESCENTE",
-      "domain": "descente.com",
-      "categoryId": "sports",
-      "country": "日本",
-      "founded": 1935,
-      "hq": "大阪",
-      "tier": "高端",
-      "sub": "滑雪",
-      "tags": ["滑雪", "高端运动服", "综训"],
-      "slogan": "",
-      "desc": "迪桑特 1935 年创立于日本大阪,以滑雪服起家,是日本高端综合运动服饰品牌,2016 年起由安踏集团运营中国市场,滑雪与高端运动服形象深入人心。",
-      "story": "迪桑特 1935 年以石本商店之名创立于大阪,1954 年起为日本滑雪选手制作比赛服,品牌名取自法语「下滑」,浓缩了它与滑雪运动的渊源。此后数十年,其滑雪服伴随日本选手在冬奥赛场屡创佳绩。\n2016 年,安踏集团与伊藤忠商事合资取得 DESCENTE 中国经营权,以高端滑雪、跑步与综训为核心,凭借精准的门店选址与高端运动形象实现高速增长,成为中国高端运动服饰市场表现最亮眼的品牌之一。",
-      "products": [
-        {
-          "id": "descente-ski-wear",
-          "name": "滑雪服系列",
-          "nameEn": "Ski Wear",
-          "type": "滑雪服",
-          "price": { "min": 2000, "max": 8000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "品牌起家的看家本领,滑雪夹克与雪裤以专业剪裁、防风透湿面料与利落配色著称,是雪场上辨识度极高的高端雪服。",
-          "highlights": ["防风透湿", "专业剪裁", "雪场辨识度"],
-          "tags": ["滑雪", "高端"],
-          "image": null
-        },
-        {
-          "id": "descente-allterrain",
-          "name": "ALLTERRAIN 系列",
-          "nameEn": "ALLTERRAIN",
-          "type": "高端运动服",
-          "price": { "min": 1000, "max": 4000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "高端城市机能线,融合运动科技与都市设计,含夹克、长裤与配件,主打全天候穿着,是迪桑特品牌调性的代表系列。",
-          "highlights": ["城市机能", "全天候", "品牌调性"],
-          "tags": ["潮流", "高端"],
-          "image": null
-        },
-        {
-          "id": "descente-down-jacket",
-          "name": "高端羽绒外套",
-          "nameEn": "Down Jacket",
-          "type": "羽绒服",
-          "price": { "min": 1500, "max": 5000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以滑雪血统打造的高功能羽绒服,填充与面料考究,防泼水处理加持,兼顾保暖、轻量与造型,是秋冬门店主力单品。",
-          "highlights": ["高蓬保暖", "防泼水", "轻量有型"],
-          "tags": ["秋冬", "高端"],
-          "image": null
-        },
-        {
-          "id": "descente-running",
-          "name": "跑步系列",
-          "nameEn": "Running",
-          "type": "跑步服饰",
-          "price": { "min": 500, "max": 2000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "轻量透气的跑步服装线,含速干 T 恤、跑步短裤与压缩装备,剪裁贴合亚洲身形,支持长距离训练的舒适体验。",
-          "highlights": ["速干透气", "贴身剪裁", "马拉松场景"],
-          "tags": ["跑步", "专业"],
-          "image": null
-        },
-        {
-          "id": "descente-training",
-          "name": "综合训练系列",
-          "nameEn": "Training",
-          "type": "训练服饰",
-          "price": { "min": 400, "max": 1500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向健身房与日常运动的基础款系列,面料弹力舒适、设计简洁,单穿内搭皆宜,是品牌走量的大众品类。",
-          "highlights": ["高弹面料", "简洁设计", "健身百搭"],
-          "tags": ["健身", "日常"],
-          "image": null
-        },
-        {
-          "id": "descente-kids",
-          "name": "儿童滑雪服",
-          "nameEn": "Kids Ski",
-          "type": "童装",
-          "price": { "min": 1000, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "承袭成人滑雪服工艺的童装线,防风保暖性能到位,配色活泼,让家庭滑雪场景实现亲子同风格的穿搭。",
-          "highlights": ["防风保暖", "亲子同款", "活泼配色"],
-          "tags": ["童装", "滑雪"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "lining",
-      "name": "李宁",
-      "nameEn": "LI-NING",
-      "domain": "lining.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 1990,
-      "hq": "北京",
-      "tier": "中高端",
-      "sub": "国产运动",
-      "tags": ["篮球", "跑步", "国潮", "羽毛球"],
-      "slogan": "一切皆有可能",
-      "desc": "李宁由体操王子李宁于 1990 年创立,是中国最具影响力的运动品牌之一,以篮球鞋与竞速跑鞋见长,「中国李宁」国潮线更让它登上国际时装周舞台。",
-      "story": "1990 年,退役体操名将李宁创立同名品牌,以领奖服与运动服起步,1992 年巴塞罗那奥运会起多次为中国代表团提供领奖装备。品牌长期签约中国国家队,在篮球、羽毛球等专业领域积累深厚。\n2018 年,「中国李宁」登陆纽约时装周,复古国潮设计引发轰动,推动品牌完成年轻化转型;飞电、绝影等碳板跑鞋与韦德之道签名鞋则在专业赛道赢得口碑。如今李宁稳居国产运动品牌第一梯队。",
-      "products": [
-        {
-          "id": "lining-feidian",
-          "name": "飞电系列跑鞋",
-          "nameEn": "Feidian",
-          "type": "竞速跑鞋",
-          "price": { "min": 700, "max": 2200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "李宁旗舰碳板竞速跑鞋,飞电 Ultra 配置顶级碳板与超临界发泡中底,是国产马拉松竞速鞋的代表作,多用于比赛与强度训练课。",
-          "highlights": ["全掌碳板", "超临界发泡", "马拉松竞速"],
-          "tags": ["跑步", "竞速"],
-          "image": null
-        },
-        {
-          "id": "lining-wow",
-          "name": "韦德之道",
-          "nameEn": "Way of Wade",
-          "type": "篮球鞋",
-          "price": { "min": 700, "max": 1600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与 NBA 名人堂球星韦德联合打造的签名球鞋系列,自 2012 年延续至今,配置与设计不断进化,是国产签名鞋的标杆。",
-          "highlights": ["韦德签名", "长青系列", "国产标杆"],
-          "tags": ["篮球", "签名鞋"],
-          "image": null
-        },
-        {
-          "id": "lining-chaoqing",
-          "name": "超轻系列跑鞋",
-          "nameEn": "Super Light",
-          "type": "轻量跑鞋",
-          "price": { "min": 300, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "延续二十余代的国民轻量跑鞋,单只鞋重控制出色、透气网面舒适,性价比高,是学生与日常慢跑人群的口碑之选。",
-          "highlights": ["极致轻量", "透气舒适", "高性价比"],
-          "tags": ["跑步", "日常"],
-          "image": null
-        },
-        {
-          "id": "lining-china-lining",
-          "name": "中国李宁",
-          "nameEn": "CHINA LI-NING",
-          "type": "潮流服饰",
-          "price": { "min": 300, "max": 1500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "从纽约时装周走出的国潮主线,以复古运动与东方美学为设计语言,含卫衣、外套与鞋款,是国货时尚的标志性符号。",
-          "highlights": ["国潮设计", "时装周同源", "东方美学"],
-          "tags": ["国潮", "时尚"],
-          "image": null
-        },
-        {
-          "id": "lining-badfive",
-          "name": "反伍 BADFIVE",
-          "nameEn": "BADFIVE",
-          "type": "街头篮球鞋",
-          "price": { "min": 400, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "街头实战篮球鞋系列,强调耐磨抗造与场地通用性,价格亲民配置扎实,是野球场出镜率很高的国产实战鞋。",
-          "highlights": ["耐磨实战", "街头基因", "性价比高"],
-          "tags": ["篮球", "街头"],
-          "image": null
-        },
-        {
-          "id": "lining-yushuai",
-          "name": "驭帅系列篮球鞋",
-          "nameEn": "Yushuai",
-          "type": "篮球鞋",
-          "price": { "min": 500, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "李宁长青团队款篮球鞋,历经十余代迭代,缓震与包裹均衡稳定,长期活跃于 CBA 赛场,是锋线与内线信赖的实战鞋。",
-          "highlights": ["均衡稳定", "CBA赛场", "团队实战"],
-          "tags": ["篮球", "实战"],
-          "image": null
-        },
-        {
-          "id": "lining-badminton",
-          "name": "雷霆系列羽毛球拍",
-          "nameEn": "Axforce",
-          "type": "羽毛球拍",
-          "price": { "min": 400, "max": 1500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "李宁专业羽毛球拍主力系列,中杆弹性与拍框稳定性出色,长期赞助国家队,谌龙等名将曾使用其装备摘金夺银。",
-          "highlights": ["国家队同款", "中杆弹性", "专业竞速"],
-          "tags": ["羽毛球", "专业"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "anta",
-      "name": "安踏",
-      "nameEn": "ANTA",
-      "domain": "anta.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 1991,
-      "hq": "晋江",
-      "tier": "大众",
-      "sub": "国产运动",
-      "tags": ["综合运动", "篮球", "跑步", "国民品牌"],
-      "slogan": "永不止步",
-      "desc": "安踏 1991 年创立于福建晋江,是中国规模最大的体育用品集团,以高性价比专业鞋服著称,旗下拥有斐乐、迪桑特等多个品牌,并多年赞助中国奥委会。",
-      "story": "安踏 1991 年诞生于「中国鞋都」晋江,从制鞋小厂起步,1999 年签下乒乓球奥运冠军孔令辉并投放央视广告,「我选择,我喜欢」一夜之间家喻户晓。2009 年起,安踏成为中国奥委会官方合作伙伴,伴随中国健儿征战历届奥运。\n集团先后将斐乐中国、迪桑特、可隆收入麾下,并联合财团收购始祖鸟母公司 Amer Sports,构建多品牌矩阵。主品牌以专业与质价比深耕大众市场,营收规模多年位居中国体育用品行业之首。",
-      "products": [
-        {
-          "id": "anta-kt",
-          "name": "KT 系列篮球鞋",
-          "nameEn": "KT Series",
-          "type": "篮球鞋",
-          "price": { "min": 500, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与 NBA 球星克莱·汤普森合作的签名篮球鞋,历经九代迭代,缓震扎实、实战耐磨,是国产签名鞋中口碑与销量兼具的系列。",
-          "highlights": ["汤普森签名", "实战耐磨", "长青系列"],
-          "tags": ["篮球", "签名鞋"],
-          "image": null
-        },
-        {
-          "id": "anta-c202",
-          "name": "C202 系列跑鞋",
-          "nameEn": "C202",
-          "type": "竞速跑鞋",
-          "price": { "min": 600, "max": 1300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "安踏碳板竞速跑鞋代表,面向马拉松比赛与高强度训练,中底回弹与推进力出色,助力大众跑者刷新个人最好成绩。",
-          "highlights": ["碳板推进", "马拉松竞速", "刷新PB"],
-          "tags": ["跑步", "竞速"],
-          "image": null
-        },
-        {
-          "id": "anta-hydrogen",
-          "name": "氢科技跑鞋",
-          "nameEn": "Hydrogen",
-          "type": "轻量跑鞋",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "主打极致轻量的入门跑鞋,单只重量低至百克级,上脚几乎无负担,适合通勤、健走与轻松慢跑,价格亲民。",
-          "highlights": ["百克轻量", "无负担", "通勤慢跑"],
-          "tags": ["跑步", "日常"],
-          "image": null
-        },
-        {
-          "id": "anta-champions",
-          "name": "冠军系列",
-          "nameEn": "Champions",
-          "type": "运动服饰",
-          "price": { "min": 200, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "借势中国奥委会合作身份打造的运动时尚线,以「安踏冠军」为标识,含卫衣、T 恤与鞋款,奥运年热度尤高。",
-          "highlights": ["奥运基因", "运动时尚", "国民心智"],
-          "tags": ["时尚", "奥运"],
-          "image": null
-        },
-        {
-          "id": "anta-kids",
-          "name": "安踏儿童",
-          "nameEn": "Anta Kids",
-          "type": "童装",
-          "price": { "min": 100, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "国内规模领先的儿童运动品牌,覆盖跑鞋、篮球鞋与运动服,以护足科技与分龄设计见长,是家长选购童鞋的热门选项。",
-          "highlights": ["分龄设计", "护足科技", "热门童鞋"],
-          "tags": ["童装", "运动"],
-          "image": null
-        },
-        {
-          "id": "anta-apparel",
-          "name": "综合运动服饰",
-          "nameEn": "Sportswear",
-          "type": "运动服",
-          "price": { "min": 100, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "覆盖健身、跑步与休闲场景的基础运动服系列,面料速干亲肤、版型宽松舒适,依托全国门店网络常年热销。",
-          "highlights": ["速干亲肤", "宽松舒适", "全场景"],
-          "tags": ["健身", "日常"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "xtep",
-      "name": "特步",
-      "nameEn": "XTEP",
-      "domain": "xtep.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 2001,
-      "hq": "泉州",
-      "tier": "大众",
-      "sub": "国产运动",
-      "tags": ["跑步", "马拉松", "大众运动"],
-      "slogan": "非一般的感觉",
-      "desc": "特步 2001 年创立于福建泉州,以跑步为核心赛道,160X 系列碳板跑鞋助力多位中国选手刷新纪录,是国内马拉松赛场出场率领先的专业品牌。",
-      "story": "特步 2001 年由丁水波在泉州创立,早年以时尚运动定位和谢霆锋代言走红,「特步,非一般的感觉」家喻户晓。2015 年前后品牌战略转向专业跑步,建立跑步科学实验室,全面深耕马拉松赛道。\n160X 系列碳板跑鞋打破国际品牌对顶级竞速鞋的垄断,何杰穿着它刷新马拉松全国纪录;集团还先后运营索康尼与迈乐中国业务,收购盖世威、帕拉丁等品牌。如今特步是国内马拉松赛场出场率最高的品牌之一。",
-      "products": [
-        {
-          "id": "xtep-160x",
-          "name": "160X 系列跑鞋",
-          "nameEn": "160X",
-          "type": "竞速跑鞋",
-          "price": { "min": 700, "max": 1400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "特步旗舰碳板竞速跑鞋,是中国精英马拉松选手的战靴,多位国家队选手穿着它刷新全国纪录,堪称国产碳板鞋的标杆之作。",
-          "highlights": ["全掌碳板", "精英战靴", "全国纪录"],
-          "tags": ["跑步", "竞速"],
-          "image": null
-        },
-        {
-          "id": "xtep-260",
-          "name": "260 系列跑鞋",
-          "nameEn": "260",
-          "type": "训练跑鞋",
-          "price": { "min": 300, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "160X 的训练搭档,缓震与支撑均衡,可胜任长距离慢跑与课表训练,价格亲民,是大众跑者的月跑量担当。",
-          "highlights": ["均衡缓震", "长距离训练", "高性价比"],
-          "tags": ["跑步", "训练"],
-          "image": null
-        },
-        {
-          "id": "xtep-casual-shoes",
-          "name": "潮流板鞋系列",
-          "nameEn": "Casual Sneakers",
-          "type": "板鞋",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "特步面向年轻群体的休闲鞋款线,融合复古板鞋与厚底设计,配色活泼,日常穿搭舒适百搭,依托万店渠道常年热销。",
-          "highlights": ["复古板鞋", "活泼配色", "百搭日常"],
-          "tags": ["休闲", "潮流"],
-          "image": null
-        },
-        {
-          "id": "xtep-kids",
-          "name": "特步儿童",
-          "nameEn": "Xtep Kids",
-          "type": "童装",
-          "price": { "min": 80, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "特步旗下儿童运动品牌,主打跑步与综训童鞋童装,强调防滑护足与透气舒适,是国内童装市场的重要玩家。",
-          "highlights": ["防滑护足", "透气舒适", "跑步童鞋"],
-          "tags": ["童装", "运动"],
-          "image": null
-        },
-        {
-          "id": "xtep-running-apparel",
-          "name": "跑步服饰系列",
-          "nameEn": "Running Apparel",
-          "type": "跑步服饰",
-          "price": { "min": 80, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "轻量速干的跑步服装线,含 T 恤、短裤与压缩裤,适配马拉松与日常训练,常与跑鞋组合成套销售。",
-          "highlights": ["速干轻量", "赛事套装", "透气贴身"],
-          "tags": ["跑步", "服饰"],
-          "image": null
-        },
-        {
-          "id": "xtep-jackets",
-          "name": "运动外套系列",
-          "nameEn": "Sportswear Jackets",
-          "type": "运动外套",
-          "price": { "min": 100, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "覆盖卫衣、夹克与轻量冲锋衣的基础外套系列,兼顾通勤与运动场景,面料防风保暖,性价比突出。",
-          "highlights": ["防风保暖", "通勤运动两用", "高性价比"],
-          "tags": ["秋冬", "日常"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "361",
-      "name": "361°",
-      "nameEn": "361 Degrees",
-      "domain": "361sport.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 2003,
-      "hq": "晋江",
-      "tier": "大众",
-      "sub": "国产运动",
-      "tags": ["跑步", "篮球", "综合运动"],
-      "slogan": "多一度热爱",
-      "desc": "361° 2003 年创立于福建晋江,品牌名寓意从 360° 到 361° 的「多一度热爱」,以跑步与篮球为核心,产品性价比高,门店遍布全国各级市场。",
-      "story": "361° 2003 年脱胎于晋江体育用品产业集群,以「多一度热爱」为口号迅速完成全国渠道布局,2010 年成为广州亚运会官方合作伙伴,品牌知名度大幅跃升,跻身国产运动品牌第一阵营。\n近年 361° 深耕专业赛道:飞燃系列碳板跑鞋在马拉松赛场站稳脚跟,篮球领域签约 NBA 扣篮王阿隆·戈登,AG 系列签名鞋热度攀升。品牌还积极出海,产品已进入海外多个国家和地区的市场。",
-      "products": [
-        {
-          "id": "361-feiran",
-          "name": "飞燃系列跑鞋",
-          "nameEn": "Feiran",
-          "type": "竞速跑鞋",
-          "price": { "min": 500, "max": 1200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "361° 旗舰碳板竞速跑鞋,中底推进与回弹表现出色,助力大众选手冲击马拉松个人最好成绩,是国产碳板鞋中的口碑之作。",
-          "highlights": ["全掌碳板", "强推进力", "冲击PB"],
-          "tags": ["跑步", "竞速"],
-          "image": null
-        },
-        {
-          "id": "361-ag",
-          "name": "AG 系列篮球鞋",
-          "nameEn": "AG Series",
-          "type": "篮球鞋",
-          "price": { "min": 400, "max": 900, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与 NBA 扣篮王阿隆·戈登合作的签名篮球鞋,缓震厚实、包裹到位,实战与扣篮场景兼备,是国产品牌联名鞋的热门系列。",
-          "highlights": ["戈登签名", "厚实缓震", "实战联名"],
-          "tags": ["篮球", "签名鞋"],
-          "image": null
-        },
-        {
-          "id": "361-training-shoes",
-          "name": "综合训练鞋",
-          "nameEn": "Training Shoes",
-          "type": "训练鞋",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向健身房与日常运动的训练鞋系列,鞋底防滑稳定、鞋面包裹舒适,力量训练与轻有氧都能胜任。",
-          "highlights": ["防滑稳定", "健身百搭", "舒适包裹"],
-          "tags": ["健身", "日常"],
-          "image": null
-        },
-        {
-          "id": "361-kids",
-          "name": "361°儿童",
-          "nameEn": "361 Kids",
-          "type": "童装",
-          "price": { "min": 80, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "361° 旗下儿童运动线,含跑鞋、板鞋与运动服,以舒适耐用、价格实惠见长,广受下沉市场家庭欢迎。",
-          "highlights": ["舒适耐用", "价格实惠", "下沉市场"],
-          "tags": ["童装", "运动"],
-          "image": null
-        },
-        {
-          "id": "361-apparel",
-          "name": "运动服饰系列",
-          "nameEn": "Sportswear",
-          "type": "运动服",
-          "price": { "min": 80, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "覆盖跑步、健身与休闲的运动服装基础线,速干 T 恤与卫衣常年热销,版型宽松、面料亲肤,适合全家选购。",
-          "highlights": ["速干亲肤", "全家适穿", "常年热销"],
-          "tags": ["日常", "服饰"],
-          "image": null
-        },
-        {
-          "id": "361-international",
-          "name": "国际线跑鞋",
-          "nameEn": "International Line",
-          "type": "跑鞋",
-          "price": { "min": 400, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "由国际团队设计的海外产品线,设计语言更趋潮流简约,在海外跑步圈层积累口碑,部分款式国内亦可购入。",
-          "highlights": ["国际设计", "潮流简约", "海外口碑"],
-          "tags": ["跑步", "潮流"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "peak",
-      "name": "匹克",
-      "nameEn": "PEAK",
-      "domain": "peak.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 1989,
-      "hq": "晋江",
-      "tier": "大众",
-      "sub": "国产运动",
-      "tags": ["篮球", "科技跑鞋", "综合运动"],
-      "slogan": "I Can Play",
-      "desc": "匹克 1989 年创立于福建晋江,以篮球装备起家,态极科技跑鞋与多位 NBA 球星签名鞋广为人知,产品以扎实配置与高性价比见长。",
-      "story": "匹克 1989 年由许景南在晋江创立,从篮球装备切入市场。2000 年代起,品牌先后签约托尼·帕克、德怀特·霍华德等多位 NBA 球星,推出签名鞋系列,成为中国运动品牌国际化的先行者之一。\n2018 年底发布的态极自适科技中底引发市场轰动,态极跑鞋与拖鞋成为现象级爆款。如今匹克以态极、澎湃等科技矩阵覆盖跑鞋、篮球与休闲品类,并持续拓展国际体育赞助版图,深耕全球市场。",
-      "products": [
-        {
-          "id": "peak-taichi-running",
-          "name": "态极系列跑鞋",
-          "nameEn": "Taichi",
-          "type": "缓震跑鞋",
-          "price": { "min": 300, "max": 700, "currency": "CNY", "label": "零售参考价" },
-          "desc": "搭载态极自适科技中底,慢走柔软、快跑变硬的智能脚感一经推出便引发抢购,是国产品牌近年最具话题度的跑鞋系列。",
-          "highlights": ["态极自适", "智能脚感", "现象级爆款"],
-          "tags": ["跑步", "科技"],
-          "image": null
-        },
-        {
-          "id": "peak-taichi-slippers",
-          "name": "态极拖鞋",
-          "nameEn": "Taichi Slippers",
-          "type": "拖鞋",
-          "price": { "min": 100, "max": 250, "currency": "CNY", "label": "零售参考价" },
-          "desc": "态极科技的休闲衍生爆品,厚底软弹、上脚即陷,适合日常与运动后恢复穿着,长期位居国产拖鞋销量前列。",
-          "highlights": ["软弹厚底", "爆款拖鞋", "恢复舒适"],
-          "tags": ["休闲", "日常"],
-          "image": null
-        },
-        {
-          "id": "peak-tp9",
-          "name": "TP9 签名鞋",
-          "nameEn": "TP9",
-          "type": "篮球鞋",
-          "price": { "min": 300, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与 NBA 传奇控卫托尼·帕克合作的签名鞋系列,以灵活启动与稳定支撑著称,历经多代迭代,实战口碑扎实。",
-          "highlights": ["帕克签名", "启动灵活", "实战口碑"],
-          "tags": ["篮球", "签名鞋"],
-          "image": null
-        },
-        {
-          "id": "peak-dh",
-          "name": "霍华德系列篮球鞋",
-          "nameEn": "DH Series",
-          "type": "篮球鞋",
-          "price": { "min": 300, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "与 NBA 中锋德怀特·霍华德合作的中锋签名鞋,强调缓震保护与内线对抗,适合大体重球员,是匹克篮球线的代表产品。",
-          "highlights": ["霍华德签名", "内线缓震", "大体重友好"],
-          "tags": ["篮球", "实战"],
-          "image": null
-        },
-        {
-          "id": "peak-basketball",
-          "name": "匹克篮球",
-          "nameEn": "PEAK Basketball",
-          "type": "篮球",
-          "price": { "min": 80, "max": 250, "currency": "CNY", "label": "零售参考价" },
-          "desc": "匹克经典球类产品,手感与耐磨兼顾,覆盖室内外不同场景,以扎实品质与亲民价格成为校园与野球场的常见选择。",
-          "highlights": ["手感扎实", "耐磨抗造", "校园常见"],
-          "tags": ["篮球", "器材"],
-          "image": null
-        },
-        {
-          "id": "peak-sportswear",
-          "name": "运动服饰系列",
-          "nameEn": "Sportswear",
-          "type": "运动服",
-          "price": { "min": 80, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以态极科技为延伸的运动服装线,含速干上衣、卫衣与运动裤,设计年轻、价格亲民,是品牌门店的基础走量品类。",
-          "highlights": ["年轻设计", "亲肤速干", "价格亲民"],
-          "tags": ["日常", "服饰"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "erke",
-      "name": "鸿星尔克",
-      "nameEn": "ERKE",
-      "domain": "erke.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 2000,
-      "hq": "泉州",
-      "tier": "平价",
-      "sub": "国产运动",
-      "tags": ["运动鞋服", "高性价比", "国民品牌"],
-      "slogan": "To Be No.1",
-      "desc": "鸿星尔克 2000 年创立于福建泉州,以高性价比运动鞋服服务大众市场,2021 年因低调捐赠走红全网,「国货之光」的形象深入人心,主打基本款运动装备。",
-      "story": "鸿星尔克 2000 年创立于泉州,以运动鞋服起家,「To Be No.1」的口号伴随它完成全国渠道铺设,并先后赞助多项国内外体育赛事,逐步站稳大众市场。\n2021 年河南暴雨期间,鸿星尔克因低调捐赠物资引发全网「野性消费」,门店被抢购一空。此后品牌回归产品本身,以奇弹跑鞋与扎实的基本款持续服务消费者,成为中国高性价比国货的代表之一。",
-      "products": [
-        {
-          "id": "erke-qitan",
-          "name": "奇弹跑鞋",
-          "nameEn": "Qitan",
-          "type": "缓震跑鞋",
-          "price": { "min": 200, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "鸿星尔克主打缓震科技跑鞋,中底回弹柔软、落地稳定,价格亲民,是品牌专业跑步线的代表作。",
-          "highlights": ["软弹中底", "落地稳定", "高性价比"],
-          "tags": ["跑步", "科技"],
-          "image": null
-        },
-        {
-          "id": "erke-walking",
-          "name": "舒适健步鞋",
-          "nameEn": "Walking Shoes",
-          "type": "健步鞋",
-          "price": { "min": 150, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向日常通勤与健走的舒适鞋款,鞋底软弹防滑、鞋面轻透,穿脱方便,深受中老年消费者与家庭用户欢迎。",
-          "highlights": ["软弹防滑", "轻透鞋面", "中老年友好"],
-          "tags": ["日常", "健走"],
-          "image": null
-        },
-        {
-          "id": "erke-basketball",
-          "name": "篮球鞋系列",
-          "nameEn": "Basketball Shoes",
-          "type": "篮球鞋",
-          "price": { "min": 200, "max": 500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "覆盖实战与训练的篮球鞋产品线,缓震包裹配置扎实,价格多在两三百元,是预算有限的学生党常见选择。",
-          "highlights": ["扎实缓震", "学生友好", "实战耐磨"],
-          "tags": ["篮球", "学生"],
-          "image": null
-        },
-        {
-          "id": "erke-tshirt",
-          "name": "运动T恤系列",
-          "nameEn": "Sports T-Shirts",
-          "type": "运动T恤",
-          "price": { "min": 40, "max": 150, "currency": "CNY", "label": "零售参考价" },
-          "desc": "基础款速干与纯棉 T 恤,透气吸汗、版型宽松,价格低至几十元,是品牌门店销量最大的品类之一。",
-          "highlights": ["速干吸汗", "宽松版型", "便宜大碗"],
-          "tags": ["日常", "服饰"],
-          "image": null
-        },
-        {
-          "id": "erke-jacket",
-          "name": "运动外套系列",
-          "nameEn": "Jackets",
-          "type": "运动外套",
-          "price": { "min": 100, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "含夹克、卫衣与轻量冲锋衣的秋冬外套线,防风保暖、耐穿抗造,以极致性价比覆盖家庭全年所需。",
-          "highlights": ["防风保暖", "耐穿抗造", "性价比极致"],
-          "tags": ["秋冬", "户外"],
-          "image": null
-        },
-        {
-          "id": "erke-kids",
-          "name": "儿童运动系列",
-          "nameEn": "Kids",
-          "type": "童装",
-          "price": { "min": 60, "max": 250, "currency": "CNY", "label": "零售参考价" },
-          "desc": "鸿星尔克童装线,涵盖童鞋与运动服,主打结实耐穿与亲肤面料,价格亲民,适合成长期孩子的日常运动。",
-          "highlights": ["结实耐穿", "亲肤面料", "平价之选"],
-          "tags": ["童装", "运动"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "snowpeak",
-      "name": "雪峰",
-      "nameEn": "Snow Peak",
-      "domain": "snowpeak.com",
-      "categoryId": "sports",
-      "country": "日本",
-      "founded": 1958,
-      "hq": "三条市(新潟县)",
-      "tier": "高端",
-      "sub": "户外",
-      "tags": ["露营", "户外", "精工装备"],
-      "slogan": "",
-      "desc": "雪峰 1958 年创立于日本新潟县三条市,以钛合金餐具与焚火台闻名,是精致露营美学的代表品牌,产品涵盖帐篷、炉具与户外服饰。",
-      "story": "1958 年,登山家山井幸雄在新潟县三条市创立雪峰,从攀岩用岩钉与登山装备起步。品牌坚持日本本土制造,以精湛金属加工工艺打造焚火台、钛餐具等产品,树立了全球露营装备的工艺标杆。\n山井家族三代经营下,雪峰将业务从装备延伸至服饰、营地与餐饮,倡导「与自然共生」的生活方式。焚火台与经典帐篷是全球露营爱好者的梦想单品,在中国精致露营热潮中同样一帐难求。",
-      "products": [
-        {
-          "id": "snowpeak-takibi-fire",
-          "name": "焚火台",
-          "nameEn": "Takibi Fire & Grill",
-          "type": "焚火台",
-          "price": { "min": 1000, "max": 3500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "雪峰最具标志性的不锈钢焚火装备,可烧柴亦可架网烧烤,组装稳固、做工精密,是营地「火文化」的图腾级单品。",
-          "highlights": ["不锈钢精工", "烧柴烧烤两用", "图腾单品"],
-          "tags": ["露营", "装备"],
-          "image": null
-        },
-        {
-          "id": "snowpeak-amenity-dome",
-          "name": "Amenity Dome 帐篷",
-          "nameEn": "Amenity Dome",
-          "type": "帐篷",
-          "price": { "min": 3000, "max": 15000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "雪峰长销三十余年的经典帐篷,抗风稳定、空间宽敞,长时间使用依然坚挺,是家庭露营与严酷环境的可靠庇护所。",
-          "highlights": ["抗风稳定", "空间宽敞", "长销经典"],
-          "tags": ["露营", "帐篷"],
-          "image": null
-        },
-        {
-          "id": "snowpeak-titanium-cookware",
-          "name": "钛合金餐具",
-          "nameEn": "Titanium Cookware",
-          "type": "户外餐具",
-          "price": { "min": 300, "max": 1000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以纯钛打造的轻量餐具与锅具,重量极轻、导热适中且无金属异味,折叠收纳后几乎不占空间,是轻量露营标配。",
-          "highlights": ["纯钛轻量", "无异味", "折叠收纳"],
-          "tags": ["露营", "轻量"],
-          "image": null
-        },
-        {
-          "id": "snowpeak-hammer",
-          "name": "铝合金锤",
-          "nameEn": "Aluminum Hammer",
-          "type": "营地工具",
-          "price": { "min": 200, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "用于打入与拔出营钉的铝合金锤,坚固耐用、握持顺手,是精致露营玩家「仪式感」十足的小装备。",
-          "highlights": ["铝合金锻造", "打拔营钉", "仪式感"],
-          "tags": ["露营", "工具"],
-          "image": null
-        },
-        {
-          "id": "snowpeak-lantern",
-          "name": "露营灯系列",
-          "nameEn": "Lanterns",
-          "type": "露营灯",
-          "price": { "min": 500, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "从汽灯到 LED 营灯的照明产品线,黄铜与不锈钢材质质感出众,暖光氛围绝佳,是雪峰美学的重要组成。",
-          "highlights": ["金属质感", "暖光氛围", "美学单品"],
-          "tags": ["露营", "氛围"],
-          "image": null
-        },
-        {
-          "id": "snowpeak-takibi-apparel",
-          "name": "Takibi 服饰系列",
-          "nameEn": "Takibi Wear",
-          "type": "户外服饰",
-          "price": { "min": 500, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "以篝火场景为灵感的户外服饰系列,面料厚实耐磨,版型日系宽松,兼顾营地活动与日常穿搭,深受山系穿搭爱好者喜爱。",
-          "highlights": ["篝火灵感", "日系宽松", "山系穿搭"],
-          "tags": ["服饰", "山系"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "montbell",
-      "name": "蒙贝尔",
-      "nameEn": "Mont-bell",
-      "domain": "montbell.com",
-      "categoryId": "sports",
-      "country": "日本",
-      "founded": 1975,
-      "hq": "大阪",
-      "tier": "中高端",
-      "sub": "户外",
-      "tags": ["登山", "徒步", "轻量化"],
-      "slogan": "功能即美",
-      "desc": "蒙贝尔 1975 年创立于日本大阪,由登山家辰野勇创立,以轻量化的登山徒步装备著称,羽绒、风壳与雨具等单品以高性价比享誉亚洲山友圈。",
-      "story": "1975 年,曾登顶马特洪峰北壁的登山家辰野勇在大阪创立蒙贝尔,立志做「登山家做给登山家的装备」。品牌以轻量化与功能性为信条,自研面料与科技,产品设计高度务实,从不追逐花哨噱头。\n从 Zeo-Line 保暖内衣到超轻风壳与钛水壶,蒙贝尔的单品以高完成度与亲民价格享誉亚洲山友圈,被誉为「性价比之王」。品牌在日本本土开设数百家门店,是日本户外产业的国民品牌。",
-      "products": [
-        {
-          "id": "montbell-down-parka",
-          "name": "羽绒外套",
-          "nameEn": "Down Parka",
-          "type": "羽绒服",
-          "price": { "min": 800, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "蒙贝尔代表产品,以高蓬松度鹅鸭绒与轻量面料打造,保暖效率高、收纳体积小,城市通勤与山地保暖皆宜。",
-          "highlights": ["高蓬羽绒", "轻量收纳", "山城两用"],
-          "tags": ["保暖", "轻量"],
-          "image": null
-        },
-        {
-          "id": "montbell-wind-shell",
-          "name": "风壳 Wind Shell",
-          "nameEn": "Wind Shell",
-          "type": "防风外套",
-          "price": { "min": 300, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "超轻量防风外套,收纳后仅水瓶大小,防风透气性能均衡,是徒步越野跑包里「常备不穿」的安心单品。",
-          "highlights": ["超轻收纳", "防风透气", "应急常备"],
-          "tags": ["徒步", "轻量"],
-          "image": null
-        },
-        {
-          "id": "montbell-zeoline",
-          "name": "Zeo-Line 保暖内衣",
-          "nameEn": "Zeo-Line",
-          "type": "保暖内衣",
-          "price": { "min": 200, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "蒙贝尔自研的保暖排汗内衣科技,贴身柔软、速干保暖,是秋冬登山徒步的经典打底,性价比远超同类国际品牌。",
-          "highlights": ["自研科技", "排汗保暖", "经典打底"],
-          "tags": ["登山", "打底"],
-          "image": null
-        },
-        {
-          "id": "montbell-titanium-cookware",
-          "name": "钛水壶餐具",
-          "nameEn": "Titanium Cookware",
-          "type": "户外餐具",
-          "price": { "min": 150, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "纯钛材质的轻量水壶、碗盘与餐具,坚固无异味、传热快,重量极轻,是日本山友背包里的传统项目。",
-          "highlights": ["纯钛轻量", "传热快", "传统装备"],
-          "tags": ["徒步", "轻量"],
-          "image": null
-        },
-        {
-          "id": "montbell-backpack",
-          "name": "登山背包",
-          "nameEn": "Backpacks",
-          "type": "登山包",
-          "price": { "min": 400, "max": 1500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "从日归徒步到重装纵走的背包系列,背负系统贴合亚洲身形,分区合理、自重轻,实用性口碑出色。",
-          "highlights": ["贴合背负", "分区合理", "轻量自重"],
-          "tags": ["登山", "装备"],
-          "image": null
-        },
-        {
-          "id": "montbell-tent",
-          "name": "隧道帐篷",
-          "nameEn": "Tunnel Tents",
-          "type": "帐篷",
-          "price": { "min": 1000, "max": 4000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "蒙贝尔轻量隧道帐与圆顶帐系列,抗风性与空间利用出色,自重控制在同级较低水平,是重装露营的可靠选择。",
-          "highlights": ["轻量抗风", "空间高效", "重装可靠"],
-          "tags": ["露营", "重装"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "blackdiamond",
-      "name": "黑钻",
-      "nameEn": "Black Diamond",
-      "domain": "blackdiamondequipment.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1989,
-      "hq": "盐湖城",
-      "tier": "中高端",
-      "sub": "户外",
-      "tags": ["攀登", "滑雪", "户外装备"],
-      "slogan": "",
-      "desc": "黑钻 1989 年创立于美国盐湖城,以攀登装备起家,机械塞、头灯与冰镐是攀岩登山圈的标杆产品,业务覆盖春夏攀登与冬季滑雪两大领域。",
-      "story": "黑钻的前身是传奇攀岩者、巴塔哥尼亚创始人伊冯·乔伊纳德的装备作坊 Chouinard Equipment。1989 年,作坊员工集体收购其资产,Black Diamond 正式成立并落户犹他州盐湖城,延续金属锻造攀登装备的传统。\n此后黑钻把产品线扩展至冰镐、雪崩信标、登山杖与滑雪装备,并在欧洲设立研发与生产。Camalot 机械塞成为传统攀岩的行业标准装备,头灯与登山杖则让品牌走进更广大户外人群的日常。",
-      "products": [
-        {
-          "id": "bd-camalot",
-          "name": "Camalot 机械塞",
-          "nameEn": "Camalot",
-          "type": "攀岩保护装备",
-          "price": { "min": 500, "max": 1100, "currency": "CNY", "label": "零售参考价" },
-          "desc": "攀岩运动中最具代表性的机械塞,活动凸轮设计适配多种裂缝,双轴结构稳定可靠,是传统攀岩者的核心装备。",
-          "highlights": ["活动凸轮", "双轴稳定", "传统攀必备"],
-          "tags": ["攀岩", "保护"],
-          "image": null
-        },
-        {
-          "id": "bd-headlamp",
-          "name": "头灯系列",
-          "nameEn": "Headlamps",
-          "type": "头灯",
-          "price": { "min": 200, "max": 600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "Spot、Storm 等型号长期位居户外头灯畅销榜,亮度、防水与操作逻辑均衡,登山徒步与营地使用皆宜。",
-          "highlights": ["畅销经典", "高防水性", "操作顺手"],
-          "tags": ["户外", "照明"],
-          "image": null
-        },
-        {
-          "id": "bd-harness",
-          "name": "安全带系列",
-          "nameEn": "Harnesses",
-          "type": "攀岩安全带",
-          "price": { "min": 300, "max": 900, "currency": "CNY", "label": "零售参考价" },
-          "desc": "从室内攀岩到大岩壁的安全带产品线,腰承舒适、挂点布局合理,重量与耐用取得平衡,是岩馆与野外通用的选择。",
-          "highlights": ["腰承舒适", "挂点合理", "岩馆野外通用"],
-          "tags": ["攀岩", "装备"],
-          "image": null
-        },
-        {
-          "id": "bd-avalanche",
-          "name": "雪崩信标",
-          "nameEn": "Avalanche Beacons",
-          "type": "雪崩信标",
-          "price": { "min": 2000, "max": 4500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向野外滑雪与登山者的雪崩搜救信标,多天线搜索精度高、操作直觉化,是雪崩地形活动中的保命装备。",
-          "highlights": ["多天线精准", "直觉操作", "保命装备"],
-          "tags": ["滑雪", "安全"],
-          "image": null
-        },
-        {
-          "id": "bd-trekking-poles",
-          "name": "登山杖系列",
-          "nameEn": "Trekking Poles",
-          "type": "登山杖",
-          "price": { "min": 700, "max": 1600, "currency": "CNY", "label": "零售参考价" },
-          "desc": "Distance 系列碳纤维折叠杖重量轻、收纳短,减震与抓地表现扎实,是徒步与越野跑玩家信赖的选择。",
-          "highlights": ["碳纤维轻量", "Z形折叠", "徒步越野通用"],
-          "tags": ["徒步", "装备"],
-          "image": null
-        },
-        {
-          "id": "bd-ice-tools",
-          "name": "冰镐系列",
-          "nameEn": "Ice Tools",
-          "type": "冰镐",
-          "price": { "min": 1500, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "Cobra、Viper 等专业冰镐以挥击精度与可换配件著称,是混合攀登与干式攀登的利器,技术型攀登玩家的进阶装备。",
-          "highlights": ["挥击精准", "可换配件", "混合攀登"],
-          "tags": ["攀登", "专业"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "burton",
-      "name": "伯顿",
-      "nameEn": "BURTON",
-      "domain": "burton.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1977,
-      "hq": "伯灵顿(佛蒙特州)",
-      "tier": "高端",
-      "sub": "滑雪",
-      "tags": ["单板滑雪", "雪服", "雪板"],
-      "slogan": "",
-      "desc": "伯顿 1977 年由杰克·伯顿·卡朋特创立,是全球单板滑雪第一品牌,从雪板、固定器到雪服雪鞋提供全套装备,深刻塑造了单板滑雪的运动文化。",
-      "story": "1977 年,佛蒙特州的滑雪发烧友杰克·伯顿·卡朋特改良初代雪上滑板并创办公司,以「让单板进雪场」为使命,推动各大滑雪场逐步解除单板禁令。1998 年长野冬奥会单板滑雪首次入奥,多位夺牌选手使用伯顿装备。\n如今伯顿产品覆盖雪板、固定器、雪鞋、雪服与包袋,Custom、Process 等板型历经数十代打磨。品牌保留家族企业基因,在雪场与街头文化中始终拥有最强话语权,是全球单板滑雪的代名词。",
-      "products": [
-        {
-          "id": "burton-custom",
-          "name": "Custom 单板",
-          "nameEn": "Custom",
-          "type": "单板",
-          "price": { "min": 3500, "max": 6500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "伯顿最经典的全面发展单板,延续数十代的招牌板型,弹力与稳定均衡,全山地形通吃,被滑手称为「永不犯错之板」。",
-          "highlights": ["经典板型", "全山通吃", "招牌弹力"],
-          "tags": ["单板", "全山"],
-          "image": null
-        },
-        {
-          "id": "burton-process",
-          "name": "Process 单板",
-          "nameEn": "Process",
-          "type": "单板",
-          "price": { "min": 2500, "max": 5000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "面向进阶滑手的公园与全山单板,滑行活泼、容错友好,配合认证木芯的弹性输出,是许多滑手人生第二块板的热门之选。",
-          "highlights": ["进阶友好", "公园活泼", "木芯弹力"],
-          "tags": ["单板", "公园"],
-          "image": null
-        },
-        {
-          "id": "burton-cartel",
-          "name": "Cartel 固定器",
-          "nameEn": "Cartel",
-          "type": "固定器",
-          "price": { "min": 1200, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "伯顿中高端固定器代表,响应直接、绑带包裹舒适,公园与全山滑行都能提供稳定的力量传输,是滑手口中的口碑机皇。",
-          "highlights": ["响应直接", "绑带舒适", "口碑机皇"],
-          "tags": ["固定器", "装备"],
-          "image": null
-        },
-        {
-          "id": "burton-ion",
-          "name": "Ion 雪鞋",
-          "nameEn": "Ion",
-          "type": "滑雪鞋",
-          "price": { "min": 2000, "max": 4000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "伯顿顶级雪鞋,支撑性与舒适度兼备,外胆耐压、内胆保暖贴合,适合高强度滑行与大跳台进阶玩家。",
-          "highlights": ["顶级支撑", "保暖贴合", "进阶利器"],
-          "tags": ["雪鞋", "装备"],
-          "image": null
-        },
-        {
-          "id": "burton-jacket",
-          "name": "雪服系列",
-          "nameEn": "Jackets",
-          "type": "滑雪服",
-          "price": { "min": 1000, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "伯顿雪服以街头感设计著称,防风透湿面料、压胶工艺与充裕口袋设计兼顾功能与造型,是雪场出镜率最高的雪服之一。",
-          "highlights": ["街头设计", "防风透湿", "压胶工艺"],
-          "tags": ["雪服", "街头"],
-          "image": null
-        },
-        {
-          "id": "burton-wheelie",
-          "name": "雪板包",
-          "nameEn": "Wheelie Gig Bag",
-          "type": "雪板包",
-          "price": { "min": 600, "max": 1500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "带轮雪板旅行袋,可容纳雪板、雪鞋与全套装备,内衬加厚保护板面,是长途滑雪旅行的标配收纳方案。",
-          "highlights": ["带轮便携", "加厚内衬", "长途旅行"],
-          "tags": ["收纳", "旅行"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "head",
-      "name": "海德",
-      "nameEn": "HEAD",
-      "domain": "head.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1950,
-      "hq": "阿姆斯特丹",
-      "tier": "中高端",
-      "sub": "球类",
-      "tags": ["网球", "滑雪", "器材"],
-      "slogan": "",
-      "desc": "海德 1950 年由工程师霍华德·海德创立,以革命性的金属滑雪板起家,后成为网球拍巨头,德约科维奇的战拍与百年网球品牌 PENN 均在其旗下。",
-      "story": "1950 年,航空工程师霍华德·海德在马里兰州以层压金属技术造出划时代的滑雪板,颠覆了木制雪板时代;六十年代末他将重心转向网球拍,以铝合金拍框再度革新球拍行业,跻身世界级运动器材品牌。\n如今 HEAD 集团注册于荷兰阿姆斯特丹,生产研发重镇位于奥地利,旗下汇聚 HEAD 雪板雪鞋、TYROLIA 固定器与百年网球品牌 PENN。德约科维奇等网球巨星长期使用其球拍,双线并进让它成为全球最大的冬季与球拍运动器材集团之一。",
-      "products": [
-        {
-          "id": "head-speed",
-          "name": "Speed 系列网球拍",
-          "nameEn": "Speed",
-          "type": "网球拍",
-          "price": { "min": 1000, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "德约科维奇的战拍系列,以扎实控制与灵活手感著称,历经十余代迭代,是进阶球员最常考虑的职业级球拍之一。",
-          "highlights": ["德约同款", "控制扎实", "职业级"],
-          "tags": ["网球", "专业"],
-          "image": null
-        },
-        {
-          "id": "head-radical",
-          "name": "Radical 系列网球拍",
-          "nameEn": "Radical",
-          "type": "网球拍",
-          "price": { "min": 1000, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "因阿加西与穆雷而闻名的经典球拍系列,涂装个性鲜明,手感柔和、容错好,适合底线全能型球员。",
-          "highlights": ["穆雷同款", "容错出色", "底线全能"],
-          "tags": ["网球", "经典"],
-          "image": null
-        },
-        {
-          "id": "head-skis",
-          "name": "高山滑雪板系列",
-          "nameEn": "Supershape Skis",
-          "type": "滑雪板",
-          "price": { "min": 3000, "max": 8000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "HEAD 高山雪板以稳定的高速性能著称,竞技大回转板与 Supershape 全山板广受欢迎,是世界杯赛场与机压雪道上的常胜装备。",
-          "highlights": ["高速稳定", "竞技基因", "机压道王者"],
-          "tags": ["滑雪", "专业"],
-          "image": null
-        },
-        {
-          "id": "head-penn",
-          "name": "PENN 网球",
-          "nameEn": "PENN",
-          "type": "网球",
-          "price": { "min": 40, "max": 150, "currency": "CNY", "label": "零售参考价" },
-          "desc": "深耕百年的美国网球品牌,长期担任澳大利亚网球公开赛官方用球,弹跳稳定、气密性好,是全球球场消耗量最大的网球品牌之一,现属海德旗下。",
-          "highlights": ["百年品牌", "澳网用球", "消耗量大"],
-          "tags": ["网球", "耗材"],
-          "image": null
-        },
-        {
-          "id": "head-helmets",
-          "name": "滑雪头盔系列",
-          "nameEn": "Helmets",
-          "type": "滑雪头盔",
-          "price": { "min": 500, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "HEAD 滑雪头盔以轻量壳体与运动型内衬著称,通风与保暖调节细致,竞技与大众款齐全,是雪场安全装备的主流选择之一。",
-          "highlights": ["轻量壳体", "通风保暖", "款式齐全"],
-          "tags": ["滑雪", "安全"],
-          "image": null
-        },
-        {
-          "id": "head-tyrolia",
-          "name": "TYROLIA 固定器",
-          "nameEn": "TYROLIA",
-          "type": "滑雪固定器",
-          "price": { "min": 800, "max": 2000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "历史悠久的奥地利双板固定器品牌,以坚固可靠著称,与 HEAD 雪板雪鞋同集团协同设计,是欧洲滑雪场租赁板与竞技板上的常见配置。",
-          "highlights": ["奥地利血统", "坚固可靠", "集团协同"],
-          "tags": ["滑雪", "装备"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "rockbros",
-      "name": "洛克兄弟",
-      "nameEn": "ROCKBROS",
-      "domain": "rockbros.com",
-      "categoryId": "sports",
-      "country": "中国",
-      "founded": 2009,
-      "hq": "义乌",
-      "tier": "平价",
-      "sub": "骑行",
-      "tags": ["骑行", "配件", "高性价比"],
-      "slogan": "",
-      "desc": "洛克兄弟 2009 年创立于浙江义乌,是骑行装备配件领域的国民品牌,以亲民价格提供骑行包、眼镜、头盔等上千种产品,在海内外骑行圈都有很高知名度。",
-      "story": "洛克兄弟从浙江义乌的外贸生意起步,抓住骑行运动兴起的风口,以骑行包与实用配件切入市场,依托电商渠道迅速成长,产品远销海外数十个国家,成为国产骑行配件的头部品牌。\n品牌坚持「高性价比 + 海量单品」的策略,覆盖通勤、山地与公路骑行的各类场景,在车灯、眼镜、头盔与骑行服上持续迭代,同时赞助多支民间车队与骑行活动,让更多普通人轻松踏上骑行之路。",
-      "products": [
-        {
-          "id": "rockbros-sunglasses",
-          "name": "骑行眼镜",
-          "nameEn": "Cycling Sunglasses",
-          "type": "骑行眼镜",
-          "price": { "min": 50, "max": 200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "偏光镜片防风防沙,镜腿防滑、重量轻,多种镜片颜色可选,价格友好,是骑行入门装备里人气最高的品类之一。",
-          "highlights": ["偏光防风", "轻量镜架", "入门首选"],
-          "tags": ["骑行", "装备"],
-          "image": null
-        },
-        {
-          "id": "rockbros-bike-bag",
-          "name": "骑行包系列",
-          "nameEn": "Bike Bags",
-          "type": "骑行包",
-          "price": { "min": 50, "max": 300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "从车前包、鞍座包到驮包的完整收纳产品线,防水面料、快速拆装结构实用,是品牌起家的看家品类。",
-          "highlights": ["防水面料", "快拆结构", "起家品类"],
-          "tags": ["骑行", "收纳"],
-          "image": null
-        },
-        {
-          "id": "rockbros-helmet",
-          "name": "骑行头盔",
-          "nameEn": "Cycling Helmets",
-          "type": "头盔",
-          "price": { "min": 100, "max": 400, "currency": "CNY", "label": "零售参考价" },
-          "desc": "通风孔设计与一体成型工艺兼顾,重量轻、包覆性好,多色可选,以安全与性价比赢得大量通勤与骑行用户。",
-          "highlights": ["一体成型", "轻量通风", "安全认证"],
-          "tags": ["骑行", "安全"],
-          "image": null
-        },
-        {
-          "id": "rockbros-phone-mount",
-          "name": "手机支架",
-          "nameEn": "Phone Mounts",
-          "type": "手机支架",
-          "price": { "min": 30, "max": 150, "currency": "CNY", "label": "零售参考价" },
-          "desc": "减震防抖的车把手机支架,安装稳固、单手取放方便,导航骑行更安全,是通勤党与长途骑友的实用配件。",
-          "highlights": ["减震防抖", "单手取放", "导航实用"],
-          "tags": ["骑行", "配件"],
-          "image": null
-        },
-        {
-          "id": "rockbros-pump",
-          "name": "便携打气筒",
-          "nameEn": "Mini Pumps",
-          "type": "打气筒",
-          "price": { "min": 50, "max": 200, "currency": "CNY", "label": "零售参考价" },
-          "desc": "小巧易携的便携打气筒,兼容美法式气嘴,带气压表款式可精准控压,是骑行随身工具包的必备单品。",
-          "highlights": ["小巧便携", "双嘴兼容", "气压可视"],
-          "tags": ["骑行", "工具"],
-          "image": null
-        },
-        {
-          "id": "rockbros-gloves",
-          "name": "骑行手套",
-          "nameEn": "Cycling Gloves",
-          "type": "骑行手套",
-          "price": { "min": 30, "max": 150, "currency": "CNY", "label": "零售参考价" },
-          "desc": "减震掌垫与透气面料组合,缓解长途手麻,全指半指款式齐全,尺码覆盖成人儿童,常年热销。",
-          "highlights": ["减震掌垫", "透气舒适", "款式齐全"],
-          "tags": ["骑行", "装备"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "garmin",
-      "name": "佳明",
-      "nameEn": "GARMIN",
-      "domain": "garmin.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1989,
-      "hq": "奥拉特(堪萨斯州)",
-      "tier": "高端",
-      "sub": "骑行",
-      "tags": ["运动手表", "GPS", "户外"],
-      "slogan": "Beat Yesterday",
-      "desc": "佳明 1989 年由加里·伯勒尔与高民环创立,以 GPS 导航技术起家,如今是全球运动手表与骑行码表的领导品牌,在跑步、户外与航空航海领域均有布局。",
-      "story": "1989 年,航空工程师加里·伯勒尔与 GPS 专家高民环在美国堪萨斯州创办佳明,率先把卫星导航带入民用航空、航海与车载领域,长期占据消费级 GPS 市场的领先地位。\n2003 年佳明推出首款跑步腕表 Forerunner,此后逐步将重心转向运动与户外。fenix、Edge、Instinct 等系列以超长续航、专业数据算法与稳定定位著称,被跑圈骑圈视为「专业工具」,稳居全球运动手表第一梯队。",
-      "products": [
-        {
-          "id": "garmin-forerunner",
-          "name": "Forerunner 系列",
-          "nameEn": "Forerunner",
-          "type": "跑步手表",
-          "price": { "min": 1500, "max": 5500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "佳明经典跑步手表系列,从入门到旗舰覆盖全价位,配速、心率与训练负荷数据专业可靠,是马拉松训练人群的主流之选。",
-          "highlights": ["跑步数据专业", "全价位覆盖", "训练负荷"],
-          "tags": ["跑步", "手表"],
-          "image": null
-        },
-        {
-          "id": "garmin-fenix",
-          "name": "fenix 系列",
-          "nameEn": "fenix",
-          "type": "户外运动手表",
-          "price": { "min": 3000, "max": 10000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "旗舰户外运动手表,多频多星定位、离线地图与超长续航齐备,登山越野探险一表搞定,是户外圈公认的硬核装备。",
-          "highlights": ["多频定位", "离线地图", "超长续航"],
-          "tags": ["户外", "手表"],
-          "image": null
-        },
-        {
-          "id": "garmin-instinct",
-          "name": "Instinct 系列",
-          "nameEn": "Instinct",
-          "type": "户外手表",
-          "price": { "min": 1000, "max": 2500, "currency": "CNY", "label": "零售参考价" },
-          "desc": "军规标准三防设计的户外腕表,续航动辄数周,功能直给、价格适中,是入门户外玩家的口碑之选。",
-          "highlights": ["军规三防", "长续航", "高性价比"],
-          "tags": ["户外", "手表"],
-          "image": null
-        },
-        {
-          "id": "garmin-edge",
-          "name": "Edge 系列",
-          "nameEn": "Edge",
-          "type": "骑行码表",
-          "price": { "min": 1000, "max": 4000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "公路与山地骑行的主力码表,导航、功率训练与骑行数据生态完善,与车队俱乐部深度绑定,是专业骑手的标配。",
-          "highlights": ["骑行数据", "功率训练", "导航生态"],
-          "tags": ["骑行", "码表"],
-          "image": null
-        },
-        {
-          "id": "garmin-venu",
-          "name": "Venu 系列",
-          "nameEn": "Venu",
-          "type": "健康智能手表",
-          "price": { "min": 1000, "max": 3000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "主打健康与日常智能的 AMOLED 屏手表,睡眠、血氧与身体电量监测齐全,兼顾运动功能与时尚外观,适合大众用户。",
-          "highlights": ["AMOLED屏", "健康监测", "时尚外观"],
-          "tags": ["健康", "手表"],
-          "image": null
-        },
-        {
-          "id": "garmin-varia",
-          "name": "Varia 雷达尾灯",
-          "nameEn": "Varia",
-          "type": "骑行雷达",
-          "price": { "min": 800, "max": 2000, "currency": "CNY", "label": "零售参考价" },
-          "desc": "可探测后方来车的智能雷达尾灯,提前预警提升夜骑与公路骑行安全,连接码表或手机即可工作,广受长途骑友好评。",
-          "highlights": ["来车预警", "夜骑安全", "码表联动"],
-          "tags": ["骑行", "安全"],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "merrell",
-      "name": "迈乐",
-      "nameEn": "Merrell",
-      "domain": "merrell.com",
-      "categoryId": "sports",
-      "country": "美国",
-      "founded": 1981,
-      "hq": "罗克福德(密歇根州)",
-      "tier": "中高端",
-      "sub": "户外",
-      "tags": ["徒步", "越野跑", "户外鞋"],
-      "slogan": "",
-      "desc": "迈乐 1981 年创立于美国,以手工定制登山靴起家,现属 Wolverine 集团,Moab 系列徒步鞋是全球销量最大的户外鞋款之一,主打舒适实用的户外鞋履。",
-      "story": "1981 年,犹他州手工靴匠兰迪·迈乐与两位伙伴创立同名品牌,以「让户外更舒适」为初心打造登山靴,凭合脚耐穿的口碑迅速打开市场,成为北美户外圈的新星。\n1997 年,迈乐被 Wolverine 集团收购后加速全球化,Moab 系列徒步鞋常年占据欧美户外鞋畅销榜前列,产品线延伸至越野跑、健走与凉鞋。如今它是大众户外鞋履领域最具知名度的品牌之一。",
-      "products": [
-        {
-          "id": "merrell-moab",
-          "name": "Moab 徒步鞋",
-          "nameEn": "Moab",
-          "type": "徒步鞋",
-          "price": { "min": 500, "max": 1100, "currency": "CNY", "label": "零售参考价" },
-          "desc": "全球销量领先的经典徒步鞋,外底抓地扎实、鞋面包裹舒适,开箱即走无需磨合,是轻装徒步与旅行的国民鞋款。",
-          "highlights": ["畅销经典", "抓地扎实", "免磨合"],
-          "tags": ["徒步", "经典"],
-          "image": null
-        },
-        {
-          "id": "merrell-agility",
-          "name": "Agility Peak 越野跑鞋",
-          "nameEn": "Agility Peak",
-          "type": "越野跑鞋",
-          "price": { "min": 700, "max": 1300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "山地越野跑旗舰,厚实中底缓冲长距离冲击,Vibram 外底抓地可靠,是超长距离越野赛事中的常见战靴。",
-          "highlights": ["越野缓震", "Vibram外底", "赛事战靴"],
-          "tags": ["越野跑", "专业"],
-          "image": null
-        },
-        {
-          "id": "merrell-hiking-boots",
-          "name": "中帮徒步靴",
-          "nameEn": "Hiking Boots",
-          "type": "徒步靴",
-          "price": { "min": 700, "max": 1300, "currency": "CNY", "label": "零售参考价" },
-          "desc": "在 Moab 等经典鞋型基础上升级的中帮版本,增强脚踝支撑与防水性能,适合背负重装与复杂山地线路。",
-          "highlights": ["踝部支撑", "防水科技", "重装徒步"],
-          "tags": ["徒步", "户外"],
-          "image": null
-        },
-        {
-          "id": "merrell-jungle",
-          "name": "Jungle Moc 休闲鞋",
-          "nameEn": "Jungle Moc",
-          "type": "休闲鞋",
-          "price": { "min": 400, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "九十年代诞生的经典一脚蹬休闲鞋,翻毛皮鞋面配舒适内底,通勤居家两相宜,全球累计销量惊人。",
-          "highlights": ["一脚蹬", "翻毛皮", "经典常青"],
-          "tags": ["休闲", "经典"],
-          "image": null
-        },
-        {
-          "id": "merrell-vapor-glove",
-          "name": "Vapor Glove 赤足鞋",
-          "nameEn": "Vapor Glove",
-          "type": "赤足鞋",
-          "price": { "min": 400, "max": 800, "currency": "CNY", "label": "零售参考价" },
-          "desc": "极简赤足训练鞋,鞋底超薄贴近地面,强化足部力量与本体感知,适合健身房训练与短距离自然跑。",
-          "highlights": ["极简薄底", "强化足感", "训练适用"],
-          "tags": ["训练", "极简"],
-          "image": null
-        },
-        {
-          "id": "merrell-sandals",
-          "name": "户外凉鞋系列",
-          "nameEn": "Sandals",
-          "type": "户外凉鞋",
-          "price": { "min": 300, "max": 700, "currency": "CNY", "label": "零售参考价" },
-          "desc": "Hydro 等系列户外凉鞋与溯溪鞋,速干鞋面配抓地外底,涉水徒步两不误,是夏季户外活动的舒适之选。",
-          "highlights": ["速干鞋面", "抓地防滑", "溯溪徒步"],
-          "tags": ["凉鞋", "夏季"],
-          "image": null
-        }
-      ]
+     "id": "fila-kids",
+     "name": "儿童运动系列",
+     "nameEn": "Kids Series",
+     "type": "童装",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "儿童运动系列是斐乐面向儿童的运动鞋服产品线,延续成人款的设计语言与美学风格。鞋底防滑稳固、面料亲肤舒适,注重童装的功能性与安全性,迷你 F 框标识保留品牌辨识度。适合儿童日常穿着、运动场景及亲子同款穿搭。依托高端运动时尚定位,斐乐童装已成为中国高端童装运动市场的热门选择,深受注重品质的家庭青睐。",
+     "highlights": [
+      "迷你F框",
+      "防滑鞋底",
+      "亲子同款"
+     ],
+     "tags": [
+      "童装",
+      "高端"
+     ],
+     "image": null
     }
-  ]
+   ]
+  },
+  {
+   "id": "mizuno",
+   "name": "美津浓",
+   "nameEn": "MIZUNO",
+   "domain": "mizuno.com",
+   "categoryId": "sports",
+   "country": "日本",
+   "founded": 1906,
+   "hq": "大阪",
+   "tier": "中高端",
+   "sub": "综合运动",
+   "tags": [
+    "跑鞋",
+    "棒球",
+    "高尔夫",
+    "日系精工"
+   ],
+   "slogan": "Never Settle",
+   "desc": "美津浓 1906 年创立于日本大阪,以棒球、跑鞋与高尔夫装备闻名,自研机械缓震 Wave 科技独树一帜,是深受专业运动员信赖的百年综合运动品牌。",
+   "story": "1906 年,水野利八兄弟在大阪创立美津浓,从棒球队服与手套做起,逐步将产品线拓展至跑鞋、足球、排球、高尔夫等几乎所有主流运动项目,百余年来为无数奥运冠军与职业选手提供装备。\n美津浓以日式精工著称:跑鞋采用机械缓震 Wave 平板科技,稳定耐用独树一帜;高端足球鞋与棒球手套坚持日本工厂手工制作。它不做夸张营销,却凭专业口碑成为运动员心中的「匠人品牌」。",
+   "products": [
+    {
+     "id": "mizuno-wave-rider",
+     "name": "Wave Rider 缓震跑鞋",
+     "nameEn": "Wave Rider",
+     "type": "缓震跑鞋",
+     "price": {
+      "min": 700,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Wave Rider 是美津浓最经典的次顶级缓震跑鞋,常年迭代更新。搭载品牌标志性的 Wave 机械缓震板,落地反馈扎实稳定,支撑性与耐用度在同级别中表现出色。适合长距离慢跑、日常训练及重视跑鞋耐久度的跑者。作为美津浓跑鞋矩阵的常青款,Wave Rider 凭借机械缓震的独特脚感,在慢跑爱好者中积累了深厚的信赖口碑。",
+     "highlights": [
+      "Wave机械缓震",
+      "稳定支撑",
+      "经久耐用"
+     ],
+     "tags": [
+      "跑鞋",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "mizuno-wave-prophecy",
+     "name": "Wave Prophecy 旗舰跑鞋",
+     "nameEn": "Wave Prophecy",
+     "type": "缓震跑鞋",
+     "price": {
+      "min": 1500,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Wave Prophecy 是美津浓的顶级缓震跑鞋,国内跑友昵称「预言」。搭载全掌 Infinity Wave 波形结构,为前后掌提供独特的机械缓震,脚感扎实、稳定性强,外观极具科幻感。适合大体重跑者、长距离训练及追求顶级缓震与个性造型的跑者。作为美津浓科技旗舰,Wave Prophecy 以独树一帜的机械缓震理念在跑鞋界自成一派。",
+     "highlights": [
+      "全掌Wave",
+      "顶级缓震",
+      "科幻造型"
+     ],
+     "tags": [
+      "跑鞋",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "mizuno-morelia",
+     "name": "Morelia II 足球鞋",
+     "nameEn": "Morelia II",
+     "type": "足球鞋",
+     "price": {
+      "min": 800,
+      "max": 1600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Morelia II 是美津浓的传奇袋鼠皮足球鞋,由日本工匠缝制而成。袋鼠皮鞋面触球感细腻、包裹柔软贴合,鞋楦与做工延续日式制作的严谨传统。适合追求极致触感的技术型球员、足球装备发烧友及职业半职业选手。数十年持续迭代不停,Morelia 被众多职业球员视为传世经典,是日系足球鞋工艺水准的代表之作。",
+     "highlights": [
+      "袋鼠皮鞋面",
+      "日本手工",
+      "传世经典"
+     ],
+     "tags": [
+      "足球",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "mizuno-global-elite",
+     "name": "Global Elite 棒球手套",
+     "nameEn": "Global Elite",
+     "type": "棒球手套",
+     "price": {
+      "min": 1000,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Global Elite 是美津浓棒球装备线中的高端棒球手套。选用优质牛皮,采用手工成型工艺,揉制养护后愈发贴合手型,接球手感与耐用度俱佳。适合棒球爱好者、业余强手及职业选手的训练与比赛场景。依托美津浓深耕百年的棒球装备底蕴,Global Elite 深受日本棒坛青睐,是高端手工棒球手套的代表产品之一。",
+     "highlights": [
+      "牛皮材质",
+      "手工成型",
+      "职业青睐"
+     ],
+     "tags": [
+      "棒球",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "mizuno-jpx",
+     "name": "JPX 高尔夫铁杆",
+     "nameEn": "JPX",
+     "type": "高尔夫球杆",
+     "price": {
+      "min": 8000,
+      "max": 18000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "JPX 是美津浓高尔夫的代表铁杆产品线。以锻造工艺打造,杆面手感扎实稳定,同时兼顾易打性与飞行距离,兼顾不同水平球友的需求。适合高尔夫爱好者下场使用、进阶球友升级换杆及重视日系手感的人群。长期位居日系高尔夫铁杆畅销榜前列,JPX 延续了美津浓在金属加工与锻造领域的百年技术积淀。",
+     "highlights": [
+      "锻造工艺",
+      "易打远距",
+      "日系手感"
+     ],
+     "tags": [
+      "高尔夫",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "mizuno-wave-lightning",
+     "name": "Wave Lightning 排球鞋",
+     "nameEn": "Wave Lightning",
+     "type": "排球鞋",
+     "price": {
+      "min": 500,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Wave Lightning 是美津浓的专业排球鞋系列。设计主打轻量灵活,急停、启动与横向移动表现出色,鞋底抓地力适应室内木地板场地。适合室内排球、气排球爱好者及排球运动员的训练比赛场景。长期服务职业排坛,该系列在排球专项装备领域认可度极高,是排球鞋品类中历史悠久的经典产品线。",
+     "highlights": [
+      "轻量灵活",
+      "快速启动",
+      "专业排球"
+     ],
+     "tags": [
+      "排球",
+      "专业"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "yonex",
+   "name": "尤尼克斯",
+   "nameEn": "YONEX",
+   "domain": "yonex.com",
+   "categoryId": "sports",
+   "country": "日本",
+   "founded": 1946,
+   "hq": "东京",
+   "tier": "中高端",
+   "sub": "球类",
+   "tags": [
+    "羽毛球",
+    "网球",
+    "专业装备"
+   ],
+   "slogan": "",
+   "desc": "尤尼克斯 1946 年创立于日本,是全球羽毛球装备第一品牌,球拍、球线与球鞋被职业选手广泛使用,业务同样覆盖网球与高尔夫领域。",
+   "story": "1946 年,米山稔在新潟县创立尤尼克斯前身,从木制羽毛球拍起家。品牌以材料革新不断突破,率先将铝合金、碳纤维引入球拍制造,推动羽毛球运动进入碳素时代,逐步成长为全球羽毛球装备的第一品牌。\n从林丹、李宗伟到安赛龙,历代羽坛名将都曾使用尤尼克斯装备征战赛场;网球领域的 VCORE、EZONE 与高尔夫球杆同样拥有大满贯冠军背书。今天,从世界大赛到社区球馆,「YY」都是羽网爱好者绕不开的名字。",
+   "products": [
+    {
+     "id": "yonex-astrox",
+     "name": "天斧系列球拍",
+     "nameEn": "ASTROX",
+     "type": "羽毛球拍",
+     "price": {
+      "min": 800,
+      "max": 1800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "天斧 ASTROX 是尤尼克斯头重进攻型羽毛球拍的代表系列。拍框科技支持连续下压,杀球威力十足,天斧 99Pro 与 100ZZ 等型号被众多顶级单打选手广泛使用。适合进攻型打法、单打选手及追求爆发力的进阶爱好者。作为品牌进攻拍的旗帜产品,天斧系列在业余圈层中被视为进攻型爱好者的「信仰之拍」,影响力深远。",
+     "highlights": [
+      "头重进攻",
+      "连续下压",
+      "单打利器"
+     ],
+     "tags": [
+      "羽毛球",
+      "进攻"
+     ],
+     "image": null
+    },
+    {
+     "id": "yonex-nanoflare",
+     "name": "疾光系列球拍",
+     "nameEn": "NANOFLARE",
+     "type": "羽毛球拍",
+     "price": {
+      "min": 800,
+      "max": 1800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "疾光 NANOFLARE 是尤尼克斯主打极速挥拍速度的羽毛球拍系列。破风拍框切风阻力小,挥速极快,双打平抽挡表现优势明显,连击节奏流畅。适合双打选手、速度型打法及反应灵敏的爱好者,疾光 800Pro 是职业双打赛场最常见的球拍之一。作为速度类球拍的标杆,疾光系列与天斧形成一攻一速的产品格局。",
+     "highlights": [
+      "破风拍框",
+      "挥速极快",
+      "双打神器"
+     ],
+     "tags": [
+      "羽毛球",
+      "速度"
+     ],
+     "image": null
+    },
+    {
+     "id": "yonex-vcore",
+     "name": "VCORE 网球拍",
+     "nameEn": "VCORE",
+     "type": "网球拍",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "VCORE 是尤尼克斯主打旋转性能的网球拍系列。特殊拍框截面设计增强上旋效果,击球旋转强烈、落点更刁钻,挥拍流畅且控制感出色。适合追求强烈上旋打法的进阶球友与专业选手,职业球员西冈良仁等长期使用。作为旋转系球拍的代表产品,VCORE 延续了尤尼克斯在碳纤维球拍制造领域的深厚技术积累。",
+     "highlights": [
+      "旋转增强",
+      "职业使用",
+      "上旋利器"
+     ],
+     "tags": [
+      "网球",
+      "旋转"
+     ],
+     "image": null
+    },
+    {
+     "id": "yonex-power-cushion",
+     "name": "Power Cushion 羽毛球鞋",
+     "nameEn": "Power Cushion",
+     "type": "羽毛球鞋",
+     "price": {
+      "min": 400,
+      "max": 900,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Power Cushion 羽毛球鞋是尤尼克斯以招牌「Power Cushion」吸震回弹科技打造的专业羽毛球鞋。中底吸震的同时将冲击转化为回弹能量,配合防滑大底与侧向支撑结构,急停跳跃更安心稳定。适合羽毛球爱好者日常训练、业余比赛及专业选手的高强度使用。作为羽毛球鞋领域的标杆产品,该科技平台历经多代迭代,口碑深入人心。",
+     "highlights": [
+      "吸震回弹",
+      "侧向支撑",
+      "防滑大底"
+     ],
+     "tags": [
+      "羽毛球",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "yonex-bg80",
+     "name": "BG-80 羽毛球线",
+     "nameEn": "BG-80",
+     "type": "羽毛球线",
+     "price": {
+      "min": 40,
+      "max": 80,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "BG-80 是尤尼克斯的经典高反弹羽毛球线。击球反馈清晰、弹性出色,兼顾击球感与耐用度,适合多种打法风格。适合作为羽毛球爱好者的第一条高阶球线,新手与进阶玩家皆宜,职业选手亦广泛使用。作为长年畅销全球的经典线材,BG-80 承载了无数球友的入门记忆,是羽毛球线领域最具知名度的产品之一。",
+     "highlights": [
+      "高反弹",
+      "手感清晰",
+      "经典畅销"
+     ],
+     "tags": [
+      "羽毛球",
+      "耗材"
+     ],
+     "image": null
+    },
+    {
+     "id": "yonex-aerosensa",
+     "name": "Aerosensa 比赛用球",
+     "nameEn": "Aerosensa",
+     "type": "羽毛球",
+     "price": {
+      "min": 100,
+      "max": 200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Aerosensa 是尤尼克斯出品的鸭毛比赛用羽毛球。飞行稳定、球感扎实,耐打度表现良好,按耐打程度分为 AS-9、AS-30 等多个型号供不同强度场景选择。适合业余赛事、俱乐部训练及球馆日常使用,是众多业余赛事的指定用球。作为羽毛球耗材领域的经典产品,Aerosensa 以稳定的品质成为球友评估其他用球的参照标准。",
+     "highlights": [
+      "鸭毛球头",
+      "飞行稳定",
+      "赛事指定"
+     ],
+     "tags": [
+      "羽毛球",
+      "耗材"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "wilson",
+   "name": "威尔胜",
+   "nameEn": "Wilson",
+   "domain": "wilson.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1914,
+   "hq": "芝加哥",
+   "tier": "中高端",
+   "sub": "球类",
+   "tags": [
+    "网球",
+    "篮球",
+    "棒球",
+    "美式橄榄球"
+   ],
+   "slogan": "",
+   "desc": "威尔胜 1914 年创立于美国芝加哥,是全球最大的球类运动品牌之一,网球拍、篮球、棒球手套与橄榄球装备畅销世界,费德勒的经典战拍即出自威尔胜。",
+   "story": "1914 年,威尔胜在美国芝加哥起家,很快以高质量的棒球与橄榄球装备站稳脚跟。此后品牌深耕网球,Pro Staff 系列陪伴桑普拉斯与费德勒缔造传奇,成为网球史上最具声望的球拍家族之一。\n如今威尔胜是 Amer Sports 集团旗下核心品牌,长期担任 NFL 官方用球与美国网球公开赛官方用球,产品覆盖网球、篮球、棒球、橄榄球与高尔夫。从职业赛场到社区球场,W 字标是世界通用的运动符号。",
+   "products": [
+    {
+     "id": "wilson-pro-staff",
+     "name": "Pro Staff 网球拍",
+     "nameEn": "Pro Staff",
+     "type": "网球拍",
+     "price": {
+      "min": 1200,
+      "max": 2800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Pro Staff 是威尔胜的传奇职业网球拍系列,是桑普拉斯与费德勒两代球王的成名武器。拍框以扎实手感与精准控制著称,适合发力规范、追求击球掌控力的进阶球员。历经数十年演变,该系列始终是职业赛场与发烧友圈层中的殿堂级经典。对许多网球爱好者而言,Pro Staff 不仅是球拍,更是职业网球黄金年代的象征。",
+     "highlights": [
+      "费德勒同款",
+      "控制精准",
+      "殿堂经典"
+     ],
+     "tags": [
+      "网球",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "wilson-clash",
+     "name": "Clash 网球拍",
+     "nameEn": "Clash",
+     "type": "网球拍",
+     "price": {
+      "min": 1200,
+      "max": 2600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Clash 是威尔胜近年最热门的创新网球拍系列。采用柔性碳纤维框架设计,拍框可在击球时弹性形变,带来高弹性与高容错,底线对攻省力舒适,手感独特。适合中高级业余球员、注重手臂保护及追求舒适击球体验的人群。上市即成全球畅销款,Clash 以打破传统的柔性框架理念,为现代网球拍设计开辟了新方向。",
+     "highlights": [
+      "柔性框架",
+      "高容错",
+      "省力舒适"
+     ],
+     "tags": [
+      "网球",
+      "创新"
+     ],
+     "image": null
+    },
+    {
+     "id": "wilson-a2000",
+     "name": "A2000 棒球手套",
+     "nameEn": "A2000",
+     "type": "棒球手套",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "A2000 是威尔胜的旗舰棒球手套系列。采用 Pro Stock 高品质皮革,经久耐用、易养成型,版型历经数十年打磨优化,各个位置均有对应规格。适合大联盟职业球员、业余强手及棒球装备爱好者的训练与比赛场景。凭借专业口碑,A2000 是大联盟球员与全球棒球强手广泛使用的高阶手套,堪称棒球手套的经典标准。",
+     "highlights": [
+      "ProStock皮革",
+      "大联盟使用",
+      "久经考验"
+     ],
+     "tags": [
+      "棒球",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "wilson-nfl-football",
+     "name": "NFL 比赛用球",
+     "nameEn": "The Duke",
+     "type": "美式橄榄球",
+     "price": {
+      "min": 200,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "The Duke 是威尔胜出品的 NFL 官方比赛用球,自 1941 年起服务于美国职业橄榄球联盟。皮革球身纹路清晰、握感扎实,制作规格严格,随联盟赛事常年曝光。适合橄榄球运动、球迷收藏及观赏纪念场景。作为橄榄球运动当之无愧的标志单品,The Duke 见证了 NFL 数十年历史,是美式橄榄球文化最具代表性的实物符号。",
+     "highlights": [
+      "NFL官方用球",
+      "皮革握感",
+      "收藏经典"
+     ],
+     "tags": [
+      "橄榄球",
+      "收藏"
+     ],
+     "image": null
+    },
+    {
+     "id": "wilson-evolution",
+     "name": "Evolution 篮球",
+     "nameEn": "Evolution",
+     "type": "篮球",
+     "price": {
+      "min": 200,
+      "max": 450,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Evolution 是威尔胜出品的经典室内篮球。采用超细纤维皮面,吸湿防滑、手感细腻,弹跳一致性出色,符合室内训练与比赛的需求。适合美国高中及大学校园篮球场景、室内训练与业余联赛使用。作为北美校园篮球的经典用球,Evolution 常年是美国高中赛场的热门选择,也是室内篮球手感标杆,在全球球迷中知名度极高。",
+     "highlights": [
+      "超细纤维",
+      "吸湿防滑",
+      "室内训练"
+     ],
+     "tags": [
+      "篮球",
+      "校园"
+     ],
+     "image": null
+    },
+    {
+     "id": "wilson-avp",
+     "name": "AVP 沙滩排球",
+     "nameEn": "AVP",
+     "type": "沙滩排球",
+     "price": {
+      "min": 200,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AVP 沙滩排球是威尔胜与美国职业沙滩排球巡回赛 AVP 联合开发的官方用球。外皮经防水处理,手感柔软、耐晒耐磨,适应沙滩与户外环境,球身印有标志性 AVP 标识。适合沙滩排球运动、海边休闲娱乐及沙滩排球赛事场景。作为职业巡回赛的官方用球,它是沙滩排球爱好者最熟悉的标准用球,是该运动文化的代表符号。",
+     "highlights": [
+      "AVP官方",
+      "防水外皮",
+      "柔软手感"
+     ],
+     "tags": [
+      "排球",
+      "沙滩"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "spalding",
+   "name": "斯伯丁",
+   "nameEn": "Spalding",
+   "domain": "spalding.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1876,
+   "hq": "鲍灵格林",
+   "tier": "大众",
+   "sub": "球类",
+   "tags": [
+    "篮球",
+    "篮架",
+    "器材"
+   ],
+   "slogan": "",
+   "desc": "斯伯丁 1876 年创立于美国,由棒球名将斯伯丁创办,是全球篮球器材的代名词,曾长期作为 NBA 官方比赛用球,篮架与训练装备同样畅销全球。",
+   "story": "1876 年,退役棒球投手阿尔伯特·斯伯丁在芝加哥创立同名公司,以标准化棒球与运动器材起家,迅速成为北美运动装备巨头。1983 年起,斯伯丁成为 NBA 官方比赛用球,伴随乔丹等巨星让品牌红遍全球。\n2021 年 NBA 用球合约花落威尔胜后,斯伯丁依旧是全球销量领先的篮球品牌,TF 训练球、街球、篮架与儿童装备覆盖从校园到职业的各级场景。在中国,它更是几代人篮球记忆里最熟悉的品牌。",
+   "products": [
+    {
+     "id": "spalding-nba-game-ball",
+     "name": "NBA 比赛用球",
+     "nameEn": "NBA Game Ball",
+     "type": "篮球",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "NBA 比赛用球是斯伯丁最具标志性的篮球产品,1983 至 2021 年长期作为 NBA 官方比赛用球。PU 复刻版延续职业用球的设计与手感,皮面扎实、弹性稳定。适合篮球训练、业余比赛及球迷收藏场景,是无数中国篮球爱好者的第一颗「正式用球」。数十年的联盟官方身份让它成为篮球文化中最具辨识度的经典单品之一。",
+     "highlights": [
+      "NBA官方用球",
+      "经典复刻",
+      "手感扎实"
+     ],
+     "tags": [
+      "篮球",
+      "经典"
+     ],
+     "image": null
+    },
+    {
+     "id": "spalding-tf-1000",
+     "name": "TF-1000 篮球",
+     "nameEn": "TF-1000",
+     "type": "篮球",
+     "price": {
+      "min": 200,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "TF-1000 是斯伯丁旗下高阶训练与比赛用篮球,属品牌大众定位中的专业级型号。它采用气密内胆提升保气性能,球体圆度精准,外皮皮质耐磨防滑,手感与耐用性兼备。主要面向大学球队、半职业赛场及高强度训练人群。凭借稳定品质,该型号在篮球圈口碑经久不衰,是斯伯丁球类产品线中的经典之作。",
+     "highlights": [
+      "气密内胆",
+      "圆度精准",
+      "耐磨防滑"
+     ],
+     "tags": [
+      "篮球",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "spalding-street",
+     "name": "STREET 街头篮球",
+     "nameEn": "STREET",
+     "type": "篮球",
+     "price": {
+      "min": 80,
+      "max": 200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "STREET 街头篮球是斯伯丁最亲民的篮球系列,定位大众户外实战。外皮粗犷耐磨,专为水泥地、塑胶地等粗糙场地设计,抗造耐打。价格平实,是学生与野球爱好者的入门首选,在街头球场的出镜率极高。作为野球场常客型号,它已成为街头篮球文化中的经典符号,承载着斯伯丁百年球类工艺的大众化表达。",
+     "highlights": [
+      "耐磨外皮",
+      "野球常客",
+      "价格平实"
+     ],
+     "tags": [
+      "篮球",
+      "街头"
+     ],
+     "image": null
+    },
+    {
+     "id": "spalding-neverflat",
+     "name": "NeverFlat 恒压篮球",
+     "nameEn": "NeverFlat",
+     "type": "篮球",
+     "price": {
+      "min": 200,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "NeverFlat 恒压篮球是斯伯丁的科技型产品,主打长效保气体验。它采用恒压内胆科技,长时间使用不易漏气,免去频繁打气的烦恼,维护成本极低。适合学校场馆、家庭等需要长期使用的场景,对怕麻烦的普通玩家尤其友好。这款球以「免维护」的实用卖点广受欢迎,体现了斯伯丁在球类技术创新上的积累,是品牌科技系列的代表之一。",
+     "highlights": [
+      "恒压科技",
+      "长效保气",
+      "免维护"
+     ],
+     "tags": [
+      "篮球",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "spalding-portable-hoop",
+     "name": "移动式篮架",
+     "nameEn": "Portable Hoop System",
+     "type": "篮架",
+     "price": {
+      "min": 500,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "移动式篮架是斯伯丁篮架品类的家用产品,含可调节篮板、篮网与稳固底座,升降高度灵活,可适配不同身高与年龄的使用者。底座稳固安全,安装便捷,能让后院、小区空地轻松变身标准球场。适合家庭亲子运动与社区篮球场景。依托斯伯丁在篮球领域的百年积淀,该产品线让品牌从球延伸到整套装备,是家用篮球场景的代表性选择。",
+     "highlights": [
+      "高度可调",
+      "底座稳固",
+      "家用标准"
+     ],
+     "tags": [
+      "篮球",
+      "器材"
+     ],
+     "image": null
+    },
+    {
+     "id": "spalding-rookie",
+     "name": "儿童轻量篮球",
+     "nameEn": "Rookie Gear",
+     "type": "篮球",
+     "price": {
+      "min": 80,
+      "max": 200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Rookie Gear 儿童轻量篮球是斯伯丁专为儿童设计的入门篮球,通过降低重量与缩小周长,让孩子投篮更省力,有助于建立正确的投篮动作与运动兴趣。球体尺寸符合儿童手型,轻量设计降低训练负担。适合少儿篮球启蒙、家庭亲子游戏与培训教学场景。作为入门友好的经典产品,它体现了斯伯丁对篮球运动从娃娃抓起的品牌传承。",
+     "highlights": [
+      "轻量设计",
+      "小号尺寸",
+      "入门友好"
+     ],
+     "tags": [
+      "篮球",
+      "儿童"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "speedo",
+   "name": "速比涛",
+   "nameEn": "Speedo",
+   "domain": "speedo.com",
+   "categoryId": "sports",
+   "country": "澳大利亚",
+   "founded": 1914,
+   "hq": "悉尼",
+   "tier": "中高端",
+   "sub": "综合运动",
+   "tags": [
+    "游泳",
+    "竞速",
+    "泳装"
+   ],
+   "slogan": "",
+   "desc": "速比涛 1914 年创立于澳大利亚悉尼,是全球最著名的游泳品牌,LZR 竞速泳衣曾掀起世界纪录狂潮,产品覆盖泳装、泳镜与训练装备。",
+   "story": "1914 年,苏格兰移民麦克雷在悉尼创办服装工坊,1928 年「Speedo」品牌正式诞生,以贴合身体的竞赛泳衣颠覆传统。2000 年前后推出的 Fastskin 鲨鱼皮泳衣掀起泳坛纪录井喷,开启了竞速泳衣的科技竞赛。\n如今速比涛隶属英国 Pentland 集团,总部位于英国诺丁汉,仍是多支国家队与职业选手的选择;同时以抗氯耐穿的 Endurance+ 训练泳装与时尚泳衣走进大众泳池,长期保持全球游泳市场占有率领先地位。",
+   "products": [
+    {
+     "id": "speedo-fastskin",
+     "name": "Fastskin 竞速泳衣",
+     "nameEn": "Fastskin",
+     "type": "竞速泳衣",
+     "price": {
+      "min": 800,
+      "max": 3500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Fastskin 竞速泳衣是速比涛的旗舰竞速系列,源自仿鲨鱼皮的低阻技术思路,采用压缩面料贴合身体、降低水中阻力,并对肌肉提供支撑。分标准版与更高压缩的专业版本,主要面向职业选手与竞技游泳运动员,是冲击个人最好成绩的赛场利器。该系列源自鲨鱼皮技术的研发传统,见证了速比涛在竞技游泳装备领域的深厚技术地位。",
+     "highlights": [
+      "低阻面料",
+      "肌肉压缩",
+      "赛场利器"
+     ],
+     "tags": [
+      "游泳",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "speedo-endurance-plus",
+     "name": "Endurance+ 训练泳裤",
+     "nameEn": "Endurance+",
+     "type": "训练泳裤",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Endurance+ 训练泳裤是速比涛最经典的训练线产品,采用 Endurance+ 抗氯面料,长期浸泡泳池不易变形褪色,速干耐穿,寿命远超普通面料。定位中高端训练装备,适合常年训练的泳者、游泳队成员与健身泳客。凭借抗氯耐用的口碑,它是泳池训练场景的公认首选,也是速比涛面料科技与专业游泳基因在大众市场的经典呈现。",
+     "highlights": [
+      "抗氯面料",
+      "速干耐用",
+      "训练首选"
+     ],
+     "tags": [
+      "游泳",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "speedo-biofuse",
+     "name": "Biofuse 泳镜",
+     "nameEn": "Biofuse",
+     "type": "泳镜",
+     "price": {
+      "min": 150,
+      "max": 350,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Biofuse 泳镜是速比涛销量很高的日常训练泳镜系列,采用柔性镜框贴合面部轮廓,佩戴柔软不勒眼眶,长时间使用也舒适,防雾镜片保证水下视野清晰。定位中高端游泳配件,适合日常训练、健身游泳及长期佩戴需求的泳者。作为品牌配件线的畅销代表,它延续了速比涛在游泳装备上的专业积累,以舒适性与可靠性著称。",
+     "highlights": [
+      "柔韧镜框",
+      "防雾清晰",
+      "佩戴舒适"
+     ],
+     "tags": [
+      "游泳",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "speedo-training-fin",
+     "name": "训练脚蹼",
+     "nameEn": "Training Fin",
+     "type": "脚蹼",
+     "price": {
+      "min": 150,
+      "max": 300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "训练脚蹼是速比涛游泳训练装备线的重要一环,采用短款设计,既能提供推进力,又不掩盖动作缺陷,帮助泳者改善打腿姿势、增强腿部力量与水感。可与同系列手蹼、浮板组成完整训练体系,是游泳队常用教具。适合专业队训练、业余泳者技术提升与体能练习场景。作为泳训常用装备,它体现了速比涛覆盖训练全链条的产品布局。",
+     "highlights": [
+      "短款设计",
+      "强化打腿",
+      "队训常用"
+     ],
+     "tags": [
+      "游泳",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "speedo-kids",
+     "name": "儿童泳装系列",
+     "nameEn": "Kids Swimwear",
+     "type": "儿童泳装",
+     "price": {
+      "min": 100,
+      "max": 300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "儿童泳装系列是速比涛面向少儿学游泳与戏水场景的装备线,包含防晒泳衣、泳帽泳镜套装等产品。面料亲肤抗氯,防晒性能到位,设计活泼鲜艳,深受家长欢迎。定位中高端儿童游泳启蒙市场,适合亲子戏水、少儿游泳培训与海边度假场景。依托速比涛在游泳领域的专业背书,该系列是家长为孩子选购泳装时的经典安心之选。",
+     "highlights": [
+      "防晒面料",
+      "亲肤抗氯",
+      "启蒙套装"
+     ],
+     "tags": [
+      "游泳",
+      "儿童"
+     ],
+     "image": null
+    },
+    {
+     "id": "speedo-fitness-swimsuit",
+     "name": "健身泳衣系列",
+     "nameEn": "Fitness Swimsuit",
+     "type": "健身泳衣",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "健身泳衣系列是速比涛面向健身与度假场景的女式连体泳衣产品线,剪裁修饰身形,兼具运动支撑性与时尚设计感,泳姿舒展不跑位,度假拍照也出彩。定位中高端大众市场,适合健身游泳、海岛度假与休闲戏水人群。作为速比涛大众线的主力品类,它把专业游泳基因与时尚审美结合,是品牌从赛场走向日常生活的代表作。",
+     "highlights": [
+      "修身剪裁",
+      "运动支撑",
+      "时尚设计"
+     ],
+     "tags": [
+      "游泳",
+      "时尚"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "arena",
+   "name": "阿瑞娜",
+   "nameEn": "arena",
+   "domain": "arena.it",
+   "categoryId": "sports",
+   "country": "意大利",
+   "founded": 1973,
+   "hq": "托伦蒂诺",
+   "tier": "中高端",
+   "sub": "综合运动",
+   "tags": [
+    "游泳",
+    "竞速",
+    "泳装"
+   ],
+   "slogan": "",
+   "desc": "arena 1973 年创立,出身阿迪达斯创始人家族,是全球三大泳装品牌之一,Powerskin 竞速泳衣与训练泳装在职业泳坛和大众泳池都有极高的占有率。",
+   "story": "1972 年慕尼黑奥运会,美国泳将马克·斯皮茨狂揽七金,却只能穿着剪掉标签的普通泳裤领奖。阿迪达斯创始人之子霍斯特·达斯勒由此看到专业泳装的空白,于 1973 年创立竞技泳装品牌 arena。\n此后 arena 经历多次易主,现由意大利公司运营,总部设在托伦蒂诺。Powerskin 竞速泳衣长年活跃于奥运与世锦赛领奖台,训练泳装则以高性价比深受泳队欢迎,是泳池里与速比涛分庭抗礼的重量级品牌。",
+   "products": [
+    {
+     "id": "arena-powerskin",
+     "name": "Powerskin 竞速泳衣",
+     "nameEn": "Powerskin",
+     "type": "竞速泳衣",
+     "price": {
+      "min": 800,
+      "max": 3500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Powerskin 竞速泳衣是意大利品牌 arena 的旗舰竞速系列,采用 Carbon 碳纤维压缩面料,在高强度比赛中提供肌肉支撑并降低水中阻力,贴身低阻。主要面向奥运、世锦赛等顶级赛事的职业选手与冲击成绩的竞技泳者。该系列是奥运与世锦赛领奖台上的常客,见证了 arena 自 1973 年创立以来在竞技游泳装备领域的专业地位。",
+     "highlights": [
+      "碳纤压缩",
+      "低阻贴身",
+      "领奖台常客"
+     ],
+     "tags": [
+      "游泳",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "arena-training-suit",
+     "name": "训练泳衣系列",
+     "nameEn": "Training Suit",
+     "type": "训练泳衣",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "训练泳衣系列是 arena 面向常年训练人群的大众泳装线,面料抗氯耐磨、版型包覆性好,久泡不松垮,价格比竞速线亲民不少。定位中高端训练装备,适合俱乐部成员、泳队采购与日常训练的游泳爱好者。凭借抗氯耐用与稳定版型,它是泳队采购的大众之选,体现了 arena 以竞技标准服务日常训练的品牌思路。",
+     "highlights": [
+      "抗氯耐磨",
+      "版型包覆",
+      "泳队常用"
+     ],
+     "tags": [
+      "游泳",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "arena-cobra",
+     "name": "Cobra 泳镜",
+     "nameEn": "Cobra",
+     "type": "泳镜",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Cobra 泳镜是 arena 的人气泳镜系列,采用超薄大镜片设计,带来广角视野,镜框贴合面部降低水阻,防雾性能持久。系列下覆盖竞赛与训练等不同场景的对应型号,可按需选择。定位中高端游泳配件,适合竞技选手、训练中的泳者及注重视野与舒适度的用户。作为品牌配件线的明星产品,它延续了 arena 的竞技游泳专业基因。",
+     "highlights": [
+      "广角视野",
+      "低阻贴合",
+      "持久防雾"
+     ],
+     "tags": [
+      "游泳",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "arena-powerfin",
+     "name": "Powerfin 脚蹼",
+     "nameEn": "Powerfin",
+     "type": "脚蹼",
+     "price": {
+      "min": 150,
+      "max": 350,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Powerfin 脚蹼是 arena 的短款硅胶训练脚蹼,采用硅胶材质柔软贴合脚型,腿部发力反馈直接,帮助泳者提升打腿效率与水感,改善自由泳打腿技术。定位专业训练辅助装备,主要面向游泳队训练、技术课与力量练习场景,也适合希望提升打腿水平的业余泳者。作为打腿训练的常用装备,它体现了 arena 在训练器材上的专业积累。",
+     "highlights": [
+      "硅胶短蹼",
+      "提升水感",
+      "打腿训练"
+     ],
+     "tags": [
+      "游泳",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "arena-cap",
+     "name": "硅胶泳帽",
+     "nameEn": "Silicone Cap",
+     "type": "泳帽",
+     "price": {
+      "min": 30,
+      "max": 100,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "硅胶泳帽是 arena 的经典必备小件,采用高弹性硅胶材质,包裹服帖不易脱落,能有效减少头发与氯水的接触,保护发质。颜色选择丰富,兼顾实用与个性表达。定位中高端游泳配件,适合各水平泳者的日常训练与比赛使用,也是泳包里的常备单品。作为泳池场景的通用装备,它以 arena 的品质标准提供了简单可靠的基础选择。",
+     "highlights": [
+      "高弹硅胶",
+      "服帖防脱",
+      "经典必备"
+     ],
+     "tags": [
+      "游泳",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "arena-fastpack",
+     "name": "Fastpack 背包",
+     "nameEn": "Fastpack",
+     "type": "泳包",
+     "price": {
+      "min": 200,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Fastpack 背包是 arena 的大容量水陆两用背包,设干湿分离仓,泳装泳镜与衣物分开放置,耐磨网布透气快干,肩背舒适。定位中高端运动收纳装备,适合游泳训练出行、比赛装备携带与健身通勤场景,是泳训人群最受欢迎的收纳装备之一。作为品牌装备生态的重要一环,它体现了 arena 对游泳者全场景需求的细致覆盖。",
+     "highlights": [
+      "干湿分离",
+      "大容量",
+      "透气耐磨"
+     ],
+     "tags": [
+      "游泳",
+      "收纳"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "descente",
+   "name": "迪桑特",
+   "nameEn": "DESCENTE",
+   "domain": "descente.com",
+   "categoryId": "sports",
+   "country": "日本",
+   "founded": 1935,
+   "hq": "大阪",
+   "tier": "高端",
+   "sub": "滑雪",
+   "tags": [
+    "滑雪",
+    "高端运动服",
+    "综训"
+   ],
+   "slogan": "",
+   "desc": "迪桑特 1935 年创立于日本大阪,以滑雪服起家,是日本高端综合运动服饰品牌,2016 年起由安踏集团运营中国市场,滑雪与高端运动服形象深入人心。",
+   "story": "迪桑特 1935 年以石本商店之名创立于大阪,1954 年起为日本滑雪选手制作比赛服,品牌名取自法语「下滑」,浓缩了它与滑雪运动的渊源。此后数十年,其滑雪服伴随日本选手在冬奥赛场屡创佳绩。\n2016 年,安踏集团与伊藤忠商事合资取得 DESCENTE 中国经营权,以高端滑雪、跑步与综训为核心,凭借精准的门店选址与高端运动形象实现高速增长,成为中国高端运动服饰市场表现最亮眼的品牌之一。",
+   "products": [
+    {
+     "id": "descente-ski-wear",
+     "name": "滑雪服系列",
+     "nameEn": "Ski Wear",
+     "type": "滑雪服",
+     "price": {
+      "min": 2000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "滑雪服系列是迪桑特的看家本领,品牌 1935 年创立以来的专业积淀在此集中体现。滑雪夹克与雪裤以专业剪裁、防风透湿面料与利落配色著称,兼顾防护性能与高级质感。定位高端市场,适合滑雪爱好者与注重雪场形象的都市玩家。凭借极高的雪场辨识度,迪桑特雪服已成为高端滑雪装备的代表符号,是品牌专业血统的最佳注脚。",
+     "highlights": [
+      "防风透湿",
+      "专业剪裁",
+      "雪场辨识度"
+     ],
+     "tags": [
+      "滑雪",
+      "高端"
+     ],
+     "image": null
+    },
+    {
+     "id": "descente-allterrain",
+     "name": "ALLTERRAIN 系列",
+     "nameEn": "ALLTERRAIN",
+     "type": "高端运动服",
+     "price": {
+      "min": 1000,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "ALLTERRAIN 系列是迪桑特的高端城市机能线,融合专业运动科技与都市设计语言,产品涵盖夹克、长裤与配件,主打全天候多场景穿着,防风透气与造型感兼备。定位高端市场,适合通勤、旅行与轻户外兼顾的都市人群。作为迪桑特品牌调性的代表系列,它把滑雪基因延展到日常生活,是运动机能风与高端品质结合的标杆之作。",
+     "highlights": [
+      "城市机能",
+      "全天候",
+      "品牌调性"
+     ],
+     "tags": [
+      "潮流",
+      "高端"
+     ],
+     "image": null
+    },
+    {
+     "id": "descente-down-jacket",
+     "name": "高端羽绒外套",
+     "nameEn": "Down Jacket",
+     "type": "羽绒服",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "高端羽绒外套是迪桑特以滑雪血统打造的功能羽绒服,填充与面料考究,高蓬保暖,经防泼水处理,兼顾保暖、轻量与造型感。定位高端秋冬市场,适合都市通勤、雪场周边穿着与冬季出行场景,单穿内搭皆有型。作为秋冬门店的主力单品,它承载了迪桑特在防寒工艺上的专业积累,是高端运动羽绒服中的口碑之选。",
+     "highlights": [
+      "高蓬保暖",
+      "防泼水",
+      "轻量有型"
+     ],
+     "tags": [
+      "秋冬",
+      "高端"
+     ],
+     "image": null
+    },
+    {
+     "id": "descente-running",
+     "name": "跑步系列",
+     "nameEn": "Running",
+     "type": "跑步服饰",
+     "price": {
+      "min": 500,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "跑步系列是迪桑特面向跑者群体的轻量服饰线,包含速干 T 恤、跑步短裤与压缩装备,面料透气速干,剪裁贴合亚洲身形,支撑长距离训练的舒适体验。定位高端跑步市场,适合马拉松爱好者、严肃跑者与注重穿着质感的运动人群。依托迪桑特的运动科技底蕴,该系列在高端跑步服饰中形成了独特的设计辨识度与专业口碑。",
+     "highlights": [
+      "速干透气",
+      "贴身剪裁",
+      "马拉松场景"
+     ],
+     "tags": [
+      "跑步",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "descente-training",
+     "name": "综合训练系列",
+     "nameEn": "Training",
+     "type": "训练服饰",
+     "price": {
+      "min": 400,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "综合训练系列是迪桑特面向健身房与日常运动的基础款产品线,面料高弹舒适、设计简洁利落,单穿内搭皆宜,兼顾训练功能与日常穿搭。定位高端市场的走量品类,适合健身人群、通勤运动两用的都市用户。作为品牌的大众基础线,它让更多消费者以相对亲民的门槛接触迪桑特的设计与品质,是品牌向下渗透的重要载体。",
+     "highlights": [
+      "高弹面料",
+      "简洁设计",
+      "健身百搭"
+     ],
+     "tags": [
+      "健身",
+      "日常"
+     ],
+     "image": null
+    },
+    {
+     "id": "descente-kids",
+     "name": "儿童滑雪服",
+     "nameEn": "Kids Ski",
+     "type": "童装",
+     "price": {
+      "min": 1000,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "儿童滑雪服是迪桑特承袭成人滑雪服工艺的童装线,防风保暖性能到位,面料与做工延续高端标准,配色活泼有童趣,支持亲子同风格穿搭。定位高端童装市场,适合家庭滑雪度假、儿童滑雪培训与冬季户外场景。它让家庭滑雪场景实现大人小孩风格统一的穿搭体验,延续迪桑特在滑雪领域的家族式专业形象。",
+     "highlights": [
+      "防风保暖",
+      "亲子同款",
+      "活泼配色"
+     ],
+     "tags": [
+      "童装",
+      "滑雪"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "lining",
+   "name": "李宁",
+   "nameEn": "LI-NING",
+   "domain": "lining.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 1990,
+   "hq": "北京",
+   "tier": "中高端",
+   "sub": "国产运动",
+   "tags": [
+    "篮球",
+    "跑步",
+    "国潮",
+    "羽毛球"
+   ],
+   "slogan": "一切皆有可能",
+   "desc": "李宁由体操王子李宁于 1990 年创立,是中国最具影响力的运动品牌之一,以篮球鞋与竞速跑鞋见长,「中国李宁」国潮线更让它登上国际时装周舞台。",
+   "story": "1990 年,退役体操名将李宁创立同名品牌,以领奖服与运动服起步,1992 年巴塞罗那奥运会起多次为中国代表团提供领奖装备。品牌长期签约中国国家队,在篮球、羽毛球等专业领域积累深厚。\n2018 年,「中国李宁」登陆纽约时装周,复古国潮设计引发轰动,推动品牌完成年轻化转型;飞电、绝影等碳板跑鞋与韦德之道签名鞋则在专业赛道赢得口碑。如今李宁稳居国产运动品牌第一梯队。",
+   "products": [
+    {
+     "id": "lining-feidian",
+     "name": "飞电系列跑鞋",
+     "nameEn": "Feidian",
+     "type": "竞速跑鞋",
+     "price": {
+      "min": 700,
+      "max": 2200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "飞电系列是李宁旗舰碳板竞速跑鞋,其中飞电 Ultra 配置顶级全掌碳板与超临界发泡中底,推进力与回弹表现出色。定位中高端马拉松竞速市场,主要面向马拉松比赛与高强度训练课的严肃跑者与精英选手。作为国产马拉松竞速鞋的代表作,飞电承载了李宁在专业跑鞋科技上的突破,是国产碳板跑鞋发展历程中的标志性系列。",
+     "highlights": [
+      "全掌碳板",
+      "超临界发泡",
+      "马拉松竞速"
+     ],
+     "tags": [
+      "跑步",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-wow",
+     "name": "韦德之道",
+     "nameEn": "Way of Wade",
+     "type": "篮球鞋",
+     "price": {
+      "min": 700,
+      "max": 1600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "韦德之道是李宁与 NBA 名人堂球星德维恩·韦德联合打造的签名篮球鞋系列,自 2012 年延续至今,配置与设计不断进化,融合实战性能与中国设计美学。定位中高端篮球市场,面向实战玩家与球鞋收藏爱好者。作为国产签名鞋的标杆,它是国产品牌签约顶级球星的开创性案例,在篮球与球鞋文化中具有长青的象征意义。",
+     "highlights": [
+      "韦德签名",
+      "长青系列",
+      "国产标杆"
+     ],
+     "tags": [
+      "篮球",
+      "签名鞋"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-chaoqing",
+     "name": "超轻系列跑鞋",
+     "nameEn": "Super Light",
+     "type": "轻量跑鞋",
+     "price": {
+      "min": 300,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "超轻系列是李宁延续二十余代的国民轻量跑鞋,单只鞋重控制出色,透气网面舒适,设计务实,性价比高。定位大众跑步市场,适合学生群体、日常慢跑与通勤健走人群。作为跑鞋领域的长青系列,超轻陪伴了一代代跑者的入门与成长,是李宁专业跑鞋谱系中口碑最广的产品之一,也是国产轻量跑鞋的经典代表。",
+     "highlights": [
+      "极致轻量",
+      "透气舒适",
+      "高性价比"
+     ],
+     "tags": [
+      "跑步",
+      "日常"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-china-lining",
+     "name": "中国李宁",
+     "nameEn": "CHINA LI-NING",
+     "type": "潮流服饰",
+     "price": {
+      "min": 300,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "中国李宁是李宁从纽约时装周走出的国潮主线,以复古运动与东方美学为设计语言,产品涵盖卫衣、外套与鞋款,将运动 heritage 与潮流表达融合。定位中高端时尚市场,面向年轻潮流人群与国货文化爱好者。作为国货时尚的标志性符号,中国李宁以时装周同源的设计刷新了外界对国产运动品牌的认知,是国潮浪潮的代表者。",
+     "highlights": [
+      "国潮设计",
+      "时装周同源",
+      "东方美学"
+     ],
+     "tags": [
+      "国潮",
+      "时尚"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-badfive",
+     "name": "反伍 BADFIVE",
+     "nameEn": "BADFIVE",
+     "type": "街头篮球鞋",
+     "price": {
+      "min": 400,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "反伍 BADFIVE 是李宁的街头实战篮球鞋系列,强调耐磨抗造与多场地通用性,价格亲民而配置扎实,融入街头篮球的潮流基因。定位大众实战市场,适合野球场爱好者、学生党与追求性价比的实战玩家。作为野球场出镜率很高的国产实战鞋,反伍以街头文化为根基,成为李宁篮球产品线中连接大众与潮流的重要一环。",
+     "highlights": [
+      "耐磨实战",
+      "街头基因",
+      "性价比高"
+     ],
+     "tags": [
+      "篮球",
+      "街头"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-yushuai",
+     "name": "驭帅系列篮球鞋",
+     "nameEn": "Yushuai",
+     "type": "篮球鞋",
+     "price": {
+      "min": 500,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "驭帅系列是李宁的长青团队款篮球鞋,历经十余代迭代,缓震与包裹均衡稳定,适配多种位置的打法需求。定位中高端实战市场,长期活跃于 CBA 赛场,深受锋线与内线球员信赖。作为国产团队实战鞋的代表,驭帅以稳定扎实的口碑积累了大量忠实用户,是李宁篮球科技下放与实战检验结合的经典产品。",
+     "highlights": [
+      "均衡稳定",
+      "CBA赛场",
+      "团队实战"
+     ],
+     "tags": [
+      "篮球",
+      "实战"
+     ],
+     "image": null
+    },
+    {
+     "id": "lining-badminton",
+     "name": "雷霆系列羽毛球拍",
+     "nameEn": "Axforce",
+     "type": "羽毛球拍",
+     "price": {
+      "min": 400,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雷霆系列是李宁专业羽毛球拍的主力产品线,中杆弹性与拍框稳定性出色,兼顾进攻威力与操控手感。定位中高端羽毛球装备市场,面向专业选手、业余高手与俱乐部用户。李宁长期赞助国家队,谌龙等名将曾使用其装备摘金夺银,雷霆系列以「国家队同款」的专业背书,成为国产羽毛球拍冲击国际品牌的代表作。",
+     "highlights": [
+      "国家队同款",
+      "中杆弹性",
+      "专业竞速"
+     ],
+     "tags": [
+      "羽毛球",
+      "专业"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "anta",
+   "name": "安踏",
+   "nameEn": "ANTA",
+   "domain": "anta.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 1991,
+   "hq": "晋江",
+   "tier": "大众",
+   "sub": "国产运动",
+   "tags": [
+    "综合运动",
+    "篮球",
+    "跑步",
+    "国民品牌"
+   ],
+   "slogan": "永不止步",
+   "desc": "安踏 1991 年创立于福建晋江,是中国规模最大的体育用品集团,以高性价比专业鞋服著称,旗下拥有斐乐、迪桑特等多个品牌,并多年赞助中国奥委会。",
+   "story": "安踏 1991 年诞生于「中国鞋都」晋江,从制鞋小厂起步,1999 年签下乒乓球奥运冠军孔令辉并投放央视广告,「我选择,我喜欢」一夜之间家喻户晓。2009 年起,安踏成为中国奥委会官方合作伙伴,伴随中国健儿征战历届奥运。\n集团先后将斐乐中国、迪桑特、可隆收入麾下,并联合财团收购始祖鸟母公司 Amer Sports,构建多品牌矩阵。主品牌以专业与质价比深耕大众市场,营收规模多年位居中国体育用品行业之首。",
+   "products": [
+    {
+     "id": "anta-kt",
+     "name": "KT 系列篮球鞋",
+     "nameEn": "KT Series",
+     "type": "篮球鞋",
+     "price": {
+      "min": 500,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "KT 系列是安踏与 NBA 球星克莱·汤普森合作的签名篮球鞋,历经九代迭代,缓震扎实、实战耐磨,设计持续进化。定位大众至中高端篮球市场,面向实战玩家与学生群体,价格带覆盖较广。作为国产签名鞋中口碑与销量兼具的系列,KT 见证了安踏与国际顶级球星合作的深耕历程,是国产实战球鞋的长青标杆。",
+     "highlights": [
+      "汤普森签名",
+      "实战耐磨",
+      "长青系列"
+     ],
+     "tags": [
+      "篮球",
+      "签名鞋"
+     ],
+     "image": null
+    },
+    {
+     "id": "anta-c202",
+     "name": "C202 系列跑鞋",
+     "nameEn": "C202",
+     "type": "竞速跑鞋",
+     "price": {
+      "min": 600,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "C202 系列是安踏碳板竞速跑鞋的代表,面向马拉松比赛与高强度训练场景,中底回弹与碳板推进力出色,助力跑者提升配速。定位大众竞速市场,适合冲击个人最好成绩的大众跑者与业余精英。作为安踏跑步科技的重要载体,C202 让碳板竞速技术走向更广泛的跑者群体,是国产碳板跑鞋阵营中的口碑之作。",
+     "highlights": [
+      "碳板推进",
+      "马拉松竞速",
+      "刷新PB"
+     ],
+     "tags": [
+      "跑步",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "anta-hydrogen",
+     "name": "氢科技跑鞋",
+     "nameEn": "Hydrogen",
+     "type": "轻量跑鞋",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "氢科技跑鞋是安踏主打极致轻量的跑鞋产品,单只重量低至百克级,上脚几乎无负担,轻量化程度在业内颇具话题度。定位大众入门市场,价格亲民,适合通勤、健走与轻松慢跑人群,也常作为夏季换脚的舒适之选。作为「轻」概念的代表性产品,氢科技以夸张的轻量卖点出圈,成为安踏跑步线吸引大众用户的流量单品。",
+     "highlights": [
+      "百克轻量",
+      "无负担",
+      "通勤慢跑"
+     ],
+     "tags": [
+      "跑步",
+      "日常"
+     ],
+     "image": null
+    },
+    {
+     "id": "anta-champions",
+     "name": "冠军系列",
+     "nameEn": "Champions",
+     "type": "运动服饰",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "冠军系列是安踏借势中国奥委会合作身份打造的运动时尚线,以「安踏冠军」为标识,产品涵盖卫衣、T 恤与鞋款,融入奥运与冠军元素设计。定位大众运动时尚市场,适合日常穿搭与奥运观赛场景,奥运年热度尤高。作为安踏「国民心智」的重要载体,冠军系列把奥运基因转化为大众可穿的产品,强化了品牌与体育荣光的绑定。",
+     "highlights": [
+      "奥运基因",
+      "运动时尚",
+      "国民心智"
+     ],
+     "tags": [
+      "时尚",
+      "奥运"
+     ],
+     "image": null
+    },
+    {
+     "id": "anta-kids",
+     "name": "安踏儿童",
+     "nameEn": "Anta Kids",
+     "type": "童装",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "安踏儿童是国内规模领先的儿童运动品牌,产品覆盖跑鞋、篮球鞋与运动服,以护足科技与分龄设计见长,针对不同成长阶段提供适配装备。定位大众童装市场,适合学龄儿童的日常运动、上学与体育课场景,是家长选购童鞋的热门选项。依托安踏的渠道与研发实力,安踏儿童在国产童鞋市场占据重要地位,是儿童运动装备的代表性品牌。",
+     "highlights": [
+      "分龄设计",
+      "护足科技",
+      "热门童鞋"
+     ],
+     "tags": [
+      "童装",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "anta-apparel",
+     "name": "综合运动服饰",
+     "nameEn": "Sportswear",
+     "type": "运动服",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "综合运动服饰是安踏覆盖健身、跑步与休闲场景的基础服装线,面料速干亲肤、版型宽松舒适,品类涵盖 T 恤、卫衣、长裤等基础款。定位大众市场,适合日常健身、居家休闲与通勤多场景,依托全国门店网络常年热销。作为安踏的基本盘品类,该系列以全场景适用和高性价比,支撑起品牌在大众运动服饰市场的广泛渗透。",
+     "highlights": [
+      "速干亲肤",
+      "宽松舒适",
+      "全场景"
+     ],
+     "tags": [
+      "健身",
+      "日常"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "xtep",
+   "name": "特步",
+   "nameEn": "XTEP",
+   "domain": "xtep.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 2001,
+   "hq": "泉州",
+   "tier": "大众",
+   "sub": "国产运动",
+   "tags": [
+    "跑步",
+    "马拉松",
+    "大众运动"
+   ],
+   "slogan": "非一般的感觉",
+   "desc": "特步 2001 年创立于福建泉州,以跑步为核心赛道,160X 系列碳板跑鞋助力多位中国选手刷新纪录,是国内马拉松赛场出场率领先的专业品牌。",
+   "story": "特步 2001 年由丁水波在泉州创立,早年以时尚运动定位和谢霆锋代言走红,「特步,非一般的感觉」家喻户晓。2015 年前后品牌战略转向专业跑步,建立跑步科学实验室,全面深耕马拉松赛道。\n160X 系列碳板跑鞋打破国际品牌对顶级竞速鞋的垄断,何杰穿着它刷新马拉松全国纪录;集团还先后运营索康尼与迈乐中国业务,收购盖世威、帕拉丁等品牌。如今特步是国内马拉松赛场出场率最高的品牌之一。",
+   "products": [
+    {
+     "id": "xtep-160x",
+     "name": "160X 系列跑鞋",
+     "nameEn": "160X",
+     "type": "竞速跑鞋",
+     "price": {
+      "min": 700,
+      "max": 1400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "160X 系列是特步旗舰碳板竞速跑鞋,采用全掌碳板与高回弹中底,是中国精英马拉松选手的战靴,多位国家队选手穿着它刷新全国纪录。定位大众至专业竞速市场,面向马拉松比赛与精英训练场景。作为国产碳板鞋的标杆之作,160X 以「冠军跑鞋」形象奠定了特步在专业跑步领域的地位,是国产竞速跑鞋绕不开的里程碑。",
+     "highlights": [
+      "全掌碳板",
+      "精英战靴",
+      "全国纪录"
+     ],
+     "tags": [
+      "跑步",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "xtep-260",
+     "name": "260 系列跑鞋",
+     "nameEn": "260",
+     "type": "训练跑鞋",
+     "price": {
+      "min": 300,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "260 系列是特步 160X 的训练搭档,缓震与支撑均衡,可胜任长距离慢跑与课表训练,兼顾客群所需的耐用性与舒适度。定位大众训练市场,价格亲民,适合月跑量稳定的业余跑者、马拉松备训人群与日常健身跑者。作为大众跑者的「月跑量担当」,260 与 160X 构成特步「竞速+训练」的产品组合,巩固了品牌在跑步领域的专业形象。",
+     "highlights": [
+      "均衡缓震",
+      "长距离训练",
+      "高性价比"
+     ],
+     "tags": [
+      "跑步",
+      "训练"
+     ],
+     "image": null
+    },
+    {
+     "id": "xtep-casual-shoes",
+     "name": "潮流板鞋系列",
+     "nameEn": "Casual Sneakers",
+     "type": "板鞋",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "潮流板鞋系列是特步面向年轻群体的休闲鞋款线,融合复古板鞋与厚底设计,配色活泼,日常穿搭舒适百搭。定位大众休闲市场,适合学生与年轻上班族的通勤、逛街与日常出行场景,依托特步万店渠道常年热销。作为特步从跑步向休闲时尚延展的载体,该系列以亲民价格与百搭造型,成为品牌触达泛人群的重要品类。",
+     "highlights": [
+      "复古板鞋",
+      "活泼配色",
+      "百搭日常"
+     ],
+     "tags": [
+      "休闲",
+      "潮流"
+     ],
+     "image": null
+    },
+    {
+     "id": "xtep-kids",
+     "name": "特步儿童",
+     "nameEn": "Xtep Kids",
+     "type": "童装",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "特步儿童是特步旗下儿童运动品牌,主打跑步与综合训练童鞋童装,强调防滑护足与透气舒适,兼顾耐用与成长期脚型需求。定位大众童装市场,适合儿童日常运动、上学与户外活动场景,是国内童装市场的重要玩家。依托特步在跑步领域的专业积累,特步儿童以「跑步童鞋」为特色标签,在国产童鞋细分市场中形成了清晰的品牌认知。",
+     "highlights": [
+      "防滑护足",
+      "透气舒适",
+      "跑步童鞋"
+     ],
+     "tags": [
+      "童装",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "xtep-running-apparel",
+     "name": "跑步服饰系列",
+     "nameEn": "Running Apparel",
+     "type": "跑步服饰",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "跑步服饰系列是特步的轻量速干服装线,产品包含 T 恤、短裤与压缩裤,面料透气贴身,适配马拉松比赛与日常训练场景,常与跑鞋组合成套销售。定位大众跑步市场,适合业余跑者、马拉松参赛人群与晨跑爱好者。依托特步「专注跑步」的品牌战略,该系列与 160X、260 等跑鞋形成完整跑步生态,强化了品牌的专业跑者心智。",
+     "highlights": [
+      "速干轻量",
+      "赛事套装",
+      "透气贴身"
+     ],
+     "tags": [
+      "跑步",
+      "服饰"
+     ],
+     "image": null
+    },
+    {
+     "id": "xtep-jackets",
+     "name": "运动外套系列",
+     "nameEn": "Sportswear Jackets",
+     "type": "运动外套",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "运动外套系列是特步覆盖卫衣、夹克与轻量冲锋衣的基础外套产品线,面料防风保暖,兼顾通勤与运动场景,设计务实百搭。定位大众市场,性价比突出,适合秋冬日常穿着、运动热身与轻户外出行。依托特步庞大的门店渠道网络,该系列常年稳定走量,是品牌在跑步之外触达大众日常穿着需求的重要品类。",
+     "highlights": [
+      "防风保暖",
+      "通勤运动两用",
+      "高性价比"
+     ],
+     "tags": [
+      "秋冬",
+      "日常"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "361",
+   "name": "361°",
+   "nameEn": "361 Degrees",
+   "domain": "361sport.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 2003,
+   "hq": "晋江",
+   "tier": "大众",
+   "sub": "国产运动",
+   "tags": [
+    "跑步",
+    "篮球",
+    "综合运动"
+   ],
+   "slogan": "多一度热爱",
+   "desc": "361° 2003 年创立于福建晋江,品牌名寓意从 360° 到 361° 的「多一度热爱」,以跑步与篮球为核心,产品性价比高,门店遍布全国各级市场。",
+   "story": "361° 2003 年脱胎于晋江体育用品产业集群,以「多一度热爱」为口号迅速完成全国渠道布局,2010 年成为广州亚运会官方合作伙伴,品牌知名度大幅跃升,跻身国产运动品牌第一阵营。\n近年 361° 深耕专业赛道:飞燃系列碳板跑鞋在马拉松赛场站稳脚跟,篮球领域签约 NBA 扣篮王阿隆·戈登,AG 系列签名鞋热度攀升。品牌还积极出海,产品已进入海外多个国家和地区的市场。",
+   "products": [
+    {
+     "id": "361-feiran",
+     "name": "飞燃系列跑鞋",
+     "nameEn": "Feiran",
+     "type": "竞速跑鞋",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "飞燃系列是 361° 的旗舰碳板竞速跑鞋,采用全掌碳板与高回弹中底,推进力与回弹表现出色,助力大众选手冲击马拉松个人最好成绩。定位大众竞速市场,面向马拉松比赛与强度训练课的进阶跑者。作为国产碳板鞋中的口碑之作,飞燃体现了 361° 在专业跑步科技上的持续投入,是品牌向上突破的代表性产品线。",
+     "highlights": [
+      "全掌碳板",
+      "强推进力",
+      "冲击PB"
+     ],
+     "tags": [
+      "跑步",
+      "竞速"
+     ],
+     "image": null
+    },
+    {
+     "id": "361-ag",
+     "name": "AG 系列篮球鞋",
+     "nameEn": "AG Series",
+     "type": "篮球鞋",
+     "price": {
+      "min": 400,
+      "max": 900,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AG 系列是 361° 与 NBA 扣篮王阿隆·戈登合作的签名篮球鞋,缓震厚实、包裹到位,实战性能与扣篮观赏性兼备。定位大众篮球市场,面向实战玩家与联名鞋爱好者,话题度与实用性兼具。作为国产品牌联名鞋的热门系列,AG 凭借戈登的扣篮形象与扎实配置出圈,成为 361° 篮球线最具辨识度的明星产品。",
+     "highlights": [
+      "戈登签名",
+      "厚实缓震",
+      "实战联名"
+     ],
+     "tags": [
+      "篮球",
+      "签名鞋"
+     ],
+     "image": null
+    },
+    {
+     "id": "361-training-shoes",
+     "name": "综合训练鞋",
+     "nameEn": "Training Shoes",
+     "type": "训练鞋",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "综合训练鞋是 361° 面向健身房与日常运动的训练鞋系列,鞋底防滑稳定,鞋面包裹舒适,兼顾力量训练的支撑与轻有氧的灵活。定位大众健身市场,适合健身房撸铁、体能课与日常综训人群。作为品牌健身场景的基础款,该系列以百搭实用与亲民价格,满足了大众用户「一鞋多练」的需求,是 361° 训练品类的口碑之选。",
+     "highlights": [
+      "防滑稳定",
+      "健身百搭",
+      "舒适包裹"
+     ],
+     "tags": [
+      "健身",
+      "日常"
+     ],
+     "image": null
+    },
+    {
+     "id": "361-kids",
+     "name": "361°儿童",
+     "nameEn": "361 Kids",
+     "type": "童装",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "361° 儿童是 361° 旗下儿童运动产品线,涵盖跑鞋、板鞋与运动服,以舒适耐用、价格实惠见长,设计兼顾童趣与实用性。定位大众童装市场,尤其广受下沉市场家庭欢迎,适合儿童日常运动、上学与玩耍场景。依托 361° 的渠道覆盖与制鞋经验,361° 儿童在性价比童鞋市场占据稳固位置,是家庭选购儿童运动装备的常见选择。",
+     "highlights": [
+      "舒适耐用",
+      "价格实惠",
+      "下沉市场"
+     ],
+     "tags": [
+      "童装",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "361-apparel",
+     "name": "运动服饰系列",
+     "nameEn": "Sportswear",
+     "type": "运动服",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "运动服饰系列是 361° 覆盖跑步、健身与休闲场景的基础服装线,速干 T 恤与卫衣常年热销,版型宽松、面料亲肤,男女老少皆宜。定位大众市场,适合日常锻炼、居家休闲与全家选购场景。作为 361° 的基本盘品类,该系列以全家适穿的定位与稳定品质,支撑起品牌在大众运动服饰市场的广泛覆盖,是门店走量的主力。",
+     "highlights": [
+      "速干亲肤",
+      "全家适穿",
+      "常年热销"
+     ],
+     "tags": [
+      "日常",
+      "服饰"
+     ],
+     "image": null
+    },
+    {
+     "id": "361-international",
+     "name": "国际线跑鞋",
+     "nameEn": "International Line",
+     "type": "跑鞋",
+     "price": {
+      "min": 400,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "国际线跑鞋是 361° 由国际团队设计的海外产品线,设计语言更趋潮流简约,工艺与配色在传统国产跑鞋基础上更显国际范,在海外跑步圈层积累了良好口碑。定位大众至中高端跑鞋市场,面向海外跑者与国内追求新鲜设计的玩家,部分款式国内亦可购入。作为 361° 国际化战略的载体,该系列展现了国产品牌走出去的设计实力。",
+     "highlights": [
+      "国际设计",
+      "潮流简约",
+      "海外口碑"
+     ],
+     "tags": [
+      "跑步",
+      "潮流"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "peak",
+   "name": "匹克",
+   "nameEn": "PEAK",
+   "domain": "peak.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 1989,
+   "hq": "晋江",
+   "tier": "大众",
+   "sub": "国产运动",
+   "tags": [
+    "篮球",
+    "科技跑鞋",
+    "综合运动"
+   ],
+   "slogan": "I Can Play",
+   "desc": "匹克 1989 年创立于福建晋江,以篮球装备起家,态极科技跑鞋与多位 NBA 球星签名鞋广为人知,产品以扎实配置与高性价比见长。",
+   "story": "匹克 1989 年由许景南在晋江创立,从篮球装备切入市场。2000 年代起,品牌先后签约托尼·帕克、德怀特·霍华德等多位 NBA 球星,推出签名鞋系列,成为中国运动品牌国际化的先行者之一。\n2018 年底发布的态极自适科技中底引发市场轰动,态极跑鞋与拖鞋成为现象级爆款。如今匹克以态极、澎湃等科技矩阵覆盖跑鞋、篮球与休闲品类,并持续拓展国际体育赞助版图,深耕全球市场。",
+   "products": [
+    {
+     "id": "peak-taichi-running",
+     "name": "态极系列跑鞋",
+     "nameEn": "Taichi",
+     "type": "缓震跑鞋",
+     "price": {
+      "min": 300,
+      "max": 700,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "态极系列是匹克搭载态极自适科技中底的缓震跑鞋,材料兼具柔软与回弹,慢走时柔软、快跑时变硬的智能脚感一经推出便引发抢购热潮。定位大众跑步市场,适合慢跑、通勤与日常穿着的泛运动人群。作为国产品牌近年最具话题度的跑鞋系列,态极以现象级爆款姿态刷新了市场对匹克的认知,成为国产中底科技的代表之一。",
+     "highlights": [
+      "态极自适",
+      "智能脚感",
+      "现象级爆款"
+     ],
+     "tags": [
+      "跑步",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "peak-taichi-slippers",
+     "name": "态极拖鞋",
+     "nameEn": "Taichi Slippers",
+     "type": "拖鞋",
+     "price": {
+      "min": 100,
+      "max": 250,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "态极拖鞋是匹克态极科技的休闲衍生爆品,厚底软弹、上脚即陷,踩踏感舒适,适合日常居家、通勤与运动后恢复穿着。定位大众休闲市场,价格亲民,覆盖男女多尺码。作为长期位居国产拖鞋销量前列的爆款,态极拖鞋把专业中底科技带入日常起居场景,以口碑裂变带动了匹克态极品牌的破圈,是科技下放大众生活的典型案例。",
+     "highlights": [
+      "软弹厚底",
+      "爆款拖鞋",
+      "恢复舒适"
+     ],
+     "tags": [
+      "休闲",
+      "日常"
+     ],
+     "image": null
+    },
+    {
+     "id": "peak-tp9",
+     "name": "TP9 签名鞋",
+     "nameEn": "TP9",
+     "type": "篮球鞋",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "匹克与NBA传奇控卫托尼·帕克合作的签名篮球鞋系列,定位于灵活启动型后卫实战鞋,中底反应迅速、包裹与支撑稳定,历经多代持续迭代打磨。适合速度型后卫与日常实战玩家,价格亲民。作为国产运动品牌与国际球星合作的代表系列,在实战圈口碑扎实,是匹克篮球线的技术名片。",
+     "highlights": [
+      "帕克签名",
+      "启动灵活",
+      "实战口碑"
+     ],
+     "tags": [
+      "篮球",
+      "签名鞋"
+     ],
+     "image": null
+    },
+    {
+     "id": "peak-dh",
+     "name": "霍华德系列篮球鞋",
+     "nameEn": "DH Series",
+     "type": "篮球鞋",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "匹克与NBA中锋德怀特·霍华德合作的中锋签名鞋,定位内线实战,中底缓震厚实、鞋帮支撑到位,强调落地保护与内线对抗。适合大体重球员与内线打法爱好者,价格亲民。该系列历经多代迭代,是匹克篮球线与国际中锋合作的代表产品,实战口碑良好。",
+     "highlights": [
+      "霍华德签名",
+      "内线缓震",
+      "大体重友好"
+     ],
+     "tags": [
+      "篮球",
+      "实战"
+     ],
+     "image": null
+    },
+    {
+     "id": "peak-basketball",
+     "name": "匹克篮球",
+     "nameEn": "PEAK Basketball",
+     "type": "篮球",
+     "price": {
+      "min": 80,
+      "max": 250,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "匹克经典篮球产品,定位大众运动球类,表皮材质手感扎实、耐磨抗造,气密性良好,覆盖室内外不同场地。适合校园体育课、社区野球场与日常训练使用。以扎实品质与亲民价格成为学生与篮球爱好者中的常见选择,是匹克大众运动形象的重要组成部分。",
+     "highlights": [
+      "手感扎实",
+      "耐磨抗造",
+      "校园常见"
+     ],
+     "tags": [
+      "篮球",
+      "器材"
+     ],
+     "image": null
+    },
+    {
+     "id": "peak-sportswear",
+     "name": "运动服饰系列",
+     "nameEn": "Sportswear",
+     "type": "运动服",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "匹克以态极科技延伸出的运动服装线,涵盖速干上衣、卫衣与运动裤,面料亲肤速干、设计年轻,延续品牌科技卖点。适合日常运动、通勤与休闲穿搭人群,价格亲民。作为品牌门店的基础走量品类,体现了匹克从专业球鞋向大众运动生活方式的延伸。",
+     "highlights": [
+      "年轻设计",
+      "亲肤速干",
+      "价格亲民"
+     ],
+     "tags": [
+      "日常",
+      "服饰"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "erke",
+   "name": "鸿星尔克",
+   "nameEn": "ERKE",
+   "domain": "erke.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 2000,
+   "hq": "泉州",
+   "tier": "平价",
+   "sub": "国产运动",
+   "tags": [
+    "运动鞋服",
+    "高性价比",
+    "国民品牌"
+   ],
+   "slogan": "To Be No.1",
+   "desc": "鸿星尔克 2000 年创立于福建泉州,以高性价比运动鞋服服务大众市场,2021 年因低调捐赠走红全网,「国货之光」的形象深入人心,主打基本款运动装备。",
+   "story": "鸿星尔克 2000 年创立于泉州,以运动鞋服起家,「To Be No.1」的口号伴随它完成全国渠道铺设,并先后赞助多项国内外体育赛事,逐步站稳大众市场。\n2021 年河南暴雨期间,鸿星尔克因低调捐赠物资引发全网「野性消费」,门店被抢购一空。此后品牌回归产品本身,以奇弹跑鞋与扎实的基本款持续服务消费者,成为中国高性价比国货的代表之一。",
+   "products": [
+    {
+     "id": "erke-qitan",
+     "name": "奇弹跑鞋",
+     "nameEn": "Qitan",
+     "type": "缓震跑鞋",
+     "price": {
+      "min": 200,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克主打缓震科技的专业跑鞋,定位大众缓震慢跑,中底回弹柔软、落地稳定,兼顾舒适与基础支撑。适合大众跑者日常慢跑、健走与通勤穿着,价格亲民、性价比突出。作为品牌专业跑步线的代表作,承载了鸿星尔克以科技升级形象的努力。",
+     "highlights": [
+      "软弹中底",
+      "落地稳定",
+      "高性价比"
+     ],
+     "tags": [
+      "跑步",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "erke-walking",
+     "name": "舒适健步鞋",
+     "nameEn": "Walking Shoes",
+     "type": "健步鞋",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克面向日常通勤与健走场景的舒适健步鞋,鞋底软弹防滑、鞋面轻透,穿脱方便,注重行走舒适度。特别适合中老年消费者与注重实用的家庭用户,价格平易近人。是鸿星尔克平价实用路线的代表品类,在下沉市场与家庭消费中广受欢迎。",
+     "highlights": [
+      "软弹防滑",
+      "轻透鞋面",
+      "中老年友好"
+     ],
+     "tags": [
+      "日常",
+      "健走"
+     ],
+     "image": null
+    },
+    {
+     "id": "erke-basketball",
+     "name": "篮球鞋系列",
+     "nameEn": "Basketball Shoes",
+     "type": "篮球鞋",
+     "price": {
+      "min": 200,
+      "max": 500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克覆盖实战与训练场景的篮球鞋产品线,缓震与包裹配置扎实,鞋底耐磨,价格多在两三百元区间。适合预算有限的学生党与日常实战玩家,是国产平价实战鞋中常见的选择。该产品线以高性价比延续了品牌「国民运动装备」的大众形象。",
+     "highlights": [
+      "扎实缓震",
+      "学生友好",
+      "实战耐磨"
+     ],
+     "tags": [
+      "篮球",
+      "学生"
+     ],
+     "image": null
+    },
+    {
+     "id": "erke-tshirt",
+     "name": "运动T恤系列",
+     "nameEn": "Sports T-Shirts",
+     "type": "运动T恤",
+     "price": {
+      "min": 40,
+      "max": 150,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克基础款运动T恤系列,含速干与纯棉两种路线,透气吸汗、版型宽松,工艺简单务实,价格低至几十元。适合日常运动、居家与休闲穿着,男女老少皆宜。作为品牌门店销量最大的品类之一,以「便宜大碗」的形象成为国民平价运动的代表性单品。",
+     "highlights": [
+      "速干吸汗",
+      "宽松版型",
+      "便宜大碗"
+     ],
+     "tags": [
+      "日常",
+      "服饰"
+     ],
+     "image": null
+    },
+    {
+     "id": "erke-jacket",
+     "name": "运动外套系列",
+     "nameEn": "Jackets",
+     "type": "运动外套",
+     "price": {
+      "min": 100,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克秋冬外套产品线,涵盖夹克、卫衣与轻量冲锋衣,防风保暖、耐穿抗造,面料务实耐用。适合通勤、户外活动与家庭日常穿着,以极致性价比覆盖全家全年所需。该系列体现了品牌在平价大众市场中的扎实根基,口碑与复购俱佳。",
+     "highlights": [
+      "防风保暖",
+      "耐穿抗造",
+      "性价比极致"
+     ],
+     "tags": [
+      "秋冬",
+      "户外"
+     ],
+     "image": null
+    },
+    {
+     "id": "erke-kids",
+     "name": "儿童运动系列",
+     "nameEn": "Kids",
+     "type": "童装",
+     "price": {
+      "min": 60,
+      "max": 250,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "鸿星尔克儿童运动产品线,涵盖童鞋与运动服饰,主打结实耐穿与亲肤面料,兼顾活泼设计与安全细节。适合成长期孩子的日常运动、上学与户外活动,价格亲民。作为品牌家庭化布局的重要一环,延续鸿星尔克「平价之选」的国民口碑。",
+     "highlights": [
+      "结实耐穿",
+      "亲肤面料",
+      "平价之选"
+     ],
+     "tags": [
+      "童装",
+      "运动"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "snowpeak",
+   "name": "雪峰",
+   "nameEn": "Snow Peak",
+   "domain": "snowpeak.com",
+   "categoryId": "sports",
+   "country": "日本",
+   "founded": 1958,
+   "hq": "三条市(新潟县)",
+   "tier": "高端",
+   "sub": "户外",
+   "tags": [
+    "露营",
+    "户外",
+    "精工装备"
+   ],
+   "slogan": "",
+   "desc": "雪峰 1958 年创立于日本新潟县三条市,以钛合金餐具与焚火台闻名,是精致露营美学的代表品牌,产品涵盖帐篷、炉具与户外服饰。",
+   "story": "1958 年,登山家山井幸雄在新潟县三条市创立雪峰,从攀岩用岩钉与登山装备起步。品牌坚持日本本土制造,以精湛金属加工工艺打造焚火台、钛餐具等产品,树立了全球露营装备的工艺标杆。\n山井家族三代经营下,雪峰将业务从装备延伸至服饰、营地与餐饮,倡导「与自然共生」的生活方式。焚火台与经典帐篷是全球露营爱好者的梦想单品,在中国精致露营热潮中同样一帐难求。",
+   "products": [
+    {
+     "id": "snowpeak-takibi-fire",
+     "name": "焚火台",
+     "nameEn": "Takibi Fire & Grill",
+     "type": "焚火台",
+     "price": {
+      "min": 1000,
+      "max": 3500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰最具标志性的不锈钢焚火装备,定位高端精致露营核心单品,不锈钢精密加工,可烧柴亦可架网烧烤,组装稳固、做工严丝合缝。适合精致露营、庭院焚火与野炊场景。作为营地「火文化」的图腾级单品,是雪峰工艺美学与露营哲学的集中体现,深受全球露营爱好者推崇。",
+     "highlights": [
+      "不锈钢精工",
+      "烧柴烧烤两用",
+      "图腾单品"
+     ],
+     "tags": [
+      "露营",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "snowpeak-amenity-dome",
+     "name": "Amenity Dome 帐篷",
+     "nameEn": "Amenity Dome",
+     "type": "帐篷",
+     "price": {
+      "min": 3000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰长销三十余年的经典穹顶帐篷,定位家庭露营主力帐型,抗风结构稳定、内部空间宽敞,面料与做工经久耐用。适合家庭露营与严酷环境下的长时间使用。作为日本露营文化中的常青经典,见证并参与塑造了现代日式精致露营的审美与标准。",
+     "highlights": [
+      "抗风稳定",
+      "空间宽敞",
+      "长销经典"
+     ],
+     "tags": [
+      "露营",
+      "帐篷"
+     ],
+     "image": null
+    },
+    {
+     "id": "snowpeak-titanium-cookware",
+     "name": "钛合金餐具",
+     "nameEn": "Titanium Cookware",
+     "type": "户外餐具",
+     "price": {
+      "min": 300,
+      "max": 1000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰以纯钛打造的轻量餐具与锅具系列,定位轻量化户外炊具,重量极轻、导热适中且无金属异味,部分单品可折叠收纳,几乎不占空间。适合登山野炊、轻量露营与旅行便携使用。作为钛金属户外餐具的代表之作,是雪峰材料工艺与日式极简美学的名片。",
+     "highlights": [
+      "纯钛轻量",
+      "无异味",
+      "折叠收纳"
+     ],
+     "tags": [
+      "露营",
+      "轻量"
+     ],
+     "image": null
+    },
+    {
+     "id": "snowpeak-hammer",
+     "name": "铝合金锤",
+     "nameEn": "Aluminum Hammer",
+     "type": "营地工具",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰用于打入与拔出营钉的铝合金锤,定位精致露营营地工具,铝合金锻造坚固耐用,握持顺手、配重合理。适合精致露营玩家搭建天幕与帐篷时使用。作为「仪式感」十足的小装备,体现了雪峰连营地工具也毫不将就的极致态度,是品牌美学延展的细节单品。",
+     "highlights": [
+      "铝合金锻造",
+      "打拔营钉",
+      "仪式感"
+     ],
+     "tags": [
+      "露营",
+      "工具"
+     ],
+     "image": null
+    },
+    {
+     "id": "snowpeak-lantern",
+     "name": "露营灯系列",
+     "nameEn": "Lanterns",
+     "type": "露营灯",
+     "price": {
+      "min": 500,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰从汽灯到LED营灯的完整照明产品线,定位营地氛围装备,黄铜与不锈钢材质质感出众,暖光柔和、氛围绝佳。适合营地夜间照明、氛围营造与家居陈设。作为雪峰美学的重要组成,其露营灯兼具功能与收藏价值,是精致露营爱好者心中的经典单品。",
+     "highlights": [
+      "金属质感",
+      "暖光氛围",
+      "美学单品"
+     ],
+     "tags": [
+      "露营",
+      "氛围"
+     ],
+     "image": null
+    },
+    {
+     "id": "snowpeak-takibi-apparel",
+     "name": "Takibi 服饰系列",
+     "nameEn": "Takibi Wear",
+     "type": "户外服饰",
+     "price": {
+      "min": 500,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "雪峰以篝火场景为灵感开发的户外服饰系列,定位山系户外服装,面料厚实耐磨,版型日系宽松,兼顾营地活动与日常城市穿搭。深受山系穿搭爱好者喜爱。作为户外品牌服饰线中辨识度极高的存在,是「露营风」穿搭文化的代表符号之一。",
+     "highlights": [
+      "篝火灵感",
+      "日系宽松",
+      "山系穿搭"
+     ],
+     "tags": [
+      "服饰",
+      "山系"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "montbell",
+   "name": "蒙贝尔",
+   "nameEn": "Mont-bell",
+   "domain": "montbell.com",
+   "categoryId": "sports",
+   "country": "日本",
+   "founded": 1975,
+   "hq": "大阪",
+   "tier": "中高端",
+   "sub": "户外",
+   "tags": [
+    "登山",
+    "徒步",
+    "轻量化"
+   ],
+   "slogan": "功能即美",
+   "desc": "蒙贝尔 1975 年创立于日本大阪,由登山家辰野勇创立,以轻量化的登山徒步装备著称,羽绒、风壳与雨具等单品以高性价比享誉亚洲山友圈。",
+   "story": "1975 年,曾登顶马特洪峰北壁的登山家辰野勇在大阪创立蒙贝尔,立志做「登山家做给登山家的装备」。品牌以轻量化与功能性为信条,自研面料与科技,产品设计高度务实,从不追逐花哨噱头。\n从 Zeo-Line 保暖内衣到超轻风壳与钛水壶,蒙贝尔的单品以高完成度与亲民价格享誉亚洲山友圈,被誉为「性价比之王」。品牌在日本本土开设数百家门店,是日本户外产业的国民品牌。",
+   "products": [
+    {
+     "id": "montbell-down-parka",
+     "name": "羽绒外套",
+     "nameEn": "Down Parka",
+     "type": "羽绒服",
+     "price": {
+      "min": 800,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔的代表性羽绒外套,定位轻量保暖户外服饰,采用高蓬松度鹅鸭绒与轻薄面料,保暖效率高、收纳体积小。适合城市通勤与山地徒步保暖,山城两用。作为日系户外「轻量实用」理念的代表作,以扎实的填充与做工在山友与都市用户中均有良好口碑。",
+     "highlights": [
+      "高蓬羽绒",
+      "轻量收纳",
+      "山城两用"
+     ],
+     "tags": [
+      "保暖",
+      "轻量"
+     ],
+     "image": null
+    },
+    {
+     "id": "montbell-wind-shell",
+     "name": "风壳 Wind Shell",
+     "nameEn": "Wind Shell",
+     "type": "防风外套",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔超轻量防风外套,定位应急防护型户外单品,采用轻薄面料,收纳后仅水瓶大小,防风与透气性能均衡。适合徒步、越野跑与日常出行时作为背包常备,以备山间突起的风雨降温。作为「轻量主义」装备哲学的代表作,是日本山友圈口耳相传的安心单品。",
+     "highlights": [
+      "超轻收纳",
+      "防风透气",
+      "应急常备"
+     ],
+     "tags": [
+      "徒步",
+      "轻量"
+     ],
+     "image": null
+    },
+    {
+     "id": "montbell-zeoline",
+     "name": "Zeo-Line 保暖内衣",
+     "nameEn": "Zeo-Line",
+     "type": "保暖内衣",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔自研的Zeo-Line保暖排汗内衣科技,定位登山徒步贴身打底层,面料贴身柔软、速干保暖,兼顾排汗与保温。适合秋冬登山、徒步与滑雪等寒冷环境活动的内层穿着。作为日系户外功能性内衣的经典之作,性价比远超同类国际品牌,深受日本山友信赖。",
+     "highlights": [
+      "自研科技",
+      "排汗保暖",
+      "经典打底"
+     ],
+     "tags": [
+      "登山",
+      "打底"
+     ],
+     "image": null
+    },
+    {
+     "id": "montbell-titanium-cookware",
+     "name": "钛水壶餐具",
+     "nameEn": "Titanium Cookware",
+     "type": "户外餐具",
+     "price": {
+      "min": 150,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔纯钛材质的轻量水壶、碗盘与餐具系列,定位轻量化户外炊具,坚固无异味、传热快、重量极轻。适合登山野炊、长途纵走与轻量露营使用。作为日本山友背包里的「传统项目」,承载了蒙贝尔多年钛金属工艺积累,是日系轻量装备文化的经典组成。",
+     "highlights": [
+      "纯钛轻量",
+      "传热快",
+      "传统装备"
+     ],
+     "tags": [
+      "徒步",
+      "轻量"
+     ],
+     "image": null
+    },
+    {
+     "id": "montbell-backpack",
+     "name": "登山背包",
+     "nameEn": "Backpacks",
+     "type": "登山包",
+     "price": {
+      "min": 400,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔从日归徒步到重装纵走全覆盖的登山背包系列,定位功能性登山装载装备,背负系统贴合亚洲身形,分区合理、自重轻。适合亚洲徒步者与登山爱好者,从一日往返到多日露营均可对应。凭借扎实的实用性口碑,成为日系登山装备中信赖度很高的选择。",
+     "highlights": [
+      "贴合背负",
+      "分区合理",
+      "轻量自重"
+     ],
+     "tags": [
+      "登山",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "montbell-tent",
+     "name": "隧道帐篷",
+     "nameEn": "Tunnel Tents",
+     "type": "帐篷",
+     "price": {
+      "min": 1000,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "蒙贝尔轻量隧道帐与圆顶帐系列,定位技术型露营帐篷,抗风性与空间利用出色,自重控制在同级较低水平。适合重装露营、登山纵走与严苛环境扎营使用。作为日系轻量化帐篷的代表,以可靠的工程设计与中高端定位,成为重装玩家心中的稳妥之选。",
+     "highlights": [
+      "轻量抗风",
+      "空间高效",
+      "重装可靠"
+     ],
+     "tags": [
+      "露营",
+      "重装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "blackdiamond",
+   "name": "黑钻",
+   "nameEn": "Black Diamond",
+   "domain": "blackdiamondequipment.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1989,
+   "hq": "盐湖城",
+   "tier": "中高端",
+   "sub": "户外",
+   "tags": [
+    "攀登",
+    "滑雪",
+    "户外装备"
+   ],
+   "slogan": "",
+   "desc": "黑钻 1989 年创立于美国盐湖城,以攀登装备起家,机械塞、头灯与冰镐是攀岩登山圈的标杆产品,业务覆盖春夏攀登与冬季滑雪两大领域。",
+   "story": "黑钻的前身是传奇攀岩者、巴塔哥尼亚创始人伊冯·乔伊纳德的装备作坊 Chouinard Equipment。1989 年,作坊员工集体收购其资产,Black Diamond 正式成立并落户犹他州盐湖城,延续金属锻造攀登装备的传统。\n此后黑钻把产品线扩展至冰镐、雪崩信标、登山杖与滑雪装备,并在欧洲设立研发与生产。Camalot 机械塞成为传统攀岩的行业标准装备,头灯与登山杖则让品牌走进更广大户外人群的日常。",
+   "products": [
+    {
+     "id": "bd-camalot",
+     "name": "Camalot 机械塞",
+     "nameEn": "Camalot",
+     "type": "攀岩保护装备",
+     "price": {
+      "min": 500,
+      "max": 1100,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻出品的Camalot机械塞,定位传统攀岩保护装备,活动凸轮设计可适配多种宽度裂缝,双轴结构放置稳定、受力可靠。适合传统攀岩与大岩壁攀登玩家的核心装备库。作为攀岩器材史上最具代表性的机械塞设计,几乎定义了现代传统攀岩的保护方式。",
+     "highlights": [
+      "活动凸轮",
+      "双轴稳定",
+      "传统攀必备"
+     ],
+     "tags": [
+      "攀岩",
+      "保护"
+     ],
+     "image": null
+    },
+    {
+     "id": "bd-headlamp",
+     "name": "头灯系列",
+     "nameEn": "Headlamps",
+     "type": "头灯",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻头灯产品线,Spot、Storm等型号长期位居户外头灯畅销榜,定位户外照明装备,亮度调节、防水等级与操作逻辑均衡,做工扎实。适合登山、徒步、越野跑与营地夜间使用。作为户外头灯领域的标杆产品,以稳定的品质成为全球山友与攀岩者的常备装备。",
+     "highlights": [
+      "畅销经典",
+      "高防水性",
+      "操作顺手"
+     ],
+     "tags": [
+      "户外",
+      "照明"
+     ],
+     "image": null
+    },
+    {
+     "id": "bd-harness",
+     "name": "安全带系列",
+     "nameEn": "Harnesses",
+     "type": "攀岩安全带",
+     "price": {
+      "min": 300,
+      "max": 900,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻攀岩安全带产品线,覆盖室内攀岩到大岩壁攀登,腰承舒适、挂点布局合理,在重量与耐用之间取得良好平衡。适合岩馆训练、野外运动攀与大岩壁多段攀登等场景。作为岩馆与野外通用的主流选择,延续黑钻在攀登装备上的专业基因。",
+     "highlights": [
+      "腰承舒适",
+      "挂点合理",
+      "岩馆野外通用"
+     ],
+     "tags": [
+      "攀岩",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "bd-avalanche",
+     "name": "雪崩信标",
+     "nameEn": "Avalanche Beacons",
+     "type": "雪崩信标",
+     "price": {
+      "min": 2000,
+      "max": 4500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻面向野外滑雪与登山者的雪崩搜救信标,定位高山安全救援装备,采用多天线设计搜索精度高,操作界面直觉化,便于紧急情况下快速使用。适合野雪滑手与登山者在雪崩地形活动时随身携带。作为雪崩地形中的保命装备,体现了黑钻在高山安全领域的专业积累。",
+     "highlights": [
+      "多天线精准",
+      "直觉操作",
+      "保命装备"
+     ],
+     "tags": [
+      "滑雪",
+      "安全"
+     ],
+     "image": null
+    },
+    {
+     "id": "bd-trekking-poles",
+     "name": "登山杖系列",
+     "nameEn": "Trekking Poles",
+     "type": "登山杖",
+     "price": {
+      "min": 700,
+      "max": 1600,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻登山杖系列,Distance碳纤维折叠杖为代表作,重量轻、Z形折叠后收纳短,减震与抓地表现扎实,握持设计细致。适合长距离徒步、越野跑与登山雪线使用。作为徒步与越野跑玩家信赖的选择,延续了品牌在登山器材上的技术底蕴。",
+     "highlights": [
+      "碳纤维轻量",
+      "Z形折叠",
+      "徒步越野通用"
+     ],
+     "tags": [
+      "徒步",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "bd-ice-tools",
+     "name": "冰镐系列",
+     "nameEn": "Ice Tools",
+     "type": "冰镐",
+     "price": {
+      "min": 1500,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑钻专业冰镐系列,Cobra、Viper等型号以挥击精度与可更换配件著称,定位技术型攀登工具,镐尖、锤头等部件可按路线需求更换。适合混合攀登、干式攀登与高难度冰壁攀登玩家。作为技术型攀登的进阶利器,在极限攀登圈拥有极高声誉。",
+     "highlights": [
+      "挥击精准",
+      "可换配件",
+      "混合攀登"
+     ],
+     "tags": [
+      "攀登",
+      "专业"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "burton",
+   "name": "伯顿",
+   "nameEn": "BURTON",
+   "domain": "burton.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1977,
+   "hq": "伯灵顿(佛蒙特州)",
+   "tier": "高端",
+   "sub": "滑雪",
+   "tags": [
+    "单板滑雪",
+    "雪服",
+    "雪板"
+   ],
+   "slogan": "",
+   "desc": "伯顿 1977 年由杰克·伯顿·卡朋特创立,是全球单板滑雪第一品牌,从雪板、固定器到雪服雪鞋提供全套装备,深刻塑造了单板滑雪的运动文化。",
+   "story": "1977 年,佛蒙特州的滑雪发烧友杰克·伯顿·卡朋特改良初代雪上滑板并创办公司,以「让单板进雪场」为使命,推动各大滑雪场逐步解除单板禁令。1998 年长野冬奥会单板滑雪首次入奥,多位夺牌选手使用伯顿装备。\n如今伯顿产品覆盖雪板、固定器、雪鞋、雪服与包袋,Custom、Process 等板型历经数十代打磨。品牌保留家族企业基因,在雪场与街头文化中始终拥有最强话语权,是全球单板滑雪的代名词。",
+   "products": [
+    {
+     "id": "burton-custom",
+     "name": "Custom 单板",
+     "nameEn": "Custom",
+     "type": "单板",
+     "price": {
+      "min": 3500,
+      "max": 6500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿最经典的全面发展单板,定位全山万能板,延续数十代的招牌板型与招牌弹力,滑行稳定与弹性爆发均衡,全山地形通吃。适合从进阶到高水平的各阶段滑手。被滑手称为「永不犯错之板」,作为单板滑雪文化的标志性产品,见证伯顿数十年的板型积淀。",
+     "highlights": [
+      "经典板型",
+      "全山通吃",
+      "招牌弹力"
+     ],
+     "tags": [
+      "单板",
+      "全山"
+     ],
+     "image": null
+    },
+    {
+     "id": "burton-process",
+     "name": "Process 单板",
+     "nameEn": "Process",
+     "type": "单板",
+     "price": {
+      "min": 2500,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿面向进阶滑手的公园与全山单板,定位「第二块板」的进阶选择,滑行活泼、容错友好,认证木芯带来扎实的弹性输出。适合公园道具、平花与全山滑行的进阶玩家。凭借友好的上手性格与均衡性能,成为许多滑手升级装备时的热门之选。",
+     "highlights": [
+      "进阶友好",
+      "公园活泼",
+      "木芯弹力"
+     ],
+     "tags": [
+      "单板",
+      "公园"
+     ],
+     "image": null
+    },
+    {
+     "id": "burton-cartel",
+     "name": "Cartel 固定器",
+     "nameEn": "Cartel",
+     "type": "固定器",
+     "price": {
+      "min": 1200,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿中高端固定器的代表作,定位全性能单板固定器,响应直接、绑带包裹舒适,底盘力量传输稳定,公园与全山滑行皆能胜任。适合进阶滑手与多风格玩家。凭借多年口碑积累,被滑手称为「口碑机皇」,是伯顿固定器技术实力的集中体现。",
+     "highlights": [
+      "响应直接",
+      "绑带舒适",
+      "口碑机皇"
+     ],
+     "tags": [
+      "固定器",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "burton-ion",
+     "name": "Ion 雪鞋",
+     "nameEn": "Ion",
+     "type": "滑雪鞋",
+     "price": {
+      "min": 2000,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿顶级雪鞋,定位高性能进阶雪鞋,支撑性与舒适度兼备,外胆耐压稳定、内胆保暖贴合,包裹调节精细。适合高强度滑行、大跳台与陡峭地形进阶玩家。作为伯顿雪鞋线的旗舰之作,是追求支撑与反馈的滑手的进阶利器。",
+     "highlights": [
+      "顶级支撑",
+      "保暖贴合",
+      "进阶利器"
+     ],
+     "tags": [
+      "雪鞋",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "burton-jacket",
+     "name": "雪服系列",
+     "nameEn": "Jackets",
+     "type": "滑雪服",
+     "price": {
+      "min": 1000,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿雪服系列,以街头感设计著称,采用防风透湿面料与压胶工艺,充裕的口袋设计兼顾滑雪功能与日常造型。适合雪场滑行、城市冬日穿搭与街头造型。作为雪场出镜率最高的雪服之一,体现了单板文化与街头时尚深度融合的伯顿基因。",
+     "highlights": [
+      "街头设计",
+      "防风透湿",
+      "压胶工艺"
+     ],
+     "tags": [
+      "雪服",
+      "街头"
+     ],
+     "image": null
+    },
+    {
+     "id": "burton-wheelie",
+     "name": "雪板包",
+     "nameEn": "Wheelie Gig Bag",
+     "type": "雪板包",
+     "price": {
+      "min": 600,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "伯顿带轮雪板旅行袋,定位滑雪旅行收纳装备,可容纳雪板、雪鞋与全套装备,内衬加厚保护板面,轮组设计便于机场与车站拖行。适合长途滑雪旅行与跨雪场迁徙的滑手。作为滑雪旅行的标配收纳方案,延续了伯顿对滑手出行需求的细致理解。",
+     "highlights": [
+      "带轮便携",
+      "加厚内衬",
+      "长途旅行"
+     ],
+     "tags": [
+      "收纳",
+      "旅行"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "head",
+   "name": "海德",
+   "nameEn": "HEAD",
+   "domain": "head.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1950,
+   "hq": "阿姆斯特丹",
+   "tier": "中高端",
+   "sub": "球类",
+   "tags": [
+    "网球",
+    "滑雪",
+    "器材"
+   ],
+   "slogan": "",
+   "desc": "海德 1950 年由工程师霍华德·海德创立,以革命性的金属滑雪板起家,后成为网球拍巨头,德约科维奇的战拍与百年网球品牌 PENN 均在其旗下。",
+   "story": "1950 年,航空工程师霍华德·海德在马里兰州以层压金属技术造出划时代的滑雪板,颠覆了木制雪板时代;六十年代末他将重心转向网球拍,以铝合金拍框再度革新球拍行业,跻身世界级运动器材品牌。\n如今 HEAD 集团注册于荷兰阿姆斯特丹,生产研发重镇位于奥地利,旗下汇聚 HEAD 雪板雪鞋、TYROLIA 固定器与百年网球品牌 PENN。德约科维奇等网球巨星长期使用其球拍,双线并进让它成为全球最大的冬季与球拍运动器材集团之一。",
+   "products": [
+    {
+     "id": "head-speed",
+     "name": "Speed 系列网球拍",
+     "nameEn": "Speed",
+     "type": "网球拍",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "海德Speed系列网球拍,德约科维奇的战拍,定位控制型职业球拍,拍框扎实、手感灵活,击球指向精准,历经十余代迭代打磨。适合进阶与高水平球员的底线与全能打法。作为职业赛场出镜率极高的经典球拍,是业余玩家升级装备时最常考虑的选项之一。",
+     "highlights": [
+      "德约同款",
+      "控制扎实",
+      "职业级"
+     ],
+     "tags": [
+      "网球",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "head-radical",
+     "name": "Radical 系列网球拍",
+     "nameEn": "Radical",
+     "type": "网球拍",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "海德Radical系列网球拍,因阿加西与穆雷等名将而闻名,定位底线全能型球拍,涂装个性鲜明,手感柔和、容错出色,适应多种打法。适合底线型与全能型进阶球员。作为职业网球史上的经典拍系,凭借随和的手感成为俱乐部玩家的常青选择。",
+     "highlights": [
+      "穆雷同款",
+      "容错出色",
+      "底线全能"
+     ],
+     "tags": [
+      "网球",
+      "经典"
+     ],
+     "image": null
+    },
+    {
+     "id": "head-skis",
+     "name": "高山滑雪板系列",
+     "nameEn": "Supershape Skis",
+     "type": "滑雪板",
+     "price": {
+      "min": 3000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "海德高山滑雪板系列,定位竞技与高性能滑雪装备,以稳定的高速性能著称,竞技大回转板与Supershape全山板广受欢迎,板体刚性扎实、转弯精准。适合竞技选手与喜爱机压雪道高速滑行的雪友。作为世界杯赛场与雪道上的常胜装备,承载品牌深厚的竞技基因。",
+     "highlights": [
+      "高速稳定",
+      "竞技基因",
+      "机压道王者"
+     ],
+     "tags": [
+      "滑雪",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "head-penn",
+     "name": "PENN 网球",
+     "nameEn": "PENN",
+     "type": "网球",
+     "price": {
+      "min": 40,
+      "max": 150,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "PENN网球,深耕百年的美国网球品牌,现属海德旗下,定位专业比赛用球,弹跳稳定、气密性好、耐打持久。适合俱乐部训练、正式比赛与各类球场日常使用。长期担任澳大利亚网球公开赛官方用球,是全球球场消耗量最大的网球品牌之一。",
+     "highlights": [
+      "百年品牌",
+      "澳网用球",
+      "消耗量大"
+     ],
+     "tags": [
+      "网球",
+      "耗材"
+     ],
+     "image": null
+    },
+    {
+     "id": "head-helmets",
+     "name": "滑雪头盔系列",
+     "nameEn": "Helmets",
+     "type": "滑雪头盔",
+     "price": {
+      "min": 500,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "海德滑雪头盔系列,定位雪场安全防护装备,轻量壳体搭配运动型内衬,通风与保暖调节细致,佩戴贴合舒适,竞技款与大众款齐全。适合从初学者到竞技选手的各类滑雪人群。凭借均衡的防护性能与齐全的产品矩阵,成为雪场安全装备的主流选择之一。",
+     "highlights": [
+      "轻量壳体",
+      "通风保暖",
+      "款式齐全"
+     ],
+     "tags": [
+      "滑雪",
+      "安全"
+     ],
+     "image": null
+    },
+    {
+     "id": "head-tyrolia",
+     "name": "TYROLIA 固定器",
+     "nameEn": "TYROLIA",
+     "type": "滑雪固定器",
+     "price": {
+      "min": 800,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "TYROLIA滑雪固定器,历史悠久的奥地利双板固定器品牌,现与海德同属一个集团,以坚固可靠、释放精准著称,与HEAD雪板雪鞋协同设计。适合竞技选手与大众滑雪者,是欧洲滑雪场租赁板与竞技板上的常见配置。作为滑雪固定器领域的老牌力量,历经数十年赛场验证。",
+     "highlights": [
+      "奥地利血统",
+      "坚固可靠",
+      "集团协同"
+     ],
+     "tags": [
+      "滑雪",
+      "装备"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "rockbros",
+   "name": "洛克兄弟",
+   "nameEn": "ROCKBROS",
+   "domain": "rockbros.com",
+   "categoryId": "sports",
+   "country": "中国",
+   "founded": 2009,
+   "hq": "义乌",
+   "tier": "平价",
+   "sub": "骑行",
+   "tags": [
+    "骑行",
+    "配件",
+    "高性价比"
+   ],
+   "slogan": "",
+   "desc": "洛克兄弟 2009 年创立于浙江义乌,是骑行装备配件领域的国民品牌,以亲民价格提供骑行包、眼镜、头盔等上千种产品,在海内外骑行圈都有很高知名度。",
+   "story": "洛克兄弟从浙江义乌的外贸生意起步,抓住骑行运动兴起的风口,以骑行包与实用配件切入市场,依托电商渠道迅速成长,产品远销海外数十个国家,成为国产骑行配件的头部品牌。\n品牌坚持「高性价比 + 海量单品」的策略,覆盖通勤、山地与公路骑行的各类场景,在车灯、眼镜、头盔与骑行服上持续迭代,同时赞助多支民间车队与骑行活动,让更多普通人轻松踏上骑行之路。",
+   "products": [
+    {
+     "id": "rockbros-sunglasses",
+     "name": "骑行眼镜",
+     "nameEn": "Cycling Sunglasses",
+     "type": "骑行眼镜",
+     "price": {
+      "min": 50,
+      "max": 200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟骑行眼镜,定位平价骑行防护装备,偏光镜片防风防沙、过滤眩光,镜腿防滑、整副重量轻,多种镜片颜色可选。适合骑行入门者、通勤骑友与跑步等户外运动人群。以友好的价格与实用配置成为骑行入门装备里人气最高的品类之一。",
+     "highlights": [
+      "偏光防风",
+      "轻量镜架",
+      "入门首选"
+     ],
+     "tags": [
+      "骑行",
+      "装备"
+     ],
+     "image": null
+    },
+    {
+     "id": "rockbros-bike-bag",
+     "name": "骑行包系列",
+     "nameEn": "Bike Bags",
+     "type": "骑行包",
+     "price": {
+      "min": 50,
+      "max": 300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟骑行包系列,覆盖车前包、鞍座包、车架包到驮包的完整收纳线,定位自行车储物配件,防水面料、快速拆装结构实用,容量分层合理。适合通勤骑行、长途骑行的收纳与驮运需求。作为品牌起家的看家品类,是洛克兄弟国民骑行配件形象的根基。",
+     "highlights": [
+      "防水面料",
+      "快拆结构",
+      "起家品类"
+     ],
+     "tags": [
+      "骑行",
+      "收纳"
+     ],
+     "image": null
+    },
+    {
+     "id": "rockbros-helmet",
+     "name": "骑行头盔",
+     "nameEn": "Cycling Helmets",
+     "type": "头盔",
+     "price": {
+      "min": 100,
+      "max": 400,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟骑行头盔,定位平价安全头盔,采用一体成型工艺,通风孔设计兼顾散热,重量轻、包覆性好,多色可选。适合城市通勤、休闲骑行与大众运动人群。凭借安全认证与出色的性价比,赢得大量通勤与骑行用户,是品牌国民配件路线的代表单品。",
+     "highlights": [
+      "一体成型",
+      "轻量通风",
+      "安全认证"
+     ],
+     "tags": [
+      "骑行",
+      "安全"
+     ],
+     "image": null
+    },
+    {
+     "id": "rockbros-phone-mount",
+     "name": "手机支架",
+     "nameEn": "Phone Mounts",
+     "type": "手机支架",
+     "price": {
+      "min": 30,
+      "max": 150,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟车把手机支架,定位骑行导航配件,采用减震防抖结构,安装稳固、单手取放方便,角度调节灵活。适合城市通勤导航、长途骑行与高频使用手机的车友。作为实用人气配件,让骑行中的导航与查看更安全,是品牌便民细节设计的体现。",
+     "highlights": [
+      "减震防抖",
+      "单手取放",
+      "导航实用"
+     ],
+     "tags": [
+      "骑行",
+      "配件"
+     ],
+     "image": null
+    },
+    {
+     "id": "rockbros-pump",
+     "name": "便携打气筒",
+     "nameEn": "Mini Pumps",
+     "type": "打气筒",
+     "price": {
+      "min": 50,
+      "max": 200,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟便携打气筒,定位骑行随身工具,小巧易携,兼容美式、法式气嘴,带气压表款式可精准控压,打气效率扎实。适合公路与山地骑行者的随身工具包与补胎应急场景。作为骑行必备单品,体现了品牌对骑行细节需求的全面覆盖与高性价比路线。",
+     "highlights": [
+      "小巧便携",
+      "双嘴兼容",
+      "气压可视"
+     ],
+     "tags": [
+      "骑行",
+      "工具"
+     ],
+     "image": null
+    },
+    {
+     "id": "rockbros-gloves",
+     "name": "骑行手套",
+     "nameEn": "Cycling Gloves",
+     "type": "骑行手套",
+     "price": {
+      "min": 30,
+      "max": 150,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "洛克兄弟骑行手套,定位骑行舒适防护配件,减震掌垫与透气面料组合,缓解长途骑行手麻,防滑耐磨,全指半指款式齐全,尺码覆盖成人儿童。适合通勤、长途骑行与不同季节使用。凭借实在的配置与亲民价格常年热销,是品牌的人气单品。",
+     "highlights": [
+      "减震掌垫",
+      "透气舒适",
+      "款式齐全"
+     ],
+     "tags": [
+      "骑行",
+      "装备"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "garmin",
+   "name": "佳明",
+   "nameEn": "GARMIN",
+   "domain": "garmin.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1989,
+   "hq": "奥拉特(堪萨斯州)",
+   "tier": "高端",
+   "sub": "骑行",
+   "tags": [
+    "运动手表",
+    "GPS",
+    "户外"
+   ],
+   "slogan": "Beat Yesterday",
+   "desc": "佳明 1989 年由加里·伯勒尔与高民环创立,以 GPS 导航技术起家,如今是全球运动手表与骑行码表的领导品牌,在跑步、户外与航空航海领域均有布局。",
+   "story": "1989 年,航空工程师加里·伯勒尔与 GPS 专家高民环在美国堪萨斯州创办佳明,率先把卫星导航带入民用航空、航海与车载领域,长期占据消费级 GPS 市场的领先地位。\n2003 年佳明推出首款跑步腕表 Forerunner,此后逐步将重心转向运动与户外。fenix、Edge、Instinct 等系列以超长续航、专业数据算法与稳定定位著称,被跑圈骑圈视为「专业工具」,稳居全球运动手表第一梯队。",
+   "products": [
+    {
+     "id": "garmin-forerunner",
+     "name": "Forerunner 系列",
+     "nameEn": "Forerunner",
+     "type": "跑步手表",
+     "price": {
+      "min": 1500,
+      "max": 5500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "佳明Forerunner系列跑步手表,定位专业跑步训练装备,从入门到旗舰覆盖全价位,配速、心率与训练负荷数据专业可靠,训练指导功能完善。适合从初跑到马拉松备赛的训练人群。作为佳明的经典长青系列,是马拉松训练人群中主流的跑步手表之选。",
+     "highlights": [
+      "跑步数据专业",
+      "全价位覆盖",
+      "训练负荷"
+     ],
+     "tags": [
+      "跑步",
+      "手表"
+     ],
+     "image": null
+    },
+    {
+     "id": "garmin-fenix",
+     "name": "fenix 系列",
+     "nameEn": "fenix",
+     "type": "户外运动手表",
+     "price": {
+      "min": 3000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "佳明fenix系列旗舰户外运动手表,定位全能探险装备,多频多星定位精准,离线地图、轨迹导航与超长续航齐备,抗造耐用。适合登山、越野、探险与多运动场景的硬核户外玩家。作为户外圈公认的硬核装备,fenix以专业表现树立了户外手表的旗舰标杆。",
+     "highlights": [
+      "多频定位",
+      "离线地图",
+      "超长续航"
+     ],
+     "tags": [
+      "户外",
+      "手表"
+     ],
+     "image": null
+    },
+    {
+     "id": "garmin-instinct",
+     "name": "Instinct 系列",
+     "nameEn": "Instinct",
+     "type": "户外手表",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "佳明Instinct系列户外腕表,定位耐用型三防手表,采用军规标准设计,续航动辄数周,功能直给、按键操作可靠,价格适中。适合入门户外玩家、徒步爱好者与日常通勤人群。凭借皮实耐造与高性价比,成为佳明家族中口碑极佳的入门之选。",
+     "highlights": [
+      "军规三防",
+      "长续航",
+      "高性价比"
+     ],
+     "tags": [
+      "户外",
+      "手表"
+     ],
+     "image": null
+    },
+    {
+     "id": "garmin-edge",
+     "name": "Edge 系列",
+     "nameEn": "Edge",
+     "type": "骑行码表",
+     "price": {
+      "min": 1000,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "佳明Edge系列骑行码表,定位专业骑行数据设备,导航、功率训练与骑行数据生态完善,屏幕显示清晰、续航扎实,与车队俱乐部深度绑定。适合公路与山地骑行的专业骑手及发烧友。作为骑行码表领域的标杆产品,是训练型骑手的标配装备。",
+     "highlights": [
+      "骑行数据",
+      "功率训练",
+      "导航生态"
+     ],
+     "tags": [
+      "骑行",
+      "码表"
+     ],
+     "image": null
+    },
+    {
+     "id": "garmin-venu",
+     "name": "Venu 系列",
+     "nameEn": "Venu",
+     "type": "健康智能手表",
+     "price": {
+      "min": 1000,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Venu 系列是佳明旗下定位高端的健康智能手表。采用 AMOLED 彩色屏幕,具备睡眠、血氧与身体电量等健康监测功能,同时兼顾佳明擅长的运动功能与时尚外观。适合注重日常健康管理、又希望兼顾运动记录与颜值的大众用户。作为佳明从专业运动向大众健康拓展的产品线,是佳明家族中辨识度很高的健康手表系列。",
+     "highlights": [
+      "AMOLED屏",
+      "健康监测",
+      "时尚外观"
+     ],
+     "tags": [
+      "健康",
+      "手表"
+     ],
+     "image": null
+    },
+    {
+     "id": "garmin-varia",
+     "name": "Varia 雷达尾灯",
+     "nameEn": "Varia",
+     "type": "骑行雷达",
+     "price": {
+      "min": 800,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Varia 雷达尾灯是佳明旗下定位高端的骑行雷达安全装备。可探测后方来车并通过码表或手机提前预警,连接码表或手机即可工作,与佳明码表联动体验出色。适合夜骑、通勤与长途公路骑行者,显著弥补后方视野盲区。深受长途骑友好评,被视为现代骑行安全装备的代表作之一,是佳明骑行生态的重要一环。",
+     "highlights": [
+      "来车预警",
+      "夜骑安全",
+      "码表联动"
+     ],
+     "tags": [
+      "骑行",
+      "安全"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "merrell",
+   "name": "迈乐",
+   "nameEn": "Merrell",
+   "domain": "merrell.com",
+   "categoryId": "sports",
+   "country": "美国",
+   "founded": 1981,
+   "hq": "罗克福德(密歇根州)",
+   "tier": "中高端",
+   "sub": "户外",
+   "tags": [
+    "徒步",
+    "越野跑",
+    "户外鞋"
+   ],
+   "slogan": "",
+   "desc": "迈乐 1981 年创立于美国,以手工定制登山靴起家,现属 Wolverine 集团,Moab 系列徒步鞋是全球销量最大的户外鞋款之一,主打舒适实用的户外鞋履。",
+   "story": "1981 年,犹他州手工靴匠兰迪·迈乐与两位伙伴创立同名品牌,以「让户外更舒适」为初心打造登山靴,凭合脚耐穿的口碑迅速打开市场,成为北美户外圈的新星。\n1997 年,迈乐被 Wolverine 集团收购后加速全球化,Moab 系列徒步鞋常年占据欧美户外鞋畅销榜前列,产品线延伸至越野跑、健走与凉鞋。如今它是大众户外鞋履领域最具知名度的品牌之一。",
+   "products": [
+    {
+     "id": "merrell-moab",
+     "name": "Moab 徒步鞋",
+     "nameEn": "Moab",
+     "type": "徒步鞋",
+     "price": {
+      "min": 500,
+      "max": 1100,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Moab 徒步鞋是迈乐旗下经典徒步鞋,定位中高端户外鞋履。外底抓地扎实、鞋面包裹舒适,开箱即走、无需磨合,上脚门槛低。适合轻装徒步、旅行与日常户外出行,被誉为国民级徒步鞋款。作为全球销量领先的畅销经典,常年位居各类徒步鞋推荐榜前列,是迈乐品牌最具知名度的名片。",
+     "highlights": [
+      "畅销经典",
+      "抓地扎实",
+      "免磨合"
+     ],
+     "tags": [
+      "徒步",
+      "经典"
+     ],
+     "image": null
+    },
+    {
+     "id": "merrell-agility",
+     "name": "Agility Peak 越野跑鞋",
+     "nameEn": "Agility Peak",
+     "type": "越野跑鞋",
+     "price": {
+      "min": 700,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Agility Peak 是迈乐的山地越野跑旗舰鞋款,定位专业越野跑鞋。厚实中底为长距离提供充足缓冲,Vibram 专业外底在复杂山径上抓地可靠。适合越野跑者与超长距离赛事选手,是超长距离越野赛事中的常见战靴。凭借缓冲与抓地的均衡表现,在越野跑圈拥有很高的口碑与能见度,是迈乐专业跑步线的代表。",
+     "highlights": [
+      "越野缓震",
+      "Vibram外底",
+      "赛事战靴"
+     ],
+     "tags": [
+      "越野跑",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "merrell-hiking-boots",
+     "name": "中帮徒步靴",
+     "nameEn": "Hiking Boots",
+     "type": "徒步靴",
+     "price": {
+      "min": 700,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "迈乐中帮徒步靴是在 Moab 等经典鞋型基础上升级的中帮版本,定位重装徒步鞋。鞋帮加高后增强脚踝支撑,并强化防水性能,更适合复杂山地地形。适合背负较重装备的重装徒步者与长线山地玩家。延续迈乐舒适免磨合的传统,是介于轻量徒步鞋与重型登山靴之间的实用选择,适合进阶户外爱好者。",
+     "highlights": [
+      "踝部支撑",
+      "防水科技",
+      "重装徒步"
+     ],
+     "tags": [
+      "徒步",
+      "户外"
+     ],
+     "image": null
+    },
+    {
+     "id": "merrell-jungle",
+     "name": "Jungle Moc 休闲鞋",
+     "nameEn": "Jungle Moc",
+     "type": "休闲鞋",
+     "price": {
+      "min": 400,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Jungle Moc 是迈乐九十年代诞生的一脚蹬经典休闲鞋。翻毛皮鞋面配舒适内底,免系带穿脱方便,兼顾休闲观感与步行舒适。适合通勤、居家与旅行等日常场景,男女皆宜。作为迈乐从户外走向日常生活的代表作,其全球累计销量惊人,常年常青不衰,是休闲鞋领域的经典符号之一。",
+     "highlights": [
+      "一脚蹬",
+      "翻毛皮",
+      "经典常青"
+     ],
+     "tags": [
+      "休闲",
+      "经典"
+     ],
+     "image": null
+    },
+    {
+     "id": "merrell-vapor-glove",
+     "name": "Vapor Glove 赤足鞋",
+     "nameEn": "Vapor Glove",
+     "type": "赤足鞋",
+     "price": {
+      "min": 400,
+      "max": 800,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Vapor Glove 是迈乐的极简赤足训练鞋,定位赤足鞋细分品类。鞋底超薄、贴近地面,最大限度保留足感,用于强化足部力量与本体感知。适合健身房力量训练、功能性训练与短距离自然跑爱好者。作为赤足跑潮流中的代表产品之一,是迈乐产品谱系中最极简的鞋款,体现了品牌对自然步态理念的探索。",
+     "highlights": [
+      "极简薄底",
+      "强化足感",
+      "训练适用"
+     ],
+     "tags": [
+      "训练",
+      "极简"
+     ],
+     "image": null
+    },
+    {
+     "id": "merrell-sandals",
+     "name": "户外凉鞋系列",
+     "nameEn": "Sandals",
+     "type": "户外凉鞋",
+     "price": {
+      "min": 300,
+      "max": 700,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "迈乐户外凉鞋系列涵盖 Hydro 等系列凉鞋与溯溪鞋,定位夏季户外鞋履。速干鞋面配合抓地外底,涉水快干、防滑可靠,兼顾舒适与功能。适合夏季徒步、溯溪、水上活动与日常清凉出行。作为户外凉鞋细分市场中功能与舒适兼备的代表,是夏季户外装备清单中的常见之选。",
+     "highlights": [
+      "速干鞋面",
+      "抓地防滑",
+      "溯溪徒步"
+     ],
+     "tags": [
+      "凉鞋",
+      "夏季"
+     ],
+     "image": null
+    }
+   ]
+  }
+ ]
 }

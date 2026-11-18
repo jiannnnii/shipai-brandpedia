@@ -1,3682 +1,3682 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "apple",
+   "name": "苹果",
+   "nameEn": "Apple",
+   "domain": "apple.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1976,
+   "hq": "库比蒂诺",
+   "tier": "高端",
+   "sub": "手机",
+   "tags": [
+    "iOS生态",
+    "自研芯片",
+    "工业设计"
+   ],
+   "slogan": "不同凡想",
+   "desc": "全球市值最高的科技巨头之一,以 iPhone、Mac、iPad 等软硬一体产品闻名,自研 A 系列与 M 系列芯片构筑性能壁垒,iOS 生态体验流畅,设计语言极简,长期引领消费电子行业方向。",
+   "story": "1976 年,乔布斯与沃兹尼亚克在加州车库创立苹果,推出 Apple I 个人电脑;1984 年 Macintosh 将图形界面带入大众,2001 年 iPod 与 2007 年 iPhone 相继问世,后者重新定义了智能手机,让苹果从电脑公司跃升为全球消费电子霸主。\n此后苹果以 App Store、自研芯片与订阅服务构建起庞大生态,2018 年市值率先突破一万亿美元,M 系芯片推动 Mac 全面转型,并进军头显等新领域,成为软硬件与服务一体的科技帝国。",
+   "products": [
     {
-      "id": "apple",
-      "name": "苹果",
-      "nameEn": "Apple",
-      "domain": "apple.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1976,
-      "hq": "库比蒂诺",
-      "tier": "高端",
-      "sub": "手机",
-      "tags": [
-        "iOS生态",
-        "自研芯片",
-        "工业设计"
-      ],
-      "slogan": "不同凡想",
-      "desc": "全球市值最高的科技巨头之一,以 iPhone、Mac、iPad 等软硬一体产品闻名,自研 A 系列与 M 系列芯片构筑性能壁垒,iOS 生态体验流畅,设计语言极简,长期引领消费电子行业方向。",
-      "story": "1976 年,乔布斯与沃兹尼亚克在加州车库创立苹果,推出 Apple I 个人电脑;1984 年 Macintosh 将图形界面带入大众,2001 年 iPod 与 2007 年 iPhone 相继问世,后者重新定义了智能手机,让苹果从电脑公司跃升为全球消费电子霸主。\n此后苹果以 App Store、自研芯片与订阅服务构建起庞大生态,2018 年市值率先突破一万亿美元,M 系芯片推动 Mac 全面转型,并进军头显等新领域,成为软硬件与服务一体的科技帝国。",
-      "products": [
-        {
-          "id": "apple-iphone",
-          "name": "iPhone",
-          "nameEn": "iPhone",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 4499,
-            "max": 13999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "年度旗舰智能手机,A 系列芯片性能长期领先,高刷屏与影像系统持续进化,iOS 与生态联动是核心壁垒,长期是全球最畅销的高端手机。",
-          "highlights": [
-            "A系列芯片",
-            "iOS生态",
-            "钛金属机身"
-          ],
-          "tags": [
-            "旗舰",
-            "影像"
-          ],
-          "image": null
-        },
-        {
-          "id": "apple-macbook",
-          "name": "MacBook",
-          "nameEn": "MacBook",
-          "type": "笔记本电脑",
-          "price": {
-            "min": 7999,
-            "max": 39999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "M 系列自研芯片加持的轻薄笔记本,Air 主打无风扇轻薄与长续航,Pro 面向专业创作,续航与能效表现业内领先。",
-          "highlights": [
-            "M系列芯片",
-            "长续航",
-            "视网膜屏"
-          ],
-          "tags": [
-            "生产力",
-            "轻薄"
-          ],
-          "image": null
-        },
-        {
-          "id": "apple-ipad",
-          "name": "iPad",
-          "nameEn": "iPad",
-          "type": "平板电脑",
-          "price": {
-            "min": 2999,
-            "max": 17499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "定义平板品类的产品线,覆盖入门 iPad 到 iPad Pro,M 系芯片与 OLED 屏让 Pro 版具备桌面级生产力,配合 Apple Pencil 是创作学习利器。",
-          "highlights": [
-            "M系列芯片",
-            "OLED屏",
-            "Apple Pencil"
-          ],
-          "tags": [
-            "平板",
-            "创作"
-          ],
-          "image": null
-        },
-        {
-          "id": "apple-airpods",
-          "name": "AirPods",
-          "nameEn": "AirPods",
-          "type": "真无线耳机",
-          "price": {
-            "min": 999,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球最受欢迎的真无线耳机之一,Pro 版以 H2 芯片提供主动降噪与通透模式,与苹果设备无缝切换,佩戴与生态体验是最大卖点。",
-          "highlights": [
-            "H2芯片",
-            "主动降噪",
-            "自动切换"
-          ],
-          "tags": [
-            "耳机",
-            "降噪"
-          ],
-          "image": null
-        },
-        {
-          "id": "apple-watch",
-          "name": "Apple Watch",
-          "nameEn": "Apple Watch",
-          "type": "智能手表",
-          "price": {
-            "min": 1999,
-            "max": 6499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球出货量最大的智能手表,与 iPhone 深度联动,提供健康监测、运动记录与 eSIM 独立通信,Ultra 版面向户外极限运动,是可穿戴品类的标杆。",
-          "highlights": [
-            "健康监测",
-            "eSIM独立通信",
-            "防水防尘"
-          ],
-          "tags": [
-            "手表",
-            "健康"
-          ],
-          "image": null
-        },
-        {
-          "id": "apple-vision-pro",
-          "name": "Vision Pro",
-          "nameEn": "Apple Vision Pro",
-          "type": "空间计算头显",
-          "price": {
-            "min": 29999,
-            "max": 29999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "苹果首款空间计算设备,双 micro-OLED 屏幕与眼动、手势交互重新定义头显体验,被称为最接近未来的消费电子产品,价格与重量仍属尝鲜。",
-          "highlights": [
-            "空间计算",
-            "micro-OLED",
-            "眼动交互"
-          ],
-          "tags": [
-            "头显",
-            "前沿"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-iphone",
+     "name": "iPhone",
+     "nameEn": "iPhone",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 4499,
+      "max": 13999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "iPhone 是苹果年度旗舰智能手机,定位全球高端手机市场的标杆。搭载自研 A 系列芯片,性能长期领先,高刷屏与影像系统持续进化,钛金属机身提升质感。适合追求流畅体验、长期系统更新与生态联动的各类用户。iOS 生态与多设备联动是核心壁垒,iPhone 长期是全球最畅销的高端手机,深刻塑造了智能手机行业形态。",
+     "highlights": [
+      "A系列芯片",
+      "iOS生态",
+      "钛金属机身"
+     ],
+     "tags": [
+      "旗舰",
+      "影像"
+     ],
+     "image": null
     },
     {
-      "id": "samsung",
-      "name": "三星",
-      "nameEn": "Samsung",
-      "domain": "samsung.com",
-      "categoryId": "tech",
-      "country": "韩国",
-      "founded": 1938,
-      "hq": "首尔",
-      "tier": "高端",
-      "sub": "手机",
-      "tags": [
-        "全产业链",
-        "屏幕",
-        "半导体"
-      ],
-      "slogan": "",
-      "desc": "韩国最大跨国科技集团,业务横跨半导体、显示、手机与家电,Galaxy 系列是全球安卓旗舰代表,存储芯片与 OLED 面板出货量常年世界第一,是极少数具备全产业链能力的科技公司。",
-      "story": "1938 年三星以贸易公司起家,1969 年成立三星电子进入家电领域;此后先后切入存储芯片与液晶面板,1992 年成为全球最大存储芯片厂商,完成从代工到技术领导的逆袭。\n2010 年前后 Galaxy S 与 Note 系列崛起,成为安卓阵营唯一能与苹果分庭抗礼的品牌,如今三星在折叠屏手机、OLED 屏幕与 HBM 内存上持续领跑,是全球半导体与消费电子双料巨头。",
-      "products": [
-        {
-          "id": "samsung-galaxy-s",
-          "name": "Galaxy S 系列",
-          "nameEn": "Galaxy S Series",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 5999,
-            "max": 11999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "安卓年度旗舰,Ultra 版本搭载顶级两亿像素主摄与 S Pen 手写笔,自研与高通双平台并行,是苹果之外最受关注的旗舰手机系列。",
-          "highlights": [
-            "2亿像素",
-            "S Pen",
-            "三星OLED屏"
-          ],
-          "tags": [
-            "旗舰",
-            "影像"
-          ],
-          "image": null
-        },
-        {
-          "id": "samsung-galaxy-z",
-          "name": "Galaxy Z 系列",
-          "nameEn": "Galaxy Z Series",
-          "type": "折叠屏手机",
-          "price": {
-            "min": 6999,
-            "max": 15999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球折叠屏手机的开创者与领跑者,Z Fold 主打大屏生产力,Z Flip 以竖折时尚形态赢得年轻用户,铰链与超薄玻璃技术积累深厚。",
-          "highlights": [
-            "横向折叠",
-            "竖向折叠",
-            "大屏多任务"
-          ],
-          "tags": [
-            "折叠屏",
-            "高端"
-          ],
-          "image": null
-        },
-        {
-          "id": "samsung-galaxy-tab",
-          "name": "Galaxy Tab",
-          "nameEn": "Galaxy Tab",
-          "type": "平板电脑",
-          "price": {
-            "min": 1299,
-            "max": 9999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "安卓平板标杆,Tab S 系列配备三星顶级 OLED 屏并支持 S Pen,是少数能在生产力上与 iPad 竞争的安卓平板产品线。",
-          "highlights": [
-            "S Pen",
-            "OLED屏",
-            "DeX桌面模式"
-          ],
-          "tags": [
-            "平板",
-            "生产力"
-          ],
-          "image": null
-        },
-        {
-          "id": "samsung-galaxy-watch",
-          "name": "Galaxy Watch",
-          "nameEn": "Galaxy Watch",
-          "type": "智能手表",
-          "price": {
-            "min": 1099,
-            "max": 4599,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "安卓手表出货前列,搭载 Wear OS 与三星健康平台,身体成分分析是独门功能,Ultra 版面向户外运动,与 Galaxy 手机联动体验最佳。",
-          "highlights": [
-            "身体成分分析",
-            "Wear OS",
-            "健康监测"
-          ],
-          "tags": [
-            "手表",
-            "健康"
-          ],
-          "image": null
-        },
-        {
-          "id": "samsung-galaxy-buds",
-          "name": "Galaxy Buds",
-          "nameEn": "Galaxy Buds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 499,
-            "max": 1299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "三星真无线耳机产品线,主打 AKG 调音与主动降噪,轻巧佩戴舒适,与三星手机深度适配,支持 360 音频空间声场。",
-          "highlights": [
-            "AKG调音",
-            "主动降噪",
-            "360音频"
-          ],
-          "tags": [
-            "耳机",
-            "音质"
-          ],
-          "image": null
-        },
-        {
-          "id": "samsung-ssd-990pro",
-          "name": "990 PRO 固态硬盘",
-          "nameEn": "SSD 990 PRO",
-          "type": "固态硬盘",
-          "price": {
-            "min": 699,
-            "max": 2499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "三星旗舰 PCIe 4.0 固态硬盘,采用自研 V-NAND 闪存,连续读取超 7000MB/s,是游戏与创作者装机的热门选择,长期霸榜 SSD 性能排行。",
-          "highlights": [
-            "V-NAND闪存",
-            "PCIe 4.0",
-            "7000MB/s级读取"
-          ],
-          "tags": [
-            "存储",
-            "装机"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-macbook",
+     "name": "MacBook",
+     "nameEn": "MacBook",
+     "type": "笔记本电脑",
+     "price": {
+      "min": 7999,
+      "max": 39999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "MacBook 是苹果笔记本电脑产品线,定位高端轻薄本。M 系列自研芯片带来出色能效与长续航,Air 主打无风扇轻薄设计,Pro 面向专业创作,配备视网膜屏。适合学生、移动办公人群与视频、设计等专业创作者。以续航与能效表现业内领先著称,是高端笔记本市场的标杆,也是苹果生态的生产力中枢之一。",
+     "highlights": [
+      "M系列芯片",
+      "长续航",
+      "视网膜屏"
+     ],
+     "tags": [
+      "生产力",
+      "轻薄"
+     ],
+     "image": null
     },
     {
-      "id": "huawei",
-      "name": "华为",
-      "nameEn": "HUAWEI",
-      "domain": "huawei.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1987,
-      "hq": "深圳",
-      "tier": "高端",
-      "sub": "手机",
-      "tags": [
-        "自研芯片",
-        "鸿蒙生态",
-        "影像"
-      ],
-      "slogan": "构建万物互联的智能世界",
-      "desc": "中国通信与消费电子巨头,从交换机起家成长为全球最大通信设备商之一,消费者业务以 Mate、Pura 双旗舰闻名,坚持自研麒麟芯片与鸿蒙系统,影像与通信能力业内顶尖。",
-      "story": "1987 年,任正非以两万余元在深圳创立华为,从代理交换机起步,靠自主研发的程控交换机打开市场,逐步成长为全球最大的电信设备供应商之一。\n2019 年起遭遇多轮制裁,华为以麒麟芯片回归与鸿蒙生态突围,Mate 60 系列引发市场热潮,全球首创的三折叠 Mate XT 更一机难求;如今华为在手机、智能汽车解决方案与云计算多线并进,成为中国科技自主的标志性企业。",
-      "products": [
-        {
-          "id": "huawei-mate",
-          "name": "Mate 系列",
-          "nameEn": "HUAWEI Mate Series",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 5499,
-            "max": 21999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "华为商务旗舰,Mate 70 系列搭载麒麟芯片与原生鸿蒙系统,Pro 版影像顶级,三折叠 Mate XT 非凡大师售价近两万,是国产高端手机标杆。",
-          "highlights": [
-            "麒麟芯片",
-            "原生鸿蒙",
-            "红枫原色影像"
-          ],
-          "tags": [
-            "旗舰",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "huawei-pura",
-          "name": "Pura 系列",
-          "nameEn": "HUAWEI Pura Series",
-          "type": "影像旗舰手机",
-          "price": {
-            "min": 5499,
-            "max": 10999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "由 P 系列升级而来的时尚影像旗舰,Pura 70 Ultra 首创伸缩式摄像头,人像与长焦表现突出,是华为美学与影像技术的集中体现。",
-          "highlights": [
-            "伸缩摄像头",
-            "超光变影像",
-            "昆仑玻璃"
-          ],
-          "tags": [
-            "影像",
-            "时尚"
-          ],
-          "image": null
-        },
-        {
-          "id": "huawei-matepad",
-          "name": "MatePad",
-          "nameEn": "HUAWEI MatePad",
-          "type": "平板电脑",
-          "price": {
-            "min": 1899,
-            "max": 9999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "华为平板旗舰线,MatePad Pro 13.2 搭载柔性 OLED 屏与星闪手写笔,配合鸿蒙生态主打办公创作,长期位居国内平板市场份额前列。",
-          "highlights": [
-            "OLED全面屏",
-            "星闪手写笔",
-            "鸿蒙生态"
-          ],
-          "tags": [
-            "平板",
-            "生产力"
-          ],
-          "image": null
-        },
-        {
-          "id": "huawei-matebook",
-          "name": "MateBook",
-          "nameEn": "HUAWEI MateBook",
-          "type": "笔记本电脑",
-          "price": {
-            "min": 3999,
-            "max": 14999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "华为笔记本产品线,以轻薄金属机身、3:2 触控生产力屏与多设备协同著称,超级终端让手机、平板与电脑无缝互联。",
-          "highlights": [
-            "多屏协同",
-            "3:2生产力屏",
-            "超级终端"
-          ],
-          "tags": [
-            "笔记本",
-            "轻薄"
-          ],
-          "image": null
-        },
-        {
-          "id": "huawei-freebuds",
-          "name": "FreeBuds",
-          "nameEn": "HUAWEI FreeBuds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 199,
-            "max": 1499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "华为真无线耳机系列,Pro 版提供智慧动态降噪与高解析音质,与华为手机弹窗快连,佩戴舒适度口碑出色。",
-          "highlights": [
-            "智慧动态降噪",
-            "星闪连接",
-            "高解析音质"
-          ],
-          "tags": [
-            "耳机",
-            "降噪"
-          ],
-          "image": null
-        },
-        {
-          "id": "huawei-watch",
-          "name": "HUAWEI WATCH",
-          "nameEn": "HUAWEI WATCH Series",
-          "type": "智能手表",
-          "price": {
-            "min": 688,
-            "max": 5888,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "华为智能手表覆盖 GT、Ultimate 等多系列,以专业运动健康监测与长续航著称,WATCH Ultimate 支持双向北斗卫星消息,高端质感出色。",
-          "highlights": [
-            "长续航",
-            "运动健康监测",
-            "北斗卫星消息"
-          ],
-          "tags": [
-            "手表",
-            "户外"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-ipad",
+     "name": "iPad",
+     "nameEn": "iPad",
+     "type": "平板电脑",
+     "price": {
+      "min": 2999,
+      "max": 17499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "iPad 是苹果平板电脑产品线,正是它定义了平板这一品类。产品覆盖入门款到 iPad Pro,M 系芯片与 OLED 屏让 Pro 版具备桌面级生产力,配合 Apple Pencil 支持书写与绘画。适合学习笔记、办公、绘画创作与影音娱乐等广泛场景。作为平板品类的开创者,iPad 长期是行业参照系与销量标杆。",
+     "highlights": [
+      "M系列芯片",
+      "OLED屏",
+      "Apple Pencil"
+     ],
+     "tags": [
+      "平板",
+      "创作"
+     ],
+     "image": null
     },
     {
-      "id": "xiaomi",
-      "name": "小米",
-      "nameEn": "Xiaomi",
-      "domain": "mi.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2010,
-      "hq": "北京",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "性价比",
-        "人车家生态",
-        "互联网模式"
-      ],
-      "slogan": "永远相信美好的事情即将发生",
-      "desc": "全球出货量前三的智能手机厂商,以性价比模式和互联网思维起家,手机、IoT 与生态链产品矩阵庞大,自建智能工厂并进军高端与汽车市场,是最年轻的世界 500 强之一。",
-      "story": "2010 年,雷军联合七位创始人在北京创立小米,以 MIUI 系统积累口碑,2011 年发布初代小米手机,1999 元定价掀起性价比风暴,互联网直销模式颠覆行业。\n此后小米通过生态链战略扩张至家电与智能硬件,建成全球领先的消费级 IoT 平台;2021 年宣布造车,2024 年 SU7 上市即热销,同年手机出货量重返全球前三,完成从手机公司到人车家全生态科技集团的跨越。",
-      "products": [
-        {
-          "id": "xiaomi-mi-number",
-          "name": "小米数字系列",
-          "nameEn": "Xiaomi Number Series",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 4499,
-            "max": 7799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "小米年度影像旗舰,数字系列与 Ultra 版本搭载徕卡光学镜头与骁龙旗舰平台,15 Ultra 凭一英寸大底与超长焦跻身影像第一梯队。",
-          "highlights": [
-            "徕卡影像",
-            "骁龙8至尊版",
-            "澎湃OS"
-          ],
-          "tags": [
-            "旗舰",
-            "影像"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-redmi-k",
-          "name": "Redmi K 系列",
-          "nameEn": "Redmi K Series",
-          "type": "性能旗舰手机",
-          "price": {
-            "min": 1499,
-            "max": 3699,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "性价比性能旗舰的代名词,全系搭载当季旗舰芯片与高刷直屏,K 系列多次首发新一代处理器,是预算有限用户的首选机型。",
-          "highlights": [
-            "旗舰芯片下放",
-            "高刷直屏",
-            "极致性价比"
-          ],
-          "tags": [
-            "性能",
-            "性价比"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-su7",
-          "name": "小米 SU7",
-          "nameEn": "Xiaomi SU7",
-          "type": "纯电轿车",
-          "price": {
-            "min": 215900,
-            "max": 529900,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "小米首款汽车,C 级纯电轿跑,零百加速最快约 2.8 秒、CLTC 续航最长 830 公里,上市即大定爆单,Ultra 版纽北刷圈引发热议。",
-          "highlights": [
-            "澎湃OS车机",
-            "830km续航",
-            "SU7 Ultra"
-          ],
-          "tags": [
-            "汽车",
-            "轿跑"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-tv",
-          "name": "小米电视",
-          "nameEn": "Xiaomi TV",
-          "type": "智能电视",
-          "price": {
-            "min": 899,
-            "max": 19999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "国内出货量领先的互联网电视品牌,覆盖入门到大屏高端,大师系列以 Mini LED 与 OLED 冲击高端,性价比策略持续主导大屏市场。",
-          "highlights": [
-            "Mini LED",
-            "4K 144Hz",
-            "米家生态"
-          ],
-          "tags": [
-            "电视",
-            "大屏"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-pad",
-          "name": "小米平板",
-          "nameEn": "Xiaomi Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 1899,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "安卓平板性价比代表,小米平板 7 Pro 搭载骁龙8s Gen3 与 144Hz 屏,配合键盘手写笔与澎湃OS 跨端互联,主打学习办公轻生产力。",
-          "highlights": [
-            "144Hz高刷",
-            "骁龙8s Gen3",
-            "跨端互联"
-          ],
-          "tags": [
-            "平板",
-            "学习"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-band",
-          "name": "小米手环",
-          "nameEn": "Xiaomi Smart Band",
-          "type": "智能手环",
-          "price": {
-            "min": 169,
-            "max": 499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球累计出货量最大的智能手环系列,以百元级价格提供彩屏、心率血氧监测与超长续航,是无数用户的第一件可穿戴设备。",
-          "highlights": [
-            "超长续航",
-            "轻量佩戴",
-            "百元价位"
-          ],
-          "tags": [
-            "手环",
-            "健康"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-airpods",
+     "name": "AirPods",
+     "nameEn": "AirPods",
+     "type": "真无线耳机",
+     "price": {
+      "min": 999,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AirPods 是苹果真无线耳机,全球最受欢迎的真无线耳机之一。Pro 版搭载 H2 芯片,提供主动降噪与通透模式,与苹果设备可无缝自动切换。适合苹果生态用户的通勤、运动与通话场景。以佩戴舒适与生态联动体验著称,其发布带动了整个真无线耳机市场的兴起,是可穿戴声学产品的现象级代表作。",
+     "highlights": [
+      "H2芯片",
+      "主动降噪",
+      "自动切换"
+     ],
+     "tags": [
+      "耳机",
+      "降噪"
+     ],
+     "image": null
     },
     {
-      "id": "oppo",
-      "name": "OPPO",
-      "nameEn": "OPPO",
-      "domain": "oppo.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2004,
-      "hq": "东莞",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "影像",
-        "快充",
-        "线下渠道"
-      ],
-      "slogan": "",
-      "desc": "中国头部手机厂商,以 Find 与 Reno 双线布局,长期深耕线下渠道与快充技术,SuperVOOC 闪充与哈苏调校影像是招牌,近年以自研芯片与折叠屏持续冲击高端。",
-      "story": "2004 年 OPPO 成立于广东东莞,最早以 MP3、蓝光播放器等影音设备起家,凭借出色工业设计在海外打开市场;2008 年进军手机行业,依托线下渠道与拍照手机快速崛起。\n此后 OPPO 推出 Find X 系列与 Find N 折叠屏等高端产品,自研马里亚纳影像芯片落地,SuperVOOC 闪充一度引领行业节奏;如今与一加、realme 同属欧加集团,手机出货量稳居全球前四。",
-      "products": [
-        {
-          "id": "oppo-find-x",
-          "name": "Find X 系列",
-          "nameEn": "OPPO Find X Series",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 3999,
-            "max": 7999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 年度旗舰,Find X8 系列搭载天玑旗舰平台与哈苏影像,双潜望长焦的 Ultra 版对标顶级影像旗舰,是配置均衡的水桶机代表。",
-          "highlights": [
-            "哈苏影像",
-            "双潜望长焦",
-            "天玑旗舰平台"
-          ],
-          "tags": [
-            "旗舰",
-            "影像"
-          ],
-          "image": null
-        },
-        {
-          "id": "oppo-find-n",
-          "name": "Find N 系列",
-          "nameEn": "OPPO Find N Series",
-          "type": "折叠屏手机",
-          "price": {
-            "min": 5999,
-            "max": 8999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 折叠屏产品线,Find N5 以约 9 毫米的折叠厚度刷新大折叠轻薄纪录,内屏折痕控制出色,主打大屏办公与轻量携带兼得。",
-          "highlights": [
-            "超薄折叠",
-            "折痕控制",
-            "大屏办公"
-          ],
-          "tags": [
-            "折叠屏",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "oppo-reno",
-          "name": "Reno 系列",
-          "nameEn": "OPPO Reno Series",
-          "type": "中高端手机",
-          "price": {
-            "min": 1999,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 中高端主力,主打人像拍照与轻薄直屏设计,面向年轻用户,Reno13 系列加入 AI 消除与实况照片等潮流功能。",
-          "highlights": [
-            "人像算法",
-            "轻薄设计",
-            "AI消除"
-          ],
-          "tags": [
-            "中端",
-            "人像"
-          ],
-          "image": null
-        },
-        {
-          "id": "oppo-pad",
-          "name": "OPPO Pad",
-          "nameEn": "OPPO Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 1299,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 安卓平板系列,2.8K 144Hz 屏幕素质出色,配合手写笔与跨屏互联,主攻影音娱乐与轻办公场景。",
-          "highlights": [
-            "2.8K屏",
-            "144Hz",
-            "跨屏互联"
-          ],
-          "tags": [
-            "平板",
-            "影音"
-          ],
-          "image": null
-        },
-        {
-          "id": "oppo-enco",
-          "name": "Enco 耳机",
-          "nameEn": "OPPO Enco Earbuds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 199,
-            "max": 999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 真无线耳机家族,Enco X 系列与丹拿联合调音,支持高清蓝牙音质与动态降噪,中低端型号性价比突出。",
-          "highlights": [
-            "丹拿调音",
-            "高清音质",
-            "主动降噪"
-          ],
-          "tags": [
-            "耳机",
-            "音质"
-          ],
-          "image": null
-        },
-        {
-          "id": "oppo-watch",
-          "name": "OPPO Watch",
-          "nameEn": "OPPO Watch",
-          "type": "智能手表",
-          "price": {
-            "min": 1299,
-            "max": 2499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "OPPO 智能手表,采用双曲面柔性屏与 Wear OS 系统,支持 eSIM 独立通信与手表闪充,外观设计曾获多项设计大奖。",
-          "highlights": [
-            "eSIM独立通信",
-            "双擎混动续航",
-            "手表闪充"
-          ],
-          "tags": [
-            "手表",
-            "健康"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-watch",
+     "name": "Apple Watch",
+     "nameEn": "Apple Watch",
+     "type": "智能手表",
+     "price": {
+      "min": 1999,
+      "max": 6499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Apple Watch 是苹果智能手表,全球出货量最大的智能手表。与 iPhone 深度联动,提供健康监测、运动记录与 eSIM 独立通信,具备防水防尘能力,Ultra 版面向户外极限运动。适合关注健康管理、运动记录与消息提醒的广泛人群。被视为可穿戴品类的标杆,推动智能手表从手机配件走向独立的健康与通信设备。",
+     "highlights": [
+      "健康监测",
+      "eSIM独立通信",
+      "防水防尘"
+     ],
+     "tags": [
+      "手表",
+      "健康"
+     ],
+     "image": null
     },
     {
-      "id": "vivo",
-      "name": "vivo",
-      "nameEn": "vivo",
-      "domain": "vivo.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2009,
-      "hq": "东莞",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "影像",
-        "人像",
-        "设计"
-      ],
-      "slogan": "",
-      "desc": "中国头部手机厂商,以影像与设计见长,与蔡司深度联合研发光学系统,X 系列人像影像口碑出色,子品牌 iQOO 主攻性能电竞,出货量常年位居国内前二。",
-      "story": "2009 年 vivo 在广东东莞创立,关联步步高体系,早期以 Hi-Fi 音乐手机切入市场,2012 年推出的全球最薄智能手机 X1 奠定设计驱动基因。\n此后 vivo 深耕影像赛道,与蔡司达成全球影像战略合作,自研 V 系列影像芯片持续迭代,X 系列人像口碑深入人心;X Fold 折叠屏与 X200 系列站稳高端,iQOO 子品牌在电竞市场表现强劲,vivo 连续多年位居中国智能手机市场份额前列。",
-      "products": [
-        {
-          "id": "vivo-x-series",
-          "name": "X 系列",
-          "nameEn": "vivo X Series",
-          "type": "影像旗舰手机",
-          "price": {
-            "min": 3999,
-            "max": 7999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 影像旗舰,与蔡司联合调校,X200 Ultra 配备两亿像素长焦与自研影像芯片,夜景与人像被誉为国产影像天花板之一。",
-          "highlights": [
-            "蔡司光学",
-            "自研影像芯片",
-            "2亿像素长焦"
-          ],
-          "tags": [
-            "影像",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "vivo-x-fold",
-          "name": "X Fold 系列",
-          "nameEn": "vivo X Fold Series",
-          "type": "折叠屏手机",
-          "price": {
-            "min": 6999,
-            "max": 10999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 大折叠旗舰,以可靠的铰链与均衡配置著称,X Fold3 Pro 将折叠厚度与重量控制做到行业第一梯队,商务办公体验完善。",
-          "highlights": [
-            "轻薄大折叠",
-            "蔡司影像",
-            "多任务分屏"
-          ],
-          "tags": [
-            "折叠屏",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "vivo-s-series",
-          "name": "S 系列",
-          "nameEn": "vivo S Series",
-          "type": "人像拍照手机",
-          "price": {
-            "min": 1999,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 中端主力,专注人像自拍与轻薄时尚设计,搭载柔光补光与美颜算法,深受年轻用户欢迎。",
-          "highlights": [
-            "柔光人像",
-            "轻薄机身",
-            "自拍算法"
-          ],
-          "tags": [
-            "中端",
-            "自拍"
-          ],
-          "image": null
-        },
-        {
-          "id": "vivo-iqoo",
-          "name": "iQOO 系列",
-          "nameEn": "iQOO Series",
-          "type": "性能电竞手机",
-          "price": {
-            "min": 1499,
-            "max": 5499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 子品牌性能旗舰,标配独显芯片与大面积散热,iQOO 数字系列首发骁龙旗舰芯片,Z 系列覆盖中端,是电竞玩家的热门选择。",
-          "highlights": [
-            "独显芯片",
-            "旗舰性能",
-            "电竞优化"
-          ],
-          "tags": [
-            "性能",
-            "电竞"
-          ],
-          "image": null
-        },
-        {
-          "id": "vivo-pad",
-          "name": "vivo Pad",
-          "nameEn": "vivo Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 1799,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 安卓平板,3:2 生产力屏与天玑芯片兼顾性能续航,配合原子笔记与跨设备接力,主打学习办公生态互联。",
-          "highlights": [
-            "3:2生产力屏",
-            "天玑芯片",
-            "原子笔记"
-          ],
-          "tags": [
-            "平板",
-            "学习"
-          ],
-          "image": null
-        },
-        {
-          "id": "vivo-tws",
-          "name": "vivo TWS",
-          "nameEn": "vivo TWS Earbuds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 299,
-            "max": 1099,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "vivo 真无线耳机系列,TWS 3 Pro 全球首发高通 S5 音频平台,支持超清音频与智能降噪,与 OriginOS 系统深度联动。",
-          "highlights": [
-            "S5音频平台",
-            "智能降噪",
-            "超清音频"
-          ],
-          "tags": [
-            "耳机",
-            "音质"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "honor",
-      "name": "荣耀",
-      "nameEn": "HONOR",
-      "domain": "hihonor.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2013,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "AI",
-        "影像",
-        "护眼屏"
-      ],
-      "slogan": "",
-      "desc": "从华为独立出来的全球性科技品牌,以 Magic 旗舰、AI 智能体系统与青海湖电池等技术著称,折叠屏轻薄纪录保持者,重回国内市场份额头部阵营。",
-      "story": "2013 年荣耀作为华为子品牌诞生,以互联网性价比路线对标小米;2020 年 11 月为应对外部环境整体从华为剥离,由数十家供应链伙伴共同接盘,完成独立生死劫。\n独立后荣耀推出 Magic 系列对标苹果三星,Magic V2 折叠屏以约 9.9 毫米厚度打破轻薄纪录,自研青海湖硅碳电池、鹰眼相机与 MagicOS 人工智能平台持续落地,并扩展至平板、笔记本与穿戴全线,重回国内出货量前五。",
-      "products": [
-        {
-          "id": "honor-magic",
-          "name": "Magic 系列",
-          "nameEn": "HONOR Magic Series",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 3499,
-            "max": 9999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀年度旗舰,Magic7 系列搭载骁龙8至尊版与巨犀玻璃,首发荣耀 AI 智能体,鹰眼相机抓拍出色,保时捷设计版面向高端商务。",
-          "highlights": [
-            "骁龙8至尊版",
-            "AI智能体",
-            "鹰眼相机"
-          ],
-          "tags": [
-            "旗舰",
-            "AI"
-          ],
-          "image": null
-        },
-        {
-          "id": "honor-magic-v",
-          "name": "Magic V 系列",
-          "nameEn": "HONOR Magic V Series",
-          "type": "折叠屏手机",
-          "price": {
-            "min": 7999,
-            "max": 15999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀折叠屏旗舰,Magic V3 以约 9.2 毫米折叠厚度刷新大折叠轻薄纪录,RSR 保时捷设计版彰显高端气质,铰链可靠性口碑出色。",
-          "highlights": [
-            "轻薄纪录",
-            "保时捷设计",
-            "鲁班铰链"
-          ],
-          "tags": [
-            "折叠屏",
-            "轻薄"
-          ],
-          "image": null
-        },
-        {
-          "id": "honor-number",
-          "name": "荣耀数字系列",
-          "nameEn": "HONOR Number Series",
-          "type": "中高端手机",
-          "price": {
-            "min": 1999,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀中端主力,荣耀200 系列与雅顾摄影工作室联名,人像质感出色,绿洲护眼屏是差异化卖点,面向年轻潮流人群。",
-          "highlights": [
-            "雅顾联名",
-            "绿洲护眼屏",
-            "人像算法"
-          ],
-          "tags": [
-            "中端",
-            "人像"
-          ],
-          "image": null
-        },
-        {
-          "id": "honor-x",
-          "name": "X 系列",
-          "nameEn": "HONOR X Series",
-          "type": "国民手机",
-          "price": {
-            "min": 899,
-            "max": 1799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀千元机国民系列,以大电池、耐用品质与高屏占比著称,累计销量破亿,是入门市场的常青树。",
-          "highlights": [
-            "大电池",
-            "高耐久",
-            "高屏占比"
-          ],
-          "tags": [
-            "入门",
-            "耐用"
-          ],
-          "image": null
-        },
-        {
-          "id": "honor-pad",
-          "name": "荣耀平板",
-          "nameEn": "HONOR Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 899,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀平板覆盖入门到旗舰,2.5K 护眼屏与多屏协同是标配,主打影音学习场景,性价比出色。",
-          "highlights": [
-            "护眼屏",
-            "多屏协同",
-            "性价比"
-          ],
-          "tags": [
-            "平板",
-            "影音"
-          ],
-          "image": null
-        },
-        {
-          "id": "honor-magicbook",
-          "name": "MagicBook",
-          "nameEn": "HONOR MagicBook",
-          "type": "笔记本电脑",
-          "price": {
-            "min": 2999,
-            "max": 7999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "荣耀笔记本,以 OS Turbo 调度优化带来长续航,全系标配多屏协同与指纹电源键,AI PC 与轻薄本覆盖办公主力价位。",
-          "highlights": [
-            "OS Turbo",
-            "多屏协同",
-            "长续航"
-          ],
-          "tags": [
-            "笔记本",
-            "办公"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "oneplus",
-      "name": "一加",
-      "nameEn": "OnePlus",
-      "domain": "oneplus.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2013,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "性能",
-        "屏幕",
-        "不将就"
-      ],
-      "slogan": "不将就",
-      "desc": "欧加集团旗下性能先锋品牌,以“不将就”理念闻名,数字系列主打旗舰性能与顶级屏幕,率先将高刷新率屏幕普及到行业,与 OPPO 融合后搭载 ColorOS 系统。",
-      "story": "2013 年刘作虎离开 OPPO 创立一加,次年首代一加手机以手感与刷机友好在极客圈走红,海外市场口碑尤其突出,成为小而美品牌代表。\n2021 年一加回归 OPPO 体系,产品线扩展为数字与 Ace 双线,全面接入 OPPO 研发资源,一加 12、13 连续以顶配屏幕与大内存定义性能旗舰标准,成为线上市场增长最快的品牌之一。",
-      "products": [
-        {
-          "id": "oneplus-number",
-          "name": "一加数字系列",
-          "nameEn": "OnePlus Number Series",
-          "type": "性能旗舰手机",
-          "price": {
-            "min": 3999,
-            "max": 5999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一加年度旗舰,一加 13 搭载骁龙8至尊版与 2K 东方屏,色彩与亮度业内顶级,6000mAh 冰川电池兼顾轻薄与长续航。",
-          "highlights": [
-            "骁龙8至尊版",
-            "2K东方屏",
-            "6000mAh电池"
-          ],
-          "tags": [
-            "旗舰",
-            "性能"
-          ],
-          "image": null
-        },
-        {
-          "id": "oneplus-ace",
-          "name": "Ace 系列",
-          "nameEn": "OnePlus Ace Series",
-          "type": "性能手机",
-          "price": {
-            "min": 1699,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一加性价比性能线,Ace 5 Pro 首发搭载骁龙8至尊版与风驰游戏内核,游戏稳帧表现出色,被称为游戏党的真香机。",
-          "highlights": [
-            "游戏稳帧",
-            "大内存",
-            "超级快充"
-          ],
-          "tags": [
-            "性能",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "oneplus-buds",
-          "name": "OnePlus Buds",
-          "nameEn": "OnePlus Buds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 299,
-            "max": 999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一加真无线耳机,Pro 版支持主动降噪与杜比全景声,与一加手机低延迟双传,音质与性价比兼顾。",
-          "highlights": [
-            "主动降噪",
-            "杜比全景声",
-            "低延迟"
-          ],
-          "tags": [
-            "耳机",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "oneplus-pad",
-          "name": "一加平板",
-          "nameEn": "OnePlus Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 1999,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一加安卓平板,144Hz 超清大屏与旗舰芯片,金属一体设计颜值出众,主打影音与手游大屏体验。",
-          "highlights": [
-            "144Hz",
-            "金属一体成型",
-            "大屏游戏"
-          ],
-          "tags": [
-            "平板",
-            "影音"
-          ],
-          "image": null
-        },
-        {
-          "id": "oneplus-watch",
-          "name": "一加手表",
-          "nameEn": "OnePlus Watch",
-          "type": "智能手表",
-          "price": {
-            "min": 999,
-            "max": 1799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一加智能手表,主打长续航与运动健康监测,圆形表盘设计简约,与一加手机生态联动流畅。",
-          "highlights": [
-            "长续航",
-            "运动健康",
-            "生态联动"
-          ],
-          "tags": [
-            "手表",
-            "健康"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "realme",
-      "name": "真我",
-      "nameEn": "realme",
-      "domain": "realme.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2018,
-      "hq": "深圳",
-      "tier": "国民",
-      "sub": "手机",
-      "tags": [
-        "敢越级",
-        "快充",
-        "年轻潮流"
-      ],
-      "slogan": "敢越级",
-      "desc": "OPPO 旗下面向年轻人的科技品牌,以“敢越级”为口号,主打出海与电商渠道,快充与设计越级是标签,全球累计销量突破两亿台,印度与东南亚市场份额领先。",
-      "story": "2018 年 5 月,李炳忠在印度创立 realme,凭“敢越级”定位与高性价比迅速打开南亚与东南亚市场,成立约三年全球手机出货量突破一亿台,成为最快达成该纪录的品牌之一。\n2021 年 realme 正式回归国内市场,以 GT 系列冲刺性能旗舰,Neo 系列卡位中端,潜望长焦等配置不断下放,如今 realme 稳居全球出货量前十,是全球成长最快的手机品牌之一。",
-      "products": [
-        {
-          "id": "realme-gt",
-          "name": "GT 系列",
-          "nameEn": "realme GT Series",
-          "type": "性能旗舰手机",
-          "price": {
-            "min": 1999,
-            "max": 4499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真我性能旗舰,GT7 Pro 搭载骁龙8至尊版与 6500mAh 泰坦电池,配备潜望长焦,性能与续航越级,是对标红米 K 系的猛将。",
-          "highlights": [
-            "骁龙8至尊版",
-            "泰坦电池",
-            "潜望长焦"
-          ],
-          "tags": [
-            "性能",
-            "性价比"
-          ],
-          "image": null
-        },
-        {
-          "id": "realme-neo",
-          "name": "Neo 系列",
-          "nameEn": "realme Neo Series",
-          "type": "中端性能手机",
-          "price": {
-            "min": 1499,
-            "max": 2799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真我中端走量系列,历代搭载口碑芯片与大电池,以高性价比覆盖 1500-3000 元价位,是学生党热门之选。",
-          "highlights": [
-            "大电池",
-            "性价比",
-            "高刷屏"
-          ],
-          "tags": [
-            "中端",
-            "大电池"
-          ],
-          "image": null
-        },
-        {
-          "id": "realme-v",
-          "name": "V 系列",
-          "nameEn": "realme V Series",
-          "type": "国民手机",
-          "price": {
-            "min": 999,
-            "max": 1799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真我入门系列,主打长续航与快充下放,覆盖千元到中端价位,是品牌出货的基本盘。",
-          "highlights": [
-            "长续航",
-            "快充下放",
-            "入门定价"
-          ],
-          "tags": [
-            "入门",
-            "续航"
-          ],
-          "image": null
-        },
-        {
-          "id": "realme-buds",
-          "name": "真我 Buds",
-          "nameEn": "realme Buds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 99,
-            "max": 499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真我无线耳机系列,主打大动圈与低延迟游戏模式,百元级价格即可获得降噪,契合年轻用户预算。",
-          "highlights": [
-            "低延迟",
-            "大动圈",
-            "百元降噪"
-          ],
-          "tags": [
-            "耳机",
-            "入门"
-          ],
-          "image": null
-        },
-        {
-          "id": "realme-pad",
-          "name": "真我平板",
-          "nameEn": "realme Pad",
-          "type": "平板电脑",
-          "price": {
-            "min": 999,
-            "max": 1999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真我平板走性价比路线,2K 屏与轻薄金属机身,覆盖影音网课场景,入门价格友好。",
-          "highlights": [
-            "2K屏",
-            "轻薄机身",
-            "入门价格"
-          ],
-          "tags": [
-            "平板",
-            "影音"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "sony",
-      "name": "索尼",
-      "nameEn": "SONY",
-      "domain": "sony.com",
-      "categoryId": "tech",
-      "country": "日本",
-      "founded": 1946,
-      "hq": "东京",
-      "tier": "高端",
-      "sub": "影像",
-      "tags": [
-        "影像传感",
-        "游戏娱乐",
-        "音频"
-      ],
-      "slogan": "",
-      "desc": "日本消费电子与娱乐巨头,影像传感器全球市占率第一,Alpha 微单与 PlayStation 游戏机享誉世界,业务覆盖音乐、影视与游戏,是横跨硬件与内容的全能选手。",
-      "story": "1946 年井深大与盛田昭夫在东京创立索尼前身东京通信工业,先后推出日本第一台晶体管收音机与 Walkman 随身听,后者开创个人音乐时代,被誉为 20 世纪最伟大的电子产品之一。\n1994 年 PlayStation 问世并成长为全球最大游戏平台之一,索尼又以 CMOS 传感器占据全球半壁江山,Alpha 微单领跑全画幅市场;如今的索尼已转型为游戏、音乐、影视与影像技术并重的娱乐科技集团。",
-      "products": [
-        {
-          "id": "sony-alpha",
-          "name": "Alpha 微单",
-          "nameEn": "Sony Alpha Cameras",
-          "type": "全画幅微单相机",
-          "price": {
-            "min": 9999,
-            "max": 44999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全画幅微单市场领导者,A7 系列均衡全能,A7R 主打高像素,A9 与 A1 主攻速度,A7M4 被誉为水桶机标杆,深受职业摄影师与视频创作者信赖。",
-          "highlights": [
-            "全画幅",
-            "实时追焦",
-            "4K 120P"
-          ],
-          "tags": [
-            "相机",
-            "专业"
-          ],
-          "image": null
-        },
-        {
-          "id": "sony-playstation",
-          "name": "PlayStation 5",
-          "nameEn": "Sony PS5",
-          "type": "家用游戏主机",
-          "price": {
-            "min": 2599,
-            "max": 5999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球最畅销的家用游戏主机之一,PS5 以超高速 SSD 与 DualSense 自适应扳机带来沉浸体验,独占大作阵容豪华,PS5 Pro 面向高帧率玩家。",
-          "highlights": [
-            "超高速SSD",
-            "DualSense手柄",
-            "独占大作"
-          ],
-          "tags": [
-            "游戏机",
-            "主机"
-          ],
-          "image": null
-        },
-        {
-          "id": "sony-bravia",
-          "name": "BRAVIA 电视",
-          "nameEn": "Sony BRAVIA TV",
-          "type": "电视",
-          "price": {
-            "min": 3999,
-            "max": 49999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "索尼电视旗舰品牌,以 XR 认知芯片调校画质著称,OLED 与 Mini LED 阵容齐全,是影音发烧友心中的画质标杆。",
-          "highlights": [
-            "XR芯片",
-            "OLED",
-            "PS5最佳搭档"
-          ],
-          "tags": [
-            "电视",
-            "影音"
-          ],
-          "image": null
-        },
-        {
-          "id": "sony-wh",
-          "name": "WH 降噪耳机",
-          "nameEn": "Sony WH-1000X Series",
-          "type": "头戴降噪耳机",
-          "price": {
-            "min": 1299,
-            "max": 2999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "头戴降噪耳机行业标杆,WH-1000X 系列以旗舰降噪与 LDAC 高解析音质著称,长续航与舒适佩戴让它成为商务差旅人群的长期首选。",
-          "highlights": [
-            "标杆级降噪",
-            "LDAC",
-            "30小时续航"
-          ],
-          "tags": [
-            "耳机",
-            "降噪"
-          ],
-          "image": null
-        },
-        {
-          "id": "sony-wf",
-          "name": "WF 降噪豆",
-          "nameEn": "Sony WF-1000X Series",
-          "type": "真无线降噪耳机",
-          "price": {
-            "min": 1299,
-            "max": 1999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "真无线降噪耳机的定义者之一,WF-1000XM5 以小巧机身实现旗舰降噪,LDAC 音质出色,被玩家亲切称为“降噪豆”。",
-          "highlights": [
-            "旗舰降噪",
-            "LDAC",
-            "小巧佩戴"
-          ],
-          "tags": [
-            "耳机",
-            "降噪"
-          ],
-          "image": null
-        },
-        {
-          "id": "sony-rx100",
-          "name": "黑卡相机",
-          "nameEn": "Sony RX100 Series",
-          "type": "便携数码相机",
-          "price": {
-            "min": 5499,
-            "max": 9999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "把一英寸大底与弹出式取景器塞进口袋机身,RX100M7 支持 24 张连拍与 4K 视频,是 Vlog 与随身街拍的神器。",
-          "highlights": [
-            "一英寸大底",
-            "24fps连拍",
-            "4K HDR"
-          ],
-          "tags": [
-            "相机",
-            "便携"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "canon",
-      "name": "佳能",
-      "nameEn": "Canon",
-      "domain": "canon.com",
-      "categoryId": "tech",
-      "country": "日本",
-      "founded": 1937,
-      "hq": "东京",
-      "tier": "高端",
-      "sub": "影像",
-      "tags": [
-        "光学",
-        "EOS系统",
-        "影像"
-      ],
-      "slogan": "感动常在",
-      "desc": "全球相机市场份额第一的日本影像巨头,EOS 系统覆盖专业到入门,RF 卡口微单全面转型,办公打印设备与医疗影像同样领先,是技术自研率极高的光学大厂。",
-      "story": "1937 年佳能创立于东京,早期以旁轴相机起家,1959 年推出首款单反 Canonflex,此后靠 F 系列与 EOS 系统登顶专业摄影,1987 年 EOS 全电子卡口革命奠定其数十年统治力。\n进入数码时代,佳能长期占据全球可换镜头相机市场份额第一,近年以 EOS R 专微完成向 RF 卡口的转型,同时深耕喷墨打印机、广播镜头与医疗影像,是一家光学技术驱动的综合影像集团。",
-      "products": [
-        {
-          "id": "canon-eos-r-ff",
-          "name": "EOS R 全画幅微单",
-          "nameEn": "Canon EOS R Full-frame",
-          "type": "全画幅微单相机",
-          "price": {
-            "min": 9999,
-            "max": 39999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "佳能专微主力,R5 Mark II 以 4500 万像素与高速连拍覆盖体育野生题材,R6 系列是全画幅性价比水桶机,人像色彩科学备受婚摄青睐。",
-          "highlights": [
-            "4500万像素",
-            "人像色彩",
-            "机身防抖"
-          ],
-          "tags": [
-            "相机",
-            "专业"
-          ],
-          "image": null
-        },
-        {
-          "id": "canon-eos-r-aps",
-          "name": "EOS R APS-C 微单",
-          "nameEn": "Canon EOS R APS-C",
-          "type": "APS-C微单相机",
-          "price": {
-            "min": 3999,
-            "max": 8999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "佳能 APS-C 专微,R50 轻巧易用适合新手,R7 主打速度与长焦,是 Vlog 与学生党入门的热门之选。",
-          "highlights": [
-            "轻巧入门",
-            "Vlog佳选",
-            "RF卡口"
-          ],
-          "tags": [
-            "相机",
-            "入门"
-          ],
-          "image": null
-        },
-        {
-          "id": "canon-eos-dslr",
-          "name": "EOS 单反",
-          "nameEn": "Canon EOS DSLR",
-          "type": "数码单反相机",
-          "price": {
-            "min": 3499,
-            "max": 15999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "统治单反时代的传奇系统,5D 系列曾定义全画幅基准,90D 与 850D 仍在服役,镜头群庞大、保值率高。",
-          "highlights": [
-            "单反传奇",
-            "镜头群庞大",
-            "耐用可靠"
-          ],
-          "tags": [
-            "相机",
-            "单反"
-          ],
-          "image": null
-        },
-        {
-          "id": "canon-powershot",
-          "name": "PowerShot G 系列",
-          "nameEn": "Canon PowerShot G Series",
-          "type": "便携数码相机",
-          "price": {
-            "min": 2999,
-            "max": 5499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "佳能便携卡片机,G7 X Mark III 因 Vlog 直播翻红一度一机难求,一英寸底与翻转屏是核心卖点。",
-          "highlights": [
-            "一英寸底",
-            "翻转屏",
-            "直播神器"
-          ],
-          "tags": [
-            "相机",
-            "Vlog"
-          ],
-          "image": null
-        },
-        {
-          "id": "canon-printer",
-          "name": "喷墨打印机",
-          "nameEn": "Canon PIXMA Printers",
-          "type": "打印机",
-          "price": {
-            "min": 299,
-            "max": 4999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "佳能打印机以照片打印见长,PIXMA 腾彩系列覆盖家用到办公,加墨式高容量机型打印成本低,照片输出色彩出色。",
-          "highlights": [
-            "照片级输出",
-            "加墨式",
-            "家用办公"
-          ],
-          "tags": [
-            "打印",
-            "办公"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "nikon",
-      "name": "尼康",
-      "nameEn": "Nikon",
-      "domain": "nikon.com",
-      "categoryId": "tech",
-      "country": "日本",
-      "founded": 1917,
-      "hq": "东京",
-      "tier": "高端",
-      "sub": "影像",
-      "tags": [
-        "光学",
-        "Z卡口",
-        "耐用"
-      ],
-      "slogan": "影像从心",
-      "desc": "日本百年光学大厂,以军工级做工与成像锐度著称,Nikon F 卡口曾统治专业摄影半个世纪,Z 卡口微单强势复兴,运动与野生动物摄影领域口碑卓著。",
-      "story": "尼康 1917 年由三菱系企业合并创立于东京,最初生产光学玻璃与潜望镜,1948 年推出首台相机 Nikon I,1959 年 Nikon F 卡口确立专业单反标准,数十年间成为新闻与体育摄影的代名词。\n数码时代尼康一度沉寂,2018 年 Z 卡口微单强势复兴,从 Z6/Z7 到 Z8/Z9 全面开花,Z9 以无机械快门设计斩获多项年度相机大奖,重新站回全画幅第一梯队。",
-      "products": [
-        {
-          "id": "nikon-z-ff",
-          "name": "Z 全画幅微单",
-          "nameEn": "Nikon Z Full-frame",
-          "type": "全画幅微单相机",
-          "price": {
-            "min": 7999,
-            "max": 17999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "尼康 Z 系全画幅,Z6III 以部分堆叠式传感器实现速度画质兼得,动态范围与色彩深受风光摄影师喜爱,Z5 是入门全画幅高性价比之选。",
-          "highlights": [
-            "部分堆叠传感器",
-            "高动态范围",
-            "风光利器"
-          ],
-          "tags": [
-            "相机",
-            "风光"
-          ],
-          "image": null
-        },
-        {
-          "id": "nikon-z8-z9",
-          "name": "Z8 / Z9 旗舰",
-          "nameEn": "Nikon Z8 / Z9",
-          "type": "旗舰微单相机",
-          "price": {
-            "min": 27999,
-            "max": 35999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "尼康旗舰微单,Z9 取消机械快门实现全电子化,深度学习对焦追焦稳如磐石,是体育与野生动物摄影利器,Z8 以更轻机身延续旗舰性能。",
-          "highlights": [
-            "无机械快门",
-            "深度学习对焦",
-            "体育野生"
-          ],
-          "tags": [
-            "相机",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "nikon-z-dx",
-          "name": "Z APS-C 微单",
-          "nameEn": "Nikon Z DX",
-          "type": "APS-C微单相机",
-          "price": {
-            "min": 4499,
-            "max": 8999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "尼康 APS-C 阵营,Zfc 复古外观致敬经典 FM2,Z50II 对焦强劲,适合新手与扫街玩家。",
-          "highlights": [
-            "复古设计",
-            "新手友好",
-            "Z卡口"
-          ],
-          "tags": [
-            "相机",
-            "入门"
-          ],
-          "image": null
-        },
-        {
-          "id": "nikon-dslr",
-          "name": "D 系列单反",
-          "nameEn": "Nikon D-series DSLR",
-          "type": "数码单反相机",
-          "price": {
-            "min": 6999,
-            "max": 19999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "单反时代的传奇,D850 被誉为画质机皇,光学取景零延迟,D 镜头群庞大二手保值,至今仍有大量忠实用户。",
-          "highlights": [
-            "D850机皇",
-            "光学取景",
-            "保值耐用"
-          ],
-          "tags": [
-            "相机",
-            "单反"
-          ],
-          "image": null
-        },
-        {
-          "id": "nikon-z-lens",
-          "name": "尼克尔 Z 镜头",
-          "nameEn": "NIKKOR Z Lenses",
-          "type": "镜头",
-          "price": {
-            "min": 1299,
-            "max": 39999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "Z 卡口原厂镜头群,50mm f/1.8 等入门定焦性价比出色,S-Line 变焦光学素质顶级,是尼康微单体系的核心护城河。",
-          "highlights": [
-            "S-Line",
-            "入门定焦高性价比",
-            "光学素质"
-          ],
-          "tags": [
-            "镜头",
-            "光学"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "fujifilm",
-      "name": "富士",
-      "nameEn": "FUJIFILM",
-      "domain": "fujifilm.com",
-      "categoryId": "tech",
-      "country": "日本",
-      "founded": 1934,
-      "hq": "东京",
-      "tier": "高端",
-      "sub": "影像",
-      "tags": [
-        "胶片模拟",
-        "复古设计",
-        "中画幅"
-      ],
-      "slogan": "",
-      "desc": "以胶片起家的日本影像品牌,X-T 与 X100 的复古造型、胶片模拟直出色彩独树一帜,中画幅 GFX 挑战顶级画质,APS-C 微单长期供不应求,“富士味”已成流行文化。",
-      "story": "富士胶片创立于 1934 年,曾与柯达分庭抗礼;数码浪潮中富士果断转型,把胶片色彩科学移植进数码相机,2011 年 X100 与 2012 年 X-Pro1 的复古设计大获成功,从此确立了独特品牌气质。\n如今 X-T 与 X100 系列常年缺货溢价,胶片模拟成为全网流行色,中画幅 GFX 系列以更亲民的价格改写高画质格局,富士也从胶片公司蜕变为影像、医疗与材料并重的科技集团。",
-      "products": [
-        {
-          "id": "fujifilm-x-t",
-          "name": "X-T 系列",
-          "nameEn": "FUJIFILM X-T Series",
-          "type": "APS-C微单相机",
-          "price": {
-            "min": 7999,
-            "max": 13999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "富士中高端复古微单,X-T5 配备 4020 万像素 X-Trans 传感器与五轴防抖,胶片模拟直出色彩是招牌,颜值与画质兼备。",
-          "highlights": [
-            "4020万像素",
-            "胶片模拟",
-            "复古拨盘"
-          ],
-          "tags": [
-            "相机",
-            "复古"
-          ],
-          "image": null
-        },
-        {
-          "id": "fujifilm-x100",
-          "name": "X100 系列",
-          "nameEn": "FUJIFILM X100 Series",
-          "type": "便携旁轴相机",
-          "price": {
-            "min": 8999,
-            "max": 11999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "网红相机顶流,X100VI 首次加入机身防抖并内置多种胶片模拟,复古颜值与直出色彩使其长期缺货,是社交媒体时代的影像文化符号。",
-          "highlights": [
-            "胶片模拟",
-            "机身防抖",
-            "复古颜值"
-          ],
-          "tags": [
-            "相机",
-            "潮流"
-          ],
-          "image": null
-        },
-        {
-          "id": "fujifilm-x-s",
-          "name": "X-S 系列",
-          "nameEn": "FUJIFILM X-S Series",
-          "type": "APS-C微单相机",
-          "price": {
-            "min": 6999,
-            "max": 8999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "富士轻量全能线,X-S20 内置五轴防抖与 2610 万像素,6.2K 视频与翻转屏对 Vlog 玩家友好,被视为最强 APS-C 视频轻机之一。",
-          "highlights": [
-            "五轴防抖",
-            "6.2K视频",
-            "翻转屏"
-          ],
-          "tags": [
-            "相机",
-            "Vlog"
-          ],
-          "image": null
-        },
-        {
-          "id": "fujifilm-gfx",
-          "name": "GFX 中画幅",
-          "nameEn": "FUJIFILM GFX Series",
-          "type": "中画幅相机",
-          "price": {
-            "min": 19999,
-            "max": 49999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "富士中画幅系统,一亿像素的 GFX100 II 把商业摄影画质带到 5 万元价位,体积却接近全画幅单反,大幅降低了中画幅门槛。",
-          "highlights": [
-            "1亿像素",
-            "大尺寸传感器",
-            "商业画质"
-          ],
-          "tags": [
-            "相机",
-            "中画幅"
-          ],
-          "image": null
-        },
-        {
-          "id": "fujifilm-instax",
-          "name": "instax 拍立得",
-          "nameEn": "FUJIFILM instax",
-          "type": "拍立得相机",
-          "price": {
-            "min": 399,
-            "max": 1299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球最受欢迎的拍立得品牌,mini 相纸一冲即显,即拍即得的仪式感让它成为聚会、旅行与送礼标配,年轻用户渗透率极高。",
-          "highlights": [
-            "即拍即得",
-            "多彩机身",
-            "社交神器"
-          ],
-          "tags": [
-            "拍立得",
-            "潮流"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "leica",
-      "name": "徕卡",
-      "nameEn": "Leica",
-      "domain": "leica.com",
-      "categoryId": "tech",
-      "country": "德国",
-      "founded": 1849,
-      "hq": "韦茨拉尔",
-      "tier": "顶奢",
-      "sub": "影像",
-      "tags": [
-        "德系光学",
-        "旁轴传奇",
-        "奢侈品"
-      ],
-      "slogan": "",
-      "desc": "德国百年光学奢华品牌,以精湛机械工艺与“德味”成像闻名全球,M 系列旁轴是摄影史上传奇,Q 系列固定镜头相机长期热销,与华为、小米等联名合作,身份符号意义远超工具。",
-      "story": "1849 年恩斯特·莱茨在德国韦茨拉尔创办光学作坊,1914 年工程师巴纳克造出全球首台 35mm 相机 Ur-Leica,1925 年量产的 Leica I 开创 35mm 摄影时代,布列松等大师用徕卡记录了半个二十世纪。\n徕卡历经胶片辉煌与数码阵痛,2008 年后通过 M 系列数码化与 Q 系列复兴,并与华为、小米等品牌联名扩展影响力;如今徕卡既是精密光学工厂,更是奢侈品与生活方式的象征。",
-      "products": [
-        {
-          "id": "leica-m",
-          "name": "M 系列旁轴",
-          "nameEn": "Leica M System",
-          "type": "旁轴数码相机",
-          "price": {
-            "min": 42999,
-            "max": 99999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "135 摄影史上的传奇旁轴系统,M11 配备 6000 万像素无低通传感器,黄斑对焦与全手动操控是灵魂,无数摄影大师的信仰之选。",
-          "highlights": [
-            "黄斑对焦",
-            "全手动",
-            "收藏价值"
-          ],
-          "tags": [
-            "相机",
-            "奢侈"
-          ],
-          "image": null
-        },
-        {
-          "id": "leica-q",
-          "name": "Q 系列",
-          "nameEn": "Leica Q Series",
-          "type": "全画幅固定镜头相机",
-          "price": {
-            "min": 49999,
-            "max": 59999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "固定镜头全画幅相机标杆,Q3 搭载 6000 万像素传感器与 Summilux 28mm F1.7 镜头,画质与手感兼备,常年一机难求。",
-          "highlights": [
-            "Summilux镜头",
-            "6000万像素",
-            "德味直出"
-          ],
-          "tags": [
-            "相机",
-            "奢侈"
-          ],
-          "image": null
-        },
-        {
-          "id": "leica-sl",
-          "name": "SL 系统",
-          "nameEn": "Leica SL System",
-          "type": "全画幅微单相机",
-          "price": {
-            "min": 44999,
-            "max": 69999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "徕卡无反旗舰,SL3 采用 L 卡口联盟标准,6000 万像素传感器与徕卡镜头光学素质顶级,视频照片双修的专业之选。",
-          "highlights": [
-            "L卡口",
-            "6000万像素",
-            "视频双修"
-          ],
-          "tags": [
-            "相机",
-            "专业"
-          ],
-          "image": null
-        },
-        {
-          "id": "leica-m6",
-          "name": "M6 复刻胶片机",
-          "nameEn": "Leica M6 (2022)",
-          "type": "胶片旁轴相机",
-          "price": {
-            "min": 40999,
-            "max": 46999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "2022 年复刻回归的经典胶片旁轴,黄斑对焦与机械快门的原味操控,卡口兼容历代 M 镜头,是胶片复兴浪潮中的收藏级单品。",
-          "highlights": [
-            "胶片旁轴",
-            "黄斑对焦",
-            "复刻经典"
-          ],
-          "tags": [
-            "相机",
-            "胶片"
-          ],
-          "image": null
-        },
-        {
-          "id": "leica-binocular",
-          "name": "双筒望远镜",
-          "nameEn": "Leica Binoculars",
-          "type": "望远镜",
-          "price": {
-            "min": 29999,
-            "max": 49999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "百年光学积淀的顶级双筒望远镜,Noctivid 以锐利成像与出色的色差控制闻名,观鸟与户外爱好者的梦想器材。",
-          "highlights": [
-            "顶级光学",
-            "观鸟利器",
-            "德系做工"
-          ],
-          "tags": [
-            "光学",
-            "户外"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "hasselblad",
-      "name": "哈苏",
-      "nameEn": "Hasselblad",
-      "domain": "hasselblad.com",
-      "categoryId": "tech",
-      "country": "瑞典",
-      "founded": 1941,
-      "hq": "哥德堡",
-      "tier": "奢华",
-      "sub": "影像",
-      "tags": [
-        "中画幅",
-        "登月传奇",
-        "自然色彩"
-      ],
-      "slogan": "",
-      "desc": "瑞典中画幅传奇,曾随阿波罗登月记录太空,以一亿像素与哈苏自然色彩解决方案著称,现由大疆控股,是商业摄影与画质信仰的代名词。",
-      "story": "哈苏 1941 年由维克托·哈苏在瑞典哥德堡创立,以航空仪器起家;1957 年推出的 500C 中画幅相机与 1969 年阿波罗 11 号登月使用的哈苏相机,使其成为唯一见证人类登月的相机品牌。\n2017 年大疆成为哈苏控股股东,双方在影像技术上深度融合,X2D 100C 以一亿像素、16 位色深与自然色彩方案成为商业摄影利器,907X 复古机身则致敬经典,哈苏继续稳居画质金字塔尖。",
-      "products": [
-        {
-          "id": "hasselblad-x2d",
-          "name": "X2D 100C",
-          "nameEn": "Hasselblad X2D 100C",
-          "type": "中画幅相机",
-          "price": {
-            "min": 64999,
-            "max": 89999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "一亿像素中画幅旗舰,16 位色深与 15 级动态范围,哈苏自然色彩解决方案直出惊艳,是商业摄影与风光摄影的终极器材之一。",
-          "highlights": [
-            "1亿像素",
-            "16位色深",
-            "自然色彩"
-          ],
-          "tags": [
-            "相机",
-            "中画幅"
-          ],
-          "image": null
-        },
-        {
-          "id": "hasselblad-x2d-ii",
-          "name": "X2D II 100C",
-          "nameEn": "Hasselblad X2D II 100C",
-          "type": "中画幅相机",
-          "price": {
-            "min": 49999,
-            "max": 64999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "新一代一亿像素中画幅旗舰,升级相位检测对焦与操控体验,延续哈苏自然色彩与 16 位色深,面向顶级商业摄影师。",
-          "highlights": [
-            "1亿像素",
-            "相位对焦",
-            "自然色彩"
-          ],
-          "tags": [
-            "相机",
-            "中画幅"
-          ],
-          "image": null
-        },
-        {
-          "id": "hasselblad-907x-50c",
-          "name": "907X & CFV II 50C",
-          "nameEn": "Hasselblad 907X & CFV II 50C",
-          "type": "中画幅相机",
-          "price": {
-            "min": 25999,
-            "max": 39999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "复刻经典 500C 造型的模块化中画幅,5000 万像素 CFV II 数码背可上机拍摄,也能转接哈苏历代 V 系胶片镜头,情怀与画质兼得。",
-          "highlights": [
-            "复古模块化",
-            "V镜头转接",
-            "5000万像素"
-          ],
-          "tags": [
-            "相机",
-            "复古"
-          ],
-          "image": null
-        },
-        {
-          "id": "hasselblad-907x-100c",
-          "name": "907X & CFV 100C",
-          "nameEn": "Hasselblad 907X & CFV 100C",
-          "type": "中画幅相机",
-          "price": {
-            "min": 39999,
-            "max": 59999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "致敬 1957 年 SWC 的一亿像素中画幅组合,超紧凑机身可随身携带,让胶片时代的哈苏镜头焕发数码新生。",
-          "highlights": [
-            "1亿像素",
-            "超紧凑",
-            "胶片镜头数码化"
-          ],
-          "tags": [
-            "相机",
-            "中画幅"
-          ],
-          "image": null
-        },
-        {
-          "id": "hasselblad-xcd",
-          "name": "XCD 镜头群",
-          "nameEn": "Hasselblad XCD Lenses",
-          "type": "中画幅镜头",
-          "price": {
-            "min": 15999,
-            "max": 79999,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "哈苏中画幅自动对焦镜头群,覆盖 25mm 到 135mm 焦段,镜间快门静音轻巧,光学素质以极致锐利著称。",
-          "highlights": [
-            "镜间快门",
-            "极致锐利",
-            "轻量化"
-          ],
-          "tags": [
-            "镜头",
-            "光学"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "dji",
-      "name": "大疆",
-      "nameEn": "DJI",
-      "domain": "dji.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2006,
-      "hq": "深圳",
-      "tier": "高端",
-      "sub": "影像",
-      "tags": [
-        "无人机",
-        "云台",
-        "全球霸主"
-      ],
-      "slogan": "未来无所不能",
-      "desc": "全球民用无人机绝对霸主,消费级市场份额约七成,从精灵到 Mavic 持续定义行业,手持影像、专业影视与农业、行业应用全线覆盖,是中国智造的世界名片。",
-      "story": "2006 年汪滔在香港科技大学创业,创立大疆创新;2013 年精灵 Phantom 一体化无人机引爆全球消费市场,此后 Mavic 系列把专业航拍装进口袋,大疆迅速占据全球消费级无人机约七成份额。\n如今大疆业务延伸至手持影像、专业影视、农业植保与行业应用,Mini、Air、Mavic 全价位布局,口袋云台相机 Osmo Pocket 与运动相机 Action 系列持续热销,成为全球创新科技的中国标杆。",
-      "products": [
-        {
-          "id": "dji-mini",
-          "name": "DJI Mini 系列",
-          "nameEn": "DJI Mini Series",
-          "type": "航拍无人机",
-          "price": {
-            "min": 1499,
-            "max": 4788,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "249 克以下免实名登记的航拍无人机,Mini 4 Pro 带来全向避障与 4K/60fps HDR,轻巧法规友好,是新手与旅行航拍首选。",
-          "highlights": [
-            "249g轻量",
-            "全向避障",
-            "4K HDR"
-          ],
-          "tags": [
-            "无人机",
-            "入门"
-          ],
-          "image": null
-        },
-        {
-          "id": "dji-mavic",
-          "name": "Mavic 系列",
-          "nameEn": "DJI Mavic Series",
-          "type": "旗舰航拍无人机",
-          "price": {
-            "min": 9299,
-            "max": 26888,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "大疆航拍旗舰,Mavic 4 Pro 采用无限旋转云台与哈苏三摄,续航长达 51 分钟,把专业级航拍能力推向新高度。",
-          "highlights": [
-            "哈苏三摄",
-            "51分钟续航",
-            "全向云台"
-          ],
-          "tags": [
-            "无人机",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "dji-osmo-action",
-          "name": "Osmo Action",
-          "nameEn": "DJI Osmo Action",
-          "type": "运动相机",
-          "price": {
-            "min": 1799,
-            "max": 2999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "大疆运动相机,前后双屏与超强增稳,Action 5 Pro 以大电池长续航对标 GoPro,是骑行与潜水的热门选择。",
-          "highlights": [
-            "前后双屏",
-            "增稳防抖",
-            "长续航"
-          ],
-          "tags": [
-            "运动相机",
-            "户外"
-          ],
-          "image": null
-        },
-        {
-          "id": "dji-osmo-pocket",
-          "name": "Osmo Pocket",
-          "nameEn": "DJI Osmo Pocket",
-          "type": "口袋云台相机",
-          "price": {
-            "min": 1999,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "一英寸底的口袋云台相机,Pocket 3 配备 2 英寸旋转屏与 D-Log M,一键稳定运镜成为 Vlog 神器,博主人手一台。",
-          "highlights": [
-            "一英寸CMOS",
-            "三轴云台",
-            "旋转屏"
-          ],
-          "tags": [
-            "Vlog",
-            "便携"
-          ],
-          "image": null
-        },
-        {
-          "id": "dji-ronin",
-          "name": "如影 Ronin",
-          "nameEn": "DJI Ronin Series",
-          "type": "手持稳定器",
-          "price": {
-            "min": 899,
-            "max": 4999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "专业手持稳定器双线布局,RS 系列服务单反微单拍摄,OM 系列面向手机 Vlog,是影视工业级稳定体验的行业标杆。",
-          "highlights": [
-            "三轴增稳",
-            "强负载",
-            "专业影视"
-          ],
-          "tags": [
-            "稳定器",
-            "影视"
-          ],
-          "image": null
-        },
-        {
-          "id": "dji-mic",
-          "name": "DJI Mic",
-          "nameEn": "DJI Mic Series",
-          "type": "无线麦克风",
-          "price": {
-            "min": 998,
-            "max": 2299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "大疆无线麦克风,Mic 2 支持全向拾音与 32-bit 浮点内录,远达 250 米的稳定传输,访谈与 Vlog 收音利器。",
-          "highlights": [
-            "32-bit浮点",
-            "250m传输",
-            "全向拾音"
-          ],
-          "tags": [
-            "麦克风",
-            "收音"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "insta360",
-      "name": "影石",
-      "nameEn": "Insta360",
-      "domain": "insta360.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2015,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "影像",
-      "tags": [
-        "全景相机",
-        "运动影像",
-        "AI剪辑"
-      ],
-      "slogan": "",
-      "desc": "全球全景运动相机第一品牌,全景相机与运动相机双线开花,隐形自拍杆与 AI 剪辑玩法出圈,GO 系列拇指相机引领轻量化,产品远销全球两百多个国家和地区。",
-      "story": "影石创新 2015 年创立于深圳,创始人刘靖康从南京大学毕业后投身创业,2017 年推出 Nano 全景相机崭露头角;ONE X 之后影石以全景运动相机在海外走红,Insta360 X 系列成为滑雪、摩托等极限运动的标配。\n如今影石推出 GO 拇指相机、Ace 运动相机与 Flow 手机云台等产品,全景相机全球市占率位居第一,2025 年登陆科创板,被誉为运动影像领域的中国黑马。",
-      "products": [
-        {
-          "id": "insta360-x",
-          "name": "X 系列",
-          "nameEn": "Insta360 X Series",
-          "type": "全景运动相机",
-          "price": {
-            "min": 2599,
-            "max": 4299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "全球全景运动相机标杆,X5 升级大底传感器与可换镜片设计,8K 全景画面拍后可重新构图,隐形自拍杆玩法风靡全网。",
-          "highlights": [
-            "8K全景",
-            "隐形自拍杆",
-            "AI重构图"
-          ],
-          "tags": [
-            "全景",
-            "运动"
-          ],
-          "image": null
-        },
-        {
-          "id": "insta360-ace",
-          "name": "Ace 系列",
-          "nameEn": "Insta360 Ace Series",
-          "type": "运动相机",
-          "price": {
-            "min": 2199,
-            "max": 3499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "影石运动相机,与徕卡联合调色,Ace Pro 2 搭载 1/1.3 英寸大底与翻转屏,画质与防抖对标行业顶流。",
-          "highlights": [
-            "徕卡调色",
-            "大底传感器",
-            "翻转屏"
-          ],
-          "tags": [
-            "运动相机",
-            "户外"
-          ],
-          "image": null
-        },
-        {
-          "id": "insta360-go",
-          "name": "GO 系列",
-          "nameEn": "Insta360 GO Series",
-          "type": "拇指相机",
-          "price": {
-            "min": 1599,
-            "max": 2199,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "拇指大小的超轻便相机,磁吸挂绳解放双手,第一视角素材自动剪辑,遛娃骑行拍摄毫无负担。",
-          "highlights": [
-            "拇指大小",
-            "磁吸佩戴",
-            "自动剪辑"
-          ],
-          "tags": [
-            "微型",
-            "第一视角"
-          ],
-          "image": null
-        },
-        {
-          "id": "insta360-flow",
-          "name": "Flow 手机云台",
-          "nameEn": "Insta360 Flow",
-          "type": "手机稳定器",
-          "price": {
-            "min": 699,
-            "max": 999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "影石手机稳定器,内置自拍杆与三脚架,AI 跟踪与苹果 DockKit 原生支持,让手机拍出电影运镜。",
-          "highlights": [
-            "AI跟踪",
-            "内置延长杆",
-            "DockKit"
-          ],
-          "tags": [
-            "稳定器",
-            "Vlog"
-          ],
-          "image": null
-        },
-        {
-          "id": "insta360-link",
-          "name": "Link 网络摄像头",
-          "nameEn": "Insta360 Link",
-          "type": "网络摄像头",
-          "price": {
-            "min": 999,
-            "max": 2299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "影石 AI 网络摄像头,4K 画质与云台自动追踪,手势控制与白板模式适配在线会议与直播教学。",
-          "highlights": [
-            "4K云台",
-            "AI追踪",
-            "手势控制"
-          ],
-          "tags": [
-            "摄像头",
-            "办公"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "gopro",
-      "name": "GoPro",
-      "nameEn": "GoPro",
-      "domain": "gopro.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 2002,
-      "hq": "圣马特奥",
-      "tier": "大众",
-      "sub": "影像",
-      "tags": [
-        "运动相机",
-        "极限运动",
-        "第一视角"
-      ],
-      "slogan": "Be a Hero",
-      "desc": "美国运动相机的开创者与代名词,Hero 系列以极限运动第一视角影像风靡全球,防水耐造与超级防抖是标签,虽面临激烈竞争,仍是极限运动影像的文化符号。",
-      "story": "2002 年冲浪爱好者尼克·伍德曼在加州创立 GoPro,最初只想为冲浪者造一条能绑在手腕上的相机腕带;Hero 系列借极限运动视频与 YouTube 生态爆红,开创运动相机品类并一度市值超百亿美元。\n近年面对大疆等强敌,GoPro 以 Hero 系列持续迭代防抖与画质,Max 全景相机补足品类,并转向订阅服务转型,依然是全球极限运动爱好者心中的信仰品牌。",
-      "products": [
-        {
-          "id": "gopro-hero-13",
-          "name": "Hero 13 Black",
-          "nameEn": "GoPro Hero 13 Black",
-          "type": "运动相机",
-          "price": {
-            "min": 2998,
-            "max": 3298,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "运动相机代名词的最新旗舰,支持 HB 系列镜头模块与 5.3K/60fps,HyperSmooth 防抖业内标杆,10 米裸机防水。",
-          "highlights": [
-            "5.3K 60fps",
-            "HyperSmooth防抖",
-            "10米防水"
-          ],
-          "tags": [
-            "运动相机",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "gopro-hero-12",
-          "name": "Hero 12 Black",
-          "nameEn": "GoPro Hero 12 Black",
-          "type": "运动相机",
-          "price": {
-            "min": 1799,
-            "max": 2299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "上一代主力运动相机,5.3K 视频与 HDR 照片,增稳与地平线锁定表现成熟,现在价格亲民、性价比高。",
-          "highlights": [
-            "5.3K视频",
-            "地平线锁定",
-            "性价比"
-          ],
-          "tags": [
-            "运动相机",
-            "性价比"
-          ],
-          "image": null
-        },
-        {
-          "id": "gopro-hero-entry",
-          "name": "Hero 入门系列",
-          "nameEn": "GoPro Hero (2024)",
-          "type": "运动相机",
-          "price": {
-            "min": 1499,
-            "max": 1799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "GoPro 入门款,小巧机身保留 4K 视频与防抖,一键操作简单直观,是第一次入手运动相机的轻松之选。",
-          "highlights": [
-            "4K视频",
-            "小巧易用",
-            "入门价格"
-          ],
-          "tags": [
-            "运动相机",
-            "入门"
-          ],
-          "image": null
-        },
-        {
-          "id": "gopro-hero-11-mini",
-          "name": "Hero 11 Black Mini",
-          "nameEn": "GoPro Hero 11 Black Mini",
-          "type": "运动相机",
-          "price": {
-            "min": 1599,
-            "max": 2199,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "小机身版 Hero 11,取消前屏改为单一触控屏,主打轻量化第一视角骑行与摩托记录,价格更亲民。",
-          "highlights": [
-            "轻量机身",
-            "第一视角",
-            "单屏设计"
-          ],
-          "tags": [
-            "运动相机",
-            "轻量"
-          ],
-          "image": null
-        },
-        {
-          "id": "gopro-max",
-          "name": "GoPro Max",
-          "nameEn": "GoPro MAX",
-          "type": "全景运动相机",
-          "price": {
-            "min": 2998,
-            "max": 3498,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "GoPro 全景相机,360 度画面拍后重构图,Max HyperSmooth 出片稳定,一机两用可当单镜头运动相机。",
-          "highlights": [
-            "360全景",
-            "拍后重构图",
-            "隐形自拍杆"
-          ],
-          "tags": [
-            "全景",
-            "运动"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "nintendo",
-      "name": "任天堂",
-      "nameEn": "Nintendo",
-      "domain": "nintendo.com",
-      "categoryId": "tech",
-      "country": "日本",
-      "founded": 1889,
-      "hq": "京都",
-      "tier": "大众",
-      "sub": "游戏",
-      "tags": [
-        "游戏主机",
-        "第一方IP",
-        "创意玩法"
-      ],
-      "slogan": "",
-      "desc": "全球游戏行业百年巨头,马力欧、塞尔达、宝可梦的缔造者,以独创玩法与第一方游戏著称,Switch 融合主机与掌机大获成功,是无数玩家的童年回忆。",
-      "story": "任天堂 1889 年以花札纸牌起家,山内溥执掌后转向电子游戏,1983 年 FC 红白机拯救北美游戏市场,马力欧与塞尔达传说相继诞生,GB、NDS、Wii 一次次定义游戏形态。\n2017 年 Switch 以主机掌机二合一席卷全球,销量突破一亿五千万台;2025 年 Switch 2 接棒发售再创纪录,任天堂坚持软硬件一体的独特路线,旗下 IP 更延伸出游改电影与超级任天堂世界主题乐园。",
-      "products": [
-        {
-          "id": "nintendo-switch",
-          "name": "Nintendo Switch",
-          "nameEn": "Nintendo Switch",
-          "type": "家用游戏主机",
-          "price": {
-            "min": 1999,
-            "max": 2699,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "主机掌机二合一的现象级游戏机,拆卸 Joy-Con 随时随地开玩,塞尔达与马力欧第一方大作阵容强大,全球销量超 1.5 亿台。",
-          "highlights": [
-            "主机掌机合一",
-            "Joy-Con",
-            "第一方大作"
-          ],
-          "tags": [
-            "游戏机",
-            "主机"
-          ],
-          "image": null
-        },
-        {
-          "id": "nintendo-switch-2",
-          "name": "Nintendo Switch 2",
-          "nameEn": "Nintendo Switch 2",
-          "type": "家用游戏主机",
-          "price": {
-            "min": 2899,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "2025 年发售的新一代主机,更大的 1080P 屏幕支持 4K 电视输出与 120Hz,全新 Joy-Con 支持鼠标模式,首发即全球热销缺货。",
-          "highlights": [
-            "4K输出",
-            "120Hz",
-            "Joy-Con鼠标模式"
-          ],
-          "tags": [
-            "游戏机",
-            "次世代"
-          ],
-          "image": null
-        },
-        {
-          "id": "nintendo-switch-oled",
-          "name": "Switch OLED 版",
-          "nameEn": "Nintendo Switch OLED Model",
-          "type": "家用游戏主机",
-          "price": {
-            "min": 2399,
-            "max": 2799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "Switch 家族屏幕升级款,7 英寸 OLED 屏对比度大幅提升,支架与存储同步改进,是历代 Switch 中口碑最均衡的版本。",
-          "highlights": [
-            "OLED屏",
-            "64GB存储",
-            "可调支架"
-          ],
-          "tags": [
-            "游戏机",
-            "升级款"
-          ],
-          "image": null
-        },
-        {
-          "id": "nintendo-switch-lite",
-          "name": "Switch Lite",
-          "nameEn": "Nintendo Switch Lite",
-          "type": "掌上游戏机",
-          "price": {
-            "min": 1499,
-            "max": 1699,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "纯掌机形态的 Switch,不可连接电视,一体化轻巧设计,适合个人随身游玩,多款配色深受学生党喜爱。",
-          "highlights": [
-            "纯掌机",
-            "一体化设计",
-            "多配色"
-          ],
-          "tags": [
-            "掌机",
-            "便携"
-          ],
-          "image": null
-        },
-        {
-          "id": "nintendo-zelda",
-          "name": "塞尔达传说系列",
-          "nameEn": "The Legend of Zelda",
-          "type": "动作冒险游戏",
-          "price": {
-            "min": 299,
-            "max": 429,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "任天堂旗舰级动作冒险 IP,旷野之息与王国之泪重新定义开放世界玩法,是评分最高的游戏系列之一,也是无数人购买主机的理由。",
-          "highlights": [
-            "开放世界",
-            "物理引擎",
-            "高分神作"
-          ],
-          "tags": [
-            "游戏",
-            "开放世界"
-          ],
-          "image": null
-        },
-        {
-          "id": "nintendo-mario",
-          "name": "超级马力欧系列",
-          "nameEn": "Super Mario",
-          "type": "平台跳跃游戏",
-          "price": {
-            "min": 299,
-            "max": 399,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "游戏史上最著名的 IP,马力欧系列全球累计销量数亿份,奥德赛与惊奇持续创新,大电影与主题乐园让 IP 影响力破圈。",
-          "highlights": [
-            "国民IP",
-            "平台跳跃",
-            "全年龄"
-          ],
-          "tags": [
-            "游戏",
-            "IP"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "microsoft",
-      "name": "微软",
-      "nameEn": "Microsoft",
-      "domain": "microsoft.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1975,
-      "hq": "雷德蒙德",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "Windows",
-        "云计算",
-        "AI"
-      ],
-      "slogan": "予力全球每一人、每一组织,成就不凡",
-      "desc": "全球最大软件公司之一,Windows 与 Office 定义个人电脑时代,如今 Azure 云计算与 AI 全面领先,Xbox 是其游戏娱乐支柱,Surface 代表微软的硬件设计美学。",
-      "story": "1975 年比尔·盖茨与保罗·艾伦创立微软,凭借 MS-DOS 与 Windows 成为 PC 时代的操作系统霸主,Office 办公套件至今仍是全球生产力标准。\n萨提亚·纳德拉 2014 年执掌后押注云计算与开放生态,Azure 跃居全球第二,收购动视暴雪补强游戏版图,并与 OpenAI 深度合作引领生成式 AI 浪潮,市值跻身全球前三,完成从软件巨头到 AI 时代引领者的转身。",
-      "products": [
-        {
-          "id": "microsoft-surface",
-          "name": "Surface 系列",
-          "nameEn": "Microsoft Surface",
-          "type": "笔记本电脑",
-          "price": {
-            "min": 2988,
-            "max": 19888,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "微软自研硬件标杆,Surface Pro 二合一平板笔记本的可拆卸键盘设计独树一帜,Laptop 系列轻薄商务,是 Windows 阵营的设计天花板。",
-          "highlights": [
-            "二合一形态",
-            "触控屏",
-            "轻薄商务"
-          ],
-          "tags": [
-            "笔记本",
-            "设计"
-          ],
-          "image": null
-        },
-        {
-          "id": "microsoft-xbox-series",
-          "name": "Xbox Series X|S",
-          "nameEn": "Xbox Series X|S",
-          "type": "家用游戏主机",
-          "price": {
-            "min": 1899,
-            "max": 3899,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "微软次世代主机,Series X 以 12 TFLOPS 算力输出 4K 画面,S 系列小巧高性价比,Game Pass 订阅库被誉为主机界的 Netflix。",
-          "highlights": [
-            "12 TFLOPS",
-            "快速架构",
-            "Game Pass"
-          ],
-          "tags": [
-            "游戏机",
-            "主机"
-          ],
-          "image": null
-        },
-        {
-          "id": "microsoft-xbox-controller",
-          "name": "Xbox 手柄",
-          "nameEn": "Xbox Wireless Controller",
-          "type": "游戏手柄",
-          "price": {
-            "min": 299,
-            "max": 1599,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "最通用的 PC 游戏手柄,Xbox 无线手柄人体工学出色,几乎成为 PC 手柄的默认标准,Elite 精英系列可自定义按键与背键。",
-          "highlights": [
-            "人体工学",
-            "PC通用",
-            "精英版可自定义"
-          ],
-          "tags": [
-            "手柄",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "microsoft-game-pass",
-          "name": "Xbox Game Pass",
-          "nameEn": "Xbox Game Pass",
-          "type": "游戏订阅服务",
-          "price": {
-            "min": 49,
-            "max": 119,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "微软游戏订阅服务,数百款主机与 PC 游戏随玩随下,第一方大作首发即入库,Ultimate 档含云游戏与 EA Play,被誉为游戏界的 Netflix。",
-          "highlights": [
-            "数百款游戏库",
-            "首发入库",
-            "云游戏"
-          ],
-          "tags": [
-            "订阅",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "microsoft-surface-keyboard",
-          "name": "Surface 键鼠外设",
-          "nameEn": "Microsoft Surface Accessories",
-          "type": "键鼠外设",
-          "price": {
-            "min": 99,
-            "max": 799,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "微软键鼠外设系列,Surface 键盘以阿尔坎塔拉面料与简约设计著称,人体工学键鼠适合长时间办公。",
-          "highlights": [
-            "简约设计",
-            "人体工学",
-            "长续航"
-          ],
-          "tags": [
-            "外设",
-            "办公"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "google",
-      "name": "谷歌",
-      "nameEn": "Google",
-      "domain": "google.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1998,
-      "hq": "山景城",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "搜索引擎",
-        "安卓",
-        "AI"
-      ],
-      "slogan": "整合全球信息,使人人皆可访问并从中受益",
-      "desc": "全球搜索引擎与安卓系统缔造者,旗下 YouTube、Gmail、地图服务覆盖数十亿用户,Pixel 硬件展示 AI 实力,DeepMind 引领人工智能前沿,是全球最具影响力的科技公司之一。",
-      "story": "1998 年拉里·佩奇与谢尔盖·布林在斯坦福创立谷歌,以 PageRank 算法颠覆搜索;2005 年收购安卓并开源,如今占据全球智能手机七成以上份额,YouTube 成为全球最大视频平台。\n2015 年谷歌重组为 Alphabet 旗下子公司,2016 年 AlphaGo 战胜李世石震惊世界;近年 Gemini 大模型与 Pixel 手机深度融合 AI,自研 TPU 芯片支撑全球最大规模 AI 基础设施,谷歌仍是全球信息入口与 AI 浪潮的核心。",
-      "products": [
-        {
-          "id": "google-pixel",
-          "name": "Pixel 系列",
-          "nameEn": "Google Pixel",
-          "type": "旗舰智能手机",
-          "price": {
-            "min": 3499,
-            "max": 8999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌亲儿子手机,以纯净安卓与七年系统更新著称,计算摄影与 AI 功能全球领先,Pixel 9 系列深度整合 Gemini,是安卓体验的风向标。",
-          "highlights": [
-            "原生安卓",
-            "计算摄影",
-            "Gemini AI"
-          ],
-          "tags": [
-            "手机",
-            "AI"
-          ],
-          "image": null
-        },
-        {
-          "id": "google-pixel-watch",
-          "name": "Pixel Watch",
-          "nameEn": "Google Pixel Watch",
-          "type": "智能手表",
-          "price": {
-            "min": 1599,
-            "max": 2999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌 Wear OS 亲儿子手表,Fitbit 健康体系加持,圆表盘设计精致,与 Pixel 手机联动体验最佳。",
-          "highlights": [
-            "Wear OS",
-            "Fitbit健康",
-            "圆表盘"
-          ],
-          "tags": [
-            "手表",
-            "健康"
-          ],
-          "image": null
-        },
-        {
-          "id": "google-pixel-buds",
-          "name": "Pixel Buds",
-          "nameEn": "Google Pixel Buds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 799,
-            "max": 1699,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌真无线耳机,Pixel Buds Pro 2 搭载 Tensor A1 芯片,主动降噪与实时翻译体验出色,是安卓用户的好搭档。",
-          "highlights": [
-            "Tensor A1",
-            "主动降噪",
-            "实时翻译"
-          ],
-          "tags": [
-            "耳机",
-            "降噪"
-          ],
-          "image": null
-        },
-        {
-          "id": "google-pixel-tablet",
-          "name": "Pixel Tablet",
-          "nameEn": "Google Pixel Tablet",
-          "type": "平板电脑",
-          "price": {
-            "min": 2999,
-            "max": 3999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌平板电脑,搭配充电音箱底座秒变智能家居中控,强调家庭场景与多设备协同。",
-          "highlights": [
-            "充电底座",
-            "家居中控",
-            "Cast投屏"
-          ],
-          "tags": [
-            "平板",
-            "家居"
-          ],
-          "image": null
-        },
-        {
-          "id": "google-chromecast",
-          "name": "Chromecast",
-          "nameEn": "Google Chromecast",
-          "type": "电视投屏设备",
-          "price": {
-            "min": 199,
-            "max": 699,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌电视投屏设备,Cast 协议成为行业事实标准,Google TV 系统聚合流媒体,是客厅大屏娱乐的入口。",
-          "highlights": [
-            "Cast投屏",
-            "Google TV",
-            "4K HDR"
-          ],
-          "tags": [
-            "投屏",
-            "客厅"
-          ],
-          "image": null
-        },
-        {
-          "id": "google-nest",
-          "name": "Nest 智能家居",
-          "nameEn": "Google Nest",
-          "type": "智能家居",
-          "price": {
-            "min": 499,
-            "max": 2499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "谷歌智能家居品牌,涵盖智能音箱、中控屏与摄像头,Google Assistant 语音助手加持,是欧美智能家居生态的代表。",
-          "highlights": [
-            "智能音箱",
-            "中控屏",
-            "语音助手"
-          ],
-          "tags": [
-            "智能家居",
-            "音箱"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "nvidia",
-      "name": "英伟达",
-      "nameEn": "NVIDIA",
-      "domain": "nvidia.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1993,
-      "hq": "圣克拉拉",
-      "tier": "高端",
-      "sub": "芯片",
-      "tags": [
-        "GPU",
-        "AI计算",
-        "光追"
-      ],
-      "slogan": "",
-      "desc": "全球 AI 计算与图形芯片霸主,GPU 市占率遥遥领先,GeForce 游戏卡与 RTX 技术引领光追时代,CUDA 生态构筑 AI 护城河,是全球市值最高的公司之一。",
-      "story": "1993 年黄仁勋与两位伙伴创立英伟达,1999 年发布全球首款 GPU GeForce 256,奠定图形加速霸业;2006 年推出 CUDA 平台,为十几年后的 AI 爆发埋下伏笔。\nChatGPT 席卷全球后,英伟达 A100 与 H100 芯片成为 AI 军备竞赛的硬通货,营收与市值暴涨并一度成为全球市值第一;Blackwell 架构接棒迭代,英伟达已成为人工智能时代的发动机。",
-      "products": [
-        {
-          "id": "nvidia-rtx-5090",
-          "name": "GeForce RTX 5090",
-          "nameEn": "NVIDIA RTX 5090",
-          "type": "消费级显卡",
-          "price": {
-            "min": 16499,
-            "max": 24999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "旗舰游戏显卡,Blackwell 架构与 DLSS 4 多帧生成,32GB GDDR7 显存,4K 光追性能无出其右,是发烧友的终极信仰。",
-          "highlights": [
-            "Blackwell架构",
-            "DLSS 4",
-            "32GB GDDR7"
-          ],
-          "tags": [
-            "显卡",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "nvidia-rtx-5080",
-          "name": "GeForce RTX 5080",
-          "nameEn": "NVIDIA RTX 5080",
-          "type": "消费级显卡",
-          "price": {
-            "min": 8299,
-            "max": 10999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "次旗舰显卡,16GB GDDR7 定位 4K 高刷游戏,DLSS 4 加持下能效比出色,是高端装机的热门之选。",
-          "highlights": [
-            "16GB GDDR7",
-            "4K高刷",
-            "DLSS 4"
-          ],
-          "tags": [
-            "显卡",
-            "高端"
-          ],
-          "image": null
-        },
-        {
-          "id": "nvidia-rtx-5070",
-          "name": "GeForce RTX 5070 系列",
-          "nameEn": "NVIDIA RTX 5070 / Ti",
-          "type": "消费级显卡",
-          "price": {
-            "min": 4299,
-            "max": 6999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "主流高端显卡,5070 Ti 以 16GB 显存成为 2K 高刷甜点卡,DLSS 4 帧生成让中高端卡也能畅玩光追大作。",
-          "highlights": [
-            "2K甜点",
-            "16GB显存",
-            "DLSS 4"
-          ],
-          "tags": [
-            "显卡",
-            "主流"
-          ],
-          "image": null
-        },
-        {
-          "id": "nvidia-rtx-5060",
-          "name": "GeForce RTX 5060 系列",
-          "nameEn": "NVIDIA RTX 5060 / Ti",
-          "type": "消费级显卡",
-          "price": {
-            "min": 2299,
-            "max": 4299,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "主流装机爆款,覆盖 1080P 与 2K 主力需求,大显存版本兼顾 AI 出图,是游戏与轻创作人群的销量冠军。",
-          "highlights": [
-            "1080P主力",
-            "大显存可选",
-            "主流装机"
-          ],
-          "tags": [
-            "显卡",
-            "性价比"
-          ],
-          "image": null
-        },
-        {
-          "id": "nvidia-h100",
-          "name": "H100 / H200",
-          "nameEn": "NVIDIA H100 / H200",
-          "type": "AI数据中心GPU",
-          "price": {
-            "min": 220000,
-            "max": 350000,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "AI 训练与推理的黄金标准,Hopper 架构与 Transformer 引擎让大模型训练效率倍增,是全球科技巨头排队抢购的算力硬通货。",
-          "highlights": [
-            "Hopper架构",
-            "Transformer引擎",
-            "NVLink"
-          ],
-          "tags": [
-            "AI",
-            "数据中心"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "intel",
-      "name": "英特尔",
-      "nameEn": "Intel",
-      "domain": "intel.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1968,
-      "hq": "圣克拉拉",
-      "tier": "大众",
-      "sub": "芯片",
-      "tags": [
-        "CPU",
-        "x86",
-        "半导体"
-      ],
-      "slogan": "",
-      "desc": "全球半导体巨头与 x86 架构缔造者,酷睿处理器数十年来驱动全球 PC,摩尔定律的提出者与践行者,正转型晶圆代工与 AI PC,是最负盛名的蓝色巨人。",
-      "story": "1968 年罗伯特·诺伊斯与戈登·摩尔创立英特尔,1971 年推出全球首款微处理器 4004,开启微电子时代;摩尔定律由其联合创始人提出,指引行业半个多世纪。\n凭借 x86 架构与工艺领先,英特尔长期统治 PC 与服务器芯片市场,近年面临 AMD 与 ARM 阵营挑战,转型晶圆代工并推进 AI 芯片,酷睿 Ultra 内置 NPU 迈入 AI PC 时代,蓝色巨人仍在寻找下一个计算浪潮的船票。",
-      "products": [
-        {
-          "id": "intel-core-ultra",
-          "name": "酷睿 Ultra",
-          "nameEn": "Intel Core Ultra",
-          "type": "CPU处理器",
-          "price": {
-            "min": 999,
-            "max": 4999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "英特尔 AI PC 时代主力,台式与笔记本系列首次内置 NPU,能效与 AI 算力大幅提升,是新一代轻薄本的核心引擎。",
-          "highlights": [
-            "内置NPU",
-            "AI PC",
-            "先进制程"
-          ],
-          "tags": [
-            "CPU",
-            "AI"
-          ],
-          "image": null
-        },
-        {
-          "id": "intel-core-i",
-          "name": "酷睿 i 系列",
-          "nameEn": "Intel Core i Series",
-          "type": "CPU处理器",
-          "price": {
-            "min": 499,
-            "max": 4899,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "统治 PC 十余年的经典处理器序列,i5 是主流装机首选,i9 面向发烧玩家,游戏帧率与软件兼容性口碑深厚。",
-          "highlights": [
-            "i5主流",
-            "i9旗舰",
-            "游戏兼容"
-          ],
-          "tags": [
-            "CPU",
-            "装机"
-          ],
-          "image": null
-        },
-        {
-          "id": "intel-xeon",
-          "name": "至强 Xeon",
-          "nameEn": "Intel Xeon",
-          "type": "服务器CPU",
-          "price": {
-            "min": 4999,
-            "max": 99999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "数据中心与工作站的中流砥柱,广泛驱动云计算与企业级服务器,以稳定可靠与多核性能著称。",
-          "highlights": [
-            "数据中心",
-            "企业级",
-            "多核稳定"
-          ],
-          "tags": [
-            "服务器",
-            "企业"
-          ],
-          "image": null
-        },
-        {
-          "id": "intel-arc",
-          "name": "Arc 显卡",
-          "nameEn": "Intel Arc",
-          "type": "消费级显卡",
-          "price": {
-            "min": 1499,
-            "max": 2499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "英特尔独立显卡新势力,Arc B580 以 12GB 大显存与高性价比搅局独显市场,驱动仍在持续优化中。",
-          "highlights": [
-            "12GB显存",
-            "高性价比",
-            "年轻架构"
-          ],
-          "tags": [
-            "显卡",
-            "新势力"
-          ],
-          "image": null
-        },
-        {
-          "id": "intel-n-series",
-          "name": "N 系列入门处理器",
-          "nameEn": "Intel N Series",
-          "type": "入门处理器",
-          "price": {
-            "min": 199,
-            "max": 599,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "入门计算市场常青树,N100 等小核处理器广泛用于迷你主机与轻办公设备,以低功耗低价覆盖海量基础场景。",
-          "highlights": [
-            "低功耗",
-            "迷你主机",
-            "入门价格"
-          ],
-          "tags": [
-            "入门",
-            "低功耗"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "amd",
-      "name": "AMD",
-      "nameEn": "AMD",
-      "domain": "amd.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1969,
-      "hq": "圣克拉拉",
-      "tier": "大众",
-      "sub": "芯片",
-      "tags": [
-        "锐龙",
-        "CPU",
-        "GPU"
-      ],
-      "slogan": "",
-      "desc": "全球唯一同时提供高性能 CPU 与 GPU 的半导体设计公司,锐龙处理器逆袭英特尔,EPYC 攻占数据中心,收购 ATI 后游戏显卡与 AI 加速卡全面开花。",
-      "story": "1969 年杰里·桑德斯创立 AMD,作为英特尔之外唯一的 x86 挑战者历经数十年沉浮;2017 年 Zen 架构锐龙横空出世,以多核与性价比逆转战局,宣告 AMD Yes 时代来临。\n此后 AMD 收购赛灵思补强 FPGA,EPYC 服务器芯片攻入数据中心,Instinct 系列 AI 加速卡获微软、Meta 等巨头采用,游戏主机 SoC 长期服务 PS5 与 Xbox;在苏姿丰带领下,AMD 已成为全球市值前列的芯片设计巨头。",
-      "products": [
-        {
-          "id": "amd-ryzen-9000",
-          "name": "锐龙 9000 系列",
-          "nameEn": "AMD Ryzen 9000 Series",
-          "type": "CPU处理器",
-          "price": {
-            "min": 1099,
-            "max": 4899,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "Zen5 架构桌面处理器,能效与单核性能全面进步,9800X3D 凭 3D 缓存成为游戏 CPU 的绝对王者,装机口碑封神。",
-          "highlights": [
-            "Zen5架构",
-            "3D V-Cache",
-            "游戏王者"
-          ],
-          "tags": [
-            "CPU",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "amd-threadripper",
-          "name": "线程撕裂者",
-          "nameEn": "AMD Ryzen Threadripper",
-          "type": "HEDT处理器",
-          "price": {
-            "min": 11999,
-            "max": 99999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "工作站级 HEDT 旗舰,最高 96 核 192 线程,面向渲染、仿真与 AI 工作站,是桌面平台的性能天花板。",
-          "highlights": [
-            "96核心",
-            "工作站",
-            "性能天花板"
-          ],
-          "tags": [
-            "CPU",
-            "工作站"
-          ],
-          "image": null
-        },
-        {
-          "id": "amd-epyc",
-          "name": "EPYC 霄龙",
-          "nameEn": "AMD EPYC",
-          "type": "服务器CPU",
-          "price": {
-            "min": 4999,
-            "max": 99999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "数据中心服务器芯片,单颗最高 192 核,以核心数与内存通道数著称,广泛部署于云计算与超算,是至强的最强对手。",
-          "highlights": [
-            "192核心",
-            "云服务器",
-            "高密度"
-          ],
-          "tags": [
-            "服务器",
-            "数据中心"
-          ],
-          "image": null
-        },
-        {
-          "id": "amd-radeon",
-          "name": "Radeon 显卡",
-          "nameEn": "AMD Radeon RX",
-          "type": "消费级显卡",
-          "price": {
-            "min": 1999,
-            "max": 7999,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "AMD 游戏显卡,RX 9070 XT 以 RDNA4 架构对标同级英伟达,大显存与性价比是传统优势,FidelityFX 技术生态成熟。",
-          "highlights": [
-            "RDNA4",
-            "大显存",
-            "高性价比"
-          ],
-          "tags": [
-            "显卡",
-            "游戏"
-          ],
-          "image": null
-        },
-        {
-          "id": "amd-instinct",
-          "name": "Instinct MI 系列",
-          "nameEn": "AMD Instinct",
-          "type": "AI加速卡",
-          "price": {
-            "min": 150000,
-            "max": 300000,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "AMD AI 加速旗舰,MI300X 以 192GB 超大显存服务大模型推理,获微软 Meta 等云巨头采购,是英伟达在 AI 算力市场的主要挑战者。",
-          "highlights": [
-            "192GB显存",
-            "大模型推理",
-            "CDNA架构"
-          ],
-          "tags": [
-            "AI",
-            "数据中心"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "qualcomm",
-      "name": "高通",
-      "nameEn": "Qualcomm",
-      "domain": "qualcomm.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1985,
-      "hq": "圣迭戈",
-      "tier": "大众",
-      "sub": "芯片",
-      "tags": [
-        "骁龙",
-        "基带",
-        "移动芯片"
-      ],
-      "slogan": "",
-      "desc": "全球无线通信与移动芯片领导者,骁龙平台驱动安卓旗舰阵营,基带与射频技术业内领先,正从手机芯片向汽车、IoT 与 PC 全智能边缘计算平台扩张。",
-      "story": "1985 年艾文·雅各布斯等六人在圣地亚哥创立高通,凭 CDMA 技术成为 3G/4G 时代通信专利霸主,几乎每一部手机都绕不开其专利墙。\n骁龙 8 系列长期定义安卓旗舰性能天花板,骁龙 X Elite 让 Windows on ARM 复兴,汽车座舱芯片份额领先;生成式 AI 时代高通继续深耕端侧智能,是全球无线通信产业的规则制定者。",
-      "products": [
-        {
-          "id": "qualcomm-snapdragon-8-elite",
-          "name": "骁龙8 至尊版",
-          "nameEn": "Snapdragon 8 Elite",
-          "type": "移动旗舰SoC",
-          "price": {
-            "min": 1299,
-            "max": 1899,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "新一代安卓旗舰 SoC,自研 Oryon CPU 主频高达 4.32GHz,AI 算力大幅跃升,驱动小米 15、一加 13 等一众安卓旗舰。",
-          "highlights": [
-            "自研Oryon",
-            "4.32GHz",
-            "端侧AI"
-          ],
-          "tags": [
-            "SoC",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "qualcomm-snapdragon-8s",
-          "name": "骁龙 8s 系列",
-          "nameEn": "Snapdragon 8s Series",
-          "type": "次旗舰SoC",
-          "price": {
-            "min": 699,
-            "max": 1199,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "旗舰架构下放的次旗舰平台,兼顾性能与成本,广泛搭载于 2000-3000 元档性能机型,游戏体验越级。",
-          "highlights": [
-            "旗舰同源",
-            "次旗舰",
-            "高性价比"
-          ],
-          "tags": [
-            "SoC",
-            "次旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "qualcomm-snapdragon-7",
-          "name": "骁龙 7 系列",
-          "nameEn": "Snapdragon 7 Series",
-          "type": "中端移动SoC",
-          "price": {
-            "min": 399,
-            "max": 899,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "中高端手机主力平台,以均衡能效与游戏稳帧著称,广泛搭载于两千元档热门机型,是中端市场的销量担当。",
-          "highlights": [
-            "均衡能效",
-            "中端主力",
-            "AI增强"
-          ],
-          "tags": [
-            "SoC",
-            "中端"
-          ],
-          "image": null
-        },
-        {
-          "id": "qualcomm-snapdragon-x-elite",
-          "name": "骁龙 X Elite",
-          "nameEn": "Snapdragon X Elite",
-          "type": "PC处理器",
-          "price": {
-            "min": 2500,
-            "max": 4500,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "高通进军 PC 的 ARM 旗舰,12 核 Oryon CPU 与强大 NPU 驱动 Copilot+ PC,能效领先同级 x86,让笔记本续航突破 20 小时。",
-          "highlights": [
-            "Oryon CPU",
-            "Copilot+ PC",
-            "长续航"
-          ],
-          "tags": [
-            "PC",
-            "ARM"
-          ],
-          "image": null
-        },
-        {
-          "id": "qualcomm-snapdragon-entry",
-          "name": "骁龙 6/4 入门系列",
-          "nameEn": "Snapdragon 6 / 4 Series",
-          "type": "入门移动SoC",
-          "price": {
-            "min": 199,
-            "max": 499,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "入门智能手机平台,以高集成度与低功耗服务百元机与千元机市场,覆盖新兴市场海量用户。",
-          "highlights": [
-            "低功耗",
-            "高集成",
-            "入门市场"
-          ],
-          "tags": [
-            "SoC",
-            "入门"
-          ],
-          "image": null
-        }
-      ]
+     "id": "apple-vision-pro",
+     "name": "Vision Pro",
+     "nameEn": "Apple Vision Pro",
+     "type": "空间计算头显",
+     "price": {
+      "min": 29999,
+      "max": 29999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Apple Vision Pro 是苹果首款空间计算头显,定位高端前沿设备。采用双 micro-OLED 屏幕,以眼动、手势交互替代传统手柄,重新定义头显体验。适合开发者、科技尝鲜者与早期采用者。被称为最接近未来的消费电子产品,是空间计算概念的代表之作,但价格与重量仍属尝鲜范畴,象征意义大于普及。",
+     "highlights": [
+      "空间计算",
+      "micro-OLED",
+      "眼动交互"
+     ],
+     "tags": [
+      "头显",
+      "前沿"
+     ],
+     "image": null
     }
-  ]
+   ]
+  },
+  {
+   "id": "samsung",
+   "name": "三星",
+   "nameEn": "Samsung",
+   "domain": "samsung.com",
+   "categoryId": "tech",
+   "country": "韩国",
+   "founded": 1938,
+   "hq": "首尔",
+   "tier": "高端",
+   "sub": "手机",
+   "tags": [
+    "全产业链",
+    "屏幕",
+    "半导体"
+   ],
+   "slogan": "",
+   "desc": "韩国最大跨国科技集团,业务横跨半导体、显示、手机与家电,Galaxy 系列是全球安卓旗舰代表,存储芯片与 OLED 面板出货量常年世界第一,是极少数具备全产业链能力的科技公司。",
+   "story": "1938 年三星以贸易公司起家,1969 年成立三星电子进入家电领域;此后先后切入存储芯片与液晶面板,1992 年成为全球最大存储芯片厂商,完成从代工到技术领导的逆袭。\n2010 年前后 Galaxy S 与 Note 系列崛起,成为安卓阵营唯一能与苹果分庭抗礼的品牌,如今三星在折叠屏手机、OLED 屏幕与 HBM 内存上持续领跑,是全球半导体与消费电子双料巨头。",
+   "products": [
+    {
+     "id": "samsung-galaxy-s",
+     "name": "Galaxy S 系列",
+     "nameEn": "Galaxy S Series",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 5999,
+      "max": 11999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Galaxy S 系列是三星年度旗舰智能手机,安卓阵营的旗手。Ultra 版本搭载顶级两亿像素主摄与 S Pen 手写笔,采用三星顶级 OLED 屏,自研与高通双平台并行。适合追求顶级屏幕、影像与商务手写体验的安卓用户。是苹果之外最受关注的旗舰手机系列,常年引领安卓旗舰的规格风向标。",
+     "highlights": [
+      "2亿像素",
+      "S Pen",
+      "三星OLED屏"
+     ],
+     "tags": [
+      "旗舰",
+      "影像"
+     ],
+     "image": null
+    },
+    {
+     "id": "samsung-galaxy-z",
+     "name": "Galaxy Z 系列",
+     "nameEn": "Galaxy Z Series",
+     "type": "折叠屏手机",
+     "price": {
+      "min": 6999,
+      "max": 15999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Galaxy Z 系列是三星折叠屏手机,定位高端形态创新。Z Fold 主打大屏多任务生产力,Z Flip 以竖折时尚形态赢得年轻用户,铰链与超薄玻璃技术积累深厚。适合追求大屏体验与个性形态的先锋用户。作为全球折叠屏手机的开创者与领跑者,三星在此细分市场长期占据主导地位,是折叠屏品类的定义者。",
+     "highlights": [
+      "横向折叠",
+      "竖向折叠",
+      "大屏多任务"
+     ],
+     "tags": [
+      "折叠屏",
+      "高端"
+     ],
+     "image": null
+    },
+    {
+     "id": "samsung-galaxy-tab",
+     "name": "Galaxy Tab",
+     "nameEn": "Galaxy Tab",
+     "type": "平板电脑",
+     "price": {
+      "min": 1299,
+      "max": 9999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Galaxy Tab 是三星安卓平板,定位高端生产力平板。Tab S 系列配备三星顶级 OLED 屏,支持 S Pen 手写笔与 DeX 桌面模式,大屏办公体验完善。适合学习笔记、影音娱乐与轻办公用户。作为安卓平板标杆,是少数能在生产力上与 iPad 竞争的安卓平板产品线,长期代表安卓平板的最高水准。",
+     "highlights": [
+      "S Pen",
+      "OLED屏",
+      "DeX桌面模式"
+     ],
+     "tags": [
+      "平板",
+      "生产力"
+     ],
+     "image": null
+    },
+    {
+     "id": "samsung-galaxy-watch",
+     "name": "Galaxy Watch",
+     "nameEn": "Galaxy Watch",
+     "type": "智能手表",
+     "price": {
+      "min": 1099,
+      "max": 4599,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Galaxy Watch 是三星智能手表,出货量位居安卓手表前列。搭载 Wear OS 与三星健康平台,身体成分分析是独门功能,Ultra 版面向户外运动。适合三星手机用户与关注健康监测的安卓用户,与 Galaxy 手机联动体验最佳。以圆形表盘与健康功能见长,是安卓阵营健康手表的代表产品。",
+     "highlights": [
+      "身体成分分析",
+      "Wear OS",
+      "健康监测"
+     ],
+     "tags": [
+      "手表",
+      "健康"
+     ],
+     "image": null
+    },
+    {
+     "id": "samsung-galaxy-buds",
+     "name": "Galaxy Buds",
+     "nameEn": "Galaxy Buds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 499,
+      "max": 1299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Galaxy Buds 是三星真无线耳机产品线,定位安卓高端声学配件。主打 AKG 调音与主动降噪,轻巧佩戴舒适,支持 360 音频空间声场,与三星手机深度适配。适合通勤降噪、运动与日常聆听场景的安卓用户。以均衡音质与轻量设计著称,是安卓耳机阵营中与苹果 AirPods 分庭抗礼的重要选项。",
+     "highlights": [
+      "AKG调音",
+      "主动降噪",
+      "360音频"
+     ],
+     "tags": [
+      "耳机",
+      "音质"
+     ],
+     "image": null
+    },
+    {
+     "id": "samsung-ssd-990pro",
+     "name": "990 PRO 固态硬盘",
+     "nameEn": "SSD 990 PRO",
+     "type": "固态硬盘",
+     "price": {
+      "min": 699,
+      "max": 2499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "三星 990 PRO 是旗舰级 PCIe 4.0 固态硬盘,定位高性能消费级存储。采用自研 V-NAND 闪存,连续读取速度超 7000MB/s,性能与稳定性表现均衡。适合游戏玩家、内容创作者与高性能装机用户。长期霸榜 SSD 性能排行,是消费级固态硬盘公认的标杆之一,体现了三星在存储领域的垂直整合优势。",
+     "highlights": [
+      "V-NAND闪存",
+      "PCIe 4.0",
+      "7000MB/s级读取"
+     ],
+     "tags": [
+      "存储",
+      "装机"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "huawei",
+   "name": "华为",
+   "nameEn": "HUAWEI",
+   "domain": "huawei.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1987,
+   "hq": "深圳",
+   "tier": "高端",
+   "sub": "手机",
+   "tags": [
+    "自研芯片",
+    "鸿蒙生态",
+    "影像"
+   ],
+   "slogan": "构建万物互联的智能世界",
+   "desc": "中国通信与消费电子巨头,从交换机起家成长为全球最大通信设备商之一,消费者业务以 Mate、Pura 双旗舰闻名,坚持自研麒麟芯片与鸿蒙系统,影像与通信能力业内顶尖。",
+   "story": "1987 年,任正非以两万余元在深圳创立华为,从代理交换机起步,靠自主研发的程控交换机打开市场,逐步成长为全球最大的电信设备供应商之一。\n2019 年起遭遇多轮制裁,华为以麒麟芯片回归与鸿蒙生态突围,Mate 60 系列引发市场热潮,全球首创的三折叠 Mate XT 更一机难求;如今华为在手机、智能汽车解决方案与云计算多线并进,成为中国科技自主的标志性企业。",
+   "products": [
+    {
+     "id": "huawei-mate",
+     "name": "Mate 系列",
+     "nameEn": "HUAWEI Mate Series",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 5499,
+      "max": 21999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Mate 系列是华为商务旗舰智能手机,国产高端手机的标杆。Mate 70 系列搭载麒麟芯片与原生鸿蒙系统,Pro 版影像顶级,红枫原色影像提升色彩表现,三折叠 Mate XT 非凡大师售价近两万元。适合商务人士与华为生态用户。以自研芯片与鸿蒙系统为核心标签,承载了华为高端化与技术自立的象征意义。",
+     "highlights": [
+      "麒麟芯片",
+      "原生鸿蒙",
+      "红枫原色影像"
+     ],
+     "tags": [
+      "旗舰",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "huawei-pura",
+     "name": "Pura 系列",
+     "nameEn": "HUAWEI Pura Series",
+     "type": "影像旗舰手机",
+     "price": {
+      "min": 5499,
+      "max": 10999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Pura 系列是华为时尚影像旗舰,由经典 P 系列升级而来。Pura 70 Ultra 首创伸缩式摄像头结构,超光变影像人像与长焦表现突出,昆仑玻璃增强耐用性。适合重视拍照质感与设计美学的用户。作为华为美学与影像技术的集中体现,继承了 P 系列多年的时尚积淀,是国产影像旗舰中辨识度极高的存在。",
+     "highlights": [
+      "伸缩摄像头",
+      "超光变影像",
+      "昆仑玻璃"
+     ],
+     "tags": [
+      "影像",
+      "时尚"
+     ],
+     "image": null
+    },
+    {
+     "id": "huawei-matepad",
+     "name": "MatePad",
+     "nameEn": "HUAWEI MatePad",
+     "type": "平板电脑",
+     "price": {
+      "min": 1899,
+      "max": 9999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "MatePad 是华为平板旗舰线,长期位居国内平板市场份额前列。MatePad Pro 13.2 搭载柔性 OLED 全面屏与星闪手写笔,配合鸿蒙生态主打办公与创作。适合学生、办公人群与绘画创作者。以屏幕素质与多设备协同见长,是鸿蒙生态中生产力属性最强的终端之一,也是国产高端平板的代表。",
+     "highlights": [
+      "OLED全面屏",
+      "星闪手写笔",
+      "鸿蒙生态"
+     ],
+     "tags": [
+      "平板",
+      "生产力"
+     ],
+     "image": null
+    },
+    {
+     "id": "huawei-matebook",
+     "name": "MateBook",
+     "nameEn": "HUAWEI MateBook",
+     "type": "笔记本电脑",
+     "price": {
+      "min": 3999,
+      "max": 14999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "MateBook 是华为笔记本电脑产品线,定位轻薄生产力笔记本。以轻薄金属机身、3:2 触控生产力屏著称,超级终端让手机、平板与电脑无缝互联,多屏协同是核心特色。适合移动办公人群与华为生态用户。是国内笔记本市场多设备协同体验的代表,推动了手机与电脑跨端联动的普及,补全了华为全场景生态。",
+     "highlights": [
+      "多屏协同",
+      "3:2生产力屏",
+      "超级终端"
+     ],
+     "tags": [
+      "笔记本",
+      "轻薄"
+     ],
+     "image": null
+    },
+    {
+     "id": "huawei-freebuds",
+     "name": "FreeBuds",
+     "nameEn": "HUAWEI FreeBuds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 199,
+      "max": 1499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "FreeBuds 是华为真无线耳机系列,定位中高端声学产品。Pro 版提供智慧动态降噪与高解析音质,星闪连接带来稳定低延迟传输,与华为手机弹窗快连。适合通勤降噪、运动与通话场景的华为用户。以佩戴舒适度口碑出色著称,是国产真无线耳机中兼具技术含量与人气的代表系列。",
+     "highlights": [
+      "智慧动态降噪",
+      "星闪连接",
+      "高解析音质"
+     ],
+     "tags": [
+      "耳机",
+      "降噪"
+     ],
+     "image": null
+    },
+    {
+     "id": "huawei-watch",
+     "name": "HUAWEI WATCH",
+     "nameEn": "HUAWEI WATCH Series",
+     "type": "智能手表",
+     "price": {
+      "min": 688,
+      "max": 5888,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "HUAWEI WATCH 是华为智能手表产品线,覆盖 GT、Ultimate 等多系列。以专业运动健康监测与长续航著称,WATCH Ultimate 支持双向北斗卫星消息,高端质感出色。适合运动爱好者、户外玩家与商务人群。北斗卫星消息功能使其成为无信号环境下的安全装备代表,在国内高端智能手表市场地位领先。",
+     "highlights": [
+      "长续航",
+      "运动健康监测",
+      "北斗卫星消息"
+     ],
+     "tags": [
+      "手表",
+      "户外"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "xiaomi",
+   "name": "小米",
+   "nameEn": "Xiaomi",
+   "domain": "mi.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2010,
+   "hq": "北京",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "性价比",
+    "人车家生态",
+    "互联网模式"
+   ],
+   "slogan": "永远相信美好的事情即将发生",
+   "desc": "全球出货量前三的智能手机厂商,以性价比模式和互联网思维起家,手机、IoT 与生态链产品矩阵庞大,自建智能工厂并进军高端与汽车市场,是最年轻的世界 500 强之一。",
+   "story": "2010 年,雷军联合七位创始人在北京创立小米,以 MIUI 系统积累口碑,2011 年发布初代小米手机,1999 元定价掀起性价比风暴,互联网直销模式颠覆行业。\n此后小米通过生态链战略扩张至家电与智能硬件,建成全球领先的消费级 IoT 平台;2021 年宣布造车,2024 年 SU7 上市即热销,同年手机出货量重返全球前三,完成从手机公司到人车家全生态科技集团的跨越。",
+   "products": [
+    {
+     "id": "xiaomi-mi-number",
+     "name": "小米数字系列",
+     "nameEn": "Xiaomi Number Series",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 4499,
+      "max": 7799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "小米数字系列是小米年度影像旗舰,定位大众高端市场。搭载徕卡光学镜头与骁龙旗舰平台,15 Ultra 凭一英寸大底与超长焦跻身影像第一梯队,运行澎湃OS。适合摄影爱好者与追求旗舰体验的用户。以徕卡联名重塑小米高端形象,是国产影像旗舰第一梯队的常客,也是小米品牌向上的核心载体。",
+     "highlights": [
+      "徕卡影像",
+      "骁龙8至尊版",
+      "澎湃OS"
+     ],
+     "tags": [
+      "旗舰",
+      "影像"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-redmi-k",
+     "name": "Redmi K 系列",
+     "nameEn": "Redmi K Series",
+     "type": "性能旗舰手机",
+     "price": {
+      "min": 1499,
+      "max": 3699,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Redmi K 系列是小米旗下 Redmi 的性能旗舰,极致性价比的代名词。全系搭载当季旗舰芯片与高刷直屏,K 系列多次首发新一代处理器,旗舰配置快速下放。适合预算有限又追求高性能的学生与游戏用户。是最具代表性的性价比产品线之一,多次引发同价位竞争格局洗牌,被视为价格屠夫式标杆。",
+     "highlights": [
+      "旗舰芯片下放",
+      "高刷直屏",
+      "极致性价比"
+     ],
+     "tags": [
+      "性能",
+      "性价比"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-su7",
+     "name": "小米 SU7",
+     "nameEn": "Xiaomi SU7",
+     "type": "纯电轿车",
+     "price": {
+      "min": 215900,
+      "max": 529900,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小米 SU7 是小米首款汽车,C 级纯电轿跑,定位大众高端电动车。零百加速最快约 2.8 秒,CLTC 续航最长 830 公里,搭载澎湃OS 车机,SU7 Ultra 在纽北刷圈引发热议。适合科技爱好者与追求驾驶性能的家庭用户。上市即大定爆单,是消费电子品牌造车的现象级案例,也是小米生态从手机延伸到汽车的关键落子。",
+     "highlights": [
+      "澎湃OS车机",
+      "830km续航",
+      "SU7 Ultra"
+     ],
+     "tags": [
+      "汽车",
+      "轿跑"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-tv",
+     "name": "小米电视",
+     "nameEn": "Xiaomi TV",
+     "type": "智能电视",
+     "price": {
+      "min": 899,
+      "max": 19999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "小米电视是国内出货量领先的互联网电视品牌,覆盖入门到大屏高端。大师系列以 Mini LED 与 OLED 冲击高端,主流型号支持 4K 144Hz,接入米家生态。适合追求大屏性价比的家庭用户与米家智能家庭用户。以互联网模式改写了电视市场的价格格局,是国产智能电视普及与大屏化的重要推手。",
+     "highlights": [
+      "Mini LED",
+      "4K 144Hz",
+      "米家生态"
+     ],
+     "tags": [
+      "电视",
+      "大屏"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-pad",
+     "name": "小米平板",
+     "nameEn": "Xiaomi Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 1899,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "小米平板是安卓平板的性价比代表。小米平板 7 Pro 搭载骁龙8s Gen3 与 144Hz 高刷屏,配合键盘与手写笔,澎湃OS 支持跨端互联。适合学生网课、影音娱乐与轻办公用户。延续小米高配置低价格的传统,是国内安卓平板市场的重要竞争者,与小米手机共同构成米家生态的移动终端矩阵。",
+     "highlights": [
+      "144Hz高刷",
+      "骁龙8s Gen3",
+      "跨端互联"
+     ],
+     "tags": [
+      "平板",
+      "学习"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-band",
+     "name": "小米手环",
+     "nameEn": "Xiaomi Smart Band",
+     "type": "智能手环",
+     "price": {
+      "min": 169,
+      "max": 499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "小米手环是百元级大众智能穿戴产品的代表。以彩屏、心率血氧监测与超长续航为核心卖点,轻量佩戴几乎无感,价格亲民。适合初次尝试智能穿戴的用户、学生与运动入门人群。作为全球累计出货量最大的智能手环系列,堪称无数用户的第一件可穿戴设备,是小米生态链模式的经典之作。",
+     "highlights": [
+      "超长续航",
+      "轻量佩戴",
+      "百元价位"
+     ],
+     "tags": [
+      "手环",
+      "健康"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "oppo",
+   "name": "OPPO",
+   "nameEn": "OPPO",
+   "domain": "oppo.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2004,
+   "hq": "东莞",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "影像",
+    "快充",
+    "线下渠道"
+   ],
+   "slogan": "",
+   "desc": "中国头部手机厂商,以 Find 与 Reno 双线布局,长期深耕线下渠道与快充技术,SuperVOOC 闪充与哈苏调校影像是招牌,近年以自研芯片与折叠屏持续冲击高端。",
+   "story": "2004 年 OPPO 成立于广东东莞,最早以 MP3、蓝光播放器等影音设备起家,凭借出色工业设计在海外打开市场;2008 年进军手机行业,依托线下渠道与拍照手机快速崛起。\n此后 OPPO 推出 Find X 系列与 Find N 折叠屏等高端产品,自研马里亚纳影像芯片落地,SuperVOOC 闪充一度引领行业节奏;如今与一加、realme 同属欧加集团,手机出货量稳居全球前四。",
+   "products": [
+    {
+     "id": "oppo-find-x",
+     "name": "Find X 系列",
+     "nameEn": "OPPO Find X Series",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 3999,
+      "max": 7999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Find X 系列是 OPPO 年度旗舰,定位配置均衡的水桶机代表。Find X8 系列搭载天玑旗舰平台与哈苏影像,双潜望长焦的 Ultra 版对标顶级影像旗舰,设计轻薄精致。适合注重颜值、影像与综合体验的用户。作为 OPPO 高端化主力,延续了 Find 系列一贯的科技旗舰形象,是国产旗舰阵营的稳定一极。",
+     "highlights": [
+      "哈苏影像",
+      "双潜望长焦",
+      "天玑旗舰平台"
+     ],
+     "tags": [
+      "旗舰",
+      "影像"
+     ],
+     "image": null
+    },
+    {
+     "id": "oppo-find-n",
+     "name": "Find N 系列",
+     "nameEn": "OPPO Find N Series",
+     "type": "折叠屏手机",
+     "price": {
+      "min": 5999,
+      "max": 8999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Find N 系列是 OPPO 折叠屏产品线,定位轻薄大折叠。Find N5 以约 9 毫米的折叠厚度刷新大折叠轻薄纪录,内屏折痕控制出色,主打大屏办公与轻量携带兼得。适合商务办公与大屏体验爱好者。以轻薄路线在折叠屏市场树立差异化口碑,是国产折叠屏铰链与结构技术进步的代表之一。",
+     "highlights": [
+      "超薄折叠",
+      "折痕控制",
+      "大屏办公"
+     ],
+     "tags": [
+      "折叠屏",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "oppo-reno",
+     "name": "Reno 系列",
+     "nameEn": "OPPO Reno Series",
+     "type": "中高端手机",
+     "price": {
+      "min": 1999,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Reno 系列是 OPPO 中高端主力,定位人像拍照与轻薄时尚手机。人像算法成熟,Reno13 系列加入 AI 消除与实况照片等潮流功能,机身轻薄直屏手感出色。适合注重自拍、外观与手感体验的年轻用户。作为 OPPO 出货主力产品线,长期是线下渠道与年轻消费群体的热门选择,是品牌走量的中坚力量。",
+     "highlights": [
+      "人像算法",
+      "轻薄设计",
+      "AI消除"
+     ],
+     "tags": [
+      "中端",
+      "人像"
+     ],
+     "image": null
+    },
+    {
+     "id": "oppo-pad",
+     "name": "OPPO Pad",
+     "nameEn": "OPPO Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 1299,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "OPPO Pad 是 OPPO 安卓平板系列,定位影音娱乐与轻办公。2.8K 144Hz 屏幕素质出色,配合手写笔与跨屏互联,可与 OPPO 手机协同使用。适合追剧观影、网课学习与轻办公场景的用户。以屏幕素质与性价比著称,是国产平板阵营中的均衡之选,补全了 OPPO 全场景智能生态的平板一环。",
+     "highlights": [
+      "2.8K屏",
+      "144Hz",
+      "跨屏互联"
+     ],
+     "tags": [
+      "平板",
+      "影音"
+     ],
+     "image": null
+    },
+    {
+     "id": "oppo-enco",
+     "name": "Enco 耳机",
+     "nameEn": "OPPO Enco Earbuds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 199,
+      "max": 999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Enco 耳机是 OPPO 真无线耳机家族,覆盖入门到旗舰多档位。Enco X 系列与丹拿联合调音,支持高清蓝牙音质与动态降噪,中低端型号性价比突出。适合通勤降噪、运动与日常聆听场景。丹拿联名调音使其在国产真无线耳机中音质口碑突出,是与手机生态深度适配的声学配套代表。",
+     "highlights": [
+      "丹拿调音",
+      "高清音质",
+      "主动降噪"
+     ],
+     "tags": [
+      "耳机",
+      "音质"
+     ],
+     "image": null
+    },
+    {
+     "id": "oppo-watch",
+     "name": "OPPO Watch",
+     "nameEn": "OPPO Watch",
+     "type": "智能手表",
+     "price": {
+      "min": 1299,
+      "max": 2499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "OPPO Watch 是 OPPO 智能手表,定位时尚智能腕表。采用双曲面柔性屏与 Wear OS 系统,支持 eSIM 独立通信、双擎混动续航与手表闪充。适合追求腕上颜值与智能体验的年轻用户。外观设计曾获多项设计大奖,被视为国产智能手表设计感的代表之一,与 OPPO 手机形成腕上生态联动。",
+     "highlights": [
+      "eSIM独立通信",
+      "双擎混动续航",
+      "手表闪充"
+     ],
+     "tags": [
+      "手表",
+      "健康"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "vivo",
+   "name": "vivo",
+   "nameEn": "vivo",
+   "domain": "vivo.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2009,
+   "hq": "东莞",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "影像",
+    "人像",
+    "设计"
+   ],
+   "slogan": "",
+   "desc": "中国头部手机厂商,以影像与设计见长,与蔡司深度联合研发光学系统,X 系列人像影像口碑出色,子品牌 iQOO 主攻性能电竞,出货量常年位居国内前二。",
+   "story": "2009 年 vivo 在广东东莞创立,关联步步高体系,早期以 Hi-Fi 音乐手机切入市场,2012 年推出的全球最薄智能手机 X1 奠定设计驱动基因。\n此后 vivo 深耕影像赛道,与蔡司达成全球影像战略合作,自研 V 系列影像芯片持续迭代,X 系列人像口碑深入人心;X Fold 折叠屏与 X200 系列站稳高端,iQOO 子品牌在电竞市场表现强劲,vivo 连续多年位居中国智能手机市场份额前列。",
+   "products": [
+    {
+     "id": "vivo-x-series",
+     "name": "X 系列",
+     "nameEn": "vivo X Series",
+     "type": "影像旗舰手机",
+     "price": {
+      "min": 3999,
+      "max": 7999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "vivo X 系列是 vivo 影像旗舰,定位国产影像第一梯队。与蔡司联合调校,X200 Ultra 配备两亿像素长焦与自研影像芯片,夜景与人像表现尤为突出。适合摄影发烧友与重视拍照体验的用户。被誉为国产影像天花板之一,与蔡司的长期合作使其在移动影像领域地位稳固,是 vivo 品牌技术的集大成者。",
+     "highlights": [
+      "蔡司光学",
+      "自研影像芯片",
+      "2亿像素长焦"
+     ],
+     "tags": [
+      "影像",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "vivo-x-fold",
+     "name": "X Fold 系列",
+     "nameEn": "vivo X Fold Series",
+     "type": "折叠屏手机",
+     "price": {
+      "min": 6999,
+      "max": 10999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "vivo X Fold 系列是 vivo 大折叠旗舰,定位商务高端折叠屏。以可靠的铰链与均衡配置著称,X Fold3 Pro 将折叠厚度与重量控制做到行业第一梯队,蔡司影像加持,多任务分屏完善。适合商务人士与大屏办公用户。是国产大折叠轻薄化路线的代表性产品,以均衡务实的产品哲学赢得口碑。",
+     "highlights": [
+      "轻薄大折叠",
+      "蔡司影像",
+      "多任务分屏"
+     ],
+     "tags": [
+      "折叠屏",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "vivo-s-series",
+     "name": "S 系列",
+     "nameEn": "vivo S Series",
+     "type": "人像拍照手机",
+     "price": {
+      "min": 1999,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "vivo S 系列是 vivo 中端主力,定位人像自拍与轻薄时尚手机。搭载柔光补光与美颜算法,自拍肤色表现自然,机身轻薄、设计时尚。适合注重自拍、外形与手感体验的年轻用户。作为 vivo 长销产品线,长期占据线下年轻消费市场,是手机行业人像自拍心智的代表性系列之一。",
+     "highlights": [
+      "柔光人像",
+      "轻薄机身",
+      "自拍算法"
+     ],
+     "tags": [
+      "中端",
+      "自拍"
+     ],
+     "image": null
+    },
+    {
+     "id": "vivo-iqoo",
+     "name": "iQOO 系列",
+     "nameEn": "iQOO Series",
+     "type": "性能电竞手机",
+     "price": {
+      "min": 1499,
+      "max": 5499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "iQOO 系列是 vivo 子品牌的性能电竞手机,定位游戏与性能旗舰。标配独显芯片与大面积散热,iQOO 数字系列常首发骁龙旗舰芯片,Z 系列覆盖中端价位。适合手游玩家与追求极致性能释放的用户。以电竞优化与旗舰性能在细分市场站稳脚跟,是国产性能手机阵营的重要力量。",
+     "highlights": [
+      "独显芯片",
+      "旗舰性能",
+      "电竞优化"
+     ],
+     "tags": [
+      "性能",
+      "电竞"
+     ],
+     "image": null
+    },
+    {
+     "id": "vivo-pad",
+     "name": "vivo Pad",
+     "nameEn": "vivo Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 1799,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "vivo Pad 是 vivo 安卓平板,定位学习办公与生态互联。3:2 生产力屏配合天玑芯片,兼顾性能与续航,原子笔记与跨设备接力提升办公学习效率。适合学生、笔记党与轻办公用户。作为 vivo 生态的平板产品,以均衡体验与办公向设计在国产平板中获得认可,与 vivo 手机形成互联协作体验。",
+     "highlights": [
+      "3:2生产力屏",
+      "天玑芯片",
+      "原子笔记"
+     ],
+     "tags": [
+      "平板",
+      "学习"
+     ],
+     "image": null
+    },
+    {
+     "id": "vivo-tws",
+     "name": "vivo TWS",
+     "nameEn": "vivo TWS Earbuds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 299,
+      "max": 1099,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "vivo TWS 是 vivo 真无线耳机系列,定位手机配套声学产品。TWS 3 Pro 全球首发高通 S5 音频平台,支持超清音频与智能降噪,与 OriginOS 系统深度联动。适合 vivo 手机用户的通勤、运动与日常聆听场景。以音频平台首发与调音水准在国产真无线耳机中建立口碑,是手机厂商耳机的技术代表之一。",
+     "highlights": [
+      "S5音频平台",
+      "智能降噪",
+      "超清音频"
+     ],
+     "tags": [
+      "耳机",
+      "音质"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "honor",
+   "name": "荣耀",
+   "nameEn": "HONOR",
+   "domain": "hihonor.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2013,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "AI",
+    "影像",
+    "护眼屏"
+   ],
+   "slogan": "",
+   "desc": "从华为独立出来的全球性科技品牌,以 Magic 旗舰、AI 智能体系统与青海湖电池等技术著称,折叠屏轻薄纪录保持者,重回国内市场份额头部阵营。",
+   "story": "2013 年荣耀作为华为子品牌诞生,以互联网性价比路线对标小米;2020 年 11 月为应对外部环境整体从华为剥离,由数十家供应链伙伴共同接盘,完成独立生死劫。\n独立后荣耀推出 Magic 系列对标苹果三星,Magic V2 折叠屏以约 9.9 毫米厚度打破轻薄纪录,自研青海湖硅碳电池、鹰眼相机与 MagicOS 人工智能平台持续落地,并扩展至平板、笔记本与穿戴全线,重回国内出货量前五。",
+   "products": [
+    {
+     "id": "honor-magic",
+     "name": "Magic 系列",
+     "nameEn": "HONOR Magic Series",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 3499,
+      "max": 9999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Magic 系列是荣耀年度旗舰,定位高端智能旗舰。Magic7 系列搭载骁龙8至尊版与巨犀玻璃,首发荣耀 AI 智能体,鹰眼相机抓拍出色,保时捷设计版面向高端商务。适合追求旗舰性能与 AI 体验的用户。AI 智能体的首发体现了荣耀在端侧 AI 方向的前瞻布局,是国产高端旗舰市场的重要一极。",
+     "highlights": [
+      "骁龙8至尊版",
+      "AI智能体",
+      "鹰眼相机"
+     ],
+     "tags": [
+      "旗舰",
+      "AI"
+     ],
+     "image": null
+    },
+    {
+     "id": "honor-magic-v",
+     "name": "Magic V 系列",
+     "nameEn": "HONOR Magic V Series",
+     "type": "折叠屏手机",
+     "price": {
+      "min": 7999,
+      "max": 15999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Magic V 系列是荣耀折叠屏旗舰,定位轻薄大折叠。Magic V3 以约 9.2 毫米的折叠厚度刷新大折叠轻薄纪录,鲁班铰链可靠性口碑出色,RSR 保时捷设计版彰显高端气质。适合商务人士与追求轻薄折叠体验的用户。连续刷新轻薄纪录,使其成为国产大折叠结构工艺水平的代表之作。",
+     "highlights": [
+      "轻薄纪录",
+      "保时捷设计",
+      "鲁班铰链"
+     ],
+     "tags": [
+      "折叠屏",
+      "轻薄"
+     ],
+     "image": null
+    },
+    {
+     "id": "honor-number",
+     "name": "荣耀数字系列",
+     "nameEn": "HONOR Number Series",
+     "type": "中高端手机",
+     "price": {
+      "min": 1999,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "荣耀数字系列是荣耀中端主力,定位年轻潮流人像手机。荣耀200 系列与雅顾摄影工作室联名,人像质感出色,绿洲护眼屏是差异化卖点。适合年轻用户与注重护眼、自拍体验的人群。雅顾联名将专业摄影美学带入中端市场,成为中端机差异化营销的典型案例,是荣耀走量的核心产品线。",
+     "highlights": [
+      "雅顾联名",
+      "绿洲护眼屏",
+      "人像算法"
+     ],
+     "tags": [
+      "中端",
+      "人像"
+     ],
+     "image": null
+    },
+    {
+     "id": "honor-x",
+     "name": "X 系列",
+     "nameEn": "HONOR X Series",
+     "type": "国民手机",
+     "price": {
+      "min": 899,
+      "max": 1799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "X 系列是荣耀千元机国民系列,定位入门长续航手机。以大电池、耐用品质与高屏占比著称,配置务实、价格亲民。适合预算有限的学生、长辈以及备用机需求用户。作为累计销量破亿的入门市场常青树,承载了荣耀面向大众市场的国民品牌形象,是国产千元机阵营的代表性产品线。",
+     "highlights": [
+      "大电池",
+      "高耐久",
+      "高屏占比"
+     ],
+     "tags": [
+      "入门",
+      "耐用"
+     ],
+     "image": null
+    },
+    {
+     "id": "honor-pad",
+     "name": "荣耀平板",
+     "nameEn": "HONOR Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 899,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "荣耀平板是荣耀平板电脑产品线,覆盖入门到旗舰多档位。2.5K 护眼屏与多屏协同是标配,兼顾影音与学习场景,性价比出色。适合学生网课、家庭影音与轻办公用户。以护眼特性与多设备协同见长,是荣耀全场景智能生态中的重要一环,在国内中端平板市场拥有稳定的用户基础。",
+     "highlights": [
+      "护眼屏",
+      "多屏协同",
+      "性价比"
+     ],
+     "tags": [
+      "平板",
+      "影音"
+     ],
+     "image": null
+    },
+    {
+     "id": "honor-magicbook",
+     "name": "MagicBook",
+     "nameEn": "HONOR MagicBook",
+     "type": "笔记本电脑",
+     "price": {
+      "min": 2999,
+      "max": 7999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "MagicBook 是荣耀笔记本电脑,定位轻薄办公本。以 OS Turbo 调度优化带来长续航,全系标配多屏协同与指纹电源键,AI PC 与轻薄本覆盖办公主力价位。适合学生与职场办公人群。凭借手机厂商的跨端互联思路,成为国内轻薄本市场的高性价比代表之一,与荣耀手机形成无缝协作体验。",
+     "highlights": [
+      "OS Turbo",
+      "多屏协同",
+      "长续航"
+     ],
+     "tags": [
+      "笔记本",
+      "办公"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "oneplus",
+   "name": "一加",
+   "nameEn": "OnePlus",
+   "domain": "oneplus.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2013,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "性能",
+    "屏幕",
+    "不将就"
+   ],
+   "slogan": "不将就",
+   "desc": "欧加集团旗下性能先锋品牌,以“不将就”理念闻名,数字系列主打旗舰性能与顶级屏幕,率先将高刷新率屏幕普及到行业,与 OPPO 融合后搭载 ColorOS 系统。",
+   "story": "2013 年刘作虎离开 OPPO 创立一加,次年首代一加手机以手感与刷机友好在极客圈走红,海外市场口碑尤其突出,成为小而美品牌代表。\n2021 年一加回归 OPPO 体系,产品线扩展为数字与 Ace 双线,全面接入 OPPO 研发资源,一加 12、13 连续以顶配屏幕与大内存定义性能旗舰标准,成为线上市场增长最快的品牌之一。",
+   "products": [
+    {
+     "id": "oneplus-number",
+     "name": "一加数字系列",
+     "nameEn": "OnePlus Number Series",
+     "type": "性能旗舰手机",
+     "price": {
+      "min": 3999,
+      "max": 5999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "一加年度数字旗舰,定位性能旗舰手机。搭载骁龙8至尊版与2K东方屏,色彩与亮度表现出色,6000mAh冰川电池兼顾轻薄机身与长续航。适合追求旗舰性能、好屏与续航的大众用户,是一加品牌向上突破的代表作,也是国产性能旗舰中的标杆之一。",
+     "highlights": [
+      "骁龙8至尊版",
+      "2K东方屏",
+      "6000mAh电池"
+     ],
+     "tags": [
+      "旗舰",
+      "性能"
+     ],
+     "image": null
+    },
+    {
+     "id": "oneplus-ace",
+     "name": "Ace 系列",
+     "nameEn": "OnePlus Ace Series",
+     "type": "性能手机",
+     "price": {
+      "min": 1699,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Ace系列是一加性价比性能线,定位游戏向性能手机。首发搭载骁龙8至尊版与风驰游戏内核,游戏稳帧表现出色,配备大内存与超级快充。适合游戏党与注重性价比的年轻用户,被玩家称为游戏党的真香机,是一加覆盖中端价位的核心走量产品。",
+     "highlights": [
+      "游戏稳帧",
+      "大内存",
+      "超级快充"
+     ],
+     "tags": [
+      "性能",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "oneplus-buds",
+     "name": "OnePlus Buds",
+     "nameEn": "OnePlus Buds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 299,
+      "max": 999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "OnePlus Buds是一加真无线耳机,定位声学配件。Pro版支持主动降噪与杜比全景声,与一加手机低延迟双传,音质与性价比兼顾。适合一加生态用户与通勤、追剧、手游等日常场景,以简洁设计与均衡表现,成为一加构建多设备生态的重要一环。",
+     "highlights": [
+      "主动降噪",
+      "杜比全景声",
+      "低延迟"
+     ],
+     "tags": [
+      "耳机",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "oneplus-pad",
+     "name": "一加平板",
+     "nameEn": "OnePlus Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 1999,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "一加平板定位安卓影音娱乐平板,采用144Hz超清大屏与旗舰芯片,金属一体成型设计颜值出众,主打影音观看与手游大屏体验。适合追剧、游戏与轻办公人群,是一加从手机向平板等品类延伸、完善多设备生态的关键产品,延续品牌高完成度的设计取向。",
+     "highlights": [
+      "144Hz",
+      "金属一体成型",
+      "大屏游戏"
+     ],
+     "tags": [
+      "平板",
+      "影音"
+     ],
+     "image": null
+    },
+    {
+     "id": "oneplus-watch",
+     "name": "一加手表",
+     "nameEn": "OnePlus Watch",
+     "type": "智能手表",
+     "price": {
+      "min": 999,
+      "max": 1799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "一加手表定位长续航智能手表,圆形表盘设计简约百搭,主打运动健康监测,日常健康管理省心,与一加手机生态联动流畅。适合运动爱好者与关注日常健康数据的用户,续航扎实、外观简约,是一加智能生态的腕上入口。",
+     "highlights": [
+      "长续航",
+      "运动健康",
+      "生态联动"
+     ],
+     "tags": [
+      "手表",
+      "健康"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "realme",
+   "name": "真我",
+   "nameEn": "realme",
+   "domain": "realme.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2018,
+   "hq": "深圳",
+   "tier": "国民",
+   "sub": "手机",
+   "tags": [
+    "敢越级",
+    "快充",
+    "年轻潮流"
+   ],
+   "slogan": "敢越级",
+   "desc": "OPPO 旗下面向年轻人的科技品牌,以“敢越级”为口号,主打出海与电商渠道,快充与设计越级是标签,全球累计销量突破两亿台,印度与东南亚市场份额领先。",
+   "story": "2018 年 5 月,李炳忠在印度创立 realme,凭“敢越级”定位与高性价比迅速打开南亚与东南亚市场,成立约三年全球手机出货量突破一亿台,成为最快达成该纪录的品牌之一。\n2021 年 realme 正式回归国内市场,以 GT 系列冲刺性能旗舰,Neo 系列卡位中端,潜望长焦等配置不断下放,如今 realme 稳居全球出货量前十,是全球成长最快的手机品牌之一。",
+   "products": [
+    {
+     "id": "realme-gt",
+     "name": "GT 系列",
+     "nameEn": "realme GT Series",
+     "type": "性能旗舰手机",
+     "price": {
+      "min": 1999,
+      "max": 4499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GT系列是真我性能旗舰线,定位越级性能手机。GT7 Pro搭载骁龙8至尊版与6500mAh泰坦电池,配备潜望长焦,性能与续航越级。适合追求旗舰配置又看重性价比的用户,对标红米K系列,是真我冲击中高端市场的猛将。",
+     "highlights": [
+      "骁龙8至尊版",
+      "泰坦电池",
+      "潜望长焦"
+     ],
+     "tags": [
+      "性能",
+      "性价比"
+     ],
+     "image": null
+    },
+    {
+     "id": "realme-neo",
+     "name": "Neo 系列",
+     "nameEn": "realme Neo Series",
+     "type": "中端性能手机",
+     "price": {
+      "min": 1499,
+      "max": 2799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Neo系列是真我中端走量主力,定位中端性能手机。历代搭载口碑芯片与大电池,配备高刷屏,以高性价比覆盖1500-3000元价位。适合学生党与预算有限的实用派用户,口碑与出货俱佳,是真我产品矩阵中承上启下的重要系列。",
+     "highlights": [
+      "大电池",
+      "性价比",
+      "高刷屏"
+     ],
+     "tags": [
+      "中端",
+      "大电池"
+     ],
+     "image": null
+    },
+    {
+     "id": "realme-v",
+     "name": "V 系列",
+     "nameEn": "realme V Series",
+     "type": "国民手机",
+     "price": {
+      "min": 999,
+      "max": 1799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "V系列是真我入门国民系列,主打长续航与旗舰快充下放,覆盖千元到中端价位,配置务实、定价亲民。适合预算有限的学生、长辈与备用机需求用户,是真我出货的基本盘,体现品牌面向大众的国民级定位。",
+     "highlights": [
+      "长续航",
+      "快充下放",
+      "入门定价"
+     ],
+     "tags": [
+      "入门",
+      "续航"
+     ],
+     "image": null
+    },
+    {
+     "id": "realme-buds",
+     "name": "真我 Buds",
+     "nameEn": "realme Buds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 99,
+      "max": 499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "真我Buds定位年轻化真无线耳机,主打大动圈单元与低延迟游戏模式,百元级价格即可获得降噪体验,性价比突出。适合学生与预算敏感的年轻用户,通勤、追剧、手游均可胜任,是真我生态中覆盖面最广的声学产品。",
+     "highlights": [
+      "低延迟",
+      "大动圈",
+      "百元降噪"
+     ],
+     "tags": [
+      "耳机",
+      "入门"
+     ],
+     "image": null
+    },
+    {
+     "id": "realme-pad",
+     "name": "真我平板",
+     "nameEn": "realme Pad",
+     "type": "平板电脑",
+     "price": {
+      "min": 999,
+      "max": 1999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "真我平板走性价比路线,定位入门影音平板,配备2K屏与轻薄金属机身,入门价格友好。适合网课学习、影音娱乐与轻度办公的预算型用户,覆盖大屏刚需场景,是真我从手机延伸至平板品类、完善产品矩阵的务实之作。",
+     "highlights": [
+      "2K屏",
+      "轻薄机身",
+      "入门价格"
+     ],
+     "tags": [
+      "平板",
+      "影音"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "sony",
+   "name": "索尼",
+   "nameEn": "SONY",
+   "domain": "sony.com",
+   "categoryId": "tech",
+   "country": "日本",
+   "founded": 1946,
+   "hq": "东京",
+   "tier": "高端",
+   "sub": "影像",
+   "tags": [
+    "影像传感",
+    "游戏娱乐",
+    "音频"
+   ],
+   "slogan": "",
+   "desc": "日本消费电子与娱乐巨头,影像传感器全球市占率第一,Alpha 微单与 PlayStation 游戏机享誉世界,业务覆盖音乐、影视与游戏,是横跨硬件与内容的全能选手。",
+   "story": "1946 年井深大与盛田昭夫在东京创立索尼前身东京通信工业,先后推出日本第一台晶体管收音机与 Walkman 随身听,后者开创个人音乐时代,被誉为 20 世纪最伟大的电子产品之一。\n1994 年 PlayStation 问世并成长为全球最大游戏平台之一,索尼又以 CMOS 传感器占据全球半壁江山,Alpha 微单领跑全画幅市场;如今的索尼已转型为游戏、音乐、影视与影像技术并重的娱乐科技集团。",
+   "products": [
+    {
+     "id": "sony-alpha",
+     "name": "Alpha 微单",
+     "nameEn": "Sony Alpha Cameras",
+     "type": "全画幅微单相机",
+     "price": {
+      "min": 9999,
+      "max": 44999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Alpha系列是索尼全画幅微单旗舰,也是全画幅微单市场的领导者。A7系列均衡全能,A7R主打高像素,A9与A1主攻速度,A7M4被誉为水桶机标杆,实时追焦与4K 120P视频能力突出。深受职业摄影师与视频创作者信赖,是当代影像创作的行业标杆。",
+     "highlights": [
+      "全画幅",
+      "实时追焦",
+      "4K 120P"
+     ],
+     "tags": [
+      "相机",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "sony-playstation",
+     "name": "PlayStation 5",
+     "nameEn": "Sony PS5",
+     "type": "家用游戏主机",
+     "price": {
+      "min": 2599,
+      "max": 5999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "PlayStation 5是索尼家用游戏主机,也是全球最畅销的家用主机之一。以超高速SSD带来极速读盘体验,DualSense手柄的自适应扳机与沉浸反馈独树一帜,独占大作阵容豪华,PS5 Pro面向高帧率玩家。是家庭娱乐与核心玩家首选的主机平台之一。",
+     "highlights": [
+      "超高速SSD",
+      "DualSense手柄",
+      "独占大作"
+     ],
+     "tags": [
+      "游戏机",
+      "主机"
+     ],
+     "image": null
+    },
+    {
+     "id": "sony-bravia",
+     "name": "BRAVIA 电视",
+     "nameEn": "Sony BRAVIA TV",
+     "type": "电视",
+     "price": {
+      "min": 3999,
+      "max": 49999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "BRAVIA是索尼电视旗舰品牌,以XR认知芯片调校画质著称,OLED与Mini LED阵容齐全,画面调校功力深厚,被视为PS5最佳搭档。适合影音发烧友与追求画质的家庭用户,多年稳居画质标杆地位,是索尼高端影音口碑的重要来源。",
+     "highlights": [
+      "XR芯片",
+      "OLED",
+      "PS5最佳搭档"
+     ],
+     "tags": [
+      "电视",
+      "影音"
+     ],
+     "image": null
+    },
+    {
+     "id": "sony-wh",
+     "name": "WH 降噪耳机",
+     "nameEn": "Sony WH-1000X Series",
+     "type": "头戴降噪耳机",
+     "price": {
+      "min": 1299,
+      "max": 2999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "WH-1000X系列是索尼头戴降噪耳机,也是行业标杆之作。以旗舰级降噪与LDAC高解析音质著称,续航可达约30小时,佩戴舒适、质感精致。适合商务差旅、通勤与专注办公人群,长期被视为头戴降噪耳机的默认答案之一。",
+     "highlights": [
+      "标杆级降噪",
+      "LDAC",
+      "30小时续航"
+     ],
+     "tags": [
+      "耳机",
+      "降噪"
+     ],
+     "image": null
+    },
+    {
+     "id": "sony-wf",
+     "name": "WF 降噪豆",
+     "nameEn": "Sony WF-1000X Series",
+     "type": "真无线降噪耳机",
+     "price": {
+      "min": 1299,
+      "max": 1999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "WF-1000X系列是索尼真无线降噪耳机,被玩家亲切称为降噪豆,是真无线降噪品类的定义者之一。WF-1000XM5以小巧机身实现旗舰降噪,支持LDAC高解析音质,佩戴轻巧无感。适合通勤与降噪刚需用户,是入耳式降噪的标杆产品。",
+     "highlights": [
+      "旗舰降噪",
+      "LDAC",
+      "小巧佩戴"
+     ],
+     "tags": [
+      "耳机",
+      "降噪"
+     ],
+     "image": null
+    },
+    {
+     "id": "sony-rx100",
+     "name": "黑卡相机",
+     "nameEn": "Sony RX100 Series",
+     "type": "便携数码相机",
+     "price": {
+      "min": 5499,
+      "max": 9999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "黑卡系列是索尼便携数码相机的代表作,把一英寸大底与弹出式取景器塞进口袋机身。RX100M7支持24张连拍与4K HDR视频,画质与便携罕见兼得。适合Vlog创作与随身街拍人群,被誉为口袋神器,是便携相机中的经典之作。",
+     "highlights": [
+      "一英寸大底",
+      "24fps连拍",
+      "4K HDR"
+     ],
+     "tags": [
+      "相机",
+      "便携"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "canon",
+   "name": "佳能",
+   "nameEn": "Canon",
+   "domain": "canon.com",
+   "categoryId": "tech",
+   "country": "日本",
+   "founded": 1937,
+   "hq": "东京",
+   "tier": "高端",
+   "sub": "影像",
+   "tags": [
+    "光学",
+    "EOS系统",
+    "影像"
+   ],
+   "slogan": "感动常在",
+   "desc": "全球相机市场份额第一的日本影像巨头,EOS 系统覆盖专业到入门,RF 卡口微单全面转型,办公打印设备与医疗影像同样领先,是技术自研率极高的光学大厂。",
+   "story": "1937 年佳能创立于东京,早期以旁轴相机起家,1959 年推出首款单反 Canonflex,此后靠 F 系列与 EOS 系统登顶专业摄影,1987 年 EOS 全电子卡口革命奠定其数十年统治力。\n进入数码时代,佳能长期占据全球可换镜头相机市场份额第一,近年以 EOS R 专微完成向 RF 卡口的转型,同时深耕喷墨打印机、广播镜头与医疗影像,是一家光学技术驱动的综合影像集团。",
+   "products": [
+    {
+     "id": "canon-eos-r-ff",
+     "name": "EOS R 全画幅微单",
+     "nameEn": "Canon EOS R Full-frame",
+     "type": "全画幅微单相机",
+     "price": {
+      "min": 9999,
+      "max": 39999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "EOS R全画幅微单是佳能专微主力。R5 Mark II以4500万像素与高速连拍覆盖体育、野生题材,R6系列是全画幅性价比水桶机,人像色彩科学备受婚纱摄影师青睐,机身防抖实用可靠。适合职业摄影师与摄影爱好者,是全画幅市场占有率领先的体系。",
+     "highlights": [
+      "4500万像素",
+      "人像色彩",
+      "机身防抖"
+     ],
+     "tags": [
+      "相机",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "canon-eos-r-aps",
+     "name": "EOS R APS-C 微单",
+     "nameEn": "Canon EOS R APS-C",
+     "type": "APS-C微单相机",
+     "price": {
+      "min": 3999,
+      "max": 8999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "EOS R APS-C微单是佳能半画幅专微线。R50轻巧易用适合新手,R7主打速度与长焦,RF卡口系统持续扩充。适合Vlog创作、学生入门与长焦爱好者,凭借佳能标志性的色彩科学与易用性,成为半画幅入门的热门之选。",
+     "highlights": [
+      "轻巧入门",
+      "Vlog佳选",
+      "RF卡口"
+     ],
+     "tags": [
+      "相机",
+      "入门"
+     ],
+     "image": null
+    },
+    {
+     "id": "canon-eos-dslr",
+     "name": "EOS 单反",
+     "nameEn": "Canon EOS DSLR",
+     "type": "数码单反相机",
+     "price": {
+      "min": 3499,
+      "max": 15999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "EOS单反是统治单反时代的传奇系统,5D系列曾定义全画幅基准,90D与850D至今仍在服役。镜头群庞大、机身耐用可靠、二手保值率高。适合仍深耕单反体系的摄影用户与器材收藏者,是数码单反黄金时代最重要的符号之一。",
+     "highlights": [
+      "单反传奇",
+      "镜头群庞大",
+      "耐用可靠"
+     ],
+     "tags": [
+      "相机",
+      "单反"
+     ],
+     "image": null
+    },
+    {
+     "id": "canon-powershot",
+     "name": "PowerShot G 系列",
+     "nameEn": "Canon PowerShot G Series",
+     "type": "便携数码相机",
+     "price": {
+      "min": 2999,
+      "max": 5499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "PowerShot G系列是佳能便携卡片机,以一英寸底与翻转屏为核心卖点。G7 X Mark III因Vlog直播翻红,一度一机难求,成为社交媒体时代的现象级口袋相机。适合Vlogger、直播创作者与旅行随手拍用户,兼顾便携与画质。",
+     "highlights": [
+      "一英寸底",
+      "翻转屏",
+      "直播神器"
+     ],
+     "tags": [
+      "相机",
+      "Vlog"
+     ],
+     "image": null
+    },
+    {
+     "id": "canon-printer",
+     "name": "喷墨打印机",
+     "nameEn": "Canon PIXMA Printers",
+     "type": "打印机",
+     "price": {
+      "min": 299,
+      "max": 4999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "佳能PIXMA腾彩喷墨打印机以照片打印见长,覆盖家用到办公场景,加墨式高容量机型打印成本低,照片输出色彩出色。适合有照片打印、作业与文档刚需的家庭及小型办公用户,延续佳能在影像输出领域的专业口碑。",
+     "highlights": [
+      "照片级输出",
+      "加墨式",
+      "家用办公"
+     ],
+     "tags": [
+      "打印",
+      "办公"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "nikon",
+   "name": "尼康",
+   "nameEn": "Nikon",
+   "domain": "nikon.com",
+   "categoryId": "tech",
+   "country": "日本",
+   "founded": 1917,
+   "hq": "东京",
+   "tier": "高端",
+   "sub": "影像",
+   "tags": [
+    "光学",
+    "Z卡口",
+    "耐用"
+   ],
+   "slogan": "影像从心",
+   "desc": "日本百年光学大厂,以军工级做工与成像锐度著称,Nikon F 卡口曾统治专业摄影半个世纪,Z 卡口微单强势复兴,运动与野生动物摄影领域口碑卓著。",
+   "story": "尼康 1917 年由三菱系企业合并创立于东京,最初生产光学玻璃与潜望镜,1948 年推出首台相机 Nikon I,1959 年 Nikon F 卡口确立专业单反标准,数十年间成为新闻与体育摄影的代名词。\n数码时代尼康一度沉寂,2018 年 Z 卡口微单强势复兴,从 Z6/Z7 到 Z8/Z9 全面开花,Z9 以无机械快门设计斩获多项年度相机大奖,重新站回全画幅第一梯队。",
+   "products": [
+    {
+     "id": "nikon-z-ff",
+     "name": "Z 全画幅微单",
+     "nameEn": "Nikon Z Full-frame",
+     "type": "全画幅微单相机",
+     "price": {
+      "min": 7999,
+      "max": 17999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "尼康Z全画幅微单以画质与操控见长。Z6III采用部分堆叠式传感器实现速度画质兼得,动态范围与色彩深受风光摄影师喜爱,Z5则是入门全画幅高性价比之选。适合风光、人像摄影爱好者与追求扎实画质体验的用户,以稳健口碑著称。",
+     "highlights": [
+      "部分堆叠传感器",
+      "高动态范围",
+      "风光利器"
+     ],
+     "tags": [
+      "相机",
+      "风光"
+     ],
+     "image": null
+    },
+    {
+     "id": "nikon-z8-z9",
+     "name": "Z8 / Z9 旗舰",
+     "nameEn": "Nikon Z8 / Z9",
+     "type": "旗舰微单相机",
+     "price": {
+      "min": 27999,
+      "max": 35999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Z8/Z9是尼康旗舰微单。Z9取消机械快门实现全电子化,深度学习对焦追焦稳如磐石,Z8以更轻机身延续旗舰性能,是体育与野生动物摄影利器。适合专业体育、生态摄影师与高端发烧友,标志着尼康从单反时代向无反时代的成功转身。",
+     "highlights": [
+      "无机械快门",
+      "深度学习对焦",
+      "体育野生"
+     ],
+     "tags": [
+      "相机",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "nikon-z-dx",
+     "name": "Z APS-C 微单",
+     "nameEn": "Nikon Z DX",
+     "type": "APS-C微单相机",
+     "price": {
+      "min": 4499,
+      "max": 8999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "尼康Z APS-C微单面向入门与轻量玩家。Zfc以复古外观致敬经典FM2,颜值出众,Z50II对焦强劲、上手友好。适合新手、扫街与复古美学爱好者,搭配Z卡口轻量镜头,构成轻便高颜值的半画幅系统。",
+     "highlights": [
+      "复古设计",
+      "新手友好",
+      "Z卡口"
+     ],
+     "tags": [
+      "相机",
+      "入门"
+     ],
+     "image": null
+    },
+    {
+     "id": "nikon-dslr",
+     "name": "D 系列单反",
+     "nameEn": "Nikon D-series DSLR",
+     "type": "数码单反相机",
+     "price": {
+      "min": 6999,
+      "max": 19999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "D系列是尼康数码单反的传奇,D850被誉为画质机皇,光学取景零延迟,操控扎实耐用,镜头群庞大且二手保值。至今仍有大量忠实用户与收藏者。适合传统摄影爱好者与专业存量用户,是单反黄金时代的经典符号。",
+     "highlights": [
+      "D850机皇",
+      "光学取景",
+      "保值耐用"
+     ],
+     "tags": [
+      "相机",
+      "单反"
+     ],
+     "image": null
+    },
+    {
+     "id": "nikon-z-lens",
+     "name": "尼克尔 Z 镜头",
+     "nameEn": "NIKKOR Z Lenses",
+     "type": "镜头",
+     "price": {
+      "min": 1299,
+      "max": 39999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "尼克尔Z镜头是Z卡口原厂镜头群,S-Line变焦光学素质顶级,50mm f/1.8等入门定焦性价比出色,覆盖入门到专业多档需求。适合尼康微单用户的镜头搭配需求,素质均衡的原厂体系是尼康微单系统的核心护城河。",
+     "highlights": [
+      "S-Line",
+      "入门定焦高性价比",
+      "光学素质"
+     ],
+     "tags": [
+      "镜头",
+      "光学"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "fujifilm",
+   "name": "富士",
+   "nameEn": "FUJIFILM",
+   "domain": "fujifilm.com",
+   "categoryId": "tech",
+   "country": "日本",
+   "founded": 1934,
+   "hq": "东京",
+   "tier": "高端",
+   "sub": "影像",
+   "tags": [
+    "胶片模拟",
+    "复古设计",
+    "中画幅"
+   ],
+   "slogan": "",
+   "desc": "以胶片起家的日本影像品牌,X-T 与 X100 的复古造型、胶片模拟直出色彩独树一帜,中画幅 GFX 挑战顶级画质,APS-C 微单长期供不应求,“富士味”已成流行文化。",
+   "story": "富士胶片创立于 1934 年,曾与柯达分庭抗礼;数码浪潮中富士果断转型,把胶片色彩科学移植进数码相机,2011 年 X100 与 2012 年 X-Pro1 的复古设计大获成功,从此确立了独特品牌气质。\n如今 X-T 与 X100 系列常年缺货溢价,胶片模拟成为全网流行色,中画幅 GFX 系列以更亲民的价格改写高画质格局,富士也从胶片公司蜕变为影像、医疗与材料并重的科技集团。",
+   "products": [
+    {
+     "id": "fujifilm-x-t",
+     "name": "X-T 系列",
+     "nameEn": "FUJIFILM X-T Series",
+     "type": "APS-C微单相机",
+     "price": {
+      "min": 7999,
+      "max": 13999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "X-T系列是富士中高端复古微单。X-T5配备4020万像素X-Trans传感器与五轴防抖,复古拨盘操控质感出众,胶片模拟直出色彩是招牌。适合摄影爱好者、街拍与旅行用户,颜值与画质兼备,是胶片感美学的现代载体。",
+     "highlights": [
+      "4020万像素",
+      "胶片模拟",
+      "复古拨盘"
+     ],
+     "tags": [
+      "相机",
+      "复古"
+     ],
+     "image": null
+    },
+    {
+     "id": "fujifilm-x100",
+     "name": "X100 系列",
+     "nameEn": "FUJIFILM X100 Series",
+     "type": "便携旁轴相机",
+     "price": {
+      "min": 8999,
+      "max": 11999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "X100系列是富士便携旁轴相机,也是网红相机顶流。X100VI首次加入机身防抖并内置多种胶片模拟,复古颜值与直出色彩使其长期缺货。适合街拍、旅行与追求直出氛围感的年轻用户,是社交媒体时代的影像文化符号。",
+     "highlights": [
+      "胶片模拟",
+      "机身防抖",
+      "复古颜值"
+     ],
+     "tags": [
+      "相机",
+      "潮流"
+     ],
+     "image": null
+    },
+    {
+     "id": "fujifilm-x-s",
+     "name": "X-S 系列",
+     "nameEn": "FUJIFILM X-S Series",
+     "type": "APS-C微单相机",
+     "price": {
+      "min": 6999,
+      "max": 8999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "X-S系列是富士轻量全能线。X-S20内置五轴防抖与2610万像素,6.2K视频与翻转屏对Vlog玩家友好,被视为最强APS-C视频轻机之一。适合Vlog创作者与单机走天下的旅行用户,兼顾照片画质与视频生产力。",
+     "highlights": [
+      "五轴防抖",
+      "6.2K视频",
+      "翻转屏"
+     ],
+     "tags": [
+      "相机",
+      "Vlog"
+     ],
+     "image": null
+    },
+    {
+     "id": "fujifilm-gfx",
+     "name": "GFX 中画幅",
+     "nameEn": "FUJIFILM GFX Series",
+     "type": "中画幅相机",
+     "price": {
+      "min": 19999,
+      "max": 49999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GFX系列是富士中画幅系统。一亿像素的GFX100 II把商业摄影画质带到五万元价位,体积却接近全画幅单反,大幅降低中画幅门槛。适合商业、人像与风光专业摄影师,是推动中画幅平民化的重要力量。",
+     "highlights": [
+      "1亿像素",
+      "大尺寸传感器",
+      "商业画质"
+     ],
+     "tags": [
+      "相机",
+      "中画幅"
+     ],
+     "image": null
+    },
+    {
+     "id": "fujifilm-instax",
+     "name": "instax 拍立得",
+     "nameEn": "FUJIFILM instax",
+     "type": "拍立得相机",
+     "price": {
+      "min": 399,
+      "max": 1299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "instax是全球最受欢迎的拍立得品牌之一,mini相纸一冲即显,即拍即得的仪式感十足,机身色彩丰富多样。适合聚会、旅行与送礼场景,在年轻用户中渗透率极高,是实体照片社交文化的代表性产品。",
+     "highlights": [
+      "即拍即得",
+      "多彩机身",
+      "社交神器"
+     ],
+     "tags": [
+      "拍立得",
+      "潮流"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "leica",
+   "name": "徕卡",
+   "nameEn": "Leica",
+   "domain": "leica.com",
+   "categoryId": "tech",
+   "country": "德国",
+   "founded": 1849,
+   "hq": "韦茨拉尔",
+   "tier": "顶奢",
+   "sub": "影像",
+   "tags": [
+    "德系光学",
+    "旁轴传奇",
+    "奢侈品"
+   ],
+   "slogan": "",
+   "desc": "德国百年光学奢华品牌,以精湛机械工艺与“德味”成像闻名全球,M 系列旁轴是摄影史上传奇,Q 系列固定镜头相机长期热销,与华为、小米等联名合作,身份符号意义远超工具。",
+   "story": "1849 年恩斯特·莱茨在德国韦茨拉尔创办光学作坊,1914 年工程师巴纳克造出全球首台 35mm 相机 Ur-Leica,1925 年量产的 Leica I 开创 35mm 摄影时代,布列松等大师用徕卡记录了半个二十世纪。\n徕卡历经胶片辉煌与数码阵痛,2008 年后通过 M 系列数码化与 Q 系列复兴,并与华为、小米等品牌联名扩展影响力;如今徕卡既是精密光学工厂,更是奢侈品与生活方式的象征。",
+   "products": [
+    {
+     "id": "leica-m",
+     "name": "M 系列旁轴",
+     "nameEn": "Leica M System",
+     "type": "旁轴数码相机",
+     "price": {
+      "min": 42999,
+      "max": 99999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "M系列是徕卡旁轴数码相机,也是135摄影史上的传奇系统。M11配备6000万像素无低通传感器,黄斑对焦与全手动操控是灵魂,具有很高的收藏价值。适合资深摄影爱好者与收藏家,是无数摄影大师的信仰之选。",
+     "highlights": [
+      "黄斑对焦",
+      "全手动",
+      "收藏价值"
+     ],
+     "tags": [
+      "相机",
+      "奢侈"
+     ],
+     "image": null
+    },
+    {
+     "id": "leica-q",
+     "name": "Q 系列",
+     "nameEn": "Leica Q Series",
+     "type": "全画幅固定镜头相机",
+     "price": {
+      "min": 49999,
+      "max": 59999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Q系列是徕卡全画幅固定镜头相机标杆。Q3搭载6000万像素传感器与Summilux 28mm F1.7镜头,德味直出画质与精致手感兼备,常年一机难求。适合追求极致便携与画质的资深用户与收藏玩家,是一台相机走天下的终极形态。",
+     "highlights": [
+      "Summilux镜头",
+      "6000万像素",
+      "德味直出"
+     ],
+     "tags": [
+      "相机",
+      "奢侈"
+     ],
+     "image": null
+    },
+    {
+     "id": "leica-sl",
+     "name": "SL 系统",
+     "nameEn": "Leica SL System",
+     "type": "全画幅微单相机",
+     "price": {
+      "min": 44999,
+      "max": 69999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "SL系统是徕卡无反旗舰,采用L卡口联盟标准。SL3配备6000万像素传感器,搭配徕卡镜头光学素质顶级,视频照片双修。适合既追求德系质感又需要专业性能的职业摄影师与高端用户,是徕卡面向现代影像工作流的旗舰体系。",
+     "highlights": [
+      "L卡口",
+      "6000万像素",
+      "视频双修"
+     ],
+     "tags": [
+      "相机",
+      "专业"
+     ],
+     "image": null
+    },
+    {
+     "id": "leica-m6",
+     "name": "M6 复刻胶片机",
+     "nameEn": "Leica M6 (2022)",
+     "type": "胶片旁轴相机",
+     "price": {
+      "min": 40999,
+      "max": 46999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "M6复刻版是徕卡2022年回归的经典胶片旁轴相机。保留黄斑对焦与机械快门的原味操控,卡口兼容历代M镜头。适合胶片摄影爱好者与收藏家,是胶片复兴浪潮中的收藏级单品,承载着徕卡机械美学与工艺的传承。",
+     "highlights": [
+      "胶片旁轴",
+      "黄斑对焦",
+      "复刻经典"
+     ],
+     "tags": [
+      "相机",
+      "胶片"
+     ],
+     "image": null
+    },
+    {
+     "id": "leica-binocular",
+     "name": "双筒望远镜",
+     "nameEn": "Leica Binoculars",
+     "type": "望远镜",
+     "price": {
+      "min": 29999,
+      "max": 49999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "徕卡双筒望远镜承载百年光学积淀,Noctivid以锐利成像与出色的色差控制闻名,德系做工精致。适合观鸟、户外与高端光学爱好者,被视为双筒望远镜领域的梦想器材,是徕卡光学实力在相机之外品类的延伸。",
+     "highlights": [
+      "顶级光学",
+      "观鸟利器",
+      "德系做工"
+     ],
+     "tags": [
+      "光学",
+      "户外"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "hasselblad",
+   "name": "哈苏",
+   "nameEn": "Hasselblad",
+   "domain": "hasselblad.com",
+   "categoryId": "tech",
+   "country": "瑞典",
+   "founded": 1941,
+   "hq": "哥德堡",
+   "tier": "奢华",
+   "sub": "影像",
+   "tags": [
+    "中画幅",
+    "登月传奇",
+    "自然色彩"
+   ],
+   "slogan": "",
+   "desc": "瑞典中画幅传奇,曾随阿波罗登月记录太空,以一亿像素与哈苏自然色彩解决方案著称,现由大疆控股,是商业摄影与画质信仰的代名词。",
+   "story": "哈苏 1941 年由维克托·哈苏在瑞典哥德堡创立,以航空仪器起家;1957 年推出的 500C 中画幅相机与 1969 年阿波罗 11 号登月使用的哈苏相机,使其成为唯一见证人类登月的相机品牌。\n2017 年大疆成为哈苏控股股东,双方在影像技术上深度融合,X2D 100C 以一亿像素、16 位色深与自然色彩方案成为商业摄影利器,907X 复古机身则致敬经典,哈苏继续稳居画质金字塔尖。",
+   "products": [
+    {
+     "id": "hasselblad-x2d",
+     "name": "X2D 100C",
+     "nameEn": "Hasselblad X2D 100C",
+     "type": "中画幅相机",
+     "price": {
+      "min": 64999,
+      "max": 89999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "X2D 100C是哈苏一亿像素中画幅旗舰,16位色深与15级动态范围,哈苏自然色彩解决方案直出惊艳。适合商业摄影与风光摄影的顶级需求用户,是中画幅数码化的终极器材之一,延续哈苏品牌的顶级影像声望。",
+     "highlights": [
+      "1亿像素",
+      "16位色深",
+      "自然色彩"
+     ],
+     "tags": [
+      "相机",
+      "中画幅"
+     ],
+     "image": null
+    },
+    {
+     "id": "hasselblad-x2d-ii",
+     "name": "X2D II 100C",
+     "nameEn": "Hasselblad X2D II 100C",
+     "type": "中画幅相机",
+     "price": {
+      "min": 49999,
+      "max": 64999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "X2D II 100C是哈苏新一代一亿像素中画幅旗舰,升级相位检测对焦与操控体验,延续哈苏自然色彩与16位色深。面向顶级商业摄影师与高端风光创作者,以中画幅画质与现代化操作,继续定义高端影像器材的水准。",
+     "highlights": [
+      "1亿像素",
+      "相位对焦",
+      "自然色彩"
+     ],
+     "tags": [
+      "相机",
+      "中画幅"
+     ],
+     "image": null
+    },
+    {
+     "id": "hasselblad-907x-50c",
+     "name": "907X & CFV II 50C",
+     "nameEn": "Hasselblad 907X & CFV II 50C",
+     "type": "中画幅相机",
+     "price": {
+      "min": 25999,
+      "max": 39999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "907X & CFV II 50C是复刻经典500C造型的模块化中画幅组合,5000万像素CFV II数码背既可装机身拍摄,也能转接哈苏历代V系胶片镜头。适合怀旧摄影爱好者与专业用户,让老镜头焕发新生,情怀与画质兼得。",
+     "highlights": [
+      "复古模块化",
+      "V镜头转接",
+      "5000万像素"
+     ],
+     "tags": [
+      "相机",
+      "复古"
+     ],
+     "image": null
+    },
+    {
+     "id": "hasselblad-907x-100c",
+     "name": "907X & CFV 100C",
+     "nameEn": "Hasselblad 907X & CFV 100C",
+     "type": "中画幅相机",
+     "price": {
+      "min": 39999,
+      "max": 59999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "907X & CFV 100C是致敬1957年SWC的一亿像素中画幅组合,超紧凑机身可随身携带,并让胶片时代的哈苏镜头焕发数码新生。适合追求中画幅画质又看重便携与情怀的用户,是哈苏连接历史与当下的桥梁之作。",
+     "highlights": [
+      "1亿像素",
+      "超紧凑",
+      "胶片镜头数码化"
+     ],
+     "tags": [
+      "相机",
+      "中画幅"
+     ],
+     "image": null
+    },
+    {
+     "id": "hasselblad-xcd",
+     "name": "XCD 镜头群",
+     "nameEn": "Hasselblad XCD Lenses",
+     "type": "中画幅镜头",
+     "price": {
+      "min": 15999,
+      "max": 79999,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "XCD镜头群是哈苏中画幅自动对焦镜头体系,覆盖25mm至135mm焦段,镜间快门静音轻巧,光学素质以极致锐利著称。适合X系统中画幅用户的镜头配置需求,轻量化设计与顶级画质让中画幅拍摄更高效从容。",
+     "highlights": [
+      "镜间快门",
+      "极致锐利",
+      "轻量化"
+     ],
+     "tags": [
+      "镜头",
+      "光学"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "dji",
+   "name": "大疆",
+   "nameEn": "DJI",
+   "domain": "dji.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2006,
+   "hq": "深圳",
+   "tier": "高端",
+   "sub": "影像",
+   "tags": [
+    "无人机",
+    "云台",
+    "全球霸主"
+   ],
+   "slogan": "未来无所不能",
+   "desc": "全球民用无人机绝对霸主,消费级市场份额约七成,从精灵到 Mavic 持续定义行业,手持影像、专业影视与农业、行业应用全线覆盖,是中国智造的世界名片。",
+   "story": "2006 年汪滔在香港科技大学创业,创立大疆创新;2013 年精灵 Phantom 一体化无人机引爆全球消费市场,此后 Mavic 系列把专业航拍装进口袋,大疆迅速占据全球消费级无人机约七成份额。\n如今大疆业务延伸至手持影像、专业影视、农业植保与行业应用,Mini、Air、Mavic 全价位布局,口袋云台相机 Osmo Pocket 与运动相机 Action 系列持续热销,成为全球创新科技的中国标杆。",
+   "products": [
+    {
+     "id": "dji-mini",
+     "name": "DJI Mini 系列",
+     "nameEn": "DJI Mini Series",
+     "type": "航拍无人机",
+     "price": {
+      "min": 1499,
+      "max": 4788,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "DJI Mini系列是大疆轻量航拍无人机,249克以下重量法规友好、免实名登记。Mini 4 Pro具备全向避障与4K/60fps HDR,轻巧易携。适合新手入门与旅行航拍人群,是大疆面向大众消费级市场的国民航拍产品。",
+     "highlights": [
+      "249g轻量",
+      "全向避障",
+      "4K HDR"
+     ],
+     "tags": [
+      "无人机",
+      "入门"
+     ],
+     "image": null
+    },
+    {
+     "id": "dji-mavic",
+     "name": "Mavic 系列",
+     "nameEn": "DJI Mavic Series",
+     "type": "旗舰航拍无人机",
+     "price": {
+      "min": 9299,
+      "max": 26888,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Mavic系列是大疆航拍旗舰。Mavic 4 Pro采用无限旋转云台与哈苏三摄,续航长达51分钟,把专业级航拍能力推向新高度。适合专业航拍师、影视创作者与高端旅行用户,长期定义着消费级航拍的技术高度。",
+     "highlights": [
+      "哈苏三摄",
+      "51分钟续航",
+      "全向云台"
+     ],
+     "tags": [
+      "无人机",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "dji-osmo-action",
+     "name": "Osmo Action",
+     "nameEn": "DJI Osmo Action",
+     "type": "运动相机",
+     "price": {
+      "min": 1799,
+      "max": 2999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Osmo Action是大疆运动相机,前后双屏取景直观,增稳防抖表现出色。Action 5 Pro以大电池长续航对标GoPro,是骑行与潜水场景的热门选择。适合运动记录与户外创作者,是运动影像市场的重要竞争者。",
+     "highlights": [
+      "前后双屏",
+      "增稳防抖",
+      "长续航"
+     ],
+     "tags": [
+      "运动相机",
+      "户外"
+     ],
+     "image": null
+    },
+    {
+     "id": "dji-osmo-pocket",
+     "name": "Osmo Pocket",
+     "nameEn": "DJI Osmo Pocket",
+     "type": "口袋云台相机",
+     "price": {
+      "min": 1999,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Osmo Pocket是大疆口袋云台相机,Pocket 3配备一英寸CMOS、三轴云台与2英寸旋转屏,支持D-Log M,一键稳定运镜。适合Vlogger与旅行记录者,被视为Vlog神器,几乎是内容创作者人手一台的标配工具。",
+     "highlights": [
+      "一英寸CMOS",
+      "三轴云台",
+      "旋转屏"
+     ],
+     "tags": [
+      "Vlog",
+      "便携"
+     ],
+     "image": null
+    },
+    {
+     "id": "dji-ronin",
+     "name": "如影 Ronin",
+     "nameEn": "DJI Ronin Series",
+     "type": "手持稳定器",
+     "price": {
+      "min": 899,
+      "max": 4999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "如影Ronin是大疆手持稳定器,RS系列服务单反微单专业拍摄,OM系列面向手机Vlog,三轴增稳与强负载能力覆盖多元创作需求。适合影视从业者与视频创作者,是影视工业级稳定体验的行业标杆,广泛出现在专业片场。",
+     "highlights": [
+      "三轴增稳",
+      "强负载",
+      "专业影视"
+     ],
+     "tags": [
+      "稳定器",
+      "影视"
+     ],
+     "image": null
+    },
+    {
+     "id": "dji-mic",
+     "name": "DJI Mic",
+     "nameEn": "DJI Mic Series",
+     "type": "无线麦克风",
+     "price": {
+      "min": 998,
+      "max": 2299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "DJI Mic是大疆无线麦克风,Mic 2支持全向拾音与32-bit浮点内录,稳定传输远达250米。适合访谈、Vlog与节目收音场景,与创作流程顺畅衔接,是创作者音频设备的热门之选,延续了品牌的专业级表现。",
+     "highlights": [
+      "32-bit浮点",
+      "250m传输",
+      "全向拾音"
+     ],
+     "tags": [
+      "麦克风",
+      "收音"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "insta360",
+   "name": "影石",
+   "nameEn": "Insta360",
+   "domain": "insta360.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2015,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "影像",
+   "tags": [
+    "全景相机",
+    "运动影像",
+    "AI剪辑"
+   ],
+   "slogan": "",
+   "desc": "全球全景运动相机第一品牌,全景相机与运动相机双线开花,隐形自拍杆与 AI 剪辑玩法出圈,GO 系列拇指相机引领轻量化,产品远销全球两百多个国家和地区。",
+   "story": "影石创新 2015 年创立于深圳,创始人刘靖康从南京大学毕业后投身创业,2017 年推出 Nano 全景相机崭露头角;ONE X 之后影石以全景运动相机在海外走红,Insta360 X 系列成为滑雪、摩托等极限运动的标配。\n如今影石推出 GO 拇指相机、Ace 运动相机与 Flow 手机云台等产品,全景相机全球市占率位居第一,2025 年登陆科创板,被誉为运动影像领域的中国黑马。",
+   "products": [
+    {
+     "id": "insta360-x",
+     "name": "X 系列",
+     "nameEn": "Insta360 X Series",
+     "type": "全景运动相机",
+     "price": {
+      "min": 2599,
+      "max": 4299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "X系列是影石全景运动相机,也是全球全景运动相机标杆。X5升级大底传感器与可换镜片设计,8K全景画面拍后可重新构图,隐形自拍杆玩法风靡全网。适合极限运动、旅行记录与创意视频创作者,以拍后构图重塑创作方式。",
+     "highlights": [
+      "8K全景",
+      "隐形自拍杆",
+      "AI重构图"
+     ],
+     "tags": [
+      "全景",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "insta360-ace",
+     "name": "Ace 系列",
+     "nameEn": "Insta360 Ace Series",
+     "type": "运动相机",
+     "price": {
+      "min": 2199,
+      "max": 3499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Ace系列是影石运动相机,与徕卡联合调色。Ace Pro 2搭载1/1.3英寸大底与翻转屏,画质与防抖对标行业顶流。适合Vlog与运动记录用户,是影石从全景相机向常规运动相机品类扩张、直面头部品牌的实力产品。",
+     "highlights": [
+      "徕卡调色",
+      "大底传感器",
+      "翻转屏"
+     ],
+     "tags": [
+      "运动相机",
+      "户外"
+     ],
+     "image": null
+    },
+    {
+     "id": "insta360-go",
+     "name": "GO 系列",
+     "nameEn": "Insta360 GO Series",
+     "type": "拇指相机",
+     "price": {
+      "min": 1599,
+      "max": 2199,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GO系列是影石拇指相机,拇指大小超轻便,磁吸挂绳佩戴解放双手,第一视角素材支持自动剪辑。适合遛娃、骑行与日常第一视角记录等轻量场景,以无感佩戴的形态开创拇指相机品类,深受生活记录者喜爱。",
+     "highlights": [
+      "拇指大小",
+      "磁吸佩戴",
+      "自动剪辑"
+     ],
+     "tags": [
+      "微型",
+      "第一视角"
+     ],
+     "image": null
+    },
+    {
+     "id": "insta360-flow",
+     "name": "Flow 手机云台",
+     "nameEn": "Insta360 Flow",
+     "type": "手机稳定器",
+     "price": {
+      "min": 699,
+      "max": 999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "影石 Flow 是 Insta360 面向大众的手机稳定器,主打让手机轻松拍出电影感运镜。它内置延长杆与三脚架,AI 跟踪可让人物始终保持在画面中心,并原生支持苹果 DockKit,无需额外操作即可联动 iPhone。适合 vlog 博主、直播带货与家庭出游记录。依托影石在影像领域的口碑,它以易用性成为入门创作者的热门之选。",
+     "highlights": [
+      "AI跟踪",
+      "内置延长杆",
+      "DockKit"
+     ],
+     "tags": [
+      "稳定器",
+      "Vlog"
+     ],
+     "image": null
+    },
+    {
+     "id": "insta360-link",
+     "name": "Link 网络摄像头",
+     "nameEn": "Insta360 Link",
+     "type": "网络摄像头",
+     "price": {
+      "min": 999,
+      "max": 2299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Insta360 Link 是影石推出的 AI 网络摄像头,定位视频会议与直播教学场景。它具备 4K 画质与云台结构,可自动追踪人脸转动,还支持手势控制与白板模式,讲解板书时镜头会自动拉近。适合远程办公人群、网课老师与直播主播。作为传统网络摄像头的升级替代品,它以云台+4K 的组合在同品类中辨识度颇高。",
+     "highlights": [
+      "4K云台",
+      "AI追踪",
+      "手势控制"
+     ],
+     "tags": [
+      "摄像头",
+      "办公"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "gopro",
+   "name": "GoPro",
+   "nameEn": "GoPro",
+   "domain": "gopro.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 2002,
+   "hq": "圣马特奥",
+   "tier": "大众",
+   "sub": "影像",
+   "tags": [
+    "运动相机",
+    "极限运动",
+    "第一视角"
+   ],
+   "slogan": "Be a Hero",
+   "desc": "美国运动相机的开创者与代名词,Hero 系列以极限运动第一视角影像风靡全球,防水耐造与超级防抖是标签,虽面临激烈竞争,仍是极限运动影像的文化符号。",
+   "story": "2002 年冲浪爱好者尼克·伍德曼在加州创立 GoPro,最初只想为冲浪者造一条能绑在手腕上的相机腕带;Hero 系列借极限运动视频与 YouTube 生态爆红,开创运动相机品类并一度市值超百亿美元。\n近年面对大疆等强敌,GoPro 以 Hero 系列持续迭代防抖与画质,Max 全景相机补足品类,并转向订阅服务转型,依然是全球极限运动爱好者心中的信仰品牌。",
+   "products": [
+    {
+     "id": "gopro-hero-13",
+     "name": "Hero 13 Black",
+     "nameEn": "GoPro Hero 13 Black",
+     "type": "运动相机",
+     "price": {
+      "min": 2998,
+      "max": 3298,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GoPro Hero 13 Black 是运动相机品牌的最新旗舰,延续 GoPro 作为运动相机代名词的地位。它支持 HB 系列镜头模块拓展与 5.3K/60fps 视频,HyperSmooth 增稳被视作业内标杆,机身可裸机防水 10 米。适合极限运动、潜水冲浪与骑行摩托等硬核记录场景,也服务旅行 vlog 用户。作为系列迭代主力,它是极限影像文化的标志性设备。",
+     "highlights": [
+      "5.3K 60fps",
+      "HyperSmooth防抖",
+      "10米防水"
+     ],
+     "tags": [
+      "运动相机",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "gopro-hero-12",
+     "name": "Hero 12 Black",
+     "nameEn": "GoPro Hero 12 Black",
+     "type": "运动相机",
+     "price": {
+      "min": 1799,
+      "max": 2299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GoPro Hero 12 Black 是该品牌的上一代主力运动相机,现以更亲民的价格提供高性价比选择。它支持 5.3K 视频与 HDR 照片,增稳与地平线锁定表现成熟稳定,激烈晃动下画面依旧水平。适合想以较低预算体验 GoPro 生态的旅行者与运动爱好者。作为销量口碑兼具的前代旗舰,它在二手与新机市场都有很高热度。",
+     "highlights": [
+      "5.3K视频",
+      "地平线锁定",
+      "性价比"
+     ],
+     "tags": [
+      "运动相机",
+      "性价比"
+     ],
+     "image": null
+    },
+    {
+     "id": "gopro-hero-entry",
+     "name": "Hero 入门系列",
+     "nameEn": "GoPro Hero (2024)",
+     "type": "运动相机",
+     "price": {
+      "min": 1499,
+      "max": 1799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GoPro Hero(2024)是该品牌的入门系列运动相机,定位第一次入手运动相机的轻松之选。它以小巧机身保留 4K 视频与防抖能力,一键式操作简单直观,几乎没有学习成本。适合学生、旅行者与亲子家庭等轻量记录人群,日常拍拍即可满足。作为 GoPro 降低门槛的产品线,它让更多人以低预算加入运动影像文化。",
+     "highlights": [
+      "4K视频",
+      "小巧易用",
+      "入门价格"
+     ],
+     "tags": [
+      "运动相机",
+      "入门"
+     ],
+     "image": null
+    },
+    {
+     "id": "gopro-hero-11-mini",
+     "name": "Hero 11 Black Mini",
+     "nameEn": "GoPro Hero 11 Black Mini",
+     "type": "运动相机",
+     "price": {
+      "min": 1599,
+      "max": 2199,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GoPro Hero 11 Black Mini 是小机身版本的 Hero 11,取消前置屏只保留单一触控屏,主打轻量化第一视角记录。更小的体积便于佩戴在头盔与胸带前,骑行与摩托驾驶时的负担更轻,价格也更亲民。适合骑行党、机车骑士与徒步爱好者等第一视角拍摄人群。它是 GoPro 产品线中轻量化的代表作,口碑侧重实用与佩戴友好。",
+     "highlights": [
+      "轻量机身",
+      "第一视角",
+      "单屏设计"
+     ],
+     "tags": [
+      "运动相机",
+      "轻量"
+     ],
+     "image": null
+    },
+    {
+     "id": "gopro-max",
+     "name": "GoPro Max",
+     "nameEn": "GoPro MAX",
+     "type": "全景运动相机",
+     "price": {
+      "min": 2998,
+      "max": 3498,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GoPro MAX 是品牌的全景运动相机,360 度画面可先拍摄后重构图,不必纠结取景角度。Max HyperSmooth 让全景出片稳定流畅,还能一键切换为单镜头运动相机模式,一机两用。滑雪、冲浪等极限运动与旅行记录是它的主场,适合喜欢全景玩法、爱分享短视频的用户。搭配隐形自拍杆的玩法成为全景影像的标志性符号之一。",
+     "highlights": [
+      "360全景",
+      "拍后重构图",
+      "隐形自拍杆"
+     ],
+     "tags": [
+      "全景",
+      "运动"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "nintendo",
+   "name": "任天堂",
+   "nameEn": "Nintendo",
+   "domain": "nintendo.com",
+   "categoryId": "tech",
+   "country": "日本",
+   "founded": 1889,
+   "hq": "京都",
+   "tier": "大众",
+   "sub": "游戏",
+   "tags": [
+    "游戏主机",
+    "第一方IP",
+    "创意玩法"
+   ],
+   "slogan": "",
+   "desc": "全球游戏行业百年巨头,马力欧、塞尔达、宝可梦的缔造者,以独创玩法与第一方游戏著称,Switch 融合主机与掌机大获成功,是无数玩家的童年回忆。",
+   "story": "任天堂 1889 年以花札纸牌起家,山内溥执掌后转向电子游戏,1983 年 FC 红白机拯救北美游戏市场,马力欧与塞尔达传说相继诞生,GB、NDS、Wii 一次次定义游戏形态。\n2017 年 Switch 以主机掌机二合一席卷全球,销量突破一亿五千万台;2025 年 Switch 2 接棒发售再创纪录,任天堂坚持软硬件一体的独特路线,旗下 IP 更延伸出游改电影与超级任天堂世界主题乐园。",
+   "products": [
+    {
+     "id": "nintendo-switch",
+     "name": "Nintendo Switch",
+     "nameEn": "Nintendo Switch",
+     "type": "家用游戏主机",
+     "price": {
+      "min": 1999,
+      "max": 2699,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Nintendo Switch 是任天堂的现象级游戏主机,主机掌机二合一的形态开创先河,拆卸 Joy-Con 可随时随地开玩。凭借塞尔达、马力欧等强大的第一方大作阵容,全球销量超过 1.5 亿台。适合家庭客厅娱乐、通勤掌机党与全年龄段玩家。它让主机与掌机边界消失,被视为游戏史上最具影响力的硬件之一。",
+     "highlights": [
+      "主机掌机合一",
+      "Joy-Con",
+      "第一方大作"
+     ],
+     "tags": [
+      "游戏机",
+      "主机"
+     ],
+     "image": null
+    },
+    {
+     "id": "nintendo-switch-2",
+     "name": "Nintendo Switch 2",
+     "nameEn": "Nintendo Switch 2",
+     "type": "家用游戏主机",
+     "price": {
+      "min": 2899,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Nintendo Switch 2 是任天堂 2025 年发售的新一代主机,首发即全球热销、长期缺货。屏幕升级至更大的 1080P 显示,支持 4K 电视输出与 120Hz 高刷新率,全新 Joy-Con 还加入鼠标模式等新玩法。适合追求更高画质的老玩家与新入手的家庭用户。作为现象级 Switch 的正统续作,它是近年来最受瞩目的游戏硬件。",
+     "highlights": [
+      "4K输出",
+      "120Hz",
+      "Joy-Con鼠标模式"
+     ],
+     "tags": [
+      "游戏机",
+      "次世代"
+     ],
+     "image": null
+    },
+    {
+     "id": "nintendo-switch-oled",
+     "name": "Switch OLED 版",
+     "nameEn": "Nintendo Switch OLED Model",
+     "type": "家用游戏主机",
+     "price": {
+      "min": 2399,
+      "max": 2799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Switch OLED 版是任天堂 Switch 家族的屏幕升级款,7 英寸 OLED 屏带来显著更好的对比度与色彩,支架与 64GB 存储同步改进,屏幕素质在历代 Switch 中口碑最均衡。适合以掌机模式为主、注重观感的玩家,也让第一次购买的家庭用户省心。它是 Switch 生命周期后期的口碑之作,被视为体验最完整的一代。",
+     "highlights": [
+      "OLED屏",
+      "64GB存储",
+      "可调支架"
+     ],
+     "tags": [
+      "游戏机",
+      "升级款"
+     ],
+     "image": null
+    },
+    {
+     "id": "nintendo-switch-lite",
+     "name": "Switch Lite",
+     "nameEn": "Nintendo Switch Lite",
+     "type": "掌上游戏机",
+     "price": {
+      "min": 1499,
+      "max": 1699,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Switch Lite 是纯掌机形态的 Switch,不支持连接电视,一体化轻巧机身更便于随身携带。多款明快配色深受学生党与年轻用户喜爱,适合个人通勤、旅途中的碎片化游玩。以更低的价格提供完整的任天堂游戏阵容,是预算有限或只要掌机体验人群的实惠之选。它在 Switch 家族中承担入门与随身娱乐的角色。",
+     "highlights": [
+      "纯掌机",
+      "一体化设计",
+      "多配色"
+     ],
+     "tags": [
+      "掌机",
+      "便携"
+     ],
+     "image": null
+    },
+    {
+     "id": "nintendo-zelda",
+     "name": "塞尔达传说系列",
+     "nameEn": "The Legend of Zelda",
+     "type": "动作冒险游戏",
+     "price": {
+      "min": 299,
+      "max": 429,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "塞尔达传说系列是任天堂旗舰级动作冒险 IP,旷野之息与王国之泪的开放世界设计重新定义了行业玩法,物理引擎驱动的自由度广受赞誉。系列是评分最高的游戏系列之一,也是无数人购买任天堂主机的直接理由。适合热爱探索、解谜与开放世界的玩家。作为游戏艺术的代表,它在全球玩家心中拥有近乎图腾的文化地位。",
+     "highlights": [
+      "开放世界",
+      "物理引擎",
+      "高分神作"
+     ],
+     "tags": [
+      "游戏",
+      "开放世界"
+     ],
+     "image": null
+    },
+    {
+     "id": "nintendo-mario",
+     "name": "超级马力欧系列",
+     "nameEn": "Super Mario",
+     "type": "平台跳跃游戏",
+     "price": {
+      "min": 299,
+      "max": 399,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "超级马力欧系列是游戏史上最著名的 IP,全球累计销量数亿份,几乎与电子游戏文化本身画上等号。奥德赛与惊奇等作品在平台跳跃品类中持续创新,全年龄友好的设计让任何人都易上手。马力欧大电影与主题乐园进一步让 IP 影响力破圈。适合家庭聚会、亲子共玩与所有想感受游戏乐趣的人群,是任天堂的国民级象征。",
+     "highlights": [
+      "国民IP",
+      "平台跳跃",
+      "全年龄"
+     ],
+     "tags": [
+      "游戏",
+      "IP"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "microsoft",
+   "name": "微软",
+   "nameEn": "Microsoft",
+   "domain": "microsoft.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1975,
+   "hq": "雷德蒙德",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "Windows",
+    "云计算",
+    "AI"
+   ],
+   "slogan": "予力全球每一人、每一组织,成就不凡",
+   "desc": "全球最大软件公司之一,Windows 与 Office 定义个人电脑时代,如今 Azure 云计算与 AI 全面领先,Xbox 是其游戏娱乐支柱,Surface 代表微软的硬件设计美学。",
+   "story": "1975 年比尔·盖茨与保罗·艾伦创立微软,凭借 MS-DOS 与 Windows 成为 PC 时代的操作系统霸主,Office 办公套件至今仍是全球生产力标准。\n萨提亚·纳德拉 2014 年执掌后押注云计算与开放生态,Azure 跃居全球第二,收购动视暴雪补强游戏版图,并与 OpenAI 深度合作引领生成式 AI 浪潮,市值跻身全球前三,完成从软件巨头到 AI 时代引领者的转身。",
+   "products": [
+    {
+     "id": "microsoft-surface",
+     "name": "Surface 系列",
+     "nameEn": "Microsoft Surface",
+     "type": "笔记本电脑",
+     "price": {
+      "min": 2988,
+      "max": 19888,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "微软 Surface 系列是自研硬件的标杆,以设计见长。Surface Pro 二合一平板笔记本的可拆卸键盘形态独树一帜,Laptop 系列主打轻薄商务,触控屏与精致做工被视为 Windows 阵营的设计天花板。适合商务办公、移动办公与追求颜值的生产力用户。作为微软展示 Windows 体验的样板机,Surface 对笔记本形态的探索影响了整个行业。",
+     "highlights": [
+      "二合一形态",
+      "触控屏",
+      "轻薄商务"
+     ],
+     "tags": [
+      "笔记本",
+      "设计"
+     ],
+     "image": null
+    },
+    {
+     "id": "microsoft-xbox-series",
+     "name": "Xbox Series X|S",
+     "nameEn": "Xbox Series X|S",
+     "type": "家用游戏主机",
+     "price": {
+      "min": 1899,
+      "max": 3899,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Xbox Series X|S 是微软的次世代家用主机,Series X 以 12 TFLOPS 算力输出 4K 画面,S 系列则以小巧机身与高性价比主打 2K 体验。配合快速架构缩短加载时间,Game Pass 订阅库更被誉为主机界的 Netflix。适合欧美主流客厅玩家与订阅制游戏用户。它与 PS5 的世代竞争,是当下游戏主机市场的重要一极。",
+     "highlights": [
+      "12 TFLOPS",
+      "快速架构",
+      "Game Pass"
+     ],
+     "tags": [
+      "游戏机",
+      "主机"
+     ],
+     "image": null
+    },
+    {
+     "id": "microsoft-xbox-controller",
+     "name": "Xbox 手柄",
+     "nameEn": "Xbox Wireless Controller",
+     "type": "游戏手柄",
+     "price": {
+      "min": 299,
+      "max": 1599,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Xbox 无线手柄是最通用的 PC 游戏手柄,人体工学设计出色,布局几乎成为 PC 手柄的默认标准,Windows 原生支持即插即玩。Elite 精英系列提供可自定义按键与背键,满足进阶玩家需求。适合 PC 游戏、主机游戏与云游戏用户。凭借广泛的兼容性与经久不衰的口碑,它是游戏手柄的工业设计标杆之一。",
+     "highlights": [
+      "人体工学",
+      "PC通用",
+      "精英版可自定义"
+     ],
+     "tags": [
+      "手柄",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "microsoft-game-pass",
+     "name": "Xbox Game Pass",
+     "nameEn": "Xbox Game Pass",
+     "type": "游戏订阅服务",
+     "price": {
+      "min": 49,
+      "max": 119,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Xbox Game Pass 是微软的游戏订阅服务,数百款主机与 PC 游戏随玩随下,第一方大作首发即入库,Ultimate 档还包含云游戏与 EA Play 权益。被业界誉为游戏界的 Netflix,改变了玩家获取游戏的方式。适合重度尝鲜玩家、多平台用户与预算有限的游戏爱好者。它是订阅制游戏模式的代表,深刻影响了行业的商业模式。",
+     "highlights": [
+      "数百款游戏库",
+      "首发入库",
+      "云游戏"
+     ],
+     "tags": [
+      "订阅",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "microsoft-surface-keyboard",
+     "name": "Surface 键鼠外设",
+     "nameEn": "Microsoft Surface Accessories",
+     "type": "键鼠外设",
+     "price": {
+      "min": 99,
+      "max": 799,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "微软 Surface 键鼠外设系列延续简约设计语言,Surface 键盘以阿尔坎塔拉面料与精致质感著称,人体工学键鼠则面向长时间办公场景,兼顾舒适与长续航。适合商务办公人群与微软生态用户,与 Surface 设备搭配观感统一。作为微软设计的延伸,这套外设以低调质感受到办公审美人群的青睐。",
+     "highlights": [
+      "简约设计",
+      "人体工学",
+      "长续航"
+     ],
+     "tags": [
+      "外设",
+      "办公"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "google",
+   "name": "谷歌",
+   "nameEn": "Google",
+   "domain": "google.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1998,
+   "hq": "山景城",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "搜索引擎",
+    "安卓",
+    "AI"
+   ],
+   "slogan": "整合全球信息,使人人皆可访问并从中受益",
+   "desc": "全球搜索引擎与安卓系统缔造者,旗下 YouTube、Gmail、地图服务覆盖数十亿用户,Pixel 硬件展示 AI 实力,DeepMind 引领人工智能前沿,是全球最具影响力的科技公司之一。",
+   "story": "1998 年拉里·佩奇与谢尔盖·布林在斯坦福创立谷歌,以 PageRank 算法颠覆搜索;2005 年收购安卓并开源,如今占据全球智能手机七成以上份额,YouTube 成为全球最大视频平台。\n2015 年谷歌重组为 Alphabet 旗下子公司,2016 年 AlphaGo 战胜李世石震惊世界;近年 Gemini 大模型与 Pixel 手机深度融合 AI,自研 TPU 芯片支撑全球最大规模 AI 基础设施,谷歌仍是全球信息入口与 AI 浪潮的核心。",
+   "products": [
+    {
+     "id": "google-pixel",
+     "name": "Pixel 系列",
+     "nameEn": "Google Pixel",
+     "type": "旗舰智能手机",
+     "price": {
+      "min": 3499,
+      "max": 8999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Pixel 是谷歌的亲儿子旗舰手机,以纯净安卓系统与长达七年的系统更新著称。计算摄影与 AI 能力全球领先,Pixel 9 系列深度整合 Gemini,从修图到通话摘要都体现谷歌软件实力。适合追求原生安卓体验、热爱 AI 功能的科技用户,也是安卓体验的风向标。作为谷歌软件生态的硬件门户,它每年都被视为安卓系统的样板机。",
+     "highlights": [
+      "原生安卓",
+      "计算摄影",
+      "Gemini AI"
+     ],
+     "tags": [
+      "手机",
+      "AI"
+     ],
+     "image": null
+    },
+    {
+     "id": "google-pixel-watch",
+     "name": "Pixel Watch",
+     "nameEn": "Google Pixel Watch",
+     "type": "智能手表",
+     "price": {
+      "min": 1599,
+      "max": 2999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Pixel Watch 是谷歌的 Wear OS 亲儿子智能手表,圆形表盘设计精致,Fitbit 健康体系加持提供完整的运动与健康监测。与 Pixel 手机联动体验最佳,信息提醒、钱包与助手功能一应俱全。适合安卓用户与注重日常健康追踪的人群。作为谷歌穿戴硬件的代表,它是安卓手表生态的重要样板。",
+     "highlights": [
+      "Wear OS",
+      "Fitbit健康",
+      "圆表盘"
+     ],
+     "tags": [
+      "手表",
+      "健康"
+     ],
+     "image": null
+    },
+    {
+     "id": "google-pixel-buds",
+     "name": "Pixel Buds",
+     "nameEn": "Google Pixel Buds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 799,
+      "max": 1699,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Pixel Buds 是谷歌的真无线耳机,Pixel Buds Pro 2 搭载自研 Tensor A1 芯片,主动降噪表现扎实,实时翻译等 AI 功能体验出色。与安卓设备和谷歌生态深度整合,连接与切换顺畅。适合 Pixel 及安卓用户、通勤与差旅人群。它承载了谷歌把 AI 塞进耳机的产品理念,是安卓阵营耳机的代表之一。",
+     "highlights": [
+      "Tensor A1",
+      "主动降噪",
+      "实时翻译"
+     ],
+     "tags": [
+      "耳机",
+      "降噪"
+     ],
+     "image": null
+    },
+    {
+     "id": "google-pixel-tablet",
+     "name": "Pixel Tablet",
+     "nameEn": "Google Pixel Tablet",
+     "type": "平板电脑",
+     "price": {
+      "min": 2999,
+      "max": 3999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Pixel Tablet 是谷歌的平板电脑,搭配充电音箱底座可秒变智能家居中控,强调家庭场景与多设备协同,支持 Cast 投屏与谷歌助手语音控制。适合以安卓生态为中枢的家庭用户,看视频、控制智能家居两不误。作为谷歌重返平板市场的尝试,它以家居融合的差异化路线在安卓平板中独树一帜。",
+     "highlights": [
+      "充电底座",
+      "家居中控",
+      "Cast投屏"
+     ],
+     "tags": [
+      "平板",
+      "家居"
+     ],
+     "image": null
+    },
+    {
+     "id": "google-chromecast",
+     "name": "Chromecast",
+     "nameEn": "Google Chromecast",
+     "type": "电视投屏设备",
+     "price": {
+      "min": 199,
+      "max": 699,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Chromecast 是谷歌的电视投屏设备,Cast 协议成为行业事实标准,从手机一键投到电视已是无数应用的默认能力。Google TV 版本聚合各家流媒体内容,支持 4K HDR 输出,是客厅大屏娱乐的入口。适合预算有限的电视升级用户与流媒体重度观众。作为智能电视时代的开创性产品,它改变了人们看电视的方式。",
+     "highlights": [
+      "Cast投屏",
+      "Google TV",
+      "4K HDR"
+     ],
+     "tags": [
+      "投屏",
+      "客厅"
+     ],
+     "image": null
+    },
+    {
+     "id": "google-nest",
+     "name": "Nest 智能家居",
+     "nameEn": "Google Nest",
+     "type": "智能家居",
+     "price": {
+      "min": 499,
+      "max": 2499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "Google Nest 是谷歌的智能家居品牌,产品线涵盖智能音箱、中控屏与摄像头等,由 Google Assistant 语音助手统一调度,可联动灯光、温控与安防设备。适合打造欧美风格智能家居生态的家庭用户。Nest 恒温器等产品曾引领智能家居浪潮,该品牌是欧美智能家居生态的代表之一。",
+     "highlights": [
+      "智能音箱",
+      "中控屏",
+      "语音助手"
+     ],
+     "tags": [
+      "智能家居",
+      "音箱"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "nvidia",
+   "name": "英伟达",
+   "nameEn": "NVIDIA",
+   "domain": "nvidia.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1993,
+   "hq": "圣克拉拉",
+   "tier": "高端",
+   "sub": "芯片",
+   "tags": [
+    "GPU",
+    "AI计算",
+    "光追"
+   ],
+   "slogan": "",
+   "desc": "全球 AI 计算与图形芯片霸主,GPU 市占率遥遥领先,GeForce 游戏卡与 RTX 技术引领光追时代,CUDA 生态构筑 AI 护城河,是全球市值最高的公司之一。",
+   "story": "1993 年黄仁勋与两位伙伴创立英伟达,1999 年发布全球首款 GPU GeForce 256,奠定图形加速霸业;2006 年推出 CUDA 平台,为十几年后的 AI 爆发埋下伏笔。\nChatGPT 席卷全球后,英伟达 A100 与 H100 芯片成为 AI 军备竞赛的硬通货,营收与市值暴涨并一度成为全球市值第一;Blackwell 架构接棒迭代,英伟达已成为人工智能时代的发动机。",
+   "products": [
+    {
+     "id": "nvidia-rtx-5090",
+     "name": "GeForce RTX 5090",
+     "nameEn": "NVIDIA RTX 5090",
+     "type": "消费级显卡",
+     "price": {
+      "min": 16499,
+      "max": 24999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GeForce RTX 5090 是英伟达的旗舰游戏显卡,基于 Blackwell 架构,配备 32GB GDDR7 显存,支持 DLSS 4 多帧生成技术,4K 光追性能无出其右。适合追求极致画质的发烧友、AI 出图与内容创作者。作为显卡性能的绝对天花板,它是装机圈公认的终极信仰,价格与热度常年居高不下。",
+     "highlights": [
+      "Blackwell架构",
+      "DLSS 4",
+      "32GB GDDR7"
+     ],
+     "tags": [
+      "显卡",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "nvidia-rtx-5080",
+     "name": "GeForce RTX 5080",
+     "nameEn": "NVIDIA RTX 5080",
+     "type": "消费级显卡",
+     "price": {
+      "min": 8299,
+      "max": 10999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GeForce RTX 5080 是英伟达的次旗舰显卡,配备 16GB GDDR7 显存,定位 4K 高刷新率游戏,在 DLSS 4 加持下能效比出色。适合高端装机用户与追求 4K 丝滑体验的玩家,是高端装机的热门之选。作为 50 系的中坚力量,它继承了英伟达在高性能显卡市场的强势地位与技术话语权。",
+     "highlights": [
+      "16GB GDDR7",
+      "4K高刷",
+      "DLSS 4"
+     ],
+     "tags": [
+      "显卡",
+      "高端"
+     ],
+     "image": null
+    },
+    {
+     "id": "nvidia-rtx-5070",
+     "name": "GeForce RTX 5070 系列",
+     "nameEn": "NVIDIA RTX 5070 / Ti",
+     "type": "消费级显卡",
+     "price": {
+      "min": 4299,
+      "max": 6999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GeForce RTX 5070 系列是英伟达的主流高端显卡,其中 5070 Ti 以 16GB 显存成为 2K 高刷新率的甜点之选,DLSS 4 帧生成让中高端卡也能畅玩光追大作。适合主流游戏玩家与性价比向装机人群。作为装机市场关注度最高的档位之一,它承接着最庞大的玩家群体与装机口碑。",
+     "highlights": [
+      "2K甜点",
+      "16GB显存",
+      "DLSS 4"
+     ],
+     "tags": [
+      "显卡",
+      "主流"
+     ],
+     "image": null
+    },
+    {
+     "id": "nvidia-rtx-5060",
+     "name": "GeForce RTX 5060 系列",
+     "nameEn": "NVIDIA RTX 5060 / Ti",
+     "type": "消费级显卡",
+     "price": {
+      "min": 2299,
+      "max": 4299,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "GeForce RTX 5060 系列是英伟达的主流装机爆款,覆盖 1080P 与 2K 的主力游戏需求,大显存版本还可兼顾 AI 出图等轻创作。适合预算有限的学生党与入门游戏玩家,是游戏与轻创作人群的销量冠军级产品。作为装机市场中走量最大的档位之一,它几乎与主流装机文化绑定在一起。",
+     "highlights": [
+      "1080P主力",
+      "大显存可选",
+      "主流装机"
+     ],
+     "tags": [
+      "显卡",
+      "性价比"
+     ],
+     "image": null
+    },
+    {
+     "id": "nvidia-h100",
+     "name": "H100 / H200",
+     "nameEn": "NVIDIA H100 / H200",
+     "type": "AI数据中心GPU",
+     "price": {
+      "min": 220000,
+      "max": 350000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "NVIDIA H100/H200 是 AI 训练与推理的黄金标准,基于 Hopper 架构与 Transformer 引擎,大幅提升大模型训练效率,NVLink 支持多卡互联扩展算力。全球科技巨头排队抢购,被誉为 AI 时代的算力硬通货。适合大模型研发企业、云服务商与研究机构。作为 ChatGPT 浪潮背后的算力基石,它是 AI 时代的标志性硬件。",
+     "highlights": [
+      "Hopper架构",
+      "Transformer引擎",
+      "NVLink"
+     ],
+     "tags": [
+      "AI",
+      "数据中心"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "intel",
+   "name": "英特尔",
+   "nameEn": "Intel",
+   "domain": "intel.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1968,
+   "hq": "圣克拉拉",
+   "tier": "大众",
+   "sub": "芯片",
+   "tags": [
+    "CPU",
+    "x86",
+    "半导体"
+   ],
+   "slogan": "",
+   "desc": "全球半导体巨头与 x86 架构缔造者,酷睿处理器数十年来驱动全球 PC,摩尔定律的提出者与践行者,正转型晶圆代工与 AI PC,是最负盛名的蓝色巨人。",
+   "story": "1968 年罗伯特·诺伊斯与戈登·摩尔创立英特尔,1971 年推出全球首款微处理器 4004,开启微电子时代;摩尔定律由其联合创始人提出,指引行业半个多世纪。\n凭借 x86 架构与工艺领先,英特尔长期统治 PC 与服务器芯片市场,近年面临 AMD 与 ARM 阵营挑战,转型晶圆代工并推进 AI 芯片,酷睿 Ultra 内置 NPU 迈入 AI PC 时代,蓝色巨人仍在寻找下一个计算浪潮的船票。",
+   "products": [
+    {
+     "id": "intel-core-ultra",
+     "name": "酷睿 Ultra",
+     "nameEn": "Intel Core Ultra",
+     "type": "CPU处理器",
+     "price": {
+      "min": 999,
+      "max": 4999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "英特尔酷睿 Ultra 是 AI PC 时代的主力处理器,首次在 CPU 中内置 NPU 神经处理单元,能效与 AI 算力大幅提升,采用先进制程工艺。台式与笔记本双线覆盖,是新一代轻薄本的核心引擎。适合追求长续航与本地 AI 能力的办公用户。作为英特尔架构转型的标志,它定义了 AI PC 这一新品类。",
+     "highlights": [
+      "内置NPU",
+      "AI PC",
+      "先进制程"
+     ],
+     "tags": [
+      "CPU",
+      "AI"
+     ],
+     "image": null
+    },
+    {
+     "id": "intel-core-i",
+     "name": "酷睿 i 系列",
+     "nameEn": "Intel Core i Series",
+     "type": "CPU处理器",
+     "price": {
+      "min": 499,
+      "max": 4899,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "英特尔酷睿 i 系列是统治 PC 十余年的经典处理器序列,i5 是主流装机的首选档位,i9 则面向发烧玩家与重度创作人群。游戏帧率表现与软件兼容性口碑深厚,生态成熟稳定。适合游戏玩家、办公用户与各类装机人群。酷睿之名一度成为 PC 处理器的代名词,影响了一代人的装机选择。",
+     "highlights": [
+      "i5主流",
+      "i9旗舰",
+      "游戏兼容"
+     ],
+     "tags": [
+      "CPU",
+      "装机"
+     ],
+     "image": null
+    },
+    {
+     "id": "intel-xeon",
+     "name": "至强 Xeon",
+     "nameEn": "Intel Xeon",
+     "type": "服务器CPU",
+     "price": {
+      "min": 4999,
+      "max": 99999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "英特尔至强 Xeon 是数据中心与工作站的中流砥柱,广泛驱动全球云计算与企业级服务器,以稳定可靠与多核性能著称,支持大内存与高扩展性配置。适合企业 IT 部门、数据中心与专业工作站用户。作为服务器市场的常青产品线,它是互联网基础设施最重要的底层芯片之一。",
+     "highlights": [
+      "数据中心",
+      "企业级",
+      "多核稳定"
+     ],
+     "tags": [
+      "服务器",
+      "企业"
+     ],
+     "image": null
+    },
+    {
+     "id": "intel-arc",
+     "name": "Arc 显卡",
+     "nameEn": "Intel Arc",
+     "type": "消费级显卡",
+     "price": {
+      "min": 1499,
+      "max": 2499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "英特尔 Arc 显卡是独显市场的新势力,Arc B580 以 12GB 大显存与高性价比搅局,为预算有限的玩家提供了英伟达与 AMD 之外的新选择,驱动仍在持续优化中。适合入门游戏玩家、装机尝鲜用户与多显卡编解码需求的创作者。作为英特尔重返独显市场的标志,它的每一步都被业界密切关注。",
+     "highlights": [
+      "12GB显存",
+      "高性价比",
+      "年轻架构"
+     ],
+     "tags": [
+      "显卡",
+      "新势力"
+     ],
+     "image": null
+    },
+    {
+     "id": "intel-n-series",
+     "name": "N 系列入门处理器",
+     "nameEn": "Intel N Series",
+     "type": "入门处理器",
+     "price": {
+      "min": 199,
+      "max": 599,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "英特尔 N 系列是入门计算市场的常青树,N100 等小核处理器以低功耗与低价格,广泛用于迷你主机、软路由与轻办公设备,覆盖海量基础场景。适合家用轻办公、学生网课与 DIY 迷你主机玩家。作为入门 PC 的高性价比之选,它推动了迷你主机品类在近年内的流行。",
+     "highlights": [
+      "低功耗",
+      "迷你主机",
+      "入门价格"
+     ],
+     "tags": [
+      "入门",
+      "低功耗"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "amd",
+   "name": "AMD",
+   "nameEn": "AMD",
+   "domain": "amd.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1969,
+   "hq": "圣克拉拉",
+   "tier": "大众",
+   "sub": "芯片",
+   "tags": [
+    "锐龙",
+    "CPU",
+    "GPU"
+   ],
+   "slogan": "",
+   "desc": "全球唯一同时提供高性能 CPU 与 GPU 的半导体设计公司,锐龙处理器逆袭英特尔,EPYC 攻占数据中心,收购 ATI 后游戏显卡与 AI 加速卡全面开花。",
+   "story": "1969 年杰里·桑德斯创立 AMD,作为英特尔之外唯一的 x86 挑战者历经数十年沉浮;2017 年 Zen 架构锐龙横空出世,以多核与性价比逆转战局,宣告 AMD Yes 时代来临。\n此后 AMD 收购赛灵思补强 FPGA,EPYC 服务器芯片攻入数据中心,Instinct 系列 AI 加速卡获微软、Meta 等巨头采用,游戏主机 SoC 长期服务 PS5 与 Xbox;在苏姿丰带领下,AMD 已成为全球市值前列的芯片设计巨头。",
+   "products": [
+    {
+     "id": "amd-ryzen-9000",
+     "name": "锐龙 9000 系列",
+     "nameEn": "AMD Ryzen 9000 Series",
+     "type": "CPU处理器",
+     "price": {
+      "min": 1099,
+      "max": 4899,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AMD 锐龙 9000 系列基于 Zen5 架构,能效与单核性能全面进步,其中 9800X3D 凭 3D V-Cache 缓存技术成为游戏 CPU 的绝对王者,装机口碑封神。适合游戏玩家、装机发烧友与生产力用户双线覆盖。作为与英特尔正面竞争的主力产品线,锐龙多年的进步彻底改变了 PC 处理器市场的格局。",
+     "highlights": [
+      "Zen5架构",
+      "3D V-Cache",
+      "游戏王者"
+     ],
+     "tags": [
+      "CPU",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "amd-threadripper",
+     "name": "线程撕裂者",
+     "nameEn": "AMD Ryzen Threadripper",
+     "type": "HEDT处理器",
+     "price": {
+      "min": 11999,
+      "max": 99999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AMD 线程撕裂者是工作站级 HEDT 旗舰处理器,最高可达 96 核 192 线程,面向 3D 渲染、科学仿真与 AI 工作站等重度多核场景,是桌面平台的性能天花板。适合专业创作者、渲染农场与科研计算用户。凭借激进的多核策略,它让 AMD 在高端工作站市场实现了对竞品的反超。",
+     "highlights": [
+      "96核心",
+      "工作站",
+      "性能天花板"
+     ],
+     "tags": [
+      "CPU",
+      "工作站"
+     ],
+     "image": null
+    },
+    {
+     "id": "amd-epyc",
+     "name": "EPYC 霄龙",
+     "nameEn": "AMD EPYC",
+     "type": "服务器CPU",
+     "price": {
+      "min": 4999,
+      "max": 99999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AMD EPYC 霄龙是数据中心服务器芯片,单颗最高 192 核,以核心数与内存通道数著称,高密度部署性价比突出,广泛部署于云计算与超算系统。适合云服务商、企业与高性能计算场景。作为至强多年来最强的对手,EPYC 的崛起重塑了服务器芯片市场的竞争格局。",
+     "highlights": [
+      "192核心",
+      "云服务器",
+      "高密度"
+     ],
+     "tags": [
+      "服务器",
+      "数据中心"
+     ],
+     "image": null
+    },
+    {
+     "id": "amd-radeon",
+     "name": "Radeon 显卡",
+     "nameEn": "AMD Radeon RX",
+     "type": "消费级显卡",
+     "price": {
+      "min": 1999,
+      "max": 7999,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AMD Radeon 是 AMD 的游戏显卡产品线,RX 9070 XT 以 RDNA4 架构对标同级英伟达,大显存与高性价比是其传统优势,FidelityFX 超分技术生态成熟。适合注重性价比的游戏玩家与主流装机人群。作为显卡市场与英伟达长期抗衡的一方,红卡在玩家文化中素有甜点与真香的传统印象。",
+     "highlights": [
+      "RDNA4",
+      "大显存",
+      "高性价比"
+     ],
+     "tags": [
+      "显卡",
+      "游戏"
+     ],
+     "image": null
+    },
+    {
+     "id": "amd-instinct",
+     "name": "Instinct MI 系列",
+     "nameEn": "AMD Instinct",
+     "type": "AI加速卡",
+     "price": {
+      "min": 150000,
+      "max": 300000,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "AMD Instinct MI 系列是 AMD 的 AI 加速旗舰,MI300X 以 192GB 超大显存服务大模型推理,获微软、Meta 等云巨头采购,基于 CDNA 架构面向数据中心。适合大模型服务商与云平台客户。作为英伟达在 AI 算力市场的主要挑战者,它的出现让 AI 芯片供应多了一个重要选项。",
+     "highlights": [
+      "192GB显存",
+      "大模型推理",
+      "CDNA架构"
+     ],
+     "tags": [
+      "AI",
+      "数据中心"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "qualcomm",
+   "name": "高通",
+   "nameEn": "Qualcomm",
+   "domain": "qualcomm.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1985,
+   "hq": "圣迭戈",
+   "tier": "大众",
+   "sub": "芯片",
+   "tags": [
+    "骁龙",
+    "基带",
+    "移动芯片"
+   ],
+   "slogan": "",
+   "desc": "全球无线通信与移动芯片领导者,骁龙平台驱动安卓旗舰阵营,基带与射频技术业内领先,正从手机芯片向汽车、IoT 与 PC 全智能边缘计算平台扩张。",
+   "story": "1985 年艾文·雅各布斯等六人在圣地亚哥创立高通,凭 CDMA 技术成为 3G/4G 时代通信专利霸主,几乎每一部手机都绕不开其专利墙。\n骁龙 8 系列长期定义安卓旗舰性能天花板,骁龙 X Elite 让 Windows on ARM 复兴,汽车座舱芯片份额领先;生成式 AI 时代高通继续深耕端侧智能,是全球无线通信产业的规则制定者。",
+   "products": [
+    {
+     "id": "qualcomm-snapdragon-8-elite",
+     "name": "骁龙8 至尊版",
+     "nameEn": "Snapdragon 8 Elite",
+     "type": "移动旗舰SoC",
+     "price": {
+      "min": 1299,
+      "max": 1899,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "骁龙 8 至尊版是高通新一代安卓旗舰 SoC,采用自研 Oryon CPU,主频高达 4.32GHz,AI 算力大幅跃升,端侧 AI 能力显著增强,驱动小米 15、一加 13 等一众安卓旗舰。适合追求顶级性能的游戏玩家与科技尝鲜用户。作为安卓阵营年度旗舰的标配平台,骁龙 8 系列几乎定义了安卓旗舰的性能基准。",
+     "highlights": [
+      "自研Oryon",
+      "4.32GHz",
+      "端侧AI"
+     ],
+     "tags": [
+      "SoC",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "qualcomm-snapdragon-8s",
+     "name": "骁龙 8s 系列",
+     "nameEn": "Snapdragon 8s Series",
+     "type": "次旗舰SoC",
+     "price": {
+      "min": 699,
+      "max": 1199,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "骁龙 8s 系列是高通旗舰架构下放的次旗舰平台,兼顾性能与成本,让中端机型也能获得旗舰同源的体验,游戏表现越级。广泛搭载于 2000-3000 元档的性能机型,适合注重性价比的性能党与学生用户。作为次旗舰市场的热门方案,它是价格与体验平衡的代表,深受国内性能机型青睐。",
+     "highlights": [
+      "旗舰同源",
+      "次旗舰",
+      "高性价比"
+     ],
+     "tags": [
+      "SoC",
+      "次旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "qualcomm-snapdragon-7",
+     "name": "骁龙 7 系列",
+     "nameEn": "Snapdragon 7 Series",
+     "type": "中端移动SoC",
+     "price": {
+      "min": 399,
+      "max": 899,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "骁龙 7 系列是高通中高端手机的主力平台,以均衡的能效与游戏稳帧表现著称,并加入 AI 增强能力,广泛搭载于两千元档热门机型。适合注重日常流畅与续航的普通消费者。作为中端市场的销量担当,骁龙 7 系列是众多国民级畅销机型的幕后功臣。",
+     "highlights": [
+      "均衡能效",
+      "中端主力",
+      "AI增强"
+     ],
+     "tags": [
+      "SoC",
+      "中端"
+     ],
+     "image": null
+    },
+    {
+     "id": "qualcomm-snapdragon-x-elite",
+     "name": "骁龙 X Elite",
+     "nameEn": "Snapdragon X Elite",
+     "type": "PC处理器",
+     "price": {
+      "min": 2500,
+      "max": 4500,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "骁龙 X Elite 是高通进军 PC 市场的 ARM 旗舰处理器,采用 12 核自研 Oryon CPU 与强大 NPU,驱动 Copilot+ PC 新品类,能效领先同级 x86 方案,让笔记本续航突破 20 小时。适合追求长续航的轻薄办公用户。作为 ARM 架构重返 PC 主流市场的标志性产品,它与苹果 M 系列共同推动了 PC 形态的变革。",
+     "highlights": [
+      "Oryon CPU",
+      "Copilot+ PC",
+      "长续航"
+     ],
+     "tags": [
+      "PC",
+      "ARM"
+     ],
+     "image": null
+    },
+    {
+     "id": "qualcomm-snapdragon-entry",
+     "name": "骁龙 6/4 入门系列",
+     "nameEn": "Snapdragon 6 / 4 Series",
+     "type": "入门移动SoC",
+     "price": {
+      "min": 199,
+      "max": 499,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "骁龙 6/4 系列是高通的入门智能手机平台,以高集成度与低功耗服务百元机与千元机市场,覆盖新兴市场的海量用户。适合预算有限的用户、备用机与老人机需求,日常通讯与轻度应用流畅够用。作为全球出货量最大的移动平台梯队之一,它支撑着智能手机普及化的下半场。",
+     "highlights": [
+      "低功耗",
+      "高集成",
+      "入门市场"
+     ],
+     "tags": [
+      "SoC",
+      "入门"
+     ],
+     "image": null
+    }
+   ]
+  }
+ ]
 }

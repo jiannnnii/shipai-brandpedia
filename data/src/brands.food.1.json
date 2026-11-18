@@ -1,292 +1,2198 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "nestle",
+   "name": "雀巢",
+   "nameEn": "Nestlé",
+   "domain": "nestle.com",
+   "categoryId": "food",
+   "country": "瑞士",
+   "founded": 1866,
+   "hq": "沃韦",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "食品巨头",
+    "咖啡",
+    "婴儿奶粉"
+   ],
+   "slogan": "Good Food, Good Life",
+   "desc": "全球最大食品公司,从婴儿奶粉到咖啡、矿泉水、宠物粮,超市货架的半壁江山都有它。",
+   "story": "1866年内斯尔以婴儿奶粉起家,1905年与英瑞炼乳公司合并为雀巢。一个多世纪以来靠并购吞下了徐福记、太太乐、惠氏、星巴克零售业务授权等无数品牌。\n雀巢旗下 Nespresso、雀巢咖啡是中国速溶与胶囊咖啡的启蒙者,奇巧、脆脆鲨则是几代人的零食记忆。",
+   "products": [
     {
-      "id": "nestle", "name": "雀巢", "nameEn": "Nestlé", "domain": "nestle.com",
-      "categoryId": "food", "country": "瑞士", "founded": 1866, "hq": "沃韦",
-      "tier": "大众", "sub": "饮料", "tags": ["食品巨头", "咖啡", "婴儿奶粉"], "slogan": "Good Food, Good Life",
-      "desc": "全球最大食品公司,从婴儿奶粉到咖啡、矿泉水、宠物粮,超市货架的半壁江山都有它。",
-      "story": "1866年内斯尔以婴儿奶粉起家,1905年与英瑞炼乳公司合并为雀巢。一个多世纪以来靠并购吞下了徐福记、太太乐、惠氏、星巴克零售业务授权等无数品牌。\n雀巢旗下 Nespresso、雀巢咖啡是中国速溶与胶囊咖啡的启蒙者,奇巧、脆脆鲨则是几代人的零食记忆。",
-      "products": [
-        { "id": "nestle-nescafe", "name": "雀巢咖啡", "nameEn": "Nescafé", "type": "速溶咖啡", "price": { "min": 20, "max": 120, "label": "零售参考价" }, "desc": "1938年问世的速溶咖啡鼻祖,1+2 原味是几代中国人的咖啡启蒙。", "highlights": ["速溶鼻祖", "红杯经典"], "tags": ["咖啡"] },
-        { "id": "nestle-nespresso", "name": "Nespresso 胶囊", "nameEn": "Nespresso", "type": "胶囊咖啡", "price": { "min": 200, "max": 3000, "label": "零售参考价" }, "desc": "胶囊咖啡系统的发明者,把意式浓缩装进了办公室。", "highlights": ["胶囊系统", "精品化"], "tags": ["咖啡"] },
-        { "id": "nestle-kitkat", "name": "奇巧威化", "nameEn": "KitKat", "type": "巧克力", "price": { "min": 5, "max": 60, "label": "零售参考价" }, "desc": "\"Have a break, have a KitKat\",威化巧克力全球现象级单品。", "highlights": ["威夹结构", "全球爆款"], "tags": ["零食"] },
-        { "id": "nestle-illuma", "name": "惠氏启赋", "nameEn": "Illuma", "type": "婴儿奶粉", "price": { "min": 300, "max": 500, "label": "零售参考价" }, "desc": "高端婴幼儿奶粉代表,母婴渠道的硬通货。", "highlights": ["高端奶粉", "母乳低聚糖"], "tags": ["母婴"] },
-        { "id": "nestle-purina", "name": "普瑞纳宠物粮", "nameEn": "Purina", "type": "宠物食品", "price": { "min": 50, "max": 800, "label": "零售参考价" }, "desc": "冠能、康多乐等宠物粮矩阵,毛孩子的口粮巨头。", "highlights": ["宠物粮巨头", "科学配方"], "tags": ["宠物"] }
-      ]
+     "id": "nestle-nescafe",
+     "name": "雀巢咖啡",
+     "nameEn": "Nescafé",
+     "type": "速溶咖啡",
+     "price": {
+      "min": 20,
+      "max": 120,
+      "label": "零售参考价"
+     },
+     "desc": "雀巢旗下速溶咖啡,属大众定位的冲饮咖啡品类。1938 年问世,是速溶咖啡的鼻祖;1+2 原味以咖啡、糖与奶的预混配方实现即冲即饮,红杯包装沿用至今。适合家庭、办公室与学生等追求便捷的场景,是几代中国人的咖啡启蒙。作为全球速溶咖啡的奠基产品,它深刻改变了世界与中国的咖啡消费方式。",
+     "highlights": [
+      "速溶鼻祖",
+      "红杯经典"
+     ],
+     "tags": [
+      "咖啡"
+     ]
     },
     {
-      "id": "cocacola", "name": "可口可乐", "nameEn": "Coca-Cola", "domain": "coca-cola.com",
-      "categoryId": "food", "country": "美国", "founded": 1886, "hq": "亚特兰大",
-      "tier": "大众", "sub": "饮料", "tags": ["汽水", "红色经典", "全球符号"], "slogan": "Taste the Feeling",
-      "desc": "地球上认知度最高的饮料品牌,红色弧形瓶是横跨140年的流行文化符号。",
-      "story": "1886年药剂师彭伯顿在亚特兰大调出第一杯可口可乐,特许经营+瓶装商模式让它滚雪球成全球帝国。圣诞老人红衣形象、弧形瓶、\"我想请世界喝可乐\"都是营销史教科书。\n如今旗下有雪碧、芬达、美汁源、纯悦等品牌矩阵,肥宅快乐水的统治力无可撼动。",
-      "products": [
-        { "id": "cocacola-classic", "name": "可口可乐", "nameEn": "Coca-Cola Classic", "type": "碳酸饮料", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "1886年配方延续至今,冰镇后配烧烤是人类共同语言。", "highlights": ["经典配方", "弧形瓶"], "tags": ["汽水"] },
-        { "id": "cocacola-zero", "name": "零度可乐", "nameEn": "Coca-Cola Zero Sugar", "type": "碳酸饮料", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "无糖却还原经典口感的当代主力,健身人的快乐水。", "highlights": ["0糖0卡", "口感还原"], "tags": ["汽水"] },
-        { "id": "cocacola-sprite", "name": "雪碧", "nameEn": "Sprite", "type": "碳酸饮料", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "1961年推出的柠檬味汽水,绿色瓶子是夏天的一半。", "highlights": ["柠檬汽水", "透心凉"], "tags": ["汽水"] },
-        { "id": "cocacola-minuteMaid", "name": "美汁源果粒橙", "nameEn": "Minute Maid", "type": "果汁饮料", "price": { "min": 3, "max": 10, "label": "零售参考价" }, "desc": "带真实果粒的橙汁,中国果汁市场的现象级产品。", "highlights": ["真实果粒", "果汁顶流"], "tags": ["果汁"] }
-      ]
+     "id": "nestle-nespresso",
+     "name": "Nespresso 胶囊",
+     "nameEn": "Nespresso",
+     "type": "胶囊咖啡",
+     "price": {
+      "min": 200,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "雀巢旗下胶囊咖啡系统,属大众定位的精品化家用咖啡。以标准化密封胶囊搭配专用胶囊机,一键萃取意式浓缩,把咖啡馆品质装进了办公室与家庭,操作简单、风味稳定。适合办公室、家庭吧台与追求效率又讲究品质的咖啡爱好者。作为胶囊咖啡系统的发明者,它开创并定义了整个胶囊咖啡品类。",
+     "highlights": [
+      "胶囊系统",
+      "精品化"
+     ],
+     "tags": [
+      "咖啡"
+     ]
     },
     {
-      "id": "pepsi", "name": "百事", "nameEn": "Pepsi", "domain": "pepsi.com",
-      "categoryId": "food", "country": "美国", "founded": 1898, "hq": "纽约州帕切斯",
-      "tier": "大众", "sub": "饮料", "tags": ["可乐", "蓝红大战", "年轻化"], "slogan": "That's What I Like",
-      "desc": "与可口可乐缠斗百年的蓝色对手,乐事、百草味、佳得乐都在它旗下。",
-      "story": "1898年布拉德汉姆把\"布拉德的饮料\"改名 Pepsi,大萧条时期靠\"同价双倍\"打得对手 reshuffle。并购乐事(Frito-Lay)、佳得乐、纯果乐后转型食品饮料双巨头,在中国还一度手握百草味、康师傅饮品股份。\n蓝色易拉罐与红色对手的百年可乐战争,是商业史最精彩的对手戏。",
-      "products": [
-        { "id": "pepsi-cola", "name": "百事可乐", "nameEn": "Pepsi Cola", "type": "碳酸饮料", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "更甜更冲的口感,搭配炸鸡披萨的蓝色快乐水。", "highlights": ["蓝色经典", "口感更甜"], "tags": ["汽水"] },
-        { "id": "pepsi-lays", "name": "乐事薯片", "nameEn": "Lay's", "type": "薯片", "price": { "min": 5, "max": 20, "label": "零售参考价" }, "desc": "全球薯片之王,黄瓜味与原味是中国的国民口味。", "highlights": ["薯片之王", "口味之王"], "tags": ["零食"] },
-        { "id": "pepsi-gatorade", "name": "佳得乐", "nameEn": "Gatorade", "type": "运动饮料", "price": { "min": 5, "max": 12, "label": "零售参考价" }, "desc": "1965年为佛罗里达大学橄榄球队调配,运动饮料的发明者。", "highlights": ["运动饮料鼻祖", "电解质"], "tags": ["饮料"] },
-        { "id": "pepsi-doritos", "name": "多力多滋", "nameEn": "Doritos", "type": "玉米片", "price": { "min": 6, "max": 20, "label": "零售参考价" }, "desc": "浓烈芝士味的三角玉米片,游戏之夜标配。", "highlights": ["玉米片", "浓烈芝士"], "tags": ["零食"] }
-      ]
+     "id": "nestle-kitkat",
+     "name": "奇巧威化",
+     "nameEn": "KitKat",
+     "type": "巧克力",
+     "price": {
+      "min": 5,
+      "max": 60,
+      "label": "零售参考价"
+     },
+     "desc": "雀巢旗下威化巧克力,属大众定位的休闲零食。以威化夹层包裹巧克力形成独特的威夹结构,口感酥脆与香甜兼具,便于掰分与分享。适合下午茶、追剧与出行随手零食,覆盖学生与上班族等广泛人群。凭借\"Have a break, have a KitKat\"的经典口号,它成为威化巧克力品类的全球现象级单品。",
+     "highlights": [
+      "威夹结构",
+      "全球爆款"
+     ],
+     "tags": [
+      "零食"
+     ]
     },
     {
-      "id": "oreo", "name": "奥利奥", "nameEn": "OREO", "domain": "oreo.com",
-      "categoryId": "food", "country": "美国", "founded": 1912, "hq": "东亥俄",
-      "tier": "大众", "sub": "零食", "tags": ["夹心饼干", "扭一扭", "亿滋旗下"], "slogan": "扭一扭,舔一舔,泡一泡",
-      "desc": "1912年问世的夹心饼干,全球销量第一的饼干,\"扭舔泡\"吃法是一代人的童年暗号。",
-      "story": "1912年国家饼干公司推出奥利奥,两片黑可可饼干夹甜奶油,靠标准化的快乐征服全世界。如今属亿滋国际,在中国玩出花:草莓味、芥末味、奥利奥巧脆卷、奥利奥冰淇淋联名不断。\n\"扭一扭、舔一舔、泡一泡\"的广告词,可能是中文世界最成功的吃法教学。",
-      "products": [
-        { "id": "oreo-classic", "name": "经典夹心饼干", "nameEn": "Original", "type": "夹心饼干", "price": { "min": 5, "max": 20, "label": "零售参考价" }, "desc": "黑饼干白夹心的原教旨主义,泡牛奶是官方推荐吃法。", "highlights": ["经典黑白色", "百年配方"], "tags": ["饼干"] },
-        { "id": "oreo-thin", "name": "奥利奥巧轻脆", "nameEn": "OREO Thins", "type": "夹心饼干", "price": { "min": 6, "max": 20, "label": "零售参考价" }, "desc": "更薄更脆的低负罪感版本,下午茶茶伴。", "highlights": ["薄脆", "轻负担"], "tags": ["饼干"] },
-        { "id": "oreo-cake", "name": "奥利奥巧克棒", "nameEn": "Cakesters", "type": "软点心", "price": { "min": 5, "max": 15, "label": "零售参考价" }, "desc": "软心夹心蛋糕版奥利奥,口感变成云朵。", "highlights": ["软心", "新形态"], "tags": ["零食"] },
-        { "id": "oreo-icecream", "name": "奥利奥冰淇淋", "nameEn": "OREO Ice Cream", "type": "冰淇淋", "price": { "min": 8, "max": 30, "label": "零售参考价" }, "desc": "饼干碎混进香草冰淇淋的联名常青树。", "highlights": ["饼干碎", "联名常青"], "tags": ["冰淇淋"] }
-      ]
+     "id": "nestle-illuma",
+     "name": "惠氏启赋",
+     "nameEn": "Illuma",
+     "type": "婴儿奶粉",
+     "price": {
+      "min": 300,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "雀巢旗下惠氏启赋婴幼儿奶粉,属高端奶粉定位。配方以母乳低聚糖等成分为核心卖点,主打贴近母乳研究的科学配方,品质管控依托雀巢全球体系。适合 0-3 岁婴幼儿喂养,是母婴渠道中的热门选择。作为高端婴幼儿奶粉的代表,它在宝妈群体中拥有很高的口碑与信任度。",
+     "highlights": [
+      "高端奶粉",
+      "母乳低聚糖"
+     ],
+     "tags": [
+      "母婴"
+     ]
     },
     {
-      "id": "hersheys", "name": "好时", "nameEn": "HERSHEY'S", "domain": "hersheys.com",
-      "categoryId": "food", "country": "美国", "founded": 1894, "hq": "宾州好时镇",
-      "tier": "大众", "sub": "巧克力", "tags": ["巧克力", "水滴形", "好时小镇"], "slogan": "The Sweetest Place on Earth",
-      "desc": "美国巧克力之王,整座\"好时小镇\"的街灯都做成水滴巧克力形状。",
-      "story": "1894年米尔顿·好时在自己的焦糖厂里造出第一块牛奶巧克力,后来建起好时镇:学校、游乐园、酒店全由巧克力公司供养,堪称美国梦的实体化。\nKISSES 水滴巧克力、排块与可可粉是三大国民产品,万圣节美国人的糖袋里一半是好时。",
-      "products": [
-        { "id": "hersheys-kisses", "name": "KISSES 好时之吻", "nameEn": "Kisses", "type": "巧克力", "price": { "min": 15, "max": 100, "label": "零售参考价" }, "desc": "1907年问世的银色水滴巧克力,纸条飘带是它的签名。", "highlights": ["水滴造型", "银色纸飘"], "tags": ["巧克力"] },
-        { "id": "hersheys-bar", "name": "经典牛奶排块", "nameEn": "Milk Chocolate Bar", "type": "巧克力排块", "price": { "min": 10, "max": 50, "label": "零售参考价" }, "desc": "1900年问世的排块,方格掰法是美式巧克力默认姿势。", "highlights": ["方格排块", "百年配方"], "tags": ["巧克力"] },
-        { "id": "hersheys-cocoa", "name": "好时可可粉", "nameEn": "Cocoa Powder", "type": "烘焙原料", "price": { "min": 20, "max": 80, "label": "零售参考价" }, "desc": "家庭烘焙使用率最高的可可粉,布朗尼标配。", "highlights": ["烘焙标配", "浓可可"], "tags": ["烘焙"] },
-        { "id": "hersheys-cookiescream", "name": "曲奇奶油排块", "nameEn": "Cookies 'n' Creme", "type": "巧克力排块", "price": { "min": 10, "max": 50, "label": "零售参考价" }, "desc": "白巧克力混曲奇碎,奥利奥味巧克力界的鼻祖口感。", "highlights": ["白巧+曲奇", "国民口味"], "tags": ["巧克力"] }
-      ]
-    },
-    {
-      "id": "ferrero", "name": "费列罗", "nameEn": "Ferrero Rocher", "domain": "ferrero.com",
-      "categoryId": "food", "country": "意大利", "founded": 1946, "hq": "阿尔巴",
-      "tier": "中档", "sub": "巧克力", "tags": ["金球", "榛子巧克力", "送礼"], "slogan": "绽放金球,卓越品质",
-      "desc": "意大利家族糖果帝国,金球巧克力是中国年货桌上的体面担当,Nutella 酱也是它家的。",
-      "story": "1946年皮埃蒙特小城的糕点师彼得罗·费列罗战后创业,儿子米凯莱造出榛子巧克力的两个神话:Nutella 酱(1964)与 Ferrero Rocher 金球(1982)。三层结构:碎榛仁巧克力壳+威化+榛仁夹心,配金色锡纸,包装即高级。\n家族至今不上市,旗下还有健达、Tic Tac、Thorntons,是全球第三大巧克力集团。",
-      "products": [
-        { "id": "ferrero-rocher", "name": "金球巧克力", "nameEn": "Rocher", "type": "巧克力", "price": { "min": 40, "max": 300, "label": "零售参考价" }, "desc": "金色锡纸三层夹心,过年送礼体面度天花板。", "highlights": ["金球礼盒", "三层结构"], "tags": ["送礼"] },
-        { "id": "ferrero-nutella", "name": "Nutella 榛子酱", "nameEn": "Nutella", "type": "巧克力酱", "price": { "min": 30, "max": 80, "label": "零售参考价" }, "desc": "1964年问世的世界第一榛子巧克力酱,抹面包界YYDS。", "highlights": ["榛子酱鼻祖", "早餐神器"], "tags": ["酱料"] },
-        { "id": "ferrero-kinder", "name": "健达奇趣蛋", "nameEn": "Kinder Joy", "type": "儿童零食", "price": { "min": 8, "max": 50, "label": "零售参考价" }, "desc": "一半巧克力一半玩具的魔法蛋,小孩的快乐密码。", "highlights": ["蛋形设计", "玩具彩蛋"], "tags": ["儿童"] },
-        { "id": "ferrero-raffaello", "name": "拉斐尔雪球", "nameEn": "Raffaello", "type": "巧克力", "price": { "min": 40, "max": 200, "label": "零售参考价" }, "desc": "白色椰蓉球裹杏仁奶心,金球的清雅姊妹款。", "highlights": ["椰蓉雪球", "白色系"], "tags": ["送礼"] }
-      ]
-    },
-    {
-      "id": "snickers", "name": "士力架", "nameEn": "SNICKERS", "domain": "snickers.com",
-      "categoryId": "food", "country": "美国", "founded": 1930, "hq": "芝加哥",
-      "tier": "大众", "sub": "巧克力", "tags": ["花生夹心", "横扫饥饿", "玛氏旗下"], "slogan": "横扫饥饿,做回自己",
-      "desc": "1930年问世的花生牛轧巧克力条,全球销量最高的能量型零食,\"饿货\"广告梗深入人心。",
-      "story": "玛氏家族以自家爱马 Snickers 命名这款四层夹心巧克力:焦糖+牛轧+花生+巧克力。\"横扫饥饿\"系列广告在中国把\"饿货\"变成流行语。\n士力架是登山、游戏、加班场景的硬通货,年销售额数十亿美元。",
-      "products": [
-        { "id": "snickers-classic", "name": "经典条", "nameEn": "Original Bar", "type": "巧克力棒", "price": { "min": 5, "max": 30, "label": "零售参考价" }, "desc": "四层夹心结构,一块顶半顿饭的能量密度。", "highlights": ["四层夹心", "能量爆棚"], "tags": ["巧克力棒"] },
-        { "id": "snickers-peanutbutter", "name": "花生酱夹心", "nameEn": "Peanut Butter", "type": "巧克力棒", "price": { "min": 6, "max": 30, "label": "零售参考价" }, "desc": "咸甜花生酱替换牛轧,美式口味的进阶版。", "highlights": ["花生酱", "咸甜口"], "tags": ["巧克力棒"] },
-        { "id": "snickers-icecream", "name": "冰淇淋条", "nameEn": "Ice Cream Bar", "type": "冰淇淋", "price": { "min": 8, "max": 20, "label": "零售参考价" }, "desc": "冷冻版士力架,夏天便利店排队款。", "highlights": ["冷冻夹心", "夏日限定"], "tags": ["冰淇淋"] },
-        { "id": "snickers-protein", "name": "蛋白棒", "nameEn": "Protein Bar", "type": "蛋白棒", "price": { "min": 10, "max": 50, "label": "零售参考价" }, "desc": "士力架口味的高蛋白版本,健身党的解馋神器。", "highlights": ["高蛋白", "健身零食"], "tags": ["健康"] }
-      ]
-    },
-    {
-      "id": "mms", "name": "M&M's", "nameEn": "M&M's", "domain": "mms.com",
-      "categoryId": "food", "country": "美国", "founded": 1941, "hq": "纽瓦克",
-      "tier": "大众", "sub": "巧克力", "tags": ["彩色糖豆", "不融化", "玛氏旗下"], "slogan": "Melts in your mouth, not in your hand",
-      "desc": "1941年为军队设计的\"不化在手心\"糖衣巧克力豆,彩色豆子与卡通人偶是全球化的快乐符号。",
-      "story": "二战时美军需要不易融化的巧克力,糖衣豆应运而生。1954年\"只融在口,不融在手\"广告语封神,彩色豆子、绿色M豆的性感营销、人偶天团一个接一个出圈。\n如今有花生、脆心、巧克力、焦糖多种内芯,自定义印字服务还能把名字印上豆子。",
-      "products": [
-        { "id": "mms-peanut", "name": "花生 M豆", "nameEn": "Peanut", "type": "巧克力豆", "price": { "min": 8, "max": 40, "label": "零售参考价" }, "desc": "整颗花生裹巧克力再穿糖衣,口感层次的三重奏。", "highlights": ["整颗花生", "三重口感"], "tags": ["巧克力豆"] },
-        { "id": "mms-choc", "name": "经典牛奶巧克力豆", "nameEn": "Milk Chocolate", "type": "巧克力豆", "price": { "min": 8, "max": 40, "label": "零售参考价" }, "desc": "彩色糖衣+圆形巧克力,电影院的标配快乐。", "highlights": ["彩色糖衣", "观影标配"], "tags": ["巧克力豆"] },
-        { "id": "mms-crispy", "name": "脆心 M豆", "nameEn": "Crispy", "type": "巧克力豆", "price": { "min": 8, "max": 40, "label": "零售参考价" }, "desc": "米脆内芯,咬下去咔嚓一声的轻快感。", "highlights": ["米脆内芯", "轻脆口感"], "tags": ["巧克力豆"] },
-        { "id": "mms-baking", "name": "烘焙彩豆", "nameEn": "Baking Bits", "type": "烘焙原料", "price": { "min": 15, "max": 60, "label": "零售参考价" }, "desc": "曲奇里撒一把,烤出彩虹波点。", "highlights": ["烘焙点缀", "彩虹色"], "tags": ["烘焙"] }
-      ]
-    },
-    {
-      "id": "dovechoc", "name": "德芙", "nameEn": "Dove Chocolate", "domain": "dovechocolate.com",
-      "categoryId": "food", "country": "美国", "founded": 1939, "hq": "芝加哥",
-      "tier": "大众", "sub": "巧克力", "tags": ["丝滑", "巧克力", "玛氏旗下"], "slogan": "纵享丝滑",
-      "desc": "\"纵享丝滑\"的中文广告语教科书,玛氏旗下最受中国消费者欢迎的巧克力品牌。",
-      "story": "1939年希腊裔美国人让·斯皮罗斯·芬格以自家糖果店 DoveBAR 起家,后并入玛氏。1989年进入中国后凭丝滑口感与\"牛奶香浓\"广告迅速占领市场,成为情人节礼物的默认选项。\n丝滑秘诀在于独家的研磨工艺与乳脂配比,\"丝滑\"二字被做成了品牌护城河。",
-      "products": [
-        { "id": "dovechoc-milk", "name": "丝滑牛奶巧克力", "nameEn": "Silky Smooth Milk", "type": "巧克力排块", "price": { "min": 10, "max": 80, "label": "零售参考价" }, "desc": "66%乳脂的丝滑经典,入口即化的教科书。", "highlights": ["丝滑口感", "牛奶香浓"], "tags": ["巧克力"] },
-        { "id": "dovechoc-dark", "name": "香浓黑巧克力", "nameEn": "Dark Chocolate", "type": "巧克力排块", "price": { "min": 12, "max": 80, "label": "零售参考价" }, "desc": "66%-100%可选的可可浓度线,微苦党入门款。", "highlights": ["高可可", "微苦"], "tags": ["巧克力"] },
-        { "id": "dovechoc-bites", "name": "什锦装巧克力", "nameEn": "Assorted", "type": "巧克力礼盒", "price": { "min": 40, "max": 300, "label": "零售参考价" }, "desc": "多种口味碗装/礼盒,办公室零食与节庆分享装。", "highlights": ["什锦口味", "分享装"], "tags": ["礼盒"] },
-        { "id": "dovechoc-mango", "name": "什果夹心排块", "nameEn": "Fruit & Nut", "type": "巧克力排块", "price": { "min": 12, "max": 80, "label": "零售参考价" }, "desc": "葡萄干杏仁混入丝滑巧克力,嚼劲升级。", "highlights": ["果干坚果", "嚼劲"], "tags": ["巧克力"] }
-      ]
-    },
-    {
-      "id": "hagenDazs", "name": "哈根达斯", "nameEn": "Häagen-Dazs", "domain": "haagen-dazs.com",
-      "categoryId": "food", "country": "美国", "founded": 1960, "hq": "明尼阿波利斯",
-      "tier": "中档", "sub": "零食", "tags": ["冰淇淋", "高端", "比利时巧克力"], "slogan": "If it's not Haagen-Dazs, it's not ice cream",
-      "desc": "用丹麦语造词营造欧洲血统的美国冰淇淋,把\"爱她,就带她吃哈根达斯\"刻进了中国都市记忆。",
-      "story": "1960年鲁本·马图斯在纽约创牌,靠高乳脂含量与无添加剂配方走高价路线。进入中国后被做成浪漫仪式感——雪糕吧、月光恋人、表白场景,一球冰нiç33元也不愁卖。\n如今属通用磨坊,全球门店与零售双线,抹茶、曲奇香草、比利时巧克力是长青口味。",
-      "products": [
-        { "id": "hagenDazs-vanilla", "name": "香草冰淇淋", "nameEn": "Vanilla", "type": "冰淇淋", "price": { "min": 35, "max": 100, "label": "零售参考价" }, "desc": "马达加斯加香草+高乳脂,检验冰淇淋店实力的试金石口味。", "highlights": ["真香草籽", "高乳脂"], "tags": ["冰淇淋"] },
-        { "id": "hagenDazs-belgianchoc", "name": "比利时巧克力", "nameEn": "Belgian Chocolate", "type": "冰淇淋", "price": { "min": 35, "max": 100, "label": "零售参考价" }, "desc": "浓黑巧碎片混入巧克力冰淇淋,苦甜党的冰箱常备。", "highlights": ["浓黑巧", "苦甜平衡"], "tags": ["冰淇淋"] },
-        { "id": "hagenDazs-matcha", "name": "抹茶冰淇淋", "nameEn": "Green Tea", "type": "冰淇淋", "price": { "min": 35, "max": 100, "label": "零售参考价" }, "desc": "宇治抹茶的微苦回甘,亚洲市场王牌口味。", "highlights": ["宇治抹茶", "微苦回甘"], "tags": ["冰淇淋"] },
-        { "id": "hagenDazs-mooncake", "name": "冰淇淋月饼", "nameEn": "Ice Cream Mooncake", "type": "节庆礼盒", "price": { "min": 200, "max": 800, "label": "零售参考价" }, "desc": "中秋限定的冰盒月饼,把月饼卷成了轻奢礼品。", "highlights": ["中秋限定", "礼盒场景"], "tags": ["节庆"] }
-      ]
-    },
-    {
-      "id": "walls", "name": "和路雪", "nameEn": "Wall's", "domain": "walls.com",
-      "categoryId": "food", "country": "英国", "founded": 1922, "hq": "伦敦",
-      "tier": "大众", "sub": "零食", "tags": ["冰淇淋", "梦龙", "可爱多"], "slogan": "Have a wall's day",
-      "desc": "联合利华旗下冰淇淋 umbrella,梦龙、可爱多、千层雪都是它的子品牌。",
-      "story": "1922年英国 Wall 家族开始做香肠起家的冰淇淋生意,后被联合利华收编成为全球冰淇淋主力平台。在中国,它用梦龙定义了\"高端雪糕\",用可爱多霸榜年轻市场,千层雪则承包了下午茶。\n近年的\"梦龙ultipart 分层\"营销与贵价化策略话题不断。",
-      "products": [
-        { "id": "walls-magnum", "name": "梦龙", "nameEn": "Magnum", "type": "冰淇淋", "price": { "min": 10, "max": 25, "label": "零售参考价" }, "desc": "1989年问世的厚巧克力脆皮棒,咔嚓一声是它的仪式感。", "highlights": ["厚脆皮", "咔嚓口感"], "tags": ["冰淇淋"] },
-        { "id": "walls-cornetto", "name": "可爱多", "nameEn": "Cornetto", "type": "冰淇淋", "price": { "min": 6, "max": 15, "label": "零售参考价" }, "desc": "甜筒+巧克力尖+坚果碎,年轻人的第一支\"高级甜筒\"。", "highlights": ["巧克力尖", "甜筒底"], "tags": ["冰淇淋"] },
-        { "id": "walls-paddlepop", "name": "千层雪", "nameEn": "Paddle Pop", "type": "冰淇淋", "price": { "min": 5, "max": 15, "label": "零售参考价" }, "desc": "层层叠叠的绵密口感,下午茶芝士味的轻奢感。", "highlights": ["千层口感", "绵密"], "tags": ["冰淇淋"] },
-        { "id": "walls-cornyetto", "name": "百乐宝", "nameEn": "Paddle Pop", "type": "冰淇淋", "price": { "min": 3, "max": 10, "label": "零售参考价" }, "desc": "童年价位的彩色雪糕棒,水果味偶像剧标配。", "highlights": ["童年回忆", "多口味"], "tags": ["冰淇淋"] }
-      ]
-    },
-    {
-      "id": "mcdonalds", "name": "麦当劳", "nameEn": "McDonald's", "domain": "mcdonalds.com",
-      "categoryId": "food", "country": "美国", "founded": 1955, "hq": "芝加哥",
-      "tier": "大众", "sub": "西式快餐", "tags": ["快餐", "金色拱门", "标准化"], "slogan": "I'm lovin' it",
-      "desc": "全球最大快餐连锁,金色拱门是城市化地标,\"巨无霸指数\"甚至成了经济学指标。",
-      "story": "1955年雷·克罗克把加州兄弟的汉堡店做成特许经营帝国,标准化流水线+地产思维让金色拱门开遍全球四万多家。薯条、巨无霸、麦乐鸡、开心乐园餐,每个单品都是文化符号。\n在中国本土化玩得飞起:麦辣鸡腿堡、板烧、1+1随心配,早餐粥和油条也没落下。",
-      "products": [
-        { "id": "mcdonalds-bigmac", "name": "巨无霸", "nameEn": "Big Mac", "type": "汉堡", "price": { "min": 20, "max": 30, "label": "门店参考价" }, "desc": "1968年问世的双层汉堡,它的全球比价甚至能衡量汇率。", "highlights": ["双层牛肉", "特调酱"], "tags": ["汉堡"] },
-        { "id": "mcdonalds-fries", "name": "麦当劳薯条", "nameEn": "World Famous Fries", "type": "小食", "price": { "min": 10, "max": 20, "label": "门店参考价" }, "desc": "炸薯条界的公认天花板,趁热吃是唯一正确姿势。", "highlights": ["薯条天花板", "盐度刚好"], "tags": ["小食"] },
-        { "id": "mcdonalds-spicy", "name": "麦辣鸡腿堡", "nameEn": "Spicy McCrispy", "type": "汉堡", "price": { "min": 15, "max": 30, "label": "门店参考价" }, "desc": "中国限定王牌,辣得过瘾的炸鸡腿堡。", "highlights": ["中国限定", "麦辣过瘾"], "tags": ["汉堡"] },
-        { "id": "mcdonalds-happy", "name": "开心乐园餐", "nameEn": "Happy Meal", "type": "套餐", "price": { "min": 20, "max": 40, "label": "门店参考价" }, "desc": "附赠玩具的儿童套餐,几代人的童年收藏。", "highlights": ["附赠玩具", "童年回忆"], "tags": ["套餐"] },
-        { "id": "mcdonalds-mccafe", "name": "McCafé 咖啡", "nameEn": "McCafé", "type": "咖啡", "price": { "min": 10, "max": 30, "label": "门店参考价" }, "desc": "麦当劳店内的咖啡线,平价拿铁的效率之选。", "highlights": ["店中店", "平价拿铁"], "tags": ["咖啡"] }
-      ]
-    },
-    {
-      "id": "kfc", "name": "肯德基", "nameEn": "KFC", "domain": "kfc.com",
-      "categoryId": "food", "country": "美国", "founded": 1952, "hq": "路易维尔",
-      "tier": "大众", "sub": "西式快餐", "tags": ["炸鸡", "上校", "疯狂星期四"], "slogan": "Finger Lickin' Good(尽情自在)",
-      "desc": "山德士上校的11种香料炸鸡,在中国因\"疯狂星期四\"文学成为互联网梗王。",
-      "story": "1952年65岁的哈兰·山德士上校带着压力锅和秘方四处授权开店,白西装+山羊胡成为最深入人心的品牌形象。1987年肯德基进入北京前门,是中国第一家洋快餐。\n吮指原味鸡、香辣鸡腿堡、蛋挞是铁三角,而\"V我50\"的疯四文学让它持续霸屏社交媒体。",
-      "products": [
-        { "id": "kfc-original", "name": "吮指原味鸡", "nameEn": "Original Recipe", "type": "炸鸡", "price": { "min": 12, "max": 15, "label": "门店参考价" }, "desc": "11种香料配方,鸡腿鸡翅琵琶腿任选的经典主食。", "highlights": ["11种香料", "吮指回味"], "tags": ["炸鸡"] },
-        { "id": "kfc-zinger", "name": "香辣鸡腿堡", "nameEn": "Zinger Burger", "type": "汉堡", "price": { "min": 18, "max": 28, "label": "门店参考价" }, "desc": "辣度拿捏精准的国民辣堡,配可乐是黄金组合。", "highlights": ["香辣过瘾", "国民汉堡"], "tags": ["汉堡"] },
-        { "id": "kfc-eggtart", "name": "葡式蛋挞", "nameEn": "Egg Tart", "type": "甜品", "price": { "min": 6, "max": 10, "label": "门店参考价" }, "desc": "酥皮+蛋心嫩到颤,快餐店的隐藏王牌甜品。", "highlights": ["酥皮蛋心", "甜品王牌"], "tags": ["甜品"] },
-        { "id": "kfc-crazy4", "name": "疯狂星期四", "nameEn": "Crazy Thursday", "type": "营销活动", "price": { "min": 10, "max": 50, "label": "活动价" }, "desc": "每周四折扣+全网二创文学,把促销做成了互联网民俗。", "highlights": ["周四折扣", "梗文学"], "tags": ["活动"] }
-      ]
-    },
-    {
-      "id": "burgerking", "name": "汉堡王", "nameEn": "Burger King", "domain": "bk.com",
-      "categoryId": "food", "country": "美国", "founded": 1954, "hq": "迈阿密",
-      "tier": "大众", "sub": "西式快餐", "tags": ["火烤", "皇堡", "汉堡之战"], "slogan": "Have it your way(我选我味)",
-      "desc": "以明火烤制差异化的汉堡连锁,皇堡是它和麦当劳对抗五十年的王牌。",
-      "story": "1954年麦当劳模式最火时,James McLamore 与 David Edgerton 反其道用明火炭烤,1957年推出皇堡。\"Have it your way\"让顾客自由选配料,成为快餐个性化的鼻祖。\n皇堡大块炭烤牛肉+芝麻包,是许多人心目中\"更美式\"的那一口。",
-      "products": [
-        { "id": "burgerking-whopper", "name": "皇堡", "nameEn": "Whopper", "type": "汉堡", "price": { "min": 18, "max": 35, "label": "门店参考价" }, "desc": "1957年问世的火烤牛肉汉堡,番茄生菜洋葱酸黄瓜全套。", "highlights": ["明火烤制", "大块牛肉"], "tags": ["汉堡"] },
-        { "id": "burgerking-kingdog", "name": "小皇堡", "nameEn": "Whopper Jr.", "type": "汉堡", "price": { "min": 10, "max": 20, "label": "门店参考价" }, "desc": "皇堡缩小版,轻食量玩家的解馋之选。", "highlights": ["小巧", "解馋"], "tags": ["汉堡"] },
-        { "id": "burgerking-wings", "name": "霸辣鸡翅", "nameEn": "Fiery Wings", "type": "小食", "price": { "min": 12, "max": 30, "label": "门店参考价" }, "desc": "火烤鸡翅的辣味版本,配啤酒一绝。", "highlights": ["火烤鸡翅", "够辣"], "tags": ["小食"] },
-        { "id": "burgerking-sundae", "name": "圣代", "nameEn": "Sundae", "type": "甜品", "price": { "min": 10, "max": 25, "label": "门店参考价" }, "desc": "圆筒冰淇淋淋酱,快餐甜品的实惠之选。", "highlights": ["圆筒底", "淋酱自由"], "tags": ["甜品"] }
-      ]
-    },
-    {
-      "id": "pizzahut", "name": "必胜客", "nameEn": "Pizza Hut", "domain": "pizzahut.com",
-      "categoryId": "food", "country": "美国", "founded": 1958, "hq": "普莱诺",
-      "tier": "大众", "sub": "西式快餐", "tags": ["披萨", "红屋顶", "自助沙拉"], "slogan": "Pizza and More",
-      "desc": "全球最大披萨连锁,红屋顶标志下,把披萨做成了中国家庭聚会的\"轻西餐\"。",
-      "story": "1958年堪萨斯州两兄弟借母亲的600美元开了第一家店,红屋顶招牌沿用至今。1990年进入北京,当年吃必胜客是件很时髦的事;下午茶自助、比萨饼边DIY、超级至尊都是记忆点。\n如今属百胜中国,本土化披萨(小龙虾、榴莲)月月上新。",
-      "products": [
-        { "id": "pizzahut-supreme", "name": "超级至尊披萨", "nameEn": "Super Supreme", "type": "披萨", "price": { "min": 60, "max": 120, "label": "门店参考价" }, "desc": "火腿、牛肉、意式香肠等满料轰炸,披萨里的全家福。", "highlights": ["满料", "全家福"], "tags": ["披萨"] },
-        { "id": "pizzahut-margherita", "name": "玛格丽特披萨", "nameEn": "Margherita", "type": "披萨", "price": { "min": 40, "max": 90, "label": "门店参考价" }, "desc": "番茄+马苏里拉+罗勒的极简正统,芝士拉丝担当。", "highlights": ["极简正统", "拉丝"], "tags": ["披萨"] },
-        { "id": "pizzahut-salad", "name": "自助沙拉吧", "nameEn": "Salad Bar", "type": "沙拉", "price": { "min": 25, "max": 40, "label": "门店参考价" }, "desc": "传说中\"叠沙拉塔\"的发源地,90后的美食挑战赛。", "highlights": ["沙拉塔传说", "自助畅吃"], "tags": ["沙拉"] },
-        { "id": "pizzahut-pasta", "name": "意式肉酱面", "nameEn": "Spaghetti Bolognese", "type": "意面", "price": { "min": 30, "max": 60, "label": "门店参考价" }, "desc": "孩子最容易接受的西餐入门,番茄肉酱的经典配比。", "highlights": ["入门西餐", "番茄肉酱"], "tags": ["意面"] }
-      ]
-    },
-    {
-      "id": "subway", "name": "赛百味", "nameEn": "Subway", "domain": "subway.com",
-      "categoryId": "food", "country": "美国", "founded": 1965, "hq": "康涅狄格州",
-      "tier": "大众", "sub": "西式快餐", "tags": ["三明治", "现做", "低脂感"], "slogan": "Eat Fresh",
-      "desc": "门店数量曾经全球第一的三明治连锁,把\"现做+自选\"的健康感做成了商业模式。",
-      "story": "1965年17岁的 Fred DeLuca 为筹学费开了家潜水艇三明治店,如今门店曾超过四万家——比麦当劳还多。全开放厨房、面包现烤、菜料自选, \"今天吃什么\"的选择困难从这一刻开始。\n金枪鱼三明治、意大利经典BMT与曲奇是三大记忆点。",
-      "products": [
-        { "id": "subway-tuna", "name": "金枪鱼三明治", "nameEn": "Tuna Sub", "type": "三明治", "price": { "min": 20, "max": 40, "label": "门店参考价" }, "desc": "浓郁金枪鱼沙拉+蔬菜自选,赛百味中国的销量之王。", "highlights": ["金枪鱼酱", "自选菜料"], "tags": ["三明治"] },
-        { "id": "subway-bmt", "name": "意式经典 BMT", "nameEn": "Italian B.M.T.", "type": "三明治", "price": { "min": 22, "max": 45, "label": "门店参考价" }, "desc": "意式香肠+意式腊肠+火腿,肉食者的硬核选择。", "highlights": ["三重肉", "经典配方"], "tags": ["三明治"] },
-        { "id": "subway-cookies", "name": "巧克力曲奇", "nameEn": "Chocolate Chip Cookie", "type": "甜品", "price": { "min": 5, "max": 20, "label": "门店参考价" }, "desc": "现烤软心曲奇,结账时的隐藏吸引力。", "highlights": ["现烤", "软心"], "tags": ["甜品"] },
-        { "id": "subway-salad", "name": "自选沙拉碗", "nameEn": "Protein Bowl", "type": "沙拉", "price": { "min": 25, "max": 50, "label": "门店参考价" }, "desc": "三明治馅料不要面包直接装碗,低碳水的快乐。", "highlights": ["低碳水", "高蛋白"], "tags": ["沙拉"] }
-      ]
-    },
-    {
-      "id": "dali", "name": "达利园", "nameEn": "Dali Foods", "domain": "daligroup.com",
-      "categoryId": "food", "country": "中国", "founded": 1989, "hq": "泉州",
-      "tier": "大众", "sub": "饮料", "tags": ["性价比", "国民零食", "达利模式"], "slogan": "达利园食品,美味你我他",
-      "desc": "福建首富许世辉的零食帝国,达利园蛋黄派、和其正、乐虎、豆本豆都是追随式创新的产物。",
-      "story": "1989年许世辉在福建惠安做蜜饯起家,最擅长\"品类跟随+价格战\":好吃点对标奥利奥、和其正对标王老吉、乐虎对标红牛、豆本豆对标维他奶,几乎每个爆款都是精准卡位的结果。\n低线市场渗透力惊人,是国产快消\"模仿之王\"的教科书。",
-      "products": [
-        { "id": "dali-yolkpie", "name": "蛋黄派", "nameEn": "Yolk Pie", "type": "糕点", "price": { "min": 8, "max": 30, "label": "零售参考价" }, "desc": "松软蛋糕夹蛋黄酱,早餐与校门口的国民甜点。", "highlights": ["国民糕点", "松软"], "tags": ["糕点"] },
-        { "id": "dali-heqizheng", "name": "和其正", "nameEn": "He Qi Zheng", "type": "凉茶", "price": { "min": 3, "max": 6, "label": "零售参考价" }, "desc": "大瓶装凉茶,加量不加价的王老吉挑战者。", "highlights": ["大瓶装", "性价比"], "tags": ["饮料"] },
-        { "id": "dali-lehu", "name": "乐虎", "nameEn": "Lehu", "type": "功能饮料", "price": { "min": 4, "max": 8, "label": "零售参考价" }, "desc": "主打性价比的功能饮料,蓝领与长途司机的提神标配。", "highlights": ["提神", "性价比"], "tags": ["饮料"] },
-        { "id": "dali-douben", "name": "豆本豆", "nameEn": "Vegosoya", "type": "植物奶", "price": { "min": 4, "max": 8, "label": "零售参考价" }, "desc": "无添加豆奶,学校门口的营养早饮新贵。", "highlights": ["无添加", "植物蛋白"], "tags": ["饮料"] }
-      ]
-    },
-    {
-      "id": "orion", "name": "好丽友", "nameEn": "Orion", "domain": "orionworld.com",
-      "categoryId": "food", "country": "韩国", "founded": 1956, "hq": "首尔",
-      "tier": "大众", "sub": "零食", "tags": ["派", "好多鱼", "韩国零食"], "slogan": "好丽友,好朋友",
-      "desc": "韩国四大食品集团之一,好丽友派、薯愿、好多鱼承包了中国80后90后的课桌零食。",
-      "story": "1956年东洋制果创立,1974年推出的 Choco Pie 改写了亚洲零食史——软蛋糕+棉花糖+巧克力壳的构造风靡中日俄。1995年进入中国,\"好丽友,好朋友\"的广告语人尽皆知。\n好多鱼的小鱼造型与随机玩具卡片,是课间社交的硬通货。",
-      "products": [
-        { "id": "orion-chocopie", "name": "好丽友派", "nameEn": "Choco Pie", "type": "糕点", "price": { "min": 8, "max": 40, "label": "零售参考价" }, "desc": "巧克力壳+棉花糖+蛋糕三层,办公室下午茶的便宜快乐。", "highlights": ["棉花糖心", "经典三层"], "tags": ["糕点"] },
-        { "id": "orion-bakedchips", "name": "薯愿", "nameEn": "Sensa", "type": "薯片", "price": { "min": 6, "max": 15, "label": "零售参考价" }, "desc": "非油炸烘焙薯片, thinner 更脆的\"健康版\"薯片。", "highlights": ["非油炸", "轻脆"], "tags": ["零食"] },
-        { "id": "orion-manyfish", "name": "好多鱼", "nameEn": "Many Fish", "type": "膨化零食", "price": { "min": 4, "max": 12, "label": "零售参考价" }, "desc": "小鱼形膨化饼干,附送玩具卡片的课桌零食之王。", "highlights": ["小鱼造型", "玩具卡片"], "tags": ["零食"] },
-        { "id": "orion-onionrings", "name": "洋葱圈", "nameEn": "Onion Rings", "type": "膨化零食", "price": { "min": 4, "max": 12, "label": "零售参考价" }, "desc": "香葱味的环形膨化圈,咔嚓咔嚓停不下来。", "highlights": ["环形", "葱香"], "tags": ["零食"] }
-      ]
-    },
-    {
-      "id": "masterkong", "name": "康师傅", "nameEn": "Master Kong", "domain": "masterkong.com.cn",
-      "categoryId": "food", "country": "中国", "founded": 1992, "hq": "天津",
-      "tier": "大众", "sub": "零食", "tags": ["方便面", "红烧牛肉面", "饮品"], "slogan": "面霸天下",
-      "desc": "魏氏兄弟的方便面帝国,红烧牛肉面是中国泡面的默认答案,冰红茶承包了整个夏天。",
-      "story": "1992年魏应州在天津试水方便面,\"康师傅红烧牛肉面\"一炮而红,靠密集经销与统一战线打遍全国。高峰期一年卖出上百亿包,是中国人火车记忆的背景音。\n如今与日本三洋食品结盟,饮品线(冰红茶、冰糖雪梨)同样霸榜。",
-      "products": [
-        { "id": "masterkong-hongshao", "name": "红烧牛肉面", "nameEn": "Braised Beef Noodle", "type": "方便面", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "中国方便面的国民口味,酱包香到开袋即赢。", "highlights": ["国民口味", "酱包浓郁"], "tags": ["方便面"] },
-        { "id": "masterkong-binghong", "name": "冰红茶", "nameEn": "Ice Red Tea", "type": "茶饮料", "price": { "min": 3, "max": 6, "label": "零售参考价" }, "desc": "柠檬味红茶的国民版,夏天小卖部销量冠军。", "highlights": ["柠檬红茶", "国民饮料"], "tags": ["饮料"] },
-        { "id": "masterkong-bingshen", "name": "冰糖雪梨", "nameEn": "Pear Drink", "type": "果汁茶饮", "price": { "min": 3, "max": 6, "label": "零售参考价" }, "desc": "清甜雪梨汁,妈妈的\"润喉健康饮\"。", "highlights": ["清甜", "润喉概念"], "tags": ["饮料"] },
-        { "id": "masterkong-zhenzhimian", "name": "珍煮炖", "nameEn": "Zhen Zhu Dun", "type": "高端方便面", "price": { "min": 10, "max": 25, "label": "零售参考价" }, "desc": "大肉块高端泡面线,泡面界的消费升级尝试。", "highlights": ["大块肉", "高端线"], "tags": ["方便面"] }
-      ]
-    },
-    {
-      "id": "unipresident", "name": "统一", "nameEn": "Uni-President", "domain": "uni-president.com",
-      "categoryId": "food", "country": "中国台湾", "founded": 1967, "hq": "台南",
-      "tier": "大众", "sub": "零食", "tags": ["方便面", "茶饮料", "老坛酸菜"], "slogan": "千禧之爱",
-      "desc": "台湾食品龙头,老坛酸菜牛肉面与阿萨姆奶茶在中国大陆掀起过现象级风口。",
-      "story": "1967年吴修齐等人在台南创立统一,从面粉饲料做到食品饮料全链。1992年随康师傅之后进军大陆, \"老坛酸菜\"广告让\"这酸爽\"成为流行语,阿萨姆奶茶则是奶茶界的第一瓶瓶装记忆。\n旗下还有来一桶、汤达人、小茗同学等爆款矩阵。",
-      "products": [
-        { "id": "unipresident-laotan", "name": "老坛酸菜牛肉面", "nameEn": "Pickled Cabbage Beef Noodle", "type": "方便面", "price": { "min": 3, "max": 8, "label": "零售参考价" }, "desc": "酸菜包的灵魂酸爽,康统大战中的经典武器。", "highlights": ["酸菜包", "酸爽"], "tags": ["方便面"] },
-        { "id": "unipresident-asamu", "name": "阿萨姆奶茶", "nameEn": "Assam Milk Tea", "type": "奶茶饮料", "price": { "min": 4, "max": 7, "label": "零售参考价" }, "desc": "瓶装奶茶的启蒙者,丝袜奶茶风味的国民化。", "highlights": ["瓶装奶茶", "丝滑"], "tags": ["饮料"] },
-        { "id": "unipresident-tangdaren", "name": "汤达人", "nameEn": "Tang Da Ren", "type": "高端方便面", "price": { "min": 8, "max": 20, "label": "零售参考价" }, "desc": "浓汤底高端线,日式豚骨与罗宋汤是招牌。", "highlights": ["浓汤底", "高端线"], "tags": ["方便面"] },
-        { "id": "unipresident-iceblack", "name": "茶里王", "nameEn": "Cha Li Wang", "type": "无糖茶", "price": { "min": 4, "max": 8, "label": "零售参考价" }, "desc": "回甘明显的无糖乌龙,健康茶饮的先知先觉者。", "highlights": ["无糖", "回甘"], "tags": ["饮料"] }
-      ]
-    },
-    {
-      "id": "nfsq", "name": "农夫山泉", "nameEn": "NONGFU SPRING", "domain": "nongfuspring.com",
-      "categoryId": "food", "country": "中国", "founded": 1996, "hq": "杭州",
-      "tier": "大众", "sub": "饮料", "tags": ["瓶装水", "有点甜", "东方树叶"], "slogan": "农夫山泉,有点甜",
-      "desc": "钟睒睒的水帝国,\"我们不生产水,我们只是大自然的搬运工\"是最成功的广告语之一。",
-      "story": "1996年钟睒睒在千岛湖建厂,主打天然水概念狙击纯净水同行,凭\"有点甜\"广告与红色瓶身杀出重围。此后长白山、峨眉山等水源地营销把\"天然\"做成了信仰。\n东方树叶十年冷板凳后等来无糖茶风口,如今公司市值一度是亚洲消费品之王,钟睒睒也成了中国首富。",
-      "products": [
-        { "id": "nfsq-water", "name": "农夫山泉", "nameEn": "Natural Water", "type": "瓶装水", "price": { "min": 2, "max": 5, "label": "零售参考价" }, "desc": "红色瓶盖的天然水国民款,超市便利店的硬通货。", "highlights": ["天然水源", "国民瓶装水"], "tags": ["水"] },
-        { "id": "nfsq-dongfang", "name": "东方树叶", "nameEn": "Oriental Leaf", "type": "无糖茶", "price": { "min": 5, "max": 8, "label": "零售参考价" }, "desc": "2011年问世时无人问津,无糖茶风口来临后一跃成王。", "highlights": ["0糖0卡", "原叶萃取"], "tags": ["茶"] },
-        { "id": "nfsq-cha", "name": "茶π", "nameEn": "Tea Pi", "type": "果味茶", "price": { "min": 5, "max": 8, "label": "零售参考价" }, "desc": "TFBOYS与BIGBANG代言的果味茶,年轻化颜值包装。", "highlights": ["果味茶", "年轻营销"], "tags": ["饮料"] },
-        { "id": "nfsq-nfc", "name": "NFC 果汁", "nameEn": "NFC Juice", "type": "果汁", "price": { "min": 8, "max": 15, "label": "零售参考价" }, "desc": "非浓缩还原鲜榨果汁,17.5°橙的同一套原料哲学。", "highlights": ["NFC鲜榨", "17.5°橙"], "tags": ["果汁"] }
-      ]
-    },
-    {
-      "id": "genki", "name": "元气森林", "nameEn": "Genki Forest", "domain": "chi-forest.com",
-      "categoryId": "food", "country": "中国", "founded": 2016, "hq": "北京",
-      "tier": "大众", "sub": "饮料", "tags": ["0糖", "气泡水", "新消费"], "slogan": "0糖0脂0卡",
-      "desc": "新消费神话:用\"0糖0脂0卡\"的气泡水四年做到百亿估值,把赤藓糖醇带火了全国。",
-      "story": "2016年唐彬森(智明星通创始人)跨界做饮料,绿白瓶气泡水靠便利店冰柜+小红书种草打法引爆。代糖赤藓糖醇随之脱销,传统饮料巨头纷纷跟进无糖线。\n虽经历供应链与舆论风波,但外星人电解质水、纤茶等新品线仍在扩张,\"饮料界的互联网公司\"名不虚传。",
-      "products": [
-        { "id": "genki-sparkling", "name": "元气水气泡水", "nameEn": "Sparkling Water", "type": "气泡水", "price": { "min": 5, "max": 8, "label": "零售参考价" }, "desc": "白桃、青提、卡曼橘多口味,0糖快乐水的开山之作。", "highlights": ["赤藓糖醇", "多口味"], "tags": ["气泡水"] },
-        { "id": "genki-alien", "name": "外星人电解质水", "nameEn": "Alien Electrolyte", "type": "电解质水", "price": { "min": 5, "max": 10, "label": "零售参考价" }, "desc": "运动场景的功能水新贵,2022年疫情期爆卖。", "highlights": ["电解质", "运动场景"], "tags": ["饮料"] },
-        { "id": "genki-fiber", "name": "纤茶", "nameEn": "Fiber Tea", "type": "植物茶", "price": { "min": 5, "max": 10, "label": "零售参考价" }, "desc": "玉米须、桑叶等功能性植物茶,养生年轻人的新宠。", "highlights": ["植物功能性", "养生向"], "tags": ["茶"] },
-        { "id": "genki-milktea", "name": "乳茶", "nameEn": "Milk Tea", "type": "奶茶饮料", "price": { "min": 5, "max": 10, "label": "零售参考价" }, "desc": "\"0蔗糖\"争议后再改良的奶茶线,低负担的甜。", "highlights": ["低负担", "奶茶平替"], "tags": ["饮料"] }
-      ]
+     "id": "nestle-purina",
+     "name": "普瑞纳宠物粮",
+     "nameEn": "Purina",
+     "type": "宠物食品",
+     "price": {
+      "min": 50,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "雀巢旗下普瑞纳宠物食品,属大众定位的专业宠物粮。旗下拥有冠能、康多乐等品牌矩阵,以科学配方与营养分段为特色,覆盖幼犬、成犬、成猫等不同生命阶段需求。适合家庭养宠日常喂养,是毛孩子口粮的主流之选。作为宠物粮领域的巨头,普瑞纳在宠物营养研究中积累了深厚的专业声誉。",
+     "highlights": [
+      "宠物粮巨头",
+      "科学配方"
+     ],
+     "tags": [
+      "宠物"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "cocacola",
+   "name": "可口可乐",
+   "nameEn": "Coca-Cola",
+   "domain": "coca-cola.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1886,
+   "hq": "亚特兰大",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "汽水",
+    "红色经典",
+    "全球符号"
+   ],
+   "slogan": "Taste the Feeling",
+   "desc": "地球上认知度最高的饮料品牌,红色弧形瓶是横跨140年的流行文化符号。",
+   "story": "1886年药剂师彭伯顿在亚特兰大调出第一杯可口可乐,特许经营+瓶装商模式让它滚雪球成全球帝国。圣诞老人红衣形象、弧形瓶、\"我想请世界喝可乐\"都是营销史教科书。\n如今旗下有雪碧、芬达、美汁源、纯悦等品牌矩阵,肥宅快乐水的统治力无可撼动。",
+   "products": [
+    {
+     "id": "cocacola-classic",
+     "name": "可口可乐",
+     "nameEn": "Coca-Cola Classic",
+     "type": "碳酸饮料",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "可口可乐的经典款碳酸饮料,属大众定位的国民饮品。1886 年配方延续至今,以独特的中药风香料配方与碳酸口感著称,标志性弧形瓶与红色标识深入人心。冰镇后配烧烤、聚餐是经典搭配,适合全人群日常畅饮。作为全球最知名的饮料单品,它已是美国流行文化与全球化消费的象征。",
+     "highlights": [
+      "经典配方",
+      "弧形瓶"
+     ],
+     "tags": [
+      "汽水"
+     ]
+    },
+    {
+     "id": "cocacola-zero",
+     "name": "零度可乐",
+     "nameEn": "Coca-Cola Zero Sugar",
+     "type": "碳酸饮料",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "可口可乐旗下的零糖可乐,属无糖碳酸饮料的当代主力。以代糖配方实现 0 糖 0 卡,同时还原经典可乐的口感层次,满足控糖与控卡人群的碳酸需求。适合健身人群、控糖人群与办公室下午提神场景,常被称为\"健身人的快乐水\"。作为无糖化浪潮的代表性产品,它推动了可乐品类的健康化转型。",
+     "highlights": [
+      "0糖0卡",
+      "口感还原"
+     ],
+     "tags": [
+      "汽水"
+     ]
+    },
+    {
+     "id": "cocacola-sprite",
+     "name": "雪碧",
+     "nameEn": "Sprite",
+     "type": "碳酸饮料",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "可口可乐旗下雪碧,属大众定位的柠檬味碳酸饮料。1961 年推出,以清爽柠檬青柠风味与强烈气泡感著称,透心凉的清凉形象深入人心。适合夏天解暑、烧烤与火锅解腻场景,覆盖全年龄段人群。作为全球销量领先的柠檬味汽水,它以绿色视觉与清爽心智成为夏日文化的符号之一。",
+     "highlights": [
+      "柠檬汽水",
+      "透心凉"
+     ],
+     "tags": [
+      "汽水"
+     ]
+    },
+    {
+     "id": "cocacola-minuteMaid",
+     "name": "美汁源果粒橙",
+     "nameEn": "Minute Maid",
+     "type": "果汁饮料",
+     "price": {
+      "min": 3,
+      "max": 10,
+      "label": "零售参考价"
+     },
+     "desc": "可口可乐旗下美汁源果粒橙,属大众定位的果汁饮料。以含真实果粒的橙汁为特色,果肉口感与橙香结合,与纯果汁饮料形成差异化。适合家庭聚餐、日常佐餐与佐酒场景,覆盖家庭与年轻消费者。作为带真实果粒的橙汁代表,它曾是中国果汁市场的现象级产品,是果汁品类的顶流单品。",
+     "highlights": [
+      "真实果粒",
+      "果汁顶流"
+     ],
+     "tags": [
+      "果汁"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pepsi",
+   "name": "百事",
+   "nameEn": "Pepsi",
+   "domain": "pepsi.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1898,
+   "hq": "纽约州帕切斯",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "可乐",
+    "蓝红大战",
+    "年轻化"
+   ],
+   "slogan": "That's What I Like",
+   "desc": "与可口可乐缠斗百年的蓝色对手,乐事、百草味、佳得乐都在它旗下。",
+   "story": "1898年布拉德汉姆把\"布拉德的饮料\"改名 Pepsi,大萧条时期靠\"同价双倍\"打得对手 reshuffle。并购乐事(Frito-Lay)、佳得乐、纯果乐后转型食品饮料双巨头,在中国还一度手握百草味、康师傅饮品股份。\n蓝色易拉罐与红色对手的百年可乐战争,是商业史最精彩的对手戏。",
+   "products": [
+    {
+     "id": "pepsi-cola",
+     "name": "百事可乐",
+     "nameEn": "Pepsi Cola",
+     "type": "碳酸饮料",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "百事旗下百事可乐,属大众定位的碳酸饮料。口感较同类产品更甜更冲,气泡刺激感更强,蓝色包装辨识度高,与炸鸡、披萨等美式快餐搭配深入人心。适合聚餐、追剧与快餐场景,深受年轻消费群体喜爱。作为可口可乐最经典的对手,双方长达百年的\"可乐大战\"已成为商业史与流行文化的传奇。",
+     "highlights": [
+      "蓝色经典",
+      "口感更甜"
+     ],
+     "tags": [
+      "汽水"
+     ]
+    },
+    {
+     "id": "pepsi-lays",
+     "name": "乐事薯片",
+     "nameEn": "Lay's",
+     "type": "薯片",
+     "price": {
+      "min": 5,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "百事旗下乐事薯片,属大众定位的休闲膨化零食。以薄切马铃薯片与多样调味为特色,原味与黄瓜味是中国的国民口味,口味上新节奏快,包装轻便易分享。适合追剧、聚会、旅行与办公室零食场景,覆盖各年龄段。作为全球薯片之王,乐事几乎定义了薯片这一品类,是全球休闲零食的标杆。",
+     "highlights": [
+      "薯片之王",
+      "口味之王"
+     ],
+     "tags": [
+      "零食"
+     ]
+    },
+    {
+     "id": "pepsi-gatorade",
+     "name": "佳得乐",
+     "nameEn": "Gatorade",
+     "type": "运动饮料",
+     "price": {
+      "min": 5,
+      "max": 12,
+      "label": "零售参考价"
+     },
+     "desc": "百事旗下佳得乐,属运动饮料品类的开创者。1965 年为佛罗里达大学橄榄球队调配,以补充水分与电解质为核心功能,配色与口味丰富,瓶身便于运动中快速补给。适合运动健身、球场训练与户外出汗场景,受运动员与健身人群青睐。作为运动饮料的发明者,佳得乐开创并长期主导了整个品类。",
+     "highlights": [
+      "运动饮料鼻祖",
+      "电解质"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "pepsi-doritos",
+     "name": "多力多滋",
+     "nameEn": "Doritos",
+     "type": "玉米片",
+     "price": {
+      "min": 6,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "百事旗下多力多滋,属大众定位的三角玉米片零食。以浓烈芝士味等重口味调味为特色,三角形玉米片口感厚重酥脆,包装醒目,营销风格年轻大胆。适合游戏之夜、聚会追剧与重口味零食爱好者,是年轻人解馋的选择。作为玉米片品类的代表,它把美式派对零食文化带向了全球市场。",
+     "highlights": [
+      "玉米片",
+      "浓烈芝士"
+     ],
+     "tags": [
+      "零食"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oreo",
+   "name": "奥利奥",
+   "nameEn": "OREO",
+   "domain": "oreo.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1912,
+   "hq": "东亥俄",
+   "tier": "大众",
+   "sub": "零食",
+   "tags": [
+    "夹心饼干",
+    "扭一扭",
+    "亿滋旗下"
+   ],
+   "slogan": "扭一扭,舔一舔,泡一泡",
+   "desc": "1912年问世的夹心饼干,全球销量第一的饼干,\"扭舔泡\"吃法是一代人的童年暗号。",
+   "story": "1912年国家饼干公司推出奥利奥,两片黑可可饼干夹甜奶油,靠标准化的快乐征服全世界。如今属亿滋国际,在中国玩出花:草莓味、芥末味、奥利奥巧脆卷、奥利奥冰淇淋联名不断。\n\"扭一扭、舔一舔、泡一泡\"的广告词,可能是中文世界最成功的吃法教学。",
+   "products": [
+    {
+     "id": "oreo-classic",
+     "name": "经典夹心饼干",
+     "nameEn": "Original",
+     "type": "夹心饼干",
+     "price": {
+      "min": 5,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "奥利奥的经典夹心饼干,属大众定位的休闲零食。以黑色可可饼干夹白色奶油夹心形成标志性黑白配色,百年配方延续,\"扭一扭、舔一舔、泡一泡\"的吃法深入人心,泡牛奶是官方推荐玩法。适合下午茶、儿童零食与追剧场景。作为全球最畅销的夹心饼干之一,它已成为夹心饼干的代名词。",
+     "highlights": [
+      "经典黑白色",
+      "百年配方"
+     ],
+     "tags": [
+      "饼干"
+     ]
+    },
+    {
+     "id": "oreo-thin",
+     "name": "奥利奥巧轻脆",
+     "nameEn": "OREO Thins",
+     "type": "夹心饼干",
+     "price": {
+      "min": 6,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "奥利奥旗下巧轻脆,属轻量化夹心饼干品类。将经典黑白配方改为更薄更脆的饼干体,夹心相应减薄,口感清爽、负罪感更低,独立小包便于控量。适合办公室下午茶、轻零食场景与注重热量控制的成年人。作为经典产品的现代化演绎,它拓展了奥利奥在成人轻零食市场的空间。",
+     "highlights": [
+      "薄脆",
+      "轻负担"
+     ],
+     "tags": [
+      "饼干"
+     ]
+    },
+    {
+     "id": "oreo-cake",
+     "name": "奥利奥巧克棒",
+     "nameEn": "Cakesters",
+     "type": "软点心",
+     "price": {
+      "min": 5,
+      "max": 15,
+      "label": "零售参考价"
+     },
+     "desc": "奥利奥旗下巧克力棒 Cakesters,属品牌形态创新的软点心品类。把经典硬脆饼干改为松软蛋糕体,内裹软心夹心,口感从酥脆变为云朵般绵软,延续经典可可风味。适合儿童零食、课间点心与口感偏好柔软的消费者。作为奥利奥的新形态产品,它展示了经典品牌在形态与口感上的延展能力。",
+     "highlights": [
+      "软心",
+      "新形态"
+     ],
+     "tags": [
+      "零食"
+     ]
+    },
+    {
+     "id": "oreo-icecream",
+     "name": "奥利奥冰淇淋",
+     "nameEn": "OREO Ice Cream",
+     "type": "冰淇淋",
+     "price": {
+      "min": 8,
+      "max": 30,
+      "label": "零售参考价"
+     },
+     "desc": "奥利奥旗下冰淇淋,属品牌向冷冻甜品延展的品类。以经典饼干碎混入香草冰淇淋为特色,饼干酥脆与冰淇淋绵滑形成层次分明的口感对比。适合夏日解暑、追剧甜品与家庭囤货,覆盖儿童与年轻人群。作为饼干碎与冰淇淋结合的常青组合,奥利奥冰淇淋是跨品类联动的长期成功案例。",
+     "highlights": [
+      "饼干碎",
+      "联名常青"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hersheys",
+   "name": "好时",
+   "nameEn": "HERSHEY'S",
+   "domain": "hersheys.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1894,
+   "hq": "宾州好时镇",
+   "tier": "大众",
+   "sub": "巧克力",
+   "tags": [
+    "巧克力",
+    "水滴形",
+    "好时小镇"
+   ],
+   "slogan": "The Sweetest Place on Earth",
+   "desc": "美国巧克力之王,整座\"好时小镇\"的街灯都做成水滴巧克力形状。",
+   "story": "1894年米尔顿·好时在自己的焦糖厂里造出第一块牛奶巧克力,后来建起好时镇:学校、游乐园、酒店全由巧克力公司供养,堪称美国梦的实体化。\nKISSES 水滴巧克力、排块与可可粉是三大国民产品,万圣节美国人的糖袋里一半是好时。",
+   "products": [
+    {
+     "id": "hersheys-kisses",
+     "name": "KISSES 好时之吻",
+     "nameEn": "Kisses",
+     "type": "巧克力",
+     "price": {
+      "min": 15,
+      "max": 100,
+      "label": "零售参考价"
+     },
+     "desc": "好时旗下 KISSES 好时之吻,属大众定位的水滴形巧克力。1907 年问世,以银色锡纸包裹的水滴造型与顶部纸条飘带为签名,单颗独立包装便于分食与分享。适合日常零食、节庆分享与告白送礼场景,是浪漫与甜蜜的经典符号。作为好时最具辨识度的产品,它的纸飘设计已成为巧克力的标志性视觉。",
+     "highlights": [
+      "水滴造型",
+      "银色纸飘"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    },
+    {
+     "id": "hersheys-bar",
+     "name": "经典牛奶排块",
+     "nameEn": "Milk Chocolate Bar",
+     "type": "巧克力排块",
+     "price": {
+      "min": 10,
+      "max": 50,
+      "label": "零售参考价"
+     },
+     "desc": "好时的经典牛奶排块,属大众定位的排块巧克力。1900 年问世,以标准方格排块设计便于掰分,奶香浓郁口感顺滑,是美式牛奶巧克力的经典风味。适合日常零食、旅行补给与烘焙切片使用,价格亲民覆盖广泛人群。作为百年配方的代表,它奠定了好时\"北美巧克力之都\"的产业地位。",
+     "highlights": [
+      "方格排块",
+      "百年配方"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    },
+    {
+     "id": "hersheys-cocoa",
+     "name": "好时可可粉",
+     "nameEn": "Cocoa Powder",
+     "type": "烘焙原料",
+     "price": {
+      "min": 20,
+      "max": 80,
+      "label": "零售参考价"
+     },
+     "desc": "好时的可可粉,属家庭烘焙定位的原料类产品。以浓香可可风味为特色,粉质细腻易溶,是家庭烘焙中使用率最高的可可粉之一,布朗尼、可可蛋糕与热可可的标配。适合家庭烘焙爱好者与新手入门,适用于蛋糕、饼干与饮品制作。作为烘焙领域的经典原料,好时可可粉在美式家庭厨房中拥有长期的口碑传承。",
+     "highlights": [
+      "烘焙标配",
+      "浓可可"
+     ],
+     "tags": [
+      "烘焙"
+     ]
+    },
+    {
+     "id": "hersheys-cookiescream",
+     "name": "曲奇奶油排块",
+     "nameEn": "Cookies 'n' Creme",
+     "type": "巧克力排块",
+     "price": {
+      "min": 10,
+      "max": 50,
+      "label": "零售参考价"
+     },
+     "desc": "好时的曲奇奶油排块,属白巧克力与曲奇结合的创新品类。以白巧克力混合曲奇碎为特色,口感香甜带脆,开创了\"奥利奥味巧克力\"式的经典口感,深受年轻消费者喜爱。适合日常零食、分享与送礼场景,是美式巧克力的国民口味之一。作为好时的标志性创新产品,它把曲奇奶油风味带成了现象级口味。",
+     "highlights": [
+      "白巧+曲奇",
+      "国民口味"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ferrero",
+   "name": "费列罗",
+   "nameEn": "Ferrero Rocher",
+   "domain": "ferrero.com",
+   "categoryId": "food",
+   "country": "意大利",
+   "founded": 1946,
+   "hq": "阿尔巴",
+   "tier": "中档",
+   "sub": "巧克力",
+   "tags": [
+    "金球",
+    "榛子巧克力",
+    "送礼"
+   ],
+   "slogan": "绽放金球,卓越品质",
+   "desc": "意大利家族糖果帝国,金球巧克力是中国年货桌上的体面担当,Nutella 酱也是它家的。",
+   "story": "1946年皮埃蒙特小城的糕点师彼得罗·费列罗战后创业,儿子米凯莱造出榛子巧克力的两个神话:Nutella 酱(1964)与 Ferrero Rocher 金球(1982)。三层结构:碎榛仁巧克力壳+威化+榛仁夹心,配金色锡纸,包装即高级。\n家族至今不上市,旗下还有健达、Tic Tac、Thorntons,是全球第三大巧克力集团。",
+   "products": [
+    {
+     "id": "ferrero-rocher",
+     "name": "金球巧克力",
+     "nameEn": "Rocher",
+     "type": "巧克力",
+     "price": {
+      "min": 40,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "意大利费列罗的金球巧克力,属中档定位的礼赠型巧克力。以金色锡纸包裹,内层整颗榛子、榛子酱夹心与威化壳构成三层结构,层次丰富,金球礼盒体面大方。适合节日送礼、婚庆宴请与待客场景,是中国过年礼赠的体面度代表。作为费列罗的旗舰单品,它长期是中档巧克力礼赠市场的标杆。",
+     "highlights": [
+      "金球礼盒",
+      "三层结构"
+     ],
+     "tags": [
+      "送礼"
+     ]
+    },
+    {
+     "id": "ferrero-nutella",
+     "name": "Nutella 榛子酱",
+     "nameEn": "Nutella",
+     "type": "巧克力酱",
+     "price": {
+      "min": 30,
+      "max": 80,
+      "label": "零售参考价"
+     },
+     "desc": "费列罗旗下 Nutella 榛子巧克力酱,属涂抹酱定位的早餐品类。1964 年问世,以榛子与可可的经典配比著称,质地绵密顺滑,抹面包、配吐司皆宜,是早餐与下午茶的万能搭档。适合家庭早餐、儿童加餐与烘焙调味场景。作为世界第一榛子巧克力酱,它是榛子酱品类的鼻祖与全球早餐文化的符号。",
+     "highlights": [
+      "榛子酱鼻祖",
+      "早餐神器"
+     ],
+     "tags": [
+      "酱料"
+     ]
+    },
+    {
+     "id": "ferrero-kinder",
+     "name": "健达奇趣蛋",
+     "nameEn": "Kinder Joy",
+     "type": "儿童零食",
+     "price": {
+      "min": 8,
+      "max": 50,
+      "label": "零售参考价"
+     },
+     "desc": "费列罗旗下健达奇趣蛋,属儿童零食定位的创新产品。采用蛋形设计,一半是巧克力,一半是玩具彩蛋,开蛋的惊喜感与零食趣味结合,品质符合儿童食品标准。适合儿童日常零食、节日礼物与哄娃场景,是家长与孩子共同的选择。作为\"零食加玩具\"模式的开创者,奇趣蛋已成为几代孩子的快乐密码。",
+     "highlights": [
+      "蛋形设计",
+      "玩具彩蛋"
+     ],
+     "tags": [
+      "儿童"
+     ]
+    },
+    {
+     "id": "ferrero-raffaello",
+     "name": "拉斐尔雪球",
+     "nameEn": "Raffaello",
+     "type": "巧克力",
+     "price": {
+      "min": 40,
+      "max": 200,
+      "label": "零售参考价"
+     },
+     "desc": "费列罗旗下拉斐尔雪球,属中档礼赠定位的白色系巧克力。以白色椰蓉球包裹杏仁奶心,口感清甜不腻,雪球造型与金球形成清雅的姊妹呼应,包装延续费列罗的精致礼盒风格。适合送礼、婚庆与偏爱清雅口感的消费者。作为金球的姊妹款,它丰富了费列罗在礼赠市场的白色系选择。",
+     "highlights": [
+      "椰蓉雪球",
+      "白色系"
+     ],
+     "tags": [
+      "送礼"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "snickers",
+   "name": "士力架",
+   "nameEn": "SNICKERS",
+   "domain": "snickers.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1930,
+   "hq": "芝加哥",
+   "tier": "大众",
+   "sub": "巧克力",
+   "tags": [
+    "花生夹心",
+    "横扫饥饿",
+    "玛氏旗下"
+   ],
+   "slogan": "横扫饥饿,做回自己",
+   "desc": "1930年问世的花生牛轧巧克力条,全球销量最高的能量型零食,\"饿货\"广告梗深入人心。",
+   "story": "玛氏家族以自家爱马 Snickers 命名这款四层夹心巧克力:焦糖+牛轧+花生+巧克力。\"横扫饥饿\"系列广告在中国把\"饿货\"变成流行语。\n士力架是登山、游戏、加班场景的硬通货,年销售额数十亿美元。",
+   "products": [
+    {
+     "id": "snickers-classic",
+     "name": "经典条",
+     "nameEn": "Original Bar",
+     "type": "巧克力棒",
+     "price": {
+      "min": 5,
+      "max": 30,
+      "label": "零售参考价"
+     },
+     "desc": "士力架经典条,属大众定位的能量型巧克力棒。以花生、牛轧糖、焦糖与巧克力构成四层夹心结构,口感扎实、能量密度高,一块顶半顿饭,横扫饥饿的口号深入人心。适合运动前后、加班充饥与户外出行场景,是解饿首选零食。作为玛氏旗下经典,士力架是全球销量领先的巧克力棒之一。",
+     "highlights": [
+      "四层夹心",
+      "能量爆棚"
+     ],
+     "tags": [
+      "巧克力棒"
+     ]
+    },
+    {
+     "id": "snickers-peanutbutter",
+     "name": "花生酱夹心",
+     "nameEn": "Peanut Butter",
+     "type": "巧克力棒",
+     "price": {
+      "min": 6,
+      "max": 30,
+      "label": "零售参考价"
+     },
+     "desc": "士力架花生酱夹心版,属经典巧克力棒的口味进阶款。以咸甜花生酱替换传统牛轧层,与花生粒、焦糖、巧克力叠加,咸甜交融的层次更浓郁,美式风味鲜明。适合喜欢重口味与咸甜口的零食爱好者,覆盖追剧、充饥等日常场景。作为经典配方的口味延展,它延续了士力架高能量的产品基因。",
+     "highlights": [
+      "花生酱",
+      "咸甜口"
+     ],
+     "tags": [
+      "巧克力棒"
+     ]
+    },
+    {
+     "id": "snickers-icecream",
+     "name": "冰淇淋条",
+     "nameEn": "Ice Cream Bar",
+     "type": "冰淇淋",
+     "price": {
+      "min": 8,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "士力架冰淇淋条,属品牌向冷冻甜品延展的品类。将经典巧克力外壳冷冻,内里冰淇淋与花生焦糖夹心结合,冷冻后口感依旧层次分明。适合夏季解暑、便利店随手购买场景,受年轻消费者与学生群体欢迎。作为夏天便利店的排队款,它是经典巧克力棒跨品类成功的代表案例。",
+     "highlights": [
+      "冷冻夹心",
+      "夏日限定"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "snickers-protein",
+     "name": "蛋白棒",
+     "nameEn": "Protein Bar",
+     "type": "蛋白棒",
+     "price": {
+      "min": 10,
+      "max": 50,
+      "label": "零售参考价"
+     },
+     "desc": "士力架蛋白棒,属健身零食定位的功能性产品。在经典士力架风味基础上提高蛋白质含量、降低糖分,让高蛋白补给也能保有熟悉的巧克力花生口感。适合健身前后补充、减脂期解馋与运动人群的随身能量补给。作为经典品牌的功能化延展,它把\"解馋\"与\"健身\"两个场景巧妙结合,广受健身党欢迎。",
+     "highlights": [
+      "高蛋白",
+      "健身零食"
+     ],
+     "tags": [
+      "健康"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mms",
+   "name": "M&M's",
+   "nameEn": "M&M's",
+   "domain": "mms.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1941,
+   "hq": "纽瓦克",
+   "tier": "大众",
+   "sub": "巧克力",
+   "tags": [
+    "彩色糖豆",
+    "不融化",
+    "玛氏旗下"
+   ],
+   "slogan": "Melts in your mouth, not in your hand",
+   "desc": "1941年为军队设计的\"不化在手心\"糖衣巧克力豆,彩色豆子与卡通人偶是全球化的快乐符号。",
+   "story": "二战时美军需要不易融化的巧克力,糖衣豆应运而生。1954年\"只融在口,不融在手\"广告语封神,彩色豆子、绿色M豆的性感营销、人偶天团一个接一个出圈。\n如今有花生、脆心、巧克力、焦糖多种内芯,自定义印字服务还能把名字印上豆子。",
+   "products": [
+    {
+     "id": "mms-peanut",
+     "name": "花生 M豆",
+     "nameEn": "Peanut",
+     "type": "巧克力豆",
+     "price": {
+      "min": 8,
+      "max": 40,
+      "label": "零售参考价"
+     },
+     "desc": "花生 M豆是 M&M's 旗下的经典巧克力豆类型,属大众化休闲糖果。整颗花生外裹牛奶巧克力,再包上一层彩色糖衣,形成脆壳、巧克力与花生三重口感层次,耐嚼又顶饱。适合追剧、观影、旅途等随手分享的场景,也是聚会糖果盘的常客。作为该品牌的标志性口味之一,它与经典牛奶巧克力豆并列,是货架上辨识度极高的常青产品。",
+     "highlights": [
+      "整颗花生",
+      "三重口感"
+     ],
+     "tags": [
+      "巧克力豆"
+     ]
+    },
+    {
+     "id": "mms-choc",
+     "name": "经典牛奶巧克力豆",
+     "nameEn": "Milk Chocolate",
+     "type": "巧克力豆",
+     "price": {
+      "min": 8,
+      "max": 40,
+      "label": "零售参考价"
+     },
+     "desc": "经典牛奶巧克力豆是 M&M's 1941 年创立以来最具代表性的产品,定位大众休闲糖果。圆形牛奶巧克力外覆彩色糖衣,糖衣设计使其不易融化在手上,便于携带与分装。适用场景极为广泛:电影院观影、派对糖果罐、烘焙点缀皆宜,儿童与成人通吃。作为美国流行文化的符号之一,彩色 M 豆广告形象深入人心,是超市收银台与便利店货架的经典存在。",
+     "highlights": [
+      "彩色糖衣",
+      "观影标配"
+     ],
+     "tags": [
+      "巧克力豆"
+     ]
+    },
+    {
+     "id": "mms-crispy",
+     "name": "脆心 M豆",
+     "nameEn": "Crispy",
+     "type": "巧克力豆",
+     "price": {
+      "min": 8,
+      "max": 40,
+      "label": "零售参考价"
+     },
+     "desc": "脆心 M豆是 M&M's 家族中的轻口感版本,属巧克力豆类休闲糖果。在彩色糖衣与巧克力之间加入米脆内芯,咬下去有明显的咔嚓声,口感比经典款更轻盈酥脆。适合喜欢轻脆质地、又想控制分量的消费者,常作为追剧零嘴或下午茶提神小食。它在产品线中承担着丰富口感层次的角色,与花生、经典款形成差异化布局,是货架上年轻受众偏好的口味之一。",
+     "highlights": [
+      "米脆内芯",
+      "轻脆口感"
+     ],
+     "tags": [
+      "巧克力豆"
+     ]
+    },
+    {
+     "id": "mms-baking",
+     "name": "烘焙彩豆",
+     "nameEn": "Baking Bits",
+     "type": "烘焙原料",
+     "price": {
+      "min": 15,
+      "max": 60,
+      "label": "零售参考价"
+     },
+     "desc": "烘焙彩豆是 M&M's 面向家庭烘焙场景的衍生产品,定位为烘焙原料而非直接零食。迷你尺寸的彩色糖衣巧克力豆,耐烤不化色,撒入曲奇、蛋糕、布朗尼面糊中可烤出彩虹波点效果,成品颜值高。适合亲子烘焙、节日点心制作与手作礼品场景,尤其受家庭用户和烘焙爱好者欢迎。它把 M&M's 的彩色糖衣基因延伸到厨房,是品牌从零食走向烘焙素材线的代表。",
+     "highlights": [
+      "烘焙点缀",
+      "彩虹色"
+     ],
+     "tags": [
+      "烘焙"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dovechoc",
+   "name": "德芙",
+   "nameEn": "Dove Chocolate",
+   "domain": "dovechocolate.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1939,
+   "hq": "芝加哥",
+   "tier": "大众",
+   "sub": "巧克力",
+   "tags": [
+    "丝滑",
+    "巧克力",
+    "玛氏旗下"
+   ],
+   "slogan": "纵享丝滑",
+   "desc": "\"纵享丝滑\"的中文广告语教科书,玛氏旗下最受中国消费者欢迎的巧克力品牌。",
+   "story": "1939年希腊裔美国人让·斯皮罗斯·芬格以自家糖果店 DoveBAR 起家,后并入玛氏。1989年进入中国后凭丝滑口感与\"牛奶香浓\"广告迅速占领市场,成为情人节礼物的默认选项。\n丝滑秘诀在于独家的研磨工艺与乳脂配比,\"丝滑\"二字被做成了品牌护城河。",
+   "products": [
+    {
+     "id": "dovechoc-milk",
+     "name": "丝滑牛奶巧克力",
+     "nameEn": "Silky Smooth Milk",
+     "type": "巧克力排块",
+     "price": {
+      "min": 10,
+      "max": 80,
+      "label": "零售参考价"
+     },
+     "desc": "丝滑牛奶巧克力是德芙的招牌排块,属大众市场牛奶巧克力。产品以丝滑口感为核心卖点,乳脂含量高,入口即化,巧克力香气浓郁,工艺上强调细腻研磨带来的顺滑质地。适合日常追剧、下午茶自我犒赏,也常作为送礼与表白场景的常见选择。作为德芙最具辨识度的经典款,它几乎成为国内丝滑牛奶巧克力的代名词,是超市巧克力货架上的销量常青款。",
+     "highlights": [
+      "丝滑口感",
+      "牛奶香浓"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    },
+    {
+     "id": "dovechoc-dark",
+     "name": "香浓黑巧克力",
+     "nameEn": "Dark Chocolate",
+     "type": "巧克力排块",
+     "price": {
+      "min": 12,
+      "max": 80,
+      "label": "零售参考价"
+     },
+     "desc": "香浓黑巧克力是德芙排块线中的可可浓度系列,定位面向微苦口味爱好者。提供 66% 到 100% 等不同可可浓度的选择,风味从微苦到浓苦递进,保留可可脂的醇厚香气,口感扎实。适合想从牛奶巧克力进阶尝试黑巧的入门人群,也受注重可可风味、偏好低甜口感消费者欢迎。作为大众品牌中少见的完整浓度梯度线,它是许多人认识黑巧克力的第一块排块。",
+     "highlights": [
+      "高可可",
+      "微苦"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    },
+    {
+     "id": "dovechoc-bites",
+     "name": "什锦装巧克力",
+     "nameEn": "Assorted",
+     "type": "巧克力礼盒",
+     "price": {
+      "min": 40,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "什锦装巧克力是德芙的分享型产品,以碗装或礼盒形式汇集多种口味,属巧克力礼盒类。一盒内包含牛奶巧克力、黑巧克力等不同款式,一次满足多种口味偏好,摆放出来也显体面。适合办公室零食共享、节庆送礼、家庭聚会等多人场景,省去挑选口味的纠结。它延续了德芙在礼赠场景的号召力,是逢年过节超市促销货架上的常见大盒装,兼具自用与送礼两便。",
+     "highlights": [
+      "什锦口味",
+      "分享装"
+     ],
+     "tags": [
+      "礼盒"
+     ]
+    },
+    {
+     "id": "dovechoc-mango",
+     "name": "什果夹心排块",
+     "nameEn": "Fruit & Nut",
+     "type": "巧克力排块",
+     "price": {
+      "min": 12,
+      "max": 80,
+      "label": "零售参考价"
+     },
+     "desc": "什果夹心排块是德芙排块线中的果仁版本,属牛奶巧克力排块。在丝滑巧克力中混入葡萄干与杏仁等果干坚果,甜润果香与坚果脆感叠加,让巧克力的嚼劲和层次明显升级。适合喜欢有嚼头口感、觉得纯巧克力略显单调的消费者,追剧、下午茶或旅途补充能量都合适。它是德芙经典丝滑之外的重要口味分支,长期占据货架,是果仁巧克力的大众普及款。",
+     "highlights": [
+      "果干坚果",
+      "嚼劲"
+     ],
+     "tags": [
+      "巧克力"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hagenDazs",
+   "name": "哈根达斯",
+   "nameEn": "Häagen-Dazs",
+   "domain": "haagen-dazs.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1960,
+   "hq": "明尼阿波利斯",
+   "tier": "中档",
+   "sub": "零食",
+   "tags": [
+    "冰淇淋",
+    "高端",
+    "比利时巧克力"
+   ],
+   "slogan": "If it's not Haagen-Dazs, it's not ice cream",
+   "desc": "用丹麦语造词营造欧洲血统的美国冰淇淋,把\"爱她,就带她吃哈根达斯\"刻进了中国都市记忆。",
+   "story": "1960年鲁本·马图斯在纽约创牌,靠高乳脂含量与无添加剂配方走高价路线。进入中国后被做成浪漫仪式感——雪糕吧、月光恋人、表白场景,一球冰нiç33元也不愁卖。\n如今属通用磨坊,全球门店与零售双线,抹茶、曲奇香草、比利时巧克力是长青口味。",
+   "products": [
+    {
+     "id": "hagenDazs-vanilla",
+     "name": "香草冰淇淋",
+     "nameEn": "Vanilla",
+     "type": "冰淇淋",
+     "price": {
+      "min": 35,
+      "max": 100,
+      "label": "零售参考价"
+     },
+     "desc": "香草冰淇淋是哈根达斯的奠基口味,定位中高档冰淇淋。选用马达加斯加香草,可见真香草籽,配合高乳脂配方,质地醇厚绵密,奶香与香草气息平衡,是检验冰淇淋基本功的试金石口味。适合正餐后独自享用,或作为餐厅、门店甜品柜里的经典单品点单。在哈根达斯的产品体系里,香草款代表其用料至上的品牌哲学,也是全球门店与零售装通行的招牌口味。",
+     "highlights": [
+      "真香草籽",
+      "高乳脂"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "hagenDazs-belgianchoc",
+     "name": "比利时巧克力",
+     "nameEn": "Belgian Chocolate",
+     "type": "冰淇淋",
+     "price": {
+      "min": 35,
+      "max": 100,
+      "label": "零售参考价"
+     },
+     "desc": "比利时巧克力口味是哈根达斯巧克力系列的代表款,定位中高档冰淇淋。以巧克力冰淇淋为基底,混入浓黑巧克力碎片,苦甜平衡,巧克力浓度明显高于普通奶底,口感层次丰富。适合巧克力重度爱好者与偏好微苦风味的成年人,居家追剧挖着吃或宴客时作饭后甜品都合适。它是品牌强调真材实料路线的典型,比利时可可的名号也让它在货架上有很强的辨识度。",
+     "highlights": [
+      "浓黑巧",
+      "苦甜平衡"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "hagenDazs-matcha",
+     "name": "抹茶冰淇淋",
+     "nameEn": "Green Tea",
+     "type": "冰淇淋",
+     "price": {
+      "min": 35,
+      "max": 100,
+      "label": "零售参考价"
+     },
+     "desc": "抹茶冰淇淋是哈根达斯针对亚洲市场的王牌口味,定位中高档冰淇淋。选用宇治抹茶,呈现典型的微苦回甘茶韵,与高乳脂基底融合后苦甜适中,茶香清晰不齁甜。适合抹茶控与偏好清苦口感的成年消费者,佐餐后解腻或夏日冷食皆宜。它的长期热销也体现了哈根达斯本土化口味的成功,是亚洲门店点单率与零售销量都靠前的经典款。",
+     "highlights": [
+      "宇治抹茶",
+      "微苦回甘"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "hagenDazs-mooncake",
+     "name": "冰淇淋月饼",
+     "nameEn": "Ice Cream Mooncake",
+     "type": "节庆礼盒",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "冰淇淋月饼是哈根达斯开创的节庆礼盒产品,属中秋限定品类。以冰淇淋为馅、巧克力或饼皮为壳,冷藏保存、即化即食,把传统月饼改造成冰凉口感的新型点心,礼盒装设计精致。适合中秋走亲访友送礼、公司福利发放与家庭团圆饭后的轻奢甜点场景。它自推出以来几乎重塑了月饼市场的想象空间,让冰淇淋品牌在传统节日礼品经济中占据一席,是轻奢节庆营销的经典案例。",
+     "highlights": [
+      "中秋限定",
+      "礼盒场景"
+     ],
+     "tags": [
+      "节庆"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "walls",
+   "name": "和路雪",
+   "nameEn": "Wall's",
+   "domain": "walls.com",
+   "categoryId": "food",
+   "country": "英国",
+   "founded": 1922,
+   "hq": "伦敦",
+   "tier": "大众",
+   "sub": "零食",
+   "tags": [
+    "冰淇淋",
+    "梦龙",
+    "可爱多"
+   ],
+   "slogan": "Have a wall's day",
+   "desc": "联合利华旗下冰淇淋 umbrella,梦龙、可爱多、千层雪都是它的子品牌。",
+   "story": "1922年英国 Wall 家族开始做香肠起家的冰淇淋生意,后被联合利华收编成为全球冰淇淋主力平台。在中国,它用梦龙定义了\"高端雪糕\",用可爱多霸榜年轻市场,千层雪则承包了下午茶。\n近年的\"梦龙ultipart 分层\"营销与贵价化策略话题不断。",
+   "products": [
+    {
+     "id": "walls-magnum",
+     "name": "梦龙",
+     "nameEn": "Magnum",
+     "type": "冰淇淋",
+     "price": {
+      "min": 10,
+      "max": 25,
+      "label": "零售参考价"
+     },
+     "desc": "梦龙是和路雪旗下 1989 年问世的高端冰淇淋棒,定位大众价位中的轻奢单品。特色在于厚实的比利时风格巧克力脆皮,咬下时咔嚓一声、脆皮碎裂的仪式感极强,内芯为香草等口味冰淇淋,脂香浓郁。适合追求品质感的年轻消费者,便利店单支购买即享轻奢体验。它是脆皮冰淇淋品类的定义者之一,常与时尚话题联名,是和路雪品牌高端化形象的代表。",
+     "highlights": [
+      "厚脆皮",
+      "咔嚓口感"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "walls-cornetto",
+     "name": "可爱多",
+     "nameEn": "Cornetto",
+     "type": "冰淇淋",
+     "price": {
+      "min": 6,
+      "max": 15,
+      "label": "零售参考价"
+     },
+     "desc": "可爱多是和路雪旗下的经典甜筒冰淇淋,定位大众市场。结构上由威化甜筒底、冰淇淋球与顶端巧克力尖组成,顶部巧克力封口配坚果碎,一口到底层层都有料,甜筒保持酥脆。适合学生与年轻消费者日常解馋,便利店冷柜里单价亲民却颇有高级感。它常被称作许多人的第一支高级甜筒,广告曲与产品形象流传甚广,是甜筒品类的标杆产品之一。",
+     "highlights": [
+      "巧克力尖",
+      "甜筒底"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "walls-paddlepop",
+     "name": "千层雪",
+     "nameEn": "Paddle Pop",
+     "type": "冰淇淋",
+     "price": {
+      "min": 5,
+      "max": 15,
+      "label": "零售参考价"
+     },
+     "desc": "千层雪是和路雪旗下的绵密口感冰淇淋,定位大众市场中的柔滑系产品。特色是层层叠叠的结构与绵密细致的质地,芝士等风味带来轻奢感的下午茶体验,入口即化、层次分明。适合喜欢柔和口感、追求小确幸的都市消费者,居家追剧或午后犒赏自己都很合适。它是和路雪在脆皮、甜筒之外的第三条重要口味线,以质感路线丰富了品牌在高端大众价位的产品布局。",
+     "highlights": [
+      "千层口感",
+      "绵密"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    },
+    {
+     "id": "walls-cornyetto",
+     "name": "百乐宝",
+     "nameEn": "Paddle Pop",
+     "type": "冰淇淋",
+     "price": {
+      "min": 3,
+      "max": 10,
+      "label": "零售参考价"
+     },
+     "desc": "百乐宝是和路雪旗下主打童年价位的彩色雪糕棒,定位大众平价市场。造型为手持的小棒形雪糕,提供多种水果口味,色彩缤纷,口感清爽偏甜,单价亲民,随手可买。适合儿童、学生等预算有限的群体,也是夏季批发冰柜里的囤货常客。它承载了几代人的夏日记忆,常与偶像剧同框出现,是和路雪家族中走量与情怀兼备的经典款。",
+     "highlights": [
+      "童年回忆",
+      "多口味"
+     ],
+     "tags": [
+      "冰淇淋"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mcdonalds",
+   "name": "麦当劳",
+   "nameEn": "McDonald's",
+   "domain": "mcdonalds.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1955,
+   "hq": "芝加哥",
+   "tier": "大众",
+   "sub": "西式快餐",
+   "tags": [
+    "快餐",
+    "金色拱门",
+    "标准化"
+   ],
+   "slogan": "I'm lovin' it",
+   "desc": "全球最大快餐连锁,金色拱门是城市化地标,\"巨无霸指数\"甚至成了经济学指标。",
+   "story": "1955年雷·克罗克把加州兄弟的汉堡店做成特许经营帝国,标准化流水线+地产思维让金色拱门开遍全球四万多家。薯条、巨无霸、麦乐鸡、开心乐园餐,每个单品都是文化符号。\n在中国本土化玩得飞起:麦辣鸡腿堡、板烧、1+1随心配,早餐粥和油条也没落下。",
+   "products": [
+    {
+     "id": "mcdonalds-bigmac",
+     "name": "巨无霸",
+     "nameEn": "Big Mac",
+     "type": "汉堡",
+     "price": {
+      "min": 20,
+      "max": 30,
+      "label": "门店参考价"
+     },
+     "desc": "巨无霸是麦当劳 1968 年问世的招牌汉堡,属西式快餐主食。双层牛肉饼配特调酱汁、生菜、芝士、酸黄瓜与芝麻面包,三层面包结构分量扎实,风味浓郁统一。适合饥肠辘辘的午餐人群与全球旅行者的标准餐体验。其文化地位尤为特殊:巨无霸指数被用于全球购买力比较,一款汉堡成为经济学参考坐标,足见其作为麦当劳图腾产品的世界影响力。",
+     "highlights": [
+      "双层牛肉",
+      "特调酱"
+     ],
+     "tags": [
+      "汉堡"
+     ]
+    },
+    {
+     "id": "mcdonalds-fries",
+     "name": "麦当劳薯条",
+     "nameEn": "World Famous Fries",
+     "type": "小食",
+     "price": {
+      "min": 10,
+      "max": 20,
+      "label": "门店参考价"
+     },
+     "desc": "麦当劳薯条是麦当劳的核心小食,号称世界著名薯条。以细长切条、炸后外脆内软为特色,盐度拿捏克制,趁热食用口感最佳,标准化出品使全球门店风味高度一致。适合搭配主餐、下午加餐或深夜小食,几乎无人拒绝。它在薯条界被广泛视为天花板级存在,是麦当劳复购率与话题度都极高的单品,也与巨无霸一起构成品牌最具辨识度的味觉符号。",
+     "highlights": [
+      "薯条天花板",
+      "盐度刚好"
+     ],
+     "tags": [
+      "小食"
+     ]
+    },
+    {
+     "id": "mcdonalds-spicy",
+     "name": "麦辣鸡腿堡",
+     "nameEn": "Spicy McCrispy",
+     "type": "汉堡",
+     "price": {
+      "min": 15,
+      "max": 30,
+      "label": "门店参考价"
+     },
+     "desc": "麦辣鸡腿堡是麦当劳针对中国市场推出的本土化招牌汉堡,属辣味炸鸡汉堡。整块腌制炸鸡腿肉外皮酥脆、肉质多汁,辣度调得直爽过瘾,配生菜酱料层次分明。适合嗜辣人群与习惯重口味的中国消费者,是不少人的默认点单。作为中国限定王牌产品,它证明了本土化研发的成功,长期稳居菜单人气前列,也是跨国快餐品牌适配本地口味的教科书案例。",
+     "highlights": [
+      "中国限定",
+      "麦辣过瘾"
+     ],
+     "tags": [
+      "汉堡"
+     ]
+    },
+    {
+     "id": "mcdonalds-happy",
+     "name": "开心乐园餐",
+     "nameEn": "Happy Meal",
+     "type": "套餐",
+     "price": {
+      "min": 20,
+      "max": 40,
+      "label": "门店参考价"
+     },
+     "desc": "开心乐园餐是麦当劳面向儿童的经典套餐,属套餐类产品。以儿童份量的主食、小食、饮品组合为核心,最大特色是随餐附赠主题玩具,玩具常与热门 IP 联动,具有收藏价值。适合带娃用餐的家庭、生日派对与亲子奖励场景。它自诞生以来陪伴了几代人的童年,许多人对麦当劳的最初记忆都来自玩具收集,是快餐业儿童营销的教科书级产品。",
+     "highlights": [
+      "附赠玩具",
+      "童年回忆"
+     ],
+     "tags": [
+      "套餐"
+     ]
+    },
+    {
+     "id": "mcdonalds-mccafe",
+     "name": "McCafé 咖啡",
+     "nameEn": "McCafé",
+     "type": "咖啡",
+     "price": {
+      "min": 10,
+      "max": 30,
+      "label": "门店参考价"
+     },
+     "desc": "McCafé 咖啡是麦当劳店内的咖啡产品线,属快餐店中店模式。以拿铁、美式等意式咖啡为主,主打平价与出餐效率,咖啡豆与制作流程标准化,品质稳定却不昂贵。适合赶时间的上班族、顺路提神的驾驶人群,以及觉得精品咖啡馆价格偏高的日常消费者。它以平价拿铁的策略切入了连锁咖啡市场,是快餐巨头拓展饮品线、与专业咖啡品牌竞争的代表案例。",
+     "highlights": [
+      "店中店",
+      "平价拿铁"
+     ],
+     "tags": [
+      "咖啡"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kfc",
+   "name": "肯德基",
+   "nameEn": "KFC",
+   "domain": "kfc.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1952,
+   "hq": "路易维尔",
+   "tier": "大众",
+   "sub": "西式快餐",
+   "tags": [
+    "炸鸡",
+    "上校",
+    "疯狂星期四"
+   ],
+   "slogan": "Finger Lickin' Good(尽情自在)",
+   "desc": "山德士上校的11种香料炸鸡,在中国因\"疯狂星期四\"文学成为互联网梗王。",
+   "story": "1952年65岁的哈兰·山德士上校带着压力锅和秘方四处授权开店,白西装+山羊胡成为最深入人心的品牌形象。1987年肯德基进入北京前门,是中国第一家洋快餐。\n吮指原味鸡、香辣鸡腿堡、蛋挞是铁三角,而\"V我50\"的疯四文学让它持续霸屏社交媒体。",
+   "products": [
+    {
+     "id": "kfc-original",
+     "name": "吮指原味鸡",
+     "nameEn": "Original Recipe",
+     "type": "炸鸡",
+     "price": {
+      "min": 12,
+      "max": 15,
+      "label": "门店参考价"
+     },
+     "desc": "吮指原味鸡是肯德基的奠基产品,属经典炸鸡主食。以 11 种香料的秘方腌制炸制,外皮金黄、鸡肉多汁,提供鸡腿、鸡翅、琵琶腿等多个部位任选,咸香入味,吃完吮指回味是其标志性体验。适合家庭聚餐、朋友分食与正餐场景,是肯德基菜单的核心主食。作为 1952 年品牌创立以来的招牌,原味鸡的秘方传说与吮指广告语共同构成了肯德基的品牌根基。",
+     "highlights": [
+      "11种香料",
+      "吮指回味"
+     ],
+     "tags": [
+      "炸鸡"
+     ]
+    },
+    {
+     "id": "kfc-zinger",
+     "name": "香辣鸡腿堡",
+     "nameEn": "Zinger Burger",
+     "type": "汉堡",
+     "price": {
+      "min": 18,
+      "max": 28,
+      "label": "门店参考价"
+     },
+     "desc": "香辣鸡腿堡是肯德基的国民级辣味汉堡,属炸鸡汉堡类主食。整块腌制鸡腿肉炸得外酥里嫩,辣度拿捏精准,香而不燥,配生菜沙拉酱解腻,辣感与肉汁平衡得当。适合嗜辣年轻消费者与追求过瘾口感的快餐人群,配可乐被视作黄金组合。它是肯德基在华最受欢迎的汉堡之一,长期占据销量榜,其辣味配方也成为衡量快餐辣堡的参照标准。",
+     "highlights": [
+      "香辣过瘾",
+      "国民汉堡"
+     ],
+     "tags": [
+      "汉堡"
+     ]
+    },
+    {
+     "id": "kfc-eggtart",
+     "name": "葡式蛋挞",
+     "nameEn": "Egg Tart",
+     "type": "甜品",
+     "price": {
+      "min": 6,
+      "max": 10,
+      "label": "门店参考价"
+     },
+     "desc": "葡式蛋挞是肯德基的招牌甜品,属烘焙甜点类。酥皮层次分明、烤得焦香,蛋心嫩滑到轻轻一颤,甜度适中,现烤出炉时风味最佳。适合堂食佐餐、下午茶点心,也是带回家给家人的人气手信。作为快餐店里少见的现烤烘焙品,它以稳定的品质成为肯德基的隐藏王牌,不少消费者进店就是为了蛋挞,其热度常年不减,是菜单上的销量担当。",
+     "highlights": [
+      "酥皮蛋心",
+      "甜品王牌"
+     ],
+     "tags": [
+      "甜品"
+     ]
+    },
+    {
+     "id": "kfc-crazy4",
+     "name": "疯狂星期四",
+     "nameEn": "Crazy Thursday",
+     "type": "营销活动",
+     "price": {
+      "min": 10,
+      "max": 50,
+      "label": "活动价"
+     },
+     "desc": "疯狂星期四(KFC Crazy Thursday)是肯德基每周四开展的促销活动,属营销活动而非单品。每周四以优惠价格供应指定产品,配合社交平台上规模惊人的二创文案——V我50等梗文学席卷全网,把促销信息变成了全民参与的网络幽默。适合预算敏感的年轻消费者周四打卡薅羊毛。它被广泛视为把促销做成互联网民俗的经典案例,堪称餐饮营销的现象级样本。",
+     "highlights": [
+      "周四折扣",
+      "梗文学"
+     ],
+     "tags": [
+      "活动"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "burgerking",
+   "name": "汉堡王",
+   "nameEn": "Burger King",
+   "domain": "bk.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1954,
+   "hq": "迈阿密",
+   "tier": "大众",
+   "sub": "西式快餐",
+   "tags": [
+    "火烤",
+    "皇堡",
+    "汉堡之战"
+   ],
+   "slogan": "Have it your way(我选我味)",
+   "desc": "以明火烤制差异化的汉堡连锁,皇堡是它和麦当劳对抗五十年的王牌。",
+   "story": "1954年麦当劳模式最火时,James McLamore 与 David Edgerton 反其道用明火炭烤,1957年推出皇堡。\"Have it your way\"让顾客自由选配料,成为快餐个性化的鼻祖。\n皇堡大块炭烤牛肉+芝麻包,是许多人心目中\"更美式\"的那一口。",
+   "products": [
+    {
+     "id": "burgerking-whopper",
+     "name": "皇堡",
+     "nameEn": "Whopper",
+     "type": "汉堡",
+     "price": {
+      "min": 18,
+      "max": 35,
+      "label": "门店参考价"
+     },
+     "desc": "皇堡是汉堡王 1957 年问世的旗舰汉堡,属西式快餐主食。核心工艺是明火烤制牛肉饼,赋予独特的炭烤焦香,配大块番茄、生菜、洋葱、酸黄瓜与蛋黄酱,料足饱满,口感接近现做的汉堡。适合追求烤肉风味与大分量的成年快餐消费者。作为汉堡王的同名符号,皇堡与麦当劳巨无霸的多年对垒是快餐史上的著名商战,其火烤概念也已成为品牌的代名词。",
+     "highlights": [
+      "明火烤制",
+      "大块牛肉"
+     ],
+     "tags": [
+      "汉堡"
+     ]
+    },
+    {
+     "id": "burgerking-kingdog",
+     "name": "小皇堡",
+     "nameEn": "Whopper Jr.",
+     "type": "汉堡",
+     "price": {
+      "min": 10,
+      "max": 20,
+      "label": "门店参考价"
+     },
+     "desc": "小皇堡(Whopper Jr.)是汉堡王皇堡的缩小版,属西式快餐主食。保留明火烤牛肉饼与番茄生菜酸黄瓜全套配料,只是尺寸与分量相应缩减,炭烤风味不打折,价格更亲民。适合食量较小、想解馋又怕浪费的轻食量玩家,也适合搭配小食组成轻松一餐。它在菜单中承担着入门与加购的角色,让招牌风味以更灵活的方式触达不同食量与预算的消费者。",
+     "highlights": [
+      "小巧",
+      "解馋"
+     ],
+     "tags": [
+      "汉堡"
+     ]
+    },
+    {
+     "id": "burgerking-wings",
+     "name": "霸辣鸡翅",
+     "nameEn": "Fiery Wings",
+     "type": "小食",
+     "price": {
+      "min": 12,
+      "max": 30,
+      "label": "门店参考价"
+     },
+     "desc": "霸辣鸡翅是汉堡王的辣味小食,属火烤鸡翅类产品。以品牌标志性的明火烤制工艺处理鸡翅,再叠加辣味腌制,皮面带焦香、辣度强劲,肉汁保留完整。适合嗜辣人群与佐酒场景,深夜配啤酒尤其对味。它在菜单中强化了汉堡王火烤差异化的小食线,与普通炸鸡翅形成口味区隔,是喜欢重口味的消费者点单时的高频加购项。",
+     "highlights": [
+      "火烤鸡翅",
+      "够辣"
+     ],
+     "tags": [
+      "小食"
+     ]
+    },
+    {
+     "id": "burgerking-sundae",
+     "name": "圣代",
+     "nameEn": "Sundae",
+     "type": "甜品",
+     "price": {
+      "min": 10,
+      "max": 25,
+      "label": "门店参考价"
+     },
+     "desc": "圣代是汉堡王菜单中的经典甜品,属冰淇淋类产品。以圆筒冰淇淋为底,淋上巧克力、草莓等酱料,酱料可按喜好搭配,冰凉绵密与甜酱形成经典的冷热软硬对比,价格实惠。适合饭后甜品、儿童加餐与夏日解暑场景,是快餐结账时顺手加购的高频小件。它在汉堡王承担着拉低客单门槛、补全套餐结构的角色,是快餐甜品里朴素而实用的存在。",
+     "highlights": [
+      "圆筒底",
+      "淋酱自由"
+     ],
+     "tags": [
+      "甜品"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pizzahut",
+   "name": "必胜客",
+   "nameEn": "Pizza Hut",
+   "domain": "pizzahut.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1958,
+   "hq": "普莱诺",
+   "tier": "大众",
+   "sub": "西式快餐",
+   "tags": [
+    "披萨",
+    "红屋顶",
+    "自助沙拉"
+   ],
+   "slogan": "Pizza and More",
+   "desc": "全球最大披萨连锁,红屋顶标志下,把披萨做成了中国家庭聚会的\"轻西餐\"。",
+   "story": "1958年堪萨斯州两兄弟借母亲的600美元开了第一家店,红屋顶招牌沿用至今。1990年进入北京,当年吃必胜客是件很时髦的事;下午茶自助、比萨饼边DIY、超级至尊都是记忆点。\n如今属百胜中国,本土化披萨(小龙虾、榴莲)月月上新。",
+   "products": [
+    {
+     "id": "pizzahut-supreme",
+     "name": "超级至尊披萨",
+     "nameEn": "Super Supreme",
+     "type": "披萨",
+     "price": {
+      "min": 60,
+      "max": 120,
+      "label": "门店参考价"
+     },
+     "desc": "超级至尊披萨是必胜客的招牌满料披萨,属西式快餐主食。火腿、牛肉、意式香肠、青椒、洋葱、蘑菇等多种肉类蔬菜铺满饼底,一口下去配料轰炸,风味浓郁饱满,饼边暄软。适合多人聚餐、家庭聚会与生日庆祝等分享场景,一张饼满足整桌口味。作为必胜客菜单上的全家福式存在,它几乎定义了很多人心中豪华披萨的标准配置。",
+     "highlights": [
+      "满料",
+      "全家福"
+     ],
+     "tags": [
+      "披萨"
+     ]
+    },
+    {
+     "id": "pizzahut-margherita",
+     "name": "玛格丽特披萨",
+     "nameEn": "Margherita",
+     "type": "披萨",
+     "price": {
+      "min": 40,
+      "max": 90,
+      "label": "门店参考价"
+     },
+     "desc": "玛格丽特披萨是必胜客菜单中的极简正统款,属西式快餐主食。以番茄酱、马苏里拉芝士与罗勒三样经典配料构成,不靠料堆取胜,考验饼底发酵与芝士品质,芝士拉丝效果是它的招牌画面。适合偏好原味、喜欢芝士的消费者与入门披萨的尝鲜人群。玛格丽特源自意大利的经典配方,在必胜客菜单中承担着正统口味的代表角色,是披萨爱好者的品质试金石。",
+     "highlights": [
+      "极简正统",
+      "拉丝"
+     ],
+     "tags": [
+      "披萨"
+     ]
+    },
+    {
+     "id": "pizzahut-salad",
+     "name": "自助沙拉吧",
+     "nameEn": "Salad Bar",
+     "type": "沙拉",
+     "price": {
+      "min": 25,
+      "max": 40,
+      "label": "门店参考价"
+     },
+     "desc": "自助沙拉吧是必胜客门店曾经的特色自助项目,属沙拉类产品。顾客可自取碗具,从蔬菜、水果等自助台无限畅吃,因其按碗计价的规则,催生了传说中挑战堆叠高度的叠沙拉塔玩法,一度风靡网络与校园。适合追求性价比与乐趣的年轻学生群体。作为 90 后集体记忆中的美食挑战赛,它超越了食物本身,成为餐饮自助营销史上最富传奇色彩的案例之一。",
+     "highlights": [
+      "沙拉塔传说",
+      "自助畅吃"
+     ],
+     "tags": [
+      "沙拉"
+     ]
+    },
+    {
+     "id": "pizzahut-pasta",
+     "name": "意式肉酱面",
+     "nameEn": "Spaghetti Bolognese",
+     "type": "意面",
+     "price": {
+      "min": 30,
+      "max": 60,
+      "label": "门店参考价"
+     },
+     "desc": "意式肉酱面是必胜客菜单中的意面主食,属西式快餐面食。以番茄肉酱为经典配比,酱汁酸甜浓郁、肉粒饱满,浇在意面上拌匀即食,口味温和不刺激。适合孩子与不太习惯西餐的家庭成员,是许多中国家庭带孩子初次接触西餐的入门选择。它扩展了披萨店的主食维度,让不吃披萨的餐桌成员也有稳妥选择,是必胜客家庭客群策略中的重要一环。",
+     "highlights": [
+      "入门西餐",
+      "番茄肉酱"
+     ],
+     "tags": [
+      "意面"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "subway",
+   "name": "赛百味",
+   "nameEn": "Subway",
+   "domain": "subway.com",
+   "categoryId": "food",
+   "country": "美国",
+   "founded": 1965,
+   "hq": "康涅狄格州",
+   "tier": "大众",
+   "sub": "西式快餐",
+   "tags": [
+    "三明治",
+    "现做",
+    "低脂感"
+   ],
+   "slogan": "Eat Fresh",
+   "desc": "门店数量曾经全球第一的三明治连锁,把\"现做+自选\"的健康感做成了商业模式。",
+   "story": "1965年17岁的 Fred DeLuca 为筹学费开了家潜水艇三明治店,如今门店曾超过四万家——比麦当劳还多。全开放厨房、面包现烤、菜料自选, \"今天吃什么\"的选择困难从这一刻开始。\n金枪鱼三明治、意大利经典BMT与曲奇是三大记忆点。",
+   "products": [
+    {
+     "id": "subway-tuna",
+     "name": "金枪鱼三明治",
+     "nameEn": "Tuna Sub",
+     "type": "三明治",
+     "price": {
+      "min": 20,
+      "max": 40,
+      "label": "门店参考价"
+     },
+     "desc": "金枪鱼三明治是赛百味在中国的销量之王,属现制三明治。以浓郁的金枪鱼沙拉为灵魂馅料,搭配顾客自选的面包、蔬菜与酱料,鱼肉绵密咸香,蔬菜爽脆解腻,组合自由度高。适合注重食材新鲜感、想要快速健康一餐的上班族与学生。作为赛百味的招牌口味,它证明了本土化口味偏好的成功,是现制三明治品类中最具国民度的金枪鱼代表。",
+     "highlights": [
+      "金枪鱼酱",
+      "自选菜料"
+     ],
+     "tags": [
+      "三明治"
+     ]
+    },
+    {
+     "id": "subway-bmt",
+     "name": "意式经典 BMT",
+     "nameEn": "Italian B.M.T.",
+     "type": "三明治",
+     "price": {
+      "min": 22,
+      "max": 45,
+      "label": "门店参考价"
+     },
+     "desc": "意式经典 BMT 是赛百味的硬核肉食三明治,属现制三明治。汇集意式香肠、意式腊肠与火腿三种腌肉,咸鲜浓郁、嚼劲十足,配自选蔬菜与酱料平衡口感,肉量在菜单中名列前茅。适合肉食爱好者与需要高能量一餐的人群,运动后加餐亦合适。其名字源自 Brooklyn Manhattan Transit 地铁线的典故,作为赛百味全球菜单的经典配方,长期是重口味顾客的首选。",
+     "highlights": [
+      "三重肉",
+      "经典配方"
+     ],
+     "tags": [
+      "三明治"
+     ]
+    },
+    {
+     "id": "subway-cookies",
+     "name": "巧克力曲奇",
+     "nameEn": "Chocolate Chip Cookie",
+     "type": "甜品",
+     "price": {
+      "min": 5,
+      "max": 20,
+      "label": "门店参考价"
+     },
+     "desc": "巧克力曲奇是赛百味门店的隐藏人气甜品,属现烤烘焙小食。在门店现场烤制,出炉时外缘微脆、中心保持软心,巧克力豆半融,香气扑鼻,趁热吃口感最佳。适合结账时顺手加购、下午茶配咖啡,也常被回头客专为它而来。作为三明治店的意外亮点,它以现烤软心的优势在快餐甜品中口碑出众,是赛百味提升客单与复购的甜蜜武器。",
+     "highlights": [
+      "现烤",
+      "软心"
+     ],
+     "tags": [
+      "甜品"
+     ]
+    },
+    {
+     "id": "subway-salad",
+     "name": "自选沙拉碗",
+     "nameEn": "Protein Bowl",
+     "type": "沙拉",
+     "price": {
+      "min": 25,
+      "max": 50,
+      "label": "门店参考价"
+     },
+     "desc": "自选沙拉碗是赛百味面向健康饮食人群的产品,属高蛋白沙拉类。把三明治的馅料——肉类、芝士、大量自选蔬菜——去掉面包直接装碗,低碳水、高蛋白,酱料自选可控。适合健身减脂人群、控糖控碳水的消费者以及想轻负担用餐的上班族。它顺应了健康化餐饮趋势,把赛百味现制自选的模式优势延伸到碗装场景,是快餐菜单中少见的健身友好选项。",
+     "highlights": [
+      "低碳水",
+      "高蛋白"
+     ],
+     "tags": [
+      "沙拉"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dali",
+   "name": "达利园",
+   "nameEn": "Dali Foods",
+   "domain": "daligroup.com",
+   "categoryId": "food",
+   "country": "中国",
+   "founded": 1989,
+   "hq": "泉州",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "性价比",
+    "国民零食",
+    "达利模式"
+   ],
+   "slogan": "达利园食品,美味你我他",
+   "desc": "福建首富许世辉的零食帝国,达利园蛋黄派、和其正、乐虎、豆本豆都是追随式创新的产物。",
+   "story": "1989年许世辉在福建惠安做蜜饯起家,最擅长\"品类跟随+价格战\":好吃点对标奥利奥、和其正对标王老吉、乐虎对标红牛、豆本豆对标维他奶,几乎每个爆款都是精准卡位的结果。\n低线市场渗透力惊人,是国产快消\"模仿之王\"的教科书。",
+   "products": [
+    {
+     "id": "dali-yolkpie",
+     "name": "蛋黄派",
+     "nameEn": "Yolk Pie",
+     "type": "糕点",
+     "price": {
+      "min": 8,
+      "max": 30,
+      "label": "零售参考价"
+     },
+     "desc": "蛋黄派是达利园的国民糕点,属预包装烘焙糕点。松软蛋糕外壳夹入绵密蛋黄酱内芯,口感湿润松甜,独立包装便于携带与分装,保质期长,价格亲民。适合早餐垫肚、学生课间加餐与办公茶歇,也常见于送礼小礼包。作为校门口与便利店货架的常青款,它承载了几代学生党的课间记忆,是达利园烘焙线的奠基性大单品,销量常年居同类前列。",
+     "highlights": [
+      "国民糕点",
+      "松软"
+     ],
+     "tags": [
+      "糕点"
+     ]
+    },
+    {
+     "id": "dali-heqizheng",
+     "name": "和其正",
+     "nameEn": "He Qi Zheng",
+     "type": "凉茶",
+     "price": {
+      "min": 3,
+      "max": 6,
+      "label": "零售参考价"
+     },
+     "desc": "和其正(Dali Foods 旗下)是达利园推出的瓶装凉茶,属植物饮料。延续草本凉茶的传统配方思路,最大特色是大瓶装策略——容量更大而价格相近,加量不加价,主打餐桌分享与畅饮场景。适合聚餐配餐、佐辣解腻与夏季消暑的日常消费。作为王老吉、加多宝之后的凉茶市场挑战者,它以大瓶性价比路线在凉茶大战中站稳了份额,是二三线市场渗透力极强的品牌。",
+     "highlights": [
+      "大瓶装",
+      "性价比"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "dali-lehu",
+     "name": "乐虎",
+     "nameEn": "Lehu",
+     "type": "功能饮料",
+     "price": {
+      "min": 4,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "乐虎是达利园旗下的功能饮料,属能量饮料类。以提神抗疲劳为核心功能诉求,配方含咖啡因与维生素等常规能量饮料成分,采用性价比定价策略,大容量规格满足高强度饮用需求。适合蓝领劳动者、长途司机与需要熬夜提神的体力消耗人群。它避开了红牛所在的主流价格带,以下沉市场路线成为功能饮料领域的重要国产品牌,在服务区与工地渠道尤为常见。",
+     "highlights": [
+      "提神",
+      "性价比"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "dali-douben",
+     "name": "豆本豆",
+     "nameEn": "Vegosoya",
+     "type": "植物奶",
+     "price": {
+      "min": 4,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "豆本豆是达利园旗下的植物奶品牌,属无添加豆奶饮品。主打配料表干净、无添加的产品理念,以大豆为原料提供植物蛋白,口感醇滑、豆香自然,常温盒装便于储存携带。适合注重成分的学生早餐、家长为孩子挑选的营养早饮,以及乳糖不耐人群的蛋白补充。它抓住了植物蛋白饮品的消费升级风口,是达利园从传统零食饮料迈向健康饮赛道的关键品牌。",
+     "highlights": [
+      "无添加",
+      "植物蛋白"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "orion",
+   "name": "好丽友",
+   "nameEn": "Orion",
+   "domain": "orionworld.com",
+   "categoryId": "food",
+   "country": "韩国",
+   "founded": 1956,
+   "hq": "首尔",
+   "tier": "大众",
+   "sub": "零食",
+   "tags": [
+    "派",
+    "好多鱼",
+    "韩国零食"
+   ],
+   "slogan": "好丽友,好朋友",
+   "desc": "韩国四大食品集团之一,好丽友派、薯愿、好多鱼承包了中国80后90后的课桌零食。",
+   "story": "1956年东洋制果创立,1974年推出的 Choco Pie 改写了亚洲零食史——软蛋糕+棉花糖+巧克力壳的构造风靡中日俄。1995年进入中国,\"好丽友,好朋友\"的广告语人尽皆知。\n好多鱼的小鱼造型与随机玩具卡片,是课间社交的硬通货。",
+   "products": [
+    {
+     "id": "orion-chocopie",
+     "name": "好丽友派",
+     "nameEn": "Choco Pie",
+     "type": "糕点",
+     "price": {
+      "min": 8,
+      "max": 40,
+      "label": "零售参考价"
+     },
+     "desc": "好丽友派是韩国好丽友(Orion)最具代表性的产品,属夹心糕点。经典三层结构:上下两层松软蛋糕夹巧克力外衣包裹的棉花糖内芯,一口咬下软糯拉丝、甜而不腻,独立包装干净便携。适合办公室下午茶、学生分享与茶歇摆盘,单价亲民。作为进入中国市场多年的人气进口零食,好丽友派几乎成为棉花糖夹心派的品类代名词,friendship 友情营销亦深入人心。",
+     "highlights": [
+      "棉花糖心",
+      "经典三层"
+     ],
+     "tags": [
+      "糕点"
+     ]
+    },
+    {
+     "id": "orion-bakedchips",
+     "name": "薯愿",
+     "nameEn": "Sensa",
+     "type": "薯片",
+     "price": {
+      "min": 6,
+      "max": 15,
+      "label": "零售参考价"
+     },
+     "desc": "薯愿(Sensa)是好丽友旗下的烘焙薯片,属非油炸膨化零食。以烘焙工艺代替油炸,减少油脂负担,薯片更轻薄、口感轻脆,咸香调味克制,吃完指上少油。适合注重健康又戒不掉薯片的年轻消费者,追剧、办公桌抽屉常备。作为国内市场较早主打非油炸概念的薯片品牌,薯愿把健康卖点做成了清晰的差异化标签,是烘焙薯片品类的代表性产品。",
+     "highlights": [
+      "非油炸",
+      "轻脆"
+     ],
+     "tags": [
+      "零食"
+     ]
+    },
+    {
+     "id": "orion-manyfish",
+     "name": "好多鱼",
+     "nameEn": "Many Fish",
+     "type": "膨化零食",
+     "price": {
+      "min": 4,
+      "max": 12,
+      "label": "零售参考价"
+     },
+     "desc": "好多鱼是韩国好丽友(Orion)旗下的儿童向膨化零食,属小鱼形膨化饼干。以可爱的小鱼造型为特色,口感酥脆、口味多样,包装内附送玩具卡片,集卡玩法让孩子爱不释手。适合学龄儿童课桌零食、放学路上的解馋场景,也是家长通融度较高的零食选择。它凭借造型与玩具组合成为课桌零食之王,是零食+玩具捆绑营销的经典成功案例。",
+     "highlights": [
+      "小鱼造型",
+      "玩具卡片"
+     ],
+     "tags": [
+      "零食"
+     ]
+    },
+    {
+     "id": "orion-onionrings",
+     "name": "洋葱圈",
+     "nameEn": "Onion Rings",
+     "type": "膨化零食",
+     "price": {
+      "min": 4,
+      "max": 12,
+      "label": "零售参考价"
+     },
+     "desc": "洋葱圈是韩国好丽友(Orion)旗下的环形膨化零食,属香葱风味膨化食品。造型为规则的环形圈圈,入口咔嚓作响、酥脆轻盈,香葱香气浓郁、咸鲜适口,容易一根接一根停不下来。适合追剧零嘴、聚会分享与办公室充饥,年轻人接受度高。它在好丽友的产品线中以独特造型和葱香风味形成记忆点,是膨化零食货架上辨识度颇高的经典款。",
+     "highlights": [
+      "环形",
+      "葱香"
+     ],
+     "tags": [
+      "零食"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "masterkong",
+   "name": "康师傅",
+   "nameEn": "Master Kong",
+   "domain": "masterkong.com.cn",
+   "categoryId": "food",
+   "country": "中国",
+   "founded": 1992,
+   "hq": "天津",
+   "tier": "大众",
+   "sub": "零食",
+   "tags": [
+    "方便面",
+    "红烧牛肉面",
+    "饮品"
+   ],
+   "slogan": "面霸天下",
+   "desc": "魏氏兄弟的方便面帝国,红烧牛肉面是中国泡面的默认答案,冰红茶承包了整个夏天。",
+   "story": "1992年魏应州在天津试水方便面,\"康师傅红烧牛肉面\"一炮而红,靠密集经销与统一战线打遍全国。高峰期一年卖出上百亿包,是中国人火车记忆的背景音。\n如今与日本三洋食品结盟,饮品线(冰红茶、冰糖雪梨)同样霸榜。",
+   "products": [
+    {
+     "id": "masterkong-hongshao",
+     "name": "红烧牛肉面",
+     "nameEn": "Braised Beef Noodle",
+     "type": "方便面",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "红烧牛肉面是康师傅的奠基口味,属国民方便面。以浓郁红烧汤底为核心,酱包香气霸道,开袋即有存在感,面饼筋道、汤头咸香微辣,配料组合稳定,几十年品质如一。适合深夜充饥、旅途用餐与预算有限的快速一餐,学生与上班族通吃。它是中国方便面的国民口味代名词,与绿皮车、宿舍夜宵等记忆深度绑定,是康师傅称霸市场的王牌大单品。",
+     "highlights": [
+      "国民口味",
+      "酱包浓郁"
+     ],
+     "tags": [
+      "方便面"
+     ]
+    },
+    {
+     "id": "masterkong-binghong",
+     "name": "冰红茶",
+     "nameEn": "Ice Red Tea",
+     "type": "茶饮料",
+     "price": {
+      "min": 3,
+      "max": 6,
+      "label": "零售参考价"
+     },
+     "desc": "冰红茶是康师傅的国民茶饮料,属柠檬味红茶饮品。以红茶基底融入柠檬风味,甜酸爽口、冰镇后尤为解渴,大瓶装价格亲民,渠道渗透深入乡镇小店。适合夏季解渴、运动后补充与学生群体日常饮用,聚餐佐餐也常见。作为小卖部销量冠军级的常青饮料,它是中国即饮茶市场的大众标杆,其甜润配方已成为许多人对柠檬红茶的默认印象。",
+     "highlights": [
+      "柠檬红茶",
+      "国民饮料"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "masterkong-bingshen",
+     "name": "冰糖雪梨",
+     "nameEn": "Pear Drink",
+     "type": "果汁茶饮",
+     "price": {
+      "min": 3,
+      "max": 6,
+      "label": "零售参考价"
+     },
+     "desc": "冰糖雪梨是康师傅旗下的果汁茶饮,属清甜型果味饮料。以雪梨汁为核心原料,口感清甜温润、不腻口,产品主打润喉的健康概念,常温盒装便于购买携带。适合秋冬干燥季节饮用、嗓子不适时的温润之选,也是家长眼中给孩子的健康饮料。它把传统食补里冰糖炖雪梨的思路做成瓶装饮料,以温润养喉的概念在饮料市场开辟出差异化的畅销品类。",
+     "highlights": [
+      "清甜",
+      "润喉概念"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "masterkong-zhenzhimian",
+     "name": "珍煮炖",
+     "nameEn": "Zhen Zhu Dun",
+     "type": "高端方便面",
+     "price": {
+      "min": 10,
+      "max": 25,
+      "label": "零售参考价"
+     },
+     "desc": "珍煮炖是康师傅旗下的高端方便面产品线,属高端方便面。主打大块真肉配料——大肉块肉眼可见,汤底讲究慢炖概念,料包分量与用料明显升级,力图还原现做面馆的满足感。适合愿意为品质付费的泡面爱好者、深夜想吃一顿像样热食的都市人群。作为泡面界消费升级的代表尝试,它体现了康师傅向上突破价格带的战略,是国产方便面高端化路线的标志性产品。",
+     "highlights": [
+      "大块肉",
+      "高端线"
+     ],
+     "tags": [
+      "方便面"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unipresident",
+   "name": "统一",
+   "nameEn": "Uni-President",
+   "domain": "uni-president.com",
+   "categoryId": "food",
+   "country": "中国台湾",
+   "founded": 1967,
+   "hq": "台南",
+   "tier": "大众",
+   "sub": "零食",
+   "tags": [
+    "方便面",
+    "茶饮料",
+    "老坛酸菜"
+   ],
+   "slogan": "千禧之爱",
+   "desc": "台湾食品龙头,老坛酸菜牛肉面与阿萨姆奶茶在中国大陆掀起过现象级风口。",
+   "story": "1967年吴修齐等人在台南创立统一,从面粉饲料做到食品饮料全链。1992年随康师傅之后进军大陆, \"老坛酸菜\"广告让\"这酸爽\"成为流行语,阿萨姆奶茶则是奶茶界的第一瓶瓶装记忆。\n旗下还有来一桶、汤达人、小茗同学等爆款矩阵。",
+   "products": [
+    {
+     "id": "unipresident-laotan",
+     "name": "老坛酸菜牛肉面",
+     "nameEn": "Pickled Cabbage Beef Noodle",
+     "type": "方便面",
+     "price": {
+      "min": 3,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "老坛酸菜牛肉面是统一旗下的王牌方便面,属酸菜风味方便面。以老坛发酵酸菜包为灵魂,酸爽开胃、辣度温和,汤底酸香浓郁,与红烧牛肉面形成鲜明风味对照,酸菜脆爽嚼劲十足。适合吃腻红烧口味想换口感的消费者,夜宵与旅途场景同样合适。它是康统方便面大战中的经典武器,其老坛发酵的酸爽概念深入人心,长期稳居国民泡面人气榜前列。",
+     "highlights": [
+      "酸菜包",
+      "酸爽"
+     ],
+     "tags": [
+      "方便面"
+     ]
+    },
+    {
+     "id": "unipresident-asamu",
+     "name": "阿萨姆奶茶",
+     "nameEn": "Assam Milk Tea",
+     "type": "奶茶饮料",
+     "price": {
+      "min": 4,
+      "max": 7,
+      "label": "零售参考价"
+     },
+     "desc": "统一旗下奶茶饮料,将港式丝袜奶茶风味装进瓶中,以阿萨姆红茶为底与乳质融合,口感丝滑、茶香与奶香平衡。适合通勤路上、课间休息等即饮场景,面向喜欢奶茶又追求便捷的年轻人。作为瓶装奶茶的启蒙者,它把现制奶茶的口感大众化,是货架上国民度极高的经典单品。",
+     "highlights": [
+      "瓶装奶茶",
+      "丝滑"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "unipresident-tangdaren",
+     "name": "汤达人",
+     "nameEn": "Tang Da Ren",
+     "type": "高端方便面",
+     "price": {
+      "min": 8,
+      "max": 20,
+      "label": "零售参考价"
+     },
+     "desc": "统一旗下的高端方便面产品线,主打浓汤概念,以日式豚骨、罗宋汤等汤底为招牌,汤头浓郁厚重,与普通方便面形成区隔。适合加班夜宵、差旅出行等场景,面向偏好喝汤、追求品质感的消费者。作为国内方便面高端化的代表之一,它让吃面先喝汤成为品牌记忆点。",
+     "highlights": [
+      "浓汤底",
+      "高端线"
+     ],
+     "tags": [
+      "方便面"
+     ]
+    },
+    {
+     "id": "unipresident-iceblack",
+     "name": "茶里王",
+     "nameEn": "Cha Li Wang",
+     "type": "无糖茶",
+     "price": {
+      "min": 4,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "统一旗下无糖茶饮,主打无糖乌龙茶,茶味纯正、回甘明显,不加糖、无负担。适合控糖人群、健身人士与办公室日常解渴,也适合习惯茶味的成熟消费者。上市较早便布局无糖赛道,被视作健康茶饮的先知先觉者,如今随无糖风潮重获市场关注。",
+     "highlights": [
+      "无糖",
+      "回甘"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nfsq",
+   "name": "农夫山泉",
+   "nameEn": "NONGFU SPRING",
+   "domain": "nongfuspring.com",
+   "categoryId": "food",
+   "country": "中国",
+   "founded": 1996,
+   "hq": "杭州",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "瓶装水",
+    "有点甜",
+    "东方树叶"
+   ],
+   "slogan": "农夫山泉,有点甜",
+   "desc": "钟睒睒的水帝国,\"我们不生产水,我们只是大自然的搬运工\"是最成功的广告语之一。",
+   "story": "1996年钟睒睒在千岛湖建厂,主打天然水概念狙击纯净水同行,凭\"有点甜\"广告与红色瓶身杀出重围。此后长白山、峨眉山等水源地营销把\"天然\"做成了信仰。\n东方树叶十年冷板凳后等来无糖茶风口,如今公司市值一度是亚洲消费品之王,钟睒睒也成了中国首富。",
+   "products": [
+    {
+     "id": "nfsq-water",
+     "name": "农夫山泉",
+     "nameEn": "Natural Water",
+     "type": "瓶装水",
+     "price": {
+      "min": 2,
+      "max": 5,
+      "label": "零售参考价"
+     },
+     "desc": "农夫山泉同名核心瓶装水,定位天然水,标志性的红色瓶盖包装辨识度极高,产品覆盖多个规格。适合家庭囤货、外出携带与日常饮用,几乎覆盖全年龄段人群。作为超市与便利店的硬通货,它是国民度最高的瓶装水之一,天然水源的产品心智深入人心。",
+     "highlights": [
+      "天然水源",
+      "国民瓶装水"
+     ],
+     "tags": [
+      "水"
+     ]
+    },
+    {
+     "id": "nfsq-dongfang",
+     "name": "东方树叶",
+     "nameEn": "Oriental Leaf",
+     "type": "无糖茶",
+     "price": {
+      "min": 5,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "农夫山泉旗下无糖茶,主打0糖0卡与原叶萃取,以中国传统茶味呈现,包装融入东方美学意象。适合控糖减脂人群与茶饮爱好者日常饮用。2011年问世时曾无人问津,待无糖茶风口来临后一跃成为品类之王,堪称先知先觉者的经典逆袭,是国产无糖茶的标杆。",
+     "highlights": [
+      "0糖0卡",
+      "原叶萃取"
+     ],
+     "tags": [
+      "茶"
+     ]
+    },
+    {
+     "id": "nfsq-cha",
+     "name": "茶π",
+     "nameEn": "Tea Pi",
+     "type": "果味茶",
+     "price": {
+      "min": 5,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "农夫山泉旗下果味茶,以茶底融合果味,搭配清新亮眼的年轻化颜值包装。曾邀请TFBOYS、BIGBANG等当红偶像代言,精准锁定学生与年轻白领,适合日常解渴、佐餐与课间分享。作为品牌年轻化营销的代表之作,它是果味茶赛道高人气、高辨识度的标杆产品。",
+     "highlights": [
+      "果味茶",
+      "年轻营销"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "nfsq-nfc",
+     "name": "NFC 果汁",
+     "nameEn": "NFC Juice",
+     "type": "果汁",
+     "price": {
+      "min": 8,
+      "max": 15,
+      "label": "零售参考价"
+     },
+     "desc": "农夫山泉旗下鲜榨果汁,采用NFC非浓缩还原工艺,由鲜果直接榨取灌装,保留水果天然风味,与17.5°橙共享同一套原料哲学。适合注重配料表干净、追求新鲜口感的消费者,用于早餐与轻食搭配。作为国内NFC果汁普及的重要推手,它抬升了果汁品类的品质标准。",
+     "highlights": [
+      "NFC鲜榨",
+      "17.5°橙"
+     ],
+     "tags": [
+      "果汁"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "genki",
+   "name": "元气森林",
+   "nameEn": "Genki Forest",
+   "domain": "chi-forest.com",
+   "categoryId": "food",
+   "country": "中国",
+   "founded": 2016,
+   "hq": "北京",
+   "tier": "大众",
+   "sub": "饮料",
+   "tags": [
+    "0糖",
+    "气泡水",
+    "新消费"
+   ],
+   "slogan": "0糖0脂0卡",
+   "desc": "新消费神话:用\"0糖0脂0卡\"的气泡水四年做到百亿估值,把赤藓糖醇带火了全国。",
+   "story": "2016年唐彬森(智明星通创始人)跨界做饮料,绿白瓶气泡水靠便利店冰柜+小红书种草打法引爆。代糖赤藓糖醇随之脱销,传统饮料巨头纷纷跟进无糖线。\n虽经历供应链与舆论风波,但外星人电解质水、纤茶等新品线仍在扩张,\"饮料界的互联网公司\"名不虚传。",
+   "products": [
+    {
+     "id": "genki-sparkling",
+     "name": "元气水气泡水",
+     "nameEn": "Sparkling Water",
+     "type": "气泡水",
+     "price": {
+      "min": 5,
+      "max": 8,
+      "label": "零售参考价"
+     },
+     "desc": "元气森林的开山之作,定位0糖气泡水,以赤藓糖醇代糖,提供白桃、青提、卡曼橘等多种口味,气泡足、口感清爽。适合控糖减脂人群与碳酸饮料替代场景,覆盖办公、佐餐、运动后等日常。作为0糖快乐水的开山之作,它掀起了国内无糖气泡水的消费风潮。",
+     "highlights": [
+      "赤藓糖醇",
+      "多口味"
+     ],
+     "tags": [
+      "气泡水"
+     ]
+    },
+    {
+     "id": "genki-alien",
+     "name": "外星人电解质水",
+     "nameEn": "Alien Electrolyte",
+     "type": "电解质水",
+     "price": {
+      "min": 5,
+      "max": 10,
+      "label": "零售参考价"
+     },
+     "desc": "元气森林旗下功能饮料品牌,外星人电解质水主打运动出汗后补充水分与电解质,口味清淡易入口。适合健身、跑步、户外等运动场景,也覆盖日常补水需求。2022年疫情期间一度爆卖,迅速跻身功能水新贵,是元气森林从气泡水向功能饮料拓展的关键布局。",
+     "highlights": [
+      "电解质",
+      "运动场景"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    },
+    {
+     "id": "genki-fiber",
+     "name": "纤茶",
+     "nameEn": "Fiber Tea",
+     "type": "植物茶",
+     "price": {
+      "min": 5,
+      "max": 10,
+      "label": "零售参考价"
+     },
+     "desc": "元气森林旗下植物茶饮,以玉米须、桑叶等草本植物为原料,主打功能性养生概念,口感清淡回甘。适合关注养生、追求轻负担饮品的年轻人,可在办公、下午茶等场景替代含糖饮料。作为品牌向健康养生方向的延伸,它是年轻人轻养生潮流中的新宠。",
+     "highlights": [
+      "植物功能性",
+      "养生向"
+     ],
+     "tags": [
+      "茶"
+     ]
+    },
+    {
+     "id": "genki-milktea",
+     "name": "乳茶",
+     "nameEn": "Milk Tea",
+     "type": "奶茶饮料",
+     "price": {
+      "min": 5,
+      "max": 10,
+      "label": "零售参考价"
+     },
+     "desc": "元气森林旗下奶茶饮料,定位低负担的甜,以乳与茶搭配,主打奶茶平替概念。曾在0蔗糖宣传上引发争议,此后配方改良,更强调配料透明。适合喜欢奶茶口感又担心热量的年轻消费者,用于下午茶或追剧场景。这场争议也成为食品标签营销规范化的标志性案例。",
+     "highlights": [
+      "低负担",
+      "奶茶平替"
+     ],
+     "tags": [
+      "饮料"
+     ]
+    }
+   ]
+  }
+ ]
 }

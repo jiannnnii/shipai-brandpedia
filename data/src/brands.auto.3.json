@@ -1,3066 +1,3066 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "alfa-romeo",
+   "name": "阿尔法·罗密欧",
+   "nameEn": "Alfa Romeo",
+   "domain": "alfaromeo.com",
+   "categoryId": "auto",
+   "country": "意大利",
+   "founded": 1910,
+   "hq": "都灵",
+   "tier": "豪华",
+   "sub": "性能",
+   "tags": [
+    "意式设计",
+    "运动操控",
+    "赛道血统"
+   ],
+   "slogan": "运动之心 Cuore Sportivo",
+   "desc": "意大利百年运动车厂,以极致操控与赛道基因闻名于世,曾走出恩佐·法拉利,现属Stellantis集团,是少数坚持纯粹驾驶乐趣的欧洲品牌。",
+   "story": "1910年,ALFA诞生于米兰,早年在欧洲大奖赛与勒芒赛场屡建奇功,年轻的恩佐·法拉利正是从这里开启赛车生涯,赛道血统自此刻入品牌骨血。战后Giulia、Spider等经典车型把意式美学与驾驶乐趣带向全球。\n如今阿尔法·罗密欧隶属Stellantis集团,以Giulia、Stelvio等车型延续运动基因,绿色四叶草标志仍是高性能的象征,在车迷心中始终是开过就懂的情人座驾。",
+   "products": [
     {
-      "id": "alfa-romeo",
-      "name": "阿尔法·罗密欧",
-      "nameEn": "Alfa Romeo",
-      "domain": "alfaromeo.com",
-      "categoryId": "auto",
-      "country": "意大利",
-      "founded": 1910,
-      "hq": "都灵",
-      "tier": "豪华",
-      "sub": "性能",
-      "tags": [
-        "意式设计",
-        "运动操控",
-        "赛道血统"
-      ],
-      "slogan": "运动之心 Cuore Sportivo",
-      "desc": "意大利百年运动车厂,以极致操控与赛道基因闻名于世,曾走出恩佐·法拉利,现属Stellantis集团,是少数坚持纯粹驾驶乐趣的欧洲品牌。",
-      "story": "1910年,ALFA诞生于米兰,早年在欧洲大奖赛与勒芒赛场屡建奇功,年轻的恩佐·法拉利正是从这里开启赛车生涯,赛道血统自此刻入品牌骨血。战后Giulia、Spider等经典车型把意式美学与驾驶乐趣带向全球。\n如今阿尔法·罗密欧隶属Stellantis集团,以Giulia、Stelvio等车型延续运动基因,绿色四叶草标志仍是高性能的象征,在车迷心中始终是开过就懂的情人座驾。",
-      "products": [
-        {
-          "id": "alfa-romeo-giulia",
-          "name": "Giulia",
-          "nameEn": "Giulia",
-          "type": "中型轿车",
-          "price": {
-            "min": 360000,
-            "max": 470000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "前置后驱运动轿车,2.0T配ZF 8AT,转向与底盘调校同级顶尖,高性能四叶草版搭载源自法拉利技术的2.9T V6。",
-          "highlights": [
-            "后驱操控",
-            "ZF 8AT",
-            "四叶草V6版本"
-          ],
-          "tags": [
-            "运动",
-            "进口"
-          ],
-          "image": null
-        },
-        {
-          "id": "alfa-romeo-stelvio",
-          "name": "Stelvio",
-          "nameEn": "Stelvio",
-          "type": "中型SUV",
-          "price": {
-            "min": 440000,
-            "max": 580000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌首款SUV,与Giulia同源平台,公路操控出色,四叶草版曾以2.9T V6创下纽北量产SUV圈速纪录。",
-          "highlights": [
-            "纽北SUV纪录",
-            "同源操控平台",
-            "四叶草V6"
-          ],
-          "tags": [
-            "运动",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "alfa-romeo-tonale",
-          "name": "Tonale",
-          "nameEn": "Tonale",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 260000,
-            "max": 330000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌入门紧凑型SUV,提供轻混与插混动力,延续家族倒三角格栅与意式设计,定价更亲民。",
-          "highlights": [
-            "插混可选",
-            "意式设计",
-            "品牌入门"
-          ],
-          "tags": [
-            "SUV",
-            "豪华"
-          ],
-          "image": null
-        },
-        {
-          "id": "alfa-romeo-junior",
-          "name": "Junior",
-          "nameEn": "Junior",
-          "type": "小型SUV",
-          "price": {
-            "min": 260000,
-            "max": 360000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "2024年发布的全新小型SUV,基于eCMP平台,提供轻混与纯电动力,是品牌进军紧凑细分市场的新锐之作。",
-          "highlights": [
-            "纯电可选",
-            "eCMP平台",
-            "新生代车型"
-          ],
-          "tags": [
-            "SUV",
-            "新锐"
-          ],
-          "image": null
-        },
-        {
-          "id": "alfa-romeo-giulietta",
-          "name": "Giulietta",
-          "nameEn": "Giulietta",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 150000,
-            "max": 250000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "经典紧凑型两厢车,2010至2020年在产,以精致设计与欧系操控著称,是阿尔法·罗密欧的入门经典。",
-          "highlights": [
-            "经典两厢",
-            "欧系操控",
-            "十年经典"
-          ],
-          "tags": [
-            "经典",
-            "运动"
-          ],
-          "image": null
-        },
-        {
-          "id": "alfa-romeo-4c",
-          "name": "4C",
-          "nameEn": "4C",
-          "type": "跑车",
-          "price": {
-            "min": 500000,
-            "max": 800000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "中置后驱双座跑车,碳纤维单体壳车身与轻量化1.75T动力,是品牌重返跑车领域的宣言之作。",
-          "highlights": [
-            "碳纤维车身",
-            "中置后驱",
-            "轻量化"
-          ],
-          "tags": [
-            "跑车",
-            "经典"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-giulia",
+     "name": "Giulia",
+     "nameEn": "Giulia",
+     "type": "中型轿车",
+     "price": {
+      "min": 360000,
+      "max": 470000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧中型运动轿车,前置后驱布局,2.0T配ZF 8AT,转向与底盘调校同级顶尖,操控性能备受推崇。高性能四叶草版搭载源自法拉利技术的2.9T V6。适合驾驶爱好者与意式性能拥趸,是品牌百年运动精神的当代载体。",
+     "highlights": [
+      "后驱操控",
+      "ZF 8AT",
+      "四叶草V6版本"
+     ],
+     "tags": [
+      "运动",
+      "进口"
+     ],
+     "image": null
     },
     {
-      "id": "tesla",
-      "name": "特斯拉",
-      "nameEn": "Tesla",
-      "domain": "tesla.com",
-      "categoryId": "auto",
-      "country": "美国",
-      "founded": 2003,
-      "hq": "奥斯汀",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "纯电标杆",
-        "智能驾驶",
-        "超充网络"
-      ],
-      "slogan": "加速世界向可持续能源的转变",
-      "desc": "全球智能纯电动车的开创者,以Autopilot辅助驾驶、超级工厂与超充网络闻名,Model Y常年位居全球车型销量榜首,定义了电动车行业标准。",
-      "story": "2003年,特斯拉创立于美国加州,以Roadster证明电动车可以又快又酷;马斯克入主后接连推出Model S/X/3/Y,用一体化压铸、直营模式与超充网络重塑汽车行业,成为全球市值最高的车企。\n上海超级工厂是特斯拉最重要的生产基地,Model 3与Model Y从这里销往全球;FSD自动驾驶与Robotaxi是下一阶段的核心叙事,特斯拉仍在持续引领智能电动浪潮。",
-      "products": [
-        {
-          "id": "tesla-model-3",
-          "name": "Model 3",
-          "nameEn": "Model 3",
-          "type": "中型轿车",
-          "price": {
-            "min": 230000,
-            "max": 340000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "全球最畅销纯电轿车之一,极简内饰与一体化压铸工艺,长续航版续航超700公里,是电动车价值标杆。",
-          "highlights": [
-            "全球畅销",
-            "续航700km+",
-            "Autopilot"
-          ],
-          "tags": [
-            "纯电",
-            "科技"
-          ],
-          "image": null
-        },
-        {
-          "id": "tesla-model-y",
-          "name": "Model Y",
-          "nameEn": "Model Y",
-          "type": "中型SUV",
-          "price": {
-            "min": 260000,
-            "max": 340000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "全球销量第一的SUV,空间实用、能耗出色、补能便捷,上海超级工厂制造,常年霸榜各国销量榜。",
-          "highlights": [
-            "全球销冠",
-            "超充网络",
-            "一体压铸"
-          ],
-          "tags": [
-            "纯电",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "tesla-model-s",
-          "name": "Model S",
-          "nameEn": "Model S",
-          "type": "中大型轿车",
-          "price": {
-            "min": 700000,
-            "max": 1010000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰纯电轿跑,Plaid三电机版百公里加速进入2秒级,曾以科技感与性能重新定义电动豪华。",
-          "highlights": [
-            "Plaid三电机",
-            "2秒级加速",
-            "17英寸中控屏"
-          ],
-          "tags": [
-            "旗舰",
-            "纯电"
-          ],
-          "image": null
-        },
-        {
-          "id": "tesla-model-x",
-          "name": "Model X",
-          "nameEn": "Model X",
-          "type": "中大型SUV",
-          "price": {
-            "min": 830000,
-            "max": 1020000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰SUV,标志性的鹰翼门与全景挡风玻璃,可选三电机Plaid版本,空气悬架与六座布局齐备。",
-          "highlights": [
-            "鹰翼门",
-            "全景挡风玻璃",
-            "Plaid可选"
-          ],
-          "tags": [
-            "旗舰",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "tesla-cybertruck",
-          "name": "Cybertruck",
-          "nameEn": "Cybertruck",
-          "type": "皮卡",
-          "price": {
-            "min": 600000,
-            "max": 800000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "不锈钢外骨骼纯电皮卡,赛博朋克式造型极具争议,搭载线控转向与四轮转向,主要在美国市场销售。",
-          "highlights": [
-            "不锈钢外骨骼",
-            "线控转向",
-            "赛博造型"
-          ],
-          "tags": [
-            "皮卡",
-            "未来感"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-stelvio",
+     "name": "Stelvio",
+     "nameEn": "Stelvio",
+     "type": "中型SUV",
+     "price": {
+      "min": 440000,
+      "max": 580000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧首款SUV,与Giulia同源平台,公路操控在SUV中出类拔萃。四叶草版以2.9T V6创下纽博格林北环量产SUV圈速纪录,性能地位显赫。适合追求跑车化驾驶体验的SUV买家,是意式激情与实用性的结合体。",
+     "highlights": [
+      "纽北SUV纪录",
+      "同源操控平台",
+      "四叶草V6"
+     ],
+     "tags": [
+      "运动",
+      "SUV"
+     ],
+     "image": null
     },
     {
-      "id": "byd",
-      "name": "比亚迪",
-      "nameEn": "BYD",
-      "domain": "byd.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1995,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "新能源",
-      "tags": [
-        "新能源",
-        "刀片电池",
-        "全产业链"
-      ],
-      "slogan": "成就你的梦想",
-      "desc": "全球新能源汽车销量冠军,从电池大王成长为掌握电池、电机、电控整车全产业链的车企,刀片电池与DM混动技术领先,王朝与海洋系列家喻户晓。",
-      "story": "1995年,王传福在深圳创办比亚迪,以电池起家;2003年收购秦川汽车进入整车行业,坚持磷酸铁锂技术路线,2022年3月全球率先停产燃油车,全面转向新能源。\n凭借刀片电池、DM-i超级混动与e平台,比亚迪销量连年跨越,2024年以约427万辆蝉联全球新能源销量冠军,海外工厂相继落子,成为中国智造出海的闪亮名片。",
-      "products": [
-        {
-          "id": "byd-qin-plus",
-          "name": "秦PLUS",
-          "nameEn": "Qin PLUS",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 70000,
-            "max": 130000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "DM-i混动国民家轿,亏电油耗低至百公里3.8升,以油电同价策略重塑紧凑家轿市场,常年位居轿车销量榜前列。",
-          "highlights": [
-            "DM-i混动",
-            "低油耗",
-            "油电同价"
-          ],
-          "tags": [
-            "混动",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-han",
-          "name": "汉",
-          "nameEn": "Han",
-          "type": "中大型轿车",
-          "price": {
-            "min": 160000,
-            "max": 280000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰轿车,EV与DM双动力,刀片电池首搭车型,龙颜设计出自前奥迪设计师之手,豪华与性能兼备。",
-          "highlights": [
-            "刀片电池首搭",
-            "龙颜设计",
-            "3秒级加速"
-          ],
-          "tags": [
-            "旗舰",
-            "新能源"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-tang",
-          "name": "唐",
-          "nameEn": "Tang",
-          "type": "中型SUV",
-          "price": {
-            "min": 180000,
-            "max": 270000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "七座中型SUV,DM-i/DM-p混动为主并提供纯电版本,空间灵活配置丰富,是家庭多口之家的主力之选。",
-          "highlights": [
-            "七座布局",
-            "DM混动",
-            "刀片电池"
-          ],
-          "tags": [
-            "家用",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-song-plus",
-          "name": "宋PLUS",
-          "nameEn": "Song PLUS",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 110000,
-            "max": 180000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌销量支柱之一,DM-i插混与纯电双动力,空间、能耗与配置平衡出色,长期位居SUV销量榜前列。",
-          "highlights": [
-            "DM-i插混",
-            "双动力",
-            "销量担当"
-          ],
-          "tags": [
-            "家用",
-            "混动"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-yuan-plus",
-          "name": "元PLUS",
-          "nameEn": "Yuan PLUS",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 110000,
-            "max": 150000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "e平台3.0纯电紧凑SUV,健身房主题内饰个性十足,以ATTO 3之名出口海外,在多国市场热销。",
-          "highlights": [
-            "e平台3.0",
-            "海外热销",
-            "年轻内饰"
-          ],
-          "tags": [
-            "纯电",
-            "年轻"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-seagull",
-          "name": "海鸥",
-          "nameEn": "Seagull",
-          "type": "小型车",
-          "price": {
-            "min": 60000,
-            "max": 90000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "六万级纯电小型车,标配四安全气囊与刀片电池,以安全与配置重新定义代步车价值,常年霸榜小车市场。",
-          "highlights": [
-            "标配4气囊",
-            "刀片电池",
-            "代步标杆"
-          ],
-          "tags": [
-            "代步",
-            "纯电"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-dolphin",
-          "name": "海豚",
-          "nameEn": "Dolphin",
-          "type": "小型车",
-          "price": {
-            "min": 100000,
-            "max": 130000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "海洋系列纯电两厢车,e平台3.0打造,灵动造型与轻快驾驶感受深受年轻用户,是城市通勤的热门之选。",
-          "highlights": [
-            "e平台3.0",
-            "海洋美学",
-            "城市通勤"
-          ],
-          "tags": [
-            "纯电",
-            "时尚"
-          ],
-          "image": null
-        },
-        {
-          "id": "byd-seal",
-          "name": "海豹",
-          "nameEn": "Seal",
-          "type": "中型轿车",
-          "price": {
-            "min": 170000,
-            "max": 240000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "海洋美学纯电轿跑,首搭CTB电池车身一体化技术,四驱版百公里加速3.8秒,运动与续航兼顾。",
-          "highlights": [
-            "CTB一体化",
-            "3.8秒破百",
-            "iTAC"
-          ],
-          "tags": [
-            "纯电",
-            "运动"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-tonale",
+     "name": "Tonale",
+     "nameEn": "Tonale",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 260000,
+      "max": 330000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧入门紧凑型SUV,提供轻混与插电混动动力,延续家族标志性倒三角格栅与意式设计语言,定价更亲民。适合首次接触该品牌、兼顾日常代步与新能源需求的都市用户,是品牌电动化转型的先行者。",
+     "highlights": [
+      "插混可选",
+      "意式设计",
+      "品牌入门"
+     ],
+     "tags": [
+      "SUV",
+      "豪华"
+     ],
+     "image": null
     },
     {
-      "id": "nio",
-      "name": "蔚来",
-      "nameEn": "NIO",
-      "domain": "nio.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2014,
-      "hq": "上海",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "换电",
-        "智能电动",
-        "用户企业"
-      ],
-      "slogan": "Blue Sky Coming",
-      "desc": "中国高端智能电动车代表,以可充可换可升级的换电体系、NOMI伙伴与用户社区著称,旗下拥有蔚来、乐道、萤火虫多品牌矩阵。",
-      "story": "2014年,李斌在上海创办蔚来,以电动超跑EP9和FE电动方程式冠军声名鹊起;2018年登陆纽交所,经历至暗时刻后于2020年获得合肥国资注资,起死回生。\n蔚来坚持换电路线,换电站数量已超三千座,以NIO House与优质服务构建用户生态,并推出乐道、萤火虫覆盖更多市场,是高端纯电领域的头部玩家。",
-      "products": [
-        {
-          "id": "nio-et5",
-          "name": "ET5",
-          "nameEn": "ET5",
-          "type": "中型轿车",
-          "price": {
-            "min": 298000,
-            "max": 356000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌走量纯电轿跑,双电机四驱百公里加速4秒级,支持换电与电池灵活升级,是年轻用户的入门之选。",
-          "highlights": [
-            "换电",
-            "4秒级加速",
-            "电池租用"
-          ],
-          "tags": [
-            "纯电",
-            "轿跑"
-          ],
-          "image": null
-        },
-        {
-          "id": "nio-et5t",
-          "name": "ET5T",
-          "nameEn": "ET5T",
-          "type": "旅行车",
-          "price": {
-            "min": 298000,
-            "max": 356000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "ET5的旅行版,兼顾轿跑操控与旅行车装载能力,是同价位罕见的豪华纯电旅行车,小众而独特。",
-          "highlights": [
-            "旅行车造型",
-            "换电",
-            "大装载空间"
-          ],
-          "tags": [
-            "纯电",
-            "旅行车"
-          ],
-          "image": null
-        },
-        {
-          "id": "nio-et7",
-          "name": "ET7",
-          "nameEn": "ET7",
-          "type": "中大型轿车",
-          "price": {
-            "min": 428000,
-            "max": 520000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰行政轿车,首发NIO Aquila超感系统与激光雷达,空气悬架标配,对标传统豪华品牌大型轿车。",
-          "highlights": [
-            "激光雷达首发",
-            "空气悬架",
-            "行政旗舰"
-          ],
-          "tags": [
-            "旗舰",
-            "行政"
-          ],
-          "image": null
-        },
-        {
-          "id": "nio-es6",
-          "name": "ES6",
-          "nameEn": "ES6",
-          "type": "中型SUV",
-          "price": {
-            "min": 338000,
-            "max": 396000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌主力中型纯电SUV,第二代技术平台集大成之作,支持换电与高阶辅助驾驶,空间与舒适性出色。",
-          "highlights": [
-            "NT2.0平台",
-            "换电",
-            "舒适座舱"
-          ],
-          "tags": [
-            "纯电",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "nio-es8",
-          "name": "ES8",
-          "nameEn": "ES8",
-          "type": "大型SUV",
-          "price": {
-            "min": 498000,
-            "max": 638000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌创始旗舰大型SUV,六座七座布局,双电机四驱,定位中国家庭高端纯电旗舰,承载蔚来品牌向上的初心。",
-          "highlights": [
-            "旗舰SUV",
-            "六/七座",
-            "换电"
-          ],
-          "tags": [
-            "旗舰",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-junior",
+     "name": "Junior",
+     "nameEn": "Junior",
+     "type": "小型SUV",
+     "price": {
+      "min": 260000,
+      "max": 360000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧2024年发布的全新小型SUV,基于eCMP平台打造,提供轻混与纯电动力,是品牌进军小型电动化细分市场的新锐之作。适合年轻都市用户与新能源尝鲜者,标志着这一百年意式品牌的年轻化新篇章。",
+     "highlights": [
+      "纯电可选",
+      "eCMP平台",
+      "新生代车型"
+     ],
+     "tags": [
+      "SUV",
+      "新锐"
+     ],
+     "image": null
     },
     {
-      "id": "xpeng",
-      "name": "小鹏",
-      "nameEn": "XPeng",
-      "domain": "xiaopeng.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2014,
-      "hq": "广州",
-      "tier": "大众",
-      "sub": "新能源",
-      "tags": [
-        "全栈智驾",
-        "纯电",
-        "科技范"
-      ],
-      "slogan": "未来出行探索者",
-      "desc": "以全栈自研智能辅助驾驶著称的互联网车企,XNGP覆盖全国道路,MONA M03与P7+推动智驾平权,并向大众等车企输出智能技术。",
-      "story": "2014年,何小鹏联合创立小鹏汽车,从肇庆工厂起步,2020年登陆纽交所、次年回港双重上市,是中国智驾全栈自研路线的代表车企。\n2024年起,MONA M03、P7+连续成为爆款,销量重回快车道;小鹏还与大众达成技术合作,输出纯电平台与智能驾驶技术,开创中国车企技术反向输出的先河。",
-      "products": [
-        {
-          "id": "xpeng-p7",
-          "name": "P7",
-          "nameEn": "P7",
-          "type": "中型轿车",
-          "price": {
-            "min": 200000,
-            "max": 310000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌标识级纯电轿跑,初代以鹏翼门与智能座舱出圈,全新一代延续科技与运动基因,是品牌图腾车型。",
-          "highlights": [
-            "鹏翼门版",
-            "轿跑造型",
-            "智能座舱"
-          ],
-          "tags": [
-            "纯电",
-            "运动"
-          ],
-          "image": null
-        },
-        {
-          "id": "xpeng-p7-plus",
-          "name": "P7+",
-          "nameEn": "P7+",
-          "type": "中型轿车",
-          "price": {
-            "min": 180000,
-            "max": 220000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "首发鹰眼视觉智驾方案,不依赖激光雷达实现高阶智驾,全系智驾标配,是18万级智能轿车标杆。",
-          "highlights": [
-            "纯视觉智驾",
-            "全系高阶智驾",
-            "高性价比"
-          ],
-          "tags": [
-            "纯电",
-            "智驾"
-          ],
-          "image": null
-        },
-        {
-          "id": "xpeng-mona-m03",
-          "name": "小鹏MONA M03",
-          "nameEn": "MONA M03",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 120000,
-            "max": 160000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "11万级高颜值纯电轿跑,上市即成爆款,把高阶智能辅助驾驶带入15万以内市场,销量屡创新高。",
-          "highlights": [
-            "智驾平权",
-            "轿跑颜值",
-            "销量爆款"
-          ],
-          "tags": [
-            "纯电",
-            "爆款"
-          ],
-          "image": null
-        },
-        {
-          "id": "xpeng-g6",
-          "name": "G6",
-          "nameEn": "G6",
-          "type": "中型SUV",
-          "price": {
-            "min": 170000,
-            "max": 220000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "扶摇架构纯电SUV,800V高压平台加持,充电5分钟补充续航200公里,智驾与续航都给到20万级。",
-          "highlights": [
-            "800V平台",
-            "5分钟补能200km",
-            "扶摇架构"
-          ],
-          "tags": [
-            "纯电",
-            "科技"
-          ],
-          "image": null
-        },
-        {
-          "id": "xpeng-g9",
-          "name": "G9",
-          "nameEn": "G9",
-          "type": "中大型SUV",
-          "price": {
-            "min": 240000,
-            "max": 360000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰大五座SUV,800V高压SiC平台与双腔空气悬架,XNGP全场景智能辅助驾驶加持。",
-          "highlights": [
-            "800V平台",
-            "双腔空悬",
-            "XNGP智驾"
-          ],
-          "tags": [
-            "旗舰",
-            "纯电"
-          ],
-          "image": null
-        },
-        {
-          "id": "xpeng-x9",
-          "name": "X9",
-          "nameEn": "X9",
-          "type": "大型MPV",
-          "price": {
-            "min": 360000,
-            "max": 420000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌纯电旗舰MPV,标配后轮转向,大车身也能灵活穿行,800V超快充,重新定义高端纯电MPV。",
-          "highlights": [
-            "后轮转向",
-            "800V超快充",
-            "旗舰MPV"
-          ],
-          "tags": [
-            "MPV",
-            "纯电"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-giulietta",
+     "name": "Giulietta",
+     "nameEn": "Giulietta",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 150000,
+      "max": 250000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧经典紧凑型两厢车,2010至2020年在产十年,以精致设计与欧系操控著称,入门定位却不失品牌运动基因。适合欣赏意式美学与两厢驾驶乐趣的用户,是阿尔法·罗密欧近代的入门经典。",
+     "highlights": [
+      "经典两厢",
+      "欧系操控",
+      "十年经典"
+     ],
+     "tags": [
+      "经典",
+      "运动"
+     ],
+     "image": null
     },
     {
-      "id": "li-auto",
-      "name": "理想",
-      "nameEn": "Li Auto",
-      "domain": "lixiang.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2015,
-      "hq": "北京",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "增程式",
-        "家庭用车",
-        "新势力"
-      ],
-      "slogan": "创造移动的家,创造幸福的家",
-      "desc": "专注家庭用户的智能电动车企,以增程技术化解续航焦虑,冰箱彩电大沙发的产品定义深入人心,是率先实现稳定盈利的头部新势力。",
-      "story": "2015年,李想在北京创办车和家,2019年理想ONE上市,用增程式路线打通家庭SUV市场,2020年登陆纳斯达克,成为新势力中首个实现全年盈利的企业。\n理想围绕家庭场景打造L6/L7/L8/L9系列与纯电MPV MEGA,以精准的用户洞察和出色的产品定义能力著称,2023年营收率先突破千亿,稳居新势力第一梯队。",
-      "products": [
-        {
-          "id": "li-auto-one",
-          "name": "理想ONE",
-          "nameEn": "Li ONE",
-          "type": "中大型SUV",
-          "price": {
-            "min": 328000,
-            "max": 350000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌开山之作,增程式六座SUV,以没有里程焦虑打开家庭市场,迅速成为增程赛道的标杆车型。",
-          "highlights": [
-            "增程式",
-            "六座",
-            "开山之作"
-          ],
-          "tags": [
-            "增程",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "li-auto-l6",
-          "name": "理想L6",
-          "nameEn": "Li L6",
-          "type": "中型SUV",
-          "price": {
-            "min": 249800,
-            "max": 279800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "L系列五座入门款,增程双电机四驱,25万级家庭SUV热门之选,上市即成为品牌销量担当。",
-          "highlights": [
-            "增程四驱",
-            "五座",
-            "热销爆款"
-          ],
-          "tags": [
-            "增程",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "li-auto-l7",
-          "name": "理想L7",
-          "nameEn": "Li L7",
-          "type": "中大型SUV",
-          "price": {
-            "min": 300000,
-            "max": 380000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "五座家庭旗舰SUV,魔毯空气悬架与后排娱乐屏,以移动的家的理念打造舒适乘坐体验。",
-          "highlights": [
-            "魔毯空悬",
-            "五座旗舰",
-            "后排娱乐屏"
-          ],
-          "tags": [
-            "增程",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "li-auto-l8",
-          "name": "理想L8",
-          "nameEn": "Li L8",
-          "type": "中大型SUV",
-          "price": {
-            "min": 320000,
-            "max": 380000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "六座家庭SUV中坚,空间与舒适配置拉满,智能辅助驾驶全系标配,三代同堂出行的热门选择。",
-          "highlights": [
-            "六座布局",
-            "辅助驾驶标配",
-            "舒适配置"
-          ],
-          "tags": [
-            "增程",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "li-auto-l9",
-          "name": "理想L9",
-          "nameEn": "Li L9",
-          "type": "大型SUV",
-          "price": {
-            "min": 409800,
-            "max": 459800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰全尺寸六座SUV,增程综合续航超1000公里,后舱娱乐屏与车载冰箱齐备,家庭旗舰标杆。",
-          "highlights": [
-            "全尺寸六座",
-            "续航1000km+",
-            "后舱娱乐屏"
-          ],
-          "tags": [
-            "增程",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "li-auto-mega",
-          "name": "理想MEGA",
-          "nameEn": "Li MEGA",
-          "type": "MPV",
-          "price": {
-            "min": 529800,
-            "max": 559800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌纯电旗舰MPV,风阻系数低至0.215,续航超700公里,造型前卫引发全民热议,探索纯电MPV上限。",
-          "highlights": [
-            "超低风阻",
-            "续航700km+",
-            "旗舰MPV"
-          ],
-          "tags": [
-            "纯电",
-            "MPV"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "aito",
-      "name": "问界",
-      "nameEn": "AITO",
-      "domain": "aitoauto.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2021,
-      "hq": "重庆",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "鸿蒙座舱",
-        "华为智驾",
-        "增程"
-      ],
-      "slogan": "智慧重塑豪华",
-      "desc": "华为与赛力斯联手打造的高端智慧汽车品牌,搭载鸿蒙座舱与华为ADS高阶智驾,问界M9曾登顶50万元以上豪华车销量榜首。",
-      "story": "2021年,赛力斯与华为合作推出高端品牌AITO问界,首款车型M5率先搭载鸿蒙智能座舱;2023年新M7上市后大定突破10万台,成为现象级爆款。\n问界由赛力斯生产制造,华为深度参与产品定义、研发与渠道销售,依托ADS高阶智驾与鸿蒙生态迅速跻身中国豪华新能源头部阵营,是华为智选车模式的旗舰。",
-      "products": [
-        {
-          "id": "aito-m5",
-          "name": "问界M5",
-          "nameEn": "AITO M5",
-          "type": "中型SUV",
-          "price": {
-            "min": 230000,
-            "max": 280000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌开山之作,提供增程与纯电双动力,华为ADS高阶智驾与鸿蒙座舱加持,操控质感扎实。",
-          "highlights": [
-            "增程/纯电",
-            "鸿蒙座舱",
-            "华为智驾"
-          ],
-          "tags": [
-            "智驾",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "aito-m7",
-          "name": "问界M7",
-          "nameEn": "AITO M7",
-          "type": "中大型SUV",
-          "price": {
-            "min": 249800,
-            "max": 329800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "五座六座可选的增程SUV,新M7上市后大定突破10万台,空间、智驾与性价比全面爆发,现象级爆款。",
-          "highlights": [
-            "大定破10万",
-            "六座可选",
-            "ADS智驾"
-          ],
-          "tags": [
-            "增程",
-            "爆款"
-          ],
-          "image": null
-        },
-        {
-          "id": "aito-m8",
-          "name": "问界M8",
-          "nameEn": "AITO M8",
-          "type": "大型SUV",
-          "price": {
-            "min": 359800,
-            "max": 449800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "2025年发布的全尺寸旗舰SUV,衔接M7与M9之间的市场空间,豪华配置与华为ADS高阶智驾一应俱全。",
-          "highlights": [
-            "全尺寸旗舰",
-            "ADS 3.0",
-            "豪华六座"
-          ],
-          "tags": [
-            "旗舰",
-            "智驾"
-          ],
-          "image": null
-        },
-        {
-          "id": "aito-m9",
-          "name": "问界M9",
-          "nameEn": "AITO M9",
-          "type": "大型SUV",
-          "price": {
-            "min": 469800,
-            "max": 569800,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "问界旗舰,曾登顶50万元以上豪华车销量榜首,鸿蒙座舱、ADS智驾与途灵底盘,科技豪华集大成。",
-          "highlights": [
-            "50万级销冠",
-            "途灵底盘",
-            "鸿蒙座舱"
-          ],
-          "tags": [
-            "旗舰",
-            "科技"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "zeekr",
-      "name": "极氪",
-      "nameEn": "ZEEKR",
-      "domain": "zeekrlife.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2021,
-      "hq": "宁波",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "浩瀚架构",
-        "纯电",
-        "高性能"
-      ],
-      "slogan": "",
-      "desc": "吉利旗下全球高端纯电品牌,基于SEA浩瀚架构打造,001开创猎装轿跑品类,009树立纯电豪华MPV标杆,2024年登陆纽交所。",
-      "story": "2021年4月,吉利在宁波发布极氪品牌,首车001以猎装造型与三电性能出圈;2022年009上市树立纯电豪华MPV标杆,2024年5月极氪登陆纽交所,是成立到上市最快的新能源车企之一。\n极氪整合吉利在架构、三电与安全上的深厚积累,产品覆盖轿车、SUV与MPV,年销量突破22万台,并与领克整合为极氪科技集团,加速全球化布局。",
-      "products": [
-        {
-          "id": "zeekr-001",
-          "name": "极氪001",
-          "nameEn": "ZEEKR 001",
-          "type": "中大型轿车",
-          "price": {
-            "min": 259000,
-            "max": 329000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "猎装轿跑开山之作,浩瀚架构首款量产车,双电机四驱3.8秒破百,是极氪最具辨识度的图腾车型。",
-          "highlights": [
-            "猎装造型",
-            "浩瀚架构",
-            "3.8秒破百"
-          ],
-          "tags": [
-            "纯电",
-            "性能"
-          ],
-          "image": null
-        },
-        {
-          "id": "zeekr-007",
-          "name": "极氪007",
-          "nameEn": "ZEEKR 007",
-          "type": "中型轿车",
-          "price": {
-            "min": 209000,
-            "max": 299000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "800V高压平台纯电轿车,首搭金砖电池,CLTC续航最高870公里,豪华质感与性能兼备。",
-          "highlights": [
-            "金砖电池",
-            "续航870km",
-            "800V平台"
-          ],
-          "tags": [
-            "纯电",
-            "性能"
-          ],
-          "image": null
-        },
-        {
-          "id": "zeekr-009",
-          "name": "极氪009",
-          "nameEn": "ZEEKR 009",
-          "type": "大型MPV",
-          "price": {
-            "min": 439000,
-            "max": 790000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "纯电豪华MPV标杆,全球首搭麒麟电池,座椅舒适性与静谧性出色,光辉版向百万级市场发起冲击。",
-          "highlights": [
-            "麒麟电池首搭",
-            "豪华MPV",
-            "光辉版"
-          ],
-          "tags": [
-            "MPV",
-            "豪华"
-          ],
-          "image": null
-        },
-        {
-          "id": "zeekr-x",
-          "name": "极氪X",
-          "nameEn": "ZEEKR X",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 190000,
-            "max": 230000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "浩瀚架构都市纯电SUV,可滑移中控屏等巧思设计,欧系调校操控灵动,是精致个性化的都市座驾。",
-          "highlights": [
-            "滑移智慧屏",
-            "灵动操控",
-            "都市精致"
-          ],
-          "tags": [
-            "纯电",
-            "都市"
-          ],
-          "image": null
-        },
-        {
-          "id": "zeekr-7x",
-          "name": "极氪7X",
-          "nameEn": "ZEEKR 7X",
-          "type": "中型SUV",
-          "price": {
-            "min": 229900,
-            "max": 269900,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌家用取向纯电SUV,800V高压平台,最长续航超800公里,空间、安全与舒适表现均衡。",
-          "highlights": [
-            "800V平台",
-            "续航800km+",
-            "家用均衡"
-          ],
-          "tags": [
-            "纯电",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "xiaomi-auto",
-      "name": "小米汽车",
-      "nameEn": "Xiaomi Auto",
-      "domain": "xiaomiev.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2021,
-      "hq": "北京",
-      "tier": "大众",
-      "sub": "新能源",
-      "tags": [
-        "人车家生态",
-        "高性能",
-        "现象级"
-      ],
-      "slogan": "人车家全生态",
-      "desc": "小米集团旗下智能电动车业务,首款车型SU7上市即爆单,以高性能、智能生态与强大流量营销刷新行业纪录,是科技跨界造车的代表。",
-      "story": "2021年3月,雷军宣布小米进军造车,首期投入100亿元,总部设于北京亦庄;2024年3月首款车型SU7上市,24小时大定近9万台,当年交付超13万辆,成为现象级爆款。\n2025年SU7 Ultra以三电机性能标杆形象再掀话题,第二款车型YU7上市即爆单、大定迅速突破20万台,小米以人车家全生态战略切入汽车业,成为科技企业跨界造车最成功的样本。",
-      "products": [
-        {
-          "id": "xiaomi-auto-su7",
-          "name": "SU7",
-          "nameEn": "SU7",
-          "type": "中大型轿车",
-          "price": {
-            "min": 215900,
-            "max": 299900,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "小米首款车型,800V碳化硅平台,风阻系数低至0.195,上市即爆单,性能、颜值与生态三线在线。",
-          "highlights": [
-            "800V平台",
-            "0.195风阻",
-            "人车家生态"
-          ],
-          "tags": [
-            "纯电",
-            "现象级"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-auto-su7-ultra",
-          "name": "SU7 Ultra",
-          "nameEn": "SU7 Ultra",
-          "type": "中大型轿车",
-          "price": {
-            "min": 529900,
-            "max": 529900,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "SU7高性能版,三电机综合功率1548马力,百公里加速1.98秒,创下纽北最速四门量产车圈速纪录。",
-          "highlights": [
-            "1548马力",
-            "1.98秒破百",
-            "纽北圈速纪录"
-          ],
-          "tags": [
-            "性能",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "xiaomi-auto-yu7",
-          "name": "YU7",
-          "nameEn": "YU7",
-          "type": "中大型SUV",
-          "price": {
-            "min": 253500,
-            "max": 329900,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "小米首款SUV,延续家族设计语言,上市即爆单、大定迅速突破20万台,人气与实力兼具的新车。",
-          "highlights": [
-            "大定破20万",
-            "800V平台",
-            "家族设计"
-          ],
-          "tags": [
-            "纯电",
-            "爆款"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "im-motors",
-      "name": "智己",
-      "nameEn": "IM Motors",
-      "domain": "im-motors.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2020,
-      "hq": "上海",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "数字底盘",
-        "智能驾驶",
-        "上汽背书"
-      ],
-      "slogan": "",
-      "desc": "上汽集团联合张江高科与阿里巴巴打造的高端智能电动品牌,以灵蜥数字底盘、准900V平台与智驾体验见长,是上汽新能源转型的排头兵。",
-      "story": "2020年12月,上汽集团、张江高科与阿里巴巴联合宣布成立高端智能电动品牌智己汽车,总部位于上海;次年发布L7与LS7,切入40万元级智能豪华市场。\n智己以智慧数字底盘与高压平台为技术标签,后来L6、LS6下探20万元级走量,灵蜥数字底盘与固态电池等新技术持续落地,销量稳步爬升。",
-      "products": [
-        {
-          "id": "im-motors-l6",
-          "name": "智己L6",
-          "nameEn": "IM L6",
-          "type": "中大型轿车",
-          "price": {
-            "min": 210000,
-            "max": 320000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌走量智能轿跑,全球首搭灵蜥数字底盘,后轮转向灵活如小车,并推出光年固态电池版本。",
-          "highlights": [
-            "灵蜥数字底盘",
-            "后轮转向",
-            "固态电池版"
-          ],
-          "tags": [
-            "纯电",
-            "科技"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-motors-l7",
-          "name": "智己L7",
-          "nameEn": "IM L7",
-          "type": "中大型轿车",
-          "price": {
-            "min": 330000,
-            "max": 490000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌开山旗舰轿车,超低风阻车身与雨夜模式等创新细节,以豪华质感切入40万元级智能市场。",
-          "highlights": [
-            "开山旗舰",
-            "超低风阻",
-            "豪华质感"
-          ],
-          "tags": [
-            "旗舰",
-            "纯电"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-motors-ls6",
-          "name": "智己LS6",
-          "nameEn": "IM LS6",
-          "type": "中大型SUV",
-          "price": {
-            "min": 200000,
-            "max": 300000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌销量担当,准900V高压平台与激光雷达智驾,以20万级定价重塑中大型纯电SUV价值标准。",
-          "highlights": [
-            "准900V平台",
-            "激光雷达",
-            "销量担当"
-          ],
-          "tags": [
-            "纯电",
-            "智驾"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-motors-ls7",
-          "name": "智己LS7",
-          "nameEn": "IM LS7",
-          "type": "中大型SUV",
-          "price": {
-            "min": 290000,
-            "max": 460000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰大五座SUV,超大面积穹顶玻璃座舱通透敞亮,空间与舒适取向,主打豪华居家体验。",
-          "highlights": [
-            "大五座",
-            "穹顶座舱",
-            "旗舰豪华"
-          ],
-          "tags": [
-            "旗舰",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "voyah",
-      "name": "岚图",
-      "nameEn": "Voyah",
-      "domain": "voyah.com.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2020,
-      "hq": "武汉",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "央企高端",
-        "双动力",
-        "高端MPV"
-      ],
-      "slogan": "",
-      "desc": "东风汽车旗下高端智慧新能源品牌,央企背景,三年完成SUV、MPV、轿车三品类布局,梦想家在高端电动MPV市场占据重要席位。",
-      "story": "2020年,东风公司发布高端新能源品牌岚图,总部位于武汉;2021年首款车型岚图FREE上市,随后追光轿车与梦想家MPV相继推出,完成三年三品类布局。\n岚图融合东风五十余年造车底蕴与华为等生态伙伴技术,知音等新车型面向全球市场,并加速出海欧洲,被视为央国企新能源转型的标杆样本。",
-      "products": [
-        {
-          "id": "voyah-free",
-          "name": "岚图FREE",
-          "nameEn": "Voyah FREE",
-          "type": "中型SUV",
-          "price": {
-            "min": 220000,
-            "max": 270000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌开山之作,增程与纯电双动力,升降式三联屏与性能版4秒级破百,科技与驾控兼备。",
-          "highlights": [
-            "双动力",
-            "升降三联屏",
-            "4秒级破百"
-          ],
-          "tags": [
-            "新能源",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "voyah-dream",
-          "name": "岚图梦想家",
-          "nameEn": "Voyah Dream",
-          "type": "MPV",
-          "price": {
-            "min": 340000,
-            "max": 460000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "高端电动MPV先行者,纯电与插混双动力,空间与舒适配置对标百万级,服务高端商务与家庭场景。",
-          "highlights": [
-            "双动力",
-            "高端MPV",
-            "行政豪华"
-          ],
-          "tags": [
-            "MPV",
-            "豪华"
-          ],
-          "image": null
-        },
-        {
-          "id": "voyah-passion",
-          "name": "岚图追光",
-          "nameEn": "Voyah Passion",
-          "type": "中大型轿车",
-          "price": {
-            "min": 320000,
-            "max": 440000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌行政级纯电轿车,双电机四驱与空气悬架,气场与质感兼备,瞄准传统豪华行政座驾市场。",
-          "highlights": [
-            "行政旗舰",
-            "空气悬架",
-            "双电机四驱"
-          ],
-          "tags": [
-            "纯电",
-            "行政"
-          ],
-          "image": null
-        },
-        {
-          "id": "voyah-courage",
-          "name": "岚图知音",
-          "nameEn": "Voyah Courage",
-          "type": "中型SUV",
-          "price": {
-            "min": 180000,
-            "max": 260000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "面向全球市场的中型纯电SUV,可搭载华为乾崑智驾,能耗与设计年轻化,是岚图的走量新车。",
-          "highlights": [
-            "华为智驾可选",
-            "全球化车型",
-            "年轻设计"
-          ],
-          "tags": [
-            "纯电",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "avatr",
-      "name": "阿维塔",
-      "nameEn": "Avatr",
-      "domain": "avatr.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2018,
-      "hq": "重庆",
-      "tier": "豪华",
-      "sub": "新能源",
-      "tags": [
-        "CHN联手",
-        "华为智驾",
-        "情感智能"
-      ],
-      "slogan": "",
-      "desc": "长安汽车联合华为、宁德时代打造的高端智能电动品牌,CHN架构集三家之长,全系搭载华为智驾与鸿蒙座舱,主打情感智能豪华车。",
-      "story": "阿维塔科技成立于2018年,前身为长安蔚来,2021年定名阿维塔,开创长安、华为、宁德时代的CHN三方合作模式,总部位于重庆。\n2022年首款车型阿维塔11上市,阿维塔12、07相继推出;2024年阿维塔入股华为车BU新公司引望,进一步深化与华为的绑定,以独特设计与情感智能为标签。",
-      "products": [
-        {
-          "id": "avatr-11",
-          "name": "阿维塔11",
-          "nameEn": "Avatr 11",
-          "type": "中大型SUV",
-          "price": {
-            "min": 300000,
-            "max": 400000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌首款车型,CHN架构集三家之长,华为ADS智驾与宁德时代电池加持,未来感轿跑SUV造型独特。",
-          "highlights": [
-            "CHN架构",
-            "华为智驾",
-            "轿跑SUV"
-          ],
-          "tags": [
-            "智驾",
-            "豪华"
-          ],
-          "image": null
-        },
-        {
-          "id": "avatr-12",
-          "name": "阿维塔12",
-          "nameEn": "Avatr 12",
-          "type": "中大型轿车",
-          "price": {
-            "min": 260000,
-            "max": 400000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "旗舰纯电轿车,以电子外后视镜与无后舷窗的大胆设计出圈,华为ADS高阶智驾全系加持。",
-          "highlights": [
-            "电子外后视镜",
-            "无后舷窗设计",
-            "华为智驾"
-          ],
-          "tags": [
-            "旗舰",
-            "设计"
-          ],
-          "image": null
-        },
-        {
-          "id": "avatr-07",
-          "name": "阿维塔07",
-          "nameEn": "Avatr 07",
-          "type": "中型SUV",
-          "price": {
-            "min": 220000,
-            "max": 290000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "2024年发布的走量SUV,提供增程与纯电双动力,搭载华为乾崑ADS 3.0,上市即进入热销行列。",
-          "highlights": [
-            "增程/纯电",
-            "乾崑智驾",
-            "家族设计"
-          ],
-          "tags": [
-            "智驾",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "geely",
-      "name": "吉利",
-      "nameEn": "Geely",
-      "domain": "geely.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1986,
-      "hq": "杭州",
-      "tier": "大众",
-      "sub": "家用",
-      "tags": [
-        "自主龙头",
-        "全球化",
-        "架构造车"
-      ],
-      "slogan": "造每个人的精品车",
-      "desc": "中国自主品牌头部车企,2010年收购沃尔沃开启全球化征程,拥有吉利、领克、极氪等品牌,银河系列与中国星高端序列销量强劲。",
-      "story": "1986年,李书福在台州创业,1997年进军汽车行业,从豪情、美日起步快速成长;2010年收购沃尔沃轿车公司震动业界,此后又入股戴姆勒、与雷诺成立合资公司。\n吉利以CMA、SEA等模块化架构和雷神混动构建技术体系,银河新能源系列迅速上量,稳居中国车企销量前列,是自主品牌的全球化标杆。",
-      "products": [
-        {
-          "id": "geely-dihao",
-          "name": "帝豪",
-          "nameEn": "Emgrand",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 60000,
-            "max": 100000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "国民家轿常青树,家族累计销量数百万辆,可靠耐用、养车便宜,是首次购车家庭的经典之选。",
-          "highlights": [
-            "常青树",
-            "经济耐用",
-            "高性价比"
-          ],
-          "tags": [
-            "家轿",
-            "国民"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-xingrui",
-          "name": "星瑞",
-          "nameEn": "Xingrui",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 100000,
-            "max": 160000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "家轿颠覆者,CMA架构紧凑级轿车,搭载2.0T发动机,尺寸、配置与做工全面越级。",
-          "highlights": [
-            "CMA架构",
-            "2.0T动力",
-            "越级配置"
-          ],
-          "tags": [
-            "家轿",
-            "运动"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-xingyue-l",
-          "name": "星越L",
-          "nameEn": "Xingyue L",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 130000,
-            "max": 190000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "燃油SUV价值标杆,CMA架构打造,2.0T配爱信8AT,尺寸与豪华感直逼更高级别车型。",
-          "highlights": [
-            "CMA架构",
-            "爱信8AT",
-            "越级尺寸"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-boyue-l",
-          "name": "博越L",
-          "nameEn": "Boyue L",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 110000,
-            "max": 160000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "博越家族新一代主力,CMA架构打造,可选雷神混动,智能化配置丰富,延续国民SUV口碑。",
-          "highlights": [
-            "CMA架构",
-            "混动可选",
-            "国民口碑"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-yinhe-l7",
-          "name": "银河L7",
-          "nameEn": "Galaxy L7",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 120000,
-            "max": 170000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "银河系列首款车型,搭载雷神电混,综合续航超1300公里,智能座舱与电混体验兼顾。",
-          "highlights": [
-            "雷神电混",
-            "续航1300km+",
-            "智能座舱"
-          ],
-          "tags": [
-            "混动",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-yinhe-e5",
-          "name": "银河E5",
-          "nameEn": "Galaxy E5",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 110000,
-            "max": 150000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "GEA架构纯电全球车,首搭神盾短刀电池,空间利用率出色,上市后迅速月销破万。",
-          "highlights": [
-            "神盾短刀电池",
-            "GEA架构",
-            "全球车"
-          ],
-          "tags": [
-            "纯电",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-xingyuan",
-          "name": "星愿",
-          "nameEn": "Xingyuan",
-          "type": "小型车",
-          "price": {
-            "min": 70000,
-            "max": 100000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "A0级纯电小车黑马,后置后驱布局,空间与配置越级,上市即跻身新能源轿车销量榜前列。",
-          "highlights": [
-            "后驱布局",
-            "A0级",
-            "销量黑马"
-          ],
-          "tags": [
-            "纯电",
-            "代步"
-          ],
-          "image": null
-        },
-        {
-          "id": "geely-panda",
-          "name": "熊猫",
-          "nameEn": "Panda",
-          "type": "微型车",
-          "price": {
-            "min": 30000,
-            "max": 60000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "三万级国民代步微型电车,小巧灵活、好停好开,是城市通勤与买菜接娃的实惠之选。",
-          "highlights": [
-            "国民代步",
-            "超低售价",
-            "小巧灵活"
-          ],
-          "tags": [
-            "代步",
-            "国民"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "lynk-co",
-      "name": "领克",
-      "nameEn": "Lynk & Co",
-      "domain": "lynkco.com",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2016,
-      "hq": "杭州",
-      "tier": "大众",
-      "sub": "性能",
-      "tags": [
-        "年轻运动",
-        "潮流社群",
-        "CMA架构"
-      ],
-      "slogan": "",
-      "desc": "吉利与沃尔沃联合打造的高端品牌,诞生于CMA架构,以都市对立美学设计与运动驾控著称,领克03+开创中国品牌性能车先河。",
-      "story": "2016年,领克在德国柏林全球发布,由吉利与沃尔沃联合开发的CMA架构孕育,2017年首款车型领克01上市;领克03赛车随后在WTCR房车世界杯夺冠,03+更成为国产性能车标杆。\n领克以都市对立美学和Co客社群文化独树一帜,2024年与极氪整合为极氪科技集团,EM-P电混与Z系列纯电双线并进,并借欧洲战略加速出海。",
-      "products": [
-        {
-          "id": "lynk-co-01",
-          "name": "领克01",
-          "nameEn": "Lynk & Co 01",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 160000,
-            "max": 220000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌开山之作,CMA架构与沃尔沃同源动力,做工用料越级,见证中国高端品牌的起步。",
-          "highlights": [
-            "CMA架构",
-            "沃尔沃同源",
-            "开山之作"
-          ],
-          "tags": [
-            "SUV",
-            "品质"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-03",
-          "name": "领克03",
-          "nameEn": "Lynk & Co 03",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 120000,
-            "max": 200000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌运动轿车,领克03 TCR赛车曾问鼎WTCR世界冠军,03+性能版深受中国年轻玩家追捧。",
-          "highlights": [
-            "WTCR冠军",
-            "03+性能版",
-            "运动基因"
-          ],
-          "tags": [
-            "运动",
-            "轿车"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-05",
-          "name": "领克05",
-          "nameEn": "Lynk & Co 05",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 180000,
-            "max": 240000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌轿跑SUV,溜背造型与运动化调校,05+搭载高功率2.0T,是个性玩家的进阶之选。",
-          "highlights": [
-            "轿跑造型",
-            "05+性能版",
-            "运动调校"
-          ],
-          "tags": [
-            "运动",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-06",
-          "name": "领克06",
-          "nameEn": "Lynk & Co 06",
-          "type": "小型SUV",
-          "price": {
-            "min": 110000,
-            "max": 150000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "面向年轻人的入门SUV,BMA架构打造,潮流配色与精致细节,品牌年轻化的排头兵。",
-          "highlights": [
-            "BMA架构",
-            "年轻潮流",
-            "入门首选"
-          ],
-          "tags": [
-            "年轻",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-07",
-          "name": "领克07 EM-P",
-          "nameEn": "Lynk & Co 07 EM-P",
-          "type": "中型轿车",
-          "price": {
-            "min": 170000,
-            "max": 200000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "中型电混轿车,EM-P超级电混平顺省油,家用空间充裕,是品牌新能源轿车主力。",
-          "highlights": [
-            "EM-P电混",
-            "省油平顺",
-            "家用舒适"
-          ],
-          "tags": [
-            "混动",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-08",
-          "name": "领克08 EM-P",
-          "nameEn": "Lynk & Co 08 EM-P",
-          "type": "中型SUV",
-          "price": {
-            "min": 210000,
-            "max": 260000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "EM-P电混旗舰SUV,性能与能耗兼备,哈曼卡顿音响与豪华座舱,品牌新能源时代的支柱车型。",
-          "highlights": [
-            "EM-P电混",
-            "哈曼卡顿音响",
-            "豪华座舱"
-          ],
-          "tags": [
-            "混动",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-09",
-          "name": "领克09",
-          "nameEn": "Lynk & Co 09",
-          "type": "中大型SUV",
-          "price": {
-            "min": 240000,
-            "max": 340000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰大六座SUV,源自与沃尔沃XC90同源的SPA架构,可选空气悬架,气场与空间兼具。",
-          "highlights": [
-            "SPA架构",
-            "大六座",
-            "空气悬架可选"
-          ],
-          "tags": [
-            "旗舰",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "lynk-co-z10",
-          "name": "领克Z10",
-          "nameEn": "Lynk & Co Z10",
-          "type": "中大型轿车",
-          "price": {
-            "min": 200000,
-            "max": 290000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌首款纯电旗舰轿车,800V高压平台与激光雷达智驾,原创设计辨识度极高,承载领克纯电野心。",
-          "highlights": [
-            "800V平台",
-            "激光雷达",
-            "纯电旗舰"
-          ],
-          "tags": [
-            "纯电",
-            "旗舰"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "gwm",
-      "name": "长城",
-      "nameEn": "GWM",
-      "domain": "gwm.com.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1984,
-      "hq": "保定",
-      "tier": "大众",
-      "sub": "越野",
-      "tags": [
-        "SUV专家",
-        "硬派越野",
-        "皮卡"
-      ],
-      "slogan": "",
-      "desc": "专注SUV与皮卡三十余年的中国车企,哈弗H6曾创造SUV销量神话,坦克引领硬派越野风潮,长城炮常年稳居皮卡市场第一。",
-      "story": "长城汽车1984年创立于河北保定,以皮卡起家,哈弗H6曾连续多年蝉联中国SUV销量冠军;2016年发布高端品牌魏牌,随后坦克、欧拉等细分品牌陆续登场。\n长城坚持品类造车战略,坦克300掀起中国硬派越野热潮,长城炮让皮卡走向乘用化,同时在泰国、巴西等地建立海外工厂,海外销量占比不断提升。",
-      "products": [
-        {
-          "id": "gwm-haval-h6",
-          "name": "哈弗H6",
-          "nameEn": "Haval H6",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 100000,
-            "max": 140000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "累计销量数百万辆的国民SUV,曾连续多年蝉联中国SUV月度销量冠军,以均衡可靠著称。",
-          "highlights": [
-            "国民神车",
-            "销量传奇",
-            "均衡可靠"
-          ],
-          "tags": [
-            "SUV",
-            "国民"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-haval-dargo",
-          "name": "哈弗大狗",
-          "nameEn": "Haval Dargo",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 120000,
-            "max": 170000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "三分之四刻度轻越野SUV,复古圆灯与方正造型,城市通勤与周末轻越野兼顾。",
-          "highlights": [
-            "轻越野",
-            "复古圆灯",
-            "潮玩命名"
-          ],
-          "tags": [
-            "SUV",
-            "潮流"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-tank-300",
-          "name": "坦克300",
-          "nameEn": "Tank 300",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 200000,
-            "max": 280000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "现象级硬派越野SUV,非承载车身与三把锁,以复古硬朗设计掀起中国越野文化热潮。",
-          "highlights": [
-            "非承载车身",
-            "三把锁",
-            "越野热潮引领者"
-          ],
-          "tags": [
-            "越野",
-            "硬派"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-tank-500",
-          "name": "坦克500",
-          "nameEn": "Tank 500",
-          "type": "中大型SUV",
-          "price": {
-            "min": 330000,
-            "max": 400000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "豪华硬派SUV,3.0T V6配9AT的国产组合首秀,并提供Hi4-T插混版本,豪华与越野兼得。",
-          "highlights": [
-            "3.0T V6",
-            "Hi4-T插混",
-            "豪华越野"
-          ],
-          "tags": [
-            "越野",
-            "豪华"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-wey-lanshan",
-          "name": "魏牌蓝山",
-          "nameEn": "WEY Lanshan",
-          "type": "大型SUV",
-          "price": {
-            "min": 300000,
-            "max": 360000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "魏牌旗舰大六座SUV,Hi4电混四驱,智驾与舒适配置全面升级,直指家庭出行旗舰市场。",
-          "highlights": [
-            "Hi4四驱",
-            "大六座",
-            "家庭旗舰"
-          ],
-          "tags": [
-            "混动",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-wey-gaoshan",
-          "name": "魏牌高山",
-          "nameEn": "WEY Gaoshan",
-          "type": "MPV",
-          "price": {
-            "min": 300000,
-            "max": 400000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "魏牌高端新能源MPV,Hi4四驱插混与超大空间,行政版以百万级气场冲击高端商务市场。",
-          "highlights": [
-            "插混MPV",
-            "Hi4四驱",
-            "行政座舱"
-          ],
-          "tags": [
-            "MPV",
-            "行政"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-poer",
-          "name": "长城炮",
-          "nameEn": "GWM Poer",
-          "type": "皮卡",
-          "price": {
-            "min": 100000,
-            "max": 200000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "中国乘用化皮卡开创者,柴油、汽油与新能源动力齐全,常年稳居皮卡销量冠军,掀起皮卡热。",
-          "highlights": [
-            "皮卡销冠",
-            "乘用化",
-            "多动力"
-          ],
-          "tags": [
-            "皮卡",
-            "实用"
-          ],
-          "image": null
-        },
-        {
-          "id": "gwm-ora-good-cat",
-          "name": "欧拉好猫",
-          "nameEn": "Ora Good Cat",
-          "type": "小型车",
-          "price": {
-            "min": 100000,
-            "max": 140000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "复古美学纯电小车,以猫系命名与精致设计出圈,深受女性用户喜爱的城市代步座驾。",
-          "highlights": [
-            "复古美学",
-            "精致代步",
-            "女性友好"
-          ],
-          "tags": [
-            "纯电",
-            "时尚"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "hongqi",
-      "name": "红旗",
-      "nameEn": "Hongqi",
-      "domain": "hongqi.faw.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1958,
-      "hq": "长春",
-      "tier": "豪华",
-      "sub": "行政",
-      "tags": [
-        "国车",
-        "民族品牌",
-        "行政豪华"
-      ],
-      "slogan": "",
-      "desc": "中国第一汽车集团旗下品牌,新中国第一辆国产轿车的缔造者,国车形象深入人心,如今以H、HS、E等系列加速年轻化与新能源转型。",
-      "story": "1958年,第一汽车制造厂造出新中国第一辆国产轿车,红旗牌高级轿车由此诞生,长期担任国庆阅兵与外交礼宾用车,是民族汽车工业的图腾。\n2018年红旗品牌全面焕新,从H5、HS5到旗舰H9,产品线快速扩张,年销量跃升至30万辆级,并推出E-HS9、天工等新能源车型,向年轻化、电动化转型。",
-      "products": [
-        {
-          "id": "hongqi-h5",
-          "name": "红旗H5",
-          "nameEn": "Hongqi H5",
-          "type": "中型轿车",
-          "price": {
-            "min": 160000,
-            "max": 220000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌销量担当,15万级即可拥有的红旗B级车,国潮设计庄重大气,兼顾商务与家用。",
-          "highlights": [
-            "国潮设计",
-            "销量担当",
-            "高性价比"
-          ],
-          "tags": [
-            "家轿",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "hongqi-hs5",
-          "name": "红旗HS5",
-          "nameEn": "Hongqi HS5",
-          "type": "中型SUV",
-          "price": {
-            "min": 180000,
-            "max": 250000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌走量SUV,2.0T动力与豪华配置下放,20万级国货豪华SUV的代表性选择。",
-          "highlights": [
-            "2.0T动力",
-            "国货豪华",
-            "家庭SUV"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "hongqi-hs7",
-          "name": "红旗HS7",
-          "nameEn": "Hongqi HS7",
-          "type": "中大型SUV",
-          "price": {
-            "min": 250000,
-            "max": 360000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌中大型旗舰SUV,直瀑式格栅气场十足,空间宽敞,公务与家用市场的高端选择。",
-          "highlights": [
-            "旗舰气场",
-            "宽大空间",
-            "直瀑格栅"
-          ],
-          "tags": [
-            "旗舰",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "hongqi-h9",
-          "name": "红旗H9",
-          "nameEn": "Hongqi H9",
-          "type": "中大型轿车",
-          "price": {
-            "min": 310000,
-            "max": 540000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰行政轿车,高山飞瀑式格栅与庄重车身,2.0T/3.0T动力,国产行政豪华的代表作。",
-          "highlights": [
-            "行政旗舰",
-            "3.0T可选",
-            "国车气场"
-          ],
-          "tags": [
-            "行政",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "hongqi-hq9",
-          "name": "红旗HQ9",
-          "nameEn": "Hongqi HQ9",
-          "type": "MPV",
-          "price": {
-            "min": 360000,
-            "max": 540000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌首款豪华MPV,2.0T+48V轻混,礼宾级后排与国宾气场,高端商务接待的国产选择。",
-          "highlights": [
-            "首款MPV",
-            "礼宾后排",
-            "48V轻混"
-          ],
-          "tags": [
-            "MPV",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "hongqi-e-hs9",
-          "name": "红旗E-HS9",
-          "nameEn": "Hongqi E-HS9",
-          "type": "大型SUV",
-          "price": {
-            "min": 510000,
-            "max": 780000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌纯电旗舰SUV,方正庄重的东方美学设计,双电机四驱,气场对标国际百万级豪华SUV。",
-          "highlights": [
-            "纯电旗舰",
-            "东方美学",
-            "双电机四驱"
-          ],
-          "tags": [
-            "纯电",
-            "旗舰"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "gac-trumpchi",
-      "name": "传祺",
-      "nameEn": "GAC Trumpchi",
-      "domain": "gac-motors.com.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 2010,
-      "hq": "广州",
-      "tier": "大众",
-      "sub": "家用",
-      "tags": [
-        "广汽自主",
-        "MPV强项",
-        "务实可靠"
-      ],
-      "slogan": "",
-      "desc": "广汽集团自主品牌,依托广汽研究院与合资体系能力成长,GS4、GS8家喻户晓,M8扛起国产高端MPV大旗,向往系列加速能源多元化。",
-      "story": "2010年,首款传祺GA5问世,背靠广汽与本田、丰田合资多年积累的制造体系迅速成长,GS4曾位居中国SUV销量榜前列。\n传祺深耕MPV市场,M6、M8构建起中国MPV专家的口碑,E9插混旗舰与向往系列瞄准高端新能源市场,并持续发力东南亚、中东等海外市场。",
-      "products": [
-        {
-          "id": "gac-trumpchi-gs3",
-          "name": "传祺GS3·影速",
-          "nameEn": "GS3 Empow",
-          "type": "小型SUV",
-          "price": {
-            "min": 90000,
-            "max": 120000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "年轻化小型SUV,运动化设计与越级配置,八万级高性价比之选,影字辈运动家族一员。",
-          "highlights": [
-            "运动设计",
-            "高性价比",
-            "小型SUV"
-          ],
-          "tags": [
-            "年轻",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "gac-trumpchi-gs8",
-          "name": "传祺GS8",
-          "nameEn": "GS8",
-          "type": "中大型SUV",
-          "price": {
-            "min": 170000,
-            "max": 260000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌旗舰大七座SUV,双擎版首搭丰田THS混动系统,气场、空间与技术含金量兼备。",
-          "highlights": [
-            "丰田THS混动",
-            "大七座",
-            "旗舰气场"
-          ],
-          "tags": [
-            "SUV",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "gac-trumpchi-empow",
-          "name": "传祺影豹",
-          "nameEn": "Empow",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 100000,
-            "max": 140000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "平民轿跑,1.5T动力百公里加速6.95秒,运动套件与声浪引爆年轻市场,国民性能家轿。",
-          "highlights": [
-            "6.95秒破百",
-            "运动套件",
-            "平民轿跑"
-          ],
-          "tags": [
-            "运动",
-            "年轻"
-          ],
-          "image": null
-        },
-        {
-          "id": "gac-trumpchi-m6",
-          "name": "传祺M6",
-          "nameEn": "M6",
-          "type": "MPV",
-          "price": {
-            "min": 120000,
-            "max": 160000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "国民家用MPV,大空间与灵活座椅布局,12万级七座出行的高性价比方案。",
-          "highlights": [
-            "家用MPV",
-            "大空间",
-            "高性价比"
-          ],
-          "tags": [
-            "MPV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "gac-trumpchi-m8",
-          "name": "传祺M8",
-          "nameEn": "M8",
-          "type": "MPV",
-          "price": {
-            "min": 180000,
-            "max": 340000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "国产高端MPV标杆,大师版气场直逼丰田埃尔法,公务商务市场保有率高,中国MPV实力代表。",
-          "highlights": [
-            "高端MPV",
-            "大师版",
-            "商务标杆"
-          ],
-          "tags": [
-            "MPV",
-            "商务"
-          ],
-          "image": null
-        },
-        {
-          "id": "gac-trumpchi-e9",
-          "name": "传祺E9",
-          "nameEn": "E9",
-          "type": "MPV",
-          "price": {
-            "min": 330000,
-            "max": 400000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌插混旗舰MPV,2.0T插混综合续航超1000公里,绿牌无焦虑,商务接待与家庭出行兼顾。",
-          "highlights": [
-            "插混旗舰",
-            "续航1000km+",
-            "商务豪华"
-          ],
-          "tags": [
-            "MPV",
-            "新能源"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "chery",
-      "name": "奇瑞",
-      "nameEn": "Chery",
-      "domain": "chery.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1997,
-      "hq": "芜湖",
-      "tier": "大众",
-      "sub": "家用",
-      "tags": [
-        "出口冠军",
-        "发动机技术",
-        "理工男"
-      ],
-      "slogan": "",
-      "desc": "中国品牌乘用车出口冠军,以正向研发和发动机技术著称的理工男,瑞虎系列畅销全球,旗下拥有奇瑞、星途、捷途、iCAR等品牌。",
-      "story": "1997年,奇瑞在芜湖创业,1999年第一台发动机下线,2001年风云轿车上市即热销;多年来坚持正向研发,ACTECO发动机与鲲鹏动力成为技术名片。\n奇瑞连续二十余年蝉联中国品牌乘用车出口第一,产品远销80多个国家,2024年集团销量突破260万辆、营收迈上4800亿元台阶,成为中国汽车出海的一面旗帜。",
-      "products": [
-        {
-          "id": "chery-tiggo-7",
-          "name": "瑞虎7",
-          "nameEn": "Tiggo 7",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 80000,
-            "max": 140000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "奇瑞SUV家族中坚,鲲鹏动力可选,品质与性价比均衡,在国内外市场都有扎实口碑。",
-          "highlights": [
-            "鲲鹏动力",
-            "全球车型",
-            "均衡务实"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "chery-tiggo-8",
-          "name": "瑞虎8",
-          "nameEn": "Tiggo 8",
-          "type": "中型SUV",
-          "price": {
-            "min": 90000,
-            "max": 160000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "奇瑞家用旗舰SUV,提供七座布局,1.6T/2.0T鲲鹏动力充沛,常年月销过万的销量支柱。",
-          "highlights": [
-            "七座可选",
-            "鲲鹏动力",
-            "销量支柱"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "chery-tiggo-9",
-          "name": "瑞虎9",
-          "nameEn": "Tiggo 9",
-          "type": "中大型SUV",
-          "price": {
-            "min": 150000,
-            "max": 210000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "火星架构旗舰SUV,2.0T高功动力与CDC悬架加持,扛起奇瑞品牌向上的旗舰大旗。",
-          "highlights": [
-            "火星架构",
-            "2.0T高功",
-            "CDC悬架"
-          ],
-          "tags": [
-            "旗舰",
-            "SUV"
-          ],
-          "image": null
-        },
-        {
-          "id": "chery-arrizo-8",
-          "name": "艾瑞泽8",
-          "nameEn": "Arrizo 8",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 90000,
-            "max": 150000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "奇瑞轿车旗舰,1.6T动力与越级车身尺寸,设计走向年轻精致,国产A级家轿实力选手。",
-          "highlights": [
-            "1.6T动力",
-            "越级尺寸",
-            "家轿旗舰"
-          ],
-          "tags": [
-            "家轿",
-            "性价比"
-          ],
-          "image": null
-        },
-        {
-          "id": "chery-xiaomayi",
-          "name": "小蚂蚁",
-          "nameEn": "eQ1",
-          "type": "微型车",
-          "price": {
-            "min": 60000,
-            "max": 90000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "品牌纯电微型车,采用全铝车身结构,车身小巧灵活好停,是城市短途代步的老将。",
-          "highlights": [
-            "全铝车身",
-            "城市代步",
-            "灵活好停"
-          ],
-          "tags": [
-            "代步",
-            "纯电"
-          ],
-          "image": null
-        },
-        {
-          "id": "chery-qq-icecream",
-          "name": "QQ冰淇淋",
-          "nameEn": "QQ Ice Cream",
-          "type": "微型车",
-          "price": {
-            "min": 30000,
-            "max": 50000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "致敬QQ时代的国民电动小车,三万级起步,方盒子复古造型,买菜接娃的实惠选择。",
-          "highlights": [
-            "三万级起步",
-            "复古造型",
-            "国民代步"
-          ],
-          "tags": [
-            "代步",
-            "国民"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "changan",
-      "name": "长安",
-      "nameEn": "Changan",
-      "domain": "changan.com.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1862,
-      "hq": "重庆",
-      "tier": "大众",
-      "sub": "家用",
-      "tags": [
-        "百年军工",
-        "四大集团",
-        "均衡可靠"
-      ],
-      "slogan": "科技长安 智慧伙伴",
-      "desc": "拥有160余年历史的中国四大汽车集团之一,军工起家,CS75 PLUS与UNI系列家喻户晓,启源、深蓝、阿维塔构成新能源三线布局。",
-      "story": "长安的历史可追溯至1862年的上海洋炮局,1957年造出中国第一辆吉普车,1984年转入民用汽车生产,与福特、马自达等合资积累深厚造车功力。\n如今长安形成长安引力、启源、深蓝、阿维塔的品牌矩阵,CS75 PLUS、UNI-V等车型常年热销,正向智能低碳出行科技公司加速转型。",
-      "products": [
-        {
-          "id": "changan-eado",
-          "name": "逸动",
-          "nameEn": "Eado",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 70000,
-            "max": 100000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "长安国民家轿,蓝鲸动力与低油耗,设计年轻动感,七万级家轿的高性价比常青树。",
-          "highlights": [
-            "蓝鲸动力",
-            "高性价比",
-            "常青树"
-          ],
-          "tags": [
-            "家轿",
-            "国民"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-cs75-plus",
-          "name": "CS75 PLUS",
-          "nameEn": "CS75 PLUS",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 120000,
-            "max": 170000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "长安SUV销量王牌,蓝鲸2.0T与爱信8AT加持,空间配置越级,常年位居SUV销量榜前列。",
-          "highlights": [
-            "蓝鲸2.0T",
-            "爱信8AT",
-            "销量王牌"
-          ],
-          "tags": [
-            "SUV",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-cs55-plus",
-          "name": "CS55 PLUS",
-          "nameEn": "CS55 PLUS",
-          "type": "紧凑型SUV",
-          "price": {
-            "min": 100000,
-            "max": 130000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "十万级精品SUV,蓝鲸1.5T动力充沛,智能配置齐全,首次购车年轻人的热门之选。",
-          "highlights": [
-            "蓝鲸1.5T",
-            "智能座舱",
-            "年轻设计"
-          ],
-          "tags": [
-            "SUV",
-            "年轻"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-cs35-plus",
-          "name": "CS35 PLUS",
-          "nameEn": "CS35 PLUS",
-          "type": "小型SUV",
-          "price": {
-            "min": 70000,
-            "max": 100000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "长安入门SUV常青树,同级占优的空间表现,可靠省心,家用代步的务实之选。",
-          "highlights": [
-            "入门可靠",
-            "空间实用",
-            "省心耐用"
-          ],
-          "tags": [
-            "SUV",
-            "务实"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-uni-v",
-          "name": "UNI-V",
-          "nameEn": "UNI-V",
-          "type": "紧凑型轿车",
-          "price": {
-            "min": 110000,
-            "max": 140000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "UNI序列运动轿跑,无边界格栅与电动升降尾翼,1.5T/2.0T动力,年轻人第一台轿跑的热门答案。",
-          "highlights": [
-            "电动尾翼",
-            "轿跑造型",
-            "UNI序列"
-          ],
-          "tags": [
-            "运动",
-            "年轻"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-uni-k",
-          "name": "UNI-K",
-          "nameEn": "UNI-K",
-          "type": "中大型SUV",
-          "price": {
-            "min": 150000,
-            "max": 190000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "UNI序列旗舰SUV,2.0T配爱信8AT,大五座空间与未来感设计语言,15万级越级之选。",
-          "highlights": [
-            "2.0T动力",
-            "大五座",
-            "未来设计"
-          ],
-          "tags": [
-            "SUV",
-            "旗舰"
-          ],
-          "image": null
-        },
-        {
-          "id": "changan-lumin",
-          "name": "Lumin",
-          "nameEn": "Lumin",
-          "type": "微型车",
-          "price": {
-            "min": 50000,
-            "max": 70000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "长安纯电微型车,圆润造型被昵称为糯玉米,好开好停好可爱,城市代步新宠。",
-          "highlights": [
-            "圆润造型",
-            "代步神器",
-            "高性价比"
-          ],
-          "tags": [
-            "代步",
-            "可爱"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "wuling",
-      "name": "五菱",
-      "nameEn": "Wuling",
-      "domain": "sgmw.com.cn",
-      "categoryId": "auto",
-      "country": "中国",
-      "founded": 1958,
-      "hq": "柳州",
-      "tier": "国民",
-      "sub": "家用",
-      "tags": [
-        "国民神车",
-        "极致性价比",
-        "小微车"
-      ],
-      "slogan": "人民需要什么,五菱就造什么",
-      "desc": "国民神车制造者,上汽通用五菱旗下品牌,宏光MINIEV开创人民代步车品类,以极致性价比与全民共创文化深入中国大街小巷。",
-      "story": "五菱前身是1958年的柳州动力机械厂,1982年造出第一辆微型车,2002年上汽、通用、五菱三方合资成立上汽通用五菱;五菱宏光常年霸榜,秋名山神车成为国民梗文化。\n2020年宏光MINIEV上市即成全球小型电动车销量冠军,累计销量超百万辆,人民需要什么五菱就造什么深入人心,缤果、星光等新能源车型持续接力。",
-      "products": [
-        {
-          "id": "wuling-hongguang-miniev",
-          "name": "宏光MINIEV",
-          "nameEn": "Hongguang MINIEV",
-          "type": "微型车",
-          "price": {
-            "min": 30000,
-            "max": 70000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "国民电动神车,上市即登顶全球小型电动车销冠,以三万级售价让电动出行走进千家万户。",
-          "highlights": [
-            "全球销冠",
-            "三万级起步",
-            "国民神车"
-          ],
-          "tags": [
-            "代步",
-            "国民"
-          ],
-          "image": null
-        },
-        {
-          "id": "wuling-bingo",
-          "name": "缤果",
-          "nameEn": "Bingo",
-          "type": "小型车",
-          "price": {
-            "min": 60000,
-            "max": 90000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "复古圆润的纯电小车,五万级起售,后排空间同级领先,年轻人第一台电动车的热门之选。",
-          "highlights": [
-            "复古设计",
-            "空间领先",
-            "入门友好"
-          ],
-          "tags": [
-            "纯电",
-            "时尚"
-          ],
-          "image": null
-        },
-        {
-          "id": "wuling-xingguang",
-          "name": "星光",
-          "nameEn": "Xingguang",
-          "type": "中型轿车",
-          "price": {
-            "min": 80000,
-            "max": 120000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "插混纯电双动力的国民轿车,八万级起售,大空间与低能耗,掀起新能源家轿普及风暴。",
-          "highlights": [
-            "双动力",
-            "八万级起售",
-            "大空间"
-          ],
-          "tags": [
-            "新能源",
-            "家用"
-          ],
-          "image": null
-        },
-        {
-          "id": "wuling-hongguang",
-          "name": "五菱宏光",
-          "nameEn": "Hongguang",
-          "type": "MPV",
-          "price": {
-            "min": 40000,
-            "max": 70000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "秋名山神车本尊,介于微面与MPV之间的国民工具车,拉人载货两相宜的创业传奇。",
-          "highlights": [
-            "秋名山神车",
-            "国民工具车",
-            "超低售价"
-          ],
-          "tags": [
-            "实用",
-            "国民"
-          ],
-          "image": null
-        },
-        {
-          "id": "wuling-zhiguang",
-          "name": "五菱之光",
-          "nameEn": "Wuling Zhiguang",
-          "type": "微面",
-          "price": {
-            "min": 30000,
-            "max": 50000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "中国微面经典之作,实用耐造的创富伙伴,累计销量数百万辆,遍布城乡大街小巷。",
-          "highlights": [
-            "经典微面",
-            "耐造实用",
-            "创富伙伴"
-          ],
-          "tags": [
-            "实用",
-            "经典"
-          ],
-          "image": null
-        },
-        {
-          "id": "wuling-victory",
-          "name": "凯捷",
-          "nameEn": "Victory",
-          "type": "MPV",
-          "price": {
-            "min": 90000,
-            "max": 120000,
-            "currency": "CNY",
-            "label": "厂商指导价"
-          },
-          "desc": "五菱银标开山之作,创新大四座布局,家用MPV舒适取向,十万级多口之家新选择。",
-          "highlights": [
-            "银标首款",
-            "大四座",
-            "家用舒适"
-          ],
-          "tags": [
-            "MPV",
-            "家用"
-          ],
-          "image": null
-        }
-      ]
+     "id": "alfa-romeo-4c",
+     "name": "4C",
+     "nameEn": "4C",
+     "type": "跑车",
+     "price": {
+      "min": 500000,
+      "max": 800000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿尔法·罗密欧中置后驱双座跑车,采用碳纤维单体壳车身与轻量化1.75T动力,极致减重带来纯粹驾控。是品牌重返跑车领域的宣言之作。适合性能收藏家与纯粹驾驶主义者,是意大利轻量化跑车哲学的集中体现。",
+     "highlights": [
+      "碳纤维车身",
+      "中置后驱",
+      "轻量化"
+     ],
+     "tags": [
+      "跑车",
+      "经典"
+     ],
+     "image": null
     }
-  ]
+   ]
+  },
+  {
+   "id": "tesla",
+   "name": "特斯拉",
+   "nameEn": "Tesla",
+   "domain": "tesla.com",
+   "categoryId": "auto",
+   "country": "美国",
+   "founded": 2003,
+   "hq": "奥斯汀",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "纯电标杆",
+    "智能驾驶",
+    "超充网络"
+   ],
+   "slogan": "加速世界向可持续能源的转变",
+   "desc": "全球智能纯电动车的开创者,以Autopilot辅助驾驶、超级工厂与超充网络闻名,Model Y常年位居全球车型销量榜首,定义了电动车行业标准。",
+   "story": "2003年,特斯拉创立于美国加州,以Roadster证明电动车可以又快又酷;马斯克入主后接连推出Model S/X/3/Y,用一体化压铸、直营模式与超充网络重塑汽车行业,成为全球市值最高的车企。\n上海超级工厂是特斯拉最重要的生产基地,Model 3与Model Y从这里销往全球;FSD自动驾驶与Robotaxi是下一阶段的核心叙事,特斯拉仍在持续引领智能电动浪潮。",
+   "products": [
+    {
+     "id": "tesla-model-3",
+     "name": "Model 3",
+     "nameEn": "Model 3",
+     "type": "中型轿车",
+     "price": {
+      "min": 230000,
+      "max": 340000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "特斯拉中型纯电轿车,全球最畅销电动车之一,极简内饰与一体化压铸工艺引领行业潮流,长续航版续航超700公里,Autopilot辅助驾驶是其招牌。适合科技尝鲜者与通勤用户,被视为电动车价值的标杆产品。",
+     "highlights": [
+      "全球畅销",
+      "续航700km+",
+      "Autopilot"
+     ],
+     "tags": [
+      "纯电",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "tesla-model-y",
+     "name": "Model Y",
+     "nameEn": "Model Y",
+     "type": "中型SUV",
+     "price": {
+      "min": 260000,
+      "max": 340000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "特斯拉中型纯电SUV,全球销量第一的SUV车型,空间实用、能耗表现出色、依托超充网络补能便捷,上海超级工厂制造,常年霸榜各国销量榜。适合家庭用户与注重补能体验的电动车主,是电动车时代的现象级产品。",
+     "highlights": [
+      "全球销冠",
+      "超充网络",
+      "一体压铸"
+     ],
+     "tags": [
+      "纯电",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "tesla-model-s",
+     "name": "Model S",
+     "nameEn": "Model S",
+     "type": "中大型轿车",
+     "price": {
+      "min": 700000,
+      "max": 1010000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "特斯拉旗舰纯电轿跑,Plaid三电机版百公里加速进入2秒级,性能比肩超跑,曾以先锋科技感与大屏交互重新定义电动豪华。17英寸中控屏是标志性设计。适合追求极致性能与科技体验的高预算用户,是品牌精神的奠基之作。",
+     "highlights": [
+      "Plaid三电机",
+      "2秒级加速",
+      "17英寸中控屏"
+     ],
+     "tags": [
+      "旗舰",
+      "纯电"
+     ],
+     "image": null
+    },
+    {
+     "id": "tesla-model-x",
+     "name": "Model X",
+     "nameEn": "Model X",
+     "type": "中大型SUV",
+     "price": {
+      "min": 830000,
+      "max": 1020000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "特斯拉旗下的豪华中大型纯电SUV。以标志性的鹰翼门与全景挡风玻璃为设计亮点,空气悬架与六座布局齐备,还可选装三电机Plaid高性能版本,兼顾性能与实用性。适合追求科技感、需要多座位的家庭用户。作为品牌旗舰SUV,它以极具辨识度的前卫设计成为纯电SUV的标志性车型之一。",
+     "highlights": [
+      "鹰翼门",
+      "全景挡风玻璃",
+      "Plaid可选"
+     ],
+     "tags": [
+      "旗舰",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "tesla-cybertruck",
+     "name": "Cybertruck",
+     "nameEn": "Cybertruck",
+     "type": "皮卡",
+     "price": {
+      "min": 600000,
+      "max": 800000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "特斯拉推出的纯电皮卡,采用不锈钢外骨骼车身,赛博朋克式棱角造型极具争议性与辨识度,并搭载线控转向与四轮转向技术,主要在美国市场销售。适合喜欢硬派风格、追求个性表达的消费者。凭借颠覆传统皮卡认知的大胆设计,它成为全球话题度最高的车型之一,也代表了特斯拉对产品形态的激进探索。",
+     "highlights": [
+      "不锈钢外骨骼",
+      "线控转向",
+      "赛博造型"
+     ],
+     "tags": [
+      "皮卡",
+      "未来感"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "byd",
+   "name": "比亚迪",
+   "nameEn": "BYD",
+   "domain": "byd.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1995,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "新能源",
+   "tags": [
+    "新能源",
+    "刀片电池",
+    "全产业链"
+   ],
+   "slogan": "成就你的梦想",
+   "desc": "全球新能源汽车销量冠军,从电池大王成长为掌握电池、电机、电控整车全产业链的车企,刀片电池与DM混动技术领先,王朝与海洋系列家喻户晓。",
+   "story": "1995年,王传福在深圳创办比亚迪,以电池起家;2003年收购秦川汽车进入整车行业,坚持磷酸铁锂技术路线,2022年3月全球率先停产燃油车,全面转向新能源。\n凭借刀片电池、DM-i超级混动与e平台,比亚迪销量连年跨越,2024年以约427万辆蝉联全球新能源销量冠军,海外工厂相继落子,成为中国智造出海的闪亮名片。",
+   "products": [
+    {
+     "id": "byd-qin-plus",
+     "name": "秦PLUS",
+     "nameEn": "Qin PLUS",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 70000,
+      "max": 130000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪旗下的紧凑型家轿,搭载DM-i超级混动技术,亏电油耗低至百公里3.8升,以油电同价策略重塑紧凑家轿市场格局。经济省油、成本低廉,适合预算务实、日常通勤与家用的普通消费者。常年位居轿车销量榜前列,被视为混动家轿的国民标杆,是比亚迪混动技术普及的关键车型。",
+     "highlights": [
+      "DM-i混动",
+      "低油耗",
+      "油电同价"
+     ],
+     "tags": [
+      "混动",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-han",
+     "name": "汉",
+     "nameEn": "Han",
+     "type": "中大型轿车",
+     "price": {
+      "min": 160000,
+      "max": 280000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪旗舰中大型轿车,提供EV纯电与DM混动双动力,是刀片电池的首搭车型,3秒级加速性能强悍,龙颜设计出自前奥迪设计师之手,豪华质感与性能兼备。适合注重品质与身份感的高端用户。作为品牌向上的代表作,它是中国品牌旗舰轿车市场的里程碑车型。",
+     "highlights": [
+      "刀片电池首搭",
+      "龙颜设计",
+      "3秒级加速"
+     ],
+     "tags": [
+      "旗舰",
+      "新能源"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-tang",
+     "name": "唐",
+     "nameEn": "Tang",
+     "type": "中型SUV",
+     "price": {
+      "min": 180000,
+      "max": 270000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪七座中型SUV,以DM-i/DM-p混动为主并提供纯电版本,搭载刀片电池,空间灵活多变、配置丰富。适合多口之家与全家出行的用车场景,是家庭用户的主力之选。作为品牌SUV序列的中坚产品,它以七座布局与混动经济性在家用市场长期保有良好口碑。",
+     "highlights": [
+      "七座布局",
+      "DM混动",
+      "刀片电池"
+     ],
+     "tags": [
+      "家用",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-song-plus",
+     "name": "宋PLUS",
+     "nameEn": "Song PLUS",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 110000,
+      "max": 180000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪紧凑型SUV,提供DM-i插混与纯电双动力,空间、能耗与配置平衡出色,综合性价比突出。适合预算适中、注重经济实用的家庭用户。作为品牌销量支柱之一,它长期位居SUV销量榜前列,是中国新能源SUV市场最具代表性的热门车型。",
+     "highlights": [
+      "DM-i插混",
+      "双动力",
+      "销量担当"
+     ],
+     "tags": [
+      "家用",
+      "混动"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-yuan-plus",
+     "name": "元PLUS",
+     "nameEn": "Yuan PLUS",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 110000,
+      "max": 150000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪基于e平台3.0打造的纯电紧凑型SUV,内饰以健身房为主题,个性十足,并以ATTO 3之名出口海外市场。适合年轻用户与城市家庭日常通勤使用。作为品牌出海的先锋车型,它在多国市场热销,是中国电动车走向全球的代表产品之一。",
+     "highlights": [
+      "e平台3.0",
+      "海外热销",
+      "年轻内饰"
+     ],
+     "tags": [
+      "纯电",
+      "年轻"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-seagull",
+     "name": "海鸥",
+     "nameEn": "Seagull",
+     "type": "小型车",
+     "price": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪海洋系列的小型纯电车,定价六万级却标配四安全气囊与刀片电池,以安全与配置重新定义代步车价值。适合城市通勤、日常代步的个人与家庭用户。常年霸榜小车市场,被视为在入门代步车领域树立安全标准的标杆之作。",
+     "highlights": [
+      "标配4气囊",
+      "刀片电池",
+      "代步标杆"
+     ],
+     "tags": [
+      "代步",
+      "纯电"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-dolphin",
+     "name": "海豚",
+     "nameEn": "Dolphin",
+     "type": "小型车",
+     "price": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪海洋系列的纯电两厢小车,基于e平台3.0打造,采用海洋美学设计语言,造型灵动、驾驶感受轻快。适合年轻人、城市通勤族与代步接驳使用。凭借亲民定位与时尚设计,它成为城市纯电通勤的热门之选,深受年轻用户喜爱。",
+     "highlights": [
+      "e平台3.0",
+      "海洋美学",
+      "城市通勤"
+     ],
+     "tags": [
+      "纯电",
+      "时尚"
+     ],
+     "image": null
+    },
+    {
+     "id": "byd-seal",
+     "name": "海豹",
+     "nameEn": "Seal",
+     "type": "中型轿车",
+     "price": {
+      "min": 170000,
+      "max": 240000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "比亚迪海洋美学纯电轿跑,首搭CTB电池车身一体化技术,配备iTAC智能扭矩控制系统,四驱版百公里加速3.8秒,兼顾运动操控与续航表现。适合追求驾驶乐趣与设计美感的年轻用户。作为品牌技术旗舰,它是比亚迪在纯电轿车市场实力的集中体现。",
+     "highlights": [
+      "CTB一体化",
+      "3.8秒破百",
+      "iTAC"
+     ],
+     "tags": [
+      "纯电",
+      "运动"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "nio",
+   "name": "蔚来",
+   "nameEn": "NIO",
+   "domain": "nio.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2014,
+   "hq": "上海",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "换电",
+    "智能电动",
+    "用户企业"
+   ],
+   "slogan": "Blue Sky Coming",
+   "desc": "中国高端智能电动车代表,以可充可换可升级的换电体系、NOMI伙伴与用户社区著称,旗下拥有蔚来、乐道、萤火虫多品牌矩阵。",
+   "story": "2014年,李斌在上海创办蔚来,以电动超跑EP9和FE电动方程式冠军声名鹊起;2018年登陆纽交所,经历至暗时刻后于2020年获得合肥国资注资,起死回生。\n蔚来坚持换电路线,换电站数量已超三千座,以NIO House与优质服务构建用户生态,并推出乐道、萤火虫覆盖更多市场,是高端纯电领域的头部玩家。",
+   "products": [
+    {
+     "id": "nio-et5",
+     "name": "ET5",
+     "nameEn": "ET5",
+     "type": "中型轿车",
+     "price": {
+      "min": 298000,
+      "max": 356000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "蔚来的中型纯电轿跑,双电机四驱百公里加速4秒级,支持换电与电池灵活升级,BaaS电池租用方案进一步降低购车门槛。适合追求品质与性能的年轻用户,是蔚来的入门走量车型。依托品牌换电体系与精致设计,它在同级纯电轿车中独具特色。",
+     "highlights": [
+      "换电",
+      "4秒级加速",
+      "电池租用"
+     ],
+     "tags": [
+      "纯电",
+      "轿跑"
+     ],
+     "image": null
+    },
+    {
+     "id": "nio-et5t",
+     "name": "ET5T",
+     "nameEn": "ET5T",
+     "type": "旅行车",
+     "price": {
+      "min": 298000,
+      "max": 356000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "蔚来ET5的旅行版车型,在保留轿跑操控的同时拥有旅行车的大装载空间,并支持换电与电池灵活升级。适合喜欢旅行车文化、经常自驾出游的都市年轻用户。作为同价位罕见的豪华纯电旅行车,它小众而独特,丰富了国内旅行车市场的选择。",
+     "highlights": [
+      "旅行车造型",
+      "换电",
+      "大装载空间"
+     ],
+     "tags": [
+      "纯电",
+      "旅行车"
+     ],
+     "image": null
+    },
+    {
+     "id": "nio-et7",
+     "name": "ET7",
+     "nameEn": "ET7",
+     "type": "中大型轿车",
+     "price": {
+      "min": 428000,
+      "max": 520000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "蔚来的旗舰行政级中大型纯电轿车,首发NIO Aquila超感系统与激光雷达,标配空气悬架,智能化与舒适性配置豪华齐备。适合商务接待与追求高端出行体验的用户。作为品牌技术旗舰,它承担着对标传统豪华品牌大型轿车的使命。",
+     "highlights": [
+      "激光雷达首发",
+      "空气悬架",
+      "行政旗舰"
+     ],
+     "tags": [
+      "旗舰",
+      "行政"
+     ],
+     "image": null
+    },
+    {
+     "id": "nio-es6",
+     "name": "ES6",
+     "nameEn": "ES6",
+     "type": "中型SUV",
+     "price": {
+      "min": 338000,
+      "max": 396000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "蔚来第二代技术平台下的中型纯电SUV,集品牌技术之大成,支持换电与高阶辅助驾驶,座舱舒适、空间宽敞。适合注重服务体验与用车便利的家庭用户。作为品牌主力走量车型,它是新能源中型SUV市场的重要竞争者。",
+     "highlights": [
+      "NT2.0平台",
+      "换电",
+      "舒适座舱"
+     ],
+     "tags": [
+      "纯电",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "nio-es8",
+     "name": "ES8",
+     "nameEn": "ES8",
+     "type": "大型SUV",
+     "price": {
+      "min": 498000,
+      "max": 638000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "蔚来的创始旗舰大型纯电SUV,采用六座、七座布局与双电机四驱,定位中国家庭高端纯电旗舰。适合多口之家与高端出行场景。作为品牌的首款车型,它承载着蔚来品牌向上的初心,是品牌精神的象征之作。",
+     "highlights": [
+      "旗舰SUV",
+      "六/七座",
+      "换电"
+     ],
+     "tags": [
+      "旗舰",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "xpeng",
+   "name": "小鹏",
+   "nameEn": "XPeng",
+   "domain": "xiaopeng.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2014,
+   "hq": "广州",
+   "tier": "大众",
+   "sub": "新能源",
+   "tags": [
+    "全栈智驾",
+    "纯电",
+    "科技范"
+   ],
+   "slogan": "未来出行探索者",
+   "desc": "以全栈自研智能辅助驾驶著称的互联网车企,XNGP覆盖全国道路,MONA M03与P7+推动智驾平权,并向大众等车企输出智能技术。",
+   "story": "2014年,何小鹏联合创立小鹏汽车,从肇庆工厂起步,2020年登陆纽交所、次年回港双重上市,是中国智驾全栈自研路线的代表车企。\n2024年起,MONA M03、P7+连续成为爆款,销量重回快车道;小鹏还与大众达成技术合作,输出纯电平台与智能驾驶技术,开创中国车企技术反向输出的先河。",
+   "products": [
+    {
+     "id": "xpeng-p7",
+     "name": "P7",
+     "nameEn": "P7",
+     "type": "中型轿车",
+     "price": {
+      "min": 200000,
+      "max": 310000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏汽车的中型纯电轿跑,初代车型以鹏翼门与智能座舱成功出圈,全新一代延续科技与运动基因,轿跑造型低趴流畅。适合追求设计感与智能体验的年轻用户。作为品牌图腾车型,P7是小鹏品牌辨识度与口碑的重要来源。",
+     "highlights": [
+      "鹏翼门版",
+      "轿跑造型",
+      "智能座舱"
+     ],
+     "tags": [
+      "纯电",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "xpeng-p7-plus",
+     "name": "P7+",
+     "nameEn": "P7+",
+     "type": "中型轿车",
+     "price": {
+      "min": 180000,
+      "max": 220000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏中型智能轿车,首发鹰眼视觉智驾方案,不依赖激光雷达即可实现高阶智能辅助驾驶,且全系智驾标配。适合预算有限却追求智能体验的用户。以高性价比与纯视觉技术路线,它成为18万级智能轿车市场的标杆之作。",
+     "highlights": [
+      "纯视觉智驾",
+      "全系高阶智驾",
+      "高性价比"
+     ],
+     "tags": [
+      "纯电",
+      "智驾"
+     ],
+     "image": null
+    },
+    {
+     "id": "xpeng-mona-m03",
+     "name": "小鹏MONA M03",
+     "nameEn": "MONA M03",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 120000,
+      "max": 160000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏MONA系列的紧凑型纯电轿跑,11万级定价却拥有高颜值外观与高阶智能辅助驾驶,上市即成爆款。适合首购的年轻用户与城市通勤族。它把智能辅助驾驶带入15万以内市场,销量屡创新高,是智驾平权理念的代表车型。",
+     "highlights": [
+      "智驾平权",
+      "轿跑颜值",
+      "销量爆款"
+     ],
+     "tags": [
+      "纯电",
+      "爆款"
+     ],
+     "image": null
+    },
+    {
+     "id": "xpeng-g6",
+     "name": "G6",
+     "nameEn": "G6",
+     "type": "中型SUV",
+     "price": {
+      "min": 170000,
+      "max": 220000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏扶摇架构下的中型纯电SUV,采用800V高压平台,充电5分钟可补充续航200公里,补能效率突出。适合注重补能速度与智能配置的家庭用户。作为20万级科技纯电SUV的代表,它将高压快充与智驾配置下放到主流价位。",
+     "highlights": [
+      "800V平台",
+      "5分钟补能200km",
+      "扶摇架构"
+     ],
+     "tags": [
+      "纯电",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "xpeng-g9",
+     "name": "G9",
+     "nameEn": "G9",
+     "type": "中大型SUV",
+     "price": {
+      "min": 240000,
+      "max": 360000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏旗舰中大型纯电SUV,大五座布局,搭载800V高压SiC平台与双腔空气悬架,配备XNGP全场景智能辅助驾驶。适合注重乘坐品质与科技体验的高端家庭用户。作为品牌技术集大成之作,它是国产智能旗舰SUV的代表之一。",
+     "highlights": [
+      "800V平台",
+      "双腔空悬",
+      "XNGP智驾"
+     ],
+     "tags": [
+      "旗舰",
+      "纯电"
+     ],
+     "image": null
+    },
+    {
+     "id": "xpeng-x9",
+     "name": "X9",
+     "nameEn": "X9",
+     "type": "大型MPV",
+     "price": {
+      "min": 360000,
+      "max": 420000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小鹏旗舰大型纯电MPV,标配后轮转向,大车身也能在城市中灵活穿行,并支持800V超快充。适合商务接待与多口之家出行。它重新定义了高端纯电MPV的产品形态,是纯电MPV市场开创性的旗舰产品。",
+     "highlights": [
+      "后轮转向",
+      "800V超快充",
+      "旗舰MPV"
+     ],
+     "tags": [
+      "MPV",
+      "纯电"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "li-auto",
+   "name": "理想",
+   "nameEn": "Li Auto",
+   "domain": "lixiang.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2015,
+   "hq": "北京",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "增程式",
+    "家庭用车",
+    "新势力"
+   ],
+   "slogan": "创造移动的家,创造幸福的家",
+   "desc": "专注家庭用户的智能电动车企,以增程技术化解续航焦虑,冰箱彩电大沙发的产品定义深入人心,是率先实现稳定盈利的头部新势力。",
+   "story": "2015年,李想在北京创办车和家,2019年理想ONE上市,用增程式路线打通家庭SUV市场,2020年登陆纳斯达克,成为新势力中首个实现全年盈利的企业。\n理想围绕家庭场景打造L6/L7/L8/L9系列与纯电MPV MEGA,以精准的用户洞察和出色的产品定义能力著称,2023年营收率先突破千亿,稳居新势力第一梯队。",
+   "products": [
+    {
+     "id": "li-auto-one",
+     "name": "理想ONE",
+     "nameEn": "Li ONE",
+     "type": "中大型SUV",
+     "price": {
+      "min": 328000,
+      "max": 350000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想汽车的开山之作,中大型增程式六座SUV,以没有里程焦虑的增程路线精准切入家庭用车市场。适合多口之家与有长途出行需求的用户。作为增程赛道的标杆车型,它奠定了理想聚焦家庭用户的品牌定位。",
+     "highlights": [
+      "增程式",
+      "六座",
+      "开山之作"
+     ],
+     "tags": [
+      "增程",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "li-auto-l6",
+     "name": "理想L6",
+     "nameEn": "Li L6",
+     "type": "中型SUV",
+     "price": {
+      "min": 249800,
+      "max": 279800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想L系列的五座入门款,中型增程SUV,双电机四驱,延续品牌舒适取向与家庭定位,价格更为亲民。适合预算25万级的年轻家庭用户。上市即成为品牌销量担当,是25万级家庭SUV市场的热门之选。",
+     "highlights": [
+      "增程四驱",
+      "五座",
+      "热销爆款"
+     ],
+     "tags": [
+      "增程",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "li-auto-l7",
+     "name": "理想L7",
+     "nameEn": "Li L7",
+     "type": "中大型SUV",
+     "price": {
+      "min": 300000,
+      "max": 380000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想的中大型五座家庭旗舰SUV,搭载魔毯空气悬架与后排娱乐屏,以移动的家的理念打造极致舒适的乘坐体验。适合注重乘坐舒适性的五座家庭用户。作为L系列五座旗舰,它进一步巩固了理想在家庭SUV市场的地位。",
+     "highlights": [
+      "魔毯空悬",
+      "五座旗舰",
+      "后排娱乐屏"
+     ],
+     "tags": [
+      "增程",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "li-auto-l8",
+     "name": "理想L8",
+     "nameEn": "Li L8",
+     "type": "中大型SUV",
+     "price": {
+      "min": 320000,
+      "max": 380000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想的中大型六座家庭SUV,空间与舒适配置拉满,智能辅助驾驶全系标配,增程动力兼顾油耗与续航。适合三代同堂与多口之家出行。作为L系列的中坚车型,它是六座家庭SUV市场的热门选择。",
+     "highlights": [
+      "六座布局",
+      "辅助驾驶标配",
+      "舒适配置"
+     ],
+     "tags": [
+      "增程",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "li-auto-l9",
+     "name": "理想L9",
+     "nameEn": "Li L9",
+     "type": "大型SUV",
+     "price": {
+      "min": 409800,
+      "max": 459800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想的旗舰全尺寸大型六座SUV,增程综合续航超1000公里,后舱娱乐屏、车载冰箱等家庭配置齐备。适合预算充足、追求全家舒适出行的用户。作为品牌旗舰标杆,它代表了国产家庭豪华SUV的高水准。",
+     "highlights": [
+      "全尺寸六座",
+      "续航1000km+",
+      "后舱娱乐屏"
+     ],
+     "tags": [
+      "增程",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "li-auto-mega",
+     "name": "理想MEGA",
+     "nameEn": "Li MEGA",
+     "type": "MPV",
+     "price": {
+      "min": 529800,
+      "max": 559800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "理想的纯电旗舰MPV,风阻系数低至0.215,续航超700公里,流线造型前卫大胆,上市即引发全民热议。适合高端家庭出行与商务接待场景。作为理想纯电路线的探索之作,它试图刷新纯电MPV的上限,话题度极高。",
+     "highlights": [
+      "超低风阻",
+      "续航700km+",
+      "旗舰MPV"
+     ],
+     "tags": [
+      "纯电",
+      "MPV"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "aito",
+   "name": "问界",
+   "nameEn": "AITO",
+   "domain": "aitoauto.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2021,
+   "hq": "重庆",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "鸿蒙座舱",
+    "华为智驾",
+    "增程"
+   ],
+   "slogan": "智慧重塑豪华",
+   "desc": "华为与赛力斯联手打造的高端智慧汽车品牌,搭载鸿蒙座舱与华为ADS高阶智驾,问界M9曾登顶50万元以上豪华车销量榜首。",
+   "story": "2021年,赛力斯与华为合作推出高端品牌AITO问界,首款车型M5率先搭载鸿蒙智能座舱;2023年新M7上市后大定突破10万台,成为现象级爆款。\n问界由赛力斯生产制造,华为深度参与产品定义、研发与渠道销售,依托ADS高阶智驾与鸿蒙生态迅速跻身中国豪华新能源头部阵营,是华为智选车模式的旗舰。",
+   "products": [
+    {
+     "id": "aito-m5",
+     "name": "问界M5",
+     "nameEn": "AITO M5",
+     "type": "中型SUV",
+     "price": {
+      "min": 230000,
+      "max": 280000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "问界的开山之作,中型SUV,提供增程与纯电双动力,搭载华为ADS高阶智驾与鸿蒙座舱,操控质感扎实。适合注重智能体验的都市用户与家庭。作为品牌首款车型,它打开了问界与华为深度合作的智选车市场。",
+     "highlights": [
+      "增程/纯电",
+      "鸿蒙座舱",
+      "华为智驾"
+     ],
+     "tags": [
+      "智驾",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "aito-m7",
+     "name": "问界M7",
+     "nameEn": "AITO M7",
+     "type": "中大型SUV",
+     "price": {
+      "min": 249800,
+      "max": 329800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "问界中大型增程SUV,提供五座与六座布局,搭载华为ADS智驾,新M7上市后大定突破10万台,空间、智驾与性价比全面爆发。适合家庭用户与注重智能驾驶的消费者。作为现象级爆款,它一举扭转销量格局,成为增程SUV市场的标杆。",
+     "highlights": [
+      "大定破10万",
+      "六座可选",
+      "ADS智驾"
+     ],
+     "tags": [
+      "增程",
+      "爆款"
+     ],
+     "image": null
+    },
+    {
+     "id": "aito-m8",
+     "name": "问界M8",
+     "nameEn": "AITO M8",
+     "type": "大型SUV",
+     "price": {
+      "min": 359800,
+      "max": 449800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "问界2025年发布的全尺寸大型旗舰SUV,衔接M7与M9之间的市场空间,豪华六座布局,华为ADS高阶智驾与豪华配置一应俱全。适合高端家庭与商务用户。作为品牌矩阵的补强之作,它进一步夯实了问界在高端SUV市场的竞争力。",
+     "highlights": [
+      "全尺寸旗舰",
+      "ADS 3.0",
+      "豪华六座"
+     ],
+     "tags": [
+      "旗舰",
+      "智驾"
+     ],
+     "image": null
+    },
+    {
+     "id": "aito-m9",
+     "name": "问界M9",
+     "nameEn": "AITO M9",
+     "type": "大型SUV",
+     "price": {
+      "min": 469800,
+      "max": 569800,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "问界旗舰大型SUV,集鸿蒙座舱、华为ADS智驾与途灵底盘于一体,曾登顶50万元以上豪华车销量榜首。适合高端商务与家庭用户。作为科技豪华的集大成者,它改写了国产品牌在高端豪华市场的地位。",
+     "highlights": [
+      "50万级销冠",
+      "途灵底盘",
+      "鸿蒙座舱"
+     ],
+     "tags": [
+      "旗舰",
+      "科技"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "zeekr",
+   "name": "极氪",
+   "nameEn": "ZEEKR",
+   "domain": "zeekrlife.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2021,
+   "hq": "宁波",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "浩瀚架构",
+    "纯电",
+    "高性能"
+   ],
+   "slogan": "",
+   "desc": "吉利旗下全球高端纯电品牌,基于SEA浩瀚架构打造,001开创猎装轿跑品类,009树立纯电豪华MPV标杆,2024年登陆纽交所。",
+   "story": "2021年4月,吉利在宁波发布极氪品牌,首车001以猎装造型与三电性能出圈;2022年009上市树立纯电豪华MPV标杆,2024年5月极氪登陆纽交所,是成立到上市最快的新能源车企之一。\n极氪整合吉利在架构、三电与安全上的深厚积累,产品覆盖轿车、SUV与MPV,年销量突破22万台,并与领克整合为极氪科技集团,加速全球化布局。",
+   "products": [
+    {
+     "id": "zeekr-001",
+     "name": "极氪001",
+     "nameEn": "ZEEKR 001",
+     "type": "中大型轿车",
+     "price": {
+      "min": 259000,
+      "max": 329000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "极氪的中大型猎装轿跑,浩瀚架构的首款量产车,双电机四驱3.8秒破百,猎装造型辨识度极高。适合追求个性与性能的潮流用户。作为猎装车品类在中国的开山之作,它是极氪最具辨识度的图腾车型。",
+     "highlights": [
+      "猎装造型",
+      "浩瀚架构",
+      "3.8秒破百"
+     ],
+     "tags": [
+      "纯电",
+      "性能"
+     ],
+     "image": null
+    },
+    {
+     "id": "zeekr-007",
+     "name": "极氪007",
+     "nameEn": "ZEEKR 007",
+     "type": "中型轿车",
+     "price": {
+      "min": 209000,
+      "max": 299000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "极氪的中型纯电轿车,基于800V高压平台打造,首搭金砖电池,CLTC续航最高870公里,豪华质感与性能兼备。适合注重续航与品质感的年轻用户。作为品牌轿车序列的技术代表,它把高压快充与长续航带入主流市场。",
+     "highlights": [
+      "金砖电池",
+      "续航870km",
+      "800V平台"
+     ],
+     "tags": [
+      "纯电",
+      "性能"
+     ],
+     "image": null
+    },
+    {
+     "id": "zeekr-009",
+     "name": "极氪009",
+     "nameEn": "ZEEKR 009",
+     "type": "大型MPV",
+     "price": {
+      "min": 439000,
+      "max": 790000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "极氪的大型纯电豪华MPV,全球首搭麒麟电池,座椅舒适性与静谧性出色,光辉版更向百万级市场发起冲击。适合高端商务接待与家庭出行。作为纯电豪华MPV的标杆,它树立了中国品牌在高端MPV领域的地位。",
+     "highlights": [
+      "麒麟电池首搭",
+      "豪华MPV",
+      "光辉版"
+     ],
+     "tags": [
+      "MPV",
+      "豪华"
+     ],
+     "image": null
+    },
+    {
+     "id": "zeekr-x",
+     "name": "极氪X",
+     "nameEn": "ZEEKR X",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 190000,
+      "max": 230000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "极氪基于浩瀚架构打造的都市紧凑型纯电SUV,配备可滑移中控屏等巧思设计,欧系调校带来灵动操控。适合追求精致个性的都市年轻用户。作为品牌小巧灵活之作,它以个性化与操控感在都市市场独树一帜。",
+     "highlights": [
+      "滑移智慧屏",
+      "灵动操控",
+      "都市精致"
+     ],
+     "tags": [
+      "纯电",
+      "都市"
+     ],
+     "image": null
+    },
+    {
+     "id": "zeekr-7x",
+     "name": "极氪7X",
+     "nameEn": "ZEEKR 7X",
+     "type": "中型SUV",
+     "price": {
+      "min": 229900,
+      "max": 269900,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "极氪家用取向的中型纯电SUV,基于800V高压平台,最长续航超800公里,空间、安全与舒适表现均衡。适合注重综合实力的家庭用户。作为品牌向家用市场的发力之作,它补齐了极氪的产品矩阵。",
+     "highlights": [
+      "800V平台",
+      "续航800km+",
+      "家用均衡"
+     ],
+     "tags": [
+      "纯电",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "xiaomi-auto",
+   "name": "小米汽车",
+   "nameEn": "Xiaomi Auto",
+   "domain": "xiaomiev.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2021,
+   "hq": "北京",
+   "tier": "大众",
+   "sub": "新能源",
+   "tags": [
+    "人车家生态",
+    "高性能",
+    "现象级"
+   ],
+   "slogan": "人车家全生态",
+   "desc": "小米集团旗下智能电动车业务,首款车型SU7上市即爆单,以高性能、智能生态与强大流量营销刷新行业纪录,是科技跨界造车的代表。",
+   "story": "2021年3月,雷军宣布小米进军造车,首期投入100亿元,总部设于北京亦庄;2024年3月首款车型SU7上市,24小时大定近9万台,当年交付超13万辆,成为现象级爆款。\n2025年SU7 Ultra以三电机性能标杆形象再掀话题,第二款车型YU7上市即爆单、大定迅速突破20万台,小米以人车家全生态战略切入汽车业,成为科技企业跨界造车最成功的样本。",
+   "products": [
+    {
+     "id": "xiaomi-auto-su7",
+     "name": "SU7",
+     "nameEn": "SU7",
+     "type": "中大型轿车",
+     "price": {
+      "min": 215900,
+      "max": 299900,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小米汽车首款车型,中大型纯电轿车,采用800V碳化硅平台,风阻系数低至0.195,性能、颜值与人车家生态互联三线在线。适合科技爱好者与年轻用户。上市即爆单,成为现象级新车,是互联网公司造车的代表之作。",
+     "highlights": [
+      "800V平台",
+      "0.195风阻",
+      "人车家生态"
+     ],
+     "tags": [
+      "纯电",
+      "现象级"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-auto-su7-ultra",
+     "name": "SU7 Ultra",
+     "nameEn": "SU7 Ultra",
+     "type": "中大型轿车",
+     "price": {
+      "min": 529900,
+      "max": 529900,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "SU7的高性能版本,三电机综合功率1548马力,百公里加速1.98秒,创下纽北最速四门量产车圈速纪录。适合追求极致性能的性能发烧友。作为国产高性能车的代表,它以赛道级实力刷新了世界对中国车的认知。",
+     "highlights": [
+      "1548马力",
+      "1.98秒破百",
+      "纽北圈速纪录"
+     ],
+     "tags": [
+      "性能",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "xiaomi-auto-yu7",
+     "name": "YU7",
+     "nameEn": "YU7",
+     "type": "中大型SUV",
+     "price": {
+      "min": 253500,
+      "max": 329900,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "小米首款SUV车型,中大型纯电SUV,延续家族设计语言,基于800V高压平台打造,上市即爆单、大定迅速突破20万台。适合小米生态用户与家庭消费者。人气与实力兼具,延续了小米汽车的爆款神话。",
+     "highlights": [
+      "大定破20万",
+      "800V平台",
+      "家族设计"
+     ],
+     "tags": [
+      "纯电",
+      "爆款"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "im-motors",
+   "name": "智己",
+   "nameEn": "IM Motors",
+   "domain": "im-motors.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2020,
+   "hq": "上海",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "数字底盘",
+    "智能驾驶",
+    "上汽背书"
+   ],
+   "slogan": "",
+   "desc": "上汽集团联合张江高科与阿里巴巴打造的高端智能电动品牌,以灵蜥数字底盘、准900V平台与智驾体验见长,是上汽新能源转型的排头兵。",
+   "story": "2020年12月,上汽集团、张江高科与阿里巴巴联合宣布成立高端智能电动品牌智己汽车,总部位于上海;次年发布L7与LS7,切入40万元级智能豪华市场。\n智己以智慧数字底盘与高压平台为技术标签,后来L6、LS6下探20万元级走量,灵蜥数字底盘与固态电池等新技术持续落地,销量稳步爬升。",
+   "products": [
+    {
+     "id": "im-motors-l6",
+     "name": "智己L6",
+     "nameEn": "IM L6",
+     "type": "中大型轿车",
+     "price": {
+      "min": 210000,
+      "max": 320000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "智己的走量智能轿跑,中大型轿车定位,全球首搭灵蜥数字底盘,后轮转向让大车身灵活如小车,并推出光年固态电池版本。适合追求前沿新技术的年轻用户。作为品牌技术担当,它以创新配置推动智能底盘技术的普及。",
+     "highlights": [
+      "灵蜥数字底盘",
+      "后轮转向",
+      "固态电池版"
+     ],
+     "tags": [
+      "纯电",
+      "科技"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-motors-l7",
+     "name": "智己L7",
+     "nameEn": "IM L7",
+     "type": "中大型轿车",
+     "price": {
+      "min": 330000,
+      "max": 490000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "智己的开山旗舰轿车,中大型定位,超低风阻车身与雨夜模式等创新细节独具匠心,以豪华质感切入40万元级智能轿车市场。适合注重品质与格调的高端用户。作为品牌首款车型,它奠定了智己豪华智能的品牌调性。",
+     "highlights": [
+      "开山旗舰",
+      "超低风阻",
+      "豪华质感"
+     ],
+     "tags": [
+      "旗舰",
+      "纯电"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-motors-ls6",
+     "name": "智己LS6",
+     "nameEn": "IM LS6",
+     "type": "中大型SUV",
+     "price": {
+      "min": 200000,
+      "max": 300000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "智己的中大型纯电SUV,搭载准900V高压平台与激光雷达智驾,以20万级定价重塑中大型纯电SUV的价值标准。适合追求高压快充与高阶智驾的年轻家庭。作为品牌销量担当,它是同级技术配置的标杆之作。",
+     "highlights": [
+      "准900V平台",
+      "激光雷达",
+      "销量担当"
+     ],
+     "tags": [
+      "纯电",
+      "智驾"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-motors-ls7",
+     "name": "智己LS7",
+     "nameEn": "IM LS7",
+     "type": "中大型SUV",
+     "price": {
+      "min": 290000,
+      "max": 460000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "智己的旗舰大五座SUV,超大面积穹顶玻璃座舱通透敞亮,空间与舒适取向,主打豪华居家体验。适合注重乘坐舒适与家庭氛围的用户。作为品牌旗舰SUV,它展现了智己对豪华空间的理解与表达。",
+     "highlights": [
+      "大五座",
+      "穹顶座舱",
+      "旗舰豪华"
+     ],
+     "tags": [
+      "旗舰",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "voyah",
+   "name": "岚图",
+   "nameEn": "Voyah",
+   "domain": "voyah.com.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2020,
+   "hq": "武汉",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "央企高端",
+    "双动力",
+    "高端MPV"
+   ],
+   "slogan": "",
+   "desc": "东风汽车旗下高端智慧新能源品牌,央企背景,三年完成SUV、MPV、轿车三品类布局,梦想家在高端电动MPV市场占据重要席位。",
+   "story": "2020年,东风公司发布高端新能源品牌岚图,总部位于武汉;2021年首款车型岚图FREE上市,随后追光轿车与梦想家MPV相继推出,完成三年三品类布局。\n岚图融合东风五十余年造车底蕴与华为等生态伙伴技术,知音等新车型面向全球市场,并加速出海欧洲,被视为央国企新能源转型的标杆样本。",
+   "products": [
+    {
+     "id": "voyah-free",
+     "name": "岚图FREE",
+     "nameEn": "Voyah FREE",
+     "type": "中型SUV",
+     "price": {
+      "min": 220000,
+      "max": 270000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "岚图的开山之作,中型SUV,提供增程与纯电双动力,配备升降式三联屏,性能版4秒级破百,科技与驾控兼备。适合注重动力与科技感的家庭用户。作为东风旗下高端品牌的首款车型,它承载着品牌向上的使命。",
+     "highlights": [
+      "双动力",
+      "升降三联屏",
+      "4秒级破百"
+     ],
+     "tags": [
+      "新能源",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "voyah-dream",
+     "name": "岚图梦想家",
+     "nameEn": "Voyah Dream",
+     "type": "MPV",
+     "price": {
+      "min": 340000,
+      "max": 460000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "岚图的高端电动MPV梦想家,提供纯电与插混双动力,空间与舒适配置对标百万级,行政气场十足。适合高端商务接待与多口之家出行。作为高端电动MPV的先行者,它推动了中国品牌在豪华MPV市场的崛起。",
+     "highlights": [
+      "双动力",
+      "高端MPV",
+      "行政豪华"
+     ],
+     "tags": [
+      "MPV",
+      "豪华"
+     ],
+     "image": null
+    },
+    {
+     "id": "voyah-passion",
+     "name": "岚图追光",
+     "nameEn": "Voyah Passion",
+     "type": "中大型轿车",
+     "price": {
+      "min": 320000,
+      "max": 440000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "岚图的行政级纯电轿车追光,双电机四驱与空气悬架齐备,气场与质感兼备。适合商务接待与高端行政出行场景。作为品牌轿车旗舰,它瞄准传统豪华行政座驾市场,展现了中国品牌的行政级造车实力。",
+     "highlights": [
+      "行政旗舰",
+      "空气悬架",
+      "双电机四驱"
+     ],
+     "tags": [
+      "纯电",
+      "行政"
+     ],
+     "image": null
+    },
+    {
+     "id": "voyah-courage",
+     "name": "岚图知音",
+     "nameEn": "Voyah Courage",
+     "type": "中型SUV",
+     "price": {
+      "min": 180000,
+      "max": 260000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "岚图面向全球市场的中型纯电SUV知音,可选装华为乾崑智驾,能耗表现与年轻化设计出众。适合都市年轻用户与家庭通勤使用。作为岚图的走量新车与全球化车型,它承担着品牌开拓海外市场的重任。",
+     "highlights": [
+      "华为智驾可选",
+      "全球化车型",
+      "年轻设计"
+     ],
+     "tags": [
+      "纯电",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "avatr",
+   "name": "阿维塔",
+   "nameEn": "Avatr",
+   "domain": "avatr.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2018,
+   "hq": "重庆",
+   "tier": "豪华",
+   "sub": "新能源",
+   "tags": [
+    "CHN联手",
+    "华为智驾",
+    "情感智能"
+   ],
+   "slogan": "",
+   "desc": "长安汽车联合华为、宁德时代打造的高端智能电动品牌,CHN架构集三家之长,全系搭载华为智驾与鸿蒙座舱,主打情感智能豪华车。",
+   "story": "阿维塔科技成立于2018年,前身为长安蔚来,2021年定名阿维塔,开创长安、华为、宁德时代的CHN三方合作模式,总部位于重庆。\n2022年首款车型阿维塔11上市,阿维塔12、07相继推出;2024年阿维塔入股华为车BU新公司引望,进一步深化与华为的绑定,以独特设计与情感智能为标签。",
+   "products": [
+    {
+     "id": "avatr-11",
+     "name": "阿维塔11",
+     "nameEn": "Avatr 11",
+     "type": "中大型SUV",
+     "price": {
+      "min": 300000,
+      "max": 400000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿维塔首款车型,中大型轿跑SUV,基于长安、华为、宁德时代共创的CHN架构打造,搭载华为ADS智驾与宁德时代电池,未来感造型独特。适合追求科技与设计感的用户。作为品牌开山之作,它奠定了阿维塔智能豪华的定位。",
+     "highlights": [
+      "CHN架构",
+      "华为智驾",
+      "轿跑SUV"
+     ],
+     "tags": [
+      "智驾",
+      "豪华"
+     ],
+     "image": null
+    },
+    {
+     "id": "avatr-12",
+     "name": "阿维塔12",
+     "nameEn": "Avatr 12",
+     "type": "中大型轿车",
+     "price": {
+      "min": 260000,
+      "max": 400000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿维塔旗舰纯电轿车,以电子外后视镜与无后舷窗的大胆设计成功出圈,华为ADS高阶智驾全系加持,座舱科技感十足。适合追求前卫设计与高端智能体验的用户。作为品牌旗舰轿车,它以激进设计成为话题之作。",
+     "highlights": [
+      "电子外后视镜",
+      "无后舷窗设计",
+      "华为智驾"
+     ],
+     "tags": [
+      "旗舰",
+      "设计"
+     ],
+     "image": null
+    },
+    {
+     "id": "avatr-07",
+     "name": "阿维塔07",
+     "nameEn": "Avatr 07",
+     "type": "中型SUV",
+     "price": {
+      "min": 220000,
+      "max": 290000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "阿维塔2024年发布的走量中型SUV,提供增程与纯电双动力,搭载华为乾崑ADS 3.0,延续家族未来感设计语言。适合注重智驾与设计的中产家庭用户。上市即进入热销行列,成为品牌销量的重要支柱。",
+     "highlights": [
+      "增程/纯电",
+      "乾崑智驾",
+      "家族设计"
+     ],
+     "tags": [
+      "智驾",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "geely",
+   "name": "吉利",
+   "nameEn": "Geely",
+   "domain": "geely.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1986,
+   "hq": "杭州",
+   "tier": "大众",
+   "sub": "家用",
+   "tags": [
+    "自主龙头",
+    "全球化",
+    "架构造车"
+   ],
+   "slogan": "造每个人的精品车",
+   "desc": "中国自主品牌头部车企,2010年收购沃尔沃开启全球化征程,拥有吉利、领克、极氪等品牌,银河系列与中国星高端序列销量强劲。",
+   "story": "1986年,李书福在台州创业,1997年进军汽车行业,从豪情、美日起步快速成长;2010年收购沃尔沃轿车公司震动业界,此后又入股戴姆勒、与雷诺成立合资公司。\n吉利以CMA、SEA等模块化架构和雷神混动构建技术体系,银河新能源系列迅速上量,稳居中国车企销量前列,是自主品牌的全球化标杆。",
+   "products": [
+    {
+     "id": "geely-dihao",
+     "name": "帝豪",
+     "nameEn": "Emgrand",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 60000,
+      "max": 100000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利旗下紧凑型家轿,定位大众化家用市场。设计稳重耐看,技术成熟,以皮实耐用、养护成本低见长。适合首次购车的家庭用户与预算务实的代步人群。作为国民家轿常青树,家族累计销量数百万辆,是中国车市的经典车型之一。",
+     "highlights": [
+      "常青树",
+      "经济耐用",
+      "高性价比"
+     ],
+     "tags": [
+      "家轿",
+      "国民"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-xingrui",
+     "name": "星瑞",
+     "nameEn": "Xingrui",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 100000,
+      "max": 160000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利基于CMA架构打造的紧凑型轿车,以家轿颠覆者姿态切入家用市场。搭载2.0T发动机,动力、尺寸、配置与做工全面越级,质感接近更高级别车型。适合注重动力与品质感的家庭用户。凭借越级产品力成为国产紧凑级轿车的标杆之作。",
+     "highlights": [
+      "CMA架构",
+      "2.0T动力",
+      "越级配置"
+     ],
+     "tags": [
+      "家轿",
+      "运动"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-xingyue-l",
+     "name": "星越L",
+     "nameEn": "Xingyue L",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 130000,
+      "max": 190000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利CMA架构打造的紧凑型SUV,定位燃油SUV价值标杆。2.0T发动机搭配爱信8AT,尺寸与豪华感直逼更高级别车型,行驶质感扎实。适合对动力、舒适与空间要求较高的家庭用户。以越级产品力树立同级价值标杆,是吉利品牌向上的代表车型。",
+     "highlights": [
+      "CMA架构",
+      "爱信8AT",
+      "越级尺寸"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-boyue-l",
+     "name": "博越L",
+     "nameEn": "Boyue L",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 110000,
+      "max": 160000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利博越家族新一代主力,紧凑型SUV,基于CMA架构打造,可选雷神混动,智能化配置丰富,设计兼顾家用舒适与科技感。适合注重智能体验与燃油经济性的家庭用户。传承博越国民SUV口碑,是吉利燃油与混动并行的销量主力之一。",
+     "highlights": [
+      "CMA架构",
+      "混动可选",
+      "国民口碑"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-yinhe-l7",
+     "name": "银河L7",
+     "nameEn": "Galaxy L7",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 120000,
+      "max": 170000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利银河系列首款车型,紧凑型插电混动SUV。搭载雷神电混系统,综合续航超1300公里,智能座舱与电混体验兼顾,造型走科技时尚路线。适合既要长途无焦虑又想降低用车成本的家庭用户。作为银河系列开山之作,承载吉利新能源转型的重要布局。",
+     "highlights": [
+      "雷神电混",
+      "续航1300km+",
+      "智能座舱"
+     ],
+     "tags": [
+      "混动",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-yinhe-e5",
+     "name": "银河E5",
+     "nameEn": "Galaxy E5",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 110000,
+      "max": 150000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利GEA架构打造的纯电紧凑型SUV,定位全球化车型。首搭神盾短刀电池,空间利用率出色,设计与智能化配置面向全球市场。适合城市通勤与家庭日常出行的纯电用户。上市后迅速月销破万,是吉利新能源矩阵中增长迅速的主力车型。",
+     "highlights": [
+      "神盾短刀电池",
+      "GEA架构",
+      "全球车"
+     ],
+     "tags": [
+      "纯电",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-xingyuan",
+     "name": "星愿",
+     "nameEn": "Xingyuan",
+     "type": "小型车",
+     "price": {
+      "min": 70000,
+      "max": 100000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利A0级纯电小车,采用后置后驱布局,空间与配置在同级中越级,造型圆润讨喜。适合城市通勤、年轻用户与家庭第二辆车的代步需求。上市即跻身新能源轿车销量榜前列,堪称同级销量黑马,体现吉利在入门纯电市场的产品功力。",
+     "highlights": [
+      "后驱布局",
+      "A0级",
+      "销量黑马"
+     ],
+     "tags": [
+      "纯电",
+      "代步"
+     ],
+     "image": null
+    },
+    {
+     "id": "geely-panda",
+     "name": "熊猫",
+     "nameEn": "Panda",
+     "type": "微型车",
+     "price": {
+      "min": 30000,
+      "max": 60000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "吉利微型纯电车,定位三万级国民代步车。车身小巧灵活、好停好开,造型呆萌,主打实惠实用的城市短途出行。适合预算有限的通勤族与买菜接娃的家庭用户。以超低售价与灵活便利性,成为城市电动代步车市场的实惠之选。",
+     "highlights": [
+      "国民代步",
+      "超低售价",
+      "小巧灵活"
+     ],
+     "tags": [
+      "代步",
+      "国民"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "lynk-co",
+   "name": "领克",
+   "nameEn": "Lynk & Co",
+   "domain": "lynkco.com",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2016,
+   "hq": "杭州",
+   "tier": "大众",
+   "sub": "性能",
+   "tags": [
+    "年轻运动",
+    "潮流社群",
+    "CMA架构"
+   ],
+   "slogan": "",
+   "desc": "吉利与沃尔沃联合打造的高端品牌,诞生于CMA架构,以都市对立美学设计与运动驾控著称,领克03+开创中国品牌性能车先河。",
+   "story": "2016年,领克在德国柏林全球发布,由吉利与沃尔沃联合开发的CMA架构孕育,2017年首款车型领克01上市;领克03赛车随后在WTCR房车世界杯夺冠,03+更成为国产性能车标杆。\n领克以都市对立美学和Co客社群文化独树一帜,2024年与极氪整合为极氪科技集团,EM-P电混与Z系列纯电双线并进,并借欧洲战略加速出海。",
+   "products": [
+    {
+     "id": "lynk-co-01",
+     "name": "领克01",
+     "nameEn": "Lynk & Co 01",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 160000,
+      "max": 220000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克品牌开山之作,紧凑型SUV,基于与沃尔沃联合开发的CMA架构打造,动力与安全体系同源。采用都市对立美学设计,做工用料越级。适合注重品质与驾驶质感的城市家庭用户。见证中国高端品牌的起步,是领克品牌历史的起点车型。",
+     "highlights": [
+      "CMA架构",
+      "沃尔沃同源",
+      "开山之作"
+     ],
+     "tags": [
+      "SUV",
+      "品质"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-03",
+     "name": "领克03",
+     "nameEn": "Lynk & Co 03",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 120000,
+      "max": 200000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克运动紧凑型轿车,设计低趴激进,运动基因浓厚,并提供03+性能版本。适合热爱驾驶、追求个性的年轻玩家。领克03 TCR赛车曾问鼎WTCR世界冠军,是中国品牌在世界顶级房车赛事的里程碑,03+也深受性能爱好者追捧。",
+     "highlights": [
+      "WTCR冠军",
+      "03+性能版",
+      "运动基因"
+     ],
+     "tags": [
+      "运动",
+      "轿车"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-05",
+     "name": "领克05",
+     "nameEn": "Lynk & Co 05",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 180000,
+      "max": 240000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克紧凑型轿跑SUV,溜背造型与运动化调校是核心特征,05+版本搭载高功率2.0T动力,设计辨识度高,运动氛围浓厚。适合追求个性造型与驾驶乐趣的进阶玩家。以轿跑SUV身份在领克家族中独树一帜,丰富了品牌的性能产品线。",
+     "highlights": [
+      "轿跑造型",
+      "05+性能版",
+      "运动调校"
+     ],
+     "tags": [
+      "运动",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-06",
+     "name": "领克06",
+     "nameEn": "Lynk & Co 06",
+     "type": "小型SUV",
+     "price": {
+      "min": 110000,
+      "max": 150000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克入门小型SUV,基于BMA架构打造,面向年轻用户。潮流配色与精致细节突出,配置在同价位表现出色。适合首次购车、预算有限但注重品质与潮流感的年轻人。作为品牌年轻化的排头兵,承担领克吸引新生代用户的产品使命。",
+     "highlights": [
+      "BMA架构",
+      "年轻潮流",
+      "入门首选"
+     ],
+     "tags": [
+      "年轻",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-07",
+     "name": "领克07 EM-P",
+     "nameEn": "Lynk & Co 07 EM-P",
+     "type": "中型轿车",
+     "price": {
+      "min": 170000,
+      "max": 200000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克中型电混轿车,搭载EM-P超级电混系统,行驶平顺、油耗经济,家用空间充裕,设计延续品牌运动风格。适合兼顾通勤经济性与长途出行的家庭用户。是领克新能源轿车的主力车型,承载品牌电动化转型的核心产品线。",
+     "highlights": [
+      "EM-P电混",
+      "省油平顺",
+      "家用舒适"
+     ],
+     "tags": [
+      "混动",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-08",
+     "name": "领克08 EM-P",
+     "nameEn": "Lynk & Co 08 EM-P",
+     "type": "中型SUV",
+     "price": {
+      "min": 210000,
+      "max": 260000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克EM-P电混旗舰中型SUV,性能与能耗兼备,配备哈曼卡顿音响与豪华座舱,设计科技感强烈。适合注重品质、智能化与长途续航能力的中产家庭。作为品牌新能源时代的支柱车型,是领克高端电混市场的销量与口碑担当。",
+     "highlights": [
+      "EM-P电混",
+      "哈曼卡顿音响",
+      "豪华座舱"
+     ],
+     "tags": [
+      "混动",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-09",
+     "name": "领克09",
+     "nameEn": "Lynk & Co 09",
+     "type": "中大型SUV",
+     "price": {
+      "min": 240000,
+      "max": 340000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克旗舰中大型SUV,源自与沃尔沃XC90同源的SPA架构,提供大六座布局,可选空气悬架,气场与空间兼具,内饰用料讲究。适合多人口家庭与注重豪华质感的用户。作为品牌旗舰,代表领克冲击更高端市场的产品实力。",
+     "highlights": [
+      "SPA架构",
+      "大六座",
+      "空气悬架可选"
+     ],
+     "tags": [
+      "旗舰",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "lynk-co-z10",
+     "name": "领克Z10",
+     "nameEn": "Lynk & Co Z10",
+     "type": "中大型轿车",
+     "price": {
+      "min": 200000,
+      "max": 290000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "领克首款纯电旗舰中大型轿车,基于800V高压平台,配备激光雷达智驾,原创设计辨识度极高,运动轿跑风格鲜明。适合追求科技配置与驾驶质感的高端纯电用户。承载领克进军纯电市场的野心,是品牌电动化战略的旗舰之作。",
+     "highlights": [
+      "800V平台",
+      "激光雷达",
+      "纯电旗舰"
+     ],
+     "tags": [
+      "纯电",
+      "旗舰"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "gwm",
+   "name": "长城",
+   "nameEn": "GWM",
+   "domain": "gwm.com.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1984,
+   "hq": "保定",
+   "tier": "大众",
+   "sub": "越野",
+   "tags": [
+    "SUV专家",
+    "硬派越野",
+    "皮卡"
+   ],
+   "slogan": "",
+   "desc": "专注SUV与皮卡三十余年的中国车企,哈弗H6曾创造SUV销量神话,坦克引领硬派越野风潮,长城炮常年稳居皮卡市场第一。",
+   "story": "长城汽车1984年创立于河北保定,以皮卡起家,哈弗H6曾连续多年蝉联中国SUV销量冠军;2016年发布高端品牌魏牌,随后坦克、欧拉等细分品牌陆续登场。\n长城坚持品类造车战略,坦克300掀起中国硬派越野热潮,长城炮让皮卡走向乘用化,同时在泰国、巴西等地建立海外工厂,海外销量占比不断提升。",
+   "products": [
+    {
+     "id": "gwm-haval-h6",
+     "name": "哈弗H6",
+     "nameEn": "Haval H6",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 100000,
+      "max": 140000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长城哈弗旗下紧凑型SUV,定位国民家用SUV。设计均衡大气,空间实用,以可靠耐用著称,动力版本选择丰富。适合注重性价比与省心的普通家庭用户。累计销量数百万辆,曾连续多年蝉联中国SUV月度销量冠军,是中国车市的销量传奇。",
+     "highlights": [
+      "国民神车",
+      "销量传奇",
+      "均衡可靠"
+     ],
+     "tags": [
+      "SUV",
+      "国民"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-haval-dargo",
+     "name": "哈弗大狗",
+     "nameEn": "Haval Dargo",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 120000,
+      "max": 170000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "哈弗旗下轻越野定位紧凑型SUV,采用复古圆灯与方正硬朗造型,以三分之四刻度理念兼顾城市舒适与轻度越野能力。适合既日常通勤又向往周末郊游的年轻家庭。以潮玩命名与差异化定位,开创了城市SUV与硬派越野之间的细分市场。",
+     "highlights": [
+      "轻越野",
+      "复古圆灯",
+      "潮玩命名"
+     ],
+     "tags": [
+      "SUV",
+      "潮流"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-tank-300",
+     "name": "坦克300",
+     "nameEn": "Tank 300",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 200000,
+      "max": 280000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "坦克品牌硬派越野紧凑型SUV,采用非承载式车身与三把锁,越野硬件扎实,复古硬朗设计极具辨识度。适合越野爱好者与追求个性的城市用户。以现象级表现掀起中国越野文化热潮,让硬派越野从小众走向大众,是坦克品牌的功勋车型。",
+     "highlights": [
+      "非承载车身",
+      "三把锁",
+      "越野热潮引领者"
+     ],
+     "tags": [
+      "越野",
+      "硬派"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-tank-500",
+     "name": "坦克500",
+     "nameEn": "Tank 500",
+     "type": "中大型SUV",
+     "price": {
+      "min": 330000,
+      "max": 400000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "坦克品牌豪华硬派中大型SUV,搭载3.0T V6与9AT的国产动力组合首秀,另有Hi4-T插混版本,内饰豪华与越野能力兼得。适合兼顾商务接待与户外越野的高端用户。以豪华越野定位,拓宽了中国品牌在高端越野市场的想象空间。",
+     "highlights": [
+      "3.0T V6",
+      "Hi4-T插混",
+      "豪华越野"
+     ],
+     "tags": [
+      "越野",
+      "豪华"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-wey-lanshan",
+     "name": "魏牌蓝山",
+     "nameEn": "WEY Lanshan",
+     "type": "大型SUV",
+     "price": {
+      "min": 300000,
+      "max": 360000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "魏牌旗舰大型六座SUV,搭载Hi4电混四驱系统,智驾与舒适配置全面升级,内饰强调家庭豪华氛围。适合注重空间、舒适与智能化的多人口家庭。作为魏牌家庭旗舰,直指高端家庭出行市场,是长城新能源高端化的代表车型。",
+     "highlights": [
+      "Hi4四驱",
+      "大六座",
+      "家庭旗舰"
+     ],
+     "tags": [
+      "混动",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-wey-gaoshan",
+     "name": "魏牌高山",
+     "nameEn": "WEY Gaoshan",
+     "type": "MPV",
+     "price": {
+      "min": 300000,
+      "max": 400000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "魏牌高端新能源MPV,搭载Hi4四驱插混系统,超大空间与行政级座舱,行政版以百万级气场冲击高端商务市场。适合商务接待与多代同堂的家庭出行场景。以国产高端插混MPV身份,为高端MPV市场提供了带绿牌的新选择。",
+     "highlights": [
+      "插混MPV",
+      "Hi4四驱",
+      "行政座舱"
+     ],
+     "tags": [
+      "MPV",
+      "行政"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-poer",
+     "name": "长城炮",
+     "nameEn": "GWM Poer",
+     "type": "皮卡",
+     "price": {
+      "min": 100000,
+      "max": 200000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长城旗下乘用化皮卡,提供柴油、汽油与新能源多种动力,设计兼具硬朗与精致,舒适配置向乘用车看齐。适合工程作业、户外越野与多用途出行人群。常年稳居中国皮卡销量冠军,开创乘用化皮卡风潮,推动国内皮卡文化兴起。",
+     "highlights": [
+      "皮卡销冠",
+      "乘用化",
+      "多动力"
+     ],
+     "tags": [
+      "皮卡",
+      "实用"
+     ],
+     "image": null
+    },
+    {
+     "id": "gwm-ora-good-cat",
+     "name": "欧拉好猫",
+     "nameEn": "Ora Good Cat",
+     "type": "小型车",
+     "price": {
+      "min": 100000,
+      "max": 140000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "欧拉旗下复古美学纯电小型车,圆润造型与精致内饰融合经典设计元素,以猫系命名颇具亲和力。适合注重颜值与便利性的女性用户与城市通勤人群。以独特复古设计成功出圈,是中国品牌在女性友好电动车细分市场的代表作。",
+     "highlights": [
+      "复古美学",
+      "精致代步",
+      "女性友好"
+     ],
+     "tags": [
+      "纯电",
+      "时尚"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "hongqi",
+   "name": "红旗",
+   "nameEn": "Hongqi",
+   "domain": "hongqi.faw.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1958,
+   "hq": "长春",
+   "tier": "豪华",
+   "sub": "行政",
+   "tags": [
+    "国车",
+    "民族品牌",
+    "行政豪华"
+   ],
+   "slogan": "",
+   "desc": "中国第一汽车集团旗下品牌,新中国第一辆国产轿车的缔造者,国车形象深入人心,如今以H、HS、E等系列加速年轻化与新能源转型。",
+   "story": "1958年,第一汽车制造厂造出新中国第一辆国产轿车,红旗牌高级轿车由此诞生,长期担任国庆阅兵与外交礼宾用车,是民族汽车工业的图腾。\n2018年红旗品牌全面焕新,从H5、HS5到旗舰H9,产品线快速扩张,年销量跃升至30万辆级,并推出E-HS9、天工等新能源车型,向年轻化、电动化转型。",
+   "products": [
+    {
+     "id": "hongqi-h5",
+     "name": "红旗H5",
+     "nameEn": "Hongqi H5",
+     "type": "中型轿车",
+     "price": {
+      "min": 160000,
+      "max": 220000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗中型轿车,定位品牌销量担当,是15万级即可拥有的红旗B级车。设计延续国潮庄重风格,直瀑格栅气场十足,兼顾商务与家用。适合预算适中又看重品牌形象的用户。让红旗走进寻常百姓家,是国车品牌亲民化的关键车型。",
+     "highlights": [
+      "国潮设计",
+      "销量担当",
+      "高性价比"
+     ],
+     "tags": [
+      "家轿",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "hongqi-hs5",
+     "name": "红旗HS5",
+     "nameEn": "Hongqi HS5",
+     "type": "中型SUV",
+     "price": {
+      "min": 180000,
+      "max": 250000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗中型SUV,搭载2.0T动力,豪华配置下放,设计庄重大气,做工体现品牌豪华水准。适合看重品牌与豪华感、预算20万级的家庭用户。作为品牌走量SUV,是国货豪华SUV市场的代表性选择,助力红旗在民用车市场站稳脚跟。",
+     "highlights": [
+      "2.0T动力",
+      "国货豪华",
+      "家庭SUV"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "hongqi-hs7",
+     "name": "红旗HS7",
+     "nameEn": "Hongqi HS7",
+     "type": "中大型SUV",
+     "price": {
+      "min": 250000,
+      "max": 360000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗中大型旗舰SUV,直瀑式格栅气场十足,空间宽敞,内饰用料讲究。适合公务接待、商务出行与追求大空间的家庭用户。作为品牌中大型旗舰,延续红旗的庄重气质,是国产高端SUV市场中的高端选择之一。",
+     "highlights": [
+      "旗舰气场",
+      "宽大空间",
+      "直瀑格栅"
+     ],
+     "tags": [
+      "旗舰",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "hongqi-h9",
+     "name": "红旗H9",
+     "nameEn": "Hongqi H9",
+     "type": "中大型轿车",
+     "price": {
+      "min": 310000,
+      "max": 540000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗旗舰行政中大型轿车,高山飞瀑式格栅与庄重车身设计极具气场,提供2.0T/3.0T动力,后排注重行政舒适。适合商务接待与政务出行场景。被视为国产行政豪华轿车的代表作,以国车气质对标国际豪华品牌旗舰。",
+     "highlights": [
+      "行政旗舰",
+      "3.0T可选",
+      "国车气场"
+     ],
+     "tags": [
+      "行政",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "hongqi-hq9",
+     "name": "红旗HQ9",
+     "nameEn": "Hongqi HQ9",
+     "type": "MPV",
+     "price": {
+      "min": 360000,
+      "max": 540000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗首款豪华MPV,搭载2.0T+48V轻混动力,礼宾级后排与国宾气场兼备,内饰豪华庄重。适合高端商务接待、政企出行与多人口家庭。作为红旗进军MPV市场的开山之作,为国产高端MPV注入独特的礼宾文化气质。",
+     "highlights": [
+      "首款MPV",
+      "礼宾后排",
+      "48V轻混"
+     ],
+     "tags": [
+      "MPV",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "hongqi-e-hs9",
+     "name": "红旗E-HS9",
+     "nameEn": "Hongqi E-HS9",
+     "type": "大型SUV",
+     "price": {
+      "min": 510000,
+      "max": 780000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "红旗纯电旗舰大型SUV,方正庄重的东方美学设计,双电机四驱,内饰营造豪华科技氛围。适合高端商务接待与追求气场的新能源用户。气场对标国际百万级豪华SUV,是红旗在纯电豪华领域展示品牌形象的旗舰之作。",
+     "highlights": [
+      "纯电旗舰",
+      "东方美学",
+      "双电机四驱"
+     ],
+     "tags": [
+      "纯电",
+      "旗舰"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "gac-trumpchi",
+   "name": "传祺",
+   "nameEn": "GAC Trumpchi",
+   "domain": "gac-motors.com.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 2010,
+   "hq": "广州",
+   "tier": "大众",
+   "sub": "家用",
+   "tags": [
+    "广汽自主",
+    "MPV强项",
+    "务实可靠"
+   ],
+   "slogan": "",
+   "desc": "广汽集团自主品牌,依托广汽研究院与合资体系能力成长,GS4、GS8家喻户晓,M8扛起国产高端MPV大旗,向往系列加速能源多元化。",
+   "story": "2010年,首款传祺GA5问世,背靠广汽与本田、丰田合资多年积累的制造体系迅速成长,GS4曾位居中国SUV销量榜前列。\n传祺深耕MPV市场,M6、M8构建起中国MPV专家的口碑,E9插混旗舰与向往系列瞄准高端新能源市场,并持续发力东南亚、中东等海外市场。",
+   "products": [
+    {
+     "id": "gac-trumpchi-gs3",
+     "name": "传祺GS3·影速",
+     "nameEn": "GS3 Empow",
+     "type": "小型SUV",
+     "price": {
+      "min": 90000,
+      "max": 120000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺小型SUV,隶属影字辈运动家族,采用运动化设计语言,配置越级,主打八万级高性价比。适合预算有限的年轻用户与城市代步家庭。以动感造型与实惠价格,成为小型SUV市场中年轻化路线的实惠之选。",
+     "highlights": [
+      "运动设计",
+      "高性价比",
+      "小型SUV"
+     ],
+     "tags": [
+      "年轻",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "gac-trumpchi-gs8",
+     "name": "传祺GS8",
+     "nameEn": "GS8",
+     "type": "中大型SUV",
+     "price": {
+      "min": 170000,
+      "max": 260000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺旗舰中大型七座SUV,双擎版首搭丰田THS混动系统,技术含金量高,外观硬朗大气,空间宽裕。适合注重燃油经济性的多人口家庭与长途出行用户。作为国产大七座SUV代表,与丰田混动合作开创了国产SUV的技术新路径。",
+     "highlights": [
+      "丰田THS混动",
+      "大七座",
+      "旗舰气场"
+     ],
+     "tags": [
+      "SUV",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "gac-trumpchi-empow",
+     "name": "传祺影豹",
+     "nameEn": "Empow",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 100000,
+      "max": 140000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺平民轿跑紧凑型轿车,1.5T动力百公里加速6.95秒,运动套件与排气声浪营造浓厚战斗氛围。适合预算不高却热爱运动风格的年轻用户。以国民性能家轿姿态引爆年轻市场,是国产紧凑级运动轿车的现象级车型。",
+     "highlights": [
+      "6.95秒破百",
+      "运动套件",
+      "平民轿跑"
+     ],
+     "tags": [
+      "运动",
+      "年轻"
+     ],
+     "image": null
+    },
+    {
+     "id": "gac-trumpchi-m6",
+     "name": "传祺M6",
+     "nameEn": "M6",
+     "type": "MPV",
+     "price": {
+      "min": 120000,
+      "max": 160000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺家用紧凑型MPV,大空间与灵活座椅布局,设计以实用为主,价格亲民,养车成本可控。适合二孩家庭、多人口出行与预算有限的商务接待用户。以12万级七座出行高性价比方案,在国民家用MPV市场拥有扎实口碑。",
+     "highlights": [
+      "家用MPV",
+      "大空间",
+      "高性价比"
+     ],
+     "tags": [
+      "MPV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "gac-trumpchi-m8",
+     "name": "传祺M8",
+     "nameEn": "M8",
+     "type": "MPV",
+     "price": {
+      "min": 180000,
+      "max": 340000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺高端MPV,大师版气场直逼丰田埃尔法,内饰豪华,后排配置丰富。适合商务接待、企业用车与注重体面的家庭用户。常年位居国产高端MPV销量前列,被视为国产高端MPV标杆,是中国品牌挑战合资豪华MPV的实力代表。",
+     "highlights": [
+      "高端MPV",
+      "大师版",
+      "商务标杆"
+     ],
+     "tags": [
+      "MPV",
+      "商务"
+     ],
+     "image": null
+    },
+    {
+     "id": "gac-trumpchi-e9",
+     "name": "传祺E9",
+     "nameEn": "E9",
+     "type": "MPV",
+     "price": {
+      "min": 330000,
+      "max": 400000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "传祺插电混动旗舰MPV,2.0T插混系统综合续航超1000公里,可上绿牌,内饰强调商务豪华。适合商务接待与家庭长途出行兼顾的用户。以绿牌无焦虑的高端MPV定位,为新能源时代的商务出行提供了新选择。",
+     "highlights": [
+      "插混旗舰",
+      "续航1000km+",
+      "商务豪华"
+     ],
+     "tags": [
+      "MPV",
+      "新能源"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "chery",
+   "name": "奇瑞",
+   "nameEn": "Chery",
+   "domain": "chery.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1997,
+   "hq": "芜湖",
+   "tier": "大众",
+   "sub": "家用",
+   "tags": [
+    "出口冠军",
+    "发动机技术",
+    "理工男"
+   ],
+   "slogan": "",
+   "desc": "中国品牌乘用车出口冠军,以正向研发和发动机技术著称的理工男,瑞虎系列畅销全球,旗下拥有奇瑞、星途、捷途、iCAR等品牌。",
+   "story": "1997年,奇瑞在芜湖创业,1999年第一台发动机下线,2001年风云轿车上市即热销;多年来坚持正向研发,ACTECO发动机与鲲鹏动力成为技术名片。\n奇瑞连续二十余年蝉联中国品牌乘用车出口第一,产品远销80多个国家,2024年集团销量突破260万辆、营收迈上4800亿元台阶,成为中国汽车出海的一面旗帜。",
+   "products": [
+    {
+     "id": "chery-tiggo-7",
+     "name": "瑞虎7",
+     "nameEn": "Tiggo 7",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 80000,
+      "max": 140000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞紧凑型SUV,可选鲲鹏动力,设计均衡务实,品质与性价比兼顾,作为全球车型在国内外市场均有销售。适合注重可靠性与经济性的家用用户。凭借扎实口碑成为奇瑞SUV家族的中坚,体现奇瑞全球化布局的产品实力。",
+     "highlights": [
+      "鲲鹏动力",
+      "全球车型",
+      "均衡务实"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "chery-tiggo-8",
+     "name": "瑞虎8",
+     "nameEn": "Tiggo 8",
+     "type": "中型SUV",
+     "price": {
+      "min": 90000,
+      "max": 160000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞中型家用旗舰SUV,提供七座布局,1.6T/2.0T鲲鹏动力充沛,空间灵活实用。适合多人口家庭与注重动力技术的用户。常年月销过万,作为奇瑞销量支柱,是国产七座SUV市场中技术流与性价比兼顾的代表。",
+     "highlights": [
+      "七座可选",
+      "鲲鹏动力",
+      "销量支柱"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "chery-tiggo-9",
+     "name": "瑞虎9",
+     "nameEn": "Tiggo 9",
+     "type": "中大型SUV",
+     "price": {
+      "min": 150000,
+      "max": 210000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞火星架构旗舰中大型SUV,搭载2.0T高功率动力与CDC悬架,行驶质感与配置向高端看齐。适合追求舒适与科技体验的家庭用户。扛起奇瑞品牌向上的旗舰大旗,展示奇瑞在整车架构技术层面的深厚积累。",
+     "highlights": [
+      "火星架构",
+      "2.0T高功",
+      "CDC悬架"
+     ],
+     "tags": [
+      "旗舰",
+      "SUV"
+     ],
+     "image": null
+    },
+    {
+     "id": "chery-arrizo-8",
+     "name": "艾瑞泽8",
+     "nameEn": "Arrizo 8",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 90000,
+      "max": 150000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞轿车旗舰,紧凑型轿车,搭载1.6T动力,车身尺寸越级,设计走向年轻精致,内饰科技感较强。适合注重动力与空间的家用轿车用户。作为国产A级家轿的实力选手,是奇瑞在家轿市场重塑形象的关键车型。",
+     "highlights": [
+      "1.6T动力",
+      "越级尺寸",
+      "家轿旗舰"
+     ],
+     "tags": [
+      "家轿",
+      "性价比"
+     ],
+     "image": null
+    },
+    {
+     "id": "chery-xiaomayi",
+     "name": "小蚂蚁",
+     "nameEn": "eQ1",
+     "type": "微型车",
+     "price": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞纯电微型车,采用全铝车身结构,车身小巧灵活、好停好开,适合城市短途代步。适合通勤距离短、预算有限的都市用户。作为城市代步电动车市场的老将,凭借全铝车身等差异化技术在微型车领域保有独特地位。",
+     "highlights": [
+      "全铝车身",
+      "城市代步",
+      "灵活好停"
+     ],
+     "tags": [
+      "代步",
+      "纯电"
+     ],
+     "image": null
+    },
+    {
+     "id": "chery-qq-icecream",
+     "name": "QQ冰淇淋",
+     "nameEn": "QQ Ice Cream",
+     "type": "微型车",
+     "price": {
+      "min": 30000,
+      "max": 50000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "奇瑞微型纯电车,三万级起步,方盒子复古造型致敬QQ时代,小巧灵活、好停好开。适合买菜接娃、短途通勤的实惠代步需求。名字延续奇瑞QQ的国民记忆,是微型电动车市场中情怀与实惠兼具的国民代步小车。",
+     "highlights": [
+      "三万级起步",
+      "复古造型",
+      "国民代步"
+     ],
+     "tags": [
+      "代步",
+      "国民"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "changan",
+   "name": "长安",
+   "nameEn": "Changan",
+   "domain": "changan.com.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1862,
+   "hq": "重庆",
+   "tier": "大众",
+   "sub": "家用",
+   "tags": [
+    "百年军工",
+    "四大集团",
+    "均衡可靠"
+   ],
+   "slogan": "科技长安 智慧伙伴",
+   "desc": "拥有160余年历史的中国四大汽车集团之一,军工起家,CS75 PLUS与UNI系列家喻户晓,启源、深蓝、阿维塔构成新能源三线布局。",
+   "story": "长安的历史可追溯至1862年的上海洋炮局,1957年造出中国第一辆吉普车,1984年转入民用汽车生产,与福特、马自达等合资积累深厚造车功力。\n如今长安形成长安引力、启源、深蓝、阿维塔的品牌矩阵,CS75 PLUS、UNI-V等车型常年热销,正向智能低碳出行科技公司加速转型。",
+   "products": [
+    {
+     "id": "changan-eado",
+     "name": "逸动",
+     "nameEn": "Eado",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 70000,
+      "max": 100000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安紧凑型国民家轿,搭载蓝鲸动力,油耗经济,设计年轻动感,做工在同价位扎实。适合首次购车与预算七万级的务实家庭用户。作为七万级家轿高性价比常青树,历经多年迭代,积累了良好的国民口碑。",
+     "highlights": [
+      "蓝鲸动力",
+      "高性价比",
+      "常青树"
+     ],
+     "tags": [
+      "家轿",
+      "国民"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-cs75-plus",
+     "name": "CS75 PLUS",
+     "nameEn": "CS75 PLUS",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 120000,
+      "max": 170000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安紧凑型SUV销量王牌,搭载蓝鲸2.0T发动机与爱信8AT,空间与配置越级,设计大气动感。适合注重动力总成与性价比的家庭用户。常年位居SUV销量榜前列,是与哈弗H6等国民SUV长期竞争的明星车型。",
+     "highlights": [
+      "蓝鲸2.0T",
+      "爱信8AT",
+      "销量王牌"
+     ],
+     "tags": [
+      "SUV",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-cs55-plus",
+     "name": "CS55 PLUS",
+     "nameEn": "CS55 PLUS",
+     "type": "紧凑型SUV",
+     "price": {
+      "min": 100000,
+      "max": 130000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安十万级精品紧凑型SUV,搭载蓝鲸1.5T动力,智能座舱配置齐全,设计年轻时尚。适合首次购车的年轻人与城市家庭。以均衡产品力成为十万级SUV市场的热门之选,是长安销量体系中的重要一环。",
+     "highlights": [
+      "蓝鲸1.5T",
+      "智能座舱",
+      "年轻设计"
+     ],
+     "tags": [
+      "SUV",
+      "年轻"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-cs35-plus",
+     "name": "CS35 PLUS",
+     "nameEn": "CS35 PLUS",
+     "type": "小型SUV",
+     "price": {
+      "min": 70000,
+      "max": 100000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安入门小型SUV,拥有同级占优的空间表现,可靠省心,设计务实耐看,养护成本低。适合代步为主、预算有限的家庭用户。作为长安入门SUV常青树,多年稳定的销量表现使其成为小型SUV市场的务实之选。",
+     "highlights": [
+      "入门可靠",
+      "空间实用",
+      "省心耐用"
+     ],
+     "tags": [
+      "SUV",
+      "务实"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-uni-v",
+     "name": "UNI-V",
+     "nameEn": "UNI-V",
+     "type": "紧凑型轿车",
+     "price": {
+      "min": 110000,
+      "max": 140000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安UNI序列运动轿跑紧凑型轿车,无边界格栅与电动升降尾翼极具辨识度,提供1.5T/2.0T动力,溜背低趴造型战斗感十足。适合追求运动感与个性的年轻用户。以年轻人第一台轿跑的热门答案著称,引领国产运动家轿风潮。",
+     "highlights": [
+      "电动尾翼",
+      "轿跑造型",
+      "UNI序列"
+     ],
+     "tags": [
+      "运动",
+      "年轻"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-uni-k",
+     "name": "UNI-K",
+     "nameEn": "UNI-K",
+     "type": "中大型SUV",
+     "price": {
+      "min": 150000,
+      "max": 190000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安UNI序列旗舰中大型SUV,2.0T配爱信8AT,大五座空间宽裕,未来感设计语言鲜明。适合注重空间与行驶质感的家庭用户。以15万级越级之选的姿态,展示长安UNI序列冲击高端市场的产品策略。",
+     "highlights": [
+      "2.0T动力",
+      "大五座",
+      "未来设计"
+     ],
+     "tags": [
+      "SUV",
+      "旗舰"
+     ],
+     "image": null
+    },
+    {
+     "id": "changan-lumin",
+     "name": "Lumin",
+     "nameEn": "Lumin",
+     "type": "微型车",
+     "price": {
+      "min": 50000,
+      "max": 70000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "长安纯电微型车,圆润造型被昵称为糯玉米,好开好停,价格实惠,配置在同级中体面。适合城市短途通勤与年轻女性用户。以可爱造型与高性价比成为城市代步新宠,在微型电动车市场人气颇高。",
+     "highlights": [
+      "圆润造型",
+      "代步神器",
+      "高性价比"
+     ],
+     "tags": [
+      "代步",
+      "可爱"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "wuling",
+   "name": "五菱",
+   "nameEn": "Wuling",
+   "domain": "sgmw.com.cn",
+   "categoryId": "auto",
+   "country": "中国",
+   "founded": 1958,
+   "hq": "柳州",
+   "tier": "国民",
+   "sub": "家用",
+   "tags": [
+    "国民神车",
+    "极致性价比",
+    "小微车"
+   ],
+   "slogan": "人民需要什么,五菱就造什么",
+   "desc": "国民神车制造者,上汽通用五菱旗下品牌,宏光MINIEV开创人民代步车品类,以极致性价比与全民共创文化深入中国大街小巷。",
+   "story": "五菱前身是1958年的柳州动力机械厂,1982年造出第一辆微型车,2002年上汽、通用、五菱三方合资成立上汽通用五菱;五菱宏光常年霸榜,秋名山神车成为国民梗文化。\n2020年宏光MINIEV上市即成全球小型电动车销量冠军,累计销量超百万辆,人民需要什么五菱就造什么深入人心,缤果、星光等新能源车型持续接力。",
+   "products": [
+    {
+     "id": "wuling-hongguang-miniev",
+     "name": "宏光MINIEV",
+     "nameEn": "Hongguang MINIEV",
+     "type": "微型车",
+     "price": {
+      "min": 30000,
+      "max": 70000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱微型纯电车,三万级起步,方盒小巧造型,好停好开,主打城市短途代步。适合预算有限的城市通勤族与日常代步用户。上市即登顶全球小型电动车销冠,以国民神车姿态让电动出行走进千家万户,是微型电动车现象级产品。",
+     "highlights": [
+      "全球销冠",
+      "三万级起步",
+      "国民神车"
+     ],
+     "tags": [
+      "代步",
+      "国民"
+     ],
+     "image": null
+    },
+    {
+     "id": "wuling-bingo",
+     "name": "缤果",
+     "nameEn": "Bingo",
+     "type": "小型车",
+     "price": {
+      "min": 60000,
+      "max": 90000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱旗下面向家用市场的小型纯电动车,以复古圆润的造型语言与活泼车身配色为标志,内饰布局简洁实用。后排空间表现领先同级,五万级起售大幅降低购车门槛,适合城市通勤代步与年轻人首购需求,上市后成为国内小型电动车市场的人气之选,也延续着五菱'国民用车'的品牌形象。",
+     "highlights": [
+      "复古设计",
+      "空间领先",
+      "入门友好"
+     ],
+     "tags": [
+      "纯电",
+      "时尚"
+     ],
+     "image": null
+    },
+    {
+     "id": "wuling-xingguang",
+     "name": "星光",
+     "nameEn": "Xingguang",
+     "type": "中型轿车",
+     "price": {
+      "min": 80000,
+      "max": 120000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱面向家用的中型轿车,提供插电混动与纯电双动力选择,八万级起售主打高性价比新能源家轿。造型低趴流畅,座舱空间宽敞,能耗控制出色,适合预算有限、注重实用的家庭用户。上市后以大空间、低能耗掀起家轿电动化普及风暴,成为五菱新能源转型浪潮中的代表车型。",
+     "highlights": [
+      "双动力",
+      "八万级起售",
+      "大空间"
+     ],
+     "tags": [
+      "新能源",
+      "家用"
+     ],
+     "image": null
+    },
+    {
+     "id": "wuling-hongguang",
+     "name": "五菱宏光",
+     "nameEn": "Hongguang",
+     "type": "MPV",
+     "price": {
+      "min": 40000,
+      "max": 70000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱旗下介于微面与MPV之间的国民工具车,售价亲民、结构简单、维修便利,既能载人又能拉货,装载空间灵活多变。深受个体创业者与小生意人青睐,遍布城乡道路。因网络文化中'秋名山神车'的梗而成为现象级符号,是中国汽车市场最具传奇色彩的国民车型之一。",
+     "highlights": [
+      "秋名山神车",
+      "国民工具车",
+      "超低售价"
+     ],
+     "tags": [
+      "实用",
+      "国民"
+     ],
+     "image": null
+    },
+    {
+     "id": "wuling-zhiguang",
+     "name": "五菱之光",
+     "nameEn": "Wuling Zhiguang",
+     "type": "微面",
+     "price": {
+      "min": 30000,
+      "max": 50000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱经典微面产品,以实用耐造、价格低廉著称,方正车身最大化利用空间,机械结构成熟可靠。自问世以来累计销量数百万辆,长期穿梭于城乡大街小巷,是无数小商户与家庭的创富伙伴,被视为中国微面市场的标杆之作,印证了五菱'人民需要什么就造什么'的品牌理念。",
+     "highlights": [
+      "经典微面",
+      "耐造实用",
+      "创富伙伴"
+     ],
+     "tags": [
+      "实用",
+      "经典"
+     ],
+     "image": null
+    },
+    {
+     "id": "wuling-victory",
+     "name": "凯捷",
+     "nameEn": "Victory",
+     "type": "MPV",
+     "price": {
+      "min": 90000,
+      "max": 120000,
+      "currency": "CNY",
+      "label": "厂商指导价"
+     },
+     "desc": "五菱银标战略的开山之作,定位于十万级家用MPV,采用创新的大四座布局,第二排独立座椅支持宽泛调节,兼顾舒适与多场景乘坐需求。外观设计摆脱传统微面形象,面向多口之家的出行场景。它的推出标志着五菱品牌向上的开端,上市后成为家用MPV市场备受关注的作品。",
+     "highlights": [
+      "银标首款",
+      "大四座",
+      "家用舒适"
+     ],
+     "tags": [
+      "MPV",
+      "家用"
+     ],
+     "image": null
+    }
+   ]
+  }
+ ]
 }

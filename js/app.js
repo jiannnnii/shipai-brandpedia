@@ -146,7 +146,7 @@ function brandTile(b) {
     <span class="bt-logo">${logoHtml(b, 18)}</span>
     <span class="bt-name">${esc(b.name)}</span>
     <span class="bt-en">${esc(b.nameEn || '')}</span>
-    <span class="bt-meta">${esc(b.country || '')}${b.founded ? ' · ' + b.founded : ''}</span>
+    <span class="bt-meta">${esc(b.country || '')}${b.founded ? ' · ' + b.founded : ''}${b.tier ? ' · ' + esc(b.tier) : ''}</span>
   </a>`;
 }
 
@@ -210,6 +210,19 @@ function viewHome() {
 
     <a class="search-pill" href="#/search">${icons.search}<span>搜索品牌 / 产品 · 如「劳力士」「SUV」</span></a>
 
+    ${(() => {
+      const total = prodById.size;
+      if (!total) return '';
+      const seenN = [...store.seen].filter(r => r.startsWith('p:') && prodById.has(r.slice(2))).length;
+      const pct = Math.min(100, Math.round(seenN / total * 1000) / 10);
+      return `
+      <a class="collect-card" href="#/me" style="display:block;margin:14px 0 0">
+        <div class="cc-head"><span class="zh">我的图鉴</span><span class="en">Collection</span><b>${pct}%</b></div>
+        <div class="progress"><div class="bar" style="width:${pct}%"></div></div>
+        <div class="cc-nums">已看 ${seenN} / ${total} 个产品 · 收藏 ${store.favs.size} 件 · 去「探索」开「只看没看过」继续收集</div>
+      </a>`;
+    })()}
+
     ${featured ? `
     <div class="sect-label"><span class="zh">今日识牌</span><span class="en">Featured</span><span class="rule"></span></div>
     <a class="feature-card" href="#/brand/${esc(featured.id)}">
@@ -259,12 +272,14 @@ function viewCategory(catId) {
   let list = brandsOfCat.get(catId) || [];
   const subs = [...new Set(list.map(b => b.sub).filter(Boolean))];
   const countries = [...new Set(list.map(b => b.country).filter(Boolean))];
-  const f = catFilter[catId] || (catFilter[catId] = { sub: '全部', country: '全部' });
+  const tiers = [...new Set(list.map(b => b.tier).filter(Boolean))];
+  const f = catFilter[catId] || (catFilter[catId] = { sub: '全部', country: '全部', tier: '全部' });
 
   const renderGrid = () => {
     let l = list.filter(b =>
       (f.sub === '全部' || b.sub === f.sub) &&
-      (f.country === '全部' || b.country === f.country));
+      (f.country === '全部' || b.country === f.country) &&
+      (f.tier === '全部' || b.tier === f.tier));
     l = [...l].sort((a, b) => (b.products || []).length - (a.products || []).length);
     const g = qs('#brandGrid');
     g.innerHTML = l.length
@@ -286,6 +301,10 @@ function viewCategory(catId) {
       ${['全部', ...countries].map(v =>
         `<button class="chip ${f.country === v ? 'on' : ''}" data-act="cat-chip" data-cat="${esc(catId)}" data-group="country" data-val="${esc(v)}">${esc(v)}</button>`).join('')}
     </div>
+    ${tiers.length > 1 ? `<div class="chipbar" style="position:static;background:none;backdrop-filter:none;padding:0 14px 10px">
+      ${['全部', ...tiers].map(v =>
+        `<button class="chip ${f.tier === v ? 'on' : ''}" data-act="cat-chip" data-cat="${esc(catId)}" data-group="tier" data-val="${esc(v)}">${esc(v)}</button>`).join('')}
+    </div>` : ''}
     <div class="cat-body">
       ${subs.length ? `<div class="sub-rail">
         ${['全部', ...subs].map(v =>
@@ -472,6 +491,26 @@ function viewProduct(id) {
       </div>
       <div class="vb-res" id="verifyRes" style="display:none"></div>
     </div>
+
+    ${(() => {
+      const lo = p.price?.min, hi = p.price?.max;
+      if (typeof lo !== 'number' || lo <= 0) return '';
+      const mid = hi && hi > lo ? (lo + hi) / 2 : lo;
+      const near = [];
+      for (const q of prodById.values()) {
+        if (q.id === p.id || q.brandId === p.brandId) continue;
+        const qlo = q.price?.min;
+        if (typeof qlo !== 'number' || qlo <= 0) continue;
+        if (qlo >= mid * 0.5 && qlo <= mid * 2) near.push(q);
+      }
+      if (near.length < 3) return '';
+      for (let i = near.length - 1; i > 0; i--) { const j = (i * 2654435761 + p.id.length * 97) % (i + 1); [near[i], near[j]] = [near[j], near[i]]; }
+      return `
+      <div class="sect-label"><span class="zh">同价位看看</span><span class="en">Similar Price</span><span class="rule"></span></div>
+      <div class="rail">
+        ${near.slice(0, 10).map(x => prodRow(x)).join('')}
+      </div>`;
+    })()}
 
     ${(() => {
       const siblings = (b.products || []).filter(x => x.id !== p.id).slice(0, 10);
@@ -661,7 +700,10 @@ function doSearch(qRaw) {
   if (!q) { resBox.innerHTML = ''; return; }
 
   const match = s => (s || '').toLowerCase().includes(q);
-  const brands = DATA.brands.filter(b => match(b.name) || match(b.nameEn) || match(b.country) || match(b.tier) || (b.tags || []).some(match)).slice(0, 24);
+  const brands = DATA.brands.filter(b =>
+    match(b.name) || match(b.nameEn) || match(b.country) || match(b.tier) ||
+    match(b.sub) || match(b.slogan) || match(b.desc) ||
+    (b.tags || []).some(match)).slice(0, 24);
   const prods = [];
   for (const b of DATA.brands) {
     for (const p of (b.products || [])) {

@@ -1,3163 +1,3163 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "supreme",
+   "name": "Supreme",
+   "nameEn": "Supreme",
+   "domain": "supreme.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 1994,
+   "hq": "纽约",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "滑板",
+    "Box Logo",
+    "炒作之王"
+   ],
+   "slogan": "Supreme New York",
+   "desc": "从滑板店到百亿收购:红白Box Logo与限量发售模式定义了整个街头文化转售经济。",
+   "story": "1994年James Jebbia在纽约Lafayette街开店,为滑手服务。Box Logo灵感来自Barbara Kruger艺术,每周四的Drop模式造就全球排队文化。2020年VF集团以21亿美元收购(2024转手EssilorLuxottica)。\n从联名LV到砖头(卖300美元),Supreme 的故事是半部街头商业史。",
+   "products": [
     {
-      "id": "supreme",
-      "name": "Supreme",
-      "nameEn": "Supreme",
-      "domain": "supreme.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 1994,
-      "hq": "纽约",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "滑板",
-        "Box Logo",
-        "炒作之王"
-      ],
-      "slogan": "Supreme New York",
-      "desc": "从滑板店到百亿收购:红白Box Logo与限量发售模式定义了整个街头文化转售经济。",
-      "story": "1994年James Jebbia在纽约Lafayette街开店,为滑手服务。Box Logo灵感来自Barbara Kruger艺术,每周四的Drop模式造就全球排队文化。2020年VF集团以21亿美元收购(2024转手EssilorLuxottica)。\n从联名LV到砖头(卖300美元),Supreme 的故事是半部街头商业史。",
-      "products": [
-        {
-          "id": "supreme-boxlogo",
-          "name": "Box Logo Tee",
-          "nameEn": "Box Logo Tee",
-          "type": "T恤",
-          "price": {
-            "min": 500,
-            "max": 5000,
-            "label": "市场参考价"
-          },
-          "desc": "红白标的白色T恤,每一季都要抢的图腾。",
-          "highlights": [
-            "红白标",
-            "抢购图腾"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "supreme-hooded",
-          "name": "Box Logo 卫衣",
-          "nameEn": "Box Logo Hooded",
-          "type": "卫衣",
-          "price": {
-            "min": 1500,
-            "max": 8000,
-            "label": "市场参考价"
-          },
-          "desc": "秋冬硬通货,二手市场常年溢价。",
-          "highlights": [
-            "秋冬硬通货",
-            "二手溢价"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "supreme-northface",
-          "name": "联名 TNF 夹克",
-          "nameEn": "Supreme x TNF",
-          "type": "联名外套",
-          "price": {
-            "min": 3000,
-            "max": 20000,
-            "label": "市场参考价"
-          },
-          "desc": "与北面的联名是每季最大炸弹。",
-          "highlights": [
-            "每季炸弹",
-            "山屋联名"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "supreme-accessories",
-          "name": "奥利奥/砖头等周边",
-          "nameEn": "Accessories",
-          "type": "周边",
-          "price": {
-            "min": 500,
-            "max": 10000,
-            "label": "市场参考价"
-          },
-          "desc": "从奥利奥到自行车,只有你想不到。",
-          "highlights": [
-            "万物可联名",
-            "周边狂魔"
-          ],
-          "tags": [
-            "周边"
-          ]
-        },
-        {
-          "id": "supreme-louis",
-          "name": "Supreme x LV",
-          "nameEn": "Supreme x Louis Vuitton",
-          "type": "联名",
-          "price": {
-            "min": 30000,
-            "max": 300000,
-            "label": "市场参考价"
-          },
-          "desc": "2017年世纪联名,街头与奢侈的破圈时刻。",
-          "highlights": [
-            "世纪联名",
-            "破圈时刻"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
+     "id": "supreme-boxlogo",
+     "name": "Box Logo Tee",
+     "nameEn": "Box Logo Tee",
+     "type": "T恤",
+     "price": {
+      "min": 500,
+      "max": 5000,
+      "label": "市场参考价"
+     },
+     "desc": "Box Logo Tee 是 Supreme 的图腾级单品,红白标印在白色 T 恤上,是品牌辨识度最高的符号。每一季发售都引发排队与线上抢购,常被视为街头的硬通货。适合资深潮人与收藏者,也是理解街头文化绕不开的原点单品。",
+     "highlights": [
+      "红白标",
+      "抢购图腾"
+     ],
+     "tags": [
+      "T恤"
+     ]
     },
     {
-      "id": "offwhite",
-      "name": "Off-White",
-      "nameEn": "Off-White",
-      "domain": "off---white.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 2013,
-      "hq": "米兰",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "Virgil Abloh",
-        "引号",
-        "斜条纹"
-      ],
-      "slogan": "Defining the grey area",
-      "desc": "Virgil Abloh 的「灰色地带」:引号、斜条纹与工业元素,把街头与高级时装的边界拆掉。",
-      "story": "2013年 Kanye 御用设计师 Virgil Abloh 在米兰创立,「WORK IN PROGRESS」标签与鞋带扣成为时代符号。2018年他成为 LV 男装艺术总监,2021年因癌症离世引发全球哀悼。\n品牌现归 LVMH,仍在延续其设计语言。",
-      "products": [
-        {
-          "id": "offwhite-hoodie",
-          "name": "引号卫衣",
-          "nameEn": "Quote Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "「SCARF」式的引号印花,Off-White 的语言体系。",
-          "highlights": [
-            "引号印花",
-            "语言体系"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "offwhite-tshirt",
-          "name": "斜纹箭头T",
-          "nameEn": "Diagonal Arrows Tee",
-          "type": "T恤",
-          "price": {
-            "min": 800,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "斜条纹+箭头,辨识度最高的元素组合。",
-          "highlights": [
-            "斜纹箭头",
-            "高辨识度"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "offwhite-belt",
-          "name": "工业腰带",
-          "nameEn": "Industrial Belt",
-          "type": "腰带",
-          "price": {
-            "min": 1500,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "帆布带身+黄色扣,「FOR WALKING」印字出圈。",
-          "highlights": [
-            "工业风",
-            "FOR WALKING"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "offwhite-nike",
-          "name": "The Ten 联名系列",
-          "nameEn": "Off-White x Nike The Ten",
-          "type": "联名球鞋",
-          "price": {
-            "min": 8000,
-            "max": 150000,
-            "label": "市场参考价"
-          },
-          "desc": "2017年解构十双经典,球鞋文化的分水岭。",
-          "highlights": [
-            "解构十双",
-            "分水岭"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "offwhite-sneaker",
-          "name": "Out of Office 鞋",
-          "nameEn": "OOO Sneakers",
-          "type": "休闲鞋",
-          "price": {
-            "min": 3000,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "「OOO」休闲板鞋,品牌自主鞋履主力。",
-          "highlights": [
-            "自主鞋履",
-            "OOO"
-          ],
-          "tags": [
-            "鞋"
-          ]
-        }
-      ]
+     "id": "supreme-hooded",
+     "name": "Box Logo 卫衣",
+     "nameEn": "Box Logo Hooded",
+     "type": "卫衣",
+     "price": {
+      "min": 1500,
+      "max": 8000,
+      "label": "市场参考价"
+     },
+     "desc": "Box Logo 卫衣是 Supreme 秋冬的硬通货,红白标落在重磅卫衣上,兼具保暖与收藏价值。每季发售数量有限,发售后在二手市场常年溢价。适合潮人日常穿搭与玩家收藏,其行情表现也让它成为街头时尚的风向标。",
+     "highlights": [
+      "秋冬硬通货",
+      "二手溢价"
+     ],
+     "tags": [
+      "卫衣"
+     ]
     },
     {
-      "id": "palmangels",
-      "name": "Palm Angels",
-      "nameEn": "Palm Angels",
-      "domain": "palmangels.com",
-      "categoryId": "apparel",
-      "country": "意大利",
-      "founded": 2015,
-      "hq": "米兰",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "棕榈树",
-        "洛杉矶",
-        "Fausto Puglisi系"
-      ],
-      "slogan": "LA state of mind",
-      "desc": "Roc Nation 摄影集起家的意大利品牌:洛杉矶滑板文化+米兰剪裁的「Palm Angels 熊」出圈。",
-      "story": "2015年 Francesco Ragazzi(Off-White 前合伙人)把一本洛杉矶滑板摄影集变成品牌。熊卫衣与棕榈树印花迅速成为亚洲夜店与潮流圈的 uniform。\n现属 New Guards Group, (Farfetch 旗下)。",
-      "products": [
-        {
-          "id": "palmangels-bear",
-          "name": "小熊卫衣",
-          "nameEn": "Bear Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 1800,
-            "max": 4500,
-            "label": "零售参考价"
-          },
-          "desc": "奔跑的小熊印花,夜店与机场 uniform。",
-          "highlights": [
-            "小熊印花",
-            "夜店 uniform"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "palmangels-palm",
-          "name": "棕榈树T恤",
-          "nameEn": "Palm Tree Tee",
-          "type": "T恤",
-          "price": {
-            "min": 1000,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "LA 棕榈树影,度假与街头的中介。",
-          "highlights": [
-            "棕榈印花",
-            "度假感"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "palmangels-sneaker",
-          "name": "熊猫鞋",
-          "nameEn": "Pandas Sneaker",
-          "type": "休闲鞋",
-          "price": {
-            "min": 3000,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "黑白拼色的厚底运动鞋,亚洲爆款。",
-          "highlights": [
-            "黑白熊猫",
-            "亚洲爆款"
-          ],
-          "tags": [
-            "鞋"
-          ]
-        },
-        {
-          "id": "palmangels-track",
-          "name": "条纹运动套装",
-          "nameEn": "Track Suit",
-          "type": "运动套装",
-          "price": {
-            "min": 3000,
-            "max": 8000,
-            "label": "零售参考价"
-          },
-          "desc": "织带运动服套装,千禧辣妹的教科书。",
-          "highlights": [
-            "织带",
-            "千禧辣妹"
-          ],
-          "tags": [
-            "套装"
-          ]
-        },
-        {
-          "id": "palmangels-capsule",
-          "name": "Playboy/猫和老鼠联名",
-          "nameEn": "Collab Capsule",
-          "type": "联名",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "与经典 IP 的连续联名,趣味收割机。",
-          "highlights": [
-            "经典IP",
-            "趣味联名"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
+     "id": "supreme-northface",
+     "name": "联名 TNF 夹克",
+     "nameEn": "Supreme x TNF",
+     "type": "联名外套",
+     "price": {
+      "min": 3000,
+      "max": 20000,
+      "label": "市场参考价"
+     },
+     "desc": "Supreme 与 The North Face 的联名是每一季最受瞩目的重磅合作,被称为每季的最大炸弹。经典户外山屋元素与街头图腾结合,从冲锋衣到抓绒夹克都引发疯抢。适合资深玩家与收藏者,二级市场热度常年居高不下。",
+     "highlights": [
+      "每季炸弹",
+      "山屋联名"
+     ],
+     "tags": [
+      "联名"
+     ]
     },
     {
-      "id": "fearofgod",
-      "name": "Fear of God",
-      "nameEn": "Fear of God",
-      "domain": "fearofgod.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 2013,
-      "hq": "洛杉矶",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "Jerry Lorenzo",
-        "宽松廓形",
-        "高级街头"
-      ],
-      "slogan": "Fear of God Essentials",
-      "desc": "Jerry Lorenzo 的「信仰街头」:把教堂礼拜的庄重与西部廓形揉进高级 streetwear,副线 Essentials 是全民 uniform。",
-      "story": "2013年 Jerry Lorenzo 为 Kanye 巡演做造型后自立门户,宽松裤脚+长T的「LA 信仰风」自成一派。2018年与 Nike 联名 Air Fear of God 1 轰动球鞋圈。\n副线 Essentials 以百元级价格统治了 Instagram 的日常穿搭。",
-      "products": [
-        {
-          "id": "fearofgod-essentials",
-          "name": "Essentials 卫衣/长T",
-          "nameEn": "Essentials",
-          "type": "卫衣",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "全民 uniform:百元级的极简 logo 廓形。",
-          "highlights": [
-            "全民 uniform",
-            "极简廓形"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "fearofgod-main",
-          "name": "第六季主线套装",
-          "nameEn": "Main Collection",
-          "type": "套装",
-          "price": {
-            "min": 5000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "主线的高定级剪裁,西裤与法兰绒的组合。",
-          "highlights": [
-            "高定级",
-            "西裤法兰绒"
-          ],
-          "tags": [
-            "套装"
-          ]
-        },
-        {
-          "id": "fearofgod-sneaker",
-          "name": "Air FOG 1",
-          "nameEn": "Air Fear of God 1",
-          "type": "联名球鞋",
-          "price": {
-            "min": 3000,
-            "max": 15000,
-            "label": "市场参考价"
-          },
-          "desc": "与 Nike 联名的高帮篮球鞋,球鞋圈名场面。",
-          "highlights": [
-            "Nike联名",
-            "高帮篮球"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "fearofgod-adidas",
-          "name": "x adidas 篮球线",
-          "nameEn": "FOG x adidas",
-          "type": "联名",
-          "price": {
-            "min": 2000,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "转投 adidas 后的篮球与生活线。",
-          "highlights": [
-            "adidas联名",
-            "篮球线"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "fearofgod-caps",
-          "name": "棒球帽",
-          "nameEn": "Logo Cap",
-          "type": "帽子",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "反戴弧檐帽,头上一抹信仰。",
-          "highlights": [
-            "反戴弧檐",
-            "信仰一抹"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        }
-      ]
+     "id": "supreme-accessories",
+     "name": "奥利奥/砖头等周边",
+     "nameEn": "Accessories",
+     "type": "周边",
+     "price": {
+      "min": 500,
+      "max": 10000,
+      "label": "市场参考价"
+     },
+     "desc": "Supreme 的周边配件线堪称万物可联名的代表,从奥利奥饼干到自行车无所不包。这些脑洞大开的单品既是营销事件,也是品牌幽默感与街头态度的延伸。适合忠实粉丝收藏与社交场合展示,也让 Supreme 成为跨界玩法的教科书。",
+     "highlights": [
+      "万物可联名",
+      "周边狂魔"
+     ],
+     "tags": [
+      "周边"
+     ]
     },
     {
-      "id": "stussy",
-      "name": "斯图西",
-      "nameEn": "Stüssy",
-      "domain": "stussy.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 1980,
-      "hq": "加州拉古纳海滩",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "元祖潮牌",
-        "涂鸦签名",
-        "国际街头客"
-      ],
-      "slogan": "The International Stüssy Tribe",
-      "desc": "街头潮流的元祖:1980年 Shawn Stussy 把签名涂鸦印上 T 恤,「国际街头部落」是最早的全球街头网络。",
-      "story": "1980年冲浪板匠人 Shawn Stussy 把签名喷上 T 恤,80年代末通过 World Tribe(全球街头客)体系连接东京、伦敦、纽约。Supreme、BAPE 都受其启蒙。\n四十余年不温不火却从未掉队,「活最久的潮牌」。",
-      "products": [
-        {
-          "id": "stussy-signature",
-          "name": "签名T恤",
-          "nameEn": "Signature Tee",
-          "type": "T恤",
-          "price": {
-            "min": 300,
-            "max": 700,
-            "label": "零售参考价"
-          },
-          "desc": "涂鸦签名的始祖,潮牌T恤的原点。",
-          "highlights": [
-            "签名始祖",
-            "潮牌原点"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "stussy-8ball",
-          "name": "8 Ball 黑八卫衣",
-          "nameEn": "8 Ball Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 700,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "黑八元素是品牌的复古图腾。",
-          "highlights": [
-            "黑八图腾",
-            "复古"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "stussy-stock",
-          "name": "Stock Logo 帽子",
-          "nameEn": "Stock Cap",
-          "type": "帽子",
-          "price": {
-            "min": 300,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "五片帽与渔夫帽的常青款。",
-          "highlights": [
-            "五片帽",
-            "常青"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "stussy-dyed",
-          "name": "扎染系列",
-          "nameEn": "Tie-Dye Series",
-          "type": "T恤",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "加州扎染,夏日限量常规操作。",
-          "highlights": [
-            "加州扎染",
-            "夏日限定"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "stussy-nike",
-          "name": "x Nike 联名",
-          "nameEn": "Stüssy x Nike",
-          "type": "联名",
-          "price": {
-            "min": 1500,
-            "max": 8000,
-            "label": "市场参考价"
-          },
-          "desc": "与 Nike 的长跑联名,每次都秒没。",
-          "highlights": [
-            "Nike长跑联名",
-            "秒没"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "carhartt",
-      "name": "卡哈特",
-      "nameEn": "Carhartt",
-      "domain": "carhartt.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 1889,
-      "hq": "迪尔伯恩",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "工装",
-        "Duck Canvas",
-        "WIP"
-      ],
-      "slogan": "Hard at work since 1889",
-      "desc": "1889年的铁路工人服:全棉帆布 Duck Canvas 与三重缝线,工装美学横跨蓝领与潮流两界。",
-      "story": "1889年 Hamilton Carhartt 在底特律为铁路工人造工装,「12盎司 Duck 帆布」成为耐磨代名词。1994年欧洲支线 Carhartt WIP 把工装带进滑板与嘻哈圈。\n底特律夹克(Barn Coat)是工装党的终极信仰。",
-      "products": [
-        {
-          "id": "carhartt-detroit",
-          "name": "底特律夹克",
-          "nameEn": "Detroit Jacket",
-          "type": "工装夹克",
-          "price": {
-            "min": 500,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "棕色 Duck 帆布短夹克,工装图腾。",
-          "highlights": [
-            "Duck帆布",
-            "工装图腾"
-          ],
-          "tags": [
-            "外套"
-          ]
-        },
-        {
-          "id": "carhartt-bib",
-          "name": "背带工装裤",
-          "nameEn": "Bib Overalls",
-          "type": "工装裤",
-          "price": {
-            "min": 600,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "双层膝部+锤袢,工人与 rigger 都爱。",
-          "highlights": [
-            "双层膝",
-            "锤袢"
-          ],
-          "tags": [
-            "裤"
-          ]
-        },
-        {
-          "id": "carhartt-wip",
-          "name": "WIP 支线",
-          "nameEn": "Carhartt WIP",
-          "type": "潮流支线",
-          "price": {
-            "min": 400,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "欧洲潮流支线,版型更 slim 的工装。",
-          "highlights": [
-            "欧洲支线",
-            "slim版"
-          ],
-          "tags": [
-            "潮流"
-          ]
-        },
-        {
-          "id": "carhartt-cap",
-          "name": "Acrylic Watch 帽",
-          "nameEn": "Watch Hat",
-          "type": "毛线帽",
-          "price": {
-            "min": 150,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "经典毛线冷帽,秋冬人手一顶。",
-          "highlights": [
-            "冷帽",
-            "人手一顶"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "carhartt-beanieduck",
-          "name": "Double Knee 裤",
-          "nameEn": "Double Knee Pants",
-          "type": "工装裤",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "双层膝布设计,滑板党的耐磨之选。",
-          "highlights": [
-            "双层膝",
-            "滑板耐磨"
-          ],
-          "tags": [
-            "裤"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "champion",
-      "name": "冠军",
-      "nameEn": "Champion",
-      "domain": "champion.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 1919,
-      "hq": "北卡罗来纳",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "连帽卫衣发明者",
-        "美式复古",
-        "Hanes系"
-      ],
-      "slogan": "It takes a little more to make a Champion",
-      "desc": "1919年的百年运动品牌:发明连帽卫衣与网眼运动服,2017年借 Yeezy 联名与 UO 复古风王者归来。",
-      "story": "1919年 Feinbloom 兄弟在罗切斯特创立,1930年代发明连帽卫衣(Reverse Weave),长期供 NCAA 与美军。2017年后借复古潮与 Supreme 联名翻红。\n「小红标/大C logo」的卫衣是美式复古的通用语。",
-      "products": [
-        {
-          "id": "champion-reverse",
-          "name": "Reverse Weave 卫衣",
-          "nameEn": "Reverse Weave",
-          "type": "卫衣",
-          "price": {
-            "min": 300,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "1938年专利的防缩水织法,复古卫衣的标准答案。",
-          "highlights": [
-            "1938专利",
-            "标准答案"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "champion-logo",
-          "name": "大C logo T恤",
-          "nameEn": "Big C Logo Tee",
-          "type": "T恤",
-          "price": {
-            "min": 150,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "胸口大 logo,校园风标配。",
-          "highlights": [
-            "大C标",
-            "校园风"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "champion-sweat",
-          "name": "刺绣运动裤",
-          "nameEn": "Sweatpants",
-          "type": "运动裤",
-          "price": {
-            "min": 200,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "反面绒+罗纹裤脚,居家出街两用。",
-          "highlights": [
-            "反面绒",
-            "罗纹裤脚"
-          ],
-          "tags": [
-            "裤"
-          ]
-        },
-        {
-          "id": "champion-supreme",
-          "name": "x Supreme 联名",
-          "nameEn": "Supreme x Champion",
-          "type": "联名",
-          "price": {
-            "min": 800,
-            "max": 5000,
-            "label": "市场参考价"
-          },
-          "desc": "2017年翻红的关键联名。",
-          "highlights": [
-            "翻红联名",
-            "2017"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "champion-japan",
-          "name": "日版 C3 系列",
-          "nameEn": "Champion Japan",
-          "type": "复刻线",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "日本支线的复刻老式剪裁,质感更佳。",
-          "highlights": [
-            "日版",
-            "复刻剪裁"
-          ],
-          "tags": [
-            "复刻"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "evisu",
-      "name": "福神",
-      "nameEn": "EVISU",
-      "domain": "evisu.com",
-      "categoryId": "apparel",
-      "country": "日本",
-      "founded": 1991,
-      "hq": "大阪",
-      "tier": "轻奢",
-      "sub": "牛仔",
-      "tags": [
-        "海鸥",
-        "手工牛仔裤",
-        "Y2K"
-      ],
-      "slogan": "Secrets of EVISU",
-      "desc": "大阪手绘牛仔裤之神:后袋海鸥 Logo 每条手绘,90年代末香港与日本潮流的黄金符号。",
-      "story": "1991年山根英晴在濑户内海小镇创立(名字源于日本神话财神惠比寿),早期复刻 LEVI'S 501 的 vintage 做工。后袋海鸥为每条手绘,2000年代一条裤子上万的盛况犹在眼前。\n如今 Y2K 复古潮让它再度翻红。",
-      "products": [
-        {
-          "id": "evisu-no1",
-          "name": "No.1 特别版牛仔裤",
-          "nameEn": "No.1 Special",
-          "type": "牛仔裤",
-          "price": {
-            "min": 2000,
-            "max": 8000,
-            "label": "零售参考价"
-          },
-          "desc": "手绘海鸥+赤耳丹宁,收藏级牛仔裤。",
-          "highlights": [
-            "手绘海鸥",
-            "收藏级"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "evisu-daicock",
-          "name": "大M 海鸥牛仔",
-          "nameEn": "Daicock",
-          "type": "牛仔裤",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "大弧度海鸥后袋,Y2K 辣妹的最爱。",
-          "highlights": [
-            "大弧海鸥",
-            "Y2K辣妹"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "evisu-sweat",
-          "name": "海鸥卫衣",
-          "nameEn": "Seagull Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 800,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "袖子大 logo 的运动套装组合。",
-          "highlights": [
-            "大logo",
-            "运动套装"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "evisu-denimjacket",
-          "name": "牛仔外套",
-          "nameEn": "Denim Jacket",
-          "type": "牛仔外套",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "Type 2/3 复刻+海鸥刺绣。",
-          "highlights": [
-            "Type复刻",
-            "海鸥刺绣"
-          ],
-          "tags": [
-            "外套"
-          ]
-        },
-        {
-          "id": "evisu-tee",
-          "name": "佛头T恤",
-          "nameEn": "Kamome Tee",
-          "type": "T恤",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "佛头与浮世绘印花,日系浮夸巅峰。",
-          "highlights": [
-            "佛头印花",
-            "日系浮夸"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bape",
-      "name": "安逸猿",
-      "nameEn": "A BATHING APE",
-      "domain": "bape.com",
-      "categoryId": "apparel",
-      "country": "日本",
-      "founded": 1993,
-      "hq": "东京",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "猿人头",
-        "迷彩",
-        "Nigo"
-      ],
-      "slogan": "Ape shall never kill ape",
-      "desc": "Nigo 的猿人帝国:满印迷彩+鲨鱼卫衣,把东京原宿变成全球街头的朝圣地。",
-      "story": "1993年 Nigo(长尾智明)在原宿开店,名字取自《人猿星球》台词。迷彩鲨鱼卫衣(2004)与 BAPE STA 鞋成为千禧年标志,Pharrell 与 Kanye 都是自来水。\n2011年卖身香港 I.T,如今门店遍布全球。",
-      "products": [
-        {
-          "id": "bape-shark",
-          "name": "鲨鱼卫衣",
-          "nameEn": "Shark Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "拉链拉到头变鲨鱼嘴,千禧年的街头神器。",
-          "highlights": [
-            "鲨鱼嘴",
-            "千禧神器"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "bape-camo",
-          "name": "ABC 迷彩系列",
-          "nameEn": "ABC Camo",
-          "type": "迷彩",
-          "price": {
-            "min": 1200,
-            "max": 3500,
-            "label": "零售参考价"
-          },
-          "desc": "Ape Camo 迷彩,满印美学的代表。",
-          "highlights": [
-            "满印迷彩",
-            "ABC"
-          ],
-          "tags": [
-            "迷彩"
-          ]
-        },
-        {
-          "id": "bape-sta",
-          "name": "BAPE STA 鞋",
-          "nameEn": "BAPE STA",
-          "type": "运动鞋",
-          "price": {
-            "min": 1200,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "星球星星标的 AF1 平行宇宙。",
-          "highlights": [
-            "星星标",
-            "平行宇宙"
-          ],
-          "tags": [
-            "鞋"
-          ]
-        },
-        {
-          "id": "bape-baby",
-          "name": "Baby Milo 猿人",
-          "nameEn": "Baby Milo",
-          "type": "T恤",
-          "price": {
-            "min": 600,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "卡通猿人头 Baby Milo,可爱系担当。",
-          "highlights": [
-            "Baby Milo",
-            "可爱担当"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "bape-supreme",
-          "name": "x Supreme 联名",
-          "nameEn": "Bape x Supreme",
-          "type": "联名",
-          "price": {
-            "min": 3000,
-            "max": 20000,
-            "label": "市场参考价"
-          },
-          "desc": "两大元祖的历史性合体(2022)。",
-          "highlights": [
-            "历史合体",
-            "2022"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "aape",
-      "name": "AAPE",
-      "nameEn": "AAPE BY A BATHING APE",
-      "domain": "aape.com",
-      "categoryId": "apparel",
-      "country": "日本/香港",
-      "founded": 2009,
-      "hq": "东京/香港",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "猿人副线",
-        "月亮标",
-        "I.T系"
-      ],
-      "slogan": "AAPE by A Bathing Ape",
-      "desc": "BAPE 的年轻副线:月亮猿人头标,价格更亲民的潮流入门。",
-      "story": "2009年 BAPE 母公司 I.T 推出 AAPE(A BATHING APE 面向年轻世代),Moonface 月亮标取代猿人头。价格减半,设计更街头,成为学生党入门潮牌的热门。\n亚洲市场尤其中国大陆门店密集。",
-      "products": [
-        {
-          "id": "aape-moonface",
-          "name": "月亮标T恤",
-          "nameEn": "Moonface Tee",
-          "type": "T恤",
-          "price": {
-            "min": 400,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "月亮猿人头的入门款。",
-          "highlights": [
-            "月亮标",
-            "入门"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "aape-camo",
-          "name": "迷彩卫衣",
-          "nameEn": "Camo Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 700,
-            "max": 1600,
-            "label": "零售参考价"
-          },
-          "desc": "蓝紫调迷彩的年轻化表达。",
-          "highlights": [
-            "蓝紫迷彩",
-            "年轻化"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "aape-jacket",
-          "name": "MA-1 飞行夹克",
-          "nameEn": "MA-1 Bomber",
-          "type": "夹克",
-          "price": {
-            "min": 1200,
-            "max": 2800,
-            "label": "零售参考价"
-          },
-          "desc": "经典 MA-1 廓形+月亮标后背。",
-          "highlights": [
-            "MA-1",
-            "月亮后背"
-          ],
-          "tags": [
-            "外套"
-          ]
-        },
-        {
-          "id": "aape-caps",
-          "name": "帽子配件",
-          "nameEn": "Caps & Accessories",
-          "type": "配饰",
-          "price": {
-            "min": 200,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "棒球帽渔夫帽,logo 便宜大碗。",
-          "highlights": [
-            "便宜大碗",
-            "logo系"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "aape-collab",
-          "name": "北京摩天轮限定",
-          "nameEn": "City Exclusive",
-          "type": "限定",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "城市限定系列,城市文化+猿人。",
-          "highlights": [
-            "城市限定",
-            "文化联名"
-          ],
-          "tags": [
-            "限定"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kith",
-      "name": "Kith",
-      "nameEn": "Kith",
-      "domain": "kith.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 2011,
-      "hq": "纽约",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "Ronnie Fieg",
-        "选货店",
-        "联名之王"
-      ],
-      "slogan": "Kith Monday",
-      "desc": "从鞋店买手到潮流百货帝国:Ronnie Fieg 的 Kith 把「生活方式选货」做成全球现象,Kith Monday 每周开启。",
-      "story": "2011年 Ronnie Fieg 把祖业鞋店 A Fork in the Road 升级为 Kith,选址布鲁克林。与 Coca-Cola、Moncler、BMW 的联名矩阵+自家成衣线,让 Kith Treats 麦片店都成了打卡点。\nAspen、东京、巴黎门店,选货+自营双线登顶。",
-      "products": [
-        {
-          "id": "kith-tee",
-          "name": "Box Logo Tee",
-          "nameEn": "Kith Box Tee",
-          "type": "T恤",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "简约方标T,基础款的精致化。",
-          "highlights": [
-            "简约方标",
-            "基础精致"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "kith-hoodie",
-          "name": "Williams III 卫衣",
-          "nameEn": "Williams III Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 1200,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "双重织法面料,卫衣里的「质感天花板」。",
-          "highlights": [
-            "双重织法",
-            "质感天花板"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "kith-nike",
-          "name": "x Nike 联名",
-          "nameEn": "Kith x Nike",
-          "type": "联名球鞋",
-          "price": {
-            "min": 2000,
-            "max": 15000,
-            "label": "市场参考价"
-          },
-          "desc": "从 Air Max 到 Dunk 的年度重磅。",
-          "highlights": [
-            "Nike年度",
-            "重磅联名"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "kith-treats",
-          "name": "Kith Treats 麦片",
-          "nameEn": "Kith Treats",
-          "type": "生活方式",
-          "price": {
-            "min": 100,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "把麦片店开进潮流店,生活方式的脑洞。",
-          "highlights": [
-            "麦片店",
-            "生活方式"
-          ],
-          "tags": [
-            "周边"
-          ]
-        },
-        {
-          "id": "kith-nonnative",
-          "name": "x NONNATIVE 联名",
-          "nameEn": "Kith x nonnative",
-          "type": "联名",
-          "price": {
-            "min": 2000,
-            "max": 8000,
-            "label": "零售参考价"
-          },
-          "desc": "日本街头与纽约选货的强强对话。",
-          "highlights": [
-            "日美对话",
-            "强强"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "clot",
-      "name": "CLOT",
-      "nameEn": "CLOT",
-      "domain": "clot.com",
-      "categoryId": "apparel",
-      "country": "中国香港",
-      "founded": 2003,
-      "hq": "香港",
-      "tier": "轻奢",
-      "sub": "潮牌",
-      "tags": [
-        "陈冠希",
-        "丝绸",
-        "东西融合"
-      ],
-      "slogan": "East meets West",
-      "desc": "陈冠希的街头事业:丝绸面料+中国元素的 Nike 联名,把东方符号推向全球街头。",
-      "story": "2003年陈冠希与 Kevin Poon 创立,2006年 Alienegra 荆棘迷彩一炮而红。与 Nike 的「1World 水晶鞋」「CLOT x Fragment 三方丝绸」皆是球鞋史名场面。\nJuice 店铺遍布全球,是华人力量的街头名片。",
-      "products": [
-        {
-          "id": "clot-silk",
-          "name": "丝绸 Air Force 1",
-          "nameEn": "Silk AF1",
-          "type": "联名球鞋",
-          "price": {
-            "min": 8000,
-            "max": 60000,
-            "label": "市场参考价"
-          },
-          "desc": "可撕丝绸设计的球鞋史诗。",
-          "highlights": [
-            "可撕丝绸",
-            "球鞋史诗"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "clot-alienegra",
-          "name": "荆棘迷彩系列",
-          "nameEn": "Alienegra Camo",
-          "type": "迷彩",
-          "price": {
-            "min": 1000,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "Alienegra 荆棘纹,品牌基因印花。",
-          "highlights": [
-            "荆棘纹",
-            "品牌基因"
-          ],
-          "tags": [
-            "迷彩"
-          ]
-        },
-        {
-          "id": "clot-tee",
-          "name": "签名T恤",
-          "nameEn": "Signature Tee",
-          "type": "T恤",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "中文字体玩梗的T恤,东方幽默。",
-          "highlights": [
-            "中文字体",
-            "东方幽默"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "clot-jordan",
-          "name": "x Jordan 联名",
-          "nameEn": "Clot x Jordan",
-          "type": "联名球鞋",
-          "price": {
-            "min": 3000,
-            "max": 20000,
-            "label": "市场参考价"
-          },
-          "desc": "Jordan 系列的中国风续写。",
-          "highlights": [
-            "Jordan联名",
-            "中国风"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "clot-juice",
-          "name": "JUICE 选货店",
-          "nameEn": "JUICE",
-          "type": "选货店",
-          "price": {
-            "min": 500,
-            "max": 20000,
-            "label": "店内参考价"
-          },
-          "desc": "全球选货+首发平台,街头朝圣地。",
-          "highlights": [
-            "全球选货",
-            "朝圣地"
-          ],
-          "tags": [
-            "选货"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "victoriassecret",
-      "name": "维多利亚的秘密",
-      "nameEn": "Victoria's Secret",
-      "domain": "victoriassecret.com",
-      "categoryId": "apparel",
-      "country": "美国",
-      "founded": 1977,
-      "hq": "俄亥俄州哥伦布",
-      "tier": "中档",
-      "sub": "内衣",
-      "tags": [
-        "内衣",
-        "天使",
-        "大秀"
-      ],
-      "slogan": "A world of glamour",
-      "desc": "从 San Francisco 小店到全球内衣帝国:天使翅膀大秀定义了一个时代的性感叙事。",
-      "story": "1977年 Roy Raymond 为「男人替妻子买内衣不尴尬」创立。1995年首场大秀,2000年代「Fantasy Bra」与超模天使文化登峰。2019年大秀停办、转型多元身材叙事。\n如今重组独立上市,与 PINK 线双轮驱动。",
-      "products": [
-        {
-          "id": "victoriassecret-angels",
-          "name": "天使系列文胸",
-          "nameEn": "Angels Bra",
-          "type": "文胸",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "招牌聚拢系列,蕾丝与刺绣的招牌。",
-          "highlights": [
-            "招牌聚拢",
-            "蕾丝刺绣"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "victoriassecret-fantasy",
-          "name": "Fantasy Bra",
-          "nameEn": "Fantasy Bra",
-          "type": "传奇内衣",
-          "price": {
-            "min": 2000000,
-            "max": 20000000,
-            "label": "历史参考价"
-          },
-          "desc": "满钻传奇文胸,大秀压轴的梦幻单品。",
-          "highlights": [
-            "满钻",
-            "大秀压轴"
-          ],
-          "tags": [
-            "传奇"
-          ]
-        },
-        {
-          "id": "victoriassecret-body",
-          "name": "身体乳/香氛",
-          "nameEn": "Body Mist",
-          "type": "香氛身体乳",
-          "price": {
-            "min": 80,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "纯真(Tender)与 bombers 香氛的青春记忆。",
-          "highlights": [
-            "青春记忆",
-            "香氛"
-          ],
-          "tags": [
-            "身体"
-          ]
-        },
-        {
-          "id": "victoriassecret-pink",
-          "name": "PINK 年轻线",
-          "nameEn": "PINK",
-          "type": "年轻内衣",
-          "price": {
-            "min": 80,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "大学校园线,粉白条纹的青春。",
-          "highlights": [
-            "校园线",
-            "粉白条纹"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "victoriassecret-sleep",
-          "name": "家居睡衣",
-          "nameEn": "Sleepwear",
-          "type": "睡衣",
-          "price": {
-            "min": 150,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "缎面睡袍与家居服,女生寝室的贵气。",
-          "highlights": [
-            "缎面",
-            "贵气"
-          ],
-          "tags": [
-            "家居"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "triumph",
-      "name": "黛安芬",
-      "nameEn": "Triumph",
-      "domain": "triumph.com",
-      "categoryId": "apparel",
-      "country": "德国",
-      "founded": 1886,
-      "hq": "巴特维尔东根",
-      "tier": "中档",
-      "sub": "内衣",
-      "tags": [
-        "德国内衣",
-        "百年胸衣",
-        "功能派"
-      ],
-      "slogan": "Find your perfect fit",
-      "desc": "1886年的德国内衣老字号:从鲸骨胸衣到航天科技面料,全球最大的内衣制造商之一。",
-      "story": "1886年 Spiesshofer & Braun 在德国注册(名字致敬英伦 Triumph),1900年代进入胸衣制造。著名的「Sloggi」平角内裤线是全球销量传奇。\n以科技面料与尺码专业度著称。",
-      "products": [
-        {
-          "id": "triumph-bra",
-          "name": "功能文胸系列",
-          "nameEn": "Fit Smart Bra",
-          "type": "文胸",
-          "price": {
-            "min": 200,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "弹性面料自动适应罩杯,智能合身。",
-          "highlights": [
-            "自动适应",
-            "科技面料"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "triumph-sloggi",
-          "name": "Sloggi 无痕内裤",
-          "nameEn": "Sloggi",
-          "type": "内裤",
-          "price": {
-            "min": 50,
-            "max": 150,
-            "label": "零售参考价"
-          },
-          "desc": "1979年问世的销量传奇,无痕棉柔。",
-          "highlights": [
-            "1979传奇",
-            "无痕"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "triumph-sportsbra",
-          "name": "运动文胸",
-          "nameEn": "Sports Bra",
-          "type": "运动内衣",
-          "price": {
-            "min": 250,
-            "max": 700,
-            "label": "零售参考价"
-          },
-          "desc": "高强度支撑的专业运动线。",
-          "highlights": [
-            "高强度支撑",
-            "专业"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "triumph-shapewear",
-          "name": "塑身衣",
-          "nameEn": "Shapewear",
-          "type": "塑身衣",
-          "price": {
-            "min": 300,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "德系剪裁的塑形方案。",
-          "highlights": [
-            "德系剪裁",
-            "塑形"
-          ],
-          "tags": [
-            "塑身"
-          ]
-        },
-        {
-          "id": "triumph-swim",
-          "name": "泳衣",
-          "nameEn": "Swimwear",
-          "type": "泳衣",
-          "price": {
-            "min": 300,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "抗氯面料+专业版型,泳装常青。",
-          "highlights": [
-            "抗氯",
-            "专业版型"
-          ],
-          "tags": [
-            "泳装"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "wacoal",
-      "name": "华歌尔",
-      "nameEn": "Wacoal",
-      "domain": "wacoal.com.cn",
-      "categoryId": "apparel",
-      "country": "日本",
-      "founded": 1949,
-      "hq": "京都",
-      "tier": "中档",
-      "sub": "内衣",
-      "tags": [
-        "日系内衣",
-        "舒适",
-        "研究派"
-      ],
-      "slogan": "Beauty by Wacoal",
-      "desc": "1949年塚本幸一在京都创立的日系内衣巨头:以人体研究见长,「舒适」二字做到了极致。",
-      "story": "1949年创立(前身和尚 enterance),坚持测量数百万女性人体数据做开发。日本市场占有率第一,「BED教室」的导购专业度闻名。\n在华与爱慕等本土品牌竞争,以做工精细著称。",
-      "products": [
-        {
-          "id": "wacoal-bra",
-          "name": "无钢圈舒适文胸",
-          "nameEn": "Wireless Bra",
-          "type": "文胸",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "日式无钢圈的舒适典范。",
-          "highlights": [
-            "无钢圈",
-            "舒适典范"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "wacoal-mature",
-          "name": "熟龄妈妈线",
-          "nameEn": "Elegant Series",
-          "type": "文胸",
-          "price": {
-            "min": 300,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "为熟龄女性设计的承托系。",
-          "highlights": [
-            "熟龄设计",
-            "承托"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "wacoal-sportsbra",
-          "name": "运动文胸",
-          "nameEn": "Sports Bra",
-          "type": "运动内衣",
-          "price": {
-            "min": 250,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "日系减震科技,跑步瑜伽皆宜。",
-          "highlights": [
-            "减震科技",
-            "跑步瑜伽"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "wacoal-pink",
-          "name": "PEZZO 少女线",
-          "nameEn": "PEZZO",
-          "type": "少女内衣",
-          "price": {
-            "min": 100,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "可爱印花的年轻系列。",
-          "highlights": [
-            "可爱印花",
-            "年轻系列"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "wacoal-shapewear",
-          "name": "哺乳/调整型内衣",
-          "nameEn": "Maternity & Shapewear",
-          "type": "功能内衣",
-          "price": {
-            "min": 250,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "孕期哺乳期的贴心设计。",
-          "highlights": [
-            "孕期哺乳",
-            "贴心"
-          ],
-          "tags": [
-            "功能"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ubras",
-      "name": "Ubras",
-      "nameEn": "Ubras",
-      "domain": "ubras.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2016,
-      "hq": "北京",
-      "tier": "大众",
-      "sub": "内衣",
-      "tags": [
-        "无尺码",
-        "新消费",
-        "欧阳娜娜"
-      ],
-      "slogan": "像未穿一样",
-      "desc": "中国「无尺码内衣」的开创者:以「让身体自由」为名,用一款内衣通吃 A-E 罩杯。",
-      "story": "2016年刘小西创立,2019年推出无尺码系列,靠欧阳娜娜代言与直播电商爆发,一度登顶天猫内衣第一。争议(广告文案)与增长并行。\n「无尺码」从此成为行业品类词。",
-      "products": [
-        {
-          "id": "ubras-nosize",
-          "name": "无尺码内衣",
-          "nameEn": "No Size Bra",
-          "type": "文胸",
-          "price": {
-            "min": 100,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "一片式无尺码,弹力适配多体型。",
-          "highlights": [
-            "无尺码",
-            "一片式"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "ubras-lace",
-          "name": "蕾丝无尺码",
-          "nameEn": "Lace Series",
-          "type": "文胸",
-          "price": {
-            "min": 150,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "颜值与舒适兼顾的蕾丝款。",
-          "highlights": [
-            "颜值舒适",
-            "蕾丝"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "ubras-thermal",
-          "name": "保暖背心",
-          "nameEn": "Thermal Cami",
-          "type": "保暖内衣",
-          "price": {
-            "min": 100,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "德绒发热的秋冬打底。",
-          "highlights": [
-            "德绒",
-            "秋冬打底"
-          ],
-          "tags": [
-            "保暖"
-          ]
-        },
-        {
-          "id": "ubras-panty",
-          "name": "内裤套装",
-          "nameEn": "Panty Pack",
-          "type": "内裤",
-          "price": {
-            "min": 60,
-            "max": 200,
-            "label": "零售参考价"
-          },
-          "desc": "无痕内裤多件装,复购神器。",
-          "highlights": [
-            "无痕",
-            "多件装"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "ubras-summer",
-          "name": "凉感系列",
-          "nameEn": "Cooling Series",
-          "type": "文胸",
-          "price": {
-            "min": 100,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "凉感面料的夏季款。",
-          "highlights": [
-            "凉感",
-            "夏季"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bananain",
-      "name": "蕉内",
-      "nameEn": "Bananain",
-      "domain": "bananain.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2016,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "内衣",
-      "tags": [
-        "体感科技",
-        "无感标签",
-        "三模式"
-      ],
-      "slogan": "体感科学",
-      "desc": "把「体感」做成科学的国货品牌:无感标签内衣起家,从袜子到防晒全线「体感科技」。",
-      "story": "2016年张小三与臧崇羽创立(名字取「香蕉+内」,去标签化)。首创 Tagless 无标签内衣,以「凉皮/热皮」体感分级命名产品线。2021年估值25亿。\n设计感包装与「重新设计基本款」叙事出圈。",
-      "products": [
-        {
-          "id": "bananain-tagless",
-          "name": "无感标签内衣",
-          "nameEn": "Tagless Bra",
-          "type": "文胸",
-          "price": {
-            "min": 100,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "无印无标签,告别扎脖子时代。",
-          "highlights": [
-            "无标签",
-            "告别扎脖"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "bananain-socks",
-          "name": "凉皮/热皮袜子",
-          "nameEn": "Cool/Warm Socks",
-          "type": "袜子",
-          "price": {
-            "min": 30,
-            "max": 100,
-            "label": "零售参考价"
-          },
-          "desc": "按体感分级命名,一年四季都有款。",
-          "highlights": [
-            "体感分级",
-            "四季"
-          ],
-          "tags": [
-            "袜子"
-          ]
-        },
-        {
-          "id": "bananain-sunscreen",
-          "name": "防晒服",
-          "nameEn": "UV Series",
-          "type": "防晒服",
-          "price": {
-            "min": 100,
-            "max": 350,
-            "label": "零售参考价"
-          },
-          "desc": "UPF50+凉感防晒,颜值在线。",
-          "highlights": [
-            "UPF50+",
-            "颜值"
-          ],
-          "tags": [
-            "防晒"
-          ]
-        },
-        {
-          "id": "bananain-thermal",
-          "name": "热皮301保暖内衣",
-          "nameEn": "Heat301",
-          "type": "保暖内衣",
-          "price": {
-            "min": 100,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "吸湿发热科技,秋衣秋裤的新物种。",
-          "highlights": [
-            "吸湿发热",
-            "新物种"
-          ],
-          "tags": [
-            "保暖"
-          ]
-        },
-        {
-          "id": "bananain-home",
-          "name": "家居服",
-          "nameEn": "Homewear",
-          "type": "家居服",
-          "price": {
-            "min": 100,
-            "max": 350,
-            "label": "零售参考价"
-          },
-          "desc": "莫代尔云感家居服,宅家体面。",
-          "highlights": [
-            "莫代尔",
-            "宅家体面"
-          ],
-          "tags": [
-            "家居"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "neiwai",
-      "name": "内外",
-      "nameEn": "NEIWAI",
-      "domain": "neiwai.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2012,
-      "hq": "上海",
-      "tier": "大众",
-      "sub": "内衣",
-      "tags": [
-        "无钢圈",
-        "女性叙事",
-        "Body Diversity"
-      ],
-      "slogan": "NO BODY IS NOBODY",
-      "desc": "从一件无钢圈内衣出发,把「做自己的身体叙事」做成品牌:大码模特与多元审美先行者。",
-      "story": "2012年刘小璐在上海创立,2017年 NO BODY IS NOBODY 广告启用非标准身材模特,引发全网讨论。从内衣扩展至家居、运动全场景。\n2021年门店破百,估值数亿美元。",
-      "products": [
-        {
-          "id": "neiwai-zerobra",
-          "name": "零敏系列无钢圈内衣",
-          "nameEn": "Zero Feel Bra",
-          "type": "文胸",
-          "price": {
-            "min": 150,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "当家无钢圈系列,「像没穿一样」。",
-          "highlights": [
-            "当家系列",
-            "像没穿"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "neiwai-lace",
-          "name": "蕾丝法式内衣",
-          "nameEn": "French Lace",
-          "type": "文胸",
-          "price": {
-            "min": 200,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "法式三角杯的浪漫。",
-          "highlights": [
-            "法式三角杯",
-            "浪漫"
-          ],
-          "tags": [
-            "内衣"
-          ]
-        },
-        {
-          "id": "neiwai-active",
-          "name": "内外运动",
-          "nameEn": "NEIWAI ACTIVE",
-          "type": "运动服",
-          "price": {
-            "min": 200,
-            "max": 700,
-            "label": "零售参考价"
-          },
-          "desc": "瑜伽与日常的运动线,大码友好。",
-          "highlights": [
-            "大码友好",
-            "瑜伽"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "neiwai-home",
-          "name": "家居服",
-          "nameEn": "Loungewear",
-          "type": "家居服",
-          "price": {
-            "min": 200,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "云朵触感的家居系列。",
-          "highlights": [
-            "云朵触感",
-            "居家"
-          ],
-          "tags": [
-            "家居"
-          ]
-        },
-        {
-          "id": "neiwai-swim",
-          "name": "泳衣",
-          "nameEn": "Swimwear",
-          "type": "泳衣",
-          "price": {
-            "min": 250,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "多元身材的泳装线,不设限。",
-          "highlights": [
-            "多元身材",
-            "不设限"
-          ],
-          "tags": [
-            "泳装"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "balabala",
-      "name": "巴拉巴拉",
-      "nameEn": "Balabala",
-      "domain": "balabala.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2002,
-      "hq": "温州",
-      "tier": "大众",
-      "sub": "童装",
-      "tags": [
-        "童装之王",
-        "森马系",
-        "全品类"
-      ],
-      "slogan": "童年不同样",
-      "desc": "中国童装市占率第一:森马旗下童装帝国,从婴童到中大童全龄覆盖。",
-      "story": "2002年森马推出童装线,以「童年不同样」快速铺开,全国门店数千家。电商+门店双轮,市场份额一度超第二名到第十名之和。\n近年向青少年运动与时尚延展。",
-      "products": [
-        {
-          "id": "balabala-baby",
-          "name": "婴童系列",
-          "nameEn": "Baby Line",
-          "type": "婴童装",
-          "price": {
-            "min": 50,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "0-3岁婴幼儿的A类安全标准。",
-          "highlights": [
-            "A类安全",
-            "0-3岁"
-          ],
-          "tags": [
-            "婴童"
-          ]
-        },
-        {
-          "id": "balabala-kids",
-          "name": "中大童时尚系列",
-          "nameEn": "Kids Fashion",
-          "type": "童装",
-          "price": {
-            "min": 60,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "4-14岁的潮流穿搭。",
-          "highlights": [
-            "4-14岁",
-            "潮流"
-          ],
-          "tags": [
-            "童装"
-          ]
-        },
-        {
-          "id": "balabala-down",
-          "name": "儿童羽绒服",
-          "nameEn": "Kids Down Jacket",
-          "type": "羽绒服",
-          "price": {
-            "min": 200,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "90绒儿童羽绒服,冬天校服外第一层。",
-          "highlights": [
-            "90绒",
-            "校服外第一层"
-          ],
-          "tags": [
-            "羽绒服"
-          ]
-        },
-        {
-          "id": "balabala-sport",
-          "name": "运动系列",
-          "nameEn": "Sport Line",
-          "type": "运动童装",
-          "price": {
-            "min": 60,
-            "max": 350,
-            "label": "零售参考价"
-          },
-          "desc": "课间操与体育课的舒适装备。",
-          "highlights": [
-            "课间操",
-            "体育课"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "balabala-collab",
-          "name": "IP联名系列",
-          "nameEn": "IP Collab",
-          "type": "联名童装",
-          "price": {
-            "min": 80,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "奥特曼/迪士尼等联名,孩子的快乐。",
-          "highlights": [
-            "奥特曼",
-            "孩子的快乐"
-          ],
-          "tags": [
-            "联名"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hotwind",
-      "name": "热风",
-      "nameEn": "hotwind",
-      "domain": "hotwind.net",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 1996,
-      "hq": "上海",
-      "tier": "大众",
-      "sub": "快时尚",
-      "tags": [
-        "快时尚",
-        "鞋起家",
-        "全品类"
-      ],
-      "slogan": "走在潮流前面",
-      "desc": "1996年上海鞋履起家的国民快时尚:鞋+服装+配饰全家桶,商场负一层的常客。",
-      "story": "1996年陈小龙从女鞋起步,逐渐扩展服装与配饰,以「一站式年轻穿搭」定位进驻全国购物中心。价格亲民、款式更新快是核心打法。",
-      "products": [
-        {
-          "id": "hotwind-shoes",
-          "name": "潮流鞋履",
-          "nameEn": "Fashion Shoes",
-          "type": "鞋",
-          "price": {
-            "min": 100,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "发家品类,帆布到皮鞋全都有。",
-          "highlights": [
-            "发家品类",
-            "全品类鞋"
-          ],
-          "tags": [
-            "鞋"
-          ]
-        },
-        {
-          "id": "hotwind-apparel",
-          "name": "年轻服装",
-          "nameEn": "Young Apparel",
-          "type": "服装",
-          "price": {
-            "min": 60,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "基础款+小设计,通勤学生两相宜。",
-          "highlights": [
-            "基础款",
-            "通勤学生"
-          ],
-          "tags": [
-            "服装"
-          ]
-        },
-        {
-          "id": "hotwind-bags",
-          "name": "箱包",
-          "nameEn": "Bags",
-          "type": "包",
-          "price": {
-            "min": 80,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "通勤包与帆布包的实惠之选。",
-          "highlights": [
-            "实惠",
-            "通勤帆布"
-          ],
-          "tags": [
-            "包"
-          ]
-        },
-        {
-          "id": "hotwind-accessories",
-          "name": "配饰",
-          "nameEn": "Accessories",
-          "type": "配饰",
-          "price": {
-            "min": 20,
-            "max": 200,
-            "label": "零售参考价"
-          },
-          "desc": "帽子袜子饰品小件,顺手加购区。",
-          "highlights": [
-            "顺手加购",
-            "小件"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "hotwind-hom",
-          "name": "家居线",
-          "nameEn": "Homeware",
-          "type": "家居",
-          "price": {
-            "min": 30,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "香薰毛巾等家居小物。",
-          "highlights": [
-            "香薰毛巾",
-            "家居小物"
-          ],
-          "tags": [
-            "家居"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "urbanrevivo",
-      "name": "UR",
-      "nameEn": "Urban Revivo",
-      "domain": "urbanrevivo.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2006,
-      "hq": "广州",
-      "tier": "大众",
-      "sub": "快时尚",
-      "tags": [
-        "中国ZARA",
-        "快时尚",
-        "时装周"
-      ],
-      "slogan": "URBAN REVIVO 快奢时尚",
-      "desc": "被称为「中国版ZARA」:以快反供应链上新款,把轻奢设计感带到大众价位。",
-      "story": "2006年李光斗(实为 Li Guang Liang 创始人李光明? 保持模糊)在广州创立 UR,以「轻奢快时尚」定位。每周上新、设计师驱动,成功出海东南亚与欧洲。\n2020年后加速数字化柔性供应链。",
-      "products": [
-        {
-          "id": "urbanrevivo-women",
-          "name": "女装系列",
-          "nameEn": "Women's Line",
-          "type": "女装",
-          "price": {
-            "min": 150,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "小香风、通勤风全覆盖的女装主力。",
-          "highlights": [
-            "小香风",
-            "通勤"
-          ],
-          "tags": [
-            "女装"
-          ]
-        },
-        {
-          "id": "urbanrevivo-men",
-          "name": "男装系列",
-          "nameEn": "Men's Line",
-          "type": "男装",
-          "price": {
-            "min": 150,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "商务休闲的年轻化表达。",
-          "highlights": [
-            "商务休闲",
-            "年轻化"
-          ],
-          "tags": [
-            "男装"
-          ]
-        },
-        {
-          "id": "urbanrevivo-accessories",
-          "name": "配饰鞋包",
-          "nameEn": "Accessories",
-          "type": "配饰",
-          "price": {
-            "min": 80,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "与服装成套设计的鞋包。",
-          "highlights": [
-            "成套设计",
-            "鞋包"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        },
-        {
-          "id": "urbanrevivo-collab",
-          "name": "设计师联名",
-          "nameEn": "Designer Collab",
-          "type": "联名",
-          "price": {
-            "min": 200,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "与独立设计师的限量系列。",
-          "highlights": [
-            "设计师联名",
-            "限量"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "urbanrevivo-premium",
-          "name": "UR Premium 高级线",
-          "nameEn": "UR Premium",
-          "type": "高级线",
-          "price": {
-            "min": 300,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "面料工艺升级的高级系列。",
-          "highlights": [
-            "面料升级",
-            "高级线"
-          ],
-          "tags": [
-            "女装"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "moussy",
-      "name": "MOUSSY",
-      "nameEn": "MOUSSY",
-      "domain": "moussy.com",
-      "categoryId": "apparel",
-      "country": "日本",
-      "founded": 2000,
-      "hq": "东京",
-      "tier": "中档",
-      "sub": "牛仔",
-      "tags": [
-        "日系",
-        "牛仔裤",
-        "涩谷系"
-      ],
-      "slogan": "Self-love & Self-respect",
-      "desc": "2000年东京涩谷的日系女装:「不穿牛仔裤就不算 MOUSSY」,中性硬朗的少女风。",
-      "story": "2000年 Baroque Japan 创立,以「男友牛仔裤」的宽松中性风在日系女装中独树一帜。2010年代进入中国,上海首店排队盛况犹在。\n姐妹品牌 SLY、RODEO CROWNS 同集团。",
-      "products": [
-        {
-          "id": "moussy-denim",
-          "name": "男友牛仔裤",
-          "nameEn": "Boyfriend Denim",
-          "type": "牛仔裤",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "宽松直筒的招牌丹宁。",
-          "highlights": [
-            "宽松直筒",
-            "招牌丹宁"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "moussy-over",
-          "name": "oversize 卫衣",
-          "nameEn": "Oversize Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "大廓形落肩卫衣。",
-          "highlights": [
-            "大廓形",
-            "落肩"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "moussy-coat",
-          "name": "毛呢大衣",
-          "nameEn": "Wool Coat",
-          "type": "大衣",
-          "price": {
-            "min": 1200,
-            "max": 3500,
-            "label": "零售参考价"
-          },
-          "desc": "冬天的日系大衣,驼色经典。",
-          "highlights": [
-            "日系大衣",
-            "驼色"
-          ],
-          "tags": [
-            "大衣"
-          ]
-        },
-        {
-          "id": "moussy-skirt",
-          "name": "格纹半裙",
-          "nameEn": "Checked Skirt",
-          "type": "半裙",
-          "price": {
-            "min": 400,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "学院格纹,JK风的正统来源之一。",
-          "highlights": [
-            "学院格纹",
-            "JK风"
-          ],
-          "tags": [
-            "半裙"
-          ]
-        },
-        {
-          "id": "moussy-bag",
-          "name": "帆布包",
-          "nameEn": "Canvas Bag",
-          "type": "包",
-          "price": {
-            "min": 300,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "大logo帆布托特,学生党最爱。",
-          "highlights": [
-            "大logo",
-            "学生党"
-          ],
-          "tags": [
-            "包"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "camel",
-      "name": "骆驼",
-      "nameEn": "CAMEL",
-      "domain": "camel.com.cn",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 1950,
-      "hq": "广州",
-      "tier": "大众",
-      "sub": "国民休闲",
-      "tags": [
-        "户外",
-        "登山鞋",
-        "国民品牌"
-      ],
-      "slogan": "骆驼,你的风景",
-      "desc": "中国大众户外第一品牌:登山鞋、冲锋衣的国民选择,天猫户外常年销量第一。",
-      "story": "CAMEL 品牌商标源自美国(1950年代),2000年代由乐登实业引入中国运营,主打大众户外。登山鞋以性价比横扫电商, 冲锋衣、帐篷全品类覆盖。\n近年发力城市户外与徒步文化。",
-      "products": [
-        {
-          "id": "camel-hiking",
-          "name": "登山鞋",
-          "nameEn": "Hiking Shoes",
-          "type": "登山鞋",
-          "price": {
-            "min": 200,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "防滑耐磨的国民登山鞋。",
-          "highlights": [
-            "防滑耐磨",
-            "国民"
-          ],
-          "tags": [
-            "户外"
-          ]
-        },
-        {
-          "id": "camel-jacket",
-          "name": "三合一冲锋衣",
-          "nameEn": "3-in-1 Jacket",
-          "type": "冲锋衣",
-          "price": {
-            "min": 300,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "可拆卸内胆,一衣三穿。",
-          "highlights": [
-            "三合一",
-            "可拆卸"
-          ],
-          "tags": [
-            "户外"
-          ]
-        },
-        {
-          "id": "camel-tent",
-          "name": "帐篷",
-          "nameEn": "Tents",
-          "type": "帐篷",
-          "price": {
-            "min": 200,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "露营热中的性价比帐篷。",
-          "highlights": [
-            "露营热",
-            "性价比"
-          ],
-          "tags": [
-            "露营"
-          ]
-        },
-        {
-          "id": "camel-casual",
-          "name": "休闲鞋",
-          "nameEn": "Casual Shoes",
-          "type": "休闲鞋",
-          "price": {
-            "min": 150,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "城市通勤的老爹鞋与板鞋。",
-          "highlights": [
-            "通勤",
-            "老爹板鞋"
-          ],
-          "tags": [
-            "鞋"
-          ]
-        },
-        {
-          "id": "camel-trek",
-          "name": "徒步装备",
-          "nameEn": "Trekking Gear",
-          "type": "徒步装备",
-          "price": {
-            "min": 50,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "登山杖、背包等徒步全家桶。",
-          "highlights": [
-            "全家桶",
-            "徒步"
-          ],
-          "tags": [
-            "露营"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "jeanswest",
-      "name": "真维斯",
-      "nameEn": "JEANSWEST",
-      "domain": "jeanswest.com",
-      "categoryId": "apparel",
-      "country": "澳大利亚",
-      "founded": 1972,
-      "hq": "珀斯",
-      "tier": "大众",
-      "sub": "牛仔",
-      "tags": [
-        "牛仔",
-        "青春记忆",
-        "旭日系"
-      ],
-      "slogan": "Jeanswest, wear it your way",
-      "desc": "1972年澳洲牛仔品牌:90年代进入中国后成为一代人的「人生第一条牛仔裤」。",
-      "story": "1972年创立于西澳,1993年进入中国内地,巅峰期门店两千余家。「真维斯杯」大学生设计比赛培养了无数行业人才。\n近年收缩转型电商与下沉市场。",
-      "products": [
-        {
-          "id": "jeanswest-denim",
-          "name": "经典牛仔裤",
-          "nameEn": "Classic Denim",
-          "type": "牛仔裤",
-          "price": {
-            "min": 100,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "90年代的青春记忆,直筒百搭。",
-          "highlights": [
-            "青春记忆",
-            "直筒"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "jeanswest-tee",
-          "name": "印花T恤",
-          "nameEn": "Printed Tee",
-          "type": "T恤",
-          "price": {
-            "min": 50,
-            "max": 200,
-            "label": "零售参考价"
-          },
-          "desc": "校园风印花,学生党价。",
-          "highlights": [
-            "校园风",
-            "学生价"
-          ],
-          "tags": [
-            "T恤"
-          ]
-        },
-        {
-          "id": "jeanswest-shirt",
-          "name": "格子衬衫",
-          "nameEn": "Checked Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 80,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "程序员梗图的源头之一。",
-          "highlights": [
-            "程序员梗",
-            "格子"
-          ],
-          "tags": [
-            "衬衫"
-          ]
-        },
-        {
-          "id": "jeanswest-jacket",
-          "name": "牛仔外套",
-          "nameEn": "Denim Jacket",
-          "type": "牛仔外套",
-          "price": {
-            "min": 150,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "春秋复古外套。",
-          "highlights": [
-            "春秋",
-            "复古"
-          ],
-          "tags": [
-            "外套"
-          ]
-        },
-        {
-          "id": "jeanswest-kids",
-          "name": "童装线",
-          "nameEn": "Kids Line",
-          "type": "童装",
-          "price": {
-            "min": 40,
-            "max": 200,
-            "label": "零售参考价"
-          },
-          "desc": "亲子牛仔系列。",
-          "highlights": [
-            "亲子",
-            "牛仔系列"
-          ],
-          "tags": [
-            "童装"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "yishion",
-      "name": "以纯",
-      "nameEn": "YISHION",
-      "domain": "yishion.cc",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 1997,
-      "hq": "东莞虎门",
-      "tier": "大众",
-      "sub": "国民休闲",
-      "tags": [
-        "国民休闲",
-        "县镇之王",
-        "全龄"
-      ],
-      "slogan": "YISHION 以纯",
-      "desc": "东莞虎门的国民休闲品牌:在县镇市场拥有统治力,「以纯」两个字的招牌遍布中国县城。",
-      "story": "1997年郭东林在虎门创立,以低价格+高覆盖策略深耕三四线。巅峰时期门店四千余家,请过刘若英、韩国组合代言。\n近年尝试 YISHION 精品店与出海。",
-      "products": [
-        {
-          "id": "yishion-casual",
-          "name": "休闲装系列",
-          "nameEn": "Casual Line",
-          "type": "休闲装",
-          "price": {
-            "min": 50,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "国民休闲的基本盘。",
-          "highlights": [
-            "国民休闲",
-            "基本盘"
-          ],
-          "tags": [
-            "休闲"
-          ]
-        },
-        {
-          "id": "yishion-kids",
-          "name": "以纯儿童",
-          "nameEn": "YISHION Kids",
-          "type": "童装",
-          "price": {
-            "min": 40,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "县镇童装的重要玩家。",
-          "highlights": [
-            "县镇童装",
-            "重要玩家"
-          ],
-          "tags": [
-            "童装"
-          ]
-        },
-        {
-          "id": "yishion-denim",
-          "name": "牛仔系列",
-          "nameEn": "Denim Line",
-          "type": "牛仔裤",
-          "price": {
-            "min": 60,
-            "max": 250,
-            "label": "零售参考价"
-          },
-          "desc": "发家品类之一。",
-          "highlights": [
-            "发家品类",
-            "牛仔"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "yishion-winter",
-          "name": "冬季棉服",
-          "nameEn": "Winter Padded",
-          "type": "棉服",
-          "price": {
-            "min": 150,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "县镇冬天的主力外套。",
-          "highlights": [
-            "县镇冬天",
-            "主力外套"
-          ],
-          "tags": [
-            "棉服"
-          ]
-        },
-        {
-          "id": "yishion-yishionplus",
-          "name": "以纯PLUS",
-          "nameEn": "YISHION PLUS",
-          "type": "精品线",
-          "price": {
-            "min": 100,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "品质升级的精品副线。",
-          "highlights": [
-            "品质升级",
-            "精品副线"
-          ],
-          "tags": [
-            "精品"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kappa",
-      "name": "卡帕",
-      "nameEn": "Kappa",
-      "domain": "kappa.com",
-      "categoryId": "apparel",
-      "country": "意大利",
-      "founded": 1916,
-      "hq": "都灵",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "背靠背",
-        "Omini",
-        "意式运动"
-      ],
-      "slogan": "Be a legend",
-      "desc": "背靠背 Omini 标的意式运动品牌:尤文图斯复古战袍与 Kappa Kontroll 的时装化尝试。",
-      "story": "1916年 Turin 的 Maglificio Calzificio Torino 袜厂创立,1969年 Omini 背靠背 logo 诞生。1970-80年代赞助尤文、AC米兰等,复古球衣是潮流圈硬通货。\n2006年进入中国,与陈冠希 JUICE 有过合作。",
-      "products": [
-        {
-          "id": "kappa-jersey",
-          "name": "复古足球衣",
-          "nameEn": "Retro Jersey",
-          "type": "足球衣",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "尤文1980年代复刻球衣,「Football Heritage」。",
-          "highlights": [
-            "尤文复刻",
-            "Football Heritage"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "kappa-kontroll",
-          "name": "Kappa Kontroll 时装线",
-          "nameEn": "Kappa Kontroll",
-          "type": "时装线",
-          "price": {
-            "min": 500,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "2015年的时装化尝试,秀场级设计。",
-          "highlights": [
-            "时装化",
-            "秀场级"
-          ],
-          "tags": [
-            "时装"
-          ]
-        },
-        {
-          "id": "kappa-hoodie",
-          "name": "背靠背卫衣",
-          "nameEn": "Omini Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 300,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "侧边串标+背靠背印花。",
-          "highlights": [
-            "侧边串标",
-            "背靠背"
-          ],
-          "tags": [
-            "卫衣"
-          ]
-        },
-        {
-          "id": "kappa-track",
-          "name": "运动套装",
-          "nameEn": "Track Suit",
-          "type": "运动套装",
-          "price": {
-            "min": 400,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "复古串标运动服,韩系复古照抄对象。",
-          "highlights": [
-            "串标",
-            "复古照抄"
-          ],
-          "tags": [
-            "运动"
-          ]
-        },
-        {
-          "id": "kappa-authentic",
-          "name": "Authentic 篮球系列",
-          "nameEn": "Authentic",
-          "type": "篮球系列",
-          "price": {
-            "min": 300,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "篮球文化支线。",
-          "highlights": [
-            "篮球支线",
-            "文化"
-          ],
-          "tags": [
-            "运动"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "markfairwhale",
-      "name": "马克华菲",
-      "nameEn": "Mark Fairwhale",
-      "domain": "markfairwhale.com",
-      "categoryId": "apparel",
-      "country": "中国",
-      "founded": 2001,
-      "hq": "上海",
-      "tier": "大众",
-      "sub": "潮牌",
-      "tags": [
-        "设计师男装",
-        "艺术联名",
-        "七匹狼系"
-      ],
-      "slogan": "Mark your style",
-      "desc": "2001年诞生的中国设计师男装:以艺术联名与都市摩登风格在男装市场独树一帜。",
-      "story": "2001年杨坤田创立(与七匹狼关联),定位「都市新贵」。与 graffiti 艺术家、博物馆的联名持续,男装里的「艺术生」。\nFAIRWHALE JEANS 支线面向年轻市场。",
-      "products": [
-        {
-          "id": "markfairwhale-main",
-          "name": "主线男装",
-          "nameEn": "Main Line",
-          "type": "男装",
-          "price": {
-            "min": 300,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "都市摩登的设计师男装。",
-          "highlights": [
-            "都市摩登",
-            "设计师"
-          ],
-          "tags": [
-            "男装"
-          ]
-        },
-        {
-          "id": "markfairwhale-jeans",
-          "name": "FAIRWHALE JEANS",
-          "nameEn": "Fairwhale Jeans",
-          "type": "牛仔裤",
-          "price": {
-            "min": 200,
-            "max": 900,
-            "label": "零售参考价"
-          },
-          "desc": "年轻支线的牛仔与潮T。",
-          "highlights": [
-            "年轻支线",
-            "潮T"
-          ],
-          "tags": [
-            "牛仔裤"
-          ]
-        },
-        {
-          "id": "markfairwhale-art",
-          "name": "艺术联名系列",
-          "nameEn": "Art Collab",
-          "type": "联名",
-          "price": {
-            "min": 400,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "与美术馆/艺术家的合作。",
-          "highlights": [
-            "美术馆",
-            "艺术联名"
-          ],
-          "tags": [
-            "联名"
-          ]
-        },
-        {
-          "id": "markfairwhale-outer",
-          "name": "大衣系列",
-          "nameEn": "Outerwear",
-          "type": "大衣",
-          "price": {
-            "min": 800,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "冬季的质感大衣。",
-          "highlights": [
-            "质感大衣",
-            "冬季"
-          ],
-          "tags": [
-            "大衣"
-          ]
-        },
-        {
-          "id": "markfairwhale-accessories",
-          "name": "配饰系列",
-          "nameEn": "Accessories",
-          "type": "配饰",
-          "price": {
-            "min": 100,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "围巾领带与包袋。",
-          "highlights": [
-            "围巾领带",
-            "包袋"
-          ],
-          "tags": [
-            "配饰"
-          ]
-        }
-      ]
+     "id": "supreme-louis",
+     "name": "Supreme x LV",
+     "nameEn": "Supreme x Louis Vuitton",
+     "type": "联名",
+     "price": {
+      "min": 30000,
+      "max": 300000,
+      "label": "市场参考价"
+     },
+     "desc": "Supreme x Louis Vuitton 是 2017 年的世纪联名,让街头品牌首次与顶级奢侈品正式握手。双方标志的融合设计横跨服饰与配件,引发全球轰动与疯抢。它是街头与奢侈时尚破圈的历史性时刻,也影响了此后十年的联名浪潮。",
+     "highlights": [
+      "世纪联名",
+      "破圈时刻"
+     ],
+     "tags": [
+      "联名"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "offwhite",
+   "name": "Off-White",
+   "nameEn": "Off-White",
+   "domain": "off---white.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 2013,
+   "hq": "米兰",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "Virgil Abloh",
+    "引号",
+    "斜条纹"
+   ],
+   "slogan": "Defining the grey area",
+   "desc": "Virgil Abloh 的「灰色地带」:引号、斜条纹与工业元素,把街头与高级时装的边界拆掉。",
+   "story": "2013年 Kanye 御用设计师 Virgil Abloh 在米兰创立,「WORK IN PROGRESS」标签与鞋带扣成为时代符号。2018年他成为 LV 男装艺术总监,2021年因癌症离世引发全球哀悼。\n品牌现归 LVMH,仍在延续其设计语言。",
+   "products": [
+    {
+     "id": "offwhite-hoodie",
+     "name": "引号卫衣",
+     "nameEn": "Quote Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "引号卫衣是 Off-White 语言体系的代表单品,将「SCARF」式的引号印花运用于标语设计。这种带引号的文字成为品牌标志性的设计手法,辨识度极高。适合喜欢设计感与文字艺术的潮流玩家,是理解 Off-White 设计语言的第一课。",
+     "highlights": [
+      "引号印花",
+      "语言体系"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "offwhite-tshirt",
+     "name": "斜纹箭头T",
+     "nameEn": "Diagonal Arrows Tee",
+     "type": "T恤",
+     "price": {
+      "min": 800,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "斜纹箭头 T 恤是 Off-White 辨识度最高的单品之一,斜条纹与箭头图案构成品牌的视觉签名。斜向排布的线条充满速度感,一眼可辨。适合追求高街气质的日常穿搭,是品牌入门与标志性造型的不二之选。",
+     "highlights": [
+      "斜纹箭头",
+      "高辨识度"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "offwhite-belt",
+     "name": "工业腰带",
+     "nameEn": "Industrial Belt",
+     "type": "腰带",
+     "price": {
+      "min": 1500,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "工业腰带是 Off-White 出圈的配饰代表作,帆布带身搭配黄色金属扣,带身印有「FOR WALKING」字样。它把工业风的织带语汇转化为日常配饰,辨识度极强。适合搭配牛仔裤与休闲装做点睛,一度成为现象级的流行单品。",
+     "highlights": [
+      "工业风",
+      "FOR WALKING"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "offwhite-nike",
+     "name": "The Ten 联名系列",
+     "nameEn": "Off-White x Nike The Ten",
+     "type": "联名球鞋",
+     "price": {
+      "min": 8000,
+      "max": 150000,
+      "label": "市场参考价"
+     },
+     "desc": "The Ten 是 Off-White 与 Nike 于 2017 年合作的联名系列,解构重塑十双经典鞋款。外露车线、防盗扣与印刷文字等元素颠覆了球鞋的设计常规,被视为球鞋文化的分水岭。适合资深球鞋玩家收藏,其影响力至今仍在延续。",
+     "highlights": [
+      "解构十双",
+      "分水岭"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "offwhite-sneaker",
+     "name": "Out of Office 鞋",
+     "nameEn": "OOO Sneakers",
+     "type": "休闲鞋",
+     "price": {
+      "min": 3000,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "Out of Office 是 Off-White 自主鞋履的主力款式,简称 OOO。它以复古板鞋造型为基底,融入品牌的斜纹与箭头元素,兼顾运动感与时尚度。适合追求低调却仍有辨识度的穿搭场景,是品牌从联名走向自有鞋款的重要一步。",
+     "highlights": [
+      "自主鞋履",
+      "OOO"
+     ],
+     "tags": [
+      "鞋"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "palmangels",
+   "name": "Palm Angels",
+   "nameEn": "Palm Angels",
+   "domain": "palmangels.com",
+   "categoryId": "apparel",
+   "country": "意大利",
+   "founded": 2015,
+   "hq": "米兰",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "棕榈树",
+    "洛杉矶",
+    "Fausto Puglisi系"
+   ],
+   "slogan": "LA state of mind",
+   "desc": "Roc Nation 摄影集起家的意大利品牌:洛杉矶滑板文化+米兰剪裁的「Palm Angels 熊」出圈。",
+   "story": "2015年 Francesco Ragazzi(Off-White 前合伙人)把一本洛杉矶滑板摄影集变成品牌。熊卫衣与棕榈树印花迅速成为亚洲夜店与潮流圈的 uniform。\n现属 New Guards Group, (Farfetch 旗下)。",
+   "products": [
+    {
+     "id": "palmangels-bear",
+     "name": "小熊卫衣",
+     "nameEn": "Bear Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 1800,
+      "max": 4500,
+      "label": "零售参考价"
+     },
+     "desc": "小熊卫衣是 Palm Angels 的招牌单品,奔跑姿态的小熊印花贯穿衣身,形象鲜活俏皮。它兼具街头张力与轻松趣味,常被称作夜店与机场的统一制服。适合喜欢动物元素与美式街头感的年轻用户,是品牌认知度最高的入门款。",
+     "highlights": [
+      "小熊印花",
+      "夜店 uniform"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "palmangels-palm",
+     "name": "棕榈树T恤",
+     "nameEn": "Palm Tree Tee",
+     "type": "T恤",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "棕榈树 T 恤是 Palm Angels 的经典图腾单品,以洛杉矶的棕榈树影为灵感,把加州阳光装进印花。它介于度假风与街头风之间,轻松又有辨识度。适合夏日出行、度假与日常休闲穿搭,是品牌街头与度假气质的双重注脚。",
+     "highlights": [
+      "棕榈印花",
+      "度假感"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "palmangels-sneaker",
+     "name": "熊猫鞋",
+     "nameEn": "Pandas Sneaker",
+     "type": "休闲鞋",
+     "price": {
+      "min": 3000,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "Pandas 是 Palm Angels 的爆款休闲鞋,黑白拼色的厚底运动鞋造型极具辨识度。圆润的鞋型与夸张的比例充满玩味,在亚洲市场尤其受欢迎。适合喜欢美式街头与增高效果的穿搭场景,是品牌从服饰延伸到鞋履的成功之作。",
+     "highlights": [
+      "黑白熊猫",
+      "亚洲爆款"
+     ],
+     "tags": [
+      "鞋"
+     ]
+    },
+    {
+     "id": "palmangels-track",
+     "name": "条纹运动套装",
+     "nameEn": "Track Suit",
+     "type": "运动套装",
+     "price": {
+      "min": 3000,
+      "max": 8000,
+      "label": "零售参考价"
+     },
+     "desc": "条纹运动套装是 Palm Angels 的标志性品类,织带饰边贯穿裤侧与袖身,复古运动服造型极具年代感。它把千禧年的辣妹美学重新演绎,套装上身统一又抢眼。适合喜欢 Y2K 与美式街头风格的年轻用户,单件拆开也百搭。",
+     "highlights": [
+      "织带",
+      "千禧辣妹"
+     ],
+     "tags": [
+      "套装"
+     ]
+    },
+    {
+     "id": "palmangels-capsule",
+     "name": "Playboy/猫和老鼠联名",
+     "nameEn": "Collab Capsule",
+     "type": "联名",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "联名胶囊系列是 Palm Angels 的常规玩法,曾与花花公子、《猫和老鼠》等经典 IP 连续合作。熟悉的卡通形象与街头剪裁结合,趣味十足、话题不断。适合喜欢卡通元素的年轻消费者,也体现品牌把流行文化转化为产品的能力。",
+     "highlights": [
+      "经典IP",
+      "趣味联名"
+     ],
+     "tags": [
+      "联名"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fearofgod",
+   "name": "Fear of God",
+   "nameEn": "Fear of God",
+   "domain": "fearofgod.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 2013,
+   "hq": "洛杉矶",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "Jerry Lorenzo",
+    "宽松廓形",
+    "高级街头"
+   ],
+   "slogan": "Fear of God Essentials",
+   "desc": "Jerry Lorenzo 的「信仰街头」:把教堂礼拜的庄重与西部廓形揉进高级 streetwear,副线 Essentials 是全民 uniform。",
+   "story": "2013年 Jerry Lorenzo 为 Kanye 巡演做造型后自立门户,宽松裤脚+长T的「LA 信仰风」自成一派。2018年与 Nike 联名 Air Fear of God 1 轰动球鞋圈。\n副线 Essentials 以百元级价格统治了 Instagram 的日常穿搭。",
+   "products": [
+    {
+     "id": "fearofgod-essentials",
+     "name": "Essentials 卫衣/长T",
+     "nameEn": "Essentials",
+     "type": "卫衣",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "Essentials 是 Fear of God 的复线系列,以极简 logo 与宽松廓形呈现,定价亲民,被称为全民 uniform。面料扎实、配色低饱和,覆盖卫衣、长 T 等基础品类。适合追求舒适松弛感的日常穿搭,是极简美式风格的入门首选。",
+     "highlights": [
+      "全民 uniform",
+      "极简廓形"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "fearofgod-main",
+     "name": "第六季主线套装",
+     "nameEn": "Main Collection",
+     "type": "套装",
+     "price": {
+      "min": 5000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "主线系列是 Fear of God 的高级表达,第六季以高定级剪裁呈现西裤与法兰绒的组合。它模糊了街头与奢侈的边界,注重面料与垂坠感,氛围克制而高级。适合追求质感与设计语境的成熟玩家,是品牌美学的核心所在。",
+     "highlights": [
+      "高定级",
+      "西裤法兰绒"
+     ],
+     "tags": [
+      "套装"
+     ]
+    },
+    {
+     "id": "fearofgod-sneaker",
+     "name": "Air FOG 1",
+     "nameEn": "Air Fear of God 1",
+     "type": "联名球鞋",
+     "price": {
+      "min": 3000,
+      "max": 15000,
+      "label": "市场参考价"
+     },
+     "desc": "Air Fear of God 1 是 Fear of God 与 Nike 联名的高帮篮球鞋,球鞋圈的名场面之作。夸张的高帮轮廓与鞋面结构极具未来感,同时保留运动性能考量。适合资深球鞋玩家与潮流藏家,是近年讨论度最高的联名球鞋之一。",
+     "highlights": [
+      "Nike联名",
+      "高帮篮球"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "fearofgod-adidas",
+     "name": "x adidas 篮球线",
+     "nameEn": "FOG x adidas",
+     "type": "联名",
+     "price": {
+      "min": 2000,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "x adidas 篮球线是 Fear of God 转投 adidas 后的合作系列,涵盖篮球鞋与生活鞋款。设计延续主线的克制廓形,将性能篮球与日常穿着相结合。适合关注品牌新动向的球鞋玩家,也标志着品牌合作进入新的阶段。",
+     "highlights": [
+      "adidas联名",
+      "篮球线"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "fearofgod-caps",
+     "name": "棒球帽",
+     "nameEn": "Logo Cap",
+     "type": "帽子",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "棒球帽是 Fear of God 的配饰常青款,弧形帽檐与低调 logo 构成头上一抹信仰。不少玩家喜欢反戴呈现廓形,简单一件即可完成造型。适合搭配宽松卫衣与 T 恤,是品牌体系里门槛最低的入门单品。",
+     "highlights": [
+      "反戴弧檐",
+      "信仰一抹"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stussy",
+   "name": "斯图西",
+   "nameEn": "Stüssy",
+   "domain": "stussy.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 1980,
+   "hq": "加州拉古纳海滩",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "元祖潮牌",
+    "涂鸦签名",
+    "国际街头客"
+   ],
+   "slogan": "The International Stüssy Tribe",
+   "desc": "街头潮流的元祖:1980年 Shawn Stussy 把签名涂鸦印上 T 恤,「国际街头部落」是最早的全球街头网络。",
+   "story": "1980年冲浪板匠人 Shawn Stussy 把签名喷上 T 恤,80年代末通过 World Tribe(全球街头客)体系连接东京、伦敦、纽约。Supreme、BAPE 都受其启蒙。\n四十余年不温不火却从未掉队,「活最久的潮牌」。",
+   "products": [
+    {
+     "id": "stussy-signature",
+     "name": "签名T恤",
+     "nameEn": "Signature Tee",
+     "type": "T恤",
+     "price": {
+      "min": 300,
+      "max": 700,
+      "label": "零售参考价"
+     },
+     "desc": "签名 T 恤是 Stüssy 的原点单品,手写涂鸦风格的签名 logo 被视为潮牌 T 恤的始祖。它源自美国西海岸街头文化,却影响了此后一代街头品牌的设计逻辑。适合日常休闲穿搭与街头文化爱好者,是理解潮牌历史的教科书单品。",
+     "highlights": [
+      "签名始祖",
+      "潮牌原点"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "stussy-8ball",
+     "name": "8 Ball 黑八卫衣",
+     "nameEn": "8 Ball Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 700,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "8 Ball 黑八卫衣是 Stüssy 的复古图腾之作,硕大的黑八台球图案印于衣身,充满老派街头气息。这一元素历经多次复刻,始终是品牌的辨识符号。适合喜欢复古街头与经典老款的玩家,秋冬穿搭存在感极强。",
+     "highlights": [
+      "黑八图腾",
+      "复古"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "stussy-stock",
+     "name": "Stock Logo 帽子",
+     "nameEn": "Stock Cap",
+     "type": "帽子",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "Stock Logo 帽子是 Stüssy 的常青配饰,五片帽与渔夫帽等帽型均有覆盖,签名 logo 低调耐看。它兼顾遮阳实用与造型点睛,四季都能派上用场。适合滑板、骑行等街头日常,也是品牌价格友好、容易入手的入门单品。",
+     "highlights": [
+      "五片帽",
+      "常青"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "stussy-dyed",
+     "name": "扎染系列",
+     "nameEn": "Tie-Dye Series",
+     "type": "T恤",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "扎染系列是 Stüssy 的夏日保留节目,加州风格的扎染配色让每件 T 恤都拥有独一无二的纹样。它以限量方式常规推出,热度与话题并存。适合海边度假、音乐节等夏日场景,喜欢个性化渐变色效果的玩家不容错过。",
+     "highlights": [
+      "加州扎染",
+      "夏日限定"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "stussy-nike",
+     "name": "x Nike 联名",
+     "nameEn": "Stüssy x Nike",
+     "type": "联名",
+     "price": {
+      "min": 1500,
+      "max": 8000,
+      "label": "市场参考价"
+     },
+     "desc": "Stüssy 与 Nike 的联名是延续多年的长跑合作,每次发售几乎都是秒没状态。联名多在经典鞋型上融入品牌的街头视角,兼具收藏价值与实穿性。适合资深球鞋玩家与街头爱好者,是街头品牌与运动巨头合作的典范。",
+     "highlights": [
+      "Nike长跑联名",
+      "秒没"
+     ],
+     "tags": [
+      "联名"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "carhartt",
+   "name": "卡哈特",
+   "nameEn": "Carhartt",
+   "domain": "carhartt.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 1889,
+   "hq": "迪尔伯恩",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "工装",
+    "Duck Canvas",
+    "WIP"
+   ],
+   "slogan": "Hard at work since 1889",
+   "desc": "1889年的铁路工人服:全棉帆布 Duck Canvas 与三重缝线,工装美学横跨蓝领与潮流两界。",
+   "story": "1889年 Hamilton Carhartt 在底特律为铁路工人造工装,「12盎司 Duck 帆布」成为耐磨代名词。1994年欧洲支线 Carhartt WIP 把工装带进滑板与嘻哈圈。\n底特律夹克(Barn Coat)是工装党的终极信仰。",
+   "products": [
+    {
+     "id": "carhartt-detroit",
+     "name": "底特律夹克",
+     "nameEn": "Detroit Jacket",
+     "type": "工装夹克",
+     "price": {
+      "min": 500,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "底特律夹克是 Carhartt 的工装图腾,以棕色 Duck 帆布打造短款版型。面料厚实耐磨,越穿越有岁月痕迹,经典配色几乎无需修饰。适合户外劳作与复古工装穿搭,从车间走向街头的它,如今已是工装文化的代名词。",
+     "highlights": [
+      "Duck帆布",
+      "工装图腾"
+     ],
+     "tags": [
+      "外套"
+     ]
+    },
+    {
+     "id": "carhartt-bib",
+     "name": "背带工装裤",
+     "nameEn": "Bib Overalls",
+     "type": "工装裤",
+     "price": {
+      "min": 600,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "背带工装裤是 Carhartt 的经典重型单品,膝部采用双层加固,并配有锤袢等实用细节,处处为真实劳动场景而设计。它耐用度极高,深得工人群体信赖。近年也被穿搭玩家发掘,成为复古工装与街头造型的硬核选择。",
+     "highlights": [
+      "双层膝",
+      "锤袢"
+     ],
+     "tags": [
+      "裤"
+     ]
+    },
+    {
+     "id": "carhartt-wip",
+     "name": "WIP 支线",
+     "nameEn": "Carhartt WIP",
+     "type": "潮流支线",
+     "price": {
+      "min": 400,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "WIP 支线是 Carhartt 面向欧洲潮流市场的支线,保留工作服基因的同时把版型改得更 slim。设计更贴近都市穿搭,常与艺术、音乐场景合作。适合想要工装气质又不接受过宽版型的潮流玩家,是品牌通往街头文化的桥梁。",
+     "highlights": [
+      "欧洲支线",
+      "slim版"
+     ],
+     "tags": [
+      "潮流"
+     ]
+    },
+    {
+     "id": "carhartt-cap",
+     "name": "Acrylic Watch 帽",
+     "nameEn": "Watch Hat",
+     "type": "毛线帽",
+     "price": {
+      "min": 150,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "Acrylic Watch 帽是 Carhartt 的经典毛线冷帽,针织材质厚实保暖,颜色选择众多。它原本是工人的御寒配件,如今成为秋冬街拍中人手一顶的常青款。适合通勤、户外与日常搭配,平价实用且几乎不挑风格。",
+     "highlights": [
+      "冷帽",
+      "人手一顶"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "carhartt-beanieduck",
+     "name": "Double Knee 裤",
+     "nameEn": "Double Knee Pants",
+     "type": "工装裤",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "Double Knee 裤是 Carhartt 的耐磨代表作,双层膝布设计大幅提升耐用性,专为高强度劳动而生。它经得起滑板、骑行等高消耗使用,深得滑板党喜爱。适合追求耐造与复古工装感的日常穿搭,越旧越有味道。",
+     "highlights": [
+      "双层膝",
+      "滑板耐磨"
+     ],
+     "tags": [
+      "裤"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "champion",
+   "name": "冠军",
+   "nameEn": "Champion",
+   "domain": "champion.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 1919,
+   "hq": "北卡罗来纳",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "连帽卫衣发明者",
+    "美式复古",
+    "Hanes系"
+   ],
+   "slogan": "It takes a little more to make a Champion",
+   "desc": "1919年的百年运动品牌:发明连帽卫衣与网眼运动服,2017年借 Yeezy 联名与 UO 复古风王者归来。",
+   "story": "1919年 Feinbloom 兄弟在罗切斯特创立,1930年代发明连帽卫衣(Reverse Weave),长期供 NCAA 与美军。2017年后借复古潮与 Supreme 联名翻红。\n「小红标/大C logo」的卫衣是美式复古的通用语。",
+   "products": [
+    {
+     "id": "champion-reverse",
+     "name": "Reverse Weave 卫衣",
+     "nameEn": "Reverse Weave",
+     "type": "卫衣",
+     "price": {
+      "min": 300,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "Reverse Weave 卫衣是 Champion 的镇店之作,采用 1938 年专利的防缩水织法,横向编织减少洗后变形。重磅面料带来挺括廓形与持久耐穿,被视为复古卫衣的标准答案。适合卫衣爱好者与复古穿搭玩家,收藏实穿两相宜。",
+     "highlights": [
+      "1938专利",
+      "标准答案"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "champion-logo",
+     "name": "大C logo T恤",
+     "nameEn": "Big C Logo Tee",
+     "type": "T恤",
+     "price": {
+      "min": 150,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "大 C logo T 恤是 Champion 的经典基础款,胸口的大号 C 字标识简单直接,校园气息十足。面料以舒适耐穿著称,价格友好,常作为认识品牌的第一件单品。适合学生日常与运动休闲穿搭,也让品牌标识深入人心。",
+     "highlights": [
+      "大C标",
+      "校园风"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "champion-sweat",
+     "name": "刺绣运动裤",
+     "nameEn": "Sweatpants",
+     "type": "运动裤",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "冠军(Champion)出品的经典刺绣运动裤,属于大众价位的美式基础款。裤身采用内里反面绒的抓绒面料,柔软保暖,裤脚以罗纹收口,松紧腰头穿脱方便,居家休息与出街通勤都能胜任。低调的刺绣小标点题,是这家1919年创立的美国运动老牌常青不衰的日常基本款。",
+     "highlights": [
+      "反面绒",
+      "罗纹裤脚"
+     ],
+     "tags": [
+      "裤"
+     ]
+    },
+    {
+     "id": "champion-supreme",
+     "name": "x Supreme 联名",
+     "nameEn": "Supreme x Champion",
+     "type": "联名",
+     "price": {
+      "min": 800,
+      "max": 5000,
+      "label": "市场参考价"
+     },
+     "desc": "这是美国潮牌 Supreme 与百年运动品牌 Champion 的联名系列,被视为 Champion 近年翻红的关键推手。系列将 Champion 的反面绒运动套装与 Supreme 的街头态度结合,以双品牌 logo 印花的卫衣、运动裤为主。2017年该系列在街头圈热度极高,让老牌重回年轻消费者视野,二手市场价格随款式浮动。",
+     "highlights": [
+      "翻红联名",
+      "2017"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "champion-japan",
+     "name": "日版 C3 系列",
+     "nameEn": "Champion Japan",
+     "type": "复刻线",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "Champion 日本支线推出的 C3 复刻系列,主打美式老式剪裁的重制版型。相比美版,日版在面料克重、缝制工艺与版型还原度上更为讲究,惯用重磅反面绒与宽松复古廓形,尺码也针对亚洲人身形调整。适合追求复古质感与日常耐穿的玩家,是日式复古风格爱好者常见的入门选择。",
+     "highlights": [
+      "日版",
+      "复刻剪裁"
+     ],
+     "tags": [
+      "复刻"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evisu",
+   "name": "福神",
+   "nameEn": "EVISU",
+   "domain": "evisu.com",
+   "categoryId": "apparel",
+   "country": "日本",
+   "founded": 1991,
+   "hq": "大阪",
+   "tier": "轻奢",
+   "sub": "牛仔",
+   "tags": [
+    "海鸥",
+    "手工牛仔裤",
+    "Y2K"
+   ],
+   "slogan": "Secrets of EVISU",
+   "desc": "大阪手绘牛仔裤之神:后袋海鸥 Logo 每条手绘,90年代末香港与日本潮流的黄金符号。",
+   "story": "1991年山根英晴在濑户内海小镇创立(名字源于日本神话财神惠比寿),早期复刻 LEVI'S 501 的 vintage 做工。后袋海鸥为每条手绘,2000年代一条裤子上万的盛况犹在眼前。\n如今 Y2K 复古潮让它再度翻红。",
+   "products": [
+    {
+     "id": "evisu-no1",
+     "name": "No.1 特别版牛仔裤",
+     "nameEn": "No.1 Special",
+     "type": "牛仔裤",
+     "price": {
+      "min": 2000,
+      "max": 8000,
+      "label": "零售参考价"
+     },
+     "desc": "EVISU 的 No.1 特别版牛仔裤,是品牌收藏级的旗舰单品。以赤耳丹宁为底,后袋标志性的海鸥图案由工匠手绘完成,搭配大 M 标与日式图腾点缀,工艺感十足。适合牛仔玩家与收藏人群,自品牌1991年创立以来一直是其最具代表性的作品之一,在街头文化中知名度极高。",
+     "highlights": [
+      "手绘海鸥",
+      "收藏级"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "evisu-daicock",
+     "name": "大M 海鸥牛仔",
+     "nameEn": "Daicock",
+     "type": "牛仔裤",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "EVISU 标志性的「大M」Daicock 牛仔裤,后袋海鸥图案弧度更大、线条更夸张,是品牌辨识度最高的版型之一。裤型多为宽松直筒,搭配手绘感印花与水洗做旧,上身极易出片。近年借 Y2K 回潮再度走红,成为辣妹穿搭与街头风格的常客,是品牌面向年轻潮流人群的主力款。",
+     "highlights": [
+      "大弧海鸥",
+      "Y2K辣妹"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "evisu-sweat",
+     "name": "海鸥卫衣",
+     "nameEn": "Seagull Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 800,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "EVISU 的海鸥卫衣,常与同系列运动裤组成套装,是品牌从牛仔延伸至运动装的代表作。设计以大面积 logo 与海鸥图案落在袖子或胸前,面料为常规抓绒,印花色彩浓烈,延续品牌张扬的日系街头气质。适合日常穿搭与套装出街,深受喜欢高调风格的潮流人群喜爱。",
+     "highlights": [
+      "大logo",
+      "运动套装"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "evisu-denimjacket",
+     "name": "牛仔外套",
+     "nameEn": "Denim Jacket",
+     "type": "牛仔外套",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "EVISU 的牛仔外套,以经典美式 Type 2、Type 3 夹克版型复刻为蓝本,融入品牌标志性的海鸥刺绣与日式印花,部分款式采用赤耳丹宁制作。版型复古,保留翻领、口袋等经典工装细节,适合搭配同系列牛仔裤成套穿着,也深受街头与复古玩家的喜爱,是品牌牛仔工艺的延伸之作。",
+     "highlights": [
+      "Type复刻",
+      "海鸥刺绣"
+     ],
+     "tags": [
+      "外套"
+     ]
+    },
+    {
+     "id": "evisu-tee",
+     "name": "佛头T恤",
+     "nameEn": "Kamome Tee",
+     "type": "T恤",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "EVISU 的 Kamome T 恤,以佛头、浮世绘等日式图腾搭配海鸥与品牌字样的大面积印花著称,风格浮夸抢眼,被视为日系「浮夸美学」的巅峰代表。面料为常规棉质圆领短袖,版型偏宽松,适合追求个性穿搭的潮流人群。这类 T 恤曾风靡亚洲街头,如今仍是 Y2K 复古穿搭的高频单品。",
+     "highlights": [
+      "佛头印花",
+      "日系浮夸"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bape",
+   "name": "安逸猿",
+   "nameEn": "A BATHING APE",
+   "domain": "bape.com",
+   "categoryId": "apparel",
+   "country": "日本",
+   "founded": 1993,
+   "hq": "东京",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "猿人头",
+    "迷彩",
+    "Nigo"
+   ],
+   "slogan": "Ape shall never kill ape",
+   "desc": "Nigo 的猿人帝国:满印迷彩+鲨鱼卫衣,把东京原宿变成全球街头的朝圣地。",
+   "story": "1993年 Nigo(长尾智明)在原宿开店,名字取自《人猿星球》台词。迷彩鲨鱼卫衣(2004)与 BAPE STA 鞋成为千禧年标志,Pharrell 与 Kanye 都是自来水。\n2011年卖身香港 I.T,如今门店遍布全球。",
+   "products": [
+    {
+     "id": "bape-shark",
+     "name": "鲨鱼卫衣",
+     "nameEn": "Shark Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "A BATHING APE 的鲨鱼连帽卫衣,把拉链一路拉到头顶时,印花鲨鱼嘴恰好张开包裹面部,是设计上最具辨识度的巧思。卫衣常配 ABC 迷彩或满版印花,风格张扬。自千禧年起就是日系街头的标志性单品,深受说唱歌手与潮流玩家追捧,至今仍以不断推出的配色与联名保持热度。",
+     "highlights": [
+      "鲨鱼嘴",
+      "千禧神器"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "bape-camo",
+     "name": "ABC 迷彩系列",
+     "nameEn": "ABC Camo",
+     "type": "迷彩",
+     "price": {
+      "min": 1200,
+      "max": 3500,
+      "label": "零售参考价"
+     },
+     "desc": "A BATHING APE 的 ABC Camo 迷彩系列,以品牌原创的迷彩纹样满印于卫衣、T恤与配饰之上,绿色、粉色等配色极具辨识度,是「满印美学」的代表。设计脱胎于军事迷彩却更跳跃夸张,适合日常街头穿搭。作为品牌的基因图案之一,它与鲨鱼头并列为 BAPE 最具文化影响力的视觉符号。",
+     "highlights": [
+      "满印迷彩",
+      "ABC"
+     ],
+     "tags": [
+      "迷彩"
+     ]
+    },
+    {
+     "id": "bape-sta",
+     "name": "BAPE STA 鞋",
+     "nameEn": "BAPE STA",
+     "type": "运动鞋",
+     "price": {
+      "min": 1200,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "BAPE STA 是 A BATHING APE 的招牌运动鞋,鞋型以经典篮球鞋为灵感,最醒目的特征是鞋侧的星球形星星标志与漆皮鞋面,配色鲜艳繁多。它与 Air Force 1 被街头圈戏称为「平行宇宙」的对照款,自问世以来便与球鞋文化深度绑定,是千禧年街头造型绕不开的名字。",
+     "highlights": [
+      "星星标",
+      "平行宇宙"
+     ],
+     "tags": [
+      "鞋"
+     ]
+    },
+    {
+     "id": "bape-baby",
+     "name": "Baby Milo 猿人",
+     "nameEn": "Baby Milo",
+     "type": "T恤",
+     "price": {
+      "min": 600,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "Baby Milo 是 A BATHING APE 旗下的卡通猿人角色系列,以圆滚滚的猿人形象著称,走可爱路线,与主线的满印迷彩形成互补。产品以 T 恤、卫衣及配饰为主,常以字母与角色印花点题。适合喜欢轻松童趣风格的年轻用户,也是品牌周边与联名中出镜率最高的 IP 之一。",
+     "highlights": [
+      "Baby Milo",
+      "可爱担当"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "bape-supreme",
+     "name": "x Supreme 联名",
+     "nameEn": "Bape x Supreme",
+     "type": "联名",
+     "price": {
+      "min": 3000,
+      "max": 20000,
+      "label": "市场参考价"
+     },
+     "desc": "2022年,日本元祖潮牌 A BATHING APE 与美国街头品牌 Supreme 迎来历史性合体,两大街头元祖正式联名。系列以双方标志性元素互换为设计思路,鲨鱼嘴与经典 logo 同框,涵盖卫衣、T恤、迷彩单品等。发售后引发抢购热潮,被视为街头文化史上极具纪念意义的一次合作,二手市场价格不菲。",
+     "highlights": [
+      "历史合体",
+      "2022"
+     ],
+     "tags": [
+      "联名"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aape",
+   "name": "AAPE",
+   "nameEn": "AAPE BY A BATHING APE",
+   "domain": "aape.com",
+   "categoryId": "apparel",
+   "country": "日本/香港",
+   "founded": 2009,
+   "hq": "东京/香港",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "猿人副线",
+    "月亮标",
+    "I.T系"
+   ],
+   "slogan": "AAPE by A Bathing Ape",
+   "desc": "BAPE 的年轻副线:月亮猿人头标,价格更亲民的潮流入门。",
+   "story": "2009年 BAPE 母公司 I.T 推出 AAPE(A BATHING APE 面向年轻世代),Moonface 月亮标取代猿人头。价格减半,设计更街头,成为学生党入门潮牌的热门。\n亚洲市场尤其中国大陆门店密集。",
+   "products": [
+    {
+     "id": "aape-moonface",
+     "name": "月亮标T恤",
+     "nameEn": "Moonface Tee",
+     "type": "T恤",
+     "price": {
+      "min": 400,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "AAPE BY A BATHING APE 的月亮标 T 恤,是这一年轻支线的入门代表款。设计以「月亮猿人头」Moonface 图案印于胸前或后背,色调以蓝紫迷彩与简约黑灰为主,风格更日常,定位面向大众。适合学生与初入潮流圈的年轻人,以较低的门槛体验猿人文化。",
+     "highlights": [
+      "月亮标",
+      "入门"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "aape-camo",
+     "name": "迷彩卫衣",
+     "nameEn": "Camo Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 700,
+      "max": 1600,
+      "label": "零售参考价"
+     },
+     "desc": "AAPE 的迷彩连帽卫衣,把母品牌 BAPE 的迷彩基因做了年轻化转译,以蓝紫色调的迷彩满印或局部拼接呈现,视觉更清爽。面料为常规抓绒,版型偏宽松休闲,适合校园与日常街头穿搭。作为支线的招牌图案,它与月亮标并列 AAPE 最具辨识度的视觉语言,是入门级潮人的常见选择。",
+     "highlights": [
+      "蓝紫迷彩",
+      "年轻化"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "aape-jacket",
+     "name": "MA-1 飞行夹克",
+     "nameEn": "MA-1 Bomber",
+     "type": "夹克",
+     "price": {
+      "min": 1200,
+      "max": 2800,
+      "label": "零售参考价"
+     },
+     "desc": "AAPE 的 MA-1 飞行夹克,复刻经典空军 MA-1 短款廓形,保留罗纹领口袖口等传统细节,后背以大幅月亮猿人头标点题。面料兼顾挺括与轻便,适合秋冬叠穿与街头造型。它把军事风与潮流图案嫁接,是支线里兼具实用性与话题度的外套单品,深受年轻男生欢迎。",
+     "highlights": [
+      "MA-1",
+      "月亮后背"
+     ],
+     "tags": [
+      "外套"
+     ]
+    },
+    {
+     "id": "aape-caps",
+     "name": "帽子配件",
+     "nameEn": "Caps & Accessories",
+     "type": "配饰",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "AAPE 的帽子配件线,涵盖棒球帽、渔夫帽等日常配饰,以月亮猿人头标志与蓝紫迷彩为主要视觉。设计简洁、定价亲民,被玩家形容为「便宜大碗」的 logo 系单品。适合作为新手入门的第一件潮流配饰,也方便与各类卫衣 T 恤搭配,是支线里走量大、出镜率高的品类。",
+     "highlights": [
+      "便宜大碗",
+      "logo系"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "aape-collab",
+     "name": "北京摩天轮限定",
+     "nameEn": "City Exclusive",
+     "type": "限定",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "AAPE 的城市限定系列,以北京摩天轮等城市地标文化为灵感,把地方元素与月亮猿人图案结合,推出限定款 T 恤与配饰。这类 City Exclusive 以城市文化为主题,兼具纪念意义与稀缺性,让全球化的猿人 IP 落地本土。适合游客与本地潮流爱好者收藏,也是品牌深耕中国市场的特色玩法。",
+     "highlights": [
+      "城市限定",
+      "文化联名"
+     ],
+     "tags": [
+      "限定"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kith",
+   "name": "Kith",
+   "nameEn": "Kith",
+   "domain": "kith.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 2011,
+   "hq": "纽约",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "Ronnie Fieg",
+    "选货店",
+    "联名之王"
+   ],
+   "slogan": "Kith Monday",
+   "desc": "从鞋店买手到潮流百货帝国:Ronnie Fieg 的 Kith 把「生活方式选货」做成全球现象,Kith Monday 每周开启。",
+   "story": "2011年 Ronnie Fieg 把祖业鞋店 A Fork in the Road 升级为 Kith,选址布鲁克林。与 Coca-Cola、Moncler、BMW 的联名矩阵+自家成衣线,让 Kith Treats 麦片店都成了打卡点。\nAspen、东京、巴黎门店,选货+自营双线登顶。",
+   "products": [
+    {
+     "id": "kith-tee",
+     "name": "Box Logo Tee",
+     "nameEn": "Kith Box Tee",
+     "type": "T恤",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "Kith 的 Box Logo T 恤,是这一纽约轻奢潮流品牌的基础招牌。设计以简约方块标落于胸口,靠面料与剪裁的精致度取胜,配色随季节不断更新,风格低调耐看。适合追求「基础款高级感」的都市人群,日常单穿或叠穿皆宜,是多次推出的常青款,也是 Kith 极简美学的最佳注脚。",
+     "highlights": [
+      "简约方标",
+      "基础精致"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "kith-hoodie",
+     "name": "Williams III 卫衣",
+     "nameEn": "Williams III Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 1200,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "Williams III 卫衣是 Kith 卫衣线中的质感担当,采用双重织法面料,厚度与垂坠感都高于普通抓绒,被玩家称为卫衣里的「质感天花板」。设计延续品牌标志性的 Box Logo 与低饱和配色,版型略微宽松。适合注重面料手感的用户,单穿即可撑起造型,是品牌把基础款做精做贵的代表之作。",
+     "highlights": [
+      "双重织法",
+      "质感天花板"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "kith-nike",
+     "name": "x Nike 联名",
+     "nameEn": "Kith x Nike",
+     "type": "联名球鞋",
+     "price": {
+      "min": 2000,
+      "max": 15000,
+      "label": "市场参考价"
+     },
+     "desc": "Kith 与 Nike 的联名系列,从 Air Max 到 Dunk 覆盖多个鞋型,是纽约潮流圈每年最受期待的年度重磅之一。设计以配色叙事见长,常在联名中融入城市记忆,材质用料也常高于常规版本。每次发售都引发抢购,二级市场价格随款式浮动,是 Kith 商业与文化影响力的集中体现。",
+     "highlights": [
+      "Nike年度",
+      "重磅联名"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "kith-treats",
+     "name": "Kith Treats 麦片",
+     "nameEn": "Kith Treats",
+     "type": "生活方式",
+     "price": {
+      "min": 100,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "Kith Treats 是 Kith 开在店内的麦片概念店,把早餐麦片与甜品做成「潮流美食」,是与服饰并列的生活方式实验。顾客在选购服装之余可以坐下来吃一碗麦片,店面设计同样由品牌美学统领。这种「服装店+美食」的脑洞在零售圈颇具话题性,也强化了 Kith 以生活场景为核心的经营理念。",
+     "highlights": [
+      "麦片店",
+      "生活方式"
+     ],
+     "tags": [
+      "周边"
+     ]
+    },
+    {
+     "id": "kith-nonnative",
+     "name": "x NONNATIVE 联名",
+     "nameEn": "Kith x nonnative",
+     "type": "联名",
+     "price": {
+      "min": 2000,
+      "max": 8000,
+      "label": "零售参考价"
+     },
+     "desc": "Kith 与日本街头品牌 nonnative 的联名,是一场纽约选货文化与日本街头设计的强强对话。系列通常在服装版型与材质上做融合实验,以双方 logo 共存呈现,风格兼具美式的宽松与日系的机能感。适合喜欢日美混合审美的资深玩家,是品牌众多日系联名中的话题之作。",
+     "highlights": [
+      "日美对话",
+      "强强"
+     ],
+     "tags": [
+      "联名"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clot",
+   "name": "CLOT",
+   "nameEn": "CLOT",
+   "domain": "clot.com",
+   "categoryId": "apparel",
+   "country": "中国香港",
+   "founded": 2003,
+   "hq": "香港",
+   "tier": "轻奢",
+   "sub": "潮牌",
+   "tags": [
+    "陈冠希",
+    "丝绸",
+    "东西融合"
+   ],
+   "slogan": "East meets West",
+   "desc": "陈冠希的街头事业:丝绸面料+中国元素的 Nike 联名,把东方符号推向全球街头。",
+   "story": "2003年陈冠希与 Kevin Poon 创立,2006年 Alienegra 荆棘迷彩一炮而红。与 Nike 的「1World 水晶鞋」「CLOT x Fragment 三方丝绸」皆是球鞋史名场面。\nJuice 店铺遍布全球,是华人力量的街头名片。",
+   "products": [
+    {
+     "id": "clot-silk",
+     "name": "丝绸 Air Force 1",
+     "nameEn": "Silk AF1",
+     "type": "联名球鞋",
+     "price": {
+      "min": 8000,
+      "max": 60000,
+      "label": "市场参考价"
+     },
+     "desc": "CLOT 的丝绸 Air Force 1,是与 Nike 合作的球鞋史诗之作。最大亮点在「可撕」设计——丝绸鞋面之下还藏有另一层图案,穿者可自行撕开创造专属效果,把中国丝绸文化与球鞋玩法结合。该系列在球鞋史上地位极高,被视为华人潮流闯入世界舞台的里程碑,至今话题不断。",
+     "highlights": [
+      "可撕丝绸",
+      "球鞋史诗"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "clot-alienegra",
+     "name": "荆棘迷彩系列",
+     "nameEn": "Alienegra Camo",
+     "type": "迷彩",
+     "price": {
+      "min": 1000,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "Alienegra 荆棘迷彩是 CLOT 的品牌基因印花,以荆棘藤蔓纹理重构传统迷彩,黑金等配色冷峻内敛,兼具东方底蕴与暗黑美学。图案被广泛运用于 T 恤、外套与配饰之上,是品牌视觉体系的核心符号之一。适合喜欢低调而有个性表达的街头玩家,在华人潮流圈认可度极高。",
+     "highlights": [
+      "荆棘纹",
+      "品牌基因"
+     ],
+     "tags": [
+      "迷彩"
+     ]
+    },
+    {
+     "id": "clot-tee",
+     "name": "签名T恤",
+     "nameEn": "Signature Tee",
+     "type": "T恤",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "CLOT 的签名 T 恤系列,擅长以中文字体玩梗,把成语、谐音与汉字排版设计成视觉主角,透出一种「东方幽默」。面料为常规棉质,版型偏日常。这类 T 恤把语言文化变成穿搭宣言,既好懂又有谈资,适合喜欢用细节表达态度的年轻人,也是品牌中西混血气质最直观的载体。",
+     "highlights": [
+      "中文字体",
+      "东方幽默"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "clot-jordan",
+     "name": "x Jordan 联名",
+     "nameEn": "Clot x Jordan",
+     "type": "联名球鞋",
+     "price": {
+      "min": 3000,
+      "max": 20000,
+      "label": "市场参考价"
+     },
+     "desc": "CLOT 与 Jordan Brand 的联名,把中国风元素注入篮球鞋文化,是 Jordan 系列里少有的东方叙事。设计常以丝绸等东方意象与材质融入鞋面与配色,兼顾篮球血统与文化表达。作为华人品牌与顶级篮球 IP 的合作,它在球鞋圈热度与话题度兼具,二级市场价格随款式浮动。",
+     "highlights": [
+      "Jordan联名",
+      "中国风"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "clot-juice",
+     "name": "JUICE 选货店",
+     "nameEn": "JUICE",
+     "type": "选货店",
+     "price": {
+      "min": 500,
+      "max": 20000,
+      "label": "店内参考价"
+     },
+     "desc": "JUICE 是 CLOT 旗下的全球选货店,兼营品牌自有产品与国际街头品牌,被视为亚洲街头文化的朝圣地之一。门店以独特的空间设计包装,热门单品首发时常令玩家专程到店排队。适合资深潮人与球鞋收藏者,它既是零售空间,也是 CLOT 连接全球街头网络的重要据点。",
+     "highlights": [
+      "全球选货",
+      "朝圣地"
+     ],
+     "tags": [
+      "选货"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victoriassecret",
+   "name": "维多利亚的秘密",
+   "nameEn": "Victoria's Secret",
+   "domain": "victoriassecret.com",
+   "categoryId": "apparel",
+   "country": "美国",
+   "founded": 1977,
+   "hq": "俄亥俄州哥伦布",
+   "tier": "中档",
+   "sub": "内衣",
+   "tags": [
+    "内衣",
+    "天使",
+    "大秀"
+   ],
+   "slogan": "A world of glamour",
+   "desc": "从 San Francisco 小店到全球内衣帝国:天使翅膀大秀定义了一个时代的性感叙事。",
+   "story": "1977年 Roy Raymond 为「男人替妻子买内衣不尴尬」创立。1995年首场大秀,2000年代「Fantasy Bra」与超模天使文化登峰。2019年大秀停办、转型多元身材叙事。\n如今重组独立上市,与 PINK 线双轮驱动。",
+   "products": [
+    {
+     "id": "victoriassecret-angels",
+     "name": "天使系列文胸",
+     "nameEn": "Angels Bra",
+     "type": "文胸",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "天使系列文胸是 Victoria's Secret 的招牌聚拢产品线,以蕾丝与刺绣工艺见长,杯型强调集中与曲线,辅以缎带、水钻等装饰细节,风格华丽浪漫。尺码与杯型选择丰富,适合日常乃至特殊场合穿着。依托「天使」与年度大秀的营销光环,它是品牌认知度最高的内衣系列,也是许多人心中维密的代名词。",
+     "highlights": [
+      "招牌聚拢",
+      "蕾丝刺绣"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "victoriassecret-fantasy",
+     "name": "Fantasy Bra",
+     "nameEn": "Fantasy Bra",
+     "type": "传奇内衣",
+     "price": {
+      "min": 2000000,
+      "max": 20000000,
+      "label": "历史参考价"
+     },
+     "desc": "Fantasy Bra 是 Victoria's Secret 年度大秀的压轴传奇文胸,以满钻镶嵌与奢华制作著称,由当季最顶尖的「天使」佩戴走秀,被称为梦幻单品。它承载的品牌造势与文化传播意义大于日常实用,是内衣时尚史上最具话题性的创作之一,也见证了维密黄金年代的极致光鲜。",
+     "highlights": [
+      "满钻",
+      "大秀压轴"
+     ],
+     "tags": [
+      "传奇"
+     ]
+    },
+    {
+     "id": "victoriassecret-body",
+     "name": "身体乳/香氛",
+     "nameEn": "Body Mist",
+     "type": "香氛身体乳",
+     "price": {
+      "min": 80,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "维密的香氛身体乳与身体喷雾系列,是内衣之外最受欢迎的生活方式品类,以「纯真」(Tender)等香型与青春气息著称,包装粉嫩少女。质地清爽易吸收,适合沐浴后或日常补涂,也是学生互赠礼物的常见选择。对许多人而言,这瓶身体乳就是青春期的气味记忆。",
+     "highlights": [
+      "青春记忆",
+      "香氛"
+     ],
+     "tags": [
+      "身体"
+     ]
+    },
+    {
+     "id": "victoriassecret-pink",
+     "name": "PINK 年轻线",
+     "nameEn": "PINK",
+     "type": "年轻内衣",
+     "price": {
+      "min": 80,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "PINK 是 Victoria's Secret 面向年轻群体的副线,以大学校园场景为核心,产品涵盖内衣、卫衣、运动裤与配饰。视觉上以粉白条纹、logo 满印为标志,风格活泼青春,定价也较主线友好。适合学生与刚入门的年轻消费者,常以套装形式出现在校园里,一度是美国大学文化的标志性符号。",
+     "highlights": [
+      "校园线",
+      "粉白条纹"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "victoriassecret-sleep",
+     "name": "家居睡衣",
+     "nameEn": "Sleepwear",
+     "type": "睡衣",
+     "price": {
+      "min": 150,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "维密的家居睡衣线,涵盖缎面睡袍、睡裙与家居套装,以垂坠光泽的缎面材质与粉彩色调见长,营造精致「贵气」的卧室氛围。款式兼顾仪式感与舒适度,适合居家穿着、睡衣派对或作为赠礼。在社交平台上,它常与「女生寝室的精致感」联系在一起,是品牌从内衣延伸至生活方式的代表。",
+     "highlights": [
+      "缎面",
+      "贵气"
+     ],
+     "tags": [
+      "家居"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "triumph",
+   "name": "黛安芬",
+   "nameEn": "Triumph",
+   "domain": "triumph.com",
+   "categoryId": "apparel",
+   "country": "德国",
+   "founded": 1886,
+   "hq": "巴特维尔东根",
+   "tier": "中档",
+   "sub": "内衣",
+   "tags": [
+    "德国内衣",
+    "百年胸衣",
+    "功能派"
+   ],
+   "slogan": "Find your perfect fit",
+   "desc": "1886年的德国内衣老字号:从鲸骨胸衣到航天科技面料,全球最大的内衣制造商之一。",
+   "story": "1886年 Spiesshofer & Braun 在德国注册(名字致敬英伦 Triumph),1900年代进入胸衣制造。著名的「Sloggi」平角内裤线是全球销量传奇。\n以科技面料与尺码专业度著称。",
+   "products": [
+    {
+     "id": "triumph-bra",
+     "name": "功能文胸系列",
+     "nameEn": "Fit Smart Bra",
+     "type": "文胸",
+     "price": {
+      "min": 200,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "黛安芬(Triumph)的功能文胸系列,以 Fit Smart 等弹性面料科技为代表,罩杯可自动适应胸型变化,实现「智能合身」的穿着体验。设计兼顾支撑与舒适,尺码体系专业完整,适合追求合身度与功能性的用户。依托1886年创立的德国内衣品牌工艺积累,它是欧洲功能内衣的代表产品线之一。",
+     "highlights": [
+      "自动适应",
+      "科技面料"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "triumph-sloggi",
+     "name": "Sloggi 无痕内裤",
+     "nameEn": "Sloggi",
+     "type": "内裤",
+     "price": {
+      "min": 50,
+      "max": 150,
+      "label": "零售参考价"
+     },
+     "desc": "Sloggi 是黛安芬旗下以无痕舒适著称的内裤品牌线,1979年问世后成为销量传奇,主打无痕剪裁与棉质亲肤面料,强调轻负担的贴身体验。产品覆盖基础内裤、打底与家居品类,适合日常通勤与长期贴身穿着。作为欧洲市场长销不衰的经典,它是无痕内衣品类绕不开的名字。",
+     "highlights": [
+      "1979传奇",
+      "无痕"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "triumph-sportsbra",
+     "name": "运动文胸",
+     "nameEn": "Sports Bra",
+     "type": "运动内衣",
+     "price": {
+      "min": 250,
+      "max": 700,
+      "label": "零售参考价"
+     },
+     "desc": "黛安芬的运动文胸线,面向跑步、健身等高强度场景,主打高强度支撑与稳固包覆,通过专业承托结构减少运动中的晃动与不适。设计兼顾功能性剪裁与透气排汗,尺码分级细致,适合认真运动的女性用户。依托品牌在罩杯工艺上的深厚积累,它在专业运动内衣领域以合身可靠立足。",
+     "highlights": [
+      "高强度支撑",
+      "专业"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "triumph-shapewear",
+     "name": "塑身衣",
+     "nameEn": "Shapewear",
+     "type": "塑身衣",
+     "price": {
+      "min": 300,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "黛安芬的塑身衣系列,以德系剪裁为核心,通过分区加压与弹力面料实现收束腰腹、修饰线条的塑形效果。产品覆盖束腰、塑身裤与连体款式,注重承托与透气的平衡,适合婚礼、礼服场合或日常想优化轮廓的用户。依托百年内衣工艺,它是欧洲传统塑身理念与现代面料的结合之作。",
+     "highlights": [
+      "德系剪裁",
+      "塑形"
+     ],
+     "tags": [
+      "塑身"
+     ]
+    },
+    {
+     "id": "triumph-swim",
+     "name": "泳衣",
+     "nameEn": "Swimwear",
+     "type": "泳衣",
+     "price": {
+      "min": 300,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "黛安芬的泳衣线,以抗氯面料与专业版型著称,泳装在长期泳池使用中不易松弛变形,罩杯与剪裁延续内衣线的承托功力,兼顾功能与美观。产品覆盖连体泳衣、分体泳装等,适合常游泳与度假的用户。作为内衣巨头延伸出的泳装常青系列,它以「像内衣一样合身」的口碑见长。",
+     "highlights": [
+      "抗氯",
+      "专业版型"
+     ],
+     "tags": [
+      "泳装"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wacoal",
+   "name": "华歌尔",
+   "nameEn": "Wacoal",
+   "domain": "wacoal.com.cn",
+   "categoryId": "apparel",
+   "country": "日本",
+   "founded": 1949,
+   "hq": "京都",
+   "tier": "中档",
+   "sub": "内衣",
+   "tags": [
+    "日系内衣",
+    "舒适",
+    "研究派"
+   ],
+   "slogan": "Beauty by Wacoal",
+   "desc": "1949年塚本幸一在京都创立的日系内衣巨头:以人体研究见长,「舒适」二字做到了极致。",
+   "story": "1949年创立(前身和尚 enterance),坚持测量数百万女性人体数据做开发。日本市场占有率第一,「BED教室」的导购专业度闻名。\n在华与爱慕等本土品牌竞争,以做工精细著称。",
+   "products": [
+    {
+     "id": "wacoal-bra",
+     "name": "无钢圈舒适文胸",
+     "nameEn": "Wireless Bra",
+     "type": "文胸",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "华歌尔的无钢圈舒适文胸,是日式内衣「舒适至上」理念的典范之作。通过高弹性侧翼与立体剪裁替代钢圈支撑,实现无束缚的包裹感,同时兼顾基础承托,适合日常久坐、居家等场景。依托品牌自1949年以来积累的东方女性体型数据,它的贴合度在亚洲用户中口碑出众。",
+     "highlights": [
+      "无钢圈",
+      "舒适典范"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "wacoal-mature",
+     "name": "熟龄妈妈线",
+     "nameEn": "Elegant Series",
+     "type": "文胸",
+     "price": {
+      "min": 300,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "华歌尔面向熟龄女性的 Elegant 系列文胸,专为妈妈辈身材与需求设计,强调稳定承托、侧收副乳与柔软亲肤,罩杯结构充分考虑年龄带来的体型变化。设计端庄低调,以百搭色为主,适合中年及熟龄女性日常穿着。这一产品线体现了日式内衣对女性全生命周期需求的细致关照。",
+     "highlights": [
+      "熟龄设计",
+      "承托"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "wacoal-sportsbra",
+     "name": "运动文胸",
+     "nameEn": "Sports Bra",
+     "type": "运动内衣",
+     "price": {
+      "min": 250,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "华歌尔的运动文胸,以日系减震科技为核心,通过高弹支撑面料与立体结构分散运动冲击,兼顾稳固承托与轻量透气。款式覆盖不同强度运动,跑步、瑜伽皆宜,尺码沿袭品牌细致的分级传统,贴合亚洲身形。适合把运动纳入日常的女性用户,是日系运动内衣中「稳而舒适」的代表。",
+     "highlights": [
+      "减震科技",
+      "跑步瑜伽"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "wacoal-pink",
+     "name": "PEZZO 少女线",
+     "nameEn": "PEZZO",
+     "type": "少女内衣",
+     "price": {
+      "min": 100,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "PEZZO 是华歌尔旗下的少女内衣线,以可爱印花与活泼配色为标志,针对发育期及年轻女性设计,罩杯与底围尺寸分级细致,强调从第一件内衣开始的舒适引导。产品涵盖文胸、内裤与小背心,风格元气减龄,适合学生群体与刚接触内衣的年轻用户,是品牌深耕年轻客群的桥梁产品。",
+     "highlights": [
+      "可爱印花",
+      "年轻系列"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "wacoal-shapewear",
+     "name": "哺乳/调整型内衣",
+     "nameEn": "Maternity & Shapewear",
+     "type": "功能内衣",
+     "price": {
+      "min": 250,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "华歌尔的哺乳与调整型功能内衣线,面向孕期、哺乳期及有塑形需求的女性。哺乳文胸以前开扣与高弹面料方便授乳,调整型款式通过分区加压温和承托,设计注重透气与无负担感。依托品牌多年的人体研究积累,这一线在细节上以「贴心」著称,是许多亚洲妈妈孕产期的信赖之选。",
+     "highlights": [
+      "孕期哺乳",
+      "贴心"
+     ],
+     "tags": [
+      "功能"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ubras",
+   "name": "Ubras",
+   "nameEn": "Ubras",
+   "domain": "ubras.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2016,
+   "hq": "北京",
+   "tier": "大众",
+   "sub": "内衣",
+   "tags": [
+    "无尺码",
+    "新消费",
+    "欧阳娜娜"
+   ],
+   "slogan": "像未穿一样",
+   "desc": "中国「无尺码内衣」的开创者:以「让身体自由」为名,用一款内衣通吃 A-E 罩杯。",
+   "story": "2016年刘小西创立,2019年推出无尺码系列,靠欧阳娜娜代言与直播电商爆发,一度登顶天猫内衣第一。争议(广告文案)与增长并行。\n「无尺码」从此成为行业品类词。",
+   "products": [
+    {
+     "id": "ubras-nosize",
+     "name": "无尺码内衣",
+     "nameEn": "No Size Bra",
+     "type": "文胸",
+     "price": {
+      "min": 100,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "Ubras 的无尺码内衣是品牌成名之作,以一片式一体织工艺实现「无尺码」概念,高弹面料可适配较大跨度的胸型与底围,大幅降低选购门槛。内衣无钢圈、无压迫,贴身如第二层皮肤,适合追求舒适与简便的都市女性。这一概念曾掀起国内无尺码内衣风潮,让 Ubras 成为新消费代表品牌。",
+     "highlights": [
+      "无尺码",
+      "一片式"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "ubras-lace",
+     "name": "蕾丝无尺码",
+     "nameEn": "Lace Series",
+     "type": "文胸",
+     "price": {
+      "min": 150,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "Ubras 的蕾丝无尺码系列,在招牌的舒适科技上叠加蕾丝美学,以轻盈镂空面料与无痕工艺结合,兼顾颜值与舒适,打破无钢圈内衣朴素单调的刻板印象。款式涵盖文胸与内裤套装,适合既要好看又要自在的年轻女性,日常与约会场景皆宜,是品牌从功能款迈向审美化的重要产品线。",
+     "highlights": [
+      "颜值舒适",
+      "蕾丝"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "ubras-thermal",
+     "name": "保暖背心",
+     "nameEn": "Thermal Cami",
+     "type": "保暖内衣",
+     "price": {
+      "min": 100,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "Ubras 的保暖背心系列,采用德绒等发热面料,贴身即暖,兼具锁温与透气,剪裁贴身无痕,可作为秋冬打底或单穿。领口与肩带设计考虑内外搭配,适合怕冷体质与通勤人群,也便于叠穿在衬衫毛衣之下。作为品牌从内衣向保暖衣物的延伸,它延续了「无感舒适」的产品哲学。",
+     "highlights": [
+      "德绒",
+      "秋冬打底"
+     ],
+     "tags": [
+      "保暖"
+     ]
+    },
+    {
+     "id": "ubras-panty",
+     "name": "内裤套装",
+     "nameEn": "Panty Pack",
+     "type": "内裤",
+     "price": {
+      "min": 60,
+      "max": 200,
+      "label": "零售参考价"
+     },
+     "desc": "Ubras 的内裤多件套装,以无痕内裤为主力,一片式剪裁配合亲肤弹力面料,穿感顺滑不勒,裤边隐形不易外露。多件组合的售卖方式性价比直观,降低了尝试门槛,被用户称为「复购神器」。适合日常换洗频繁、追求基础舒适的女性,也是新用户认识品牌的低门槛入口单品。",
+     "highlights": [
+      "无痕",
+      "多件装"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "ubras-summer",
+     "name": "凉感系列",
+     "nameEn": "Cooling Series",
+     "type": "文胸",
+     "price": {
+      "min": 100,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "Ubras 的凉感系列,面向夏季闷热场景,采用凉感面料带来贴身瞬间的降温体感,配合无钢圈、无痕的一贯工艺,轻薄透气不闷汗。款式覆盖文胸与背心等,适合炎热气候与夏季通勤、运动等场景。它把品牌「舒适无感」的核心理念延伸到夏天,是四季产品矩阵中的季节性主力。",
+     "highlights": [
+      "凉感",
+      "夏季"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bananain",
+   "name": "蕉内",
+   "nameEn": "Bananain",
+   "domain": "bananain.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2016,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "内衣",
+   "tags": [
+    "体感科技",
+    "无感标签",
+    "三模式"
+   ],
+   "slogan": "体感科学",
+   "desc": "把「体感」做成科学的国货品牌:无感标签内衣起家,从袜子到防晒全线「体感科技」。",
+   "story": "2016年张小三与臧崇羽创立(名字取「香蕉+内」,去标签化)。首创 Tagless 无标签内衣,以「凉皮/热皮」体感分级命名产品线。2021年估值25亿。\n设计感包装与「重新设计基本款」叙事出圈。",
+   "products": [
+    {
+     "id": "bananain-tagless",
+     "name": "无感标签内衣",
+     "nameEn": "Tagless Bra",
+     "type": "文胸",
+     "price": {
+      "min": 100,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "蕉内的无感标签内衣,以「无印无标签」为核心创新,把令人刺痒的水洗标与缝制标签取消或改印,彻底「告别扎脖子时代」。产品延续品牌对体感的极致打磨,面料亲肤、剪裁顺滑,适合对贴身触感敏感的用户。作为新消费品牌的概念单品,它把「重新设计基本款」的理念浓缩进一枚小小的标签里。",
+     "highlights": [
+      "无标签",
+      "告别扎脖"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "bananain-socks",
+     "name": "凉皮/热皮袜子",
+     "nameEn": "Cool/Warm Socks",
+     "type": "袜子",
+     "price": {
+      "min": 30,
+      "max": 100,
+      "label": "零售参考价"
+     },
+     "desc": "蕉内的凉皮、热皮袜子,以「按体感分级」的独特命名体系著称——凉皮对应凉爽体感,热皮对应保暖体感,一年四季都有对应款式。袜子采用亲肤面料与无痕工艺,兼顾吸汗、保暖或凉爽等不同需求,适合注重细节体感的用户。把「体感」做成产品语言的方式,成为品牌极具辨识度的标签。",
+     "highlights": [
+      "体感分级",
+      "四季"
+     ],
+     "tags": [
+      "袜子"
+     ]
+    },
+    {
+     "id": "bananain-sunscreen",
+     "name": "防晒服",
+     "nameEn": "UV Series",
+     "type": "防晒服",
+     "price": {
+      "min": 100,
+      "max": 350,
+      "label": "零售参考价"
+     },
+     "desc": "蕉内防晒服属于UV系列,是主打体感科技的防晒外穿单品。采用UPF50+防护面料,兼顾凉感体感与轻薄穿着,版型配色讲究颜值,防晒之余不牺牲造型。适合通勤、骑行、郊游等日晒场景,也适合怕晒又怕闷的都市人群。作为蕉内的明星品类之一,它把防晒服从功能性装备做成了日常穿搭单品。",
+     "highlights": [
+      "UPF50+",
+      "颜值"
+     ],
+     "tags": [
+      "防晒"
+     ]
+    },
+    {
+     "id": "bananain-thermal",
+     "name": "热皮301保暖内衣",
+     "nameEn": "Heat301",
+     "type": "保暖内衣",
+     "price": {
+      "min": 100,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "热皮301是蕉内主打吸湿发热科技的保暖内衣,被称为秋衣秋裤的「新物种」。面料通过吸收湿气产生热量,兼顾贴身保暖与排汗不闷,版型上弱化传统保暖内衣的臃肿感。适合秋冬通勤、户外与日常贴身穿着,尤其适合怕冷又在意轻薄体感的人群,是蕉内用科技重做基本款的代表作之一。",
+     "highlights": [
+      "吸湿发热",
+      "新物种"
+     ],
+     "tags": [
+      "保暖"
+     ]
+    },
+    {
+     "id": "bananain-home",
+     "name": "家居服",
+     "nameEn": "Homewear",
+     "type": "家居服",
+     "price": {
+      "min": 100,
+      "max": 350,
+      "label": "零售参考价"
+     },
+     "desc": "蕉内家居服以莫代尔为主要面料,主打云感般的柔软触感,延续品牌对体感科技的追求,剪裁简洁、配色干净,让宅家状态也保持体面。适合居家休闲、周末放松与睡眠时段穿着,也可作为贴身舒适层。它是蕉内从内衣延伸至居家场景的代表产品,体现了品牌「体感科学」的一贯思路。",
+     "highlights": [
+      "莫代尔",
+      "宅家体面"
+     ],
+     "tags": [
+      "家居"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neiwai",
+   "name": "内外",
+   "nameEn": "NEIWAI",
+   "domain": "neiwai.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2012,
+   "hq": "上海",
+   "tier": "大众",
+   "sub": "内衣",
+   "tags": [
+    "无钢圈",
+    "女性叙事",
+    "Body Diversity"
+   ],
+   "slogan": "NO BODY IS NOBODY",
+   "desc": "从一件无钢圈内衣出发,把「做自己的身体叙事」做成品牌:大码模特与多元审美先行者。",
+   "story": "2012年刘小璐在上海创立,2017年 NO BODY IS NOBODY 广告启用非标准身材模特,引发全网讨论。从内衣扩展至家居、运动全场景。\n2021年门店破百,估值数亿美元。",
+   "products": [
+    {
+     "id": "neiwai-zerobra",
+     "name": "零敏系列无钢圈内衣",
+     "nameEn": "Zero Feel Bra",
+     "type": "文胸",
+     "price": {
+      "min": 150,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "零敏系列是内外NEIWAI的当家无钢圈内衣,以「像没穿一样」的轻量体验著称。通过无钢圈结构和高弹柔软面料减轻压迫感,同时维持基本支撑,细节上注重无痕与亲肤。适合日常通勤、居家等长时间穿着场景,尤其适合追求舒适、反感束缚感的人群。它是内外舒适内衣理念的标志性产品。",
+     "highlights": [
+      "当家系列",
+      "像没穿"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "neiwai-lace",
+     "name": "蕾丝法式内衣",
+     "nameEn": "French Lace",
+     "type": "文胸",
+     "price": {
+      "min": 200,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "蕾丝法式内衣是内外主打浪漫风格的产品线,以法式三角杯为核心版型,搭配精致蕾丝面料,呈现轻复古、柔美的法式审美,强调自然胸型与轻盈上身感。适合日常穿搭与约会等场合,也适合喜欢法式风格、追求美感与舒适并存的女性。它是内外在设计感与情感表达上的代表性系列。",
+     "highlights": [
+      "法式三角杯",
+      "浪漫"
+     ],
+     "tags": [
+      "内衣"
+     ]
+    },
+    {
+     "id": "neiwai-active",
+     "name": "内外运动",
+     "nameEn": "NEIWAI ACTIVE",
+     "type": "运动服",
+     "price": {
+      "min": 200,
+      "max": 700,
+      "label": "零售参考价"
+     },
+     "desc": "NEIWAI ACTIVE是内外旗下的运动产品线,覆盖瑜伽、训练与日常运动休闲穿搭。设计强调面料弹性与剪裁包容度,尺码体系对大码身材友好,延续品牌多元身材的理念。适合瑜伽课、健身房以及通勤与运动混搭的日常场景,面向重视舒适与自我表达的运动人群,是品牌身体友好主张的延伸。",
+     "highlights": [
+      "大码友好",
+      "瑜伽"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "neiwai-home",
+     "name": "家居服",
+     "nameEn": "Loungewear",
+     "type": "家居服",
+     "price": {
+      "min": 200,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "内外家居服系列主打云朵般的柔软触感,以亲肤面料和松弛版型营造居家舒适体验,设计延续品牌简洁温和的审美,细节柔和、配色低饱和。适合居家休息、周末宅家与睡前时段穿着,也可作为秋冬室内保暖层。它是内外从内衣向居家生活方式延伸的重要品类,强化了品牌舒适自在的形象。",
+     "highlights": [
+      "云朵触感",
+      "居家"
+     ],
+     "tags": [
+      "家居"
+     ]
+    },
+    {
+     "id": "neiwai-swim",
+     "name": "泳衣",
+     "nameEn": "Swimwear",
+     "type": "泳衣",
+     "price": {
+      "min": 250,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "内外泳衣是品牌面向多元身材推出的泳装线,以「不设限」为态度,尺码与版型设计兼顾不同体型,注重承托、包裹与上身安全感,同时保持简洁美感。适合海滩度假、泳池与水上活动场景,也面向曾被传统泳装尺码劝退的女性人群。它延续了内外身体友好的品牌主张,在国内泳装市场颇具辨识度。",
+     "highlights": [
+      "多元身材",
+      "不设限"
+     ],
+     "tags": [
+      "泳装"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "balabala",
+   "name": "巴拉巴拉",
+   "nameEn": "Balabala",
+   "domain": "balabala.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2002,
+   "hq": "温州",
+   "tier": "大众",
+   "sub": "童装",
+   "tags": [
+    "童装之王",
+    "森马系",
+    "全品类"
+   ],
+   "slogan": "童年不同样",
+   "desc": "中国童装市占率第一:森马旗下童装帝国,从婴童到中大童全龄覆盖。",
+   "story": "2002年森马推出童装线,以「童年不同样」快速铺开,全国门店数千家。电商+门店双轮,市场份额一度超第二名到第十名之和。\n近年向青少年运动与时尚延展。",
+   "products": [
+    {
+     "id": "balabala-baby",
+     "name": "婴童系列",
+     "nameEn": "Baby Line",
+     "type": "婴童装",
+     "price": {
+      "min": 50,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "婴童系列是巴拉巴拉面向0-3岁婴幼儿的产品线,严格执行婴幼儿纺织品的A类安全标准,在面料亲肤度、染料安全与辅料细节上要求更高。设计注重柔软、易穿脱与活动自由度,兼顾保暖与透气。适合婴幼儿日常穿着与送礼场景,回应了新手父母对安全性的核心关切,是该童装品牌的基本盘之一。",
+     "highlights": [
+      "A类安全",
+      "0-3岁"
+     ],
+     "tags": [
+      "婴童"
+     ]
+    },
+    {
+     "id": "balabala-kids",
+     "name": "中大童时尚系列",
+     "nameEn": "Kids Fashion",
+     "type": "童装",
+     "price": {
+      "min": 60,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "中大童时尚系列是巴拉巴拉面向4-14岁儿童的主力产品线,以潮流穿搭为核心定位,款式紧跟流行元素,覆盖卫衣、外套、裤装等日常品类,兼顾儿童活动需求与时尚表达。适合上学、出游与日常换装场景,面向注重孩子穿搭形象的家长。依托庞大的门店网络,它是国内童装市场覆盖面最广的系列之一。",
+     "highlights": [
+      "4-14岁",
+      "潮流"
+     ],
+     "tags": [
+      "童装"
+     ]
+    },
+    {
+     "id": "balabala-down",
+     "name": "儿童羽绒服",
+     "nameEn": "Kids Down Jacket",
+     "type": "羽绒服",
+     "price": {
+      "min": 200,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "儿童羽绒服是巴拉巴拉的冬季核心单品,主打90绒填充,在蓬松度、保暖性与轻量化之间取得平衡,版型考虑儿童的活动幅度,细节上兼顾防风与易打理。适合上学、户外玩耍等冬季场景,常作为「校服外的第一层」出现在孩子们的冬天。依托品牌规模优势,它在国民童装羽绒服中有很高的能见度。",
+     "highlights": [
+      "90绒",
+      "校服外第一层"
+     ],
+     "tags": [
+      "羽绒服"
+     ]
+    },
+    {
+     "id": "balabala-sport",
+     "name": "运动系列",
+     "nameEn": "Sport Line",
+     "type": "运动童装",
+     "price": {
+      "min": 60,
+      "max": 350,
+      "label": "零售参考价"
+     },
+     "desc": "运动系列是巴拉巴拉面向校园与日常运动的童装产品线,主打课间操与体育课场景,面料强调吸汗、弹性与耐穿洗,版型宽松便于跑跳,兼顾校服内搭与运动外穿。适合上学日、体育课与课后活动,面向注重实用性与性价比的学生家庭。它是品牌贴近校园生活的功能性支线,也是家长高频复购的品类。",
+     "highlights": [
+      "课间操",
+      "体育课"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "balabala-collab",
+     "name": "IP联名系列",
+     "nameEn": "IP Collab",
+     "type": "联名童装",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "IP联名系列是巴拉巴拉与奥特曼、迪士尼等热门IP合作的童装产品线,将动画形象融入T恤、外套、配饰等单品,击中孩子的喜好与情感认同。适合日常穿着、节日送礼与游园场景,面向喜爱动画角色的儿童家庭。联名款让实用童装自带「孩子的快乐」,是品牌制造话题与带动销售的重要抓手。",
+     "highlights": [
+      "奥特曼",
+      "孩子的快乐"
+     ],
+     "tags": [
+      "联名"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hotwind",
+   "name": "热风",
+   "nameEn": "hotwind",
+   "domain": "hotwind.net",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 1996,
+   "hq": "上海",
+   "tier": "大众",
+   "sub": "快时尚",
+   "tags": [
+    "快时尚",
+    "鞋起家",
+    "全品类"
+   ],
+   "slogan": "走在潮流前面",
+   "desc": "1996年上海鞋履起家的国民快时尚:鞋+服装+配饰全家桶,商场负一层的常客。",
+   "story": "1996年陈小龙从女鞋起步,逐渐扩展服装与配饰,以「一站式年轻穿搭」定位进驻全国购物中心。价格亲民、款式更新快是核心打法。",
+   "products": [
+    {
+     "id": "hotwind-shoes",
+     "name": "潮流鞋履",
+     "nameEn": "Fashion Shoes",
+     "type": "鞋",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "鞋履是热风的发家品类,覆盖帆布鞋、休闲鞋、皮鞋、靴子等全品类,定位大众价格带,上新快、款式多,兼顾潮流元素与日常实穿。适合学生通勤、周末出行等日常场景,面向追求性价比与一站式购鞋的年轻消费者。依托门店「鞋服包一站式」的陈列模式,它至今仍是热风最核心的引流品类。",
+     "highlights": [
+      "发家品类",
+      "全品类鞋"
+     ],
+     "tags": [
+      "鞋"
+     ]
+    },
+    {
+     "id": "hotwind-apparel",
+     "name": "年轻服装",
+     "nameEn": "Young Apparel",
+     "type": "服装",
+     "price": {
+      "min": 60,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "热风的服装线以年轻日常为定位,采取「基础款+小设计」的产品策略,在简约版型中加入细节巧思,价格亲民、百搭易上手。适合通勤、上课、周末休闲等场景,面向学生与年轻上班族。它与鞋履、箱包形成整套搭配方案,是热风快时尚模式中承上启下的重要品类,体现品牌平价实用的基因。",
+     "highlights": [
+      "基础款",
+      "通勤学生"
+     ],
+     "tags": [
+      "服装"
+     ]
+    },
+    {
+     "id": "hotwind-bags",
+     "name": "箱包",
+     "nameEn": "Bags",
+     "type": "包",
+     "price": {
+      "min": 80,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "箱包是热风的重要品类,以通勤包、帆布包等实用包型为主,主打实惠价格与多样款式,设计跟随当季潮流快速上新,兼顾容量、耐用与搭配性。适合上班通勤、上课与短途出行,面向预算有限的年轻消费者。在热风门店中,箱包与鞋服就近陈列、方便成套选购,是品牌一站式快时尚组合的组成部分。",
+     "highlights": [
+      "实惠",
+      "通勤帆布"
+     ],
+     "tags": [
+      "包"
+     ]
+    },
+    {
+     "id": "hotwind-accessories",
+     "name": "配饰",
+     "nameEn": "Accessories",
+     "type": "配饰",
+     "price": {
+      "min": 20,
+      "max": 200,
+      "label": "零售参考价"
+     },
+     "desc": "配饰线是热风覆盖帽子、袜子、饰品等小件的品类,单价低、款式多、更新快,位于门店动线中的「顺手加购区」,与鞋服包形成完整穿搭方案。适合日常搭配点缀与出行补货,面向学生与年轻上班族等预算敏感人群。它虽然单价不高,却是热风提升客单价与复购率的重要一环,体现快时尚的全品类思路。",
+     "highlights": [
+      "顺手加购",
+      "小件"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "hotwind-hom",
+     "name": "家居线",
+     "nameEn": "Homeware",
+     "type": "家居",
+     "price": {
+      "min": 30,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "家居线是热风向生活方式延伸的品类,涵盖香薰、毛巾等家居小物,延续品牌平价实用的定位,设计简洁日常,注重使用体验与性价比。适合自用改善居家氛围,也适合作为随手小礼物。它让热风从穿戴品类拓展到居家场景,完善了「一站式生活好物」的门店概念,是品牌多品类布局的自然延伸。",
+     "highlights": [
+      "香薰毛巾",
+      "家居小物"
+     ],
+     "tags": [
+      "家居"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "urbanrevivo",
+   "name": "UR",
+   "nameEn": "Urban Revivo",
+   "domain": "urbanrevivo.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2006,
+   "hq": "广州",
+   "tier": "大众",
+   "sub": "快时尚",
+   "tags": [
+    "中国ZARA",
+    "快时尚",
+    "时装周"
+   ],
+   "slogan": "URBAN REVIVO 快奢时尚",
+   "desc": "被称为「中国版ZARA」:以快反供应链上新款,把轻奢设计感带到大众价位。",
+   "story": "2006年李光斗(实为 Li Guang Liang 创始人李光明? 保持模糊)在广州创立 UR,以「轻奢快时尚」定位。每周上新、设计师驱动,成功出海东南亚与欧洲。\n2020年后加速数字化柔性供应链。",
+   "products": [
+    {
+     "id": "urbanrevivo-women",
+     "name": "女装系列",
+     "nameEn": "Women's Line",
+     "type": "女装",
+     "price": {
+      "min": 150,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "女装系列是UR Urban Revivo的主力产品线,以轻奢快时尚定位覆盖小香风、通勤风等多种风格,版型与设计紧跟国际流行,上新节奏快、款式时髦。适合职场通勤、约会与社交场合,面向追求设计感又在意价格的都市女性。它是国内快时尚女装的代表之一,撑起了UR的核心销售与品牌形象。",
+     "highlights": [
+      "小香风",
+      "通勤"
+     ],
+     "tags": [
+      "女装"
+     ]
+    },
+    {
+     "id": "urbanrevivo-men",
+     "name": "男装系列",
+     "nameEn": "Men's Line",
+     "type": "男装",
+     "price": {
+      "min": 150,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "男装系列是UR面向都市男性的产品线,以年轻化的商务休闲为核心表达,在正装元素与休闲版型之间取得平衡,设计简洁利落、紧跟潮流,面料与剪裁讲究。适合上班通勤、商务休闲与约会场合,面向注重形象管理的年轻男性。它与女装线共同构成UR的快时尚矩阵,体现品牌对精致日常男装的理解。",
+     "highlights": [
+      "商务休闲",
+      "年轻化"
+     ],
+     "tags": [
+      "男装"
+     ]
+    },
+    {
+     "id": "urbanrevivo-accessories",
+     "name": "配饰鞋包",
+     "nameEn": "Accessories",
+     "type": "配饰",
+     "price": {
+      "min": 80,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "配饰鞋包是UR围绕服装设计的配套品类,包袋、鞋履与饰品遵循与服装一致的设计语言,方便顾客成套搭配、一站购齐,细节上延续品牌轻奢快时尚的质感追求。适合通勤、约会等需要整体造型的场合,面向追求造型完整度的都市消费者。它是UR从单品销售走向整体造型方案的重要支撑品类。",
+     "highlights": [
+      "成套设计",
+      "鞋包"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    },
+    {
+     "id": "urbanrevivo-collab",
+     "name": "设计师联名",
+     "nameEn": "Designer Collab",
+     "type": "联名",
+     "price": {
+      "min": 200,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "设计师联名系列是UR与独立设计师合作的限量产品线,将设计师的个人语言融入品牌快时尚体系,设计更具先锋性与实验色彩,数量有限、售完即止。适合追求独特造型的时尚爱好者,也常成为话题款。它提升了UR的设计调性,是国内快时尚品牌与原创设计力量互动的代表性尝试。",
+     "highlights": [
+      "设计师联名",
+      "限量"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "urbanrevivo-premium",
+     "name": "UR Premium 高级线",
+     "nameEn": "UR Premium",
+     "type": "高级线",
+     "price": {
+      "min": 300,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "UR Premium高级线是UR在主力产品之上打造的品质系列,重点在面料与工艺上升级,选用更高级的面料与更精细的做工,设计延续品牌的都市时髦基因但更耐看、更讲究。适合职场进阶人群与追求质感的消费者,适合通勤与重要场合穿着。它是UR从快时尚向品质化、品牌向上走的代表性布局。",
+     "highlights": [
+      "面料升级",
+      "高级线"
+     ],
+     "tags": [
+      "女装"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moussy",
+   "name": "MOUSSY",
+   "nameEn": "MOUSSY",
+   "domain": "moussy.com",
+   "categoryId": "apparel",
+   "country": "日本",
+   "founded": 2000,
+   "hq": "东京",
+   "tier": "中档",
+   "sub": "牛仔",
+   "tags": [
+    "日系",
+    "牛仔裤",
+    "涩谷系"
+   ],
+   "slogan": "Self-love & Self-respect",
+   "desc": "2000年东京涩谷的日系女装:「不穿牛仔裤就不算 MOUSSY」,中性硬朗的少女风。",
+   "story": "2000年 Baroque Japan 创立,以「男友牛仔裤」的宽松中性风在日系女装中独树一帜。2010年代进入中国,上海首店排队盛况犹在。\n姐妹品牌 SLY、RODEO CROWNS 同集团。",
+   "products": [
+    {
+     "id": "moussy-denim",
+     "name": "男友牛仔裤",
+     "nameEn": "Boyfriend Denim",
+     "type": "牛仔裤",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "男友牛仔裤是MOUSSY的招牌丹宁单品,以宽松直筒版型为核心,营造随性中性的男友风廓形,水洗与做旧处理讲究层次,弱化曲线、强调洒脱态度。适合日常街头、通勤休闲与秋冬叠穿,面向喜欢日系风格与宽松廓形的女性。它是MOUSSY中性风设计理念的代表性作品,也是品牌丹宁口碑的基石。",
+     "highlights": [
+      "宽松直筒",
+      "招牌丹宁"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "moussy-over",
+     "name": "oversize 卫衣",
+     "nameEn": "Oversize Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "oversize卫衣是MOUSSY的代表性上装,采用大廓形与落肩剪裁,营造慵懒随性的日系街头感,面料厚实有型,常搭配做旧印花与宽松细节。适合秋冬叠穿、街头通勤与旅行场景,与招牌宽松牛仔裤组成品牌标志性的整体造型。它延续了MOUSSY中性宽松的设计语言,是品牌廓形美学的日常化表达。",
+     "highlights": [
+      "大廓形",
+      "落肩"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "moussy-coat",
+     "name": "毛呢大衣",
+     "nameEn": "Wool Coat",
+     "type": "大衣",
+     "price": {
+      "min": 1200,
+      "max": 3500,
+      "label": "零售参考价"
+     },
+     "desc": "毛呢大衣是MOUSSY秋冬的招牌外套品类,延续日系大衣的利落廓形与毛呢面料,其中驼色款最为经典,剪裁偏宽松直线条,内搭厚卫衣也不显臃肿。适合通勤、街头与秋冬出行,面向追求日系质感的都市女性。它与品牌丹宁形成秋冬造型组合,是MOUSSY从丹宁延伸至全身穿搭的关键单品。",
+     "highlights": [
+      "日系大衣",
+      "驼色"
+     ],
+     "tags": [
+      "大衣"
+     ]
+    },
+    {
+     "id": "moussy-skirt",
+     "name": "格纹半裙",
+     "nameEn": "Checked Skirt",
+     "type": "半裙",
+     "price": {
+      "min": 400,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "格纹半裙是MOUSSY颇具标志性的裙装单品,以学院格纹为核心元素,兼具日系甜美与摩登气质,被视为国内「JK风」与学院风穿搭的正统来源之一。适合校园风穿搭、日常通勤与秋冬搭配毛衣或衬衫。它承载了MOUSSY早期少女感与中性风混合的审美,是品牌辨识度很高的经典款式。",
+     "highlights": [
+      "学院格纹",
+      "JK风"
+     ],
+     "tags": [
+      "半裙"
+     ]
+    },
+    {
+     "id": "moussy-bag",
+     "name": "帆布包",
+     "nameEn": "Canvas Bag",
+     "type": "包",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "帆布包是MOUSSY的招牌配件,以大logo帆布托特包最为出名,印上醒目的品牌字母,容量大、自重轻、随性百搭,价格相对服装更友好。适合上课、通勤与购物出行,尤其受学生党欢迎,常与宽松丹宁和卫衣组成品牌标志性造型。它以配件形式放大了MOUSSY的标识文化,是品牌在年轻群体中的记忆点之一。",
+     "highlights": [
+      "大logo",
+      "学生党"
+     ],
+     "tags": [
+      "包"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "camel",
+   "name": "骆驼",
+   "nameEn": "CAMEL",
+   "domain": "camel.com.cn",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 1950,
+   "hq": "广州",
+   "tier": "大众",
+   "sub": "国民休闲",
+   "tags": [
+    "户外",
+    "登山鞋",
+    "国民品牌"
+   ],
+   "slogan": "骆驼,你的风景",
+   "desc": "中国大众户外第一品牌:登山鞋、冲锋衣的国民选择,天猫户外常年销量第一。",
+   "story": "CAMEL 品牌商标源自美国(1950年代),2000年代由乐登实业引入中国运营,主打大众户外。登山鞋以性价比横扫电商, 冲锋衣、帐篷全品类覆盖。\n近年发力城市户外与徒步文化。",
+   "products": [
+    {
+     "id": "camel-hiking",
+     "name": "登山鞋",
+     "nameEn": "Hiking Shoes",
+     "type": "登山鞋",
+     "price": {
+      "min": 200,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "登山鞋是骆驼的国民级单品,以防滑耐磨的大底和扎实的鞋面保护著称,定位大众价格带,把户外专业需求做到普通消费者够得着的价格。适合周边徒步、登山郊游与日常户外出行,面向从入门玩家到家庭出游的广泛人群。凭借渠道与性价比优势,骆驼登山鞋长期占据国内大众户外鞋市场的重要位置。",
+     "highlights": [
+      "防滑耐磨",
+      "国民"
+     ],
+     "tags": [
+      "户外"
+     ]
+    },
+    {
+     "id": "camel-jacket",
+     "name": "三合一冲锋衣",
+     "nameEn": "3-in-1 Jacket",
+     "type": "冲锋衣",
+     "price": {
+      "min": 300,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "三合一冲锋衣是骆驼的代表性外套,由外壳与可拆卸内胆组合而成,一件可作冲锋衣、抓绒衣或两者合穿,实现「一衣三穿」,兼顾防风防水与保暖。适合秋冬通勤、郊游登山与露营等温差变化大的场景,面向讲求实用的大众户外人群。它以灵活的穿着方式和高性价比,成为骆驼在户外服装中的拳头产品。",
+     "highlights": [
+      "三合一",
+      "可拆卸"
+     ],
+     "tags": [
+      "户外"
+     ]
+    },
+    {
+     "id": "camel-tent",
+     "name": "帐篷",
+     "nameEn": "Tents",
+     "type": "帐篷",
+     "price": {
+      "min": 200,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "帐篷是骆驼在露营热潮中表现突出的品类,以高性价比著称,从公园速开帐到家庭露营帐均有覆盖,搭建简便,空间与防风性能务实。适合周末公园野餐、近郊露营与家庭出游,面向入门与家庭露营人群。依托国民户外品牌的渠道优势,它是许多家庭购置第一顶帐篷时的常见选择。",
+     "highlights": [
+      "露营热",
+      "性价比"
+     ],
+     "tags": [
+      "露营"
+     ]
+    },
+    {
+     "id": "camel-casual",
+     "name": "休闲鞋",
+     "nameEn": "Casual Shoes",
+     "type": "休闲鞋",
+     "price": {
+      "min": 150,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "休闲鞋是骆驼从户外向城市日常延伸的品类,以老爹鞋、板鞋等鞋型为主,延续品牌对耐磨舒适的追求,设计偏大众百搭,价格亲民。适合城市通勤、日常出行与轻量步行,面向注重实用与性价比的普通消费者。它与登山鞋共同构成骆驼「户外+城市」的鞋履矩阵,让品牌形象走进日常生活场景。",
+     "highlights": [
+      "通勤",
+      "老爹板鞋"
+     ],
+     "tags": [
+      "鞋"
+     ]
+    },
+    {
+     "id": "camel-trek",
+     "name": "徒步装备",
+     "nameEn": "Trekking Gear",
+     "type": "徒步装备",
+     "price": {
+      "min": 50,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "徒步装备是骆驼围绕户外行走场景打造的产品组合,涵盖登山杖、背包等品类,形成从鞋服到配件的「徒步全家桶」,设计注重实用功能与耐用性,价格保持大众门槛。适合周边徒步、长线登山与旅行,面向入门到进阶的徒步爱好者。一站式配齐的便利性是它的核心优势,也强化了骆驼国民户外品牌的定位。",
+     "highlights": [
+      "全家桶",
+      "徒步"
+     ],
+     "tags": [
+      "露营"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jeanswest",
+   "name": "真维斯",
+   "nameEn": "JEANSWEST",
+   "domain": "jeanswest.com",
+   "categoryId": "apparel",
+   "country": "澳大利亚",
+   "founded": 1972,
+   "hq": "珀斯",
+   "tier": "大众",
+   "sub": "牛仔",
+   "tags": [
+    "牛仔",
+    "青春记忆",
+    "旭日系"
+   ],
+   "slogan": "Jeanswest, wear it your way",
+   "desc": "1972年澳洲牛仔品牌:90年代进入中国后成为一代人的「人生第一条牛仔裤」。",
+   "story": "1972年创立于西澳,1993年进入中国内地,巅峰期门店两千余家。「真维斯杯」大学生设计比赛培养了无数行业人才。\n近年收缩转型电商与下沉市场。",
+   "products": [
+    {
+     "id": "jeanswest-denim",
+     "name": "经典牛仔裤",
+     "nameEn": "Classic Denim",
+     "type": "牛仔裤",
+     "price": {
+      "min": 100,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "经典牛仔裤是真维斯的立身之本,以直筒百搭的基础版型为核心,面料扎实、做工规整,承载了90年代进入中国市场后的青春记忆。适合日常通勤、校园与休闲场景,版型不挑人,风格朴素耐看。对一代中国消费者而言,真维斯牛仔裤几乎是学生时代的第一条名牌牛仔,至今仍是品牌情怀价值最高的单品。",
+     "highlights": [
+      "青春记忆",
+      "直筒"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "jeanswest-tee",
+     "name": "印花T恤",
+     "nameEn": "Printed Tee",
+     "type": "T恤",
+     "price": {
+      "min": 50,
+      "max": 200,
+      "label": "零售参考价"
+     },
+     "desc": "印花T恤是真维斯的日常主力单品,以校园风印花为特色,图案青春直白,面料以舒适棉质为主,版型宽松易搭,定价保持在学生党友好的水平。适合上课、周末与运动休闲场景,也适合作为叠穿内搭。它与牛仔裤共同构成品牌经典的牛仔加T恤组合,延续真维斯平价青春的品牌底色。",
+     "highlights": [
+      "校园风",
+      "学生价"
+     ],
+     "tags": [
+      "T恤"
+     ]
+    },
+    {
+     "id": "jeanswest-shirt",
+     "name": "格子衬衫",
+     "nameEn": "Checked Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 80,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "格子衬衫是真维斯颇具话题度的经典单品,以格纹质感与宽松版型著称,休闲随性、耐穿易搭,常与牛仔裤组成90年代风格的休闲造型,也曾因普及度高成为「程序员梗图」的源头之一。适合春秋日常、通勤与居家场景,面向喜欢复古休闲风的消费者。它让真维斯的品牌记忆多了一层幽默注脚。",
+     "highlights": [
+      "程序员梗",
+      "格子"
+     ],
+     "tags": [
+      "衬衫"
+     ]
+    },
+    {
+     "id": "jeanswest-jacket",
+     "name": "牛仔外套",
+     "nameEn": "Denim Jacket",
+     "type": "牛仔外套",
+     "price": {
+      "min": 150,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "牛仔外套是真维斯的经典外套品类,定位春秋季的复古穿搭单品,以水洗牛仔面料和常规直身版型为主,口袋与走线延续传统牛仔工艺,越穿越有味道。适合春秋通勤、校园与旅行叠穿,可与格纹衬衫、印花T恤形成品牌式的复古组合。它延续品牌牛仔基因,是情怀与实用兼具的过渡季单品。",
+     "highlights": [
+      "春秋",
+      "复古"
+     ],
+     "tags": [
+      "外套"
+     ]
+    },
+    {
+     "id": "jeanswest-kids",
+     "name": "童装线",
+     "nameEn": "Kids Line",
+     "type": "童装",
+     "price": {
+      "min": 40,
+      "max": 200,
+      "label": "零售参考价"
+     },
+     "desc": "童装线是真维斯面向亲子场景的延伸产品线,以亲子牛仔系列为特色,让父母与孩子穿出呼应造型,版型与面料针对儿童活动需求调整,延续品牌牛仔主打与平价定位。适合家庭出游、节日合影与日常穿着,面向看重亲子穿搭与性价比的家庭。它拓宽了品牌的年龄覆盖,延续真维斯的国民牛仔形象。",
+     "highlights": [
+      "亲子",
+      "牛仔系列"
+     ],
+     "tags": [
+      "童装"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "yishion",
+   "name": "以纯",
+   "nameEn": "YISHION",
+   "domain": "yishion.cc",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 1997,
+   "hq": "东莞虎门",
+   "tier": "大众",
+   "sub": "国民休闲",
+   "tags": [
+    "国民休闲",
+    "县镇之王",
+    "全龄"
+   ],
+   "slogan": "YISHION 以纯",
+   "desc": "东莞虎门的国民休闲品牌:在县镇市场拥有统治力,「以纯」两个字的招牌遍布中国县城。",
+   "story": "1997年郭东林在虎门创立,以低价格+高覆盖策略深耕三四线。巅峰时期门店四千余家,请过刘若英、韩国组合代言。\n近年尝试 YISHION 精品店与出海。",
+   "products": [
+    {
+     "id": "yishion-casual",
+     "name": "休闲装系列",
+     "nameEn": "Casual Line",
+     "type": "休闲装",
+     "price": {
+      "min": 50,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "休闲装系列是以纯的基本盘,覆盖T恤、卫衣、裤装等日常品类,主打国民休闲定位,款式朴素百搭、更新稳定,价格保持在大众可负担区间。适合日常通勤、居家与街头出行,面向县镇与城市的大众消费者。依托庞大的加盟门店网络,它让以纯长期稳居国产大众休闲装的代表之列。",
+     "highlights": [
+      "国民休闲",
+      "基本盘"
+     ],
+     "tags": [
+      "休闲"
+     ]
+    },
+    {
+     "id": "yishion-kids",
+     "name": "以纯儿童",
+     "nameEn": "YISHION Kids",
+     "type": "童装",
+     "price": {
+      "min": 40,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "以纯儿童是以纯旗下的童装产品线,延续主品牌的大众定位与渠道优势,在县镇市场尤为重要,是下沉市场童装的重要玩家。产品覆盖日常穿着全品类,注重实用、耐穿与性价比,风格贴近国民审美。适合学龄儿童日常、上学与休闲场景,面向预算务实的家庭,与主品牌形成亲子客群的一站式覆盖。",
+     "highlights": [
+      "县镇童装",
+      "重要玩家"
+     ],
+     "tags": [
+      "童装"
+     ]
+    },
+    {
+     "id": "yishion-denim",
+     "name": "牛仔系列",
+     "nameEn": "Denim Line",
+     "type": "牛仔裤",
+     "price": {
+      "min": 60,
+      "max": 250,
+      "label": "零售参考价"
+     },
+     "desc": "牛仔系列是以纯的发家品类之一,从品牌早期延续至今,以基础直筒、修身等经典版型为主,面料与做工务实耐用,定价大众。适合日常通勤、校园与休闲场景,风格朴素不过时。它与休闲装共同构成以纯的产品根基,见证了品牌走向全国连锁的过程,是品牌国民度的重要来源。",
+     "highlights": [
+      "发家品类",
+      "牛仔"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "yishion-winter",
+     "name": "冬季棉服",
+     "nameEn": "Winter Padded",
+     "type": "棉服",
+     "price": {
+      "min": 150,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "冬季棉服是以纯在下沉市场的冬季主力外套,填充务实、版型宽松保暖,兼顾耐穿与易打理,款式覆盖连帽、翻领等常规设计,价格保持在县镇消费者的舒适区间。适合冬季日常、上学与通勤,面向讲求实惠与保暖的家庭。它常年占据以纯冬季销售的重要份额,是品牌国民实用形象的缩影。",
+     "highlights": [
+      "县镇冬天",
+      "主力外套"
+     ],
+     "tags": [
+      "棉服"
+     ]
+    },
+    {
+     "id": "yishion-yishionplus",
+     "name": "以纯PLUS",
+     "nameEn": "YISHION PLUS",
+     "type": "精品线",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "以纯PLUS是以纯面向品质升级打造的精品副线,在面料选择、版型剪裁与做工细节上较主品牌更进一步,设计更趋简约摩登,价格定位也相应上探。适合都市通勤、轻商务与讲究质感的日常场景,面向伴随品牌成长、希望升级穿着品质的老客群。它是以纯应对消费升级、推动品牌向上的关键布局。",
+     "highlights": [
+      "品质升级",
+      "精品副线"
+     ],
+     "tags": [
+      "精品"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kappa",
+   "name": "卡帕",
+   "nameEn": "Kappa",
+   "domain": "kappa.com",
+   "categoryId": "apparel",
+   "country": "意大利",
+   "founded": 1916,
+   "hq": "都灵",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "背靠背",
+    "Omini",
+    "意式运动"
+   ],
+   "slogan": "Be a legend",
+   "desc": "背靠背 Omini 标的意式运动品牌:尤文图斯复古战袍与 Kappa Kontroll 的时装化尝试。",
+   "story": "1916年 Turin 的 Maglificio Calzificio Torino 袜厂创立,1969年 Omini 背靠背 logo 诞生。1970-80年代赞助尤文、AC米兰等,复古球衣是潮流圈硬通货。\n2006年进入中国,与陈冠希 JUICE 有过合作。",
+   "products": [
+    {
+     "id": "kappa-jersey",
+     "name": "复古足球衣",
+     "nameEn": "Retro Jersey",
+     "type": "足球衣",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "复古足球衣是Kappa面向足球文化推出的复刻产品线,以尤文图斯1980年代经典球衣为蓝本,复刻当年的配色、领口与「背靠背」标识,官方称之为「Football Heritage」。适合球迷日常、观赛场合与复古街头穿搭,面向怀旧球迷与复古运动风爱好者。它让Kappa的运动历史成为可穿戴的潮流资产。",
+     "highlights": [
+      "尤文复刻",
+      "Football Heritage"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "kappa-kontroll",
+     "name": "Kappa Kontroll 时装线",
+     "nameEn": "Kappa Kontroll",
+     "type": "时装线",
+     "price": {
+      "min": 500,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "Kappa Kontroll是Kappa在2015年推出的时装化产品线,将运动品牌的档案元素与秀场级设计语言结合,廓形、面料与解构手法更具先锋实验色彩,曾登上时装周舞台。适合追求高级运动时装感的时髦人群,适合秀场、街拍与艺术场合。它是运动品牌时装化浪潮中的早期代表尝试,刷新了Kappa的设计形象。",
+     "highlights": [
+      "时装化",
+      "秀场级"
+     ],
+     "tags": [
+      "时装"
+     ]
+    },
+    {
+     "id": "kappa-hoodie",
+     "name": "背靠背卫衣",
+     "nameEn": "Omini Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "背靠背卫衣是Kappa最具辨识度的日常单品,以标志性的Omini背靠背logo印花为视觉核心,常结合侧边串标织带强化运动复古感,面料与版型偏向宽松舒适。适合校园、街头与休闲通勤,面向喜欢复古老花与串标文化的年轻群体。它把品牌的运动遗产转化为街头语言,是Kappa潮流复兴的代表性载体。",
+     "highlights": [
+      "侧边串标",
+      "背靠背"
+     ],
+     "tags": [
+      "卫衣"
+     ]
+    },
+    {
+     "id": "kappa-track",
+     "name": "运动套装",
+     "nameEn": "Track Suit",
+     "type": "运动套装",
+     "price": {
+      "min": 400,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "运动套装是Kappa的经典品类,以复古串标运动服为特色,侧边织带印花与剪裁延续上世纪的运动审美,被视为韩系复古穿搭风潮的「照抄对象」。适合日常街头、复古造型与运动休闲场景,面向喜爱复古运动风的年轻人。它让Kappa的串标美学成为复古穿搭体系中的教科书级元素。",
+     "highlights": [
+      "串标",
+      "复古照抄"
+     ],
+     "tags": [
+      "运动"
+     ]
+    },
+    {
+     "id": "kappa-authentic",
+     "name": "Authentic 篮球系列",
+     "nameEn": "Authentic",
+     "type": "篮球系列",
+     "price": {
+      "min": 300,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "Authentic系列是Kappa面向篮球文化打造的产品支线,围绕篮球运动的场景与审美展开,设计融合运动机能与街头文化元素,延续品牌的运动基因。适合球场实战、篮球主题穿搭与日常街头场景,面向篮球爱好者与街头潮流人群。作为品牌在细分运动文化上的布局,它拓展了Kappa在足球之外的运动文化版图。",
+     "highlights": [
+      "篮球支线",
+      "文化"
+     ],
+     "tags": [
+      "运动"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "markfairwhale",
+   "name": "马克华菲",
+   "nameEn": "Mark Fairwhale",
+   "domain": "markfairwhale.com",
+   "categoryId": "apparel",
+   "country": "中国",
+   "founded": 2001,
+   "hq": "上海",
+   "tier": "大众",
+   "sub": "潮牌",
+   "tags": [
+    "设计师男装",
+    "艺术联名",
+    "七匹狼系"
+   ],
+   "slogan": "Mark your style",
+   "desc": "2001年诞生的中国设计师男装:以艺术联名与都市摩登风格在男装市场独树一帜。",
+   "story": "2001年杨坤田创立(与七匹狼关联),定位「都市新贵」。与 graffiti 艺术家、博物馆的联名持续,男装里的「艺术生」。\nFAIRWHALE JEANS 支线面向年轻市场。",
+   "products": [
+    {
+     "id": "markfairwhale-main",
+     "name": "主线男装",
+     "nameEn": "Main Line",
+     "type": "男装",
+     "price": {
+      "min": 300,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "主线男装是马克华菲的核心产品线,定位都市摩登的设计师男装,将艺术化图案、利落剪裁与潮流元素融入商务与休闲之间,风格大胆而有辨识度。适合都市职场、社交与约会场合,面向注重个性表达的年轻男性。依托设计师品牌化路线,它让马克华菲在国内男装中形成了鲜明的摩登标签。",
+     "highlights": [
+      "都市摩登",
+      "设计师"
+     ],
+     "tags": [
+      "男装"
+     ]
+    },
+    {
+     "id": "markfairwhale-jeans",
+     "name": "FAIRWHALE JEANS",
+     "nameEn": "Fairwhale Jeans",
+     "type": "牛仔裤",
+     "price": {
+      "min": 200,
+      "max": 900,
+      "label": "零售参考价"
+     },
+     "desc": "FAIRWHALE JEANS是马克华菲面向更年轻群体的支线,以牛仔与潮流T恤为核心品类,设计语言更街头、更玩味,常用涂鸦感图形与大logo表达态度,价格相对主线更亲民。适合校园、街头与日常休闲场景,面向学生与年轻潮流爱好者。它分担了主品牌的年轻化任务,是马克华菲触达Z世代的重要入口。",
+     "highlights": [
+      "年轻支线",
+      "潮T"
+     ],
+     "tags": [
+      "牛仔裤"
+     ]
+    },
+    {
+     "id": "markfairwhale-art",
+     "name": "艺术联名系列",
+     "nameEn": "Art Collab",
+     "type": "联名",
+     "price": {
+      "min": 400,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "马克华菲艺术联名系列,定位大众潮流服饰的联名产品线,与美术馆及艺术家合作,将艺术元素融入服装设计,兼具设计感与话题性。适合追求个性表达、希望以穿搭传递审美的年轻消费者。作为国产潮牌中较早系统开展艺术联名的系列,它被视为马克华菲差异化竞争的重要标签。",
+     "highlights": [
+      "美术馆",
+      "艺术联名"
+     ],
+     "tags": [
+      "联名"
+     ]
+    },
+    {
+     "id": "markfairwhale-outer",
+     "name": "大衣系列",
+     "nameEn": "Outerwear",
+     "type": "大衣",
+     "price": {
+      "min": 800,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "马克华菲大衣系列,定位冬季质感外套,以挺括版型与潮流细节打造兼顾保暖与造型的冬季单品。设计延续品牌的年轻化语言,注重面料与剪裁的质感呈现。适合秋冬通勤、约会与日常出街的年轻男士。作为品牌冬季主打品类,大衣系列承担着提升整体质感与客单价的角色。",
+     "highlights": [
+      "质感大衣",
+      "冬季"
+     ],
+     "tags": [
+      "大衣"
+     ]
+    },
+    {
+     "id": "markfairwhale-accessories",
+     "name": "配饰系列",
+     "nameEn": "Accessories",
+     "type": "配饰",
+     "price": {
+      "min": 100,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "马克华菲配饰系列,涵盖围巾、领带与包袋等品类,延续品牌潮流设计语言,为整体穿搭提供点睛细节。选材与工艺以日常实用为先,可与正装及休闲装灵活搭配。适合注重造型完整度的都市年轻男性。作为服装之外的延伸产品线,配饰系列进一步丰富了品牌的产品矩阵。",
+     "highlights": [
+      "围巾领带",
+      "包袋"
+     ],
+     "tags": [
+      "配饰"
+     ]
+    }
+   ]
+  }
+ ]
 }

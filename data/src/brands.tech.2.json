@@ -1,2926 +1,2926 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "lenovo",
+   "name": "联想",
+   "nameEn": "Lenovo",
+   "domain": "lenovo.com.cn",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1984,
+   "hq": "北京/香港",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "PC之王",
+    "ThinkPad",
+    "中科院系"
+   ],
+   "slogan": "Smarter technology for all",
+   "desc": "中科院传达室走出的全球 PC 之王:2005年收购 IBM PC 业务,ThinkPad 的小红点是一代人的信仰。",
+   "story": "1984年柳传志等11人在中科院传达室创业,汉卡起家。2005年以12.5亿美元收购 IBM PC,ThinkPad 归入麾下并长期占据全球笔记本份额第一。\n如今涵盖 Legion 游戏本、Yoga 变形本与服务器业务。",
+   "products": [
     {
-      "id": "lenovo",
-      "name": "联想",
-      "nameEn": "Lenovo",
-      "domain": "lenovo.com.cn",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1984,
-      "hq": "北京/香港",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "PC之王",
-        "ThinkPad",
-        "中科院系"
-      ],
-      "slogan": "Smarter technology for all",
-      "desc": "中科院传达室走出的全球 PC 之王:2005年收购 IBM PC 业务,ThinkPad 的小红点是一代人的信仰。",
-      "story": "1984年柳传志等11人在中科院传达室创业,汉卡起家。2005年以12.5亿美元收购 IBM PC,ThinkPad 归入麾下并长期占据全球笔记本份额第一。\n如今涵盖 Legion 游戏本、Yoga 变形本与服务器业务。",
-      "products": [
-        {
-          "id": "lenovo-thinkpad",
-          "name": "ThinkPad X1 Carbon",
-          "nameEn": "ThinkPad X1 Carbon",
-          "type": "商务笔记本",
-          "price": {
-            "min": 8000,
-            "max": 25000,
-            "label": "零售参考价"
-          },
-          "desc": "小红点+碳纤维,商务本的图腾。",
-          "highlights": [
-            "小红点",
-            "碳纤维"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "lenovo-legion",
-          "name": "拯救者 Legion",
-          "nameEn": "Legion",
-          "type": "游戏本",
-          "price": {
-            "min": 6000,
-            "max": 30000,
-            "label": "零售参考价"
-          },
-          "desc": "学生党游戏本首选,满血显卡与散热。",
-          "highlights": [
-            "满血显卡",
-            "散热强"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "lenovo-yoga",
-          "name": "Yoga 翻转本",
-          "nameEn": "Yoga",
-          "type": "轻薄本",
-          "price": {
-            "min": 5000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "360度翻转+OLED,轻薄本的设计标杆。",
-          "highlights": [
-            "360翻转",
-            "OLED"
-          ],
-          "tags": [
-            "轻薄本"
-          ]
-        },
-        {
-          "id": "lenovo-thinkbook",
-          "name": "ThinkBook",
-          "nameEn": "ThinkBook",
-          "type": "商务本",
-          "price": {
-            "min": 4000,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "年轻人的商务本,性价比之选。",
-          "highlights": [
-            "年轻商务",
-            "性价比"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "lenovo-phones",
-          "name": "拯救者手机/moto",
-          "nameEn": "Legion Phone & moto",
-          "type": "手机",
-          "price": {
-            "min": 1500,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "游戏手机与摩托罗拉的手机业务线。",
-          "highlights": [
-            "游戏手机",
-            "moto"
-          ],
-          "tags": [
-            "手机"
-          ]
-        }
-      ]
+     "id": "lenovo-thinkpad",
+     "name": "ThinkPad X1 Carbon",
+     "nameEn": "ThinkPad X1 Carbon",
+     "type": "商务笔记本",
+     "price": {
+      "min": 8000,
+      "max": 25000,
+      "label": "零售参考价"
+     },
+     "desc": "ThinkPad X1 Carbon 是联想 ThinkPad 旗舰商务本,标志性的小红点与碳纤维机身构成其经典符号,键盘手感与军工级耐用口碑深厚。适合商务差旅、企业采购与注重输入体验的专业用户。作为商务本的图腾级产品,ThinkPad 自 IBM 时代传承而来的设计语言是笔记本史上最具辨识度的文化符号之一。",
+     "highlights": [
+      "小红点",
+      "碳纤维"
+     ],
+     "tags": [
+      "笔记本"
+     ]
     },
     {
-      "id": "dell",
-      "name": "戴尔",
-      "nameEn": "DELL",
-      "domain": "dell.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1984,
-      "hq": "德克萨斯州Round Rock",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "直销鼻祖",
-        "XPS",
-        "外星人东家"
-      ],
-      "slogan": "Dell Technologies",
-      "desc": "Michael Dell 的宿舍直销帝国:19岁在德州大学宿舍创立,直邮模式改写 PC 行业。",
-      "story": "1984年 Michael Dell 以1000美元在宿舍创立 PC's Limited,直销砍掉中间商。收购 EMC 后成为企业级巨擘,XPS 与外星人(Alienware)是消费端双王牌。",
-      "products": [
-        {
-          "id": "dell-xps",
-          "name": "XPS 13/15",
-          "nameEn": "XPS",
-          "type": "轻薄本",
-          "price": {
-            "min": 7000,
-            "max": 30000,
-            "label": "零售参考价"
-          },
-          "desc": "微边框屏幕的开创者,Win 阵营颜值天花板之一。",
-          "highlights": [
-            "微边框",
-            "颜值天花板"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "dell-alienware",
-          "name": "外星人",
-          "nameEn": "Alienware",
-          "type": "游戏本",
-          "price": {
-            "min": 10000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "外星飞船造型,信仰灯与性能的代言人。",
-          "highlights": [
-            "飞船造型",
-            "信仰灯"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "dell-inspiron",
-          "name": "灵越",
-          "nameEn": "Inspiron",
-          "type": "家用本",
-          "price": {
-            "min": 3000,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "国民家用本主力。",
-          "highlights": [
-            "国民家用",
-            "主力"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "dell-ultrasharp",
-          "name": "U系列显示器",
-          "nameEn": "UltraSharp",
-          "type": "显示器",
-          "price": {
-            "min": 1500,
-            "max": 30000,
-            "label": "零售参考价"
-          },
-          "desc": "设计师显示器标杆,出厂校色。",
-          "highlights": [
-            "出厂校色",
-            "设计师标杆"
-          ],
-          "tags": [
-            "显示器"
-          ]
-        },
-        {
-          "id": "dell-poweredge",
-          "name": "PowerEdge 服务器",
-          "nameEn": "PowerEdge",
-          "type": "服务器",
-          "price": {
-            "min": 10000,
-            "max": 1000000,
-            "label": "采购参考价"
-          },
-          "desc": "企业数据中心的中坚。",
-          "highlights": [
-            "数据中心",
-            "企业级"
-          ],
-          "tags": [
-            "服务器"
-          ]
-        }
-      ]
+     "id": "lenovo-legion",
+     "name": "拯救者 Legion",
+     "nameEn": "Legion",
+     "type": "游戏本",
+     "price": {
+      "min": 6000,
+      "max": 30000,
+      "label": "零售参考价"
+     },
+     "desc": "联想拯救者 Legion 是游戏本市场的明星产品线,以满血显卡释放与扎实的散热设计著称,性能调度激进且稳定。适合学生党与游戏玩家,是很多人游戏本的首选。凭借可靠的散热与均衡的堆料,拯救者在中文游戏本圈层拥有极高口碑,一度被视为性价比与售后兼顾的稳妥之选。",
+     "highlights": [
+      "满血显卡",
+      "散热强"
+     ],
+     "tags": [
+      "游戏本"
+     ]
     },
     {
-      "id": "hp",
-      "name": "惠普",
-      "nameEn": "HP",
-      "domain": "hp.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1939,
-      "hq": "加州帕洛阿尔托",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "车库创业",
-        "打印机",
-        "惠普之道"
-      ],
-      "slogan": "Make it matter",
-      "desc": "硅谷发源地:Bill Hewlett 与 Dave Packard 在帕洛阿尔托车库创立,音频振荡器起家成为 IT 巨人。",
-      "story": "1939年两人在车库造出音频振荡器,迪士尼买去做《幻想曲》音效。「HP Way」的企业文化影响硅谷至今。2015年拆分为 HP Inc(个人电脑打印)与 HPE(企业)。\nSpectre 幽灵本与 LaserJet 打印机是消费端双星。",
-      "products": [
-        {
-          "id": "hp-spectre",
-          "name": "Spectre x360",
-          "nameEn": "Spectre x360",
-          "type": "轻薄本",
-          "price": {
-            "min": 7000,
-            "max": 25000,
-            "label": "零售参考价"
-          },
-          "desc": "宝石切割设计的高端翻转本。",
-          "highlights": [
-            "宝石切割",
-            "高端翻转"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "hp-omen",
-          "name": "OMEN 暗影精灵",
-          "nameEn": "OMEN",
-          "type": "游戏本",
-          "price": {
-            "min": 6000,
-            "max": 25000,
-            "label": "零售参考价"
-          },
-          "desc": "惠普游戏线,性价比与信仰兼顾。",
-          "highlights": [
-            "性价比",
-            "信仰兼顾"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "hp-elitebook",
-          "name": "EliteBook",
-          "nameEn": "EliteBook",
-          "type": "商务本",
-          "price": {
-            "min": 6000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "企业级商务本,铝机身+安全芯片。",
-          "highlights": [
-            "企业级",
-            "铝机身"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "hp-laserjet",
-          "name": "LaserJet 打印机",
-          "nameEn": "LaserJet",
-          "type": "打印机",
-          "price": {
-            "min": 1000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "激光打印机的代名词。",
-          "highlights": [
-            "激光打印",
-            "代名词"
-          ],
-          "tags": [
-            "打印"
-          ]
-        },
-        {
-          "id": "hp-ink",
-          "name": "InkAdvantage 墨盒",
-          "nameEn": "Ink Advantage",
-          "type": "耗材",
-          "price": {
-            "min": 50,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "打印机不贵墨盒贵的主要供应商。",
-          "highlights": [
-            "不贵墨盒贵",
-            "主要供应商"
-          ],
-          "tags": [
-            "打印"
-          ]
-        }
-      ]
+     "id": "lenovo-yoga",
+     "name": "Yoga 翻转本",
+     "nameEn": "Yoga",
+     "type": "轻薄本",
+     "price": {
+      "min": 5000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "联想 Yoga 翻转本是轻薄本的设计标杆,360 度翻转铰链支持笔记本、站立与平板多形态切换,搭配高素质 OLED 屏幕观感出色。适合办公展示、追剧与注重便携颜值的年轻用户。作为联想探索笔记本形态的前沿产品线,Yoga 的翻转设计多次引领行业风潮。",
+     "highlights": [
+      "360翻转",
+      "OLED"
+     ],
+     "tags": [
+      "轻薄本"
+     ]
     },
     {
-      "id": "asus",
-      "name": "华硕",
-      "nameEn": "ASUS",
-      "domain": "asus.com.cn",
-      "categoryId": "tech",
-      "country": "中国台湾",
-      "founded": 1989,
-      "hq": "台北",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "主板之王",
-        "ROG",
-        "坚若磐石"
-      ],
-      "slogan": "In Search of Incredible",
-      "desc": "从宏碁出走工程师创立的主板之王:ROG 玩家国度是游戏硬件的图腾,主板市占率全球第一。",
-      "story": "1989年四名 Acer 工程师创立,「坚若磐石」的广告语与信仰自2010年代营销出圈。ROG(2006)从主板延伸到整机、手机(ROG Phone)与显示器。\n灵耀、天选、ProArt 各线开花。",
-      "products": [
-        {
-          "id": "asus-rog",
-          "name": "ROG 枪神/魔霸",
-          "nameEn": "ROG Strix",
-          "type": "游戏本",
-          "price": {
-            "min": 8000,
-            "max": 40000,
-            "label": "零售参考价"
-          },
-          "desc": "败家之眼信仰本,灯光与性能双满。",
-          "highlights": [
-            "败家之眼",
-            "灯光信仰"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "asus-motherboard",
-          "name": "ROG 主板",
-          "nameEn": "ROG Motherboards",
-          "type": "主板",
-          "price": {
-            "min": 1000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "装机党心中的主板之王。",
-          "highlights": [
-            "主板之王",
-            "装机信仰"
-          ],
-          "tags": [
-            "主板"
-          ]
-        },
-        {
-          "id": "asus-zenbook",
-          "name": "灵耀 Zenbook",
-          "nameEn": "Zenbook",
-          "type": "轻薄本",
-          "price": {
-            "min": 5000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "CNC 一体成型的高颜值轻薄本。",
-          "highlights": [
-            "CNC一体",
-            "高颜值"
-          ],
-          "tags": [
-            "轻薄本"
-          ]
-        },
-        {
-          "id": "asus-proart",
-          "name": "ProArt 创艺国度",
-          "nameEn": "ProArt",
-          "type": "创作本",
-          "price": {
-            "min": 8000,
-            "max": 40000,
-            "label": "零售参考价"
-          },
-          "desc": "色彩校准的创作本与专业显示器。",
-          "highlights": [
-            "色彩校准",
-            "创作本"
-          ],
-          "tags": [
-            "创作本"
-          ]
-        },
-        {
-          "id": "asus-rogphone",
-          "name": "ROG Phone",
-          "nameEn": "ROG Phone",
-          "type": "游戏手机",
-          "price": {
-            "min": 4000,
-            "max": 9000,
-            "label": "零售参考价"
-          },
-          "desc": "肩键+风扇的游戏手机开山者之一。",
-          "highlights": [
-            "肩键",
-            "风扇"
-          ],
-          "tags": [
-            "手机"
-          ]
-        }
-      ]
+     "id": "lenovo-thinkbook",
+     "name": "ThinkBook",
+     "nameEn": "ThinkBook",
+     "type": "商务本",
+     "price": {
+      "min": 4000,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "联想 ThinkBook 定位年轻商务本,在 ThinkPad 血统基础上以更高的性价比面向成长型企业与职场新人。设计更年轻时尚,接口配置齐全,兼顾办公与轻度娱乐需求。适合初入职场人群、创业小团队与预算有限的商务用户。作为联想覆盖年轻商务市场的产品线,它在 5000 元档拥有稳定的口碑。",
+     "highlights": [
+      "年轻商务",
+      "性价比"
+     ],
+     "tags": [
+      "笔记本"
+     ]
     },
     {
-      "id": "acer",
-      "name": "宏碁",
-      "nameEn": "Acer",
-      "domain": "acer.com.cn",
-      "categoryId": "tech",
-      "country": "中国台湾",
-      "founded": 1976,
-      "hq": "新北市",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "StanKo",
-        "掠夺者",
-        "施振荣"
-      ],
-      "slogan": "Breaking barriers between people and technology",
-      "desc": "施振荣的「微笑曲线」创造者:从代工之王到自有品牌,暗影骑士与掠夺者撑起游戏线。",
-      "story": "1976年施振荣以五人创业(宏碁=Multitech),1990年代成为全球 PC 代工巨头。2000年代转型品牌,收购 Gateway 与 Packard Bell。\nNitro 与 Predator 线在游戏市场站稳。",
-      "products": [
-        {
-          "id": "acer-predator",
-          "name": "掠夺者 Predator",
-          "nameEn": "Predator",
-          "type": "游戏本",
-          "price": {
-            "min": 8000,
-            "max": 35000,
-            "label": "零售参考价"
-          },
-          "desc": "旗舰游戏线,战斧与刀锋双系列。",
-          "highlights": [
-            "旗舰游戏",
-            "战斧刀锋"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "acer-nitro",
-          "name": "暗影骑士 Nitro",
-          "nameEn": "Nitro",
-          "type": "游戏本",
-          "price": {
-            "min": 5000,
-            "max": 12000,
-            "label": "零售参考价"
-          },
-          "desc": "学生党高性价比游戏本。",
-          "highlights": [
-            "学生党",
-            "高性价比"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "acer-swift",
-          "name": "非凡 Swift",
-          "nameEn": "Swift",
-          "type": "轻薄本",
-          "price": {
-            "min": 4000,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "Evo 认证轻薄本。",
-          "highlights": [
-            "Evo认证",
-            "轻薄"
-          ],
-          "tags": [
-            "轻薄本"
-          ]
-        },
-        {
-          "id": "acer-chromebook",
-          "name": "Chromebook",
-          "nameEn": "Chromebook",
-          "type": "教育本",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "北美教育市场的霸主。",
-          "highlights": [
-            "北美教育",
-            "市场霸主"
-          ],
-          "tags": [
-            "笔记本"
-          ]
-        },
-        {
-          "id": "acer-conceptd",
-          "name": "ConceptD 创作本",
-          "nameEn": "ConceptD",
-          "type": "创作本",
-          "price": {
-            "min": 8000,
-            "max": 40000,
-            "label": "零售参考价"
-          },
-          "desc": "面向创作者的白色系工作站。",
-          "highlights": [
-            "创作者",
-            "白色系"
-          ],
-          "tags": [
-            "创作本"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "msi",
-      "name": "微星",
-      "nameEn": "MSI",
-      "domain": "msi.com",
-      "categoryId": "tech",
-      "country": "中国台湾",
-      "founded": 1986,
-      "hq": "台北",
-      "tier": "大众",
-      "sub": "电脑",
-      "tags": [
-        "板卡三巨头",
-        "龙盾",
-        "电竞"
-      ],
-      "slogan": "True Gaming",
-      "desc": "板卡三巨头之一的微星:龙形 logo 的游戏本与显卡,「MSI Afterburner」是超频玩家的标配工具。",
-      "story": "1986年五人创业于台北,主板与显卡起家。GE76/绝影系列游戏本、龙系列散热器与 Afterburner 超频软件构成电竞生态。",
-      "products": [
-        {
-          "id": "msi-gs",
-          "name": "绝影 GS66",
-          "nameEn": "Stealth GS66",
-          "type": "游戏本",
-          "price": {
-            "min": 9000,
-            "max": 30000,
-            "label": "零售参考价"
-          },
-          "desc": "低调黑武士的轻薄游戏本。",
-          "highlights": [
-            "黑武士",
-            "轻薄游戏"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "msi-gpu",
-          "name": "龙系列显卡",
-          "nameEn": "Gaming Trio GPU",
-          "type": "显卡",
-          "price": {
-            "min": 2000,
-            "max": 30000,
-            "label": "零售参考价"
-          },
-          "desc": "魔龙/超龙三风扇信仰卡。",
-          "highlights": [
-            "魔龙超龙",
-            "三风扇"
-          ],
-          "tags": [
-            "显卡"
-          ]
-        },
-        {
-          "id": "msi-monitor",
-          "name": "电围绕电竞显示器",
-          "nameEn": "Gaming Monitor",
-          "type": "显示器",
-          "price": {
-            "min": 1000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "高刷新率电竞屏。",
-          "highlights": [
-            "高刷新",
-            "电竞屏"
-          ],
-          "tags": [
-            "显示器"
-          ]
-        },
-        {
-          "id": "msi-motherboard",
-          "name": "MEG 主板",
-          "nameEn": "MEG Motherboard",
-          "type": "主板",
-          "price": {
-            "min": 1500,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "超频玩家的 Z 系信仰板。",
-          "highlights": [
-            "超频",
-            "Z系信仰"
-          ],
-          "tags": [
-            "主板"
-          ]
-        },
-        {
-          "id": "msi-afterburner",
-          "name": "Afterburner 超频软件",
-          "nameEn": "Afterburner",
-          "type": "软件",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "免费"
-          },
-          "desc": "全球装机量最大的显卡超频监控工具。",
-          "highlights": [
-            "装机最大",
-            "免费超频"
-          ],
-          "tags": [
-            "软件"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "alienware",
-      "name": "外星人",
-      "nameEn": "Alienware",
-      "domain": "alienware.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1996,
-      "hq": "迈阿密",
-      "tier": "轻奢",
-      "sub": "电脑",
-      "tags": [
-        "外星飞船",
-        "信仰灯",
-        "戴尔旗下"
-      ],
-      "slogan": "Lie in our design",
-      "desc": "1996年 Nelson Gonzalez 与 Alex Aguila 创立的顶级游戏品牌,2006年归入戴尔,外星飞船造型与 AlienFX 灯效是信仰本体。",
-      "story": "从佛州小作坊到游戏硬件奢侈品牌,Area-51 机箱与 m 系笔记本的异形设计独树一帜。在中国被尊称「外星人」,是学生时代的终极梦想。",
-      "products": [
-        {
-          "id": "alienware-mseries",
-          "name": "m 系列游戏本",
-          "nameEn": "m Series",
-          "type": "游戏本",
-          "price": {
-            "min": 12000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "传说级散热+Legend 设计语言。",
-          "highlights": [
-            "传说散热",
-            "Legend设计"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "alienware-area51",
-          "name": "Area-51 台式机",
-          "nameEn": "Area-51",
-          "type": "台式机",
-          "price": {
-            "min": 15000,
-            "max": 80000,
-            "label": "零售参考价"
-          },
-          "desc": "异形机箱的旗舰台式。",
-          "highlights": [
-            "异形机箱",
-            "旗舰台式"
-          ],
-          "tags": [
-            "台式机"
-          ]
-        },
-        {
-          "id": "alienware-monitor",
-          "name": "AW 显示器",
-          "nameEn": "AW Monitor",
-          "type": "显示器",
-          "price": {
-            "min": 3000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "QD-OLED 电竞屏,外星人的另一张脸。",
-          "highlights": [
-            "QD-OLED",
-            "电竞屏"
-          ],
-          "tags": [
-            "显示器"
-          ]
-        },
-        {
-          "id": "alienware-mouse",
-          "name": "外设三件套",
-          "nameEn": "Peripherals",
-          "type": "外设",
-          "price": {
-            "min": 500,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "鼠标键盘耳机, AlienFX 全家桶。",
-          "highlights": [
-            "AlienFX",
-            "全家桶"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "alienware-sticker",
-          "name": "头灯/贴纸文化",
-          "nameEn": "Alien Head",
-          "type": "品牌文化",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "信仰加成"
-          },
-          "desc": "车尾 alien 头灯贴,信仰无需多言。",
-          "highlights": [
-            "车尾贴",
-            "信仰"
-          ],
-          "tags": [
-            "文化"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "razer",
-      "name": "雷蛇",
-      "nameEn": "Razer",
-      "domain": "razer.com",
-      "categoryId": "tech",
-      "country": "美国/新加坡",
-      "founded": 2005,
-      "hq": "尔湾/新加坡",
-      "tier": "中档",
-      "sub": "配件",
-      "tags": [
-        "三头蛇",
-        "Chroma",
-        "外设之王"
-      ],
-      "slogan": "For Gamers. By Gamers.",
-      "desc": "Min-Liang Tan 的三头蛇帝国:从 Boomslang 电竞鼠标到 Chroma 灯效生态,电竞外设的代名词。",
-      "story": "2005年新加坡律师 Tan 与 Robert Krakoff 创立(前身1998),DeathAdder 死亡之蝰是史上最畅销电竞鼠标之一。Chroma 灯效、Blade 轻薄游戏本与 Razer Gold 生态全面开花。\n「灯厂」之名,褒贬皆是爱。",
-      "products": [
-        {
-          "id": "razer-deathadder",
-          "name": "DeathAdder 死亡之蝰",
-          "nameEn": "DeathAdder",
-          "type": "鼠标",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "人体工学电竞鼠标的销量传奇。",
-          "highlights": [
-            "销量传奇",
-            "人体工学"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "razer-blade",
-          "name": "Blade 灵刃",
-          "nameEn": "Blade",
-          "type": "游戏本",
-          "price": {
-            "min": 12000,
-            "max": 45000,
-            "label": "零售参考价"
-          },
-          "desc": "MacBook 外形+游戏性能的「西装暴徒」。",
-          "highlights": [
-            "MacBook外形",
-            "西装暴徒"
-          ],
-          "tags": [
-            "游戏本"
-          ]
-        },
-        {
-          "id": "razer-chroma",
-          "name": "Chroma 灯效生态",
-          "nameEn": "Chroma RGB",
-          "type": "灯效生态",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "生态"
-          },
-          "desc": "1680万色联动,从鼠标到房子。",
-          "highlights": [
-            "1680万色",
-            "联动"
-          ],
-          "tags": [
-            "灯效"
-          ]
-        },
-        {
-          "id": "razer-blackwidow",
-          "name": "黑寡妇机械键盘",
-          "nameEn": "BlackWidow",
-          "type": "键盘",
-          "price": {
-            "min": 500,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "雷蛇绿轴的标志性机械键盘。",
-          "highlights": [
-            "绿轴",
-            "标志性"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "razer-phone",
-          "name": "Razer Phone(经典)",
-          "nameEn": "Razer Phone",
-          "type": "手机",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "label": "历史参考价"
-          },
-          "desc": "120Hz 高刷屏的手机先驱。",
-          "highlights": [
-            "120Hz先驱",
-            "高刷鼻祖"
-          ],
-          "tags": [
-            "手机"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "logitech",
-      "name": "罗技",
-      "nameEn": "Logitech",
-      "domain": "logitech.com.cn",
-      "categoryId": "tech",
-      "tags": [
-        "瑞士外设",
-        "MX",
-        "罗技G"
-      ],
-      "slogan": "Designed for people who want more",
-      "desc": "1981年瑞士的鼠标匠人:从世界第一只光学机械式鼠标到 MX Master,办公与游戏外设双王。",
-      "story": "1981年 Daniel Borel 在瑞士创立,1982年推出首款鼠标。MX Master 系列定义了办公鼠标,罗技 G 系列与 Astro 收编游戏市场。\n如今云视频(Rally)与罗技G双引擎。",
-      "country": "瑞士",
-      "founded": 1981,
-      "hq": "洛桑",
-      "sub": "配件",
-      "products": [
-        {
-          "id": "logitech-mxmaster",
-          "name": "MX Master 3S",
-          "nameEn": "MX Master 3S",
-          "type": "鼠标",
-          "price": {
-            "min": 600,
-            "max": 1200,
-            "label": "零售参考价"
-          },
-          "desc": "办公鼠标的终极形态,拇指滚轮+多设备切换。",
-          "highlights": [
-            "终极形态",
-            "多设备"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "logitech-gpro",
-          "name": "G PRO X 外设",
-          "nameEn": "G PRO X",
-          "type": "游戏外设",
-          "price": {
-            "min": 300,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "电竞选手用脚投票的职业线。",
-          "highlights": [
-            "职业线",
-            "电竞认可"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "logitech-keyboard",
-          "name": "K 系列键盘",
-          "nameEn": "K Series",
-          "type": "键盘",
-          "price": {
-            "min": 150,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "静音薄膜与机械轴全覆盖。",
-          "highlights": [
-            "静音薄膜",
-            "机械全覆盖"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "logitech-c920",
-          "name": "C920 摄像头",
-          "nameEn": "C920",
-          "type": "摄像头",
-          "price": {
-            "min": 300,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "主播与网课的默认摄像头。",
-          "highlights": [
-            "主播默认",
-            "网课"
-          ],
-          "tags": [
-            "外设"
-          ]
-        },
-        {
-          "id": "logitech-webex",
-          "name": "Rally 视频会议",
-          "nameEn": "Rally Bar",
-          "type": "视频会议",
-          "price": {
-            "min": 8000,
-            "max": 80000,
-            "label": "采购参考价"
-          },
-          "desc": "企业会议室的一体化方案。",
-          "highlights": [
-            "会议室",
-            "一体化"
-          ],
-          "tags": [
-            "企业"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sennheiser",
-      "name": "森海塞尔",
-      "nameEn": "Sennheiser",
-      "domain": "sennheiser.com",
-      "categoryId": "tech",
-      "tags": [
-        "德国声学",
-        "HD600",
-        "耳机贵族"
-      ],
-      "slogan": "Shape the future of audio",
-      "desc": "1945年 Fritz Sennheiser 二战后创立的德国声学殿堂:HD600 是发烧友的「入门即终点」,无线麦克风统治舞台。",
-      "story": "1945年战后实验室起家,1968年世界第一副开放式耳机 HD414 问世。HD600/650 至今仍是古典乐参考级。专业线(麦克风、监听)是演出行业的标准装备。\n消费无线线交由 Sonova 集团,专业线独立运营。",
-      "country": "德国",
-      "founded": 1945,
-      "hq": "韦德马克",
-      "sub": "音频",
-      "products": [
-        {
-          "id": "sennheiser-hd600",
-          "name": "HD600/650",
-          "nameEn": "HD600",
-          "type": "HiFi耳机",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "开放式耳机的古典乐参考级。",
-          "highlights": [
-            "开放式",
-            "参考级"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "sennheiser-hd800s",
-          "name": "HD800S",
-          "nameEn": "HD800S",
-          "type": "HiFi耳机",
-          "price": {
-            "min": 8000,
-            "max": 12000,
-            "label": "零售参考价"
-          },
-          "desc": "56mm 环形振膜的声场之王。",
-          "highlights": [
-            "56mm振膜",
-            "声场之王"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "sennheiser-momentum",
-          "name": "Momentum 真无线",
-          "nameEn": "Momentum TWS",
-          "type": "真无线耳机",
-          "price": {
-            "min": 1000,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "德国调音的通勤 TWS。",
-          "highlights": [
-            "德国调音",
-            "通勤"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "sennheiser-mic",
-          "name": "MKH 麦克风",
-          "nameEn": "MKH Series",
-          "type": "麦克风",
-          "price": {
-            "min": 5000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "影视与广播的标准装备。",
-          "highlights": [
-            "影视标准",
-            "广播"
-          ],
-          "tags": [
-            "麦克风"
-          ]
-        },
-        {
-          "id": "sennheiser-dj",
-          "name": "HD25 DJ耳机",
-          "nameEn": "HD25",
-          "type": "DJ耳机",
-          "price": {
-            "min": 1000,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "打碟台上的黑色经典。",
-          "highlights": [
-            "打碟台",
-            "黑色经典"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bose",
-      "name": "博士",
-      "nameEn": "Bose",
-      "domain": "bose.com.cn",
-      "categoryId": "tech",
-      "tags": [
-        "降噪鼻祖",
-        "MIT教授",
-        "消噪耳机"
-      ],
-      "slogan": "Better sound through research",
-      "desc": "MIT 教授 Amar Bose 创立的声学奇才:主动降噪技术的商用鼻祖,QC 系列是飞行常客的信仰。",
-      "story": "1956年 Bose 因对高保真音箱失望而研究声学,1964年创业。1989年推出首个航空降噪耳机,QC35 曾是全球飞行党的标配。\n汽车音响、消噪与家庭影院全线布局。",
-      "country": "美国",
-      "founded": 1964,
-      "hq": "马萨诸塞州 Framingham",
-      "sub": "音频",
-      "products": [
-        {
-          "id": "bose-qc45",
-          "name": "QC45 降噪耳机",
-          "nameEn": "QuietComfort 45",
-          "type": "降噪耳机",
-          "price": {
-            "min": 1500,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "降噪界的天花板之一,飞行常客信仰。",
-          "highlights": [
-            "降噪天花板",
-            "飞行信仰"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "bose-earbuds",
-          "name": "消噪耳塞",
-          "nameEn": "QuietComfort Earbuds",
-          "type": "真无线耳机",
-          "price": {
-            "min": 1500,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "TWS 里的降噪猛兽。",
-          "highlights": [
-            "TWS降噪",
-            "猛兽"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "bose-soundlink",
-          "name": "Soundlink 蓝牙音箱",
-          "nameEn": "SoundLink",
-          "type": "蓝牙音箱",
-          "price": {
-            "min": 800,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "Revolve+ 的360度声场。",
-          "highlights": [
-            "360度",
-            "声场"
-          ],
-          "tags": [
-            "音箱"
-          ]
-        },
-        {
-          "id": "bose-hometheater",
-          "name": "家庭影院",
-          "nameEn": "Home Theater",
-          "type": "家庭影院",
-          "price": {
-            "min": 3000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "Soundbar 里的隐形贵族。",
-          "highlights": [
-            "Soundbar",
-            "隐形贵族"
-          ],
-          "tags": [
-            "影院"
-          ]
-        },
-        {
-          "id": "bose-auto",
-          "name": "汽车音响",
-          "nameEn": "Automotive Audio",
-          "type": "汽车音响",
-          "price": {
-            "min": 0,
-            "max": 20000,
-            "label": "选装参考价"
-          },
-          "desc": "马自达、凯迪拉克等的高配音响。",
-          "highlights": [
-            "马自达",
-            "高配音响"
-          ],
-          "tags": [
-            "汽车"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "edifier",
-      "name": "漫步者",
-      "nameEn": "EDIFIER",
-      "domain": "edifier.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1996,
-      "hq": "北京",
-      "tier": "大众",
-      "sub": "音频",
-      "tags": [
-        "国民音响",
-        "2.0箱",
-        "性价比声学"
-      ],
-      "slogan": "Edifier 漫步者",
-      "desc": "1996年张文东创立的国民音响品牌:R1000TC 北美版是无数人的第一对音箱,如今 TWS 与电竞耳机全面开花。",
-      "story": "1996年北京创立,多媒体音箱起家。R1700BT、S2000MKIII 被烧友称为「性价比神器」,收购 STAX 静电耳机品牌后技术再加码。\n花再/声迈/HECATE 多子品牌矩阵。",
-      "products": [
-        {
-          "id": "edifier-r1700",
-          "name": "R1700BT",
-          "nameEn": "R1700BT",
-          "type": "有源音箱",
-          "price": {
-            "min": 300,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "入门 2.0 有源箱的国民之选。",
-          "highlights": [
-            "入门2.0",
-            "国民之选"
-          ],
-          "tags": [
-            "音箱"
-          ]
-        },
-        {
-          "id": "edifier-s2000",
-          "name": "S2000MKIII",
-          "nameEn": "S2000MKIII",
-          "type": "有源音箱",
-          "price": {
-            "min": 1500,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "书架箱发烧友的性价比信仰。",
-          "highlights": [
-            "书架箱",
-            "性价比信仰"
-          ],
-          "tags": [
-            "音箱"
-          ]
-        },
-        {
-          "id": "edifier-tws",
-          "name": "LolliPods 真无线",
-          "nameEn": "LolliPods",
-          "type": "真无线耳机",
-          "price": {
-            "min": 150,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "百元 TWS 的销量王。",
-          "highlights": [
-            "百元TWS",
-            "销量王"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "edifier-hecate",
-          "name": "HECATE 电竞耳机",
-          "nameEn": "HECATE G5",
-          "type": "电竞耳机",
-          "price": {
-            "min": 200,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "游戏耳机子品牌,灯效与声场。",
-          "highlights": [
-            "游戏耳机",
-            "灯效声场"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "edifier-stax",
-          "name": "STAX 静电耳机",
-          "nameEn": "STAX",
-          "type": "静电耳机",
-          "price": {
-            "min": 3000,
-            "max": 50000,
-            "label": "零售参考价"
-          },
-          "desc": "日本静电耳机的殿堂品牌(2018年收购)。",
-          "highlights": [
-            "静电殿堂",
-            "2018收购"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "anker",
-      "name": "安克",
-      "nameEn": "Anker",
-      "domain": "anker.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2011,
-      "hq": "长沙",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "充电宝之王",
-        "亚马逊出海",
-        "GaNPriime"
-      ],
-      "slogan": "Power up your day",
-      "desc": "从亚马逊卖充电宝到全球充电配件之王:阳萌的安克创新是「中国品牌出海」的教科书。",
-      "story": "2011年谷歌工程师阳萌回长沙创业,以 Anker 充电宝攻占北美。GaNPrime 氮化镓快充、Soundcore 声阔耳机、eufy 智能家居多品牌矩阵。\n2020年创业板上市,常年亚马逊 Best Seller。",
-      "products": [
-        {
-          "id": "anker-powerbank",
-          "name": "安克充电宝",
-          "nameEn": "PowerCore",
-          "type": "充电宝",
-          "price": {
-            "min": 100,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "发家产品,快充时代的移动电源之王。",
-          "highlights": [
-            "发家产品",
-            "快充之王"
-          ],
-          "tags": [
-            "充电"
-          ]
-        },
-        {
-          "id": "anker-gan",
-          "name": "GaN 氮化镓充电器",
-          "nameEn": "GaNPrime",
-          "type": "充电器",
-          "price": {
-            "min": 100,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "把大功率充电器做成小的技术先锋。",
-          "highlights": [
-            "氮化镓",
-            "技术先锋"
-          ],
-          "tags": [
-            "充电"
-          ]
-        },
-        {
-          "id": "anker-cable",
-          "name": "拉车线数据线",
-          "nameEn": "PowerLine",
-          "type": "数据线",
-          "price": {
-            "min": 30,
-            "max": 150,
-            "label": "零售参考价"
-          },
-          "desc": "一万次弯折不坏的质量承诺。",
-          "highlights": [
-            "一万次弯折",
-            "质量承诺"
-          ],
-          "tags": [
-            "配件"
-          ]
-        },
-        {
-          "id": "anker-soundcore",
-          "name": "声阔耳机",
-          "nameEn": "Soundcore",
-          "type": "耳机",
-          "price": {
-            "min": 200,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "子品牌里的 TWS 黑马。",
-          "highlights": [
-            "TWS黑马",
-            "子品牌"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "anker-eufy",
-          "name": "eufy 智能家居",
-          "nameEn": "eufy",
-          "type": "智能家居",
-          "price": {
-            "min": 300,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "扫地机、门铃与安防摄像头。",
-          "highlights": [
-            "扫地机",
-            "安防"
-          ],
-          "tags": [
-            "家居"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ugreen",
-      "name": "绿联",
-      "nameEn": "UGREEN",
-      "domain": "ugreen.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2012,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "数据线",
-        "拓展坞",
-        "国民配件"
-      ],
-      "slogan": "U Green, U Great",
-      "desc": "深圳配件大厂:从数据线到拓展坞、NAS,把「转接头生意」做成了上市公司。",
-      "story": "2012年张清森创立,靠为国际品牌代工积累后转型自有品牌。拓展坞、读卡器、氮化镓全线开花,2024年上市。\n「绿联 NAS」私有云是新增长曲线。",
-      "products": [
-        {
-          "id": "ugreen-cable",
-          "name": "数据线",
-          "nameEn": "Cables",
-          "type": "数据线",
-          "price": {
-            "min": 15,
-            "max": 150,
-            "label": "零售参考价"
-          },
-          "desc": "编织线国民款,耐插拔。",
-          "highlights": [
-            "编织线",
-            "耐插拔"
-          ],
-          "tags": [
-            "配件"
-          ]
-        },
-        {
-          "id": "ugreen-dock",
-          "name": "拓展坞",
-          "nameEn": "USB-C Dock",
-          "type": "拓展坞",
-          "price": {
-            "min": 100,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "轻薄本外接的刚需。",
-          "highlights": [
-            "轻薄本刚需",
-            "外接"
-          ],
-          "tags": [
-            "配件"
-          ]
-        },
-        {
-          "id": "ugreen-nas",
-          "name": "绿联私有云 NAS",
-          "nameEn": "NAS",
-          "type": "NAS",
-          "price": {
-            "min": 1000,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "家庭云存储的新物种。",
-          "highlights": [
-            "家庭云",
-            "新物种"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "ugreen-charger",
-          "name": "氮化镓充电器",
-          "nameEn": "GaN Charger",
-          "type": "充电器",
-          "price": {
-            "min": 50,
-            "max": 400,
-            "label": "零售参考价"
-          },
-          "desc": "多口大功率的性价比款。",
-          "highlights": [
-            "多口大功率",
-            "性价比"
-          ],
-          "tags": [
-            "充电"
-          ]
-        },
-        {
-          "id": "ugreen-audio",
-          "name": "音频配件",
-          "nameEn": "Audio",
-          "type": "耳机",
-          "price": {
-            "min": 50,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "TWS 与转接头音频线。",
-          "highlights": [
-            "TWS",
-            "转接头"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "wd",
-      "name": "西部数据",
-      "nameEn": "Western Digital",
-      "domain": "wd.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1970,
-      "hq": "加州圣何塞",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "机械硬盘",
-        "HGST",
-        "存储巨头"
-      ],
-      "slogan": "Storing the world's data",
-      "desc": "1970年创立的存储巨头:紫盘监控、蓝盘家用、黑盘游戏、金盘企业的「颜色体系」深入人心。",
-      "story": "1970年从半导体起家转向硬盘,收购日立存储(HGST)后成为 HDD 双雄之一。旗下闪迪(SanDisk)负责闪存业务(2025年重新拆分独立)。",
-      "products": [
-        {
-          "id": "wd-blue",
-          "name": "蓝盘 HDD",
-          "nameEn": "WD Blue",
-          "type": "机械硬盘",
-          "price": {
-            "min": 300,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "家用机械盘的默认答案。",
-          "highlights": [
-            "家用默认",
-            "机械"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "wd-black",
-          "name": "黑盘 SN850X SSD",
-          "nameEn": "WD Black SN850X",
-          "type": "固态硬盘",
-          "price": {
-            "min": 500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "PCIe4 游戏旗舰 SSD。",
-          "highlights": [
-            "PCIe4",
-            "游戏旗舰"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "wd-purple",
-          "name": "紫盘",
-          "nameEn": "WD Purple",
-          "type": "监控硬盘",
-          "price": {
-            "min": 400,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "7×24 监控录像专用。",
-          "highlights": [
-            "7×24",
-            "监控专用"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "wd-mybook",
-          "name": "My Book 移动硬盘",
-          "nameEn": "My Book",
-          "type": "移动硬盘",
-          "price": {
-            "min": 600,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "桌面备份的经典黑色方块。",
-          "highlights": [
-            "桌面备份",
-            "黑色方块"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "wd-sandisk",
-          "name": "闪迪 SanDisk",
-          "nameEn": "SanDisk",
-          "type": "闪存",
-          "price": {
-            "min": 50,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "U 盘与 SD 卡的另一块金字招牌。",
-          "highlights": [
-            "U盘SD卡",
-            "金字招牌"
-          ],
-          "tags": [
-            "存储"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sandisk",
-      "name": "闪迪",
-      "nameEn": "SanDisk",
-      "domain": "sandisk.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1988,
-      "hq": "加州米尔皮塔斯",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "闪存发明",
-        "SD卡",
-        "东芝合资"
-      ],
-      "slogan": "Storage of the future",
-      "desc": "1988年 Eli Harari 发明闪存存储系统的商业化先锋:SD 卡协会的主要缔造者。",
-      "story": "1988年创立,1994年推出 CompactFlash,与东芝合资闪迪。2016年被西数收购,2025年拆分独立上市。\nExtreme 系列是摄影与游戏玩家的标配。",
-      "products": [
-        {
-          "id": "sandisk-extreme",
-          "name": "Extreme SD 卡",
-          "nameEn": "Extreme SDXC",
-          "type": "SD卡",
-          "price": {
-            "min": 80,
-            "max": 1500,
-            "label": "零售参考价"
-          },
-          "desc": "摄影师的高速存储标配。",
-          "highlights": [
-            "摄影标配",
-            "高速"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "sandisk-cruzer",
-          "name": "U盘 Cruzer",
-          "nameEn": "Ultra USB",
-          "type": "U盘",
-          "price": {
-            "min": 30,
-            "max": 300,
-            "label": "零售参考价"
-          },
-          "desc": "滑盖 U 盘的国民记忆。",
-          "highlights": [
-            "滑盖",
-            "国民记忆"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "sandisk-ssd",
-          "name": "固态硬盘",
-          "nameEn": "Extreme SSD",
-          "type": "移动固态",
-          "price": {
-            "min": 500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "巴掌大的 2TB 移动 SSD。",
-          "highlights": [
-            "2TB",
-            "移动SSD"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "sandisk-microsd",
-          "name": "MicroSD 卡",
-          "nameEn": "microSD",
-          "type": "TF卡",
-          "price": {
-            "min": 30,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "Switch 与手机的扩展卡。",
-          "highlights": [
-            "Switch",
-            "扩展卡"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "sandisk-pro",
-          "name": "Pro-Cinema 系列",
-          "nameEn": "Pro-Cinema",
-          "type": "专业存储",
-          "price": {
-            "min": 500,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "电影级 RAW 视频存储。",
-          "highlights": [
-            "电影级",
-            "RAW视频"
-          ],
-          "tags": [
-            "存储"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "kingston",
-      "name": "金士顿",
-      "nameEn": "Kingston",
-      "domain": "kingston.com.cn",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1987,
-      "hq": "加州芳泉谷",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "内存条之王",
-        "独立家族",
-        "A100"
-      ],
-      "slogan": "Kingston is memory",
-      "desc": "1987年杜纪川与孙大卫以2000美元创立的内存条之王:全球最大独立内存制造商,私下里人尽皆知的「金老板」。",
-      "story": "1987年在车库创业,靠模组内存爆发,1996年曾给员工发史上最大奖金包。A100 内存与 KC3000 SSD 是装机党默认选项。\nHyperX(现 HyperX 归 HP,Kingston FURY 接棒)曾是电竞内存代名词。",
-      "products": [
-        {
-          "id": "kingston-ddr5",
-          "name": "FURY DDR5 内存",
-          "nameEn": "FURY Beast DDR5",
-          "type": "内存",
-          "price": {
-            "min": 300,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "装机默认内存条。",
-          "highlights": [
-            "装机默认",
-            "DDR5"
-          ],
-          "tags": [
-            "内存"
-          ]
-        },
-        {
-          "id": "kingston-ssd",
-          "name": "KC3000 SSD",
-          "nameEn": "KC3000",
-          "type": "固态硬盘",
-          "price": {
-            "min": 500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "旗舰 PCIe4 SSD。",
-          "highlights": [
-            "旗舰",
-            "PCIe4"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "kingston-usb",
-          "name": "DataTraveler U盘",
-          "nameEn": "DataTraveler",
-          "type": "U盘",
-          "price": {
-            "min": 30,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "办公 U 盘的默认之选。",
-          "highlights": [
-            "办公默认",
-            "U盘"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "kingston-sd",
-          "name": "Canvas SD卡",
-          "nameEn": "Canvas Plus",
-          "type": "SD卡",
-          "price": {
-            "min": 50,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "相机与车机的平价卡。",
-          "highlights": [
-            "相机车机",
-            "平价"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "kingston-server",
-          "name": "服务器内存",
-          "nameEn": "Server Premier",
-          "type": "服务器内存",
-          "price": {
-            "min": 1000,
-            "max": 30000,
-            "label": "采购参考价"
-          },
-          "desc": "数据中心bulk供应商。",
-          "highlights": [
-            "数据中心",
-            "bulk供应"
-          ],
-          "tags": [
-            "内存"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "seagate",
-      "name": "希捷",
-      "nameEn": "Seagate",
-      "domain": "seagate.com",
-      "categoryId": "tech",
-      "country": "美国",
-      "founded": 1979,
-      "hq": "爱尔兰都柏林/新加坡",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "5.25英寸始祖",
-        "HAMR",
-        "硬盘双雄"
-      ],
-      "slogan": "Capacity to lead",
-      "desc": "1979年制造出全球第一台5.25英寸硬盘的元老:HAMR 热磁记录技术的先行者,机械硬盘双雄之一。",
-      "story": "1979年 Alan Shugart(IBM 出身)创立,1980年 ST-506 是现代硬盘的祖先。如今的 Exos 与 Barracuda 系列持续堆容量。\n与西数的「机械硬盘战争」是行业大戏。",
-      "products": [
-        {
-          "id": "seagate-barracuda",
-          "name": "酷鱼 Barracuda",
-          "nameEn": "Barracuda",
-          "type": "机械硬盘",
-          "price": {
-            "min": 300,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "家用大容量机械盘。",
-          "highlights": [
-            "家用大容量",
-            "机械"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "seagate-exos",
-          "name": "银河 Exos",
-          "nameEn": "Exos",
-          "type": "企业级硬盘",
-          "price": {
-            "min": 1500,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "数据中心 24TB+ 大盘。",
-          "highlights": [
-            "数据中心",
-            "24TB+"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "seagate-firecuda",
-          "name": "酷玩 FireCuda",
-          "nameEn": "FireCuda",
-          "type": "固态硬盘",
-          "price": {
-            "min": 500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "游戏 SSD 线。",
-          "highlights": [
-            "游戏SSD",
-            "线"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "seagate-expansion",
-          "name": "Expansion 移动硬盘",
-          "nameEn": "Expansion",
-          "type": "移动硬盘",
-          "price": {
-            "min": 400,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "大容量备份的外置盘。",
-          "highlights": [
-            "大容量",
-            "外置备份"
-          ],
-          "tags": [
-            "存储"
-          ]
-        },
-        {
-          "id": "seagate-hamr",
-          "name": "HAMR 技术",
-          "nameEn": "HAMR",
-          "type": "前沿技术",
-          "price": {
-            "min": 2000,
-            "max": 20000,
-            "label": "先锋参考价"
-          },
-          "desc": "热磁记录,机械硬盘的下一站。",
-          "highlights": [
-            "热磁记录",
-            "下一站"
-          ],
-          "tags": [
-            "技术"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tplink",
-      "name": "普联",
-      "nameEn": "TP-Link",
-      "domain": "tp-link.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1996,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "配件",
-      "tags": [
-        "路由器之王",
-        "全球第一",
-        "华三兄弟"
-      ],
-      "slogan": "Reliably connected",
-      "desc": "1996年赵建军的路由器帝国:全球出货量第一的 Wi-Fi 设备商,「TP-LINK」几乎等于路由器本身。",
-      "story": "1996年兄弟俩在深圳做交换机,2000年代以物美价廉的路由器占领全球市场。Tapo 智能家居、Deco Mesh 与商用 Omada 全面布局。\n如今海外收入占大头,是「低调出海之王」。",
-      "products": [
-        {
-          "id": "tplink-router",
-          "name": "路由器",
-          "nameEn": "Wi-Fi Routers",
-          "type": "路由器",
-          "price": {
-            "min": 100,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "Wi-Fi 7 路由器全家桶。",
-          "highlights": [
-            "Wi-Fi7",
-            "全家桶"
-          ],
-          "tags": [
-            "网络"
-          ]
-        },
-        {
-          "id": "tplink-deco",
-          "name": "Deco Mesh",
-          "nameEn": "Deco",
-          "type": "Mesh套装",
-          "price": {
-            "min": 500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "全屋漫游的 Mesh 套装。",
-          "highlights": [
-            "全屋漫游",
-            "Mesh"
-          ],
-          "tags": [
-            "网络"
-          ]
-        },
-        {
-          "id": "tplink-tapo",
-          "name": "Tapo 智能家居",
-          "nameEn": "Tapo",
-          "type": "智能家居",
-          "price": {
-            "min": 50,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "摄像头、插座、灯泡的智能生态。",
-          "highlights": [
-            "摄像头插座",
-            "智能生态"
-          ],
-          "tags": [
-            "智能家居"
-          ]
-        },
-        {
-          "id": "tplink-switch",
-          "name": "交换机",
-          "nameEn": "Switches",
-          "type": "交换机",
-          "price": {
-            "min": 100,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "家用到企业级的交换矩阵。",
-          "highlights": [
-            "家用企业",
-            "交换矩阵"
-          ],
-          "tags": [
-            "网络"
-          ]
-        },
-        {
-          "id": "tplink-omada",
-          "name": "Omada 商用网络",
-          "nameEn": "Omada",
-          "type": "商用网络",
-          "price": {
-            "min": 500,
-            "max": 50000,
-            "label": "采购参考价"
-          },
-          "desc": "酒店写字楼的无线方案。",
-          "highlights": [
-            "酒店写字楼",
-            "无线方案"
-          ],
-          "tags": [
-            "网络"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "iflytek",
-      "name": "科大讯飞",
-      "nameEn": "iFLYTEK",
-      "domain": "iflytek.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1999,
-      "hq": "合肥",
-      "tier": "大众",
-      "sub": "音频",
-      "tags": [
-        "语音之王",
-        "AI",
-        "学习机"
-      ],
-      "slogan": "让机器能听会说,能理解会思考",
-      "desc": "1999年中科大创业团队打造的语音 AI 王者:从语音识别到星火大模型,教育硬件是现金牛。",
-      "story": "1999年刘庆峰带领中科大学生创业,语音合成连续多年全球第一。翻译机、录音笔、学习机三驾马车。2023年发布星火认知大模型。\n「AI 学习机」成为家长圈的硬通货。",
-      "products": [
-        {
-          "id": "iflytek-translator",
-          "name": "翻译机",
-          "nameEn": "Translator",
-          "type": "翻译机",
-          "price": {
-            "min": 1000,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "出国旅游的贴身翻译官。",
-          "highlights": [
-            "贴身翻译",
-            "出国"
-          ],
-          "tags": [
-            "AI硬件"
-          ]
-        },
-        {
-          "id": "iflytek-learner",
-          "name": "AI 学习机",
-          "nameEn": "AI Learning Device",
-          "type": "学习机",
-          "price": {
-            "min": 2000,
-            "max": 9000,
-            "label": "零售参考价"
-          },
-          "desc": "个性化精准学的家长神器。",
-          "highlights": [
-            "个性化",
-            "家长神器"
-          ],
-          "tags": [
-            "AI硬件"
-          ]
-        },
-        {
-          "id": "iflytek-recorder",
-          "name": "智能录音笔",
-          "nameEn": "Smart Recorder",
-          "type": "录音笔",
-          "price": {
-            "min": 500,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "实时转写的会议神器。",
-          "highlights": [
-            "实时转写",
-            "会议"
-          ],
-          "tags": [
-            "AI硬件"
-          ]
-        },
-        {
-          "id": "iflytek-mouse",
-          "name": "语音鼠标",
-          "nameEn": "Voice Mouse",
-          "type": "鼠标",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "说话即打字的办公鼠标。",
-          "highlights": [
-            "说话打字",
-            "办公"
-          ],
-          "tags": [
-            "AI硬件"
-          ]
-        },
-        {
-          "id": "iflytek-spark",
-          "name": "星火大模型",
-          "nameEn": "Spark LLM",
-          "type": "大模型",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "免费/订阅"
-          },
-          "desc": "国产认知大模型第一梯队。",
-          "highlights": [
-            "国产第一梯队",
-            "认知大模型"
-          ],
-          "tags": [
-            "AI"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "xgimi",
-      "name": "极米",
-      "nameEn": "XGIMI",
-      "domain": "xgimi.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2013,
-      "hq": "成都",
-      "tier": "大众",
-      "sub": "影像",
-      "tags": [
-        "投影之王",
-        "国产投影",
-        "遥控猫"
-      ],
-      "slogan": "让光影改变生活",
-      "desc": "2013年钟波创立的国产投影之王:H系列与 Z 系列常年占据家用投影销量榜首。",
-      "story": "2013年极米科技成立,主打「智能投影」。2018年起登顶中国投影市场并保持至今,海外市场(日本 aladdin 呆板)同步扩张。\n上市后向车载光学与 AR 延伸。",
-      "products": [
-        {
-          "id": "xgimi-hseries",
-          "name": "H 系列",
-          "nameEn": "Horizon Series",
-          "type": "投影仪",
-          "price": {
-            "min": 3000,
-            "max": 8000,
-            "label": "零售参考价"
-          },
-          "desc": "客厅旗舰,自动对焦梯形校正。",
-          "highlights": [
-            "客厅旗舰",
-            "自动校正"
-          ],
-          "tags": [
-            "投影"
-          ]
-        },
-        {
-          "id": "xgimi-zseries",
-          "name": "Z 系列",
-          "nameEn": "Z Series",
-          "type": "投影仪",
-          "price": {
-            "min": 2000,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "入门爆款,租房观影神器。",
-          "highlights": [
-            "入门爆款",
-            "租房观影"
-          ],
-          "tags": [
-            "投影"
-          ]
-        },
-        {
-          "id": "xgimi-rs",
-          "name": "RS 系列",
-          "nameEn": "RS Series",
-          "type": "高端投影",
-          "price": {
-            "min": 8000,
-            "max": 20000,
-            "label": "零售参考价"
-          },
-          "desc": "4K 双色激光的画质旗舰。",
-          "highlights": [
-            "4K双色激光",
-            "画质旗舰"
-          ],
-          "tags": [
-            "投影"
-          ]
-        },
-        {
-          "id": "xgimi-aladdin",
-          "name": "Aladdin 阿拉丁",
-          "nameEn": "Aladdin",
-          "type": "吸顶灯投影",
-          "price": {
-            "min": 3000,
-            "max": 10000,
-            "label": "零售参考价"
-          },
-          "desc": "与日本莫罗公司合作的吸顶灯投影。",
-          "highlights": [
-            "吸顶灯投影",
-            "日本合作"
-          ],
-          "tags": [
-            "投影"
-          ]
-        },
-        {
-          "id": "xgimi-go",
-          "name": "Play 便携投影",
-          "nameEn": "Play Series",
-          "type": "便携投影",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "label": "零售参考价"
-          },
-          "desc": "电池便携,露营伴侣。",
-          "highlights": [
-            "电池便携",
-            "露营"
-          ],
-          "tags": [
-            "投影"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "meizu",
-      "name": "魅族",
-      "nameEn": "MEIZU",
-      "domain": "meizu.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2003,
-      "hq": "珠海",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "MP3传奇",
-        " Flyme",
-        "黄章"
-      ],
-      "slogan": "魅而不俗,易用而行",
-      "desc": "黄章的「偏执工匠」:从 MP3 王者到智能手机先驱,Flyme 是 Android 定制系统的美学标杆。",
-      "story": "2003年黄章在珠海做 MP3(M6 mini player 曾是苹果 nano 的对手),2009年发布国产首款大屏电容屏手机 M8。Flyme 的「设计美学」收获无数粉丝。\n2022年吉利收购,转向 Flyme Auto 车机生态。",
-      "products": [
-        {
-          "id": "meizu-20",
-          "name": "魅族20 系列",
-          "nameEn": "MEIZU 20",
-          "type": "智能手机",
-          "price": {
-            "min": 3000,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "吉利时代的直屏旗舰。",
-          "highlights": [
-            "直屏旗舰",
-            "吉利时代"
-          ],
-          "tags": [
-            "手机"
-          ]
-        },
-        {
-          "id": "meizu-flyme",
-          "name": "Flyme 系统",
-          "nameEn": "Flyme",
-          "type": "操作系统",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "免费"
-          },
-          "desc": "Android 定制系统的美学代表。",
-          "highlights": [
-            "美学代表",
-            "定制系统"
-          ],
-          "tags": [
-            "系统"
-          ]
-        },
-        {
-          "id": "meizu-flymeauto",
-          "name": "Flyme Auto 车机",
-          "nameEn": "Flyme Auto",
-          "type": "车机系统",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "随车"
-          },
-          "desc": "领克/极氪等车型的车机灵魂。",
-          "highlights": [
-            "领克极氪",
-            "车机灵魂"
-          ],
-          "tags": [
-            "车机"
-          ]
-        },
-        {
-          "id": "meizu-m8",
-          "name": "M8(经典)",
-          "nameEn": "M8",
-          "type": "经典手机",
-          "price": {
-            "min": 200,
-            "max": 2000,
-            "label": "收藏参考价"
-          },
-          "desc": "2009年国产智能手机的先驱,国家博物馆收藏。",
-          "highlights": [
-            "国博收藏",
-            "先驱"
-          ],
-          "tags": [
-            "经典"
-          ]
-        },
-        {
-          "id": "meizu-audio",
-          "name": "魅族 PANDAER",
-          "nameEn": "PANDAER",
-          "type": "配件",
-          "price": {
-            "min": 30,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "熊猫 IP 的充电与音频配件。",
-          "highlights": [
-            "熊猫IP",
-            "充电音频"
-          ],
-          "tags": [
-            "配件"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "redmagic",
-      "name": "红魔",
-      "nameEn": "REDMAGIC",
-      "domain": "redmagic.gg",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2018,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "游戏手机",
-        "风扇",
-        "努比亚系"
-      ],
-      "slogan": "Beyond Game",
-      "desc": "努比亚的游戏手机品牌:内置风扇+肩键,把「散热」做成手机的第一生产力。",
-      "story": "2018年努比亚推出红魔一代,风扇直吹散热成为标志。透明后盖、肩键、大电池与高刷屏,是硬核手游玩家的装备。",
-      "products": [
-        {
-          "id": "redmagic-9",
-          "name": "红魔9 Pro",
-          "nameEn": "9 Pro",
-          "type": "游戏手机",
-          "price": {
-            "min": 4000,
-            "max": 7000,
-            "label": "零售参考价"
-          },
-          "desc": "纯直屏+风扇的年度游戏旗舰。",
-          "highlights": [
-            "纯直屏",
-            "风扇旗舰"
-          ],
-          "tags": [
-            "手机"
-          ]
-        },
-        {
-          "id": "redmagic-tablet",
-          "name": "红魔平板",
-          "nameEn": "Gaming Tablet",
-          "type": "游戏平板",
-          "price": {
-            "min": 2500,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "大屏手游的散热平板。",
-          "highlights": [
-            "大屏手游",
-            "散热平板"
-          ],
-          "tags": [
-            "平板"
-          ]
-        },
-        {
-          "id": "redmagic-cooler",
-          "name": "散热背夹",
-          "nameEn": "Cooler",
-          "type": "散热器",
-          "price": {
-            "min": 150,
-            "max": 500,
-            "label": "零售参考价"
-          },
-          "desc": "半导体制冷的手机空调。",
-          "highlights": [
-            "半导体",
-            "手机空调"
-          ],
-          "tags": [
-            "配件"
-          ]
-        },
-        {
-          "id": "redmagic-earbuds",
-          "name": "游戏耳机",
-          "nameEn": "Gaming Buds",
-          "type": "耳机",
-          "price": {
-            "min": 200,
-            "max": 800,
-            "label": "零售参考价"
-          },
-          "desc": "低延迟 TWS。",
-          "highlights": [
-            "低延迟",
-            "TWS"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "redmagic-透明",
-          "name": "透明后盖设计",
-          "nameEn": "Transparent Design",
-          "type": "设计",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "设计加成"
-          },
-          "desc": "看得见风扇的赛博朋克。",
-          "highlights": [
-            "看得见风扇",
-            "赛博朋克"
-          ],
-          "tags": [
-            "设计"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "zte",
-      "name": "中兴",
-      "nameEn": "ZTE",
-      "domain": "zte.com.cn",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 1985,
-      "hq": "深圳",
-      "tier": "大众",
-      "sub": "手机",
-      "tags": [
-        "通信设备",
-        "5G",
-        "Axon"
-      ],
-      "slogan": "Tomorrow is in your hands",
-      "desc": "1985年深圳的通信设备巨头:与华为并称「中华」,5G 基站与 Axon 手机双线。",
-      "story": "1985年侯为贵创立,交换机起家。全球四大通信设备商之一,5G 标准必要专利名列前茅。2018年曾被美国制裁(禁运令),后恢复。\nAxon 系列手机与努比亚互为犄角。",
-      "products": [
-        {
-          "id": "zte-5g",
-          "name": "5G 基站设备",
-          "nameEn": "5G Infrastructure",
-          "type": "通信设备",
-          "price": {
-            "min": 10000,
-            "max": 1000000,
-            "label": "运营商采购"
-          },
-          "desc": "全球运营商的网络基石之一。",
-          "highlights": [
-            "网络基石",
-            "运营商"
-          ],
-          "tags": [
-            "通信"
-          ]
-        },
-        {
-          "id": "zte-axon",
-          "name": "Axon 60 Ultra",
-          "nameEn": "Axon 60 Ultra",
-          "type": "旗舰手机",
-          "price": {
-            "min": 4000,
-            "max": 8000,
-            "label": "零售参考价"
-          },
-          "desc": "屏下摄像头技术的坚持者。",
-          "highlights": [
-            "屏下摄像头",
-            "坚持者"
-          ],
-          "tags": [
-            "手机"
-          ]
-        },
-        {
-          "id": "zte-5gbox",
-          "name": "5G CPE",
-          "nameEn": "5G CPE",
-          "type": "随身WiFi",
-          "price": {
-            "min": 500,
-            "max": 3000,
-            "label": "零售参考价"
-          },
-          "desc": "把 5G 变成全屋 WiFi。",
-          "highlights": [
-            "5G变WiFi",
-            "随身"
-          ],
-          "tags": [
-            "网络"
-          ]
-        },
-        {
-          "id": "zte-blade",
-          "name": "Blade 远航系列",
-          "nameEn": "Blade",
-          "type": "入门手机",
-          "price": {
-            "min": 500,
-            "max": 2000,
-            "label": "零售参考价"
-          },
-          "desc": "大电池长续航的入门线。",
-          "highlights": [
-            "大电池",
-            "长续航"
-          ],
-          "tags": [
-            "手机"
-          ]
-        },
-        {
-          "id": "zte-spro",
-          "name": "Spro 投影",
-          "nameEn": "Spro",
-          "type": "智能投影",
-          "price": {
-            "min": 2000,
-            "max": 6000,
-            "label": "零售参考价"
-          },
-          "desc": "中兴的智能微投尝试。",
-          "highlights": [
-            "智能微投",
-            "尝试"
-          ],
-          "tags": [
-            "投影"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "imoo",
-      "name": "小天才",
-      "nameEn": "imoo",
-      "domain": "xiaotiancai.com",
-      "categoryId": "tech",
-      "country": "中国",
-      "founded": 2015,
-      "hq": "东莞",
-      "tier": "中档",
-      "sub": "配件",
-      "tags": [
-        "儿童手表",
-        "步步高系",
-        "朋友圈"
-      ],
-      "slogan": "小天才,更懂孩子",
-      "desc": "中国儿童电话手表之王:步步高教育电子出品,「碰一碰加好友」构建了小朋友的社交宇宙。",
-      "story": "2015年步步高推出小天才电话手表,精准切中家长(安全)与孩子(社交)的双需求。Z 系列摄像头、定位与支付功能齐全。\n小学门口的硬通货,没有之一。",
-      "products": [
-        {
-          "id": "imoo-zseries",
-          "name": "Z 系列电话手表",
-          "nameEn": "Z Series",
-          "type": "儿童手表",
-          "price": {
-            "min": 1000,
-            "max": 2500,
-            "label": "零售参考价"
-          },
-          "desc": "双摄视频通话+精准定位的旗舰。",
-          "highlights": [
-            "双摄视频",
-            "精准定位"
-          ],
-          "tags": [
-            "手表"
-          ]
-        },
-        {
-          "id": "imoo-qseries",
-          "name": "Q 系列基础款",
-          "nameEn": "Q Series",
-          "type": "儿童手表",
-          "price": {
-            "min": 500,
-            "max": 1000,
-            "label": "零售参考价"
-          },
-          "desc": "入门定位与通话。",
-          "highlights": [
-            "入门",
-            "定位通话"
-          ],
-          "tags": [
-            "手表"
-          ]
-        },
-        {
-          "id": "imoo-pad",
-          "name": "小天才护眼平板",
-          "nameEn": "Kids Tablet",
-          "type": "学习平板",
-          "price": {
-            "min": 2000,
-            "max": 5000,
-            "label": "零售参考价"
-          },
-          "desc": "护眼与内容管控的学习平板。",
-          "highlights": [
-            "护眼",
-            "内容管控"
-          ],
-          "tags": [
-            "平板"
-          ]
-        },
-        {
-          "id": "imoo-earbuds",
-          "name": "儿童耳机",
-          "nameEn": "Kids Earbuds",
-          "type": "耳机",
-          "price": {
-            "min": 200,
-            "max": 600,
-            "label": "零售参考价"
-          },
-          "desc": "听力保护的儿童耳机。",
-          "highlights": [
-            "听力保护",
-            "儿童"
-          ],
-          "tags": [
-            "耳机"
-          ]
-        },
-        {
-          "id": "imoo-friends",
-          "name": "碰一碰社交",
-          "nameEn": "Touch Friends",
-          "type": "社交功能",
-          "price": {
-            "min": 0,
-            "max": 0,
-            "label": "生态"
-          },
-          "desc": "手表互碰加好友,小朋友的微信。",
-          "highlights": [
-            "互碰加好友",
-            "小朋友微信"
-          ],
-          "tags": [
-            "生态"
-          ]
-        }
-      ]
+     "id": "lenovo-phones",
+     "name": "拯救者手机/moto",
+     "nameEn": "Legion Phone & moto",
+     "type": "手机",
+     "price": {
+      "min": 1500,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "联想的手机业务线包括主打游戏的拯救者手机与经典品牌摩托罗拉 moto。拯救者手机以横屏设计与极致散热面向游戏玩家;moto 则传承经典品牌资产,在海外市场与折叠屏领域持续发力。适合游戏玩家与偏爱 moto 品牌的用户。摩托罗拉作为手机行业先驱,其品牌历史本身就是一部手机进化史。",
+     "highlights": [
+      "游戏手机",
+      "moto"
+     ],
+     "tags": [
+      "手机"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "dell",
+   "name": "戴尔",
+   "nameEn": "DELL",
+   "domain": "dell.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1984,
+   "hq": "德克萨斯州Round Rock",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "直销鼻祖",
+    "XPS",
+    "外星人东家"
+   ],
+   "slogan": "Dell Technologies",
+   "desc": "Michael Dell 的宿舍直销帝国:19岁在德州大学宿舍创立,直邮模式改写 PC 行业。",
+   "story": "1984年 Michael Dell 以1000美元在宿舍创立 PC's Limited,直销砍掉中间商。收购 EMC 后成为企业级巨擘,XPS 与外星人(Alienware)是消费端双王牌。",
+   "products": [
+    {
+     "id": "dell-xps",
+     "name": "XPS 13/15",
+     "nameEn": "XPS",
+     "type": "轻薄本",
+     "price": {
+      "min": 7000,
+      "max": 30000,
+      "label": "零售参考价"
+     },
+     "desc": "戴尔 XPS 是 Windows 轻薄本的颜值天花板之一,以微边框屏幕的开创性设计闻名,曾经几乎无边框的正面观感领先整个行业。做工精致、质感出色,13/15 两个尺寸覆盖便携与大屏需求。适合追求设计感与质感的职场用户与创作者。XPS 的微边框理念深刻影响了此后所有笔记本的屏幕设计。",
+     "highlights": [
+      "微边框",
+      "颜值天花板"
+     ],
+     "tags": [
+      "笔记本"
+     ]
+    },
+    {
+     "id": "dell-alienware",
+     "name": "外星人",
+     "nameEn": "Alienware",
+     "type": "游戏本",
+     "price": {
+      "min": 10000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "戴尔旗下定位大众市场的游戏本产品线,以外星飞船般的激进造型著称。机身灯效与散热设计突出,是玩家口中“信仰灯”一词的来源,性能释放备受认可。适合追求极致性能与个性灯效的硬核游戏玩家。多年来被视为游戏本性能与信仰的代言人,在玩家文化中地位独特。",
+     "highlights": [
+      "飞船造型",
+      "信仰灯"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "dell-inspiron",
+     "name": "灵越",
+     "nameEn": "Inspiron",
+     "type": "家用本",
+     "price": {
+      "min": 3000,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "戴尔面向家庭用户的家用笔记本主力系列,定位大众市场。设计以实用均衡为主,配置覆盖面广,价格亲民,可满足日常办公、学习与影音娱乐需求。适合学生与家庭用户等对性能要求不极端的人群。凭借长期稳定的市场表现,被视为国民级家用本的代表。",
+     "highlights": [
+      "国民家用",
+      "主力"
+     ],
+     "tags": [
+      "笔记本"
+     ]
+    },
+    {
+     "id": "dell-ultrasharp",
+     "name": "U系列显示器",
+     "nameEn": "UltraSharp",
+     "type": "显示器",
+     "price": {
+      "min": 1500,
+      "max": 30000,
+      "label": "零售参考价"
+     },
+     "desc": "戴尔 U 系列专业显示器,定位大众价位中的设计师标杆产品。以出厂校色、色彩精准见长,边框与人体工学支架设计成熟,兼顾专业与日常使用。适合设计师、修图与视频剪辑等专业及半专业用户。长期被视为设计师显示器的标杆之作,市场口碑稳固。",
+     "highlights": [
+      "出厂校色",
+      "设计师标杆"
+     ],
+     "tags": [
+      "显示器"
+     ]
+    },
+    {
+     "id": "dell-poweredge",
+     "name": "PowerEdge 服务器",
+     "nameEn": "PowerEdge",
+     "type": "服务器",
+     "price": {
+      "min": 10000,
+      "max": 1000000,
+      "label": "采购参考价"
+     },
+     "desc": "戴尔的企业级服务器产品线,面向数据中心与商业采购场景。设计注重稳定性、可扩展性与易维护性,提供多种机架形态以适配不同规模的部署需求。适合企业 IT 部门与数据中心建设使用。长期是企业数据中心的中坚力量,在企业级市场拥有广泛的装机基础。",
+     "highlights": [
+      "数据中心",
+      "企业级"
+     ],
+     "tags": [
+      "服务器"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hp",
+   "name": "惠普",
+   "nameEn": "HP",
+   "domain": "hp.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1939,
+   "hq": "加州帕洛阿尔托",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "车库创业",
+    "打印机",
+    "惠普之道"
+   ],
+   "slogan": "Make it matter",
+   "desc": "硅谷发源地:Bill Hewlett 与 Dave Packard 在帕洛阿尔托车库创立,音频振荡器起家成为 IT 巨人。",
+   "story": "1939年两人在车库造出音频振荡器,迪士尼买去做《幻想曲》音效。「HP Way」的企业文化影响硅谷至今。2015年拆分为 HP Inc(个人电脑打印)与 HPE(企业)。\nSpectre 幽灵本与 LaserJet 打印机是消费端双星。",
+   "products": [
+    {
+     "id": "hp-spectre",
+     "name": "Spectre x360",
+     "nameEn": "Spectre x360",
+     "type": "轻薄本",
+     "price": {
+      "min": 7000,
+      "max": 25000,
+      "label": "零售参考价"
+     },
+     "desc": "惠普旗下高端轻薄翻转本系列,以宝石切割工艺的精致造型著称。支持翻转形态,做工与质感在轻薄本中名列前茅,兼顾便携与商务气质。适合注重颜值与便携性的商务人士与高端用户。被视为惠普设计美学的代表作之一,是高端轻薄本市场中的标志性产品。",
+     "highlights": [
+      "宝石切割",
+      "高端翻转"
+     ],
+     "tags": [
+      "笔记本"
+     ]
+    },
+    {
+     "id": "hp-omen",
+     "name": "OMEN 暗影精灵",
+     "nameEn": "OMEN",
+     "type": "游戏本",
+     "price": {
+      "min": 6000,
+      "max": 25000,
+      "label": "零售参考价"
+     },
+     "desc": "惠普旗下游戏本产品线,定位兼顾性价比与玩家信仰的主流游戏市场。设计上性能释放与散热配置均衡,灯效与外观偏向电竞风格。适合预算有限又追求游戏体验的学生与主流玩家。在玩家群体中口碑良好,是游戏本市场上以“性价比与信仰兼顾”著称的代表性系列。",
+     "highlights": [
+      "性价比",
+      "信仰兼顾"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "hp-elitebook",
+     "name": "EliteBook",
+     "nameEn": "EliteBook",
+     "type": "商务本",
+     "price": {
+      "min": 6000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "惠普面向企业用户的商务笔记本系列,定位企业级商用市场。采用铝金属机身,配备安全芯片等企业级安全设计,做工扎实耐用。适合企业采购、职场商务人士与对数据安全有较高要求的用户。是惠普商务线的旗舰代表,在商用笔记本领域地位稳固。",
+     "highlights": [
+      "企业级",
+      "铝机身"
+     ],
+     "tags": [
+      "笔记本"
+     ]
+    },
+    {
+     "id": "hp-laserjet",
+     "name": "LaserJet 打印机",
+     "nameEn": "LaserJet",
+     "type": "打印机",
+     "price": {
+      "min": 1000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "惠普的激光打印机产品线,品类历史悠长。以激光成像技术为核心,打印速度快、稳定性高,产品覆盖家用到企业级多种型号。适合打印需求频繁的家庭与办公用户。LaserJet 几乎成为激光打印机的代名词,是该品类最具认知度的产品系列之一。",
+     "highlights": [
+      "激光打印",
+      "代名词"
+     ],
+     "tags": [
+      "打印"
+     ]
+    },
+    {
+     "id": "hp-ink",
+     "name": "InkAdvantage 墨盒",
+     "nameEn": "Ink Advantage",
+     "type": "耗材",
+     "price": {
+      "min": 50,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "惠普的打印机耗材产品线,主打 Ink Advantage 系列墨盒。原厂耗材与打印机匹配设计,保障打印质量与设备稳定性。适合已购惠普打印机的家庭与办公用户补充耗材。惠普是全球打印耗材的主要供应商,“打印机不贵墨盒贵”的市场现象也与这一耗材生态格局密切相关。",
+     "highlights": [
+      "不贵墨盒贵",
+      "主要供应商"
+     ],
+     "tags": [
+      "打印"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "asus",
+   "name": "华硕",
+   "nameEn": "ASUS",
+   "domain": "asus.com.cn",
+   "categoryId": "tech",
+   "country": "中国台湾",
+   "founded": 1989,
+   "hq": "台北",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "主板之王",
+    "ROG",
+    "坚若磐石"
+   ],
+   "slogan": "In Search of Incredible",
+   "desc": "从宏碁出走工程师创立的主板之王:ROG 玩家国度是游戏硬件的图腾,主板市占率全球第一。",
+   "story": "1989年四名 Acer 工程师创立,「坚若磐石」的广告语与信仰自2010年代营销出圈。ROG(2006)从主板延伸到整机、手机(ROG Phone)与显示器。\n灵耀、天选、ProArt 各线开花。",
+   "products": [
+    {
+     "id": "asus-rog",
+     "name": "ROG 枪神/魔霸",
+     "nameEn": "ROG Strix",
+     "type": "游戏本",
+     "price": {
+      "min": 8000,
+      "max": 40000,
+      "label": "零售参考价"
+     },
+     "desc": "华硕 ROG 玩家国度旗下枪神、魔霸等游戏本系列,定位主流到高端的电竞市场。设计上 RGB 灯效拉满,性能释放激进,散热规格高。适合追求灯光信仰与极致性能的游戏玩家。“败家之眼”的绰号深入人心,是玩家文化中最具辨识度的信仰品牌之一。",
+     "highlights": [
+      "败家之眼",
+      "灯光信仰"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "asus-motherboard",
+     "name": "ROG 主板",
+     "nameEn": "ROG Motherboards",
+     "type": "主板",
+     "price": {
+      "min": 1000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "华硕 ROG 系列主板,面向 DIY 装机市场的高端产品线。以扎实的供电用料、丰富的扩展接口与成熟的 BIOS 调校著称,超频与稳定性表现出色。适合追求极致体验的装机发烧友与超频玩家。长期被装机党誉为“主板之王”,是 DIY 圈公认的信仰之选。",
+     "highlights": [
+      "主板之王",
+      "装机信仰"
+     ],
+     "tags": [
+      "主板"
+     ]
+    },
+    {
+     "id": "asus-zenbook",
+     "name": "灵耀 Zenbook",
+     "nameEn": "Zenbook",
+     "type": "轻薄本",
+     "price": {
+      "min": 5000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "华硕灵耀 Zenbook 系列,定位高颜值轻薄本市场。机身采用 CNC 一体成型工艺,质感精致,便携性出色。适合注重设计感与便携性的商务与年轻用户,日常通勤与移动办公场景均有良好适配。是华硕在轻薄本领域设计工艺的代表系列,颜值口碑突出。",
+     "highlights": [
+      "CNC一体",
+      "高颜值"
+     ],
+     "tags": [
+      "轻薄本"
+     ]
+    },
+    {
+     "id": "asus-proart",
+     "name": "ProArt 创艺国度",
+     "nameEn": "ProArt",
+     "type": "创作本",
+     "price": {
+      "min": 8000,
+      "max": 40000,
+      "label": "零售参考价"
+     },
+     "desc": "华硕 ProArt 创艺国度系列,涵盖创作笔记本与专业显示器,面向内容创作市场。产品注重出厂色彩校准与色域覆盖,为专业创作提供稳定可靠的视觉基础。适合设计师、摄影师、视频剪辑师等创作者。是华硕切入专业创作领域的旗舰产品线,以专业可靠著称。",
+     "highlights": [
+      "色彩校准",
+      "创作本"
+     ],
+     "tags": [
+      "创作本"
+     ]
+    },
+    {
+     "id": "asus-rogphone",
+     "name": "ROG Phone",
+     "nameEn": "ROG Phone",
+     "type": "游戏手机",
+     "price": {
+      "min": 4000,
+      "max": 9000,
+      "label": "零售参考价"
+     },
+     "desc": "华硕 ROG Phone 游戏手机,定位电竞手机细分市场。配备肩键与内置风扇等针对性设计,散热与性能调度为游戏场景深度优化。适合重度手游玩家与移动电竞爱好者。作为游戏手机品类的开山者之一,它在手游硬件发展史上具有标志性意义。",
+     "highlights": [
+      "肩键",
+      "风扇"
+     ],
+     "tags": [
+      "手机"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "acer",
+   "name": "宏碁",
+   "nameEn": "Acer",
+   "domain": "acer.com.cn",
+   "categoryId": "tech",
+   "country": "中国台湾",
+   "founded": 1976,
+   "hq": "新北市",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "StanKo",
+    "掠夺者",
+    "施振荣"
+   ],
+   "slogan": "Breaking barriers between people and technology",
+   "desc": "施振荣的「微笑曲线」创造者:从代工之王到自有品牌,暗影骑士与掠夺者撑起游戏线。",
+   "story": "1976年施振荣以五人创业(宏碁=Multitech),1990年代成为全球 PC 代工巨头。2000年代转型品牌,收购 Gateway 与 Packard Bell。\nNitro 与 Predator 线在游戏市场站稳。",
+   "products": [
+    {
+     "id": "acer-predator",
+     "name": "掠夺者 Predator",
+     "nameEn": "Predator",
+     "type": "游戏本",
+     "price": {
+      "min": 8000,
+      "max": 35000,
+      "label": "零售参考价"
+     },
+     "desc": "宏碁 Predator 掠夺者系列,是品牌旗下的旗舰游戏产品线,包含战斧与刀锋两大知名系列。设计上性能与散热规格拉满,外观充满电竞攻击性。适合追求旗舰游戏体验的硬核玩家。凭借战斧、刀锋等系列,掠夺者在高端游戏本市场占据一席之地。",
+     "highlights": [
+      "旗舰游戏",
+      "战斧刀锋"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "acer-nitro",
+     "name": "暗影骑士 Nitro",
+     "nameEn": "Nitro",
+     "type": "游戏本",
+     "price": {
+      "min": 5000,
+      "max": 12000,
+      "label": "零售参考价"
+     },
+     "desc": "宏碁暗影骑士 Nitro 系列,定位高性价比游戏本市场。设计以实用为主,配置均衡,把预算留给核心性能。适合预算有限的学生党与入门游戏玩家。是主流价位段口碑稳定的走量产品,在学生群体中拥有较高的知名度与保有量。",
+     "highlights": [
+      "学生党",
+      "高性价比"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "acer-swift",
+     "name": "非凡 Swift",
+     "nameEn": "Swift",
+     "type": "轻薄本",
+     "price": {
+      "min": 4000,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "宏碁非凡 Swift 系列,定位轻薄便携笔记本市场,多款产品通过英特尔 Evo 平台认证。设计强调轻薄机身与长续航,兼顾日常性能与移动体验。适合通勤办公、移动学习等场景的学生与职场用户。凭借 Evo 认证的均衡体验,是宏碁轻薄本的主力代表。",
+     "highlights": [
+      "Evo认证",
+      "轻薄"
+     ],
+     "tags": [
+      "轻薄本"
+     ]
+    },
+    {
+     "id": "acer-chromebook",
+     "name": "Chromebook",
+     "nameEn": "Chromebook",
+     "type": "教育本",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "宏碁 Chromebook 笔记本,搭载 Chrome OS 系统,以云端应用为核心的轻量使用模式。产品设计简洁、价格亲民、易于统一管理。适合教育场景与以网页应用为主的轻办公用户。宏碁长期主导北美教育市场,Chromebook 是其教育采购的招牌产品。",
+     "highlights": [
+      "北美教育",
+      "市场霸主"
+     ],
+     "tags": [
+      "笔记本"
+     ]
+    },
+    {
+     "id": "acer-conceptd",
+     "name": "ConceptD 创作本",
+     "nameEn": "ConceptD",
+     "type": "创作本",
+     "price": {
+      "min": 8000,
+      "max": 40000,
+      "label": "零售参考价"
+     },
+     "desc": "宏碁 ConceptD 创作本系列,面向专业创作者市场。以标志性的白色系外观区别于游戏本,注重散热与屏幕色彩表现,整体气质安静克制。适合设计师、创作者等对色彩与使用环境有要求的用户。是宏碁布局创作领域的特色产品线,白色工作站造型辨识度很高。",
+     "highlights": [
+      "创作者",
+      "白色系"
+     ],
+     "tags": [
+      "创作本"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "msi",
+   "name": "微星",
+   "nameEn": "MSI",
+   "domain": "msi.com",
+   "categoryId": "tech",
+   "country": "中国台湾",
+   "founded": 1986,
+   "hq": "台北",
+   "tier": "大众",
+   "sub": "电脑",
+   "tags": [
+    "板卡三巨头",
+    "龙盾",
+    "电竞"
+   ],
+   "slogan": "True Gaming",
+   "desc": "板卡三巨头之一的微星:龙形 logo 的游戏本与显卡,「MSI Afterburner」是超频玩家的标配工具。",
+   "story": "1986年五人创业于台北,主板与显卡起家。GE76/绝影系列游戏本、龙系列散热器与 Afterburner 超频软件构成电竞生态。",
+   "products": [
+    {
+     "id": "msi-gs",
+     "name": "绝影 GS66",
+     "nameEn": "Stealth GS66",
+     "type": "游戏本",
+     "price": {
+      "min": 9000,
+      "max": 30000,
+      "label": "零售参考价"
+     },
+     "desc": "微星绝影 GS66 系列,定位轻薄游戏本市场。采用低调黑武士外观设计,在相对轻薄的机身内追求游戏性能释放,兼顾商务场合的适配性。适合既需要游戏性能又要便携低调的上班族玩家。是微星轻薄游戏本路线的代表,在细分领域知名度较高。",
+     "highlights": [
+      "黑武士",
+      "轻薄游戏"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "msi-gpu",
+     "name": "龙系列显卡",
+     "nameEn": "Gaming Trio GPU",
+     "type": "显卡",
+     "price": {
+      "min": 2000,
+      "max": 30000,
+      "label": "零售参考价"
+     },
+     "desc": "微星龙系列显卡,涵盖魔龙、超龙等型号,是 DIY 市场的重要非公版产品线。采用三风扇散热设计,用料扎实,散热与静音表现受玩家认可。适合组装高性能游戏主机与工作站平台的用户。凭借龙系命名与稳定品质,是装机圈常见的信仰显卡之一。",
+     "highlights": [
+      "魔龙超龙",
+      "三风扇"
+     ],
+     "tags": [
+      "显卡"
+     ]
+    },
+    {
+     "id": "msi-monitor",
+     "name": "电围绕电竞显示器",
+     "nameEn": "Gaming Monitor",
+     "type": "显示器",
+     "price": {
+      "min": 1000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "微星电竞显示器产品线,主打高刷新率电竞屏。设计上注重快速响应与流畅画面,常配套电竞风格的支架与功能菜单。适合游戏玩家与电竞爱好者升级桌面显示设备。作为微星电竞生态的延伸,是游戏显示器市场中较受关注的主流品牌之一。",
+     "highlights": [
+      "高刷新",
+      "电竞屏"
+     ],
+     "tags": [
+      "显示器"
+     ]
+    },
+    {
+     "id": "msi-motherboard",
+     "name": "MEG 主板",
+     "nameEn": "MEG Motherboard",
+     "type": "主板",
+     "price": {
+      "min": 1500,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "微星 MEG 系列主板,是品牌旗舰级产品线,其中 Z 系列尤为超频玩家推崇。设计上供电用料豪华,散热装甲厚重,BIOS 与超频功能完善。适合极限超频玩家与高端 DIY 装机用户。是微星技术实力的旗舰代表,在超频圈拥有信仰地位。",
+     "highlights": [
+      "超频",
+      "Z系信仰"
+     ],
+     "tags": [
+      "主板"
+     ]
+    },
+    {
+     "id": "msi-afterburner",
+     "name": "Afterburner 超频软件",
+     "nameEn": "Afterburner",
+     "type": "软件",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "免费"
+     },
+     "desc": "微星 Afterburner 是一款免费的显卡超频与监控软件,兼容各品牌显卡使用。功能涵盖频率调节、风扇控制与实时监控等,界面直观易用。适合游戏玩家与 DIY 用户调校显卡状态。凭借免费与通用性,它是全球装机量最大的显卡超频监控工具之一。",
+     "highlights": [
+      "装机最大",
+      "免费超频"
+     ],
+     "tags": [
+      "软件"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alienware",
+   "name": "外星人",
+   "nameEn": "Alienware",
+   "domain": "alienware.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1996,
+   "hq": "迈阿密",
+   "tier": "轻奢",
+   "sub": "电脑",
+   "tags": [
+    "外星飞船",
+    "信仰灯",
+    "戴尔旗下"
+   ],
+   "slogan": "Lie in our design",
+   "desc": "1996年 Nelson Gonzalez 与 Alex Aguila 创立的顶级游戏品牌,2006年归入戴尔,外星飞船造型与 AlienFX 灯效是信仰本体。",
+   "story": "从佛州小作坊到游戏硬件奢侈品牌,Area-51 机箱与 m 系笔记本的异形设计独树一帜。在中国被尊称「外星人」,是学生时代的终极梦想。",
+   "products": [
+    {
+     "id": "alienware-mseries",
+     "name": "m 系列游戏本",
+     "nameEn": "m Series",
+     "type": "游戏本",
+     "price": {
+      "min": 12000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "外星人 m 系列游戏本,定位轻奢高端游戏市场。采用品牌 Legend 设计语言,造型简洁而富有未来感,散热能力被玩家称为“传说级”。适合预算充足、追求旗舰体验的资深玩家。作为外星人产品线的主力,延续了品牌在游戏本领域的高端形象。",
+     "highlights": [
+      "传说散热",
+      "Legend设计"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "alienware-area51",
+     "name": "Area-51 台式机",
+     "nameEn": "Area-51",
+     "type": "台式机",
+     "price": {
+      "min": 15000,
+      "max": 80000,
+      "label": "零售参考价"
+     },
+     "desc": "外星人 Area-51 台式机,是品牌旗舰级桌面游戏主机。机箱采用独特的异形造型设计,辨识度极高,内部为顶级硬件与散热预留充分空间。适合追求极致性能与独特审美的发烧友玩家。其异形机箱已成为游戏台式机设计史上的经典符号。",
+     "highlights": [
+      "异形机箱",
+      "旗舰台式"
+     ],
+     "tags": [
+      "台式机"
+     ]
+    },
+    {
+     "id": "alienware-monitor",
+     "name": "AW 显示器",
+     "nameEn": "AW Monitor",
+     "type": "显示器",
+     "price": {
+      "min": 3000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "外星人 AW 系列显示器,定位高端电竞显示市场。采用 QD-OLED 面板技术,画质、色彩与响应速度俱佳,搭配品牌标志性外观与灯效设计。适合追求顶级游戏画质与视觉体验的玩家。被视为“外星人的另一张脸”,是高端电竞显示器市场的代表性产品之一。",
+     "highlights": [
+      "QD-OLED",
+      "电竞屏"
+     ],
+     "tags": [
+      "显示器"
+     ]
+    },
+    {
+     "id": "alienware-mouse",
+     "name": "外设三件套",
+     "nameEn": "Peripherals",
+     "type": "外设",
+     "price": {
+      "min": 500,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "外星人外设三件套,涵盖鼠标、键盘与耳机等周边设备。设计延续品牌未来感风格,支持 AlienFX 灯效联动,可与整机形成统一的视觉生态。适合已有外星人主机、追求一体化灯效体验的玩家。作为品牌生态的延伸,是外星人信仰体系的重要组成。",
+     "highlights": [
+      "AlienFX",
+      "全家桶"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "alienware-sticker",
+     "name": "头灯/贴纸文化",
+     "nameEn": "Alien Head",
+     "type": "品牌文化",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "信仰加成"
+     },
+     "desc": "外星人品牌文化衍生内容,以外星人头 logo 贴纸、头灯装饰等为代表。设计上延续标志性的外星人头像形象,常被车主贴于车尾作为个性装饰。适合品牌粉丝与追求个性表达的玩家群体。“车尾 alien 贴”已成为玩家圈层的信仰符号,体现品牌文化超越硬件的影响力。",
+     "highlights": [
+      "车尾贴",
+      "信仰"
+     ],
+     "tags": [
+      "文化"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "razer",
+   "name": "雷蛇",
+   "nameEn": "Razer",
+   "domain": "razer.com",
+   "categoryId": "tech",
+   "country": "美国/新加坡",
+   "founded": 2005,
+   "hq": "尔湾/新加坡",
+   "tier": "中档",
+   "sub": "配件",
+   "tags": [
+    "三头蛇",
+    "Chroma",
+    "外设之王"
+   ],
+   "slogan": "For Gamers. By Gamers.",
+   "desc": "Min-Liang Tan 的三头蛇帝国:从 Boomslang 电竞鼠标到 Chroma 灯效生态,电竞外设的代名词。",
+   "story": "2005年新加坡律师 Tan 与 Robert Krakoff 创立(前身1998),DeathAdder 死亡之蝰是史上最畅销电竞鼠标之一。Chroma 灯效、Blade 轻薄游戏本与 Razer Gold 生态全面开花。\n「灯厂」之名,褒贬皆是爱。",
+   "products": [
+    {
+     "id": "razer-deathadder",
+     "name": "DeathAdder 死亡之蝰",
+     "nameEn": "DeathAdder",
+     "type": "鼠标",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "雷蛇 DeathAdder 死亡之蝰电竞鼠标,定位大众游戏外设市场。采用人体工学右手设计,握感舒适,历经多代演进仍保持经典布局。适合各类游戏玩家,尤其是习惯右手工学握持的用户。作为电竞鼠标的销量传奇,是雷蛇最具代表性的标志性产品。",
+     "highlights": [
+      "销量传奇",
+      "人体工学"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "razer-blade",
+     "name": "Blade 灵刃",
+     "nameEn": "Blade",
+     "type": "游戏本",
+     "price": {
+      "min": 12000,
+      "max": 45000,
+      "label": "零售参考价"
+     },
+     "desc": "雷蛇 Blade 灵刃游戏本,定位高端轻薄游戏市场。采用类 MacBook 的简约金属机身设计,低调外观下藏着游戏级性能,被玩家称为“西装暴徒”。适合追求便携与性能兼得、又不喜欢浮夸灯效的玩家与创作者。是轻薄游戏本品类的重要代表,设计美学广受认可。",
+     "highlights": [
+      "MacBook外形",
+      "西装暴徒"
+     ],
+     "tags": [
+      "游戏本"
+     ]
+    },
+    {
+     "id": "razer-chroma",
+     "name": "Chroma 灯效生态",
+     "nameEn": "Chroma RGB",
+     "type": "灯效生态",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "生态"
+     },
+     "desc": "雷蛇 Chroma 灯效生态,覆盖鼠标、键盘、耳机乃至家居灯光等设备,提供 1680 万色 RGB 联动。通过统一软件平台实现多设备灯光同步与场景化效果。适合热爱 RGB 玩法的玩家与灯效爱好者。它让灯效从单一硬件扩展为生态体系,是雷蛇品牌辨识度的重要来源。",
+     "highlights": [
+      "1680万色",
+      "联动"
+     ],
+     "tags": [
+      "灯效"
+     ]
+    },
+    {
+     "id": "razer-blackwidow",
+     "name": "黑寡妇机械键盘",
+     "nameEn": "BlackWidow",
+     "type": "键盘",
+     "price": {
+      "min": 500,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "雷蛇黑寡妇机械键盘,定位电竞键盘市场。以品牌标志性的雷蛇绿轴为特色,段落手感鲜明,配套灯效与功能按键设计。适合游戏玩家与偏好清脆敲击手感的机械键盘用户。作为雷蛇键盘线的标志性产品,“黑寡妇”之名在电竞外设领域广为人知。",
+     "highlights": [
+      "绿轴",
+      "标志性"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "razer-phone",
+     "name": "Razer Phone(经典)",
+     "nameEn": "Razer Phone",
+     "type": "手机",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "label": "历史参考价"
+     },
+     "desc": "雷蛇 Razer Phone 是品牌曾推出的游戏手机,定位移动电竞市场。其最大亮点是率先采用 120Hz 高刷新率屏幕,在手机高刷普及之前具有开创意义。适合当年追求极致游戏体验的移动玩家。作为高刷屏手机的先驱,它在手机显示技术发展史上留下印记。",
+     "highlights": [
+      "120Hz先驱",
+      "高刷鼻祖"
+     ],
+     "tags": [
+      "手机"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "logitech",
+   "name": "罗技",
+   "nameEn": "Logitech",
+   "domain": "logitech.com.cn",
+   "categoryId": "tech",
+   "tags": [
+    "瑞士外设",
+    "MX",
+    "罗技G"
+   ],
+   "slogan": "Designed for people who want more",
+   "desc": "1981年瑞士的鼠标匠人:从世界第一只光学机械式鼠标到 MX Master,办公与游戏外设双王。",
+   "story": "1981年 Daniel Borel 在瑞士创立,1982年推出首款鼠标。MX Master 系列定义了办公鼠标,罗技 G 系列与 Astro 收编游戏市场。\n如今云视频(Rally)与罗技G双引擎。",
+   "country": "瑞士",
+   "founded": 1981,
+   "hq": "洛桑",
+   "sub": "配件",
+   "products": [
+    {
+     "id": "logitech-mxmaster",
+     "name": "MX Master 3S",
+     "nameEn": "MX Master 3S",
+     "type": "鼠标",
+     "price": {
+      "min": 600,
+      "max": 1200,
+      "label": "零售参考价"
+     },
+     "desc": "罗技 MX Master 3S 旗舰办公鼠标,定位高端办公生产力市场。配备拇指滚轮与多设备切换功能,支持跨屏操作与精准控制,人体工学设计成熟。适合程序员、设计师等长时间办公的专业用户。被誉为办公鼠标的“终极形态”,是罗技生产力产品线的招牌之作。",
+     "highlights": [
+      "终极形态",
+      "多设备"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "logitech-gpro",
+     "name": "G PRO X 外设",
+     "nameEn": "G PRO X",
+     "type": "游戏外设",
+     "price": {
+      "min": 300,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "罗技 G PRO X 系列游戏外设,涵盖鼠标、键盘、耳机等电竞装备,定位专业电竞市场。产品以竞技可靠性为核心,细节与职业选手的使用需求深度结合。适合电竞选手、半职业玩家与追求竞技性能的用户。凭借大量职业选手的实际选用,被视为“用脚投票”的职业级外设线。",
+     "highlights": [
+      "职业线",
+      "电竞认可"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "logitech-keyboard",
+     "name": "K 系列键盘",
+     "nameEn": "K Series",
+     "type": "键盘",
+     "price": {
+      "min": 150,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "罗技 K 系列键盘,覆盖家用与办公键盘市场。产品线从静音薄膜键盘到机械轴键盘全面覆盖,设计以舒适打字与耐用实用为主。适合家庭、办公室等日常文字输入场景的广泛用户。凭借完整的价位与类型覆盖,是键盘市场认知度与占有率俱佳的主流产品线。",
+     "highlights": [
+      "静音薄膜",
+      "机械全覆盖"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "logitech-c920",
+     "name": "C920 摄像头",
+     "nameEn": "C920",
+     "type": "摄像头",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "罗技 C920 摄像头,定位家用与准专业视频采集市场。以稳定的画质表现和即插即用的易用性著称,支架与对焦设计成熟可靠。适合主播直播、网课教学与视频会议等场景的用户。长期以来是主播与网课场景的“默认摄像头”,堪称网络摄像头的经典之作。",
+     "highlights": [
+      "主播默认",
+      "网课"
+     ],
+     "tags": [
+      "外设"
+     ]
+    },
+    {
+     "id": "logitech-webex",
+     "name": "Rally 视频会议",
+     "nameEn": "Rally Bar",
+     "type": "视频会议",
+     "price": {
+      "min": 8000,
+      "max": 80000,
+      "label": "采购参考价"
+     },
+     "desc": "罗技 Rally 系列视频会议设备,以 Rally Bar 为代表,定位企业协作市场。集成摄像头、麦克风与扬声器于一体,为主流视频会议平台提供一体化会议室方案。适合企业会议室、远程协作与混合办公场景的采购部署。是企业视频会议硬件领域的主流选择之一。",
+     "highlights": [
+      "会议室",
+      "一体化"
+     ],
+     "tags": [
+      "企业"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sennheiser",
+   "name": "森海塞尔",
+   "nameEn": "Sennheiser",
+   "domain": "sennheiser.com",
+   "categoryId": "tech",
+   "tags": [
+    "德国声学",
+    "HD600",
+    "耳机贵族"
+   ],
+   "slogan": "Shape the future of audio",
+   "desc": "1945年 Fritz Sennheiser 二战后创立的德国声学殿堂:HD600 是发烧友的「入门即终点」,无线麦克风统治舞台。",
+   "story": "1945年战后实验室起家,1968年世界第一副开放式耳机 HD414 问世。HD600/650 至今仍是古典乐参考级。专业线(麦克风、监听)是演出行业的标准装备。\n消费无线线交由 Sonova 集团,专业线独立运营。",
+   "country": "德国",
+   "founded": 1945,
+   "hq": "韦德马克",
+   "sub": "音频",
+   "products": [
+    {
+     "id": "sennheiser-hd600",
+     "name": "HD600/650",
+     "nameEn": "HD600",
+     "type": "HiFi耳机",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "森海塞尔 HD600/650 系列开放式 HiFi 耳机,定位发烧友市场。采用开放式声学结构,声音均衡耐听,尤以演绎古典乐的表现被视为参考级水准。适合古典乐迷与追求中性与耐听声底的耳机发烧友。作为耳机史上的经典型号,长期是发烧圈的参考标杆。",
+     "highlights": [
+      "开放式",
+      "参考级"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "sennheiser-hd800s",
+     "name": "HD800S",
+     "nameEn": "HD800S",
+     "type": "HiFi耳机",
+     "price": {
+      "min": 8000,
+      "max": 12000,
+      "label": "零售参考价"
+     },
+     "desc": "森海塞尔 HD800S 旗舰 HiFi 耳机,定位高端发烧市场。采用 56mm 环形振膜单元,声场开阔宏大,解析力出色,被誉为“声场之王”。适合拥有前端搭配条件的资深发烧友与追求极致声场的音乐爱好者。是森海塞尔的技术旗舰,也是开放式旗舰耳机中的公认名作。",
+     "highlights": [
+      "56mm振膜",
+      "声场之王"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "sennheiser-momentum",
+     "name": "Momentum 真无线",
+     "nameEn": "Momentum TWS",
+     "type": "真无线耳机",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "森海塞尔 Momentum 真无线耳机,定位高端通勤无线耳机市场。延续品牌德国调音传统,声音素质在同品类中表现出色,外观与做工质感考究。适合通勤与日常出行中对音质有要求的用户。是森海塞尔从传统 HiFi 走向无线化时代的代表产品线。",
+     "highlights": [
+      "德国调音",
+      "通勤"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "sennheiser-mic",
+     "name": "MKH 麦克风",
+     "nameEn": "MKH Series",
+     "type": "麦克风",
+     "price": {
+      "min": 5000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "森海塞尔 MKH 系列专业麦克风,定位影视与广播制作市场。采用独特的 RF 电容技术,稳定性与一致性出众,能适应严苛的户外与录音棚环境。适合影视剧组、广播电台等专业收音场景。长期作为影视与广播行业的标准装备,专业地位牢固。",
+     "highlights": [
+      "影视标准",
+      "广播"
+     ],
+     "tags": [
+      "麦克风"
+     ]
+    },
+    {
+     "id": "sennheiser-dj",
+     "name": "HD25 DJ耳机",
+     "nameEn": "HD25",
+     "type": "DJ耳机",
+     "price": {
+      "min": 1000,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "森海塞尔 HD25 DJ 监听耳机,定位专业 DJ 与监听市场。结构坚固耐用,隔音表现出色,黑色外观低调经典,可应对高强度现场使用。适合 DJ 打碟、现场监听等专业场景。长期活跃于打碟台上,是 DJ 圈公认的黑色经典与行业标配。",
+     "highlights": [
+      "打碟台",
+      "黑色经典"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bose",
+   "name": "博士",
+   "nameEn": "Bose",
+   "domain": "bose.com.cn",
+   "categoryId": "tech",
+   "tags": [
+    "降噪鼻祖",
+    "MIT教授",
+    "消噪耳机"
+   ],
+   "slogan": "Better sound through research",
+   "desc": "MIT 教授 Amar Bose 创立的声学奇才:主动降噪技术的商用鼻祖,QC 系列是飞行常客的信仰。",
+   "story": "1956年 Bose 因对高保真音箱失望而研究声学,1964年创业。1989年推出首个航空降噪耳机,QC35 曾是全球飞行党的标配。\n汽车音响、消噪与家庭影院全线布局。",
+   "country": "美国",
+   "founded": 1964,
+   "hq": "马萨诸塞州 Framingham",
+   "sub": "音频",
+   "products": [
+    {
+     "id": "bose-qc45",
+     "name": "QC45 降噪耳机",
+     "nameEn": "QuietComfort 45",
+     "type": "降噪耳机",
+     "price": {
+      "min": 1500,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "Bose QuietComfort 45 降噪耳机,定位高端通勤降噪市场。以出色的主动降噪性能著称,佩戴轻便舒适,长时间乘坐不易疲劳。适合飞行常客、通勤族与注重安静环境的用户。Bose 被视为降噪领域的天花板之一,QC 系列更是差旅人群的信仰之选。",
+     "highlights": [
+      "降噪天花板",
+      "飞行信仰"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "bose-earbuds",
+     "name": "消噪耳塞",
+     "nameEn": "QuietComfort Earbuds",
+     "type": "真无线耳机",
+     "price": {
+      "min": 1500,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "Bose QuietComfort 真无线降噪耳塞,定位入耳式降噪市场。延续品牌标志性的消噪技术,降噪表现在真无线品类中尤为突出,佩戴稳固舒适。适合通勤、差旅等嘈杂环境下的用户。被誉为 TWS 中的“降噪猛兽”,是 Bose 降噪实力的移动化代表。",
+     "highlights": [
+      "TWS降噪",
+      "猛兽"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "bose-soundlink",
+     "name": "Soundlink 蓝牙音箱",
+     "nameEn": "SoundLink",
+     "type": "蓝牙音箱",
+     "price": {
+      "min": 800,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "Bose SoundLink 蓝牙音箱系列,定位便携无线音频市场。其中 Revolve+ 采用 360 度发声设计,声场均匀,便携与续航表现均衡。适合户外聚会、居家休闲等场景的日常用户。作为便携蓝牙音箱领域的经典产品线,以扎实的调音口碑赢得广泛认可。",
+     "highlights": [
+      "360度",
+      "声场"
+     ],
+     "tags": [
+      "音箱"
+     ]
+    },
+    {
+     "id": "bose-hometheater",
+     "name": "家庭影院",
+     "nameEn": "Home Theater",
+     "type": "家庭影院",
+     "price": {
+      "min": 3000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "Bose 家庭影院产品,以 SoundBar 回音壁等形态为代表,定位家用影音市场。设计上注重紧凑隐藏式布局与声场营造,无需复杂布线即可获得环绕感。适合追求简约安装与沉浸音效的家庭用户。被称为 SoundBar 领域的“隐形贵族”,是家庭影院市场的知名高端选择。",
+     "highlights": [
+      "Soundbar",
+      "隐形贵族"
+     ],
+     "tags": [
+      "影院"
+     ]
+    },
+    {
+     "id": "bose-auto",
+     "name": "汽车音响",
+     "nameEn": "Automotive Audio",
+     "type": "汽车音响",
+     "price": {
+      "min": 0,
+      "max": 20000,
+      "label": "选装参考价"
+     },
+     "desc": "Bose 汽车音响系统,面向整车厂配套市场。针对车内声学环境进行专门调校与扬声器布局设计,以均衡耐听的听感著称。马自达、凯迪拉克等品牌的高配车型均有搭载,适合注重车内音响体验的购车用户。是汽车音响配套领域历史悠久的知名品牌。",
+     "highlights": [
+      "马自达",
+      "高配音响"
+     ],
+     "tags": [
+      "汽车"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edifier",
+   "name": "漫步者",
+   "nameEn": "EDIFIER",
+   "domain": "edifier.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1996,
+   "hq": "北京",
+   "tier": "大众",
+   "sub": "音频",
+   "tags": [
+    "国民音响",
+    "2.0箱",
+    "性价比声学"
+   ],
+   "slogan": "Edifier 漫步者",
+   "desc": "1996年张文东创立的国民音响品牌:R1000TC 北美版是无数人的第一对音箱,如今 TWS 与电竞耳机全面开花。",
+   "story": "1996年北京创立,多媒体音箱起家。R1700BT、S2000MKIII 被烧友称为「性价比神器」,收购 STAX 静电耳机品牌后技术再加码。\n花再/声迈/HECATE 多子品牌矩阵。",
+   "products": [
+    {
+     "id": "edifier-r1700",
+     "name": "R1700BT",
+     "nameEn": "R1700BT",
+     "type": "有源音箱",
+     "price": {
+      "min": 300,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "漫步者 R1700BT 有源音箱,定位入门桌面 2.0 音箱市场。采用木质箱体并支持蓝牙连接,音质均衡、操作简便,性价比突出。适合桌面听歌、影音娱乐的普通用户与学生群体。长期畅销使其成为入门 2.0 有源音箱的“国民之选”,是国产音频品牌的经典型号。",
+     "highlights": [
+      "入门2.0",
+      "国民之选"
+     ],
+     "tags": [
+      "音箱"
+     ]
+    },
+    {
+     "id": "edifier-s2000",
+     "name": "S2000MKIII",
+     "nameEn": "S2000MKIII",
+     "type": "有源音箱",
+     "price": {
+      "min": 1500,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "漫步者 S2000MKIII 有源书架音箱,定位大众 Hi-Fi 进阶之选。采用木质箱体与分频设计,内置功放,无需外接后级即可推动,声音风格均衡耐听。适合书桌近场聆听、客厅音乐欣赏与电脑影音场景,面向预算有限又追求音质的用户。作为国产音箱的代表产品线之一,它长期被视为书架箱发烧友心目中的性价比信仰。",
+     "highlights": [
+      "书架箱",
+      "性价比信仰"
+     ],
+     "tags": [
+      "音箱"
+     ]
+    },
+    {
+     "id": "edifier-tws",
+     "name": "LolliPods 真无线",
+     "nameEn": "LolliPods",
+     "type": "真无线耳机",
+     "price": {
+      "min": 150,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "漫步者 LolliPods 真无线耳机,主打百元价位段的 TWS 市场。采用半入耳式设计,佩戴轻便,主打通话清晰与均衡听感,充电仓小巧便携,开盖即连。适合学生、通勤族等预算有限的日常使用者,满足听歌、追剧与通话需求。凭借庞大的出货量,LolliPods 长期位居电商销量榜前列,被称为百元真无线耳机的销量王。",
+     "highlights": [
+      "百元TWS",
+      "销量王"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "edifier-hecate",
+     "name": "HECATE 电竞耳机",
+     "nameEn": "HECATE G5",
+     "type": "电竞耳机",
+     "price": {
+      "min": 200,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "漫步者旗下电竞子品牌 HECATE 推出的游戏耳机,面向大众玩家群体。设计上注重灯效与声场表现,强调游戏中的方位听感与氛围感,佩戴结构贴合长时间游戏使用。适合 FPS、MOBA 等电竞场景,覆盖居家游戏、网吧与赛事练习。作为漫步者年轻化布局的重要一环,HECATE 已成为国产电竞音频市场中的活跃品牌。",
+     "highlights": [
+      "游戏耳机",
+      "灯效声场"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "edifier-stax",
+     "name": "STAX 静电耳机",
+     "nameEn": "STAX",
+     "type": "静电耳机",
+     "price": {
+      "min": 3000,
+      "max": 50000,
+      "label": "零售参考价"
+     },
+     "desc": "漫步者于 2018 年收购的日本 STAX 品牌静电耳机,属于音频发烧领域的高端产品。静电换能原理带来极为细腻通透的声音表现,做工严谨考究,常需搭配专用耳放驱动,以聆听人声与古典见长。适合资深发烧友与追求极致听感的音乐欣赏者。STAX 被誉为静电耳机领域的殿堂级品牌,也是漫步者技术向上突破的标志。",
+     "highlights": [
+      "静电殿堂",
+      "2018收购"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anker",
+   "name": "安克",
+   "nameEn": "Anker",
+   "domain": "anker.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2011,
+   "hq": "长沙",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "充电宝之王",
+    "亚马逊出海",
+    "GaNPriime"
+   ],
+   "slogan": "Power up your day",
+   "desc": "从亚马逊卖充电宝到全球充电配件之王:阳萌的安克创新是「中国品牌出海」的教科书。",
+   "story": "2011年谷歌工程师阳萌回长沙创业,以 Anker 充电宝攻占北美。GaNPrime 氮化镓快充、Soundcore 声阔耳机、eufy 智能家居多品牌矩阵。\n2020年创业板上市,常年亚马逊 Best Seller。",
+   "products": [
+    {
+     "id": "anker-powerbank",
+     "name": "安克充电宝",
+     "nameEn": "PowerCore",
+     "type": "充电宝",
+     "price": {
+      "min": 100,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "安克 PowerCore 充电宝,是品牌的发家产品线,定位大众移动电源市场。以充电电路技术见长,支持主流快充协议,兼顾功率、安全与体积,外壳做工扎实。适合差旅、通勤等外出场景,为手机、平板等设备应急补电。作为安克起家的核心品类,PowerCore 在海内外电商长期畅销,被称作快充时代的移动电源之王。",
+     "highlights": [
+      "发家产品",
+      "快充之王"
+     ],
+     "tags": [
+      "充电"
+     ]
+    },
+    {
+     "id": "anker-gan",
+     "name": "GaN 氮化镓充电器",
+     "nameEn": "GaNPrime",
+     "type": "充电器",
+     "price": {
+      "min": 100,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "安克 GaNPrime 氮化镓充电器系列,是大众充电配件市场的技术先锋产品。利用氮化镓半导体材料提升功率密度,把大功率充电器做小,兼顾多口输出、功率分配与散热控制。适合差旅人群与多设备用户,一个充电头即可服务笔记本、手机与耳机,减少携带负担。安克凭该系列确立了快充领域的技术形象,也推动了氮化镓充电器的普及。",
+     "highlights": [
+      "氮化镓",
+      "技术先锋"
+     ],
+     "tags": [
+      "充电"
+     ]
+    },
+    {
+     "id": "anker-cable",
+     "name": "拉车线数据线",
+     "nameEn": "PowerLine",
+     "type": "数据线",
+     "price": {
+      "min": 30,
+      "max": 150,
+      "label": "零售参考价"
+     },
+     "desc": "安克 PowerLine 系列数据线,定位耐用的日常充电与传输配件。以质量承诺著称,主打上万次弯折不坏的耐久设计,接头与线身材质经过强化,做工扎实可靠。适合作为手机、平板的日常随行线材,也适合车载支架等高频插拔场景。PowerLine 曾是安克在海外市场的口碑起点,被视为数据线耐用性的标杆之一。",
+     "highlights": [
+      "一万次弯折",
+      "质量承诺"
+     ],
+     "tags": [
+      "配件"
+     ]
+    },
+    {
+     "id": "anker-soundcore",
+     "name": "声阔耳机",
+     "nameEn": "Soundcore",
+     "type": "耳机",
+     "price": {
+      "min": 200,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "安克旗下音频子品牌 Soundcore 声阔的耳机产品,定位大众真无线耳机市场。主打主动降噪与音质调校,佩戴设计舒适,续航表现均衡,配色与造型偏年轻化。适合通勤、运动、日常聆听等广泛场景,面向注重性价比的音频消费者。声阔凭借设计与性价比迅速崛起,被视为 TWS 市场的黑马,也是安克从配件拓展到音频的重要布局。",
+     "highlights": [
+      "TWS黑马",
+      "子品牌"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "anker-eufy",
+     "name": "eufy 智能家居",
+     "nameEn": "eufy",
+     "type": "智能家居",
+     "price": {
+      "min": 300,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "安克旗下智能家居品牌 eufy 的系列产品,涵盖扫地机器人、可视门铃与安防摄像头等品类。产品延续安克务实的产品设计思路,注重易用性与稳定性,通过 App 实现家居设备的统一管理与联动。适合希望搭建智能家居的家庭用户,以及有日常安防需求的住户。eufy 是安克从充电配件迈向智能家居的重要品牌,在海外市场表现活跃。",
+     "highlights": [
+      "扫地机",
+      "安防"
+     ],
+     "tags": [
+      "家居"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ugreen",
+   "name": "绿联",
+   "nameEn": "UGREEN",
+   "domain": "ugreen.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2012,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "数据线",
+    "拓展坞",
+    "国民配件"
+   ],
+   "slogan": "U Green, U Great",
+   "desc": "深圳配件大厂:从数据线到拓展坞、NAS,把「转接头生意」做成了上市公司。",
+   "story": "2012年张清森创立,靠为国际品牌代工积累后转型自有品牌。拓展坞、读卡器、氮化镓全线开花,2024年上市。\n「绿联 NAS」私有云是新增长曲线。",
+   "products": [
+    {
+     "id": "ugreen-cable",
+     "name": "数据线",
+     "nameEn": "Cables",
+     "type": "数据线",
+     "price": {
+      "min": 15,
+      "max": 150,
+      "label": "零售参考价"
+     },
+     "desc": "绿联数据线产品,定位大众平价的连接配件,以编织线为国民款代表。编织外皮提升抗拉扯与耐用性,接头做工规范,支持充电与数据传输,覆盖 Lightning、USB-C 等多种接口类型。适合手机、平板等日常设备使用者,也适合需要多根线材备份的家庭与办公场景。绿联凭借这类产品在国内配件市场建立了高性价比的国民品牌口碑。",
+     "highlights": [
+      "编织线",
+      "耐插拔"
+     ],
+     "tags": [
+      "配件"
+     ]
+    },
+    {
+     "id": "ugreen-dock",
+     "name": "拓展坞",
+     "nameEn": "USB-C Dock",
+     "type": "拓展坞",
+     "price": {
+      "min": 100,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "绿联拓展坞产品,是轻薄本用户外接设备的刚需配件。通过一根 USB-C 线集成 HDMI、USB、网口、读卡等多种接口,免去反复插拔,体积紧凑便于随行,做工扎实。适合使用 MacBook、轻薄笔记本的办公人群与创作者,在会议室与桌面工位均能快速扩展。绿联凭此品类切入笔记本用户的核心痛点,成为外接设备的热门选择。",
+     "highlights": [
+      "轻薄本刚需",
+      "外接"
+     ],
+     "tags": [
+      "配件"
+     ]
+    },
+    {
+     "id": "ugreen-nas",
+     "name": "绿联私有云 NAS",
+     "nameEn": "NAS",
+     "type": "NAS",
+     "price": {
+      "min": 1000,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "绿联私有云 NAS,定位家庭云存储的新兴品类。采用面向普通用户的易用系统,支持多盘位存储、自动备份、相册管理与远程访问,开箱配置门槛低,界面友好。适合家庭照片视频备份、个人资料库搭建与小团队文件共享等场景。作为传统配件大厂的新物种,绿联 NAS 以平价易用推动了家庭私有云的普及。",
+     "highlights": [
+      "家庭云",
+      "新物种"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "ugreen-charger",
+     "name": "氮化镓充电器",
+     "nameEn": "GaN Charger",
+     "type": "充电器",
+     "price": {
+      "min": 50,
+      "max": 400,
+      "label": "零售参考价"
+     },
+     "desc": "绿联氮化镓充电器,定位多口大功率的性价比款。利用氮化镓材料压缩体积,提供多 USB-C、USB-A 口同时输出,可为笔记本、手机、耳机等多设备供电,功率智能分配。适合差旅通勤与多设备办公人群,一个充电头替代多个原装头,减少桌面与行囊负担。绿联凭此产品在家用快充市场树立了规格齐全、价格实惠的形象。",
+     "highlights": [
+      "多口大功率",
+      "性价比"
+     ],
+     "tags": [
+      "充电"
+     ]
+    },
+    {
+     "id": "ugreen-audio",
+     "name": "音频配件",
+     "nameEn": "Audio",
+     "type": "耳机",
+     "price": {
+      "min": 50,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "绿联音频配件产品线,涵盖真无线耳机、音频转接头与音频线材等品类。设计延续绿联务实的配件思路,注重兼容性与耐用性,转接头类产品有效解决手机取消耳机孔后的使用痛点。适合日常通勤听歌、有线耳机转接、车载音频与电脑连接等大众场景。作为绿联配件生态的延伸,该线覆盖了更多元的日常音频连接需求。",
+     "highlights": [
+      "TWS",
+      "转接头"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wd",
+   "name": "西部数据",
+   "nameEn": "Western Digital",
+   "domain": "wd.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1970,
+   "hq": "加州圣何塞",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "机械硬盘",
+    "HGST",
+    "存储巨头"
+   ],
+   "slogan": "Storing the world's data",
+   "desc": "1970年创立的存储巨头:紫盘监控、蓝盘家用、黑盘游戏、金盘企业的「颜色体系」深入人心。",
+   "story": "1970年从半导体起家转向硬盘,收购日立存储(HGST)后成为 HDD 双雄之一。旗下闪迪(SanDisk)负责闪存业务(2025年重新拆分独立)。",
+   "products": [
+    {
+     "id": "wd-blue",
+     "name": "蓝盘 HDD",
+     "nameEn": "WD Blue",
+     "type": "机械硬盘",
+     "price": {
+      "min": 300,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "西部数据 WD Blue 蓝盘机械硬盘,定位家用大容量存储的默认选择。采用 SATA 接口与常规转速设计,容量覆盖广泛,运行稳定安静,适合日常读写负载而非高强度持续工作。适合 DIY 装机者用作仓库盘,也适合家庭资料备份与入门 NAS 场景。蓝盘系列是家用机械硬盘市场最具辨识度的产品之一,长期被视为装机的默认答案。",
+     "highlights": [
+      "家用默认",
+      "机械"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "wd-black",
+     "name": "黑盘 SN850X SSD",
+     "nameEn": "WD Black SN850X",
+     "type": "固态硬盘",
+     "price": {
+      "min": 500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "西部数据 WD Black 黑盘 SN850X 固态硬盘,定位 PCIe 4.0 时代的游戏旗舰 SSD。采用高速 NVMe 方案,顺序读写与随机性能处于第一梯队,提供带散热片的版本,并有面向游戏加载的优化模式。适合高端游戏装机、内容创作者与需要高带宽存储的用户。黑盘是西数面向玩家的性能品牌,SN850X 长期位居 PCIe4 SSD 推荐榜前列。",
+     "highlights": [
+      "PCIe4",
+      "游戏旗舰"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "wd-purple",
+     "name": "紫盘",
+     "nameEn": "WD Purple",
+     "type": "监控硬盘",
+     "price": {
+      "min": 400,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "西部数据 WD Purple 紫盘监控硬盘,专为 7×24 小时不间断监控录像场景设计。针对持续写入与多路摄像头并发进行固件优化,注重减少丢帧与长期运行的稳定性,功耗控制面向全年开机使用。适合家庭监控、商铺与园区安防等录像存储场景,可多盘并发部署。紫盘是监控级机械硬盘的代表产品线,也是安防行业的主流之选。",
+     "highlights": [
+      "7×24",
+      "监控专用"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "wd-mybook",
+     "name": "My Book 移动硬盘",
+     "nameEn": "My Book",
+     "type": "移动硬盘",
+     "price": {
+      "min": 600,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "西部数据 My Book 桌面移动硬盘,定位大容量外置备份的经典产品。采用标志性的黑色立式方块造型,内置桌面级机械硬盘,容量可达数 TB 级别,随附备份软件辅助管理。适合家庭照片视频归档、办公资料备份与个人数据仓库场景,放置于书桌长期使用。作为桌面外置盘的常青型号,My Book 是许多人大容量备份认知的起点。",
+     "highlights": [
+      "桌面备份",
+      "黑色方块"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "wd-sandisk",
+     "name": "闪迪 SanDisk",
+     "nameEn": "SanDisk",
+     "type": "闪存",
+     "price": {
+      "min": 50,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "西部数据旗下的闪存品牌闪迪 SanDisk,产品覆盖 U 盘、SD 卡等闪存介质。依托西数的闪存供应链,产品线丰富齐全,从日常 U 盘到高速存储卡均有布局,品质体系成熟稳定。适合摄影、办公、移动数据携带等广泛人群,也是装机与升级的常见选择。西数收购闪迪后组成存储巨头,闪迪至今仍是 U 盘与存储卡领域的一块金字招牌。",
+     "highlights": [
+      "U盘SD卡",
+      "金字招牌"
+     ],
+     "tags": [
+      "存储"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sandisk",
+   "name": "闪迪",
+   "nameEn": "SanDisk",
+   "domain": "sandisk.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1988,
+   "hq": "加州米尔皮塔斯",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "闪存发明",
+    "SD卡",
+    "东芝合资"
+   ],
+   "slogan": "Storage of the future",
+   "desc": "1988年 Eli Harari 发明闪存存储系统的商业化先锋:SD 卡协会的主要缔造者。",
+   "story": "1988年创立,1994年推出 CompactFlash,与东芝合资闪迪。2016年被西数收购,2025年拆分独立上市。\nExtreme 系列是摄影与游戏玩家的标配。",
+   "products": [
+    {
+     "id": "sandisk-extreme",
+     "name": "Extreme SD 卡",
+     "nameEn": "Extreme SDXC",
+     "type": "SD卡",
+     "price": {
+      "min": 80,
+      "max": 1500,
+      "label": "零售参考价"
+     },
+     "desc": "闪迪 Extreme 系列高速 SD 存储卡,定位摄影师的高速存储标配。采用面向高负载写入的设计,支持高速连拍与 4K 视频录制,读取速度可满足专业工作流的素材回传需求,容量档位丰富。适合摄影爱好者、旅行与婚礼摄影师以及视频创作者。Extreme 系列长期出现在相机存储卡推荐清单中,是摄影圈认可度极高的产品线。",
+     "highlights": [
+      "摄影标配",
+      "高速"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "sandisk-cruzer",
+     "name": "U盘 Cruzer",
+     "nameEn": "Ultra USB",
+     "type": "U盘",
+     "price": {
+      "min": 30,
+      "max": 300,
+      "label": "零售参考价"
+     },
+     "desc": "闪迪 Cruzer 系列滑盖 U 盘,定位大众日常数据携带产品。标志性的滑动式设计无需盖帽,单手即可收放接口,小巧便携,即插即用,不惧盖帽丢失。适合学生、办公人群传输课件与文档,也适合日常文件备份与临时数据交换。Cruzer 的滑盖造型深入人心,成为一代人关于 U 盘的国民记忆。",
+     "highlights": [
+      "滑盖",
+      "国民记忆"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "sandisk-ssd",
+     "name": "固态硬盘",
+     "nameEn": "Extreme SSD",
+     "type": "移动固态",
+     "price": {
+      "min": 500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "闪迪 Extreme 移动固态硬盘,定位便携高速存储产品。采用巴掌大的便携造型,容量可达 2TB,以固态方案实现远超传统移动机械硬盘的读写速度,抗跌落设计便于随身携带。适合视频创作者外出剪辑素材、差旅用户携带大容量资料以及游戏玩家外接游戏库。它是移动 SSD 普及浪潮中的代表性产品之一。",
+     "highlights": [
+      "2TB",
+      "移动SSD"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "sandisk-microsd",
+     "name": "MicroSD 卡",
+     "nameEn": "microSD",
+     "type": "TF卡",
+     "price": {
+      "min": 30,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "闪迪 microSD(TF)存储卡,面向手机、掌机等小型设备的扩展存储。提供不同速度等级与容量档位,可兼容任天堂 Switch、手机、行车记录仪与无人机等设备,稳定性与耐用性口碑良好。适合游戏玩家扩充 Switch 存储空间,以及手机用户扩展照片视频容量。在 Switch 与手机用户中,闪迪 TF 卡是最常被推荐的扩展卡选择之一。",
+     "highlights": [
+      "Switch",
+      "扩展卡"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "sandisk-pro",
+     "name": "Pro-Cinema 系列",
+     "nameEn": "Pro-Cinema",
+     "type": "专业存储",
+     "price": {
+      "min": 500,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "闪迪 Pro-Cinema 专业存储系列,面向电影级 RAW 视频的极端写入需求。采用最高速度等级的存储卡方案,可承载专业摄影机的 RAW 视频码流录制,可靠性面向片场高强度连续使用设计。适合电影摄制组、商业广告拍摄与高端视频制作团队。该系列代表闪迪在专业影像存储领域的技术上限,服务于影视工业级工作流。",
+     "highlights": [
+      "电影级",
+      "RAW视频"
+     ],
+     "tags": [
+      "存储"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kingston",
+   "name": "金士顿",
+   "nameEn": "Kingston",
+   "domain": "kingston.com.cn",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1987,
+   "hq": "加州芳泉谷",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "内存条之王",
+    "独立家族",
+    "A100"
+   ],
+   "slogan": "Kingston is memory",
+   "desc": "1987年杜纪川与孙大卫以2000美元创立的内存条之王:全球最大独立内存制造商,私下里人尽皆知的「金老板」。",
+   "story": "1987年在车库创业,靠模组内存爆发,1996年曾给员工发史上最大奖金包。A100 内存与 KC3000 SSD 是装机党默认选项。\nHyperX(现 HyperX 归 HP,Kingston FURY 接棒)曾是电竞内存代名词。",
+   "products": [
+    {
+     "id": "kingston-ddr5",
+     "name": "FURY DDR5 内存",
+     "nameEn": "FURY Beast DDR5",
+     "type": "内存",
+     "price": {
+      "min": 300,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "金士顿 FURY Beast DDR5 内存条,定位装机市场的默认内存选择。作为独立内存大厂的量产产品,兼容性与稳定性经过大量主板平台验证,提供常见频率与容量组合,部分型号支持超频档位,散热马甲设计兼顾稳定与颜值。适合 DIY 装机、游戏主机搭建与日常内存升级的用户。金士顿内存长期出货领先,FURY 是玩家装机的高频之选。",
+     "highlights": [
+      "装机默认",
+      "DDR5"
+     ],
+     "tags": [
+      "内存"
+     ]
+    },
+    {
+     "id": "kingston-ssd",
+     "name": "KC3000 SSD",
+     "nameEn": "KC3000",
+     "type": "固态硬盘",
+     "price": {
+      "min": 500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "金士顿 KC3000 固态硬盘,定位品牌的旗舰 PCIe 4.0 SSD。采用高速 NVMe 方案,持续读写达到 PCIe4 高端水准,配备散热片方案压制高负载发热,并提供多种大容量选项。适合高端装机、游戏加载优化与专业创作中的大文件读写场景。KC3000 是金士顿向高端 SSD 市场亮出的性能王牌,巩固了其在存储领域的旗舰形象。",
+     "highlights": [
+      "旗舰",
+      "PCIe4"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "kingston-usb",
+     "name": "DataTraveler U盘",
+     "nameEn": "DataTraveler",
+     "type": "U盘",
+     "price": {
+      "min": 30,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "金士顿 DataTraveler 系列 U 盘,定位办公场景的默认之选。产品设计朴素可靠,即插即用,覆盖多种接口规格与容量档位,部分型号支持加密保护,满足文件安全需求。适合企业办公文件流转、学生课件携带与日常临时备份,在政企采购中也十分常见。DataTraveler 凭借稳定供货与可靠口碑,成为 U 盘品类长销的默认选项。",
+     "highlights": [
+      "办公默认",
+      "U盘"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "kingston-sd",
+     "name": "Canvas SD卡",
+     "nameEn": "Canvas Plus",
+     "type": "SD卡",
+     "price": {
+      "min": 50,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "金士顿 Canvas Plus 系列存储卡,定位平价实用的 SD 卡产品。覆盖 SD 与 microSD 规格,按速度等级分级,可满足拍照、录像与行车记录等日常读写需求,兼容性广泛。适合相机摄影入门用户、行车记录仪与车机扩容,以及家用监控设备使用。Canvas 系列以平价可靠著称,是相机与车机存储市场中的常见选择。",
+     "highlights": [
+      "相机车机",
+      "平价"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "kingston-server",
+     "name": "服务器内存",
+     "nameEn": "Server Premier",
+     "type": "服务器内存",
+     "price": {
+      "min": 1000,
+      "max": 30000,
+      "label": "采购参考价"
+     },
+     "desc": "金士顿 Server Premier 服务器内存,面向数据中心与服务器市场的批量供应产品。采用严格筛选的颗粒与验证流程,兼容各类服务器平台,以 ECC REG 等服务器规格为主,强调长期稳定供货与批次一致性。适合数据中心、服务器整机厂与系统集成商采购使用。金士顿是全球最大的独立内存制造商,该系列是其企业级业务的支柱。",
+     "highlights": [
+      "数据中心",
+      "bulk供应"
+     ],
+     "tags": [
+      "内存"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "seagate",
+   "name": "希捷",
+   "nameEn": "Seagate",
+   "domain": "seagate.com",
+   "categoryId": "tech",
+   "country": "美国",
+   "founded": 1979,
+   "hq": "爱尔兰都柏林/新加坡",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "5.25英寸始祖",
+    "HAMR",
+    "硬盘双雄"
+   ],
+   "slogan": "Capacity to lead",
+   "desc": "1979年制造出全球第一台5.25英寸硬盘的元老:HAMR 热磁记录技术的先行者,机械硬盘双雄之一。",
+   "story": "1979年 Alan Shugart(IBM 出身)创立,1980年 ST-506 是现代硬盘的祖先。如今的 Exos 与 Barracuda 系列持续堆容量。\n与西数的「机械硬盘战争」是行业大戏。",
+   "products": [
+    {
+     "id": "seagate-barracuda",
+     "name": "酷鱼 Barracuda",
+     "nameEn": "Barracuda",
+     "type": "机械硬盘",
+     "price": {
+      "min": 300,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "希捷 Barracuda 酷鱼机械硬盘,定位家用大容量存储市场。采用 SATA 接口,容量覆盖数 TB 级别,在转速、噪音与功耗之间取得均衡,适合日常读写负载而非持续满负荷工作。适合 DIY 装机的仓库盘、家庭 NAS 与普通资料存储场景。酷鱼是希捷面向消费级市场的经典产品线,与西数蓝盘同为家用机械盘的默认候选。",
+     "highlights": [
+      "家用大容量",
+      "机械"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "seagate-exos",
+     "name": "银河 Exos",
+     "nameEn": "Exos",
+     "type": "企业级硬盘",
+     "price": {
+      "min": 1500,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "希捷 Exos 银河系列企业级机械硬盘,定位数据中心的大容量主力盘。采用企业级设计,容量可达 24TB 以上,支持 7×24 高负载运行与多盘位机柜部署,可靠性指标面向数据中心标准。适合企业存储集群、NAS 发烧友与冷数据仓库等场景。Exos 凭借超大容量与相对实惠的单 TB 成本,也成为个人 NAS 玩家的热门选择。",
+     "highlights": [
+      "数据中心",
+      "24TB+"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "seagate-firecuda",
+     "name": "酷玩 FireCuda",
+     "nameEn": "FireCuda",
+     "type": "固态硬盘",
+     "price": {
+      "min": 500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "希捷 FireCuda 酷玩系列,定位品牌面向游戏玩家的存储产品线。早期以 SSHD 混合硬盘起家,现以 NVMe 与 SATA 固态硬盘为主,高速方案兼顾性能与个性,面向游戏加载与创作场景优化。适合游戏装机、主机扩容与追求加载速度的玩家群体。酷玩是希捷游戏存储的形象担当,与西数黑盘形成针锋相对的竞争格局。",
+     "highlights": [
+      "游戏SSD",
+      "线"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "seagate-expansion",
+     "name": "Expansion 移动硬盘",
+     "nameEn": "Expansion",
+     "type": "移动硬盘",
+     "price": {
+      "min": 400,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "希捷 Expansion 移动硬盘,定位大容量外置备份产品。采用 2.5 英寸便携机械方案与桌面大容量两种形态,即插即用,以低单价提供 TB 级容量,造型简洁低调。适合家庭照片视频备份、办公资料归档与大文件转移等场景。Expansion 是希捷外置盘的基础走量产品,以实惠的大容量成为入门备份盘的热门选择。",
+     "highlights": [
+      "大容量",
+      "外置备份"
+     ],
+     "tags": [
+      "存储"
+     ]
+    },
+    {
+     "id": "seagate-hamr",
+     "name": "HAMR 技术",
+     "nameEn": "HAMR",
+     "type": "前沿技术",
+     "price": {
+      "min": 2000,
+      "max": 20000,
+      "label": "先锋参考价"
+     },
+     "desc": "希捷 HAMR 热磁辅助磁记录技术,定位机械硬盘容量突破的前沿方向。通过激光瞬时加热盘片配合磁头写入,突破传统垂直磁记录的面密度极限,让单盘容量迈向更大层级。面向数据中心与未来超大容量存储市场,承载机械硬盘的下一站。HAMR 是希捷押注的下一代硬盘技术路线,被视为机械硬盘应对 SSD 冲击的关键底牌。",
+     "highlights": [
+      "热磁记录",
+      "下一站"
+     ],
+     "tags": [
+      "技术"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tplink",
+   "name": "普联",
+   "nameEn": "TP-Link",
+   "domain": "tp-link.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1996,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "配件",
+   "tags": [
+    "路由器之王",
+    "全球第一",
+    "华三兄弟"
+   ],
+   "slogan": "Reliably connected",
+   "desc": "1996年赵建军的路由器帝国:全球出货量第一的 Wi-Fi 设备商,「TP-LINK」几乎等于路由器本身。",
+   "story": "1996年兄弟俩在深圳做交换机,2000年代以物美价廉的路由器占领全球市场。Tapo 智能家居、Deco Mesh 与商用 Omada 全面布局。\n如今海外收入占大头,是「低调出海之王」。",
+   "products": [
+    {
+     "id": "tplink-router",
+     "name": "路由器",
+     "nameEn": "Wi-Fi Routers",
+     "type": "路由器",
+     "price": {
+      "min": 100,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "普联 TP-Link 路由器产品线,定位覆盖大众到高端的全家桶布局。产品从入门款到 Wi-Fi 7 旗舰均有覆盖,配备易用的管理界面与 App 远程管理,信号与稳定性经过庞大装机量验证。适合家庭宽带组网、大户型穿墙与游戏低延迟等需求。TP-Link 长期是全球路由器出货量领先的品牌,家用路由几乎绕不开它。",
+     "highlights": [
+      "Wi-Fi7",
+      "全家桶"
+     ],
+     "tags": [
+      "网络"
+     ]
+    },
+    {
+     "id": "tplink-deco",
+     "name": "Deco Mesh",
+     "nameEn": "Deco",
+     "type": "Mesh套装",
+     "price": {
+      "min": 500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "普联 Deco 系列 Mesh 路由套装,定位全屋 Wi-Fi 漫游解决方案。多只节点一键组网,统一网络名称并支持无缝漫游,App 可视化管理,按户型灵活增减节点,外观多为简洁的白色柱状设计。适合大户型、复式与别墅家庭,解决房间角落信号差的痛点。Deco 是消费级 Mesh 市场的高知名度产品线,把全屋漫游带进了普通家庭。",
+     "highlights": [
+      "全屋漫游",
+      "Mesh"
+     ],
+     "tags": [
+      "网络"
+     ]
+    },
+    {
+     "id": "tplink-tapo",
+     "name": "Tapo 智能家居",
+     "nameEn": "Tapo",
+     "type": "智能家居",
+     "price": {
+      "min": 50,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "普联 Tapo 智能家居产品线,涵盖摄像头、智能插座、灯泡等品类。产品通过 Tapo App 统一管理与联动,支持远程查看、定时任务与语音控制等常见智能功能,定价亲民,安装配置简单。适合首次搭建智能家居的家庭,以及租房人群的轻量化智能改造。Tapo 帮助 TP-Link 从网络设备延伸到智能生态,成为其大众 IoT 的门面。",
+     "highlights": [
+      "摄像头插座",
+      "智能生态"
+     ],
+     "tags": [
+      "智能家居"
+     ]
+    },
+    {
+     "id": "tplink-switch",
+     "name": "交换机",
+     "nameEn": "Switches",
+     "type": "交换机",
+     "price": {
+      "min": 100,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "普联交换机产品线,覆盖家用到企业级的完整交换矩阵。产品从 5 口百兆、千兆铁壳交换机到网管型、PoE 供电与企业级型号均有布局,兼顾即插即用与可管理性,价格梯度丰富。适合家庭多设备有线组网、监控供电,以及中小企业与楼宇网络建设。TP-Link 凭借庞大的产品线与供货能力,成为国内交换机市场的常见选择。",
+     "highlights": [
+      "家用企业",
+      "交换矩阵"
+     ],
+     "tags": [
+      "网络"
+     ]
+    },
+    {
+     "id": "tplink-omada",
+     "name": "Omada 商用网络",
+     "nameEn": "Omada",
+     "type": "商用网络",
+     "price": {
+      "min": 500,
+      "max": 50000,
+      "label": "采购参考价"
+     },
+     "desc": "普联 Omada 商用网络解决方案,面向酒店、写字楼等场景的无线组网方案。由企业级 AP、交换机与网关控制器组成,支持统一云端管理与集中配置,实现大面积无缝漫游与认证管理。适合酒店、办公楼、商铺与校园等商用场所部署。Omada 是 TP-Link 从家用品牌走向企业网络市场的重要板块,以高性价比方案见长。",
+     "highlights": [
+      "酒店写字楼",
+      "无线方案"
+     ],
+     "tags": [
+      "网络"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iflytek",
+   "name": "科大讯飞",
+   "nameEn": "iFLYTEK",
+   "domain": "iflytek.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1999,
+   "hq": "合肥",
+   "tier": "大众",
+   "sub": "音频",
+   "tags": [
+    "语音之王",
+    "AI",
+    "学习机"
+   ],
+   "slogan": "让机器能听会说,能理解会思考",
+   "desc": "1999年中科大创业团队打造的语音 AI 王者:从语音识别到星火大模型,教育硬件是现金牛。",
+   "story": "1999年刘庆峰带领中科大学生创业,语音合成连续多年全球第一。翻译机、录音笔、学习机三驾马车。2023年发布星火认知大模型。\n「AI 学习机」成为家长圈的硬通货。",
+   "products": [
+    {
+     "id": "iflytek-translator",
+     "name": "翻译机",
+     "nameEn": "Translator",
+     "type": "翻译机",
+     "price": {
+      "min": 1000,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "科大讯飞翻译机,定位出国场景的贴身翻译设备。依托讯飞语音识别与机器翻译技术,支持多语种互译、离线翻译与拍照翻译等功能,交互面向旅行者做了简单易用的设计。适合出国旅游、跨境商务与语言不通的沟通场景,也常被选作出国礼品。讯飞翻译机是国产翻译硬件的代表性产品,让 AI 翻译真正装进了口袋。",
+     "highlights": [
+      "贴身翻译",
+      "出国"
+     ],
+     "tags": [
+      "AI硬件"
+     ]
+    },
+    {
+     "id": "iflytek-learner",
+     "name": "AI 学习机",
+     "nameEn": "AI Learning Device",
+     "type": "学习机",
+     "price": {
+      "min": 2000,
+      "max": 9000,
+      "label": "零售参考价"
+     },
+     "desc": "科大讯飞 AI 学习机,定位个性化精准学的教育硬件。内置 AI 诊断功能,可分析错题与知识薄弱点并生成针对性练习,覆盖多个学段的同步辅导,家长端可管理使用时长与内容。适合中小学家庭的自学与复习场景,减轻家长辅导负担。学习机是讯飞 AI 技术落地消费市场的重要品类,在国内教育硬件市场占有显著地位。",
+     "highlights": [
+      "个性化",
+      "家长神器"
+     ],
+     "tags": [
+      "AI硬件"
+     ]
+    },
+    {
+     "id": "iflytek-recorder",
+     "name": "智能录音笔",
+     "nameEn": "Smart Recorder",
+     "type": "录音笔",
+     "price": {
+      "min": 500,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "科大讯飞智能录音笔,定位实时转写的办公记录设备。依托讯飞语音识别引擎,录音的同时实时生成文字,支持中英文识别、降噪拾音与长时录音,转写表现在行业中有口皆碑。适合记者采访、会议纪要、课程记录与访谈整理等场景。它是讯飞 AI 转写能力的硬件载体,也是传统录音笔智能化升级的代表产品。",
+     "highlights": [
+      "实时转写",
+      "会议"
+     ],
+     "tags": [
+      "AI硬件"
+     ]
+    },
+    {
+     "id": "iflytek-mouse",
+     "name": "语音鼠标",
+     "nameEn": "Voice Mouse",
+     "type": "鼠标",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "科大讯飞语音鼠标,定位说话即打字的办公输入设备。在普通鼠标形态中集成语音识别能力,按住语音键即可将语音转成文字,支持中英文输入与翻译功能,同时兼顾常规鼠标操作。适合需要大量文字录入的办公人群与写作场景,对打字不便的用户也是友好工具。它是讯飞语音技术在办公外设上的轻量化应用。",
+     "highlights": [
+      "说话打字",
+      "办公"
+     ],
+     "tags": [
+      "AI硬件"
+     ]
+    },
+    {
+     "id": "iflytek-spark",
+     "name": "星火大模型",
+     "nameEn": "Spark LLM",
+     "type": "大模型",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "免费/订阅"
+     },
+     "desc": "科大讯飞星火认知大模型,定位国产大模型第一梯队的 AI 平台。基于讯飞多年的语音与自然语言处理技术积累,提供对话、写作、代码等通用能力,以 App、网页与开放平台等多形态开放,部分能力可免费使用。适合个人问答创作、开发者集成与企业智能化改造。星火是讯飞从语音巨头迈向认知大模型时代的标志性产品。",
+     "highlights": [
+      "国产第一梯队",
+      "认知大模型"
+     ],
+     "tags": [
+      "AI"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "xgimi",
+   "name": "极米",
+   "nameEn": "XGIMI",
+   "domain": "xgimi.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2013,
+   "hq": "成都",
+   "tier": "大众",
+   "sub": "影像",
+   "tags": [
+    "投影之王",
+    "国产投影",
+    "遥控猫"
+   ],
+   "slogan": "让光影改变生活",
+   "desc": "2013年钟波创立的国产投影之王:H系列与 Z 系列常年占据家用投影销量榜首。",
+   "story": "2013年极米科技成立,主打「智能投影」。2018年起登顶中国投影市场并保持至今,海外市场(日本 aladdin 呆板)同步扩张。\n上市后向车载光学与 AR 延伸。",
+   "products": [
+    {
+     "id": "xgimi-hseries",
+     "name": "H 系列",
+     "nameEn": "Horizon Series",
+     "type": "投影仪",
+     "price": {
+      "min": 3000,
+      "max": 8000,
+      "label": "零售参考价"
+     },
+     "desc": "极米 Horizon H 系列投影仪,定位客厅旗舰的家用智能投影。采用自动对焦与自动梯形校正等自动化功能,开机即用,内置智能系统与音响,一体式设计免去吊装布线的繁琐。适合客厅观影、追剧与家庭聚会场景,面向追求大屏体验的普通家庭。H 系列是极米面向客厅场景的代表作,帮助智能投影从小众走向大众客厅。",
+     "highlights": [
+      "客厅旗舰",
+      "自动校正"
+     ],
+     "tags": [
+      "投影"
+     ]
+    },
+    {
+     "id": "xgimi-zseries",
+     "name": "Z 系列",
+     "nameEn": "Z Series",
+     "type": "投影仪",
+     "price": {
+      "min": 2000,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "极米 Z 系列投影仪,定位入门级的爆款家用投影。延续极米自动对焦与梯形校正的易用设计,内置智能系统与音响,体积适中、价格亲民,开机即可投出百吋级大屏。适合租房青年、宿舍使用与首次入手投影的用户,轻松打造随放随看的观影角落。Z 系列是极米的销量主力之一,被视为国产入门智能投影的标杆产品。",
+     "highlights": [
+      "入门爆款",
+      "租房观影"
+     ],
+     "tags": [
+      "投影"
+     ]
+    },
+    {
+     "id": "xgimi-rs",
+     "name": "RS 系列",
+     "nameEn": "RS Series",
+     "type": "高端投影",
+     "price": {
+      "min": 8000,
+      "max": 20000,
+      "label": "零售参考价"
+     },
+     "desc": "极米 RS 系列高端投影,定位品牌画质旗舰。采用 4K 分辨率与双色激光光源,亮度与色域表现面向高要求观影,配备完善的自动化校正功能,做工与散热均按旗舰标准打造。适合对画质敏感的影音爱好者、独立影音室与高端客厅场景。RS 系列承担极米冲击高端影像市场的角色,是国产投影画质路线的旗舰代表。",
+     "highlights": [
+      "4K双色激光",
+      "画质旗舰"
+     ],
+     "tags": [
+      "投影"
+     ]
+    },
+    {
+     "id": "xgimi-aladdin",
+     "name": "Aladdin 阿拉丁",
+     "nameEn": "Aladdin",
+     "type": "吸顶灯投影",
+     "price": {
+      "min": 3000,
+      "max": 10000,
+      "label": "零售参考价"
+     },
+     "desc": "极米 Aladdin 阿拉丁吸顶灯投影,是与日本莫罗公司合作推出的特色品类。将照明灯具与投影仪融合为一体,白天是吸顶灯,夜晚可投出大屏内容,并兼作音响与智能设备,设计面向日式小户型的空间利用。适合没有独立墙面、追求一体化的居家场景,尤其契合日本市场的居住习惯。阿拉丁是极米出海日本市场的标志性合作产品。",
+     "highlights": [
+      "吸顶灯投影",
+      "日本合作"
+     ],
+     "tags": [
+      "投影"
+     ]
+    },
+    {
+     "id": "xgimi-go",
+     "name": "Play 便携投影",
+     "nameEn": "Play Series",
+     "type": "便携投影",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "label": "零售参考价"
+     },
+     "desc": "极米 Play 系列便携投影,定位电池供电的移动观影设备。机身小巧可单手握持,内置电池无需外接电源,自带智能系统与音响,支持自动校正,开机即投。适合露营、户外聚会、卧室床头与出差住宿等场景,面向喜欢随时随地看大屏的年轻人。Play 系列拓宽了投影仪的使用边界,是极米布局便携场景的代表作。",
+     "highlights": [
+      "电池便携",
+      "露营"
+     ],
+     "tags": [
+      "投影"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meizu",
+   "name": "魅族",
+   "nameEn": "MEIZU",
+   "domain": "meizu.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2003,
+   "hq": "珠海",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "MP3传奇",
+    " Flyme",
+    "黄章"
+   ],
+   "slogan": "魅而不俗,易用而行",
+   "desc": "黄章的「偏执工匠」:从 MP3 王者到智能手机先驱,Flyme 是 Android 定制系统的美学标杆。",
+   "story": "2003年黄章在珠海做 MP3(M6 mini player 曾是苹果 nano 的对手),2009年发布国产首款大屏电容屏手机 M8。Flyme 的「设计美学」收获无数粉丝。\n2022年吉利收购,转向 Flyme Auto 车机生态。",
+   "products": [
+    {
+     "id": "meizu-20",
+     "name": "魅族20 系列",
+     "nameEn": "MEIZU 20",
+     "type": "智能手机",
+     "price": {
+      "min": 3000,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "魅族 MEIZU 20 系列智能手机,定位吉利入主魅族时代的直屏旗舰。采用简洁的直屏设计与对称机身语言,搭载旗舰移动平台,系统延续 Flyme 的流畅与美学传统,注重手感与观感的统一。适合追求小众质感、喜欢直屏与纯净系统体验的用户。魅族20 是魅族并入吉利体系后回归大屏旗舰市场的标志之作,承载了众多魅友的期待。",
+     "highlights": [
+      "直屏旗舰",
+      "吉利时代"
+     ],
+     "tags": [
+      "手机"
+     ]
+    },
+    {
+     "id": "meizu-flyme",
+     "name": "Flyme 系统",
+     "nameEn": "Flyme",
+     "type": "操作系统",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "免费"
+     },
+     "desc": "Flyme 是魅族基于 Android 深度定制的手机操作系统,以简洁清新的界面美学与流畅细腻的交互动画著称,在国内定制系统中被视为美学代表。它面向追求设计感与易用体验的用户,内置实用功能与人性化细节。作为魅族产品的灵魂,Flyme 多年积累了一批忠实用户,是国产定制系统发展历程中不可忽视的代表之一。",
+     "highlights": [
+      "美学代表",
+      "定制系统"
+     ],
+     "tags": [
+      "系统"
+     ]
+    },
+    {
+     "id": "meizu-flymeauto",
+     "name": "Flyme Auto 车机",
+     "nameEn": "Flyme Auto",
+     "type": "车机系统",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "随车"
+     },
+     "desc": "Flyme Auto 是魅族推出的智能车机系统,已应用于领克、极氪等品牌车型,被称为这些车型的车机灵魂。它延续 Flyme 的设计语言与交互逻辑,支持手机与座舱生态打通、流畅的多任务界面与语音交互,适合看重智能座舱体验的驾驶者。作为手机厂商进军车机领域的标志性作品,Flyme Auto 是消费电子与汽车产业融合的典型案例。",
+     "highlights": [
+      "领克极氪",
+      "车机灵魂"
+     ],
+     "tags": [
+      "车机"
+     ]
+    },
+    {
+     "id": "meizu-m8",
+     "name": "M8(经典)",
+     "nameEn": "M8",
+     "type": "经典手机",
+     "price": {
+      "min": 200,
+      "max": 2000,
+      "label": "收藏参考价"
+     },
+     "desc": "魅族 M8 是2009年问世的经典智能手机,由魅族在功能机时代自研打造,以流畅的触控体验与紧凑机身著称,是国产智能手机的先驱之作。它面向早期智能手机尝鲜者,承载了国产厂商探索自研系统的精神。作为国产品牌的开山代表,M8 曾被国家博物馆收藏,在数码爱好者心中拥有殿堂级地位,至今仍被收藏圈津津乐道。",
+     "highlights": [
+      "国博收藏",
+      "先驱"
+     ],
+     "tags": [
+      "经典"
+     ]
+    },
+    {
+     "id": "meizu-audio",
+     "name": "魅族 PANDAER",
+     "nameEn": "PANDAER",
+     "type": "配件",
+     "price": {
+      "min": 30,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "PANDAER 是魅族旗下以熊猫 IP 为主题的配件产品线,覆盖充电器、数据线、耳机与音频设备等品类。产品设计融入标志性的熊猫形象与潮流配色,兼顾实用与趣味,适合年轻用户与魅族粉丝日常使用或收藏。凭借高颜值与品牌情怀,PANDAER 已成为国产数码配件中辨识度极高的潮流系列,也是魅族社区文化的重要载体。",
+     "highlights": [
+      "熊猫IP",
+      "充电音频"
+     ],
+     "tags": [
+      "配件"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "redmagic",
+   "name": "红魔",
+   "nameEn": "REDMAGIC",
+   "domain": "redmagic.gg",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2018,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "游戏手机",
+    "风扇",
+    "努比亚系"
+   ],
+   "slogan": "Beyond Game",
+   "desc": "努比亚的游戏手机品牌:内置风扇+肩键,把「散热」做成手机的第一生产力。",
+   "story": "2018年努比亚推出红魔一代,风扇直吹散热成为标志。透明后盖、肩键、大电池与高刷屏,是硬核手游玩家的装备。",
+   "products": [
+    {
+     "id": "redmagic-9",
+     "name": "红魔9 Pro",
+     "nameEn": "9 Pro",
+     "type": "游戏手机",
+     "price": {
+      "min": 4000,
+      "max": 7000,
+      "label": "零售参考价"
+     },
+     "desc": "红魔9 Pro 是红魔推出的年度游戏旗舰手机,采用无挖孔纯直屏设计并内置主动散热风扇,将旗舰性能与高效散热结合,机身还保留肩键等游戏化配置。它面向重度手游玩家与性能党,兼顾日常使用与电竞场景。凭借纯直屏加风扇的独特组合,红魔9 Pro 被视为游戏手机中散热能力与设计完整度的标杆之作。",
+     "highlights": [
+      "纯直屏",
+      "风扇旗舰"
+     ],
+     "tags": [
+      "手机"
+     ]
+    },
+    {
+     "id": "redmagic-tablet",
+     "name": "红魔平板",
+     "nameEn": "Gaming Tablet",
+     "type": "游戏平板",
+     "price": {
+      "min": 2500,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "红魔平板是红魔旗下专注游戏体验的大屏游戏平板,针对手游场景强化散热与性能调度,大尺寸屏幕带来更开阔的视野与操作空间。它适合习惯大屏打手游的玩家以及兼顾影音娱乐的用户。作为少数面向游戏玩家的平板产品,红魔平板填补了高性能散热平板这一细分市场,延续了品牌的电竞基因。",
+     "highlights": [
+      "大屏手游",
+      "散热平板"
+     ],
+     "tags": [
+      "平板"
+     ]
+    },
+    {
+     "id": "redmagic-cooler",
+     "name": "散热背夹",
+     "nameEn": "Cooler",
+     "type": "散热器",
+     "price": {
+      "min": 150,
+      "max": 500,
+      "label": "零售参考价"
+     },
+     "desc": "红魔散热背夹是一款采用半导体制冷技术的手机外接散热器,如同为手机装上空调,可快速压制高负载运行时的机身温度。它通过磁吸或夹持方式固定,适合长时间游戏、直播推流等重度使用场景的玩家。作为游戏外设生态的标志性配件,散热背夹已成为手游玩家对抗降频发热的标配装备。",
+     "highlights": [
+      "半导体",
+      "手机空调"
+     ],
+     "tags": [
+      "配件"
+     ]
+    },
+    {
+     "id": "redmagic-earbuds",
+     "name": "游戏耳机",
+     "nameEn": "Gaming Buds",
+     "type": "耳机",
+     "price": {
+      "min": 200,
+      "max": 800,
+      "label": "零售参考价"
+     },
+     "desc": "红魔游戏耳机是面向电竞场景的低延迟真无线耳机,针对音画同步进行专门优化,减少游戏中的延迟与不同步感,兼顾日常听歌与游戏听声辨位需求。它适合手游玩家与电竞爱好者使用。作为游戏手机生态的音频配套,它延续了红魔在电竞周边领域的专业形象与产品体系。",
+     "highlights": [
+      "低延迟",
+      "TWS"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "redmagic-透明",
+     "name": "透明后盖设计",
+     "nameEn": "Transparent Design",
+     "type": "设计",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "设计加成"
+     },
+     "desc": "透明后盖是红魔游戏手机的标志性设计语言,透过可视化窗口可以直接看到内部散热风扇与结构细节,充满赛博朋克式的机能美学。这种设计兼具科技感与个性表达,适合追求与众不同的游戏玩家与数码爱好者。看得见风扇的透明设计已成为红魔最具辨识度的文化符号,在游戏手机领域独树一帜。",
+     "highlights": [
+      "看得见风扇",
+      "赛博朋克"
+     ],
+     "tags": [
+      "设计"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zte",
+   "name": "中兴",
+   "nameEn": "ZTE",
+   "domain": "zte.com.cn",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 1985,
+   "hq": "深圳",
+   "tier": "大众",
+   "sub": "手机",
+   "tags": [
+    "通信设备",
+    "5G",
+    "Axon"
+   ],
+   "slogan": "Tomorrow is in your hands",
+   "desc": "1985年深圳的通信设备巨头:与华为并称「中华」,5G 基站与 Axon 手机双线。",
+   "story": "1985年侯为贵创立,交换机起家。全球四大通信设备商之一,5G 标准必要专利名列前茅。2018年曾被美国制裁(禁运令),后恢复。\nAxon 系列手机与努比亚互为犄角。",
+   "products": [
+    {
+     "id": "zte-5g",
+     "name": "5G 基站设备",
+     "nameEn": "5G Infrastructure",
+     "type": "通信设备",
+     "price": {
+      "min": 10000,
+      "max": 1000000,
+      "label": "运营商采购"
+     },
+     "desc": "中兴 5G 基站设备是面向全球运营商的通信基础设施,是支撑 5G 网络覆盖与商用的网络基石之一。依托多年通信技术积累,产品服务于全球主流运营商的网络建设,也面向行业专网等应用场景。作为全球主要通信设备商之一,中兴在 5G 标准制定与专利布局中占据重要地位,是通信产业链的关键力量。",
+     "highlights": [
+      "网络基石",
+      "运营商"
+     ],
+     "tags": [
+      "通信"
+     ]
+    },
+    {
+     "id": "zte-axon",
+     "name": "Axon 60 Ultra",
+     "nameEn": "Axon 60 Ultra",
+     "type": "旗舰手机",
+     "price": {
+      "min": 4000,
+      "max": 8000,
+      "label": "零售参考价"
+     },
+     "desc": "Axon 60 Ultra 是中兴 Axon 系列旗舰手机,以屏下摄像头技术为核心卖点,坚持打造无刘海、无挖孔的完整全面屏形态。它适合追求真全面屏观感与商务大气风格的用户。在行业普遍转向挖孔方案后,中兴对屏下摄像技术的长期坚持使其成为这一领域最具代表性的品牌,Axon 60 Ultra 也是其技术决心的集中体现。",
+     "highlights": [
+      "屏下摄像头",
+      "坚持者"
+     ],
+     "tags": [
+      "手机"
+     ]
+    },
+    {
+     "id": "zte-5gbox",
+     "name": "5G CPE",
+     "nameEn": "5G CPE",
+     "type": "随身WiFi",
+     "price": {
+      "min": 500,
+      "max": 3000,
+      "label": "零售参考价"
+     },
+     "desc": "中兴 5G CPE 是一款将 5G 信号转换为全屋 WiFi 覆盖的网络设备,无需布线即可让多台设备共享高速网络,支持随身携带与灵活部署。它适合租房人群、临时办公场所、宽带难以覆盖的区域以及商旅出行场景。凭借运营商级的通信技术底蕴,中兴 CPE 在 5G 随身网络设备领域拥有较高认可度。",
+     "highlights": [
+      "5G变WiFi",
+      "随身"
+     ],
+     "tags": [
+      "网络"
+     ]
+    },
+    {
+     "id": "zte-blade",
+     "name": "Blade 远航系列",
+     "nameEn": "Blade",
+     "type": "入门手机",
+     "price": {
+      "min": 500,
+      "max": 2000,
+      "label": "零售参考价"
+     },
+     "desc": "Blade 远航系列是中兴旗下主打大电池与长续航的入门级手机产品线,以耐用省心、续航扎实为基础定位。它适合预算有限的学生与长辈,以及需要备用机或长效续航保障的用户。作为中兴面向大众市场的常青产品线,Blade 远航以实用主义路线在入门手机市场占据一席之地。",
+     "highlights": [
+      "大电池",
+      "长续航"
+     ],
+     "tags": [
+      "手机"
+     ]
+    },
+    {
+     "id": "zte-spro",
+     "name": "Spro 投影",
+     "nameEn": "Spro",
+     "type": "智能投影",
+     "price": {
+      "min": 2000,
+      "max": 6000,
+      "label": "零售参考价"
+     },
+     "desc": "Spro 是中兴推出的智能微型投影产品,将通信技术与投影显示相结合,内置智能系统可独立联网与播放内容,兼顾家庭观影与移动办公演示等场景。它适合需要便携大屏体验的多元用户。作为通信厂商跨界智能微投的尝试,Spro 体现了中兴在消费终端领域的多元化布局与技术迁移能力。",
+     "highlights": [
+      "智能微投",
+      "尝试"
+     ],
+     "tags": [
+      "投影"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "imoo",
+   "name": "小天才",
+   "nameEn": "imoo",
+   "domain": "xiaotiancai.com",
+   "categoryId": "tech",
+   "country": "中国",
+   "founded": 2015,
+   "hq": "东莞",
+   "tier": "中档",
+   "sub": "配件",
+   "tags": [
+    "儿童手表",
+    "步步高系",
+    "朋友圈"
+   ],
+   "slogan": "小天才,更懂孩子",
+   "desc": "中国儿童电话手表之王:步步高教育电子出品,「碰一碰加好友」构建了小朋友的社交宇宙。",
+   "story": "2015年步步高推出小天才电话手表,精准切中家长(安全)与孩子(社交)的双需求。Z 系列摄像头、定位与支付功能齐全。\n小学门口的硬通货,没有之一。",
+   "products": [
+    {
+     "id": "imoo-zseries",
+     "name": "Z 系列电话手表",
+     "nameEn": "Z Series",
+     "type": "儿童手表",
+     "price": {
+      "min": 1000,
+      "max": 2500,
+      "label": "零售参考价"
+     },
+     "desc": "小天才 Z 系列是旗下定位旗舰的儿童电话手表,支持双摄视频通话与精准定位,家长可随时查看孩子位置并进行清晰的视频沟通。它专为学龄儿童与注重安全看护的家庭设计,是国内儿童手表市场的高端代表作。凭借良好口碑与市场表现,Z 系列被广泛视为儿童电话手表品类的标杆产品。",
+     "highlights": [
+      "双摄视频",
+      "精准定位"
+     ],
+     "tags": [
+      "手表"
+     ]
+    },
+    {
+     "id": "imoo-qseries",
+     "name": "Q 系列基础款",
+     "nameEn": "Q Series",
+     "type": "儿童手表",
+     "price": {
+      "min": 500,
+      "max": 1000,
+      "label": "零售参考价"
+     },
+     "desc": "小天才 Q 系列是品牌的基础款儿童电话手表,聚焦定位与通话两大核心功能,满足家长联系孩子与日常安全看护的基本需求。它面向预算有限或初次使用电话手表的家庭,以简单易用为取向。作为国民级儿童手表产品线的入门担当,Q 系列让电话手表走进更多普通家庭。",
+     "highlights": [
+      "入门",
+      "定位通话"
+     ],
+     "tags": [
+      "手表"
+     ]
+    },
+    {
+     "id": "imoo-pad",
+     "name": "小天才护眼平板",
+     "nameEn": "Kids Tablet",
+     "type": "学习平板",
+     "price": {
+      "min": 2000,
+      "max": 5000,
+      "label": "零售参考价"
+     },
+     "desc": "小天才护眼平板是面向儿童的学习类平板,主打护眼显示与内容管控功能,家长可以管理应用与使用时长,兼顾学习效率与视力保护。它适合学龄儿童家庭的陪伴学习场景。依托小天才在儿童数码领域的品牌积累与渠道优势,该产品延续了品牌对儿童健康使用习惯与内容安全的一贯关注。",
+     "highlights": [
+      "护眼",
+      "内容管控"
+     ],
+     "tags": [
+      "平板"
+     ]
+    },
+    {
+     "id": "imoo-earbuds",
+     "name": "儿童耳机",
+     "nameEn": "Kids Earbuds",
+     "type": "耳机",
+     "price": {
+      "min": 200,
+      "max": 600,
+      "label": "零售参考价"
+     },
+     "desc": "小天才儿童耳机是专为儿童设计的耳机产品,核心卖点在于听力保护,通过限制音量等方式降低长时间佩戴对听力的潜在损伤。它适合上网课、听故事、看学习内容等需要佩戴耳机的儿童使用。作为儿童数码生态的延伸,它体现了小天才围绕儿童健康与安全构建产品体系的思路。",
+     "highlights": [
+      "听力保护",
+      "儿童"
+     ],
+     "tags": [
+      "耳机"
+     ]
+    },
+    {
+     "id": "imoo-friends",
+     "name": "碰一碰社交",
+     "nameEn": "Touch Friends",
+     "type": "社交功能",
+     "price": {
+      "min": 0,
+      "max": 0,
+      "label": "生态"
+     },
+     "desc": "碰一碰是小天才电话手表的特色社交功能,两块手表互相触碰即可互加好友,让孩子在没有智能手机的情况下也能建立自己的社交圈,被形象地称为小朋友的微信。它面向学龄儿童群体,是产品社交属性的核心体现。凭借这一功能,小天才构建起庞大的儿童社交网络,成为其护城河式的招牌体验。",
+     "highlights": [
+      "互碰加好友",
+      "小朋友微信"
+     ],
+     "tags": [
+      "生态"
+     ]
+    }
+   ]
+  }
+ ]
 }

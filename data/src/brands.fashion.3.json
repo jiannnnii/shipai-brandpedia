@@ -1,3082 +1,3082 @@
 {
-  "brands": [
+ "brands": [
+  {
+   "id": "marni",
+   "name": "玛尼",
+   "nameEn": "Marni",
+   "domain": "marni.com",
+   "categoryId": "fashion",
+   "country": "意大利",
+   "founded": 1994,
+   "hq": "米兰",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "印花",
+    "撞色",
+    "皮具",
+    "艺术感"
+   ],
+   "slogan": "",
+   "desc": "意大利设计师品牌,以大胆撞色印花、几何廓形与手工皮具闻名,Trunk 风琴包与 Fussbett 凉鞋是标志性单品,设计充满艺术趣味与实验感。",
+   "story": "Marni 起源于 Castiglioni 家族 1948 年在米兰创立的皮草工坊,1994 年 Consuelo Castiglioni 以家族之名正式创立品牌,凭借拼色皮草、民族风印花与不对称剪裁迅速在意大利时尚圈崭露头角。\n2012 年,品牌被设计师 Renzo Rosso 旗下的 OTB 集团收购,2016 年 Francesco Risso 出任创意总监,带来更天马行空的拼贴美学;如今 Marni 已成为趣味设计与高级工艺结合的代表,门店遍布全球主要城市。",
+   "products": [
     {
-      "id": "marni",
-      "name": "玛尼",
-      "nameEn": "Marni",
-      "domain": "marni.com",
-      "categoryId": "fashion",
-      "country": "意大利",
-      "founded": 1994,
-      "hq": "米兰",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "印花",
-        "撞色",
-        "皮具",
-        "艺术感"
-      ],
-      "slogan": "",
-      "desc": "意大利设计师品牌,以大胆撞色印花、几何廓形与手工皮具闻名,Trunk 风琴包与 Fussbett 凉鞋是标志性单品,设计充满艺术趣味与实验感。",
-      "story": "Marni 起源于 Castiglioni 家族 1948 年在米兰创立的皮草工坊,1994 年 Consuelo Castiglioni 以家族之名正式创立品牌,凭借拼色皮草、民族风印花与不对称剪裁迅速在意大利时尚圈崭露头角。\n2012 年,品牌被设计师 Renzo Rosso 旗下的 OTB 集团收购,2016 年 Francesco Risso 出任创意总监,带来更天马行空的拼贴美学;如今 Marni 已成为趣味设计与高级工艺结合的代表,门店遍布全球主要城市。",
-      "products": [
-        {
-          "id": "marni-trunk",
-          "name": "Trunk 风琴包",
-          "nameEn": "Trunk Bag",
-          "type": "手袋",
-          "price": {
-            "min": 10000,
-            "max": 22000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "2014 年推出的 Trunk 是 Marni 最具代表性的手袋,三片式风琴结构搭配双提手,常见光面小牛皮与拼色设计,兼具复古感与实用性,是品牌辨识度最高的包款。",
-          "highlights": [
-            "风琴结构",
-            "小牛皮",
-            "拼色设计"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        },
-        {
-          "id": "marni-fussbett",
-          "name": "Fussbett 凉鞋",
-          "nameEn": "Fussbett Sandal",
-          "type": "凉鞋",
-          "price": {
-            "min": 3500,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "源自 1990 年代的经典鞋型,厚软木钉床式鞋底提供出色的舒适度,宽版魔术贴与编织带设计,男女同款,是休闲度假场景中的招牌单品。",
-          "highlights": [
-            "软木鞋底",
-            "魔术贴",
-            "男女同款"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "marni-maryjane",
-          "name": "玛丽珍平底鞋",
-          "nameEn": "Mary Jane Flat",
-          "type": "平底鞋",
-          "price": {
-            "min": 4500,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "方头设计搭配横带与低粗跟的玛丽珍鞋型,近年重新走红,鞋型复古而富有建筑感,黑色漆皮与白色版本尤为经典,是品牌人气鞋款。",
-          "highlights": [
-            "方头设计",
-            "复古鞋型",
-            "低粗跟"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "marni-print-shirt",
-          "name": "印花衬衫",
-          "nameEn": "Printed Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 3000,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "Marni 以艺术印花衬衫起家,夸张的色块、手绘感图案与丝质面料相结合,男女装皆有,是秀场与街拍中辨识度最高的品类之一。",
-          "highlights": [
-            "艺术印花",
-            "丝质面料",
-            "色块拼接"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "marni-earrings",
-          "name": "树脂耳环",
-          "nameEn": "Resin Earrings",
-          "type": "耳环",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以亚克力树脂与黄铜为材质,几何造型与撞色设计,大颗宝石感耳环是品牌配饰的代表作,轻便且极具存在感。",
-          "highlights": [
-            "树脂材质",
-            "几何造型",
-            "撞色"
-          ],
-          "tags": [
-            "配饰"
-          ],
-          "image": null
-        },
-        {
-          "id": "marni-market-bag",
-          "name": "Market 编织包",
-          "nameEn": "Market Bag",
-          "type": "手袋",
-          "price": {
-            "min": 2000,
-            "max": 6000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "Marni Market 系列与哥伦比亚工匠合作,以彩色尼龙手工编织成条纹手袋与帽饰,色彩明快、价格亲民,是品牌入门单品的热门选择。",
-          "highlights": [
-            "手工编织",
-            "彩色条纹",
-            "工匠合作"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-trunk",
+     "name": "Trunk 风琴包",
+     "nameEn": "Trunk Bag",
+     "type": "手袋",
+     "price": {
+      "min": 10000,
+      "max": 22000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Trunk 风琴包是玛尼(Marni)最具代表性的手袋,2014年推出,以三片式风琴结构搭配双提手,常见光面小牛皮与拼色设计,兼具复古感与实用性。适合日常通勤与街拍场景,是品牌辨识度最高、人气最稳的招牌包款。",
+     "highlights": [
+      "风琴结构",
+      "小牛皮",
+      "拼色设计"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
     },
     {
-      "id": "brunellocucinelli",
-      "name": "布鲁内罗·库奇内利",
-      "nameEn": "Brunello Cucinelli",
-      "domain": "brunellocucinelli.com",
-      "categoryId": "fashion",
-      "country": "意大利",
-      "founded": 1978,
-      "hq": "索罗梅奥",
-      "tier": "顶奢",
-      "sub": "成衣",
-      "tags": [
-        "羊绒",
-        "静奢",
-        "意式休闲",
-        "手工"
-      ],
-      "slogan": "",
-      "desc": "意大利顶级羊绒品牌,以「人文资本主义」与「静奢」理念著称,主打高定级羊绒针织与意式休闲西装,是低调奢华衣橱的代名词。",
-      "story": "1978 年,布鲁内罗·库奇内利在意大利翁布里亚以染色羊绒起家,随后买下中世纪村庄索罗梅奥并修葺古堡,将工坊设在其中,确立了以人为核心的经营哲学。\n品牌以顶级山羊绒、小山羊皮等珍稀材质闻名,版型松弛而考究,被视为「静奢风」的开创者之一;2012 年在米兰证券交易所上市,如今产品涵盖服装、配饰与家居,在全球拥有众多高端拥趸。",
-      "products": [
-        {
-          "id": "bc-cashmere-sweater",
-          "name": "羊绒圆领针织衫",
-          "nameEn": "Cashmere Sweater",
-          "type": "针织衫",
-          "price": {
-            "min": 8000,
-            "max": 25000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以顶级山羊绒纱线制成,手感蓬松软糯,版型宽松利落,经典的圆领与罗纹细节,是品牌最基础也最具代表性的单品。",
-          "highlights": [
-            "顶级羊绒",
-            "软糯手感",
-            "宽松版型"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        },
-        {
-          "id": "bc-cashmere-coat",
-          "name": "羊绒大衣",
-          "nameEn": "Cashmere Coat",
-          "type": "大衣",
-          "price": {
-            "min": 30000,
-            "max": 90000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "采用双面羊绒或羊绒混纺面料,剪裁松弛流畅,常以大地色与灰色调呈现,兼顾保暖与垂坠感,是冬季衣橱的重磅投资单品。",
-          "highlights": [
-            "双面羊绒",
-            "大地色系",
-            "垂坠感"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "bc-trousers",
-          "name": "休闲西裤",
-          "nameEn": "Casual Trousers",
-          "type": "裤装",
-          "price": {
-            "min": 5000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以松弛有度的锥形或直筒版型著称,常用棉麻混纺与羊毛面料,腰部细节考究,是「老钱风」穿搭中的经典下装。",
-          "highlights": [
-            "锥形版型",
-            "羊毛混纺",
-            "老钱风"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        },
-        {
-          "id": "bc-knit-polo",
-          "name": "针织 Polo 衫",
-          "nameEn": "Knitted Polo",
-          "type": "Polo 衫",
-          "price": {
-            "min": 6000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以细羊绒或丝棉混纺纱线织成,领口与门襟细节精致,兼具正式感与休闲度,是品牌春夏系列的畅销款式。",
-          "highlights": [
-            "羊绒混纺",
-            "精致领口",
-            "春夏畅销"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        },
-        {
-          "id": "bc-cashmere-tshirt",
-          "name": "羊绒 T 恤",
-          "nameEn": "Cashmere T-Shirt",
-          "type": "T 恤",
-          "price": {
-            "min": 3000,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以轻薄羊绒制成的基础款 T 恤,触感细腻,剪裁简约,常与牛仔裤或西裤搭配,是体验品牌质感的好选择。",
-          "highlights": [
-            "轻薄羊绒",
-            "基础款",
-            "入门单品"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "bc-scarf",
-          "name": "羊绒围巾",
-          "nameEn": "Cashmere Scarf",
-          "type": "围巾",
-          "price": {
-            "min": 3000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "采用加厚山羊绒织造,边缘手工收口,颜色以驼色、灰色等自然色调为主,规格宽大,保暖性与光泽感俱佳。",
-          "highlights": [
-            "加厚羊绒",
-            "手工收边",
-            "自然色系"
-          ],
-          "tags": [
-            "配饰"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-fussbett",
+     "name": "Fussbett 凉鞋",
+     "nameEn": "Fussbett Sandal",
+     "type": "凉鞋",
+     "price": {
+      "min": 3500,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Fussbett 凉鞋源自玛尼1990年代的经典鞋型,厚软木钉床式鞋底提供出色的舒适度,宽版魔术贴与编织带设计,男女同款。适合度假与日常休闲场景,是品牌休闲鞋履中的招牌单品,体现其舒适与设计并重的理念。",
+     "highlights": [
+      "软木鞋底",
+      "魔术贴",
+      "男女同款"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
     },
     {
-      "id": "christianlouboutin",
-      "name": "克里斯提·鲁布托",
-      "nameEn": "Christian Louboutin",
-      "domain": "christianlouboutin.com",
-      "categoryId": "fashion",
-      "country": "法国",
-      "founded": 1991,
-      "hq": "巴黎",
-      "tier": "高奢",
-      "sub": "鞋履",
-      "tags": [
-        "红底鞋",
-        "高跟鞋",
-        "性感",
-        "红毯"
-      ],
-      "slogan": "",
-      "desc": "法国奢华鞋履品牌,以标志性的红漆鞋底闻名于世,高跟鞋兼具雕塑感与性感,红底鞋已成为全球红毯的宠儿,也经营手袋、男鞋与美妆。",
-      "story": "克里斯提·鲁布托 1991 年在巴黎创立同名品牌,次年将红色指甲油涂上鞋底的灵感造就了标志性的红底,红色鞋底从此成为品牌的注册商标符号。\n品牌以极致的高跟弧线、铆钉与水钻装饰闻名,深受全球明星与红毯喜爱,此后推出男士系列并进军美妆;如今门店遍布全球,红底鞋已成为奢华性感的代名词。",
-      "products": [
-        {
-          "id": "cl-sokate",
-          "name": "So Kate 高跟鞋",
-          "nameEn": "So Kate Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 7000,
-            "max": 13000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "120 毫米鞋跟搭配极细跟身与尖头造型,线条凌厉性感,是红毯与婚鞋场合的经典之选,黑色漆皮版本最为畅销。",
-          "highlights": [
-            "120mm 细跟",
-            "尖头",
-            "漆皮"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "cl-pigallefollies",
-          "name": "Pigalle Follies 高跟鞋",
-          "nameEn": "Pigalle Follies Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 6500,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "经典 Pigalle 鞋型的升级版本,加深鞋口以拉长腿部线条,100 毫米跟高平衡优雅与舒适,是通勤与晚宴之间的百搭款。",
-          "highlights": [
-            "加深鞋口",
-            "100mm 跟高",
-            "显腿长"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "cl-iriza",
-          "name": "Iriza 半空高跟鞋",
-          "nameEn": "Iriza Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 6500,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "d'Orsay 半镂空结构露出足弓曲线,结合尖头设计,视觉上更显脚型纤细,婚鞋与礼服场景人气极高。",
-          "highlights": [
-            "d'Orsay 剪裁",
-            "显脚瘦",
-            "礼服感"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "cl-kate",
-          "name": "Kate 高跟鞋",
-          "nameEn": "Kate Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 5500,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "85 毫米中跟的尖头红底鞋,重心适中更易驾驭,是品牌入门与通勤场景的热门选择,亦有平底版本可供选择。",
-          "highlights": [
-            "85mm 中跟",
-            "尖头",
-            "入门友好"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "cl-louisjunior",
-          "name": "Louis Junior 男士运动鞋",
-          "nameEn": "Louis Junior Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 5000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "男士系列的代表作,低帮板鞋造型搭配低调品牌字标与鞋底细节,皮质细腻,是明星日常穿搭中的高频单品。",
-          "highlights": [
-            "低帮板鞋",
-            "男士经典",
-            "低调设计"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "cl-lipstick",
-          "name": "Rouge Louboutin 唇膏",
-          "nameEn": "Rouge Louboutin Lipstick",
-          "type": "唇膏",
-          "price": {
-            "min": 700,
-            "max": 1200,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "2014 年推出的美妆线代表作,唇膏管身以黑色漆面与细高跟轮廓设计,致敬品牌鞋履,经典红色号与同名鞋款呼应。",
-          "highlights": [
-            "高跟造型管身",
-            "经典红色",
-            "美妆线"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-maryjane",
+     "name": "玛丽珍平底鞋",
+     "nameEn": "Mary Jane Flat",
+     "type": "平底鞋",
+     "price": {
+      "min": 4500,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "玛尼玛丽珍平底鞋以方头、横带与低粗跟重塑复古鞋型,线条复古而富有建筑感,黑色漆皮与白色版本尤为经典,近年重新走红。适合喜爱复古学院风与设计感鞋型的都市人群,是品牌人气颇高的鞋款。",
+     "highlights": [
+      "方头设计",
+      "复古鞋型",
+      "低粗跟"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
     },
     {
-      "id": "rogervivier",
-      "name": "罗杰·维维亚",
-      "nameEn": "Roger Vivier",
-      "domain": "rogervivier.com",
-      "categoryId": "fashion",
-      "country": "法国",
-      "founded": 1963,
-      "hq": "巴黎",
-      "tier": "高奢",
-      "sub": "鞋履",
-      "tags": [
-        "方扣",
-        "法式优雅",
-        "高跟鞋",
-        "逗号跟"
-      ],
-      "slogan": "",
-      "desc": "法国传奇鞋履品牌,以优雅的金属方扣与弧形「逗号跟」著称,曾为伊丽莎白二世加冕礼制鞋,被誉为巴黎最优雅的鞋,现隶属 Tod's 集团。",
-      "story": "罗杰·维维亚曾长期为迪奥设计鞋履,并参与推广细高跟鞋,1953 年为伊丽莎白二世加冕礼设计金鞋而声名大噪,1963 年创立个人品牌,留下标志性的「逗号跟」与方扣饰扣。\n2003 年,意大利企业家 Diego Della Valle 收购并重启品牌,邀请法国名模 Inès de la Fressange 担任缪斯,以法式优雅风格重新赢得市场,近年 Boîte de Nuit 等手袋也热度攀升。",
-      "products": [
-        {
-          "id": "rv-bellevivier",
-          "name": "Belle Vivier 方扣高跟鞋",
-          "nameEn": "Belle Vivier Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 6500,
-            "max": 11000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌最具代表性的鞋型,方头设计搭配标志性金属方扣与中粗跟,经典跟高优雅易走,是法式风格的教科书单品。",
-          "highlights": [
-            "金属方扣",
-            "方头设计",
-            "中粗跟"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "rv-trompette",
-          "name": "Trompette 尖头高跟鞋",
-          "nameEn": "Trompette Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 7500,
-            "max": 13000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "尖头 d'Orsay 造型搭配品牌标志性的弧形逗号跟,线条流畅优雅,漆皮与绒面版本皆有,是晚宴场合的经典选择。",
-          "highlights": [
-            "逗号跟",
-            "尖头",
-            "d'Orsay"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "rv-icone",
-          "name": "Icône 高跟鞋",
-          "nameEn": "Icône Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 7000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以流线型鞋身搭配放大版方扣,跟高选择丰富,兼顾力量感与女性气质,是近年主推的现代版方扣鞋型。",
-          "highlights": [
-            "放大方扣",
-            "流线鞋身",
-            "多跟高"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "rv-vivrangers",
-          "name": "Viv' Rangers 平底鞋",
-          "nameEn": "Viv' Rangers Flat",
-          "type": "平底鞋",
-          "price": {
-            "min": 5000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "将方扣元素融入乐福鞋与芭蕾平底鞋,鞋型圆润百搭,通勤与休闲皆宜,是品牌入门价位的畅销鞋款。",
-          "highlights": [
-            "方扣元素",
-            "乐福鞋型",
-            "百搭"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "rv-vivrun",
-          "name": "Viv' Run 运动鞋",
-          "nameEn": "Viv' Run Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 5000,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌的运动鞋系列,以复古慢跑鞋造型搭配方扣或钻饰细节,轻盈舒适,将运动风与优雅美学结合。",
-          "highlights": [
-            "复古跑鞋",
-            "方扣细节",
-            "轻盈"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "rv-boitedenuit",
-          "name": "Boîte de Nuit 手袋",
-          "nameEn": "Boîte de Nuit Bag",
-          "type": "手袋",
-          "price": {
-            "min": 14000,
-            "max": 26000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以珠宝盒为灵感的硬盒手袋,金属锁扣与皮质包身,近年因明星街拍走红,小巧精致,是品牌配饰线的新晋招牌。",
-          "highlights": [
-            "珠宝盒设计",
-            "金属锁扣",
-            "明星同款"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-print-shirt",
+     "name": "印花衬衫",
+     "nameEn": "Printed Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 3000,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "印花衬衫是玛尼的起家品类,以夸张色块、手绘感艺术图案与丝质面料相结合,男女装皆有,是秀场与街拍中辨识度最高的品类之一。适合追求艺术气息与个性化穿搭的时髦人群,体现了品牌设计师品牌的艺术基因。",
+     "highlights": [
+      "艺术印花",
+      "丝质面料",
+      "色块拼接"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
     },
     {
-      "id": "jimmychoo",
-      "name": "吉米·周",
-      "nameEn": "Jimmy Choo",
-      "domain": "jimmychoo.com",
-      "categoryId": "fashion",
-      "country": "英国",
-      "founded": 1996,
-      "hq": "伦敦",
-      "tier": "高奢",
-      "sub": "鞋履",
-      "tags": [
-        "晚装鞋",
-        "水钻",
-        "红毯",
-        "英伦"
-      ],
-      "slogan": "",
-      "desc": "英国奢华鞋履品牌,以华丽的水钻装饰与流畅的高跟线条著称,因《欲望都市》等影视作品风靡全球,红毯出席率极高,现属 Capri 集团。",
-      "story": "品牌 1996 年由马来西亚裔鞋匠周仰杰与英国版《Vogue》编辑 Tamara Mellon 在伦敦创立,早年因定制鞋履受到戴安娜王妃青睐。\n2000 年前后随《欲望都市》热播成为全球红毯首选,随后扩展手袋、男鞋与香水业务;2017 年被 Michael Kors 母公司 Capri 集团收购,如今在全球拥有数百家门店,是奢华晚装鞋的代名词之一。",
-      "products": [
-        {
-          "id": "jc-romy",
-          "name": "Romy 高跟鞋",
-          "nameEn": "Romy Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 5000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "圆润鞋头搭配流畅弧线的经典鞋型,提供 60 至 120 毫米多种跟高,漆皮与闪面材质选择丰富,是品牌销量最高的基础款之一。",
-          "highlights": [
-            "圆头设计",
-            "多跟高",
-            "漆皮"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "jc-love",
-          "name": "Love 高跟鞋",
-          "nameEn": "Love Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 5000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以柔软缎面与水钻装饰著称的晚装鞋型,鞋头略方更显优雅,是婚鞋与礼服场景的高人气选择。",
-          "highlights": [
-            "缎面",
-            "水钻装饰",
-            "婚鞋热门"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "jc-anouk",
-          "name": "Anouk 高跟鞋",
-          "nameEn": "Anouk Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 5000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "120 毫米细跟搭配尖锐鞋头,鞋身线条利落,常见亮片与渐变闪面版本,是红毯造型的常客。",
-          "highlights": [
-            "120mm 细跟",
-            "亮片",
-            "红毯"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "jc-diamond",
-          "name": "Diamond 运动鞋",
-          "nameEn": "Diamond Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 4000,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以钻石切面为灵感的几何厚底运动鞋,鞋底与鞋身由多边形拼接,辨识度极高,将晚装美学注入运动鞋设计。",
-          "highlights": [
-            "钻石切面",
-            "几何厚底",
-            "辨识度高"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "jc-varenne",
-          "name": "Varenne 手袋",
-          "nameEn": "Varenne Bag",
-          "type": "手袋",
-          "price": {
-            "min": 7000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以线条硬朗的长方形包身与标志性 JC 金属字母扣为特征,提供手提、肩背等多种形态,是品牌主力包款。",
-          "highlights": [
-            "JC 字母扣",
-            "硬朗包身",
-            "多形态"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        },
-        {
-          "id": "jc-bonbon",
-          "name": "Bon Bon 手袋",
-          "nameEn": "Bon Bon Bag",
-          "type": "手袋",
-          "price": {
-            "min": 6000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以糖果为灵感的小巧手袋,球形或圆饼造型搭配金属链条,常见水晶与珠饰版本,适合晚宴与派对场合。",
-          "highlights": [
-            "糖果灵感",
-            "金属链条",
-            "派对"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-earrings",
+     "name": "树脂耳环",
+     "nameEn": "Resin Earrings",
+     "type": "耳环",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "玛尼树脂耳环以亚克力树脂与黄铜为材质,几何造型搭配大胆撞色,大颗宝石感的耳饰轻便而极具存在感。适合喜欢以夸张配饰点亮造型的时尚人群,是品牌配饰线的代表作,延续其色彩与形状实验的设计语言。",
+     "highlights": [
+      "树脂材质",
+      "几何造型",
+      "撞色"
+     ],
+     "tags": [
+      "配饰"
+     ],
+     "image": null
     },
     {
-      "id": "manoloblahnik",
-      "name": "马诺洛·布拉尼克",
-      "nameEn": "Manolo Blahnik",
-      "domain": "manoloblahnik.com",
-      "categoryId": "fashion",
-      "country": "英国",
-      "founded": 1972,
-      "hq": "伦敦",
-      "tier": "高奢",
-      "sub": "鞋履",
-      "tags": [
-        "高跟鞋",
-        "宝石扣",
-        "缎面",
-        "手工"
-      ],
-      "slogan": "",
-      "desc": "西班牙裔设计师 Manolo Blahnik 在伦敦创立的同名品牌,以雕塑般的高跟曲线与缎面宝石扣闻名,《欲望都市》令其全球闻名,被誉为高跟鞋大师。",
-      "story": "马诺洛·布拉尼克 1970 年代初在伦敦开始制鞋生涯,1972 年为设计师 Ossie Clark 的时装秀设计鞋履而崭露头角,随后开设同名精品店。\n他坚持手工制鞋并亲手绘制设计稿,以拜占庭风宝石扣、缎面材质与优雅鞋跟闻名;《欲望都市》中 Carrie Bradshaw 的追捧令品牌声名更盛,蓝色 Hangisi 更成为婚鞋经典,如今仍是全球顶级鞋履的代表之一。",
-      "products": [
-        {
-          "id": "mb-hangisi",
-          "name": "Hangisi 高跟鞋",
-          "nameEn": "Hangisi Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 8500,
-            "max": 13000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以拜占庭珠宝为灵感的缎面高跟鞋,鞋面缀方形水晶宝扣,《欲望都市》中蓝色款令其成为全球求婚婚鞋的热门,是品牌最著名鞋型。",
-          "highlights": [
-            "水晶宝扣",
-            "缎面",
-            "婚鞋经典"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "mb-bb",
-          "name": "BB 高跟鞋",
-          "nameEn": "BB Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 8000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以女星碧姬·芭铎命名的经典款,尖头细跟搭配鞋侧小方扣,线条简洁优雅,有多种跟高与材质,是日常通勤的热门选择。",
-          "highlights": [
-            "碧姬·芭铎命名",
-            "尖头细跟",
-            "小方扣"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "mb-chaos",
-          "name": "Chaos 高跟鞋",
-          "nameEn": "Chaos Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 8000,
-            "max": 13000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "鞋面装饰两枚错落排布的水晶扣,打破对称设计,名字源于这份「凌乱之美」,是品牌辨识度很高的晚装鞋型。",
-          "highlights": [
-            "双宝扣",
-            "不对称设计",
-            "晚装"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "mb-carolyne",
-          "name": "Carolyne 高跟鞋",
-          "nameEn": "Carolyne Pump",
-          "type": "高跟鞋",
-          "price": {
-            "min": 7500,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "圆头低跟的经典款,鞋面以交叉细带与小扣装饰,跟高舒适易走,是品牌最早成名、历经多年仍是畅销款的鞋型之一。",
-          "highlights": [
-            "圆头低跟",
-            "交叉细带",
-            "畅销经典"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "mb-maysale",
-          "name": "Maysale 便鞋",
-          "nameEn": "Maysale Mule",
-          "type": "便鞋",
-          "price": {
-            "min": 7000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "后空穆勒鞋型搭配单条水晶扣带,穿脱方便且优雅,近年重新翻红,缎面与皮面版本均有,是品牌人气复兴款。",
-          "highlights": [
-            "穆勒鞋型",
-            "水晶扣带",
-            "翻红款"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "mb-sedaraby",
-          "name": "Sedaraby d'Orsay 鞋",
-          "nameEn": "Sedaraby d'Orsay",
-          "type": "高跟鞋",
-          "price": {
-            "min": 8000,
-            "max": 13000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "侧面镂空的 d'Orsay 结构搭配宝扣与水钻装饰,勾勒足部曲线,是红毯与婚礼场合的经典之选。",
-          "highlights": [
-            "d'Orsay 镂空",
-            "宝扣",
-            "红毯"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "stuartweitzman",
-      "name": "斯图尔特·韦茨曼",
-      "nameEn": "Stuart Weitzman",
-      "domain": "stuartweitzman.com",
-      "categoryId": "fashion",
-      "country": "美国",
-      "founded": 1986,
-      "hq": "纽约",
-      "tier": "轻奢",
-      "sub": "鞋履",
-      "tags": [
-        "长靴",
-        "一字带",
-        "美式性感"
-      ],
-      "slogan": "",
-      "desc": "美国奢华鞋履品牌,以过膝长靴与「裸感」一字带高跟鞋闻名,擅长以性感线条修饰腿部比例,广告大片以超模大长腿著称,现属 Caleres 集团。",
-      "story": "斯图尔特·韦茨曼出身制鞋世家,1986 年在美国创立同名品牌,以精良的西班牙工艺与对腿部线条的极致研究著称。\n5050 与 Highland 等过膝靴重新定义了长靴的性感范式,一字带高跟鞋则成为百搭经典;2015 年品牌被 Coach 母公司 Tapestry 收购,2025 年转手给美国鞋履集团 Caleres,长靴与红毯凉鞋依旧是全球明星的心头好。",
-      "products": [
-        {
-          "id": "sw-5050",
-          "name": "5050 长靴",
-          "nameEn": "5050 Boot",
-          "type": "长靴",
-          "price": {
-            "min": 5000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以弹力织物与皮革各占一半而得名「5050」,过膝靴身贴合腿部曲线,穿脱方便,是品牌最经典、销量最高的鞋款。",
-          "highlights": [
-            "弹力织物",
-            "过膝",
-            "经典款"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "sw-highland",
-          "name": "Highland 过膝靴",
-          "nameEn": "Highland Boot",
-          "type": "长靴",
-          "price": {
-            "min": 6000,
-            "max": 11000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "全皮过膝长靴,鞋身以弹力皮革紧贴腿部,视觉上显著拉长腿部比例,是品牌与 5050 并列的招牌靴款。",
-          "highlights": [
-            "全皮弹力",
-            "显瘦",
-            "过膝"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "sw-lowland",
-          "name": "Lowland 过膝靴",
-          "nameEn": "Lowland Boot",
-          "type": "长靴",
-          "price": {
-            "min": 5500,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "比 Highland 更低的鞋跟设计,以平底或低跟呈现的过膝靴,兼顾舒适与显腿长,适合长时间行走的城市穿着。",
-          "highlights": [
-            "低跟舒适",
-            "显腿长",
-            "城市穿着"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "sw-nudistsong",
-          "name": "Nudistsong 一字带高跟鞋",
-          "nameEn": "Nudistsong Sandal",
-          "type": "高跟鞋",
-          "price": {
-            "min": 4000,
-            "max": 7500,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "经典 Nudist 一字带凉鞋的传承款,细一字带与细高跟最大限度露出足背,营造「裸感」,是红毯与日常皆宜的经典凉鞋。",
-          "highlights": [
-            "一字带",
-            "裸感",
-            "细高跟"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "sw-nearlynude",
-          "name": "Nearlynude 一字带高跟鞋",
-          "nameEn": "Nearlynude Sandal",
-          "type": "高跟鞋",
-          "price": {
-            "min": 4000,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以更纤细的鞋跟与简约的一字带设计,呈现轻盈的「近乎赤足」效果,跟高选择丰富,是夏季礼服与日常的热门款。",
-          "highlights": [
-            "细跟",
-            "轻盈",
-            "多跟高"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "rickowens",
-      "name": "瑞克·欧文斯",
-      "nameEn": "Rick Owens",
-      "domain": "rickowens.com",
-      "categoryId": "fashion",
-      "country": "美国",
-      "founded": 1994,
-      "hq": "巴黎",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "暗黑",
-        "解构",
-        "先锋",
-        "廓形"
-      ],
-      "slogan": "",
-      "desc": "美国先锋设计师 Rick Owens 的同名品牌,以暗黑解构美学、廓形皮衣与 Geobasket「火山鞋」闻名,被誉为暗黑时尚之王,工作室设于巴黎。",
-      "story": "瑞克·欧文斯 1994 年在洛杉矶创立品牌,早期以地下女装秀与弹力皮革紧身裙闻名,2002 年转战纽约并随后移师巴黎,逐步确立暗黑先锋的地位。\n他与妻子 Michèle Lamy 携手经营,副线 DRKSHDW 的 Geobasket、Ramones 等鞋款成为潮人标配,Kanye West 等明星的青睐令其破圈;如今品牌还延伸至家具与出版,形成完整的暗黑美学体系。",
-      "products": [
-        {
-          "id": "ro-geobasket",
-          "name": "Geobasket 高帮运动鞋",
-          "nameEn": "Geobasket Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 5000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌最具辨识度的鞋款,加大加长的鞋头与夸张的弧形轮廓被戏称「火山鞋」,小牛皮材质经做旧处理,是暗黑风格穿搭的标配。",
-          "highlights": [
-            "夸张轮廓",
-            "做旧皮面",
-            "暗黑标配"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "ro-ramones",
-          "name": "Ramones 低帮运动鞋",
-          "nameEn": "Ramones Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 3500,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以朋克乐队 Ramones 命名的低帮鞋款,鞋头同样前伸拉长,绒面与皮面拼接,价格相对亲民,是入门品牌的首选鞋型。",
-          "highlights": [
-            "朋克致敬",
-            "低帮",
-            "入门款"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "ro-bikerjacket",
-          "name": "机车皮夹克",
-          "nameEn": "Biker Jacket",
-          "type": "皮衣",
-          "price": {
-            "min": 15000,
-            "max": 35000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以宽大落肩与不对称门襟重塑机车夹克,小牛皮经手工鞣制呈现独特光泽,是品牌秀场与衣橱中的重磅单品。",
-          "highlights": [
-            "落肩廓形",
-            "小牛皮",
-            "重磅单品"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "ro-pods",
-          "name": "Pods 收口裤",
-          "nameEn": "Pods Pants",
-          "type": "裤装",
-          "price": {
-            "min": 4000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "裤腿如豆荚般蓬松收口的标志性裤型,弹力面料便于活动,搭配厚底鞋形成品牌标志性的比例感。",
-          "highlights": [
-            "豆荚廓形",
-            "弹力面料",
-            "标志性"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        },
-        {
-          "id": "ro-drkshdw",
-          "name": "DRKSHDW 副线",
-          "nameEn": "DRKSHDW",
-          "type": "服装副线",
-          "price": {
-            "min": 1000,
-            "max": 5000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "2005 年推出的年轻副线,价格更亲民,延续暗黑美学,以基础卫衣、长袖与牛仔裤为主,是品牌受众最广的产品线。",
-          "highlights": [
-            "年轻副线",
-            "暗黑美学",
-            "受众最广"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "thombrowne",
-      "name": "桑姆·布郎尼",
-      "nameEn": "Thom Browne",
-      "domain": "thombrowne.com",
-      "categoryId": "fashion",
-      "country": "美国",
-      "founded": 2001,
-      "hq": "纽约",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "四道杠",
-        "灰色西装",
-        "美式",
-        "学院风"
-      ],
-      "slogan": "",
-      "desc": "美国设计师品牌,以灰色西装、四道杠标识与超短裤等反常规剪裁著称,重新定义了美式西装的玩味与正式感,现由 Zegna 集团控股。",
-      "story": "桑姆·布郎尼 2001 年在纽约以定制西装起家,2003 年登上纽约时装周,以缩小一码的西装与红白蓝四道杠织带建立了极强的品牌符号。\n2018 年 Zegna 集团入股控股,品牌扩展至女装、童装与眼镜等品类;标志性的灰色西装、四道杠开衫与 Hector 大象包在全球时尚圈拥有极高辨识度,亦是美国 CFDA 大奖的常客。",
-      "products": [
-        {
-          "id": "tb-hoodie",
-          "name": "四道杠连帽卫衣",
-          "nameEn": "4-Bar Hoodie",
-          "type": "连帽卫衣",
-          "price": {
-            "min": 6000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "胸前或手臂绣有品牌标志性的四道白杠,以重磅棉质毛圈布制成,版型方正偏短,是品牌最具辨识度的休闲单品。",
-          "highlights": [
-            "四道杠",
-            "重磅毛圈",
-            "方正版型"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "tb-suit",
-          "name": "经典灰色西装",
-          "nameEn": "Classic Grey Suit",
-          "type": "西装",
-          "price": {
-            "min": 18000,
-            "max": 35000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌立身之作,中等灰色斜纹面料搭配缩短的衣长与窄肩设计,裤装露出脚踝,颠覆传统西装比例,是设计师西装的教科书。",
-          "highlights": [
-            "设计师剪裁",
-            "中灰斜纹",
-            "露踝裤"
-          ],
-          "tags": [
-            "西装"
-          ],
-          "image": null
-        },
-        {
-          "id": "tb-cardigan",
-          "name": "四道杠针织开衫",
-          "nameEn": "4-Bar Cardigan",
-          "type": "开衫",
-          "price": {
-            "min": 6000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以美利奴羊毛或马海毛织成,前襟与袖口点缀四道杠织带,学院气质浓厚,是秋冬叠穿的人气单品。",
-          "highlights": [
-            "美利奴羊毛",
-            "四道杠织带",
-            "学院风"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        },
-        {
-          "id": "tb-trousers",
-          "name": "灰色西裤",
-          "nameEn": "Grey Trousers",
-          "type": "裤装",
-          "price": {
-            "min": 4500,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "与西装同源的灰色西裤,裤线笔挺、腰头偏高,裤脚微露脚踝,常配织带乐福鞋,是品牌男装日装的核心单品。",
-          "highlights": [
-            "笔挺裤线",
-            "高腰",
-            "日装核心"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        },
-        {
-          "id": "tb-shorts",
-          "name": "四道杠短裤",
-          "nameEn": "4-Bar Shorts",
-          "type": "短裤",
-          "price": {
-            "min": 3000,
-            "max": 5000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以泡泡纱与法兰绒等面料制成的及膝以上短裤,侧边或后袋点缀四道杠,是品牌夏季最具话题度的单品。",
-          "highlights": [
-            "泡泡纱",
-            "及膝短裤",
-            "话题单品"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "tb-hectorbag",
-          "name": "Hector 大象包",
-          "nameEn": "Hector Bag",
-          "type": "手袋",
-          "price": {
-            "min": 8000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以设计师爱犬 Hector 命名的动物造型包袋,大象轮廓搭配皮革细节,趣味十足,是品牌配饰线的明星产品。",
-          "highlights": [
-            "大象造型",
-            "皮革细节",
-            "明星产品"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "isseymiyake",
-      "name": "三宅一生",
-      "nameEn": "ISSEY MIYAKE",
-      "domain": "isseymiyake.com",
-      "categoryId": "fashion",
-      "country": "日本",
-      "founded": 1970,
-      "hq": "东京",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "褶皱",
-        "一块布",
-        "日本设计",
-        "实验性"
-      ],
-      "slogan": "",
-      "desc": "日本传奇设计师三宅一生创立的品牌,以「一块布」哲学与 Pleats Please 褶皱工艺闻名于世,融合东方美学与现代剪裁,是日本时尚走向世界的代表。",
-      "story": "三宅一生 1970 年在东京成立设计工作室,1980 年代以立体剪裁与「一块布」理念震惊巴黎时装界,与山本耀司、川久保玲一同改写了西方对东方设计的认知。\n1993 年推出的 Pleats Please 褶皱系列与 2000 年问世的 BAO BAO 格纹手袋成为现象级单品;2022 年三宅一生离世后,设计团队延续其实验精神,品牌现拥有多个副线与 Homme Plissé 男装系列。",
-      "products": [
-        {
-          "id": "im-pleatsplease",
-          "name": "Pleats Please 褶皱系列",
-          "nameEn": "Pleats Please",
-          "type": "女装系列",
-          "price": {
-            "min": 3000,
-            "max": 9000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "1993 年问世的经典褶皱线,聚酯面料经热压定型后可自由舒展,轻便抗皱、易于收纳,连衣裙与阔腿裤是最热门的品类。",
-          "highlights": [
-            "热压褶皱",
-            "轻便抗皱",
-            "经典系列"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-baobao",
-          "name": "BAO BAO 格纹手袋",
-          "nameEn": "BAO BAO Bag",
-          "type": "手袋",
-          "price": {
-            "min": 2000,
-            "max": 6000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以几何三角形片材拼接的网状手袋,随内容物改变而呈现流动廓形,Prism 系列托特包是全球爆款,色彩选择极为丰富。",
-          "highlights": [
-            "三角片拼接",
-            "流动廓形",
-            "爆款托特"
-          ],
-          "tags": [
-            "手袋"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-hommeplisse",
-          "name": "Homme Plissé 男装褶皱",
-          "nameEn": "Homme Plissé",
-          "type": "男装系列",
-          "price": {
-            "min": 3000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "2013 年推出的男装褶皱线,轻若无物的褶皱夹克与裤装兼具正式感与舒适度,近年成为年轻男士通勤与旅行的高人气选择。",
-          "highlights": [
-            "轻盈褶皱",
-            "通勤",
-            "2013 年推出"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-me",
-          "name": "me ISSEY MIYAKE",
-          "nameEn": "me ISSEY MIYAKE",
-          "type": "女装系列",
-          "price": {
-            "min": 2000,
-            "max": 6000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "定位年轻的女装副线,以日常褶皱与弹性面料为主,价格较主线亲民,设计简洁实用,是入门品牌的理想选择。",
-          "highlights": [
-            "年轻定位",
-            "日常褶皱",
-            "入门友好"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-1325",
-          "name": "132 5. 系列",
-          "nameEn": "132 5.",
-          "type": "女装系列",
-          "price": {
-            "min": 4000,
-            "max": 12000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以折纸为灵感的实验系列,单件衣物可从平面几何折叠而成,回收聚酯面料体现可持续理念,兼具艺术性与穿着性。",
-          "highlights": [
-            "折纸灵感",
-            "可持续",
-            "实验性"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "im-mainline",
-          "name": "ISSEY MIYAKE 主线",
-          "nameEn": "ISSEY MIYAKE",
-          "type": "女装系列",
-          "price": {
-            "min": 8000,
-            "max": 40000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌核心系列,延续立体剪裁与新材料实验,每季以织物研究为主题,廓形前卫而实穿,代表日本设计的最高水准之一。",
-          "highlights": [
-            "立体剪裁",
-            "新材料",
-            "秀场主线"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "cmdesgarcons",
-      "name": "川久保玲",
-      "nameEn": "Comme des Garçons",
-      "domain": "commedesgarcons.com",
-      "categoryId": "fashion",
-      "country": "日本",
-      "founded": 1969,
-      "hq": "东京",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "先锋",
-        "黑色",
-        "解构",
-        "PLAY"
-      ],
-      "slogan": "",
-      "desc": "川久保玲创立的日本传奇设计品牌,1981 年巴黎首秀以「黑色破坏」震撼时装界,主线坚持先锋实验,PLAY 心形线与香水则让品牌走向大众。",
-      "story": "川久保玲 1969 年在东京创立品牌,1981 年与山本耀司同场在巴黎发布,宽大的黑色廓形与「破洞」设计颠覆了西方审美,被视为日本新浪潮时装的开端。\n品牌此后不断扩张,2002 年推出 Filip Pagowski 设计的 PLAY 心形标志,与匡威等联名风靡全球;2004 年开创买手店 Dover Street Market,如今主线与十余条副线并行,仍是先锋时尚的旗帜。",
-      "products": [
-        {
-          "id": "cdg-play",
-          "name": "PLAY 心形系列",
-          "nameEn": "CDG PLAY",
-          "type": "T恤/卫衣",
-          "price": {
-            "min": 700,
-            "max": 2500,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以波兰插画师 Filip Pagowski 设计的红心大眼睛图案为标志,T 恤与卫衣是最受欢迎的单品,让先锋品牌拥有了大众人气。",
-          "highlights": [
-            "红心 logo",
-            "人气单品",
-            "联名常客"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cdg-mainline",
-          "name": "主线成衣",
-          "nameEn": "Comme des Garçons",
-          "type": "女装系列",
-          "price": {
-            "min": 6000,
-            "max": 40000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌核心女装系列,以解构、不对称与实验性廓形著称,每季概念强烈,是巴黎时装周最受关注的发布之一。",
-          "highlights": [
-            "解构",
-            "实验廓形",
-            "巴黎主秀"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cdg-hommeplus",
-          "name": "Homme Plus 男装",
-          "nameEn": "Homme Plus",
-          "type": "男装系列",
-          "price": {
-            "min": 5000,
-            "max": 30000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌男装主线,以打破常规的西装剪裁与材质拼接闻名,延续品牌先锋语言,是男装周的高光系列。",
-          "highlights": [
-            "男装主线",
-            "西装解构",
-            "材质拼接"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cdg-shirt",
-          "name": "SHIRT 系列",
-          "nameEn": "CDG SHIRT",
-          "type": "衬衫",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "专注衬衫品类的副线,以波点、条纹与打破常规的印花图案为特色,面料与版型考究,是品牌价格与设计平衡的日常线。",
-          "highlights": [
-            "印花图案",
-            "版型考究",
-            "日常线"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cdg-parfums",
-          "name": "香水系列",
-          "nameEn": "CDG Parfums",
-          "type": "香水",
-          "price": {
-            "min": 600,
-            "max": 1600,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "1994 年起推出的香氛线,Odeur 53、Wonderwood 等以工业与木质元素入香,概念前卫,瓶身设计亦具收藏价值。",
-          "highlights": [
-            "概念香",
-            "Odeur 53",
-            "瓶身设计"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "cdg-converse",
-          "name": "匡威联名帆布鞋",
-          "nameEn": "CDG x Converse",
-          "type": "帆布鞋",
-          "price": {
-            "min": 700,
-            "max": 1300,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "与匡威的长期联名合作,以 PLAY 红心点缀 Chuck Taylor 帆布鞋,是入门品牌最平价的方式,常年保持高热度。",
-          "highlights": [
-            "红心点缀",
-            "Chuck Taylor",
-            "高热度"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "yohjiyamamoto",
-      "name": "山本耀司",
-      "nameEn": "Yohji Yamamoto",
-      "domain": "yohjiyamamoto.co.jp",
-      "categoryId": "fashion",
-      "country": "日本",
-      "founded": 1972,
-      "hq": "东京",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "黑色",
-        "解构",
-        "不对称",
-        "Y-3"
-      ],
-      "slogan": "",
-      "desc": "山本耀司的同名品牌,以黑色、不对称与解构剪裁定义了「反时尚」美学,主线与 Y's、Y-3 等副线并行,是日本设计师品牌的世界级代表。",
-      "story": "山本耀司 1972 年创立公司并推出女装线 Y's,1981 年与川久保玲同场登陆巴黎,宽松的黑色设计与暧昧的性别表达震撼西方时装界。\n此后品牌陆续推出男装主线 Pour Homme 与潮流副线 Ground Y;2002 年与阿迪达斯达成合作推出运动系列 Y-3,开创高级时装与运动品牌联名的先河;如今品牌仍由山本耀司主理,黑色哲学影响深远。",
-      "products": [
-        {
-          "id": "yy-mainline",
-          "name": "主线女装",
-          "nameEn": "Yohji Yamamoto",
-          "type": "女装系列",
-          "price": {
-            "min": 8000,
-            "max": 50000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌核心女装系列,以垂坠的黑色廓形、不对称下摆与精湛剪裁著称,面料肌理丰富,是暗黑美学的最高表达。",
-          "highlights": [
-            "黑色廓形",
-            "不对称",
-            "垂坠感"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "yy-pourhomme",
-          "name": "Pour Homme 男装",
-          "nameEn": "Yohji Yamamoto Pour Homme",
-          "type": "男装系列",
-          "price": {
-            "min": 6000,
-            "max": 40000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌男装主线,以宽肩长身的外套、层叠穿法与文字刺绣为特色,融合裁缝工艺与街头气质,深受全球时装爱好者追捧。",
-          "highlights": [
-            "宽肩廓形",
-            "文字刺绣",
-            "裁缝工艺"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "yy-ys",
-          "name": "Y's 副线",
-          "nameEn": "Y's",
-          "type": "女装系列",
-          "price": {
-            "min": 3000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "1972 年诞生的品牌首个系列,延续黑色美学但更日常实穿,价格较主线亲民,是体验品牌剪裁功力的入门之选。",
-          "highlights": [
-            "1972 年诞生",
-            "日常实穿",
-            "入门之选"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "yy-y3",
-          "name": "Y-3 运动系列",
-          "nameEn": "Y-3",
-          "type": "运动系列",
-          "price": {
-            "min": 1000,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "与阿迪达斯合作的运动时装线,以 Y-3 字标与黑色科技面料为标志,运动鞋与外套人气最高,是高端运动风格的代表。",
-          "highlights": [
-            "阿迪达斯合作",
-            "黑色科技面料",
-            "运动鞋热门"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "yy-groundy",
-          "name": "Ground Y",
-          "nameEn": "Ground Y",
-          "type": "潮流副线",
-          "price": {
-            "min": 1500,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "面向年轻客群的潮流副线,以街头文化为灵感,标志性 Y 字标卫衣与廓形外套价格友好,是品牌年轻化的重要一环。",
-          "highlights": [
-            "Y 字标",
-            "年轻客群",
-            "价格友好"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "paulsmith",
-      "name": "保罗·史密斯",
-      "nameEn": "Paul Smith",
-      "domain": "paulsmith.com",
-      "categoryId": "fashion",
-      "country": "英国",
-      "founded": 1970,
-      "hq": "伦敦",
-      "tier": "轻奢",
-      "sub": "设计师",
-      "tags": [
-        "英伦",
-        "彩条",
-        "趣味",
-        "剪裁"
-      ],
-      "slogan": "",
-      "desc": "英国设计师保罗·史密斯的同名品牌,以标志性的彩色 Artist Stripe 条纹与「经典中带一点趣味」的英式剪裁闻名,产品涵盖男女装、皮具与家居。",
-      "story": "保罗·史密斯原是一名自行车运动员,17 岁因车祸住院期间结识时尚圈友人,1970 年在故乡诺丁汉开设首家小店,1976 年推出首个男装系列。\n品牌以英伦剪裁融合流行文化与艺术趣味,标志性彩条出现在针织、钱包与袜子上,广受全球都市人群喜爱;伦敦梅菲尔的旗舰店与摄影展览也成为城市文化地标,是英国设计输出的代表之一。",
-      "products": [
-        {
-          "id": "ps-stripe-knit",
-          "name": "Artist Stripe 彩条针织",
-          "nameEn": "Artist Stripe Knitwear",
-          "type": "针织衫",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以品牌标志性的多色条纹织成,出现于毛衣、围巾与 T 恤上,是辨识度最高的品牌符号,英伦趣味十足。",
-          "highlights": [
-            "标志彩条",
-            "多色织造",
-            "品牌符号"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "ps-wallet",
-          "name": "彩条钱包",
-          "nameEn": "Stripe Wallet",
-          "type": "皮具",
-          "price": {
-            "min": 900,
-            "max": 2500,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以平滑牛皮制成,翻开内衬或边缘饰以彩条,轻便实用,是男士入门品牌最经典的礼物单品。",
-          "highlights": [
-            "牛皮",
-            "彩条内衬",
-            "送礼经典"
-          ],
-          "tags": [
-            "配饰"
-          ],
-          "image": null
-        },
-        {
-          "id": "ps-suit",
-          "name": "主线西装",
-          "nameEn": "Paul Smith Suit",
-          "type": "西装",
-          "price": {
-            "min": 8000,
-            "max": 20000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以英式剪裁为底,内衬常印有意趣图案或彩条,修身而不过分紧绷,是商务与场合着装中带个性的选择。",
-          "highlights": [
-            "英式剪裁",
-            "趣味内衬",
-            "修身"
-          ],
-          "tags": [
-            "西装"
-          ],
-          "image": null
-        },
-        {
-          "id": "ps-psline",
-          "name": "PS Paul Smith",
-          "nameEn": "PS Paul Smith",
-          "type": "休闲成衣",
-          "price": {
-            "min": 800,
-            "max": 3000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "面向年轻客群的副线,以轻松的休闲西装、T 恤与衬衫为主,价格更亲民,设计保留品牌的彩条与趣味细节。",
-          "highlights": [
-            "年轻副线",
-            "价格亲民",
-            "彩条细节"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "ps-shirt",
-          "name": "男士衬衫",
-          "nameEn": "Men's Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 1200,
-            "max": 3000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以埃及棉等优质面料制成,版型利落,袖口内衬与彩条撞色是隐藏彩蛋,是品牌销量最稳定的品类之一。",
-          "highlights": [
-            "埃及棉",
-            "撞色内衬",
-            "稳定畅销"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "ps-socks",
-          "name": "条纹袜子",
-          "nameEn": "Stripe Socks",
-          "type": "袜子",
-          "price": {
-            "min": 100,
-            "max": 300,
-            "currency": "CNY",
-            "label": "零售参考价"
-          },
-          "desc": "以彩条与波点图案为特色的小件配饰,棉质舒适,价格低廉,是全球门店最受欢迎的入门单品之一。",
-          "highlights": [
-            "彩条图案",
-            "棉质",
-            "入门单品"
-          ],
-          "tags": [
-            "配饰"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "jeanpaulgaultier",
-      "name": "高缇耶",
-      "nameEn": "Jean Paul Gaultier",
-      "domain": "jeanpaulgaultier.com",
-      "categoryId": "fashion",
-      "country": "法国",
-      "founded": 1982,
-      "hq": "巴黎",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "胸衣",
-        "香水",
-        "戏谑",
-        "法式"
-      ],
-      "slogan": "",
-      "desc": "法国「时尚顽童」让·保罗·高缇耶的同名品牌,以锥形胸衣、海魂衫与性别模糊设计著称,香水 Le Male 与 Classique 是全球畅销经典。",
-      "story": "让·保罗·高缇耶 1976 年发表首个个人系列,1982 年正式创立品牌,以大胆戏谑的风格被称为「时尚坏孩子」;1990 年为麦当娜设计的锥形胸衣成为流行文化的符号。\n1993 年推出的 Classique 与 1995 年的 Le Male 以躯干瓶身风靡全球;品牌成衣线于 2015 年停摆,转向高级定制与香水业务,香水现归 Puig 集团旗下,高定秀仍是巴黎日程中最具表演性的场次之一。",
-      "products": [
-        {
-          "id": "jpg-lemale",
-          "name": "Le Male 男士香水",
-          "nameEn": "Le Male",
-          "type": "香水",
-          "price": {
-            "min": 500,
-            "max": 1300,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "1995 年推出的经典男香,以薰衣草与香草的组合造就性感东方调,水手服造型的躯干瓶身辨识度极高,是全球销量最高的男香之一。",
-          "highlights": [
-            "躯干瓶身",
-            "东方调",
-            "畅销经典"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "jpg-classique",
-          "name": "Classique 女士香水",
-          "nameEn": "Classique",
-          "type": "香水",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "1993 年问世的品牌首支香水,以橙花与香草构成性感花香调,锥形胸衣瓶身致敬品牌符号,是 90 年代的标志性女香。",
-          "highlights": [
-            "胸衣瓶身",
-            "花香调",
-            "90 年代经典"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "jpg-scandal",
-          "name": "Scandal 香水",
-          "nameEn": "Scandal",
-          "type": "香水",
-          "price": {
-            "min": 600,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "2017 年推出的现代爆款,以蜂蜜与广藿香构成甜美浓郁的香气,瓶身雕塑般的腿部造型颇具话题性,是近年品牌香水线的销量担当。",
-          "highlights": [
-            "蜂蜜香调",
-            "腿部瓶身",
-            "现代爆款"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "jpg-labelle",
-          "name": "La Belle 香水",
-          "nameEn": "La Belle",
-          "type": "香水",
-          "price": {
-            "min": 600,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以梨子与琥珀构成甜美果香调,裸色躯干瓶身延续品牌符号,定位性感迷人的现代女性,是品牌香水矩阵中的甜美担当。",
-          "highlights": [
-            "果香调",
-            "琥珀",
-            "甜美"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "jpg-couture",
-          "name": "高级定制系列",
-          "nameEn": "Haute Couture",
-          "type": "高级定制",
-          "price": {
-            "min": 200000,
-            "max": 1000000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "成衣停摆后品牌的核心业务,锥形胸衣与解构礼服是标志符号,每件均按客定制、需赴巴黎工坊预约,延续法式高定的戏剧传统。",
-          "highlights": [
-            "锥形胸衣",
-            "按件定制",
-            "巴黎工坊"
-          ],
-          "tags": [
-            "高定"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "philippplein",
-      "name": "菲利普·普莱因",
-      "nameEn": "Philipp Plein",
-      "domain": "philippplein.com",
-      "categoryId": "fashion",
-      "country": "德国",
-      "founded": 1998,
-      "hq": "卢加诺",
-      "tier": "高奢",
-      "sub": "设计师",
-      "tags": [
-        "水钻",
-        "骷髅",
-        "潮奢",
-        "夸张"
-      ],
-      "slogan": "",
-      "desc": "德国设计师 Philipp Plein 创立的同名品牌,以骷髅图案、水钻铆钉与夸张 logo 著称,风格张扬浮夸,深受夜店文化与明星潮人喜爱,总部位于瑞士。",
-      "story": "菲利普·普莱因 1998 年在德国慕尼黑创立品牌,以水钻骷髅、大幅 logo 与黑色机车元素迅速打开市场,张扬的设计在年轻客群中广受欢迎。\n品牌以巨星助阵的盛大秀场著称,先后邀请知名歌手在米兰与纽约时装周献演;现于瑞士运营,产品覆盖男女装、童装、腕表与家居,门店遍布欧洲与中东旅游购物区,是「潮奢」路线的代表。",
-      "products": [
-        {
-          "id": "pp-skull-tee",
-          "name": "骷髅印花 T 恤",
-          "nameEn": "Skull T-Shirt",
-          "type": "T 恤",
-          "price": {
-            "min": 1500,
-            "max": 4500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以品牌标志性的骷髅图案与水钻刺绣为特征,棉质面料厚实,版型偏大,是品牌最基础也最具辨识度的单品。",
-          "highlights": [
-            "骷髅图案",
-            "水钻",
-            "版型偏大"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "pp-crystal-hoodie",
-          "name": "水钻卫衣",
-          "nameEn": "Crystal Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 3500,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "帽衫上以水钻拼出骷髅与品牌字标,在灯光下格外抢眼,是夜生活与派对场景的代表单品,深受潮人喜爱。",
-          "highlights": [
-            "水钻拼标",
-            "派对场景",
-            "抢眼"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "pp-jeans",
-          "name": "牛仔裤",
-          "nameEn": "Jeans",
-          "type": "裤装",
-          "price": {
-            "min": 3000,
-            "max": 7000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以破洞、泼墨与铆钉装饰著称,弹力丹宁面料包裹感强,后袋刺绣品牌徽标,是品牌起家的核心品类之一。",
-          "highlights": [
-            "破洞丹宁",
-            "铆钉装饰",
-            "核心品类"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        },
-        {
-          "id": "pp-sneakers",
-          "name": "运动鞋",
-          "nameEn": "Sneakers",
-          "type": "运动鞋",
-          "price": {
-            "min": 3000,
-            "max": 8000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "低帮板鞋造型搭配水钻字标与金属铆钉,鞋底厚重,黑白配色居多,是整体造型的点睛单品。",
-          "highlights": [
-            "水钻字标",
-            "厚底",
-            "黑白配色"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "pp-leatherjacket",
-          "name": "机车皮夹克",
-          "nameEn": "Leather Biker Jacket",
-          "type": "皮衣",
-          "price": {
-            "min": 8000,
-            "max": 20000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以黑色小牛皮或羊皮制成,银色铆钉与拉链密集排列,剪裁修身,是品牌摇滚精神的集中体现。",
-          "highlights": [
-            "黑色皮料",
-            "铆钉拉链",
-            "修身剪裁"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "pp-dress",
-          "name": "水钻连衣裙",
-          "nameEn": "Crystal Dress",
-          "type": "连衣裙",
-          "price": {
-            "min": 4000,
-            "max": 10000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以弹力面料包裹身形,满幅水钻或亮片装饰,多为包臀短裙造型,是派对与宴会场合的高人气品类。",
-          "highlights": [
-            "满幅水钻",
-            "包臀剪裁",
-            "派对"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "brooksbrothers",
-      "name": "布克兄弟",
-      "nameEn": "Brooks Brothers",
-      "domain": "brooksbrothers.com",
-      "categoryId": "fashion",
-      "country": "美国",
-      "founded": 1818,
-      "hq": "纽约",
-      "tier": "轻奢",
-      "sub": "成衣",
-      "tags": [
-        "美式经典",
-        "牛津衬衫",
-        "常春藤",
-        "老钱风"
-      ],
-      "slogan": "",
-      "desc": "美国历史最悠久的服装品牌,1818 年创立于纽约,以牛津纺扣领衬衫、美式西装与金羊毛标志闻名,曾为四十余位美国总统提供着装,是常春藤风格的奠基者。",
-      "story": "布克兄弟 1818 年在纽约开业,是美国现存最古老的服装零售商,曾率先将成衣西装、牛津纺扣领衬衫与泡泡纱西装引入美国市场,深刻塑造了美式商务着装规范。\n金羊毛标志源自古老纹章,代表品牌对做工的承诺;其客户名单中包括多位美国总统,《了不起的盖茨比》等文学作品亦有其着装想象;2020 年品牌被 Authentic Brands 集团收购,继续以经典美式风格服务全球市场。",
-      "products": [
-        {
-          "id": "bb-oxfordshirt",
-          "name": "牛津纺扣领衬衫",
-          "nameEn": "Oxford Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 500,
-            "max": 1300,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "1896 年引入美国的经典牛津纺扣领衬衫,以耐穿的牛津布与领尖扣设计著称,蓝白条纹最为经典,是美式衣橱的基石单品。",
-          "highlights": [
-            "1896 年引入",
-            "领尖扣",
-            "牛津布"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "bb-1818suit",
-          "name": "1818 系列西装",
-          "nameEn": "1818 Suit",
-          "type": "西装",
-          "price": {
-            "min": 6000,
-            "max": 16000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌最高规格的成衣西装系列,以全羊毛精纺面料与半麻衬工艺制作,提供 Madison 等经典版型,是美式商务西装的标杆。",
-          "highlights": [
-            "半麻衬工艺",
-            "精纺羊毛",
-            "经典版型"
-          ],
-          "tags": [
-            "西装"
-          ],
-          "image": null
-        },
-        {
-          "id": "bb-goldenfleece",
-          "name": "Golden Fleece 金羊毛西装",
-          "nameEn": "Golden Fleece Suit",
-          "type": "西装",
-          "price": {
-            "min": 10000,
-            "max": 25000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以品牌金羊毛标志命名的顶配系列,采用更高级的面料与更精细的做工,是品牌工艺的最高代表。",
-          "highlights": [
-            "金羊毛标志",
-            "高级面料",
-            "精细做工"
-          ],
-          "tags": [
-            "西装"
-          ],
-          "image": null
-        },
-        {
-          "id": "bb-polocoat",
-          "name": "Polo 驼色大衣",
-          "nameEn": "Polo Coat",
-          "type": "大衣",
-          "price": {
-            "min": 6000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "源自 20 世纪初为马球运动员设计的驼色大衣,以骆驼绒或驼毛混纺制成,双排扣宽腰身,是《了不起的盖茨比》时代的经典。",
-          "highlights": [
-            "骆驼绒",
-            "双排扣",
-            "文学经典"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "bb-cashmere",
-          "name": "羊绒针织衫",
-          "nameEn": "Cashmere Sweater",
-          "type": "针织衫",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以山羊绒纱线织成,圆领与 V 领为主,可单穿亦可与衬衫叠穿,是常春藤风格的标准配置。",
-          "highlights": [
-            "山羊绒",
-            "V 领圆领",
-            "叠穿经典"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "boss",
-      "name": "雨果博斯",
-      "nameEn": "BOSS",
-      "domain": "hugoboss.com",
-      "categoryId": "fashion",
-      "country": "德国",
-      "founded": 1924,
-      "hq": "麦青根",
-      "tier": "轻奢",
-      "sub": "成衣",
-      "tags": [
-        "商务",
-        "西装",
-        "德系",
-        "都市"
-      ],
-      "slogan": "",
-      "desc": "德国高端时装集团 Hugo Boss 的主品牌,以精良的商务西装与德式剪裁著称,产品扩展至衬衫、香水、腕表与休闲服饰,是全球商务男装的代表之一。",
-      "story": "雨果·博斯 1924 年在德国小镇麦青根创立同名服装厂,战后品牌转向男装西装业务,1970 年代以「BOSS」品牌之名在国际化进程中崛起,1990 年代形成 BOSS 与 HUGO 双线格局。\n如今 BOSS 定位现代商务与精致休闲,1998 年推出的 BOSS Bottled 香水常年位居全球畅销榜,品牌还通过赞助高尔夫、赛车等运动强化形象,在全球拥有数千个销售点。",
-      "products": [
-        {
-          "id": "boss-suit",
-          "name": "商务西装",
-          "nameEn": "Business Suit",
-          "type": "西装",
-          "price": {
-            "min": 4000,
-            "max": 15000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以德式修身剪裁与精纺羊毛面料著称,提供修身至常规多种版型,商务场合穿着率极高,是品牌立身的核心品类。",
-          "highlights": [
-            "修身剪裁",
-            "精纺羊毛",
-            "多版型"
-          ],
-          "tags": [
-            "西装"
-          ],
-          "image": null
-        },
-        {
-          "id": "boss-shirt",
-          "name": "商务衬衫",
-          "nameEn": "Business Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 700,
-            "max": 2000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以易打理的免烫棉布与合体剪裁为特色,领型与袖口细节规整,蓝白深色系为主,是职场衬衫的高性价比选择。",
-          "highlights": [
-            "免烫棉",
-            "合体剪裁",
-            "职场经典"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "boss-bottled",
-          "name": "BOSS Bottled 香水",
-          "nameEn": "BOSS Bottled",
-          "type": "香水",
-          "price": {
-            "min": 400,
-            "max": 1200,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "1998 年推出的品牌代表作,以苹果、肉桂与檀木构成温暖木质调,被赞「事业有成男士的味道」,常年位居全球男香畅销榜。",
-          "highlights": [
-            "木质调",
-            "1998 年推出",
-            "畅销男香"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "boss-polo",
-          "name": "Polo 衫",
-          "nameEn": "Polo Shirt",
-          "type": "Polo 衫",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以珠地棉制成,胸前绣有简洁的品牌字标,版型利落,是品牌夏季商务休闲场景的主力单品。",
-          "highlights": [
-            "珠地棉",
-            "刺绣字标",
-            "商务休闲"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "boss-accessories",
-          "name": "皮带皮具",
-          "nameEn": "Leather Accessories",
-          "type": "皮具",
-          "price": {
-            "min": 500,
-            "max": 2500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "涵盖皮带、钱包与公事包,以压纹 logo 与金属牌为标识,牛皮材质耐用,是职场男士的实用配饰选择。",
-          "highlights": [
-            "压纹 logo",
-            "牛皮",
-            "实用"
-          ],
-          "tags": [
-            "配饰"
-          ],
-          "image": null
-        },
-        {
-          "id": "boss-watch",
-          "name": "腕表",
-          "nameEn": "Watches",
-          "type": "腕表",
-          "price": {
-            "min": 1500,
-            "max": 5000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "由授权厂商生产的时尚腕表,以三针简约款与商务钢带为主,部分款式点缀品牌标识,定位配饰型腕表。",
-          "highlights": [
-            "时尚腕表",
-            "简约三针",
-            "商务风"
-          ],
-          "tags": [
-            "腕表"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "lacoste",
-      "name": "拉科斯特",
-      "nameEn": "Lacoste",
-      "domain": "lacoste.com",
-      "categoryId": "fashion",
-      "country": "法国",
-      "founded": 1933,
-      "hq": "巴黎",
-      "tier": "大众",
-      "sub": "成衣",
-      "tags": [
-        "鳄鱼标",
-        "Polo 衫",
-        "法式",
-        "运动休闲"
-      ],
-      "slogan": "",
-      "desc": "法国运动时尚品牌,以绿色鳄鱼标志与 L.12.12 网眼 Polo 衫闻名,由网球传奇雷内·拉科斯特创立,是运动休闲风格的百年开创者。",
-      "story": "网坛传奇雷内·拉科斯特因赛场上的拼搏精神得名「鳄鱼」,1933 年与针织商安德烈·吉耶合作,将透气网眼针织衫引入球场,取代传统长袖衬衫,绿色鳄鱼被视为最早绣于衣服外侧的品牌标志之一。\n此后品牌从球场走向街头,陆续扩展 T 恤、运动鞋与香水品类,Polo 衫至今仍是全球衣橱的经典;如今品牌以法式优雅与运动基因结合,在全球拥有广泛的年轻拥趸。",
-      "products": [
-        {
-          "id": "lacoste-l1212",
-          "name": "L.12.12 经典 Polo 衫",
-          "nameEn": "L.12.12 Polo",
-          "type": "Polo 衫",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "1933 年诞生的品牌之魂,编号 L.12.12 中的 12 代表历经 12 个打样版本,透气小网眼棉布搭配珍珠母贝纽扣,是 Polo 衫的鼻祖级单品。",
-          "highlights": [
-            "网眼棉布",
-            "母贝纽扣",
-            "Polo 鼻祖"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "lacoste-slimpolo",
-          "name": "修身版 Polo 衫",
-          "nameEn": "Slim Fit Polo",
-          "type": "Polo 衫",
-          "price": {
-            "min": 500,
-            "max": 1200,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "在经典版型基础上收窄腰身与袖口,更贴合身形,颜色选择丰富,适合偏瘦或喜欢利落感的穿着者。",
-          "highlights": [
-            "修身剪裁",
-            "多色可选",
-            "利落"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "lacoste-carnaby",
-          "name": "Carnaby 运动鞋",
-          "nameEn": "Carnaby Sneaker",
-          "type": "运动鞋",
-          "price": {
-            "min": 600,
-            "max": 1300,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "品牌最畅销的休闲板鞋,以简洁的皮革鞋身与鳄鱼小标点缀,复古百搭,男女同款,是品牌鞋履线的销量支柱。",
-          "highlights": [
-            "皮革鞋身",
-            "复古百搭",
-            "男女同款"
-          ],
-          "tags": [
-            "鞋履"
-          ],
-          "image": null
-        },
-        {
-          "id": "lacoste-tshirt",
-          "name": "圆领 T 恤",
-          "nameEn": "T-Shirt",
-          "type": "T 恤",
-          "price": {
-            "min": 300,
-            "max": 700,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以纯棉平纹布制成,胸前小鳄鱼刺绣低调点缀,版型常规,颜色齐全,是入门品牌与日常穿搭的基础款。",
-          "highlights": [
-            "小鳄鱼刺绣",
-            "纯棉",
-            "基础款"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "lacoste-l1212parfum",
-          "name": "L.12.12 香水",
-          "nameEn": "L.12.12 Parfums",
-          "type": "香水",
-          "price": {
-            "min": 300,
-            "max": 800,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以标志性 Polo 衫命名的香氛系列,涵盖纯白、纯黑等多个版本,以清新木质与芳香调为主,价格亲民。",
-          "highlights": [
-            "Polo 同名",
-            "清新木质",
-            "多版本"
-          ],
-          "tags": [
-            "美妆"
-          ],
-          "image": null
-        },
-        {
-          "id": "lacoste-knit",
-          "name": "针织开衫",
-          "nameEn": "Knit Cardigan",
-          "type": "开衫",
-          "price": {
-            "min": 600,
-            "max": 1600,
-            "currency": "CNY",
-            "label": "官网参考价"
-          },
-          "desc": "以棉质或羊毛混纺纱线织成,常以品牌色块条纹点缀门襟,学院气质浓厚,是秋季通勤与休闲的百搭单品。",
-          "highlights": [
-            "色块条纹",
-            "学院风",
-            "百搭"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "jnby",
-      "name": "江南布衣",
-      "nameEn": "JNBY",
-      "domain": "jnby.com",
-      "categoryId": "fashion",
-      "country": "中国",
-      "founded": 1994,
-      "hq": "杭州",
-      "tier": "大众",
-      "sub": "设计师",
-      "tags": [
-        "设计感",
-        "面料实验",
-        "松弛感",
-        "国货设计"
-      ],
-      "slogan": "Just Naturally Be Yourself",
-      "desc": "中国设计师女装品牌,以面料实验与松弛感廓形著称,主张自然做自己,隶属江南布衣集团,是国内设计感女装的头部代表。",
-      "story": "1994 年,设计师李琳在杭州创立 JNBY,以天然面料与随性廓形切入女装市场,逐渐成为国内设计感女装的标杆。\n2016 年,母公司江南布衣集团在香港上市,旗下拥有速写、jnby by JNBY、LESS 等多品牌矩阵;品牌坚持「Just Naturally Be Yourself」的理念,以面料肌理与实验性剪裁,持续吸引独立审美的都市女性。",
-      "products": [
-        {
-          "id": "jnby-dress",
-          "name": "设计师连衣裙",
-          "nameEn": "Designer Dress",
-          "type": "连衣裙",
-          "price": {
-            "min": 900,
-            "max": 3000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以不对称剪裁、褶皱与垂坠面料著称,版型松弛包容多种身形,设计语言克制而独特,是品牌最核心的品类。",
-          "highlights": [
-            "不对称剪裁",
-            "垂坠面料",
-            "松弛版型"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "jnby-coat",
-          "name": "廓形外套",
-          "nameEn": "Oversized Coat",
-          "type": "外套",
-          "price": {
-            "min": 1500,
-            "max": 4500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以落肩加长廓形与面料肌理为特色,常见棉麻与羊毛混纺材质,兼顾保暖与造型感,是秋冬陈列的主角。",
-          "highlights": [
-            "落肩廓形",
-            "棉麻羊毛",
-            "造型感"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "jnby-knit",
-          "name": "针织衫",
-          "nameEn": "Knitwear",
-          "type": "针织衫",
-          "price": {
-            "min": 700,
-            "max": 2000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以羊毛、马海毛等混纺纱线织成,常以镂空与不规则纹理呈现肌理感,版型宽松,是品牌秋冬的高频单品。",
-          "highlights": [
-            "混纺纱线",
-            "镂空肌理",
-            "宽松"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        },
-        {
-          "id": "jnby-shirt",
-          "name": "设计感衬衫",
-          "nameEn": "Shirt",
-          "type": "衬衫",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "在基础衬衫版型上加入不对称门襟、抽褶与拼料细节,棉麻面料居多,通勤与休闲皆宜,是春夏畅销款。",
-          "highlights": [
-            "不对称门襟",
-            "抽褶",
-            "棉麻"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "jnby-pants",
-          "name": "阔腿裤装",
-          "nameEn": "Wide-Leg Pants",
-          "type": "裤装",
-          "price": {
-            "min": 700,
-            "max": 2000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以垂感面料与高腰阔腿版型为主,修饰腿型,与品牌外套搭配度高,是整体造型中实用度最高的单品之一。",
-          "highlights": [
-            "垂感面料",
-            "高腰阔腿",
-            "高搭配度"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "dazzle",
-      "name": "地素",
-      "nameEn": "DAZZLE",
-      "domain": "dazzle-fashion.com",
-      "categoryId": "fashion",
-      "country": "中国",
-      "founded": 2002,
-      "hq": "上海",
-      "tier": "大众",
-      "sub": "成衣",
-      "tags": [
-        "都市",
-        "摩登",
-        "国货女装",
-        "商场系"
-      ],
-      "slogan": "",
-      "desc": "中国时尚女装品牌,以都市感设计与精良版型著称,隶属地素时尚集团,与 DIAMOND DAZZLE、d'zzit 等品牌共同覆盖多元女性客群。",
-      "story": "地素时尚 2002 年创立于上海,同名品牌 DAZZLE 以摩登都市风格切入中高端女装市场,设计融合流行元素与实穿版型。\n2018 年,母公司地素时尚在上海证券交易所上市,陆续推出高端线 DIAMOND DAZZLE、年轻线 d'zzit 与那英合作线 NA BY DAZZLE,形成多品牌矩阵;DAZZLE 以快速的款型更新与商场专柜网络,成为国内主流商场女装的常青品牌。",
-      "products": [
-        {
-          "id": "dz-dress",
-          "name": "摩登连衣裙",
-          "nameEn": "Modern Dress",
-          "type": "连衣裙",
-          "price": {
-            "min": 1000,
-            "max": 3500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以收腰剪裁与流行色面料为主,兼顾约会与通勤场景,印花与纯色版本交替上新,是品牌销售占比最高的品类之一。",
-          "highlights": [
-            "收腰剪裁",
-            "流行色",
-            "高销售占比"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "dz-coat",
-          "name": "都市大衣",
-          "nameEn": "Urban Coat",
-          "type": "大衣",
-          "price": {
-            "min": 2000,
-            "max": 5000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以羊毛混纺面料制成,廓形利落,常见的燕麦色与黑白色系便于搭配,是品牌秋冬的引流主力。",
-          "highlights": [
-            "羊毛混纺",
-            "利落廓形",
-            "秋冬主力"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "dz-hoodie",
-          "name": "卫衣 T 恤",
-          "nameEn": "Hoodies & Tees",
-          "type": "卫衣",
-          "price": {
-            "min": 600,
-            "max": 2000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以字母印花、刺绣与潮流图案为特色,棉质面料厚实,版型偏宽松,是年轻客群的上新高频品类。",
-          "highlights": [
-            "字母印花",
-            "宽松版型",
-            "高频上新"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "dz-knit",
-          "name": "针织衫",
-          "nameEn": "Knitwear",
-          "type": "针织衫",
-          "price": {
-            "min": 700,
-            "max": 1800,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以羊毛与粘胶混纺纱线织成,常以亮丝与渐变色彩增加精致感,单穿叠穿皆宜,是专柜秋冬的稳定畅销款。",
-          "highlights": [
-            "亮丝点缀",
-            "渐变色",
-            "稳定畅销"
-          ],
-          "tags": [
-            "针织"
-          ],
-          "image": null
-        },
-        {
-          "id": "dz-denim",
-          "name": "牛仔裤装",
-          "nameEn": "Denim",
-          "type": "裤装",
-          "price": {
-            "min": 800,
-            "max": 2000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以直筒与阔腿版型为主,水洗工艺与破洞设计跟随当季流行,弹力面料兼顾舒适度,是品牌日常搭配的下装主力。",
-          "highlights": [
-            "水洗工艺",
-            "弹力面料",
-            "流行版型"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        }
-      ]
-    },
-    {
-      "id": "cabbeen",
-      "name": "卡宾",
-      "nameEn": "CABBEEN",
-      "domain": "cabbeen.com",
-      "categoryId": "fashion",
-      "country": "中国",
-      "founded": 1997,
-      "hq": "广州",
-      "tier": "大众",
-      "sub": "设计师",
-      "tags": [
-        "潮流男装",
-        "设计师",
-        "颠覆",
-        "国货"
-      ],
-      "slogan": "颠覆流行",
-      "desc": "中国设计师男装品牌,由设计师杨紫明(卡宾先生)创立,以「颠覆流行」的潮流男装著称,是国内较早登上纽约时装周的男装品牌。",
-      "story": "1997 年,设计师杨紫明以「卡宾先生」之名在广州创立品牌,以修身剪裁与街头设计打破国内男装的传统版型,提出「颠覆流行」的品牌主张。\n2007 年,品牌登上纽约时装周,成为较早走向国际舞台的中国男装;2013 年,卡宾服饰在香港上市,旗下延伸出多个副线与系列,如今以设计师联名与潮流系列持续吸引年轻男性客群。",
-      "products": [
-        {
-          "id": "cb-jacket",
-          "name": "设计师夹克",
-          "nameEn": "Designer Jacket",
-          "type": "夹克",
-          "price": {
-            "min": 1000,
-            "max": 3000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以刺绣、拼接与国风元素为特色,版型修身利落,兼具中国审美与街头语言,是品牌最具代表性的品类。",
-          "highlights": [
-            "刺绣拼接",
-            "修身版型",
-            "品牌代表"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        },
-        {
-          "id": "cb-hoodie",
-          "name": "潮流卫衣",
-          "nameEn": "Hoodie",
-          "type": "卫衣",
-          "price": {
-            "min": 500,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以品牌字标与涂鸦印花为特色,加绒与薄款覆盖不同季节,版型宽松舒适,是年轻客群的高频购买单品。",
-          "highlights": [
-            "字标印花",
-            "宽松舒适",
-            "高频上新"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cb-tee",
-          "name": "潮流 T 恤",
-          "nameEn": "T-Shirt",
-          "type": "T 恤",
-          "price": {
-            "min": 300,
-            "max": 900,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以街头图案与创意印花为主,纯棉面料,价格亲民,常与夹克形成套装陈列,是门店客流的基础款。",
-          "highlights": [
-            "创意印花",
-            "纯棉",
-            "基础款"
-          ],
-          "tags": [
-            "服装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cb-pants",
-          "name": "休闲裤装",
-          "nameEn": "Casual Pants",
-          "type": "裤装",
-          "price": {
-            "min": 600,
-            "max": 1500,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以修身锥形与工装版型为主,弹力面料保证活动度,细节处点缀品牌元素,是整体穿搭中实用度最高的品类。",
-          "highlights": [
-            "修身锥形",
-            "弹力面料",
-            "高实用度"
-          ],
-          "tags": [
-            "裤装"
-          ],
-          "image": null
-        },
-        {
-          "id": "cb-coat",
-          "name": "潮流大衣",
-          "nameEn": "Trend Coat",
-          "type": "大衣",
-          "price": {
-            "min": 1500,
-            "max": 4000,
-            "currency": "CNY",
-            "label": "专柜参考价"
-          },
-          "desc": "以羊毛混纺与新型面料结合,廓形偏宽,融入国风盘扣或徽章刺绣,秋冬主打设计感与保暖并重。",
-          "highlights": [
-            "国风细节",
-            "宽廓形",
-            "保暖"
-          ],
-          "tags": [
-            "外套"
-          ],
-          "image": null
-        }
-      ]
+     "id": "marni-market-bag",
+     "name": "Market 编织包",
+     "nameEn": "Market Bag",
+     "type": "手袋",
+     "price": {
+      "min": 2000,
+      "max": 6000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Market 编织包属玛尼 Market 系列,与哥伦比亚工匠合作,以彩色尼龙手工编织成条纹手袋与帽饰,色彩明快、价格亲民。适合度假、海滩与日常休闲场景,是品牌入门单品的热门选择,也体现其手工艺合作传统。",
+     "highlights": [
+      "手工编织",
+      "彩色条纹",
+      "工匠合作"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
     }
-  ]
+   ]
+  },
+  {
+   "id": "brunellocucinelli",
+   "name": "布鲁内罗·库奇内利",
+   "nameEn": "Brunello Cucinelli",
+   "domain": "brunellocucinelli.com",
+   "categoryId": "fashion",
+   "country": "意大利",
+   "founded": 1978,
+   "hq": "索罗梅奥",
+   "tier": "顶奢",
+   "sub": "成衣",
+   "tags": [
+    "羊绒",
+    "静奢",
+    "意式休闲",
+    "手工"
+   ],
+   "slogan": "",
+   "desc": "意大利顶级羊绒品牌,以「人文资本主义」与「静奢」理念著称,主打高定级羊绒针织与意式休闲西装,是低调奢华衣橱的代名词。",
+   "story": "1978 年,布鲁内罗·库奇内利在意大利翁布里亚以染色羊绒起家,随后买下中世纪村庄索罗梅奥并修葺古堡,将工坊设在其中,确立了以人为核心的经营哲学。\n品牌以顶级山羊绒、小山羊皮等珍稀材质闻名,版型松弛而考究,被视为「静奢风」的开创者之一;2012 年在米兰证券交易所上市,如今产品涵盖服装、配饰与家居,在全球拥有众多高端拥趸。",
+   "products": [
+    {
+     "id": "bc-cashmere-sweater",
+     "name": "羊绒圆领针织衫",
+     "nameEn": "Cashmere Sweater",
+     "type": "针织衫",
+     "price": {
+      "min": 8000,
+      "max": 25000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "布鲁内罗·库奇内利为1978年创立的意大利顶奢品牌,羊绒圆领针织衫是其最基础也最具代表性的单品。以顶级山羊绒纱线制成,手感蓬松软糯,版型宽松利落,配经典圆领与罗纹细节。适合追求低调奢华质感的成熟人群,是衣橱长期投资之选。",
+     "highlights": [
+      "顶级羊绒",
+      "软糯手感",
+      "宽松版型"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    },
+    {
+     "id": "bc-cashmere-coat",
+     "name": "羊绒大衣",
+     "nameEn": "Cashmere Coat",
+     "type": "大衣",
+     "price": {
+      "min": 30000,
+      "max": 90000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "羊绒大衣定位顶奢冬季外套,采用双面羊绒或羊绒混纺面料,剪裁松弛流畅,常以大地色与灰色调呈现,兼顾保暖与垂坠感。适合注重品质与优雅气质的都市人群,是品牌羊绒工艺的集中体现与冬季衣橱的重磅投资单品。",
+     "highlights": [
+      "双面羊绒",
+      "大地色系",
+      "垂坠感"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "bc-trousers",
+     "name": "休闲西裤",
+     "nameEn": "Casual Trousers",
+     "type": "裤装",
+     "price": {
+      "min": 5000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "布鲁内罗·库奇内利休闲西裤以松弛有度的锥形或直筒版型著称,常用棉麻混纺与羊毛面料,腰部细节考究,是「老钱风」穿搭中的经典下装。适合商务与休闲场景并重的品味人群,体现品牌内敛优雅的意大利式风格。",
+     "highlights": [
+      "锥形版型",
+      "羊毛混纺",
+      "老钱风"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    },
+    {
+     "id": "bc-knit-polo",
+     "name": "针织 Polo 衫",
+     "nameEn": "Knitted Polo",
+     "type": "Polo 衫",
+     "price": {
+      "min": 6000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "针织 Polo 衫以细羊绒或丝棉混纺纱线织成,领口与门襟细节精致,兼具正式感与休闲度,是品牌春夏系列的畅销款式。适合商务休闲与度假场景中追求面料质感的成熟人群,展现顶奢针织工艺的日常化表达。",
+     "highlights": [
+      "羊绒混纺",
+      "精致领口",
+      "春夏畅销"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    },
+    {
+     "id": "bc-cashmere-tshirt",
+     "name": "羊绒 T 恤",
+     "nameEn": "Cashmere T-Shirt",
+     "type": "T 恤",
+     "price": {
+      "min": 3000,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "羊绒 T 恤是布鲁内罗·库奇内利以轻薄羊绒制成的基础款,触感细腻,剪裁简约,常与牛仔裤或西裤搭配。适合初次体验品牌质感的人群,也是入门单品的常见选择,以低调方式呈现顶级羊绒的舒适与格调。",
+     "highlights": [
+      "轻薄羊绒",
+      "基础款",
+      "入门单品"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "bc-scarf",
+     "name": "羊绒围巾",
+     "nameEn": "Cashmere Scarf",
+     "type": "围巾",
+     "price": {
+      "min": 3000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "羊绒围巾采用加厚山羊绒织造,边缘手工收口,颜色以驼色、灰色等自然色调为主,规格宽大,保暖性与光泽感俱佳。适合秋冬通勤与旅行场景,自用或送礼皆宜,是品牌羊绒配饰中的经典之作。",
+     "highlights": [
+      "加厚羊绒",
+      "手工收边",
+      "自然色系"
+     ],
+     "tags": [
+      "配饰"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "christianlouboutin",
+   "name": "克里斯提·鲁布托",
+   "nameEn": "Christian Louboutin",
+   "domain": "christianlouboutin.com",
+   "categoryId": "fashion",
+   "country": "法国",
+   "founded": 1991,
+   "hq": "巴黎",
+   "tier": "高奢",
+   "sub": "鞋履",
+   "tags": [
+    "红底鞋",
+    "高跟鞋",
+    "性感",
+    "红毯"
+   ],
+   "slogan": "",
+   "desc": "法国奢华鞋履品牌,以标志性的红漆鞋底闻名于世,高跟鞋兼具雕塑感与性感,红底鞋已成为全球红毯的宠儿,也经营手袋、男鞋与美妆。",
+   "story": "克里斯提·鲁布托 1991 年在巴黎创立同名品牌,次年将红色指甲油涂上鞋底的灵感造就了标志性的红底,红色鞋底从此成为品牌的注册商标符号。\n品牌以极致的高跟弧线、铆钉与水钻装饰闻名,深受全球明星与红毯喜爱,此后推出男士系列并进军美妆;如今门店遍布全球,红底鞋已成为奢华性感的代名词。",
+   "products": [
+    {
+     "id": "cl-sokate",
+     "name": "So Kate 高跟鞋",
+     "nameEn": "So Kate Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 7000,
+      "max": 13000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "So Kate 是克里斯提·鲁布托的高跟鞋代表作,120毫米鞋跟搭配极细跟身与尖头造型,线条凌厉性感,黑色漆皮版本最为畅销。适合红毯、晚宴与婚鞋场合,是品牌红底鞋美学的极致体现与经典之选。",
+     "highlights": [
+      "120mm 细跟",
+      "尖头",
+      "漆皮"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "cl-pigallefollies",
+     "name": "Pigalle Follies 高跟鞋",
+     "nameEn": "Pigalle Follies Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 6500,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Pigalle Follies 是品牌经典 Pigalle 鞋型的升级版本,加深鞋口以拉长腿部线条,100毫米跟高平衡优雅与舒适。适合通勤与晚宴之间的多种场合,是红底鞋家族中兼顾实穿性与性感气质的百搭款。",
+     "highlights": [
+      "加深鞋口",
+      "100mm 跟高",
+      "显腿长"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "cl-iriza",
+     "name": "Iriza 半空高跟鞋",
+     "nameEn": "Iriza Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 6500,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Iriza 半空高跟鞋采用 d'Orsay 半镂空结构,露出足弓曲线,结合尖头设计视觉上更显脚型纤细,礼服感十足。是婚鞋与正式场合的人气之选,体现了克里斯提·鲁布托红底鞋的经典剪裁语言。",
+     "highlights": [
+      "d'Orsay 剪裁",
+      "显脚瘦",
+      "礼服感"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "cl-kate",
+     "name": "Kate 高跟鞋",
+     "nameEn": "Kate Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 5500,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Kate 高跟鞋以85毫米中跟与尖头红底鞋身呈现,重心适中更易驾驭,亦有平底版本可供选择。是品牌入门与通勤场景的热门选择,适合初次入手红底鞋、需要日常实穿性的都市女性。",
+     "highlights": [
+      "85mm 中跟",
+      "尖头",
+      "入门友好"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "cl-louisjunior",
+     "name": "Louis Junior 男士运动鞋",
+     "nameEn": "Louis Junior Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 5000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Louis Junior 是克里斯提·鲁布托男士运动鞋的代表作,低帮板鞋造型搭配低调品牌字标与鞋底细节,皮质细腻,风格内敛百搭。是明星日常穿搭中的高频单品,也是男士接触品牌美学的入门之选。",
+     "highlights": [
+      "低帮板鞋",
+      "男士经典",
+      "低调设计"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "cl-lipstick",
+     "name": "Rouge Louboutin 唇膏",
+     "nameEn": "Rouge Louboutin Lipstick",
+     "type": "唇膏",
+     "price": {
+      "min": 700,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Rouge Louboutin 唇膏是品牌2014年推出的美妆线代表作,唇膏管身以黑色漆面与细高跟轮廓设计,致敬品牌鞋履,经典红色号与同名鞋款呼应。适合追求仪式感与收藏价值的彩妆爱好者,是时尚品牌跨界美妆的标志性作品。",
+     "highlights": [
+      "高跟造型管身",
+      "经典红色",
+      "美妆线"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "rogervivier",
+   "name": "罗杰·维维亚",
+   "nameEn": "Roger Vivier",
+   "domain": "rogervivier.com",
+   "categoryId": "fashion",
+   "country": "法国",
+   "founded": 1963,
+   "hq": "巴黎",
+   "tier": "高奢",
+   "sub": "鞋履",
+   "tags": [
+    "方扣",
+    "法式优雅",
+    "高跟鞋",
+    "逗号跟"
+   ],
+   "slogan": "",
+   "desc": "法国传奇鞋履品牌,以优雅的金属方扣与弧形「逗号跟」著称,曾为伊丽莎白二世加冕礼制鞋,被誉为巴黎最优雅的鞋,现隶属 Tod's 集团。",
+   "story": "罗杰·维维亚曾长期为迪奥设计鞋履,并参与推广细高跟鞋,1953 年为伊丽莎白二世加冕礼设计金鞋而声名大噪,1963 年创立个人品牌,留下标志性的「逗号跟」与方扣饰扣。\n2003 年,意大利企业家 Diego Della Valle 收购并重启品牌,邀请法国名模 Inès de la Fressange 担任缪斯,以法式优雅风格重新赢得市场,近年 Boîte de Nuit 等手袋也热度攀升。",
+   "products": [
+    {
+     "id": "rv-bellevivier",
+     "name": "Belle Vivier 方扣高跟鞋",
+     "nameEn": "Belle Vivier Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 6500,
+      "max": 11000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Belle Vivier 方扣高跟鞋是罗杰·维维亚最具代表性的鞋型,方头设计搭配标志性金属方扣与中粗跟,经典跟高优雅易走。被誉为法式风格的教科书单品,适合通勤与宴会等场合的优雅女性,承载着品牌1963年以来的制鞋传统。",
+     "highlights": [
+      "金属方扣",
+      "方头设计",
+      "中粗跟"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "rv-trompette",
+     "name": "Trompette 尖头高跟鞋",
+     "nameEn": "Trompette Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 7500,
+      "max": 13000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Trompette 尖头高跟鞋以 d'Orsay 造型搭配品牌标志性的弧形逗号跟,线条流畅优雅,漆皮与绒面版本皆有。适合晚宴与礼服场合,是罗杰·维维亚经典鞋履语言与现代审美结合的代表之作。",
+     "highlights": [
+      "逗号跟",
+      "尖头",
+      "d'Orsay"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "rv-icone",
+     "name": "Icône 高跟鞋",
+     "nameEn": "Icône Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 7000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Icône 高跟鞋以流线型鞋身搭配放大版方扣,跟高选择丰富,兼顾力量感与女性气质,是近年主推的现代版方扣鞋型。适合追求法式优雅又需要实穿性的都市女性,延续品牌方扣这一标志性设计符号。",
+     "highlights": [
+      "放大方扣",
+      "流线鞋身",
+      "多跟高"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "rv-vivrangers",
+     "name": "Viv' Rangers 平底鞋",
+     "nameEn": "Viv' Rangers Flat",
+     "type": "平底鞋",
+     "price": {
+      "min": 5000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Viv' Rangers 平底鞋将品牌标志性的方扣元素融入乐福鞋与芭蕾平底鞋,鞋型圆润百搭,通勤与休闲皆宜。是品牌入门价位的畅销鞋款,适合希望以低调方式演绎法式风格的日常人群。",
+     "highlights": [
+      "方扣元素",
+      "乐福鞋型",
+      "百搭"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "rv-vivrun",
+     "name": "Viv' Run 运动鞋",
+     "nameEn": "Viv' Run Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 5000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Viv' Run 运动鞋以复古慢跑鞋造型搭配方扣或钻饰细节,轻盈舒适,将运动风与品牌优雅美学相结合。适合日常出行与休闲混搭场景,是罗杰·维维亚拓展运动鞋履线的代表作品。",
+     "highlights": [
+      "复古跑鞋",
+      "方扣细节",
+      "轻盈"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "rv-boitedenuit",
+     "name": "Boîte de Nuit 手袋",
+     "nameEn": "Boîte de Nuit Bag",
+     "type": "手袋",
+     "price": {
+      "min": 14000,
+      "max": 26000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Boîte de Nuit 手袋以珠宝盒为灵感,硬盒造型搭配金属锁扣与皮质包身,小巧精致,近年因明星街拍走红。适合晚宴与派对场合,是罗杰·维维亚配饰线的新晋招牌,延续其珠宝般的华丽气质。",
+     "highlights": [
+      "珠宝盒设计",
+      "金属锁扣",
+      "明星同款"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "jimmychoo",
+   "name": "吉米·周",
+   "nameEn": "Jimmy Choo",
+   "domain": "jimmychoo.com",
+   "categoryId": "fashion",
+   "country": "英国",
+   "founded": 1996,
+   "hq": "伦敦",
+   "tier": "高奢",
+   "sub": "鞋履",
+   "tags": [
+    "晚装鞋",
+    "水钻",
+    "红毯",
+    "英伦"
+   ],
+   "slogan": "",
+   "desc": "英国奢华鞋履品牌,以华丽的水钻装饰与流畅的高跟线条著称,因《欲望都市》等影视作品风靡全球,红毯出席率极高,现属 Capri 集团。",
+   "story": "品牌 1996 年由马来西亚裔鞋匠周仰杰与英国版《Vogue》编辑 Tamara Mellon 在伦敦创立,早年因定制鞋履受到戴安娜王妃青睐。\n2000 年前后随《欲望都市》热播成为全球红毯首选,随后扩展手袋、男鞋与香水业务;2017 年被 Michael Kors 母公司 Capri 集团收购,如今在全球拥有数百家门店,是奢华晚装鞋的代名词之一。",
+   "products": [
+    {
+     "id": "jc-romy",
+     "name": "Romy 高跟鞋",
+     "nameEn": "Romy Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 5000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Romy 高跟鞋是吉米·周销量最高的基础鞋型之一,圆润鞋头搭配流畅弧线,提供60至120毫米多种跟高,漆皮与闪面材质选择丰富。适合通勤、婚宴等多场景,是品牌兼具实穿与优雅的代表作。",
+     "highlights": [
+      "圆头设计",
+      "多跟高",
+      "漆皮"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "jc-love",
+     "name": "Love 高跟鞋",
+     "nameEn": "Love Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 5000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Love 高跟鞋以柔软缎面与水钻装饰著称,鞋头略方更显优雅,是婚鞋与礼服场景的高人气选择。适合新娘、晚宴与派对人群,承载着吉米·周晚装鞋的浪漫基因与华丽工艺。",
+     "highlights": [
+      "缎面",
+      "水钻装饰",
+      "婚鞋热门"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "jc-anouk",
+     "name": "Anouk 高跟鞋",
+     "nameEn": "Anouk Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 5000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Anouk 高跟鞋以120毫米细跟搭配尖锐鞋头,鞋身线条利落,常见亮片与渐变闪面版本,是红毯造型的常客。适合追求气场与镜头表现力的明星与时尚人群,展现品牌晚装鞋的戏剧化魅力。",
+     "highlights": [
+      "120mm 细跟",
+      "亮片",
+      "红毯"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "jc-diamond",
+     "name": "Diamond 运动鞋",
+     "nameEn": "Diamond Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 4000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Diamond 运动鞋以钻石切面为灵感,鞋底与鞋身由多边形几何拼接而成,辨识度极高,将晚装美学注入运动鞋设计。适合喜爱潮流夸张造型与品牌闪亮风格的年轻人群,是品牌拓展运动鞋线的代表作。",
+     "highlights": [
+      "钻石切面",
+      "几何厚底",
+      "辨识度高"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "jc-varenne",
+     "name": "Varenne 手袋",
+     "nameEn": "Varenne Bag",
+     "type": "手袋",
+     "price": {
+      "min": 7000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Varenne 手袋是吉米·周的主力包款,以线条硬朗的长方形包身与标志性 JC 金属字母扣为特征,提供手提、肩背等多种形态。适合通勤与晚宴场景,延续品牌华丽而现代的风格语言。",
+     "highlights": [
+      "JC 字母扣",
+      "硬朗包身",
+      "多形态"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
+    },
+    {
+     "id": "jc-bonbon",
+     "name": "Bon Bon 手袋",
+     "nameEn": "Bon Bon Bag",
+     "type": "手袋",
+     "price": {
+      "min": 6000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Bon Bon 手袋以糖果为灵感,球形或圆饼造型搭配金属链条,常见水晶与珠饰版本,小巧亮眼。适合晚宴与派对场合,是品牌将玩趣感与华美工艺相结合的代表包款,极具话题度。",
+     "highlights": [
+      "糖果灵感",
+      "金属链条",
+      "派对"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "manoloblahnik",
+   "name": "马诺洛·布拉尼克",
+   "nameEn": "Manolo Blahnik",
+   "domain": "manoloblahnik.com",
+   "categoryId": "fashion",
+   "country": "英国",
+   "founded": 1972,
+   "hq": "伦敦",
+   "tier": "高奢",
+   "sub": "鞋履",
+   "tags": [
+    "高跟鞋",
+    "宝石扣",
+    "缎面",
+    "手工"
+   ],
+   "slogan": "",
+   "desc": "西班牙裔设计师 Manolo Blahnik 在伦敦创立的同名品牌,以雕塑般的高跟曲线与缎面宝石扣闻名,《欲望都市》令其全球闻名,被誉为高跟鞋大师。",
+   "story": "马诺洛·布拉尼克 1970 年代初在伦敦开始制鞋生涯,1972 年为设计师 Ossie Clark 的时装秀设计鞋履而崭露头角,随后开设同名精品店。\n他坚持手工制鞋并亲手绘制设计稿,以拜占庭风宝石扣、缎面材质与优雅鞋跟闻名;《欲望都市》中 Carrie Bradshaw 的追捧令品牌声名更盛,蓝色 Hangisi 更成为婚鞋经典,如今仍是全球顶级鞋履的代表之一。",
+   "products": [
+    {
+     "id": "mb-hangisi",
+     "name": "Hangisi 高跟鞋",
+     "nameEn": "Hangisi Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 8500,
+      "max": 13000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Hangisi 高跟鞋是马诺洛·布拉尼克最著名的鞋型,以拜占庭珠宝为灵感,缎面鞋身缀方形水晶宝扣。因《欲望都市》中的蓝色款成为全球求婚婚鞋的热门,适合婚礼与礼服场合,是品牌文化地位最高的作品。",
+     "highlights": [
+      "水晶宝扣",
+      "缎面",
+      "婚鞋经典"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "mb-bb",
+     "name": "BB 高跟鞋",
+     "nameEn": "BB Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 8000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "BB 高跟鞋以女星碧姬·芭铎命名,尖头细跟搭配鞋侧小方扣,线条简洁优雅,提供多种跟高与材质选择。是品牌日常通勤的热门款,也是影视与时尚界反复提及的经典鞋型,体现简洁优雅的设计哲学。",
+     "highlights": [
+      "碧姬·芭铎命名",
+      "尖头细跟",
+      "小方扣"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "mb-chaos",
+     "name": "Chaos 高跟鞋",
+     "nameEn": "Chaos Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 8000,
+      "max": 13000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Chaos 高跟鞋鞋面装饰两枚错落排布的水晶扣,打破对称设计,名字源于这份「凌乱之美」。是品牌辨识度很高的晚装鞋型,适合派对、红毯等追求个性华美的场合,展现设计师的趣味与匠心。",
+     "highlights": [
+      "双宝扣",
+      "不对称设计",
+      "晚装"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "mb-carolyne",
+     "name": "Carolyne 高跟鞋",
+     "nameEn": "Carolyne Pump",
+     "type": "高跟鞋",
+     "price": {
+      "min": 7500,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Carolyne 高跟鞋为圆头低跟的经典款,鞋面以交叉细带与小扣装饰,跟高舒适易走。是品牌最早成名、历经多年仍是畅销款的鞋型之一,适合注重舒适度又钟爱优雅设计的成熟女性。",
+     "highlights": [
+      "圆头低跟",
+      "交叉细带",
+      "畅销经典"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "mb-maysale",
+     "name": "Maysale 便鞋",
+     "nameEn": "Maysale Mule",
+     "type": "便鞋",
+     "price": {
+      "min": 7000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Maysale 便鞋为后空穆勒鞋型,搭配单条水晶扣带,穿脱方便而优雅,缎面与皮面版本均有。近年重新翻红成为品牌人气复兴款,适合春夏通勤与半正式场合,延续品牌珠宝缀饰的传统。",
+     "highlights": [
+      "穆勒鞋型",
+      "水晶扣带",
+      "翻红款"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "mb-sedaraby",
+     "name": "Sedaraby d'Orsay 鞋",
+     "nameEn": "Sedaraby d'Orsay",
+     "type": "高跟鞋",
+     "price": {
+      "min": 8000,
+      "max": 13000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Sedaraby 鞋采用侧面镂空的 d'Orsay 结构,搭配宝扣与水钻装饰,勾勒足部曲线,华美精致。是红毯与婚礼场合的经典之选,体现马诺洛·布拉尼克在鞋履上的雕塑感设计与工艺功底。",
+     "highlights": [
+      "d'Orsay 镂空",
+      "宝扣",
+      "红毯"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "stuartweitzman",
+   "name": "斯图尔特·韦茨曼",
+   "nameEn": "Stuart Weitzman",
+   "domain": "stuartweitzman.com",
+   "categoryId": "fashion",
+   "country": "美国",
+   "founded": 1986,
+   "hq": "纽约",
+   "tier": "轻奢",
+   "sub": "鞋履",
+   "tags": [
+    "长靴",
+    "一字带",
+    "美式性感"
+   ],
+   "slogan": "",
+   "desc": "美国奢华鞋履品牌,以过膝长靴与「裸感」一字带高跟鞋闻名,擅长以性感线条修饰腿部比例,广告大片以超模大长腿著称,现属 Caleres 集团。",
+   "story": "斯图尔特·韦茨曼出身制鞋世家,1986 年在美国创立同名品牌,以精良的西班牙工艺与对腿部线条的极致研究著称。\n5050 与 Highland 等过膝靴重新定义了长靴的性感范式,一字带高跟鞋则成为百搭经典;2015 年品牌被 Coach 母公司 Tapestry 收购,2025 年转手给美国鞋履集团 Caleres,长靴与红毯凉鞋依旧是全球明星的心头好。",
+   "products": [
+    {
+     "id": "sw-5050",
+     "name": "5050 长靴",
+     "nameEn": "5050 Boot",
+     "type": "长靴",
+     "price": {
+      "min": 5000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "5050 长靴是斯图尔特·韦茨曼最经典的鞋款,因弹力织物与皮革各占一半而得名,过膝靴身贴合腿部曲线,穿脱方便。适合秋冬通勤与穿搭造型,是品牌1986年创立以来最经典、销量最高的招牌靴款。",
+     "highlights": [
+      "弹力织物",
+      "过膝",
+      "经典款"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "sw-highland",
+     "name": "Highland 过膝靴",
+     "nameEn": "Highland Boot",
+     "type": "长靴",
+     "price": {
+      "min": 6000,
+      "max": 11000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Highland 过膝靴为全皮弹力长靴,鞋身以弹力皮革紧贴腿部,视觉上显著拉长腿部比例。与5050并列品牌招牌靴款,适合追求显瘦效果与气场造型的秋冬穿搭人群,体现品牌在弹力靴型上的专长。",
+     "highlights": [
+      "全皮弹力",
+      "显瘦",
+      "过膝"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "sw-lowland",
+     "name": "Lowland 过膝靴",
+     "nameEn": "Lowland Boot",
+     "type": "长靴",
+     "price": {
+      "min": 5500,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Lowland 过膝靴以平底或低跟呈现,较 Highland 更注重舒适度,兼顾显腿长与长时间行走的需要。适合城市通勤与旅行等日常场景,是斯图尔特·韦茨曼靴型家族中的实穿之选。",
+     "highlights": [
+      "低跟舒适",
+      "显腿长",
+      "城市穿着"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "sw-nudistsong",
+     "name": "Nudistsong 一字带高跟鞋",
+     "nameEn": "Nudistsong Sandal",
+     "type": "高跟鞋",
+     "price": {
+      "min": 4000,
+      "max": 7500,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Nudistsong 一字带高跟鞋传承经典 Nudist 凉鞋,细一字带与细高跟最大限度露出足背,营造「裸感」效果。红毯与日常皆宜,是品牌性感简约鞋履语言的代表作,深受时尚人群喜爱。",
+     "highlights": [
+      "一字带",
+      "裸感",
+      "细高跟"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "sw-nearlynude",
+     "name": "Nearlynude 一字带高跟鞋",
+     "nameEn": "Nearlynude Sandal",
+     "type": "高跟鞋",
+     "price": {
+      "min": 4000,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Nearlynude 一字带高跟鞋以更纤细的鞋跟与简约的一字带设计,呈现轻盈的「近乎赤足」效果,跟高选择丰富。适合夏季礼服、婚礼与日常穿搭,是品牌常年畅销的经典凉鞋款。",
+     "highlights": [
+      "细跟",
+      "轻盈",
+      "多跟高"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "rickowens",
+   "name": "瑞克·欧文斯",
+   "nameEn": "Rick Owens",
+   "domain": "rickowens.com",
+   "categoryId": "fashion",
+   "country": "美国",
+   "founded": 1994,
+   "hq": "巴黎",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "暗黑",
+    "解构",
+    "先锋",
+    "廓形"
+   ],
+   "slogan": "",
+   "desc": "美国先锋设计师 Rick Owens 的同名品牌,以暗黑解构美学、廓形皮衣与 Geobasket「火山鞋」闻名,被誉为暗黑时尚之王,工作室设于巴黎。",
+   "story": "瑞克·欧文斯 1994 年在洛杉矶创立品牌,早期以地下女装秀与弹力皮革紧身裙闻名,2002 年转战纽约并随后移师巴黎,逐步确立暗黑先锋的地位。\n他与妻子 Michèle Lamy 携手经营,副线 DRKSHDW 的 Geobasket、Ramones 等鞋款成为潮人标配,Kanye West 等明星的青睐令其破圈;如今品牌还延伸至家具与出版,形成完整的暗黑美学体系。",
+   "products": [
+    {
+     "id": "ro-geobasket",
+     "name": "Geobasket 高帮运动鞋",
+     "nameEn": "Geobasket Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 5000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Geobasket 高帮运动鞋是瑞克·欧文斯最具辨识度的鞋款,加大加长的鞋头与夸张弧形轮廓被戏称「火山鞋」,小牛皮材质经做旧处理。是暗黑风格穿搭的标配,深受先锋时尚人群追捧,奠定了品牌鞋履的标志性地位。",
+     "highlights": [
+      "夸张轮廓",
+      "做旧皮面",
+      "暗黑标配"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "ro-ramones",
+     "name": "Ramones 低帮运动鞋",
+     "nameEn": "Ramones Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 3500,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Ramones 低帮运动鞋以朋克乐队 Ramones 命名,鞋头同样前伸拉长,绒面与皮面拼接,价格相对亲民。是入门瑞克·欧文斯的首选鞋型,适合暗黑风格初学者与追求潮酷感的日常穿搭人群。",
+     "highlights": [
+      "朋克致敬",
+      "低帮",
+      "入门款"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "ro-bikerjacket",
+     "name": "机车皮夹克",
+     "nameEn": "Biker Jacket",
+     "type": "皮衣",
+     "price": {
+      "min": 15000,
+      "max": 35000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "机车皮夹克以宽大落肩与不对称门襟重塑经典机车版型,小牛皮经手工鞣制呈现独特光泽。是品牌秀场与衣橱中的重磅单品,适合暗黑先锋风格的核心受众,集中体现瑞克·欧文斯的廓形实验。",
+     "highlights": [
+      "落肩廓形",
+      "小牛皮",
+      "重磅单品"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "ro-pods",
+     "name": "Pods 收口裤",
+     "nameEn": "Pods Pants",
+     "type": "裤装",
+     "price": {
+      "min": 4000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Pods 收口裤以裤腿如豆荚般蓬松收口的廓形为标志,弹力面料便于活动,搭配厚底鞋形成品牌标志性的比例感。是暗黑穿搭体系中的经典下装,适合风格鲜明、追求辨识度的时尚人群。",
+     "highlights": [
+      "豆荚廓形",
+      "弹力面料",
+      "标志性"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    },
+    {
+     "id": "ro-drkshdw",
+     "name": "DRKSHDW 副线",
+     "nameEn": "DRKSHDW",
+     "type": "服装副线",
+     "price": {
+      "min": 1000,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "DRKSHDW 是瑞克·欧文斯2005年推出的年轻副线,价格更亲民,延续暗黑美学,以基础卫衣、长袖与牛仔裤为主。是品牌受众最广的产品线,适合希望入门暗黑风格的年轻群体与日常穿搭者。",
+     "highlights": [
+      "年轻副线",
+      "暗黑美学",
+      "受众最广"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "thombrowne",
+   "name": "桑姆·布郎尼",
+   "nameEn": "Thom Browne",
+   "domain": "thombrowne.com",
+   "categoryId": "fashion",
+   "country": "美国",
+   "founded": 2001,
+   "hq": "纽约",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "四道杠",
+    "灰色西装",
+    "美式",
+    "学院风"
+   ],
+   "slogan": "",
+   "desc": "美国设计师品牌,以灰色西装、四道杠标识与超短裤等反常规剪裁著称,重新定义了美式西装的玩味与正式感,现由 Zegna 集团控股。",
+   "story": "桑姆·布郎尼 2001 年在纽约以定制西装起家,2003 年登上纽约时装周,以缩小一码的西装与红白蓝四道杠织带建立了极强的品牌符号。\n2018 年 Zegna 集团入股控股,品牌扩展至女装、童装与眼镜等品类;标志性的灰色西装、四道杠开衫与 Hector 大象包在全球时尚圈拥有极高辨识度,亦是美国 CFDA 大奖的常客。",
+   "products": [
+    {
+     "id": "tb-hoodie",
+     "name": "四道杠连帽卫衣",
+     "nameEn": "4-Bar Hoodie",
+     "type": "连帽卫衣",
+     "price": {
+      "min": 6000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "四道杠连帽卫衣是桑姆·布郎尼最具辨识度的休闲单品,胸前或手臂绣有标志性四道白杠,以重磅棉质毛圈布制成,版型方正偏短。适合追求学院风与美式精英设计感的时尚人群,是品牌休闲线的招牌。",
+     "highlights": [
+      "四道杠",
+      "重磅毛圈",
+      "方正版型"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "tb-suit",
+     "name": "经典灰色西装",
+     "nameEn": "Classic Grey Suit",
+     "type": "西装",
+     "price": {
+      "min": 18000,
+      "max": 35000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "美国设计师品牌 Thom Browne 的高奢西装,属设计师成衣类型。以中等灰色斜纹面料制成,缩短衣长、窄肩设计与露出脚踝的裤装颠覆传统西装比例,剪裁辨识度极高。适合追求个性着装的设计行业人士及时装爱好者,亦常见于时尚场合与红毯。作为品牌立身之作,它被视为设计师西装的教科书,深刻影响了当代男装比例审美。",
+     "highlights": [
+      "设计师剪裁",
+      "中灰斜纹",
+      "露踝裤"
+     ],
+     "tags": [
+      "西装"
+     ],
+     "image": null
+    },
+    {
+     "id": "tb-cardigan",
+     "name": "四道杠针织开衫",
+     "nameEn": "4-Bar Cardigan",
+     "type": "开衫",
+     "price": {
+      "min": 6000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Thom Browne 的高奢针织开衫,属设计师针织品类。以美利奴羊毛或马海毛织成,前襟与袖口点缀标志性的四道杠织带,学院气质浓厚,工艺精致。适合秋冬叠穿,通勤、校园风造型与时尚混搭皆宜,深受年轻绅士与时装爱好者喜爱。作为品牌最具辨识度的符号单品之一,它是设计师针织中的高人气经典,常被视为品牌风格的入门之选。",
+     "highlights": [
+      "美利奴羊毛",
+      "四道杠织带",
+      "学院风"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    },
+    {
+     "id": "tb-trousers",
+     "name": "灰色西裤",
+     "nameEn": "Grey Trousers",
+     "type": "裤装",
+     "price": {
+      "min": 4500,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Thom Browne 的高奢西裤,属设计师裤装品类。与品牌西装同源的灰色面料,裤线笔挺、腰头偏高,裤脚微露脚踝,剪裁讲究。常配织带乐福鞋穿着,适合商务场合与时装日常,深受追求独特比例感的男士青睐。作为品牌男装日装的核心单品,它与短款西装共同构成了品牌标志性的露踝比例美学,是当代设计师裤装的代表作。",
+     "highlights": [
+      "笔挺裤线",
+      "高腰",
+      "日装核心"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    },
+    {
+     "id": "tb-shorts",
+     "name": "四道杠短裤",
+     "nameEn": "4-Bar Shorts",
+     "type": "短裤",
+     "price": {
+      "min": 3000,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Thom Browne 的高奢短裤,属设计师夏季品类。以泡泡纱与法兰绒等经典面料制成,及膝以上的长度,侧边或后袋点缀标志性四道杠,做工考究。适合夏季休闲、度假与时尚街拍场景,是敢于表达个性的时髦男士的选择。作为品牌夏季最具话题度的单品,它以挑战常规的长度重新定义了男士短裤,成为设计师时装中的现象级符号。",
+     "highlights": [
+      "泡泡纱",
+      "及膝短裤",
+      "话题单品"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "tb-hectorbag",
+     "name": "Hector 大象包",
+     "nameEn": "Hector Bag",
+     "type": "手袋",
+     "price": {
+      "min": 8000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Thom Browne 的高奢手袋,属设计师趣味配饰品类。以设计师爱犬 Hector 命名,大象轮廓搭配精细皮革细节,造型立体、趣味十足。适合日常携带与造型点睛,是时尚人士与收藏爱好者的心头好,也常作为礼物馈赠。作为品牌配饰线的明星产品,它以幽默的动物造型打破了传统手袋的严肃感,在时装配饰中极具辨识度与话题度。",
+     "highlights": [
+      "大象造型",
+      "皮革细节",
+      "明星产品"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "isseymiyake",
+   "name": "三宅一生",
+   "nameEn": "ISSEY MIYAKE",
+   "domain": "isseymiyake.com",
+   "categoryId": "fashion",
+   "country": "日本",
+   "founded": 1970,
+   "hq": "东京",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "褶皱",
+    "一块布",
+    "日本设计",
+    "实验性"
+   ],
+   "slogan": "",
+   "desc": "日本传奇设计师三宅一生创立的品牌,以「一块布」哲学与 Pleats Please 褶皱工艺闻名于世,融合东方美学与现代剪裁,是日本时尚走向世界的代表。",
+   "story": "三宅一生 1970 年在东京成立设计工作室,1980 年代以立体剪裁与「一块布」理念震惊巴黎时装界,与山本耀司、川久保玲一同改写了西方对东方设计的认知。\n1993 年推出的 Pleats Please 褶皱系列与 2000 年问世的 BAO BAO 格纹手袋成为现象级单品;2022 年三宅一生离世后,设计团队延续其实验精神,品牌现拥有多个副线与 Homme Plissé 男装系列。",
+   "products": [
+    {
+     "id": "im-pleatsplease",
+     "name": "Pleats Please 褶皱系列",
+     "nameEn": "Pleats Please",
+     "type": "女装系列",
+     "price": {
+      "min": 3000,
+      "max": 9000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "日本品牌三宅一生 ISSEY MIYAKE 的高奢女装褶皱系列,1993 年问世,属经典成衣线。聚酯面料经热压定型形成持久褶皱,可自由舒展,轻便抗皱、易于收纳,无需刻意打理。适合通勤、旅行与日常穿着,尤其受注重舒适与设计感的都市女性欢迎。作为品牌最具影响力的经典系列,它将面料工艺转化为日常美学,是全球时装史上褶皱设计的里程碑。",
+     "highlights": [
+      "热压褶皱",
+      "轻便抗皱",
+      "经典系列"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-baobao",
+     "name": "BAO BAO 格纹手袋",
+     "nameEn": "BAO BAO Bag",
+     "type": "手袋",
+     "price": {
+      "min": 2000,
+      "max": 6000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "三宅一生 ISSEY MIYAKE 的高奢手袋,属设计师几何配饰品类。以三角形片材拼接成网状结构,随内容物改变而呈现流动廓形,材质轻盈坚韧。Prism 系列托特包是全球爆款,色彩选择极为丰富,适合通勤、出行与日常搭配,深受追求设计感的都市人群喜爱。作为品牌配饰线的技术代表作,它以几何拼接工艺成为当代最具辨识度的手袋之一,畅销全球。",
+     "highlights": [
+      "三角片拼接",
+      "流动廓形",
+      "爆款托特"
+     ],
+     "tags": [
+      "手袋"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-hommeplisse",
+     "name": "Homme Plissé 男装褶皱",
+     "nameEn": "Homme Plissé",
+     "type": "男装系列",
+     "price": {
+      "min": 3000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "三宅一生 ISSEY MIYAKE 的高奢男装褶皱线,2013 年推出,属设计师男装系列。轻若无物的热压褶皱夹克与裤装,兼具正式感与舒适度,可随身体自然舒展。适合通勤、出差与旅行场景,近年成为年轻男士提升着装品味的高人气选择。作为品牌男装的重要支线,它把标志性的褶皱工艺带入男士衣橱,是当代轻盈着装风格的代表,热度和口碑持续攀升。",
+     "highlights": [
+      "轻盈褶皱",
+      "通勤",
+      "2013 年推出"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-me",
+     "name": "me ISSEY MIYAKE",
+     "nameEn": "me ISSEY MIYAKE",
+     "type": "女装系列",
+     "price": {
+      "min": 2000,
+      "max": 6000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "me ISSEY MIYAKE 是三宅一生旗下定位年轻的高奢女装副线,属设计师成衣品类。以日常褶皱与弹性面料为主,设计简洁实用,价格较主线亲民,穿着轻松无负担。适合日常通勤与休闲场景,是初次接触品牌乃至设计师时装的理想入门选择。作为品牌面向年轻客群的重要支线,它延续了三宅一生对面料与身体的思考,以亲和的方式传递品牌的褶皱美学。",
+     "highlights": [
+      "年轻定位",
+      "日常褶皱",
+      "入门友好"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-1325",
+     "name": "132 5. 系列",
+     "nameEn": "132 5.",
+     "type": "女装系列",
+     "price": {
+      "min": 4000,
+      "max": 12000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "132 5. 是三宅一生 ISSEY MIYAKE 旗下以折纸为灵感的高奢实验女装系列,属设计师概念成衣。单件衣物可从平面几何折叠而成,展开后呈现立体廓形,并采用回收聚酯面料,体现可持续理念。适合关注设计实验与环保理念的时装爱好者,日常与场合穿着皆可。作为品牌最具艺术性的系列之一,它将折纸几何与可持续工艺结合,被视为服装结构与环保设计的先锋之作。",
+     "highlights": [
+      "折纸灵感",
+      "可持续",
+      "实验性"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "im-mainline",
+     "name": "ISSEY MIYAKE 主线",
+     "nameEn": "ISSEY MIYAKE",
+     "type": "女装系列",
+     "price": {
+      "min": 8000,
+      "max": 40000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "ISSEY MIYAKE 主线是三宅一生品牌的核心高奢女装系列,属设计师秀场成衣。延续立体剪裁与新材料实验的传统,每季以织物研究为主题,廓形前卫而实穿,工艺与创意并重。适合追求先锋设计感的时装爱好者与艺术人群,亦见于美术馆与秀场等文化场合。作为日本设计最高水准的代表之一,主线持续探索布料与身体的关系,在当代时装史上占据重要地位。",
+     "highlights": [
+      "立体剪裁",
+      "新材料",
+      "秀场主线"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "cmdesgarcons",
+   "name": "川久保玲",
+   "nameEn": "Comme des Garçons",
+   "domain": "commedesgarcons.com",
+   "categoryId": "fashion",
+   "country": "日本",
+   "founded": 1969,
+   "hq": "东京",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "先锋",
+    "黑色",
+    "解构",
+    "PLAY"
+   ],
+   "slogan": "",
+   "desc": "川久保玲创立的日本传奇设计品牌,1981 年巴黎首秀以「黑色破坏」震撼时装界,主线坚持先锋实验,PLAY 心形线与香水则让品牌走向大众。",
+   "story": "川久保玲 1969 年在东京创立品牌,1981 年与山本耀司同场在巴黎发布,宽大的黑色廓形与「破洞」设计颠覆了西方审美,被视为日本新浪潮时装的开端。\n品牌此后不断扩张,2002 年推出 Filip Pagowski 设计的 PLAY 心形标志,与匡威等联名风靡全球;2004 年开创买手店 Dover Street Market,如今主线与十余条副线并行,仍是先锋时尚的旗帜。",
+   "products": [
+    {
+     "id": "cdg-play",
+     "name": "PLAY 心形系列",
+     "nameEn": "CDG PLAY",
+     "type": "T恤/卫衣",
+     "price": {
+      "min": 700,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "PLAY 是日本品牌 Comme des Garçons 川久保玲旗下的人气副线,属 T 恤与卫衣品类。以波兰插画师 Filip Pagowski 设计的红心大眼睛图案为标志,棉质面料搭配简洁版型,辨识度极高。适合日常休闲与情侣、好友同款场景,是年轻潮流人群的热门选择。作为先锋品牌中最亲民的大众符号,PLAY 让川久保玲的设计语言触达更广泛人群,也是品牌联名的常客。",
+     "highlights": [
+      "红心 logo",
+      "人气单品",
+      "联名常客"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cdg-mainline",
+     "name": "主线成衣",
+     "nameEn": "Comme des Garçons",
+     "type": "女装系列",
+     "price": {
+      "min": 6000,
+      "max": 40000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Comme des Garçons 主线是川久保玲品牌的核心高奢女装系列,属设计师实验成衣。以解构、不对称与实验性廓形著称,每季概念强烈,打破常规服装结构,工艺极具挑战性。适合收藏级时装爱好者与艺术表达场景,亦是秀场与时装评论的焦点。作为巴黎时装周最受关注的发布之一,主线自诞生以来持续颠覆西方时装体系,奠定了日本设计师在世界的先锋地位。",
+     "highlights": [
+      "解构",
+      "实验廓形",
+      "巴黎主秀"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cdg-hommeplus",
+     "name": "Homme Plus 男装",
+     "nameEn": "Homme Plus",
+     "type": "男装系列",
+     "price": {
+      "min": 5000,
+      "max": 30000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Comme des Garçons Homme Plus 是川久保玲品牌的高奢男装主线,属设计师男装系列。以打破常规的西装剪裁与材质拼接闻名,延续品牌的解构与先锋语言,廓形大胆、细节考究。适合追求个性剪裁的男装爱好者与时尚场合穿着,是男装周的高光系列之一。作为品牌男装的核心阵地,Homme Plus 多年来持续挑战传统男装范式,深刻影响了当代男装的解构思潮。",
+     "highlights": [
+      "男装主线",
+      "西装解构",
+      "材质拼接"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cdg-shirt",
+     "name": "SHIRT 系列",
+     "nameEn": "CDG SHIRT",
+     "type": "衬衫",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "SHIRT 是 Comme des Garçons 川久保玲旗下专注衬衫品类的高奢副线,属设计师日常成衣。以波点、条纹与打破常规的印花图案为特色,面料与版型考究,剪裁干净利落。适合通勤、商务休闲与叠穿造型,是品牌价格与设计平衡感最好的日常线。作为品牌最实用的支线之一,SHIRT 让解构趣味落入经典衬衫品类,深受都市男士与设计师品牌爱好者的欢迎。",
+     "highlights": [
+      "印花图案",
+      "版型考究",
+      "日常线"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cdg-parfums",
+     "name": "香水系列",
+     "nameEn": "CDG Parfums",
+     "type": "香水",
+     "price": {
+      "min": 600,
+      "max": 1600,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Comme des Garçons Parfums 是川久保玲品牌 1994 年起推出的高奢香氛线,属概念型香水。Odeur 53、Wonderwood 等作品以工业与木质元素入香,打破传统香调框架,概念前卫,瓶身设计亦具收藏价值。适合追求独特气味的香氛玩家与设计师品牌爱好者,日常与场合皆宜。作为先锋时装品牌做香的代表,它以实验精神拓展了香水的边界,在 niche 香水界享有盛誉。",
+     "highlights": [
+      "概念香",
+      "Odeur 53",
+      "瓶身设计"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "cdg-converse",
+     "name": "匡威联名帆布鞋",
+     "nameEn": "CDG x Converse",
+     "type": "帆布鞋",
+     "price": {
+      "min": 700,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "CDG PLAY x Converse 是 Comme des Garçons 川久保玲与匡威的长期联名帆布鞋,属潮流休闲鞋履。以经典 Chuck Taylor 帆布鞋为基底,鞋侧点缀 PLAY 红心标志,黑白两色最为经典,设计克制而辨识度高。适合日常休闲与入门搭配,是年轻人认识品牌最平价的方式之一。作为时装与球鞋文化联动的代表作,该联名常年保持高热度,是跨界合作中的教科书案例。",
+     "highlights": [
+      "红心点缀",
+      "Chuck Taylor",
+      "高热度"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "yohjiyamamoto",
+   "name": "山本耀司",
+   "nameEn": "Yohji Yamamoto",
+   "domain": "yohjiyamamoto.co.jp",
+   "categoryId": "fashion",
+   "country": "日本",
+   "founded": 1972,
+   "hq": "东京",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "黑色",
+    "解构",
+    "不对称",
+    "Y-3"
+   ],
+   "slogan": "",
+   "desc": "山本耀司的同名品牌,以黑色、不对称与解构剪裁定义了「反时尚」美学,主线与 Y's、Y-3 等副线并行,是日本设计师品牌的世界级代表。",
+   "story": "山本耀司 1972 年创立公司并推出女装线 Y's,1981 年与川久保玲同场登陆巴黎,宽松的黑色设计与暧昧的性别表达震撼西方时装界。\n此后品牌陆续推出男装主线 Pour Homme 与潮流副线 Ground Y;2002 年与阿迪达斯达成合作推出运动系列 Y-3,开创高级时装与运动品牌联名的先河;如今品牌仍由山本耀司主理,黑色哲学影响深远。",
+   "products": [
+    {
+     "id": "yy-mainline",
+     "name": "主线女装",
+     "nameEn": "Yohji Yamamoto",
+     "type": "女装系列",
+     "price": {
+      "min": 8000,
+      "max": 50000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Yohji Yamamoto 主线是山本耀司品牌的核心高奢女装系列,属设计师暗黑成衣。以垂坠的黑色廓形、不对称下摆与精湛剪裁著称,面料肌理丰富,工艺极为讲究。适合追求独立审美与高级感的女装爱好者,亦常见于秀场与艺术场合。作为暗黑美学的最高表达,主线自 80 年代登陆巴黎起便重塑了西方对黑色的认知,是日本时装在世界舞台的标志性存在。",
+     "highlights": [
+      "黑色廓形",
+      "不对称",
+      "垂坠感"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "yy-pourhomme",
+     "name": "Pour Homme 男装",
+     "nameEn": "Yohji Yamamoto Pour Homme",
+     "type": "男装系列",
+     "price": {
+      "min": 6000,
+      "max": 40000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Yohji Yamamoto Pour Homme 是山本耀司品牌的高奢男装主线,属设计师男装系列。以宽肩长身的外套、层叠穿法与文字刺绣为特色,融合严谨的裁缝工艺与街头气质,廓形辨识度极高。适合追求个性剪裁与黑色美学的男装发烧友,日常与时尚场合皆可驾驭。作为品牌男装的核心阵地,它深受全球时装爱好者追捧,是宽大廓形男装潮流的重要源头之一。",
+     "highlights": [
+      "宽肩廓形",
+      "文字刺绣",
+      "裁缝工艺"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "yy-ys",
+     "name": "Y's 副线",
+     "nameEn": "Y's",
+     "type": "女装系列",
+     "price": {
+      "min": 3000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Y's 是山本耀司 1972 年创立品牌时的首个系列,现为其高奢女装副线,属设计师日常成衣。延续品牌的黑色美学与利落剪裁,但更日常实穿,价格较主线亲民,工艺水准依然出色。适合通勤与日常场景,是体验山本耀司剪裁功力的入门之选。作为品牌历史的起点,Y's 见证了设计师生涯的开端,半个世纪以来始终是黑色系实穿女装的经典代表。",
+     "highlights": [
+      "1972 年诞生",
+      "日常实穿",
+      "入门之选"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "yy-y3",
+     "name": "Y-3 运动系列",
+     "nameEn": "Y-3",
+     "type": "运动系列",
+     "price": {
+      "min": 1000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Y-3 是山本耀司与阿迪达斯合作创立的高端运动时装线,属运动风格系列。以 Y-3 字标与黑色科技面料为标志,将高级时装廓形注入运动服饰,运动鞋与外套人气最高,功能性出色。适合日常通勤、运动休闲与街头造型,深受潮流人士与时装爱好者欢迎。作为高端运动时装的开创者之一,Y-3 是奢侈品牌与运动巨头合作的经典范本,持续引领机能与时装的融合。",
+     "highlights": [
+      "阿迪达斯合作",
+      "黑色科技面料",
+      "运动鞋热门"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "yy-groundy",
+     "name": "Ground Y",
+     "nameEn": "Ground Y",
+     "type": "潮流副线",
+     "price": {
+      "min": 1500,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Ground Y 是山本耀司旗下面向年轻客群的潮流副线,属设计师休闲成衣。以街头文化为灵感,标志性 Y 字标卫衣与廓形外套价格友好,延续品牌的黑色语言与利落剪裁。适合日常休闲与学生、年轻上班族等初次接触品牌的客群。作为品牌年轻化战略的重要一环,Ground Y 让山本耀司的美学以更轻松的价格触达新生代,是设计师副线运营的成功案例。",
+     "highlights": [
+      "Y 字标",
+      "年轻客群",
+      "价格友好"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "paulsmith",
+   "name": "保罗·史密斯",
+   "nameEn": "Paul Smith",
+   "domain": "paulsmith.com",
+   "categoryId": "fashion",
+   "country": "英国",
+   "founded": 1970,
+   "hq": "伦敦",
+   "tier": "轻奢",
+   "sub": "设计师",
+   "tags": [
+    "英伦",
+    "彩条",
+    "趣味",
+    "剪裁"
+   ],
+   "slogan": "",
+   "desc": "英国设计师保罗·史密斯的同名品牌,以标志性的彩色 Artist Stripe 条纹与「经典中带一点趣味」的英式剪裁闻名,产品涵盖男女装、皮具与家居。",
+   "story": "保罗·史密斯原是一名自行车运动员,17 岁因车祸住院期间结识时尚圈友人,1970 年在故乡诺丁汉开设首家小店,1976 年推出首个男装系列。\n品牌以英伦剪裁融合流行文化与艺术趣味,标志性彩条出现在针织、钱包与袜子上,广受全球都市人群喜爱;伦敦梅菲尔的旗舰店与摄影展览也成为城市文化地标,是英国设计输出的代表之一。",
+   "products": [
+    {
+     "id": "ps-stripe-knit",
+     "name": "Artist Stripe 彩条针织",
+     "nameEn": "Artist Stripe Knitwear",
+     "type": "针织衫",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Artist Stripe 彩条针织是英国轻奢品牌 Paul Smith 的标志性品类,属设计师针织衫。以品牌标志性的多色条纹织成,出现在毛衣、围巾与 T 恤上,织造工艺精细,英伦趣味十足。适合秋冬通勤与休闲叠穿,是喜欢低调中带一点亮点的都市男士的理想选择。作为辨识度最高的品牌符号,彩条图案已成为 Paul Smith 的视觉名片,在英伦时尚中极具代表性。",
+     "highlights": [
+      "标志彩条",
+      "多色织造",
+      "品牌符号"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "ps-wallet",
+     "name": "彩条钱包",
+     "nameEn": "Stripe Wallet",
+     "type": "皮具",
+     "price": {
+      "min": 900,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "彩条钱包是英国轻奢品牌 Paul Smith 的经典皮具,属男士小件配饰。以平滑牛皮制成,翻开内衬或边缘饰以品牌标志性彩条,轻便实用,做工扎实。适合日常随身携带与送礼场景,是男士入门该品牌最经典的礼物单品之一。作为品牌小皮具的代表,它以低调外表下藏彩条的巧思体现了 Paul Smith 的英式幽默,长期稳居入门礼物的热门之选。",
+     "highlights": [
+      "牛皮",
+      "彩条内衬",
+      "送礼经典"
+     ],
+     "tags": [
+      "配饰"
+     ],
+     "image": null
+    },
+    {
+     "id": "ps-suit",
+     "name": "主线西装",
+     "nameEn": "Paul Smith Suit",
+     "type": "西装",
+     "price": {
+      "min": 8000,
+      "max": 20000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "主线西装是英国轻奢品牌 Paul Smith 的核心品类,属设计师成衣西装。以英式剪裁为底,修身而不过分紧绷,内衬常印有意趣图案或彩条,细节充满惊喜。适合商务与场合着装,是希望在职场着装中保留个性的男士之选。作为英式西装的代表之一,Paul Smith 以经典版型搭配趣味内衬,诠释了传统英伦裁剪与当代趣味的平衡,广受都市绅士欢迎。",
+     "highlights": [
+      "英式剪裁",
+      "趣味内衬",
+      "修身"
+     ],
+     "tags": [
+      "西装"
+     ],
+     "image": null
+    },
+    {
+     "id": "ps-psline",
+     "name": "PS Paul Smith",
+     "nameEn": "PS Paul Smith",
+     "type": "休闲成衣",
+     "price": {
+      "min": 800,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "PS Paul Smith 是英国轻奢品牌 Paul Smith 面向年轻客群的副线,属休闲成衣品类。以轻松的休闲西装、T 恤与衬衫为主,价格更亲民,设计保留品牌的彩条与趣味细节,版型偏年轻化。适合日常通勤与休闲场景,是学生与年轻职场人的入门选择。作为品牌年轻化的重要支线,PS Paul Smith 在亲民价格与设计趣味之间取得平衡,延续了品牌的英式幽默基因。",
+     "highlights": [
+      "年轻副线",
+      "价格亲民",
+      "彩条细节"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "ps-shirt",
+     "name": "男士衬衫",
+     "nameEn": "Men's Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 1200,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "男士衬衫是英国轻奢品牌 Paul Smith 销量最稳定的品类,属设计师日常成衣。以埃及棉等优质面料制成,版型利落,袖口内衬与彩条撞色是隐藏彩蛋,细节考究。适合商务通勤与休闲场合,可正装可单穿,深受注重品质与细节的都市男士欢迎。作为品牌的常青品类,Paul Smith 衬衫以传统英式版型融入设计巧思,是经典衬衫中兼具趣味与品质的代表。",
+     "highlights": [
+      "埃及棉",
+      "撞色内衬",
+      "稳定畅销"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "ps-socks",
+     "name": "条纹袜子",
+     "nameEn": "Stripe Socks",
+     "type": "袜子",
+     "price": {
+      "min": 100,
+      "max": 300,
+      "currency": "CNY",
+      "label": "零售参考价"
+     },
+     "desc": "条纹袜子是英国轻奢品牌 Paul Smith 的小件配饰,属入门品类。以彩条与波点图案为特色,棉质舒适亲肤,价格低廉,图案选择丰富。适合日常穿着与送礼,也是许多消费者接触品牌的第一件单品。作为全球门店最受欢迎的入门单品之一,Paul Smith 袜子以小而美的英式趣味广受欢迎,常被用作点缀整体造型的细节单品,人气经久不衰。",
+     "highlights": [
+      "彩条图案",
+      "棉质",
+      "入门单品"
+     ],
+     "tags": [
+      "配饰"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "jeanpaulgaultier",
+   "name": "高缇耶",
+   "nameEn": "Jean Paul Gaultier",
+   "domain": "jeanpaulgaultier.com",
+   "categoryId": "fashion",
+   "country": "法国",
+   "founded": 1982,
+   "hq": "巴黎",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "胸衣",
+    "香水",
+    "戏谑",
+    "法式"
+   ],
+   "slogan": "",
+   "desc": "法国「时尚顽童」让·保罗·高缇耶的同名品牌,以锥形胸衣、海魂衫与性别模糊设计著称,香水 Le Male 与 Classique 是全球畅销经典。",
+   "story": "让·保罗·高缇耶 1976 年发表首个个人系列,1982 年正式创立品牌,以大胆戏谑的风格被称为「时尚坏孩子」;1990 年为麦当娜设计的锥形胸衣成为流行文化的符号。\n1993 年推出的 Classique 与 1995 年的 Le Male 以躯干瓶身风靡全球;品牌成衣线于 2015 年停摆,转向高级定制与香水业务,香水现归 Puig 集团旗下,高定秀仍是巴黎日程中最具表演性的场次之一。",
+   "products": [
+    {
+     "id": "jpg-lemale",
+     "name": "Le Male 男士香水",
+     "nameEn": "Le Male",
+     "type": "香水",
+     "price": {
+      "min": 500,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "Le Male 是法国品牌 Jean Paul Gaultier 高缇耶 1995 年推出的经典男士香水,属东方调男香。以薰衣草与香草的组合造就性感温暖的气息,水手服造型的躯干瓶身辨识度极高,设计感十足。适合日常、约会与夜间场合,是成熟男士与香水入门者的常青选择。作为全球销量最高的男香之一,Le Male 以大胆瓶身与经典香调成为 90 年代至今的香水传奇。",
+     "highlights": [
+      "躯干瓶身",
+      "东方调",
+      "畅销经典"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "jpg-classique",
+     "name": "Classique 女士香水",
+     "nameEn": "Classique",
+     "type": "香水",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "Classique 是法国品牌 Jean Paul Gaultier 高缇耶 1993 年问世的品牌首支香水,属花香调女香。以橙花与香草构成性感气息,锥形胸衣瓶身致敬品牌最著名的服装符号,视觉冲击力强。适合约会与晚间场合,是喜爱浓郁女人味香气的女性之选。作为 90 年代的标志性女香,Classique 以时装语言入瓶,开创了以服饰符号塑造香水形象的先河,至今仍是品牌经典。",
+     "highlights": [
+      "胸衣瓶身",
+      "花香调",
+      "90 年代经典"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "jpg-scandal",
+     "name": "Scandal 香水",
+     "nameEn": "Scandal",
+     "type": "香水",
+     "price": {
+      "min": 600,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "Scandal 是法国品牌 Jean Paul Gaultier 高缇耶 2017 年推出的现代香水,属甜美浓郁的女香。以蜂蜜与广藿香构成饱满甜蜜的香气,瓶身雕塑般的腿部造型颇具话题性。适合晚间派对与秋冬场合,是喜欢高调甜香的年轻女性的热门选择。作为近年品牌香水线的销量担当,Scandal 以大胆的瓶身设计与浓甜香调延续了高缇耶挑战禁忌的品牌精神。",
+     "highlights": [
+      "蜂蜜香调",
+      "腿部瓶身",
+      "现代爆款"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "jpg-labelle",
+     "name": "La Belle 香水",
+     "nameEn": "La Belle",
+     "type": "香水",
+     "price": {
+      "min": 600,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "La Belle 是法国品牌 Jean Paul Gaultier 高缇耶旗下的现代女香,属甜美果香调香水。以梨子与琥珀构成甜润迷人的香气,裸色躯干瓶身延续品牌标志性的身体符号,视觉辨识度高。适合约会与日常场合,定位性感迷人的现代女性,是品牌香水矩阵中的甜美担当。作为品牌近年主推的系列之一,La Belle 延续了高缇耶以时装符号造瓶的传统,人气持续走高。",
+     "highlights": [
+      "果香调",
+      "琥珀",
+      "甜美"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "jpg-couture",
+     "name": "高级定制系列",
+     "nameEn": "Haute Couture",
+     "type": "高级定制",
+     "price": {
+      "min": 200000,
+      "max": 1000000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "高级定制系列是法国品牌 Jean Paul Gaultier 高缇耶成衣停摆后的核心业务,属巴黎高定品类。锥形胸衣与解构礼服是标志符号,每件均按客定制、需赴巴黎工坊预约,工艺繁复、耗时漫长。适合红毯、婚礼与时装收藏等场合,面向明星名流与高定藏家。作为法式高定戏剧传统的延续者,该系列以性感与幽默解构时装规范,是巴黎高定日历上最受期待的发布之一。",
+     "highlights": [
+      "锥形胸衣",
+      "按件定制",
+      "巴黎工坊"
+     ],
+     "tags": [
+      "高定"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "philippplein",
+   "name": "菲利普·普莱因",
+   "nameEn": "Philipp Plein",
+   "domain": "philippplein.com",
+   "categoryId": "fashion",
+   "country": "德国",
+   "founded": 1998,
+   "hq": "卢加诺",
+   "tier": "高奢",
+   "sub": "设计师",
+   "tags": [
+    "水钻",
+    "骷髅",
+    "潮奢",
+    "夸张"
+   ],
+   "slogan": "",
+   "desc": "德国设计师 Philipp Plein 创立的同名品牌,以骷髅图案、水钻铆钉与夸张 logo 著称,风格张扬浮夸,深受夜店文化与明星潮人喜爱,总部位于瑞士。",
+   "story": "菲利普·普莱因 1998 年在德国慕尼黑创立品牌,以水钻骷髅、大幅 logo 与黑色机车元素迅速打开市场,张扬的设计在年轻客群中广受欢迎。\n品牌以巨星助阵的盛大秀场著称,先后邀请知名歌手在米兰与纽约时装周献演;现于瑞士运营,产品覆盖男女装、童装、腕表与家居,门店遍布欧洲与中东旅游购物区,是「潮奢」路线的代表。",
+   "products": [
+    {
+     "id": "pp-skull-tee",
+     "name": "骷髅印花 T 恤",
+     "nameEn": "Skull T-Shirt",
+     "type": "T 恤",
+     "price": {
+      "min": 1500,
+      "max": 4500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "骷髅印花 T 恤是德国品牌 Philipp Plein 菲利普·普莱因的高奢基础单品,属潮流 T 恤品类。以品牌标志性的骷髅图案与水钻刺绣为特征,棉质面料厚实,版型偏大,视觉冲击强烈。适合休闲街拍、夜生活与派对场合,是张扬个性的年轻人群的选择。作为品牌最基础也最具辨识度的单品,骷髅与水钻的组合奠定了 Philipp Plein 浮华炫目的设计语言。",
+     "highlights": [
+      "骷髅图案",
+      "水钻",
+      "版型偏大"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "pp-crystal-hoodie",
+     "name": "水钻卫衣",
+     "nameEn": "Crystal Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 3500,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "水钻卫衣是德国品牌 Philipp Plein 菲利普·普莱因的高奢代表性单品,属潮流卫衣品类。帽衫上以水钻拼出骷髅与品牌字标,在灯光下格外抢眼,棉质面料厚实有型。适合夜生活与派对场景,是追求高调造型的潮人偶像之选。作为品牌派对风格的代表单品,水钻卫衣集中体现了 Philipp Plein 奢华炫目的审美,深受说唱艺人与时尚潮人的喜爱。",
+     "highlights": [
+      "水钻拼标",
+      "派对场景",
+      "抢眼"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "pp-jeans",
+     "name": "牛仔裤",
+     "nameEn": "Jeans",
+     "type": "裤装",
+     "price": {
+      "min": 3000,
+      "max": 7000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "牛仔裤是德国品牌 Philipp Plein 菲利普·普莱因起家的核心品类,属高奢丹宁裤装。以破洞、泼墨与铆钉装饰著称,弹力丹宁面料包裹感强,后袋刺绣品牌徽标,工艺装饰密度高。适合夜店、派对与街头造型,是喜爱张扬风格的年轻人群的选择。作为品牌起家的根基品类,Philipp Plein 牛仔裤以奢华化改造丹宁闻名,是其浮华美学的最初载体。",
+     "highlights": [
+      "破洞丹宁",
+      "铆钉装饰",
+      "核心品类"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    },
+    {
+     "id": "pp-sneakers",
+     "name": "运动鞋",
+     "nameEn": "Sneakers",
+     "type": "运动鞋",
+     "price": {
+      "min": 3000,
+      "max": 8000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "运动鞋是德国品牌 Philipp Plein 菲利普·普莱因的高奢鞋履品类,属潮流板鞋。低帮板鞋造型搭配水钻字标与金属铆钉,鞋底厚重,黑白配色居多,做工偏重装饰性。适合日常休闲与派对造型,是整体穿搭的点睛单品,深受潮流人群喜爱。作为品牌鞋履线的代表,Philipp Plein 运动鞋延续骷髅与水钻的炫目语言,是浮华运动风格的典型代表。",
+     "highlights": [
+      "水钻字标",
+      "厚底",
+      "黑白配色"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "pp-leatherjacket",
+     "name": "机车皮夹克",
+     "nameEn": "Leather Biker Jacket",
+     "type": "皮衣",
+     "price": {
+      "min": 8000,
+      "max": 20000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "机车皮夹克是德国品牌 Philipp Plein 菲利普·普莱因的高奢皮衣品类,属潮流外套。以黑色小牛皮或羊皮制成,银色铆钉与拉链密集排列,剪裁修身,质感硬朗。适合夜生活、机车风与摇滚造型,是追求夸张气场的人群的选择。作为品牌摇滚精神的集中体现,Philipp Plein 机车皮夹克以高密度金属装饰重塑经典机车夹克,是其标志性秀场单品之一。",
+     "highlights": [
+      "黑色皮料",
+      "铆钉拉链",
+      "修身剪裁"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "pp-dress",
+     "name": "水钻连衣裙",
+     "nameEn": "Crystal Dress",
+     "type": "连衣裙",
+     "price": {
+      "min": 4000,
+      "max": 10000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "水钻连衣裙是德国品牌 Philipp Plein 菲利普·普莱因的高奢女装品类,属派对礼服。以弹力面料包裹身形,满幅水钻或亮片装饰,多为包臀短裙造型,在灯光下极为夺目。适合派对、宴会与夜店场合,是喜爱高调华丽风格的女性之选。作为品牌女装的高人气品类,Philipp Plein 水钻连衣裙延续了品牌极致炫目的美学,是红毯与派对街拍中的常客。",
+     "highlights": [
+      "满幅水钻",
+      "包臀剪裁",
+      "派对"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "brooksbrothers",
+   "name": "布克兄弟",
+   "nameEn": "Brooks Brothers",
+   "domain": "brooksbrothers.com",
+   "categoryId": "fashion",
+   "country": "美国",
+   "founded": 1818,
+   "hq": "纽约",
+   "tier": "轻奢",
+   "sub": "成衣",
+   "tags": [
+    "美式经典",
+    "牛津衬衫",
+    "常春藤",
+    "老钱风"
+   ],
+   "slogan": "",
+   "desc": "美国历史最悠久的服装品牌,1818 年创立于纽约,以牛津纺扣领衬衫、美式西装与金羊毛标志闻名,曾为四十余位美国总统提供着装,是常春藤风格的奠基者。",
+   "story": "布克兄弟 1818 年在纽约开业,是美国现存最古老的服装零售商,曾率先将成衣西装、牛津纺扣领衬衫与泡泡纱西装引入美国市场,深刻塑造了美式商务着装规范。\n金羊毛标志源自古老纹章,代表品牌对做工的承诺;其客户名单中包括多位美国总统,《了不起的盖茨比》等文学作品亦有其着装想象;2020 年品牌被 Authentic Brands 集团收购,继续以经典美式风格服务全球市场。",
+   "products": [
+    {
+     "id": "bb-oxfordshirt",
+     "name": "牛津纺扣领衬衫",
+     "nameEn": "Oxford Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 500,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "牛津纺扣领衬衫是美国老牌 Brooks Brothers 布克兄弟的经典单品,属轻奢正装衬衫。1896 年引入美国,以耐穿的牛津布与领尖扣设计著称,蓝白条纹最为经典,面料挺实耐穿。适合商务、通勤与学院休闲场景,是常春藤风格爱好者的必备。作为美式衣橱的基石单品,这件衬衫定义了美国男士的着装传统,一个多世纪以来始终是经典男装的教科书。",
+     "highlights": [
+      "1896 年引入",
+      "领尖扣",
+      "牛津布"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "bb-1818suit",
+     "name": "1818 系列西装",
+     "nameEn": "1818 Suit",
+     "type": "西装",
+     "price": {
+      "min": 6000,
+      "max": 16000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "1818 系列西装是美国老牌 Brooks Brothers 布克兄弟最高规格的成衣西装,属轻奢正装品类。以全羊毛精纺面料与半麻衬工艺制作,提供 Madison 等经典版型,垂感与耐穿性俱佳。适合商务会议、正式场合与日常职场,是商务男士的可靠之选。作为美式商务西装的标杆,1818 系列承载了品牌两百余年的制衣传统,是美式西装版型的正统代表。",
+     "highlights": [
+      "半麻衬工艺",
+      "精纺羊毛",
+      "经典版型"
+     ],
+     "tags": [
+      "西装"
+     ],
+     "image": null
+    },
+    {
+     "id": "bb-goldenfleece",
+     "name": "Golden Fleece 金羊毛西装",
+     "nameEn": "Golden Fleece Suit",
+     "type": "西装",
+     "price": {
+      "min": 10000,
+      "max": 25000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Golden Fleece 金羊毛西装是美国老牌 Brooks Brothers 布克兄弟的顶配成衣西装系列,以品牌金羊毛标志命名,属轻奢高端正装。采用更高级的面料与更精细的做工,细节处理考究,成衣水准接近定制。适合重要的商务与礼仪场合,面向追求极致品质的资深西装人士。作为品牌工艺的最高代表,金羊毛系列凝聚了布克兄弟的制衣精华,是美国成衣西装的顶级之作。",
+     "highlights": [
+      "金羊毛标志",
+      "高级面料",
+      "精细做工"
+     ],
+     "tags": [
+      "西装"
+     ],
+     "image": null
+    },
+    {
+     "id": "bb-polocoat",
+     "name": "Polo 驼色大衣",
+     "nameEn": "Polo Coat",
+     "type": "大衣",
+     "price": {
+      "min": 6000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "Polo 驼色大衣是美国老牌 Brooks Brothers 布克兄弟的经典大衣,属轻奢外套品类。源自 20 世纪初为马球运动员设计的驼色大衣,以骆驼绒或驼毛混纺制成,双排扣宽腰身,保暖性与气场兼备。适合秋冬通勤与正装场合,是经典男装爱好者的收藏级单品。作为《了不起的盖茨比》时代的经典,Polo Coat 见证了美式绅士风格的黄金年代,至今仍是驼色大衣的原型。",
+     "highlights": [
+      "骆驼绒",
+      "双排扣",
+      "文学经典"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "bb-cashmere",
+     "name": "羊绒针织衫",
+     "nameEn": "Cashmere Sweater",
+     "type": "针织衫",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "羊绒针织衫是美国老牌 Brooks Brothers 布克兄弟的经典针织品类,属轻奢毛衣。以山羊绒纱线织成,圆领与 V 领为主,手感柔软保暖,可单穿亦可与衬衫叠穿,配色以学院色系见长。适合秋冬通勤、校园与休闲场景,是常春藤风格的标准配置。作为美式学院衣橱的经典,布克兄弟羊绒衫以传承百年的面料品质,成为经典针织中的可靠之选。",
+     "highlights": [
+      "山羊绒",
+      "V 领圆领",
+      "叠穿经典"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "boss",
+   "name": "雨果博斯",
+   "nameEn": "BOSS",
+   "domain": "hugoboss.com",
+   "categoryId": "fashion",
+   "country": "德国",
+   "founded": 1924,
+   "hq": "麦青根",
+   "tier": "轻奢",
+   "sub": "成衣",
+   "tags": [
+    "商务",
+    "西装",
+    "德系",
+    "都市"
+   ],
+   "slogan": "",
+   "desc": "德国高端时装集团 Hugo Boss 的主品牌,以精良的商务西装与德式剪裁著称,产品扩展至衬衫、香水、腕表与休闲服饰,是全球商务男装的代表之一。",
+   "story": "雨果·博斯 1924 年在德国小镇麦青根创立同名服装厂,战后品牌转向男装西装业务,1970 年代以「BOSS」品牌之名在国际化进程中崛起,1990 年代形成 BOSS 与 HUGO 双线格局。\n如今 BOSS 定位现代商务与精致休闲,1998 年推出的 BOSS Bottled 香水常年位居全球畅销榜,品牌还通过赞助高尔夫、赛车等运动强化形象,在全球拥有数千个销售点。",
+   "products": [
+    {
+     "id": "boss-suit",
+     "name": "商务西装",
+     "nameEn": "Business Suit",
+     "type": "西装",
+     "price": {
+      "min": 4000,
+      "max": 15000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "商务西装是德国品牌 BOSS 雨果博斯立身的核心品类,属轻奢正装。以德式修身剪裁与精纺羊毛面料著称,提供修身至常规多种版型,做工规整、垂感利落。适合商务会议、职场日常与正式场合,是全球职场男士的高频选择。作为德系商务西装的代表,BOSS 西装以现代剪裁与稳定品质著称,长期位居国际商务着装的主流之列。",
+     "highlights": [
+      "修身剪裁",
+      "精纺羊毛",
+      "多版型"
+     ],
+     "tags": [
+      "西装"
+     ],
+     "image": null
+    },
+    {
+     "id": "boss-shirt",
+     "name": "商务衬衫",
+     "nameEn": "Business Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 700,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "商务衬衫是德国品牌 BOSS 雨果博斯的核心品类,属轻奢正装衬衫。以易打理的免烫棉布与合体剪裁为特色,领型与袖口细节规整,蓝白深色系为主,日常打理省心。适合职场通勤与商务差旅,是注重效率与体面的职场男士的高性价比选择。作为职场衬衫的经典之选,BOSS 以德式严谨版型与实用面料处理,成为商务衬衫市场的稳定畅销品牌。",
+     "highlights": [
+      "免烫棉",
+      "合体剪裁",
+      "职场经典"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "boss-bottled",
+     "name": "BOSS Bottled 香水",
+     "nameEn": "BOSS Bottled",
+     "type": "香水",
+     "price": {
+      "min": 400,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "BOSS Bottled 是德国品牌 BOSS 雨果博斯 1998 年推出的代表作,属木质调男士香水。以苹果、肉桂与檀木构成温暖沉稳的气息,留香与扩散均衡,日常易穿。适合办公室、通勤与日常场合,是职场男士的标志性气味。被赞「事业有成男士的味道」,常年位居全球男香畅销榜,是 90 年代末以来最具影响力的商务男香之一。",
+     "highlights": [
+      "木质调",
+      "1998 年推出",
+      "畅销男香"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "boss-polo",
+     "name": "Polo 衫",
+     "nameEn": "Polo Shirt",
+     "type": "Polo 衫",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "Polo 衫是德国品牌 BOSS 雨果博斯的夏季主力品类,属轻奢商务休闲针织。以珠地棉制成,胸前绣有简洁的品牌字标,版型利落挺括,透气舒适。适合夏季通勤、商务休闲与高尔夫等场合,是职场男士打造轻松又不失体面造型的选择。作为商务休闲的代表性单品,BOSS Polo 衫以稳定品质与克制的品牌标识,成为男士夏季衣橱的常青款。",
+     "highlights": [
+      "珠地棉",
+      "刺绣字标",
+      "商务休闲"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "boss-accessories",
+     "name": "皮带皮具",
+     "nameEn": "Leather Accessories",
+     "type": "皮具",
+     "price": {
+      "min": 500,
+      "max": 2500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "皮带皮具是德国品牌 BOSS 雨果博斯的配饰品类,属轻奢男士皮具。涵盖皮带、钱包与公事包,以压纹 logo 与金属牌为标识,牛皮材质耐用,做工规整。适合职场日常与商务场合,是男士整体着装的实用搭配件,也是常见的商务礼物。作为品牌配饰线的主力,BOSS 皮具以务实的设计与亲民的高级感,成为职场男士配饰的稳妥之选。",
+     "highlights": [
+      "压纹 logo",
+      "牛皮",
+      "实用"
+     ],
+     "tags": [
+      "配饰"
+     ],
+     "image": null
+    },
+    {
+     "id": "boss-watch",
+     "name": "腕表",
+     "nameEn": "Watches",
+     "type": "腕表",
+     "price": {
+      "min": 1500,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "腕表是德国品牌 BOSS 雨果博斯授权生产的时尚腕表品类,属配饰型钟表。以三针简约款与商务钢带为主,部分款式点缀品牌标识,设计以干净利落见长,定位配饰型腕表。适合职场日常与商务场合搭配,是注重整体造型协调的男士的选择。作为时尚腕表的代表之一,BOSS 腕表以服装品牌的美学延伸入手表设计,在轻奢配饰表市场拥有稳定受众。",
+     "highlights": [
+      "时尚腕表",
+      "简约三针",
+      "商务风"
+     ],
+     "tags": [
+      "腕表"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "lacoste",
+   "name": "拉科斯特",
+   "nameEn": "Lacoste",
+   "domain": "lacoste.com",
+   "categoryId": "fashion",
+   "country": "法国",
+   "founded": 1933,
+   "hq": "巴黎",
+   "tier": "大众",
+   "sub": "成衣",
+   "tags": [
+    "鳄鱼标",
+    "Polo 衫",
+    "法式",
+    "运动休闲"
+   ],
+   "slogan": "",
+   "desc": "法国运动时尚品牌,以绿色鳄鱼标志与 L.12.12 网眼 Polo 衫闻名,由网球传奇雷内·拉科斯特创立,是运动休闲风格的百年开创者。",
+   "story": "网坛传奇雷内·拉科斯特因赛场上的拼搏精神得名「鳄鱼」,1933 年与针织商安德烈·吉耶合作,将透气网眼针织衫引入球场,取代传统长袖衬衫,绿色鳄鱼被视为最早绣于衣服外侧的品牌标志之一。\n此后品牌从球场走向街头,陆续扩展 T 恤、运动鞋与香水品类,Polo 衫至今仍是全球衣橱的经典;如今品牌以法式优雅与运动基因结合,在全球拥有广泛的年轻拥趸。",
+   "products": [
+    {
+     "id": "lacoste-l1212",
+     "name": "L.12.12 经典 Polo 衫",
+     "nameEn": "L.12.12 Polo",
+     "type": "Polo 衫",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "法国拉科斯特的品牌之魂,属经典 Polo 衫类型。编号 L.12.12 中的 12 代表历经 12 个打样版本才定稿,采用透气小网眼棉布与珍珠母贝纽扣,工艺考究。适合日常通勤、休闲度假及偏商务休闲的男士穿着。作为 Polo 衫的鼻祖级单品,它是现代 Polo 衫的源头,也是法国优雅运动风格的象征。",
+     "highlights": [
+      "网眼棉布",
+      "母贝纽扣",
+      "Polo 鼻祖"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "lacoste-slimpolo",
+     "name": "修身版 Polo 衫",
+     "nameEn": "Slim Fit Polo",
+     "type": "Polo 衫",
+     "price": {
+      "min": 500,
+      "max": 1200,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "拉科斯特旗下修身版 Polo 衫,属大众成衣定位的经典品类。在经典版型基础上收窄腰身与袖口,剪裁更贴合身形,颜色选择丰富,整体风格利落干练。适合偏瘦身形或喜欢利落感的年轻通勤与休闲人群。作为经典 Polo 的现代演绎,它延续了品牌网眼棉工艺传统,是衣橱中兼顾正式感与舒适度的百搭单品。",
+     "highlights": [
+      "修身剪裁",
+      "多色可选",
+      "利落"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "lacoste-carnaby",
+     "name": "Carnaby 运动鞋",
+     "nameEn": "Carnaby Sneaker",
+     "type": "运动鞋",
+     "price": {
+      "min": 600,
+      "max": 1300,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "拉科斯特最畅销的休闲运动鞋,属复古板鞋类型。以简洁的皮革鞋身搭配标志性鳄鱼小标点缀,线条干净、复古百搭,男女同款设计。适合日常通勤、出行与轻休闲场景,是全家都能穿的入门鞋款。作为品牌鞋履线的销量支柱,它承载了法式运动休闲的经典形象,是品牌从 Polo 衫延伸至生活方式的代表。",
+     "highlights": [
+      "皮革鞋身",
+      "复古百搭",
+      "男女同款"
+     ],
+     "tags": [
+      "鞋履"
+     ],
+     "image": null
+    },
+    {
+     "id": "lacoste-tshirt",
+     "name": "圆领 T 恤",
+     "nameEn": "T-Shirt",
+     "type": "T 恤",
+     "price": {
+      "min": 300,
+      "max": 700,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "拉科斯特的圆领 T 恤,属大众定位的基础成衣。以纯棉平纹布制成,版型常规,颜色齐全,胸前小鳄鱼刺绣低调点缀,工艺简洁耐穿。适合作为日常打底或单穿,是入门品牌与四季穿搭的基础款。凭借这一枚小鳄鱼刺绣,它延续了品牌自 1933 年以来的运动优雅基因,是最能轻松入手法式经典的选择。",
+     "highlights": [
+      "小鳄鱼刺绣",
+      "纯棉",
+      "基础款"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "lacoste-l1212parfum",
+     "name": "L.12.12 香水",
+     "nameEn": "L.12.12 Parfums",
+     "type": "香水",
+     "price": {
+      "min": 300,
+      "max": 800,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "拉科斯特以标志性 Polo 衫命名的香氛系列,属大众定位的香水线。涵盖纯白、纯黑等多个版本,以清新木质调与芳香调为主,价格亲民,瓶身设计呼应 Polo 衫的视觉语言。适合日常通勤、学生与年轻上班族使用,也适合作为入门香或礼品。作为与 L.12.12 Polo 同名的系列,它是品牌从服饰延伸至生活方式的代表,延续法式运动风格。",
+     "highlights": [
+      "Polo 同名",
+      "清新木质",
+      "多版本"
+     ],
+     "tags": [
+      "美妆"
+     ],
+     "image": null
+    },
+    {
+     "id": "lacoste-knit",
+     "name": "针织开衫",
+     "nameEn": "Knit Cardigan",
+     "type": "开衫",
+     "price": {
+      "min": 600,
+      "max": 1600,
+      "currency": "CNY",
+      "label": "官网参考价"
+     },
+     "desc": "拉科斯特的针织开衫,属大众定位的休闲成衣。以棉质或羊毛混纺纱线织成,门襟常以品牌色块条纹点缀,学院气质浓厚,做工延续品牌针织传统。适合秋季通勤、校园与休闲场景,男女皆宜,是衣橱中的百搭单品。它承袭了法式学院与网球运动的文化渊源,是品牌展现优雅运动风格的重要品类。",
+     "highlights": [
+      "色块条纹",
+      "学院风",
+      "百搭"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "jnby",
+   "name": "江南布衣",
+   "nameEn": "JNBY",
+   "domain": "jnby.com",
+   "categoryId": "fashion",
+   "country": "中国",
+   "founded": 1994,
+   "hq": "杭州",
+   "tier": "大众",
+   "sub": "设计师",
+   "tags": [
+    "设计感",
+    "面料实验",
+    "松弛感",
+    "国货设计"
+   ],
+   "slogan": "Just Naturally Be Yourself",
+   "desc": "中国设计师女装品牌,以面料实验与松弛感廓形著称,主张自然做自己,隶属江南布衣集团,是国内设计感女装的头部代表。",
+   "story": "1994 年,设计师李琳在杭州创立 JNBY,以天然面料与随性廓形切入女装市场,逐渐成为国内设计感女装的标杆。\n2016 年,母公司江南布衣集团在香港上市,旗下拥有速写、jnby by JNBY、LESS 等多品牌矩阵;品牌坚持「Just Naturally Be Yourself」的理念,以面料肌理与实验性剪裁,持续吸引独立审美的都市女性。",
+   "products": [
+    {
+     "id": "jnby-dress",
+     "name": "设计师连衣裙",
+     "nameEn": "Designer Dress",
+     "type": "连衣裙",
+     "price": {
+      "min": 900,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "中国设计师品牌江南布衣的核心品类,属设计师风格的连衣裙。以不对称剪裁、褶皱与垂坠面料著称,版型松弛包容多种身形,设计语言克制而独特,注重面料与廓形而非繁复装饰。适合追求自然、文艺气质的都市女性,覆盖通勤与日常休闲场景。作为品牌最核心的品类,它代表了国内原创设计师服装的代表性审美。",
+     "highlights": [
+      "不对称剪裁",
+      "垂坠面料",
+      "松弛版型"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "jnby-coat",
+     "name": "廓形外套",
+     "nameEn": "Oversized Coat",
+     "type": "外套",
+     "price": {
+      "min": 1500,
+      "max": 4500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "江南布衣的廓形外套,属设计师风格秋冬品类。以落肩加长廓形与面料肌理为特色,常见棉麻与羊毛混纺材质,兼顾保暖与造型感,强调自然松弛的穿着状态。适合秋冬通勤、出行与日常穿搭,受追求独特设计感的都市女性青睐。作为秋冬陈列的主角,它是品牌面料实验与廓形设计能力的集中体现。",
+     "highlights": [
+      "落肩廓形",
+      "棉麻羊毛",
+      "造型感"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "jnby-knit",
+     "name": "针织衫",
+     "nameEn": "Knitwear",
+     "type": "针织衫",
+     "price": {
+      "min": 700,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "江南布衣的针织衫,属设计师风格的秋冬高频单品。以羊毛、马海毛等混纺纱线织成,常以镂空与不规则纹理呈现肌理感,版型宽松,穿着松弛自然。适合秋冬通勤、居家与休闲叠搭,受注重面料质感与设计细节的女性喜爱。作为品牌秋冬代表性品类,它延续了品牌以面料肌理表达设计语言的特色。",
+     "highlights": [
+      "混纺纱线",
+      "镂空肌理",
+      "宽松"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    },
+    {
+     "id": "jnby-shirt",
+     "name": "设计感衬衫",
+     "nameEn": "Shirt",
+     "type": "衬衫",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "江南布衣的设计感衬衫,属设计师风格春夏畅销款。在基础衬衫版型上加入不对称门襟、抽褶与拼料细节,以棉麻面料居多,兼顾质感与透气性,通勤与休闲皆宜。适合日常上班、旅行与文艺休闲场景,受偏爱松弛感穿搭的女性欢迎。作为品牌春夏代表品类,它体现了江南布衣将日常基础款做出设计语言的能力。",
+     "highlights": [
+      "不对称门襟",
+      "抽褶",
+      "棉麻"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "jnby-pants",
+     "name": "阔腿裤装",
+     "nameEn": "Wide-Leg Pants",
+     "type": "裤装",
+     "price": {
+      "min": 700,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "江南布衣的阔腿裤装,属设计师风格的核心下装。以垂感面料与高腰阔腿版型为主,修饰腿型,穿着舒适,与品牌外套、上衣搭配度高,是整体造型中实用度最高的单品之一。适合通勤、约会与日常休闲,受追求舒适与造型兼顾的都市女性青睐。它延续了品牌松弛包容的版型哲学,是搭建品牌风格衣橱的实用之选。",
+     "highlights": [
+      "垂感面料",
+      "高腰阔腿",
+      "高搭配度"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "dazzle",
+   "name": "地素",
+   "nameEn": "DAZZLE",
+   "domain": "dazzle-fashion.com",
+   "categoryId": "fashion",
+   "country": "中国",
+   "founded": 2002,
+   "hq": "上海",
+   "tier": "大众",
+   "sub": "成衣",
+   "tags": [
+    "都市",
+    "摩登",
+    "国货女装",
+    "商场系"
+   ],
+   "slogan": "",
+   "desc": "中国时尚女装品牌,以都市感设计与精良版型著称,隶属地素时尚集团,与 DIAMOND DAZZLE、d'zzit 等品牌共同覆盖多元女性客群。",
+   "story": "地素时尚 2002 年创立于上海,同名品牌 DAZZLE 以摩登都市风格切入中高端女装市场,设计融合流行元素与实穿版型。\n2018 年,母公司地素时尚在上海证券交易所上市,陆续推出高端线 DIAMOND DAZZLE、年轻线 d'zzit 与那英合作线 NA BY DAZZLE,形成多品牌矩阵;DAZZLE 以快速的款型更新与商场专柜网络,成为国内主流商场女装的常青品牌。",
+   "products": [
+    {
+     "id": "dz-dress",
+     "name": "摩登连衣裙",
+     "nameEn": "Modern Dress",
+     "type": "连衣裙",
+     "price": {
+      "min": 1000,
+      "max": 3500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "中国品牌地素 DAZZLE 的摩登连衣裙,属大众成衣定位的核心品类。以收腰剪裁与流行色面料为主,印花与纯色版本交替上新,兼顾约会与通勤场景,剪裁强调女性曲线与都市感。适合 25 岁以上的时尚女性,覆盖上班、聚会与日常场合。作为品牌销售占比最高的品类之一,它代表了本土都市女装的摩登形象。",
+     "highlights": [
+      "收腰剪裁",
+      "流行色",
+      "高销售占比"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "dz-coat",
+     "name": "都市大衣",
+     "nameEn": "Urban Coat",
+     "type": "大衣",
+     "price": {
+      "min": 2000,
+      "max": 5000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "地素 DAZZLE 的都市大衣,属品牌秋冬的引流主力品类。以羊毛混纺面料制成,廓形利落,常见燕麦色与黑白色系,便于搭配各类内搭,兼顾保暖与都市气质。适合通勤、商务与秋冬日常,受追求利落高级感的职场女性青睐。作为品牌秋冬关键单品,它承载了地素摩登、精致的都市女装定位。",
+     "highlights": [
+      "羊毛混纺",
+      "利落廓形",
+      "秋冬主力"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "dz-hoodie",
+     "name": "卫衣 T 恤",
+     "nameEn": "Hoodies & Tees",
+     "type": "卫衣",
+     "price": {
+      "min": 600,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "地素 DAZZLE 的卫衣 T 恤系列,属品牌年轻化的高频上新品类。以字母印花、刺绣与潮流图案为特色,棉质面料厚实,版型偏宽松,兼顾舒适与造型感。适合年轻客群的日常休闲、出街与叠搭穿搭,是新品更迭最快的选择之一。作为品牌触达年轻消费群的窗口,它平衡了都市女装的时尚感与街头活力。",
+     "highlights": [
+      "字母印花",
+      "宽松版型",
+      "高频上新"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "dz-knit",
+     "name": "针织衫",
+     "nameEn": "Knitwear",
+     "type": "针织衫",
+     "price": {
+      "min": 700,
+      "max": 1800,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "地素 DAZZLE 的针织衫,属专柜秋冬稳定畅销款。以羊毛与粘胶混纺纱线织成,常以亮丝与渐变色彩增加精致感,单穿叠穿皆宜,兼具保暖与光泽质感。适合通勤、约会与秋冬聚会场景,受追求细节精致感的都市女性青睐。作为品牌秋冬的常青品类,它体现了地素以材质与色彩营造摩登氛围的能力。",
+     "highlights": [
+      "亮丝点缀",
+      "渐变色",
+      "稳定畅销"
+     ],
+     "tags": [
+      "针织"
+     ],
+     "image": null
+    },
+    {
+     "id": "dz-denim",
+     "name": "牛仔裤装",
+     "nameEn": "Denim",
+     "type": "裤装",
+     "price": {
+      "min": 800,
+      "max": 2000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "地素 DAZZLE 的牛仔裤装,属品牌日常搭配的下装主力。以直筒与阔腿版型为主,水洗工艺与破洞设计跟随当季流行,弹力面料兼顾舒适度与修身效果。适合通勤、休闲与出街场景,受需要百搭下装的都市女性青睐。作为品牌受众最广的品类之一,它把流行趋势转化为实穿的日常单品。",
+     "highlights": [
+      "水洗工艺",
+      "弹力面料",
+      "流行版型"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "cabbeen",
+   "name": "卡宾",
+   "nameEn": "CABBEEN",
+   "domain": "cabbeen.com",
+   "categoryId": "fashion",
+   "country": "中国",
+   "founded": 1997,
+   "hq": "广州",
+   "tier": "大众",
+   "sub": "设计师",
+   "tags": [
+    "潮流男装",
+    "设计师",
+    "颠覆",
+    "国货"
+   ],
+   "slogan": "颠覆流行",
+   "desc": "中国设计师男装品牌,由设计师杨紫明(卡宾先生)创立,以「颠覆流行」的潮流男装著称,是国内较早登上纽约时装周的男装品牌。",
+   "story": "1997 年,设计师杨紫明以「卡宾先生」之名在广州创立品牌,以修身剪裁与街头设计打破国内男装的传统版型,提出「颠覆流行」的品牌主张。\n2007 年,品牌登上纽约时装周,成为较早走向国际舞台的中国男装;2013 年,卡宾服饰在香港上市,旗下延伸出多个副线与系列,如今以设计师联名与潮流系列持续吸引年轻男性客群。",
+   "products": [
+    {
+     "id": "cb-jacket",
+     "name": "设计师夹克",
+     "nameEn": "Designer Jacket",
+     "type": "夹克",
+     "price": {
+      "min": 1000,
+      "max": 3000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "中国设计师品牌卡宾 CABBEEN 的代表性品类,属设计师风格夹克。以刺绣、拼接与国风元素为特色,版型修身利落,兼具中国审美与街头语言,细节工艺突出。适合追求个性表达的年轻男性,覆盖日常出街、聚会与轻潮流场景。作为品牌最具代表性的品类,它承载了卡宾将东方元素融入现代男装的设计路线。",
+     "highlights": [
+      "刺绣拼接",
+      "修身版型",
+      "品牌代表"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    },
+    {
+     "id": "cb-hoodie",
+     "name": "潮流卫衣",
+     "nameEn": "Hoodie",
+     "type": "卫衣",
+     "price": {
+      "min": 500,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "卡宾 CABBEEN 的潮流卫衣,属品牌面向年轻客群的高频单品。以品牌字标与涂鸦印花为特色,加绒与薄款覆盖不同季节,版型宽松舒适,易于叠搭。适合学生与年轻上班族的日常出街、校园与休闲场景。作为品牌潮流语言的载体,它延续了卡宾街头文化与设计师态度结合的品牌基因。",
+     "highlights": [
+      "字标印花",
+      "宽松舒适",
+      "高频上新"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cb-tee",
+     "name": "潮流 T 恤",
+     "nameEn": "T-Shirt",
+     "type": "T 恤",
+     "price": {
+      "min": 300,
+      "max": 900,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "卡宾 CABBEEN 的潮流 T 恤,属门店客流的基础款。以街头图案与创意印花为主,采用纯棉面料,价格亲民,常与夹克形成套装陈列,便于成套穿搭。适合年轻男性日常单穿或内搭,覆盖出街、休闲等高频场景。作为品牌设计语言最平价的入口,它让街头创意印花成为大众可及的日常穿着。",
+     "highlights": [
+      "创意印花",
+      "纯棉",
+      "基础款"
+     ],
+     "tags": [
+      "服装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cb-pants",
+     "name": "休闲裤装",
+     "nameEn": "Casual Pants",
+     "type": "裤装",
+     "price": {
+      "min": 600,
+      "max": 1500,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "卡宾 CABBEEN 的休闲裤装,属整体穿搭中实用度最高的品类。以修身锥形与工装版型为主,弹力面料保证活动度,细节处点缀品牌元素,兼顾利落与舒适。适合年轻男性通勤、出街与休闲场景,可与品牌夹克、T 恤轻松成套。作为品牌风格的收尾单品,它以版型支撑起整体街头与设计师气质。",
+     "highlights": [
+      "修身锥形",
+      "弹力面料",
+      "高实用度"
+     ],
+     "tags": [
+      "裤装"
+     ],
+     "image": null
+    },
+    {
+     "id": "cb-coat",
+     "name": "潮流大衣",
+     "nameEn": "Trend Coat",
+     "type": "大衣",
+     "price": {
+      "min": 1500,
+      "max": 4000,
+      "currency": "CNY",
+      "label": "专柜参考价"
+     },
+     "desc": "卡宾 CABBEEN 的潮流大衣,属品牌秋冬主打品类。以羊毛混纺与新型面料结合,廓形偏宽,融入国风盘扣或徽章刺绣,设计感与保暖并重,细节辨识度高。适合秋冬通勤与出街,受喜欢设计感与东方元素结合的年轻男性青睐。作为品牌秋冬的门面单品,它延续了卡宾国风与街头语言交织的设计特色。",
+     "highlights": [
+      "国风细节",
+      "宽廓形",
+      "保暖"
+     ],
+     "tags": [
+      "外套"
+     ],
+     "image": null
+    }
+   ]
+  }
+ ]
 }
